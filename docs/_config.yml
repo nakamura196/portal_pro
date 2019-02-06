@@ -1,0 +1,24 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely edit after that. If you find
+# yourself editing this file very often, consider using Jekyll's data files
+# feature for the data you need to update frequently.
+#
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
+title: 電子展示『捃拾帖』
+email: digital-archive@lib.u-tokyo.ac.jp
+description: >- # this means to ignore newlines until "baseurl:"
+  東京大学総合図書館所蔵の田中芳男文庫『捃拾帖』を中心とした電子展示サイトです。1～15帖の貼り込み資料単位の検索ができるほか、多様な関連データを活用し、様々な展示方法やデータ公開について試行的に取り組んでいます。
+url: "https://kunshujo.dl.itc.u-tokyo.ac.jp" # the base hostname & protocol for your site, e.g. https://kunshujo.dl.itc.u-tokyo.ac.jp
+github_username:  utda
+image: https://iiif.dl.itc.u-tokyo.ac.jp/iiif/kunshujou/A00_6010/092/092_0141.tif/1139,1721,3003,1791/,300/0/default.jpg
+
+google_analytics: UA-131942263-1

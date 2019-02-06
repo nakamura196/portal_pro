@@ -1,0 +1,312 @@
+---
+layout: default
+title: 地図で見る
+---
+
+
+
+<div class="container py-2 my-5">
+
+  <h3 class="mb-5">地図で見る</h3>
+
+  <div class="text-center" id="loading">
+    <img src="assets/images/loading.gif" class="img-fluid"/>
+  </div>
+
+  <div id="mapid" style="width: 100%; height: 600px;"></div>
+
+</div>
+
+<link rel="stylesheet" href="assets/thirdparty/Leaflet.awesome-numbered-marker/src/leaflet_awesome_number_markers.css" />
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.3.1/dist/leaflet.css" integrity="sha512-Rksm5RenBEKSKFjgI3a41vrjkw4EVPlJ3+OiI65vTjIdo9brlAacEuKOiQ5OFh7cOI1bkDwLqdLw3Zg0cRJAAQ==" crossorigin=""/>
+<script src="https://unpkg.com/leaflet@1.3.1/dist/leaflet.js" integrity="sha512-/Nsx9X4HebavoBvEBuyp3I7od5tA0UzAxs+j83KgC8PU0kgB4XiK4Lfe4y4cgBtaRJQEIFCW+oC506aPT2L1zw==" crossorigin=""></script>
+
+<link rel="stylesheet" href="https://leaflet.github.io/Leaflet.markercluster/dist/MarkerCluster.css" />
+<link rel="stylesheet" href="https://leaflet.github.io/Leaflet.markercluster/dist/MarkerCluster.Default.css" />
+<script src="https://leaflet.github.io/Leaflet.markercluster/dist/leaflet.markercluster-src.js"></script>
+<script src="https://leaflet.github.io/Leaflet.markercluster/example/realworld.388.js"></script>
+
+<script src="assets/thirdparty/Leaflet.awesome-numbered-marker/src/leaflet_awesome_number_markers.js"></script>
+
+<script>
+
+  var dcterms = "http://purl.org/dc/terms/"
+
+  jQuery(document).ready(function() {
+
+    jQuery.ajaxSetup({
+      cache : true
+    });
+    
+    $.ajax({
+      url:'data/data.json'
+    })
+    .then(
+    // 1つめは通信成功時のコールバック
+    function (result) {
+
+
+
+      var locations = {}
+
+      for (var i = 0; i < result.length; i++) {
+
+        var obj = result[i];
+
+        if(obj[dcterms+"spatial"]){
+          var tmp = obj[dcterms+"spatial"]
+          for(var j = 0; j < tmp.length; j++){
+            var locationUri = tmp[j]["@id"]
+            if(!locations[locationUri]){
+              locations[locationUri] = 0
+            }
+            locations[locationUri] = locations[locationUri] + 1
+          }
+
+
+        }
+
+      }
+
+      displayMap(locations)
+
+
+
+    },
+    // 2つめは通信失敗時のコールバック
+    function () {
+      alert(data.statusText);
+    }
+    ).always(function() {
+      $("#loading").empty()
+    });
+
+  });
+
+  function get_dbpedia_info2(id, locationUri){
+    var query = "";
+    query += " SELECT DISTINCT * ";
+    query += " WHERE { ";
+    query += " ?s <http://www.w3.org/2002/07/owl#sameAs> <" + locationUri + "> . ";
+    query += " ?s rdfs:comment ?comment . ";
+    query += " filter(LANG(?comment) = 'ja') ";
+    query += " } ";
+
+    $.ajax({
+      url:"https://dbpedia.org/sparql",
+      type:'POST',
+      data:{
+        query : query,
+        format : "json"
+      }
+    })
+    .then(
+    // 1つめは通信成功時のコールバック
+    function (data) {
+      var result = data.results.bindings;
+
+      if(result.length > 0){
+        var obj = result[0]
+
+        $("#p_"+id).append(obj.comment.value)
+      }
+    },
+    // 2つめは通信失敗時のコールバック
+    function () {
+      alert(data.statusText);
+    }
+    ).always(function() {
+      $("#loading").empty()
+    });
+
+  }
+
+  function get_dbpedia_info(locationUri){
+
+    if(locationUri == "http://ja.dbpedia.org/resource/陸奥国"){
+      locationUri = "http://ja.dbpedia.org/resource/陸奥国_(1869-)"
+    }
+
+    var query = "PREFIX dbo: <http://dbpedia.org/ontology/> ";
+    query += " SELECT DISTINCT * ";
+    query += " WHERE { ";
+    query += " ?s <http://www.w3.org/2002/07/owl#sameAs> <" + locationUri + "> . ";
+    query += " ?s rdfs:comment ?comment . ";
+    //query += " filter(LANG(?comment) = 'ja' || LANG(?comment) = 'en') ";
+    query += " filter(LANG(?comment) = 'ja') ";
+    query += " ?s rdfs:label ?label . ";
+    query += " filter(LANG(?label) = 'ja') ";
+    query += " optional {?s dbo:thumbnail ?thumb . } ";
+    query += " } ";
+
+    $.ajax({
+      url:"https://dbpedia.org/sparql",
+      type:'POST',
+      data:{
+        query : query,
+        format : "json"
+      }
+    })
+    .then(
+    // 1つめは通信成功時のコールバック
+    function (data) {
+      var result = data.results.bindings;
+
+      if(result.length > 0){
+        var obj = result[0]
+
+        var info = $("#info");
+        info.append($("<hr/>"));
+
+        var media = $('<div class="media">');
+          info.append(media);
+
+          if(obj.thumb){
+            var img = $('<img class="mr-3" alt="Generic placeholder image">')
+            media.append(img)
+            img.attr("src", obj.thumb.value)
+            img.attr("width", "64px")
+          }
+
+          var body = $('<div class="media-body">');
+            media.append(body)
+
+            body.append(obj.comment.value)
+            body.append(" ")
+
+            var a = $("<a>");
+              body.append(a)
+              a.attr("href", "https://ja.wikipedia.org/wiki/"+obj.label.value)
+              a.attr("target", "wiki")
+              a.append("ウィキペディア")
+            }
+          },
+          // 2つめは通信失敗時のコールバック
+          function () {
+            alert(data.statusText);
+          }
+          ).always(function() {
+            $("#loading").empty()
+          });
+
+        }
+
+        function displayMap(locations){
+          var mymap = L.map('mapid').setView([51.505, -0.09], 2);
+
+          L.tileLayer('https://api.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token=pk.eyJ1IjoibWFwYm94IiwiYSI6ImNpejY4NXVycTA2emYycXBndHRqcmZ3N3gifQ.rJcFIG214AriISLbB6B5aw', {
+            maxZoom: 10,
+            attribution: 'Map data &copy; <a href="http://openstreetmap.org">OpenStreetMap</a> contributors, ' +
+            '<a href="http://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, ' +
+            'Imagery © <a href="http://mapbox.com">Mapbox</a>',
+            id: 'mapbox.streets'
+          }).addTo(mymap);
+
+          $.ajax({
+            url:'data/map.json'
+          })
+          .then(
+          // 1つめは通信成功時のコールバック
+          function (result) {
+
+            //var result = data.results.bindings;
+
+            var markers = L.markerClusterGroup({
+              iconCreateFunction: function(cluster) {
+                var children = cluster.getAllChildMarkers();
+                var sum = 0;
+                for (var i = 0; i < children.length; i++) {
+                  sum += children[i].number;
+                }
+                return new L.AwesomeNumberMarkers({number: sum });
+              }
+            });
+
+            var items = new Array();
+
+            var mlat = 0;
+            var mlong = 0;
+
+            var set = new Array()
+
+            for (var i = 0; i < result.length; i++) {
+              var obj = result[i];
+
+              var location = obj["@id"]
+
+              if(locations[location]){
+                var n = locations[location]
+
+                //var title = obj.label.value
+                var title = obj["http://www.w3.org/2000/01/rdf-schema#label"][0]["@value"]
+                var lat = obj["http://www.w3.org/2003/01/geo/wgs84_pos#lat"][0]["@value"]
+                var long = obj["http://www.w3.org/2003/01/geo/wgs84_pos#long"][0]["@value"]
+
+                var marker = L.marker(new L.LatLng(lat, long), { title: title, icon:   new L.AwesomeNumberMarkers({number: n}) });
+                marker.number = n
+
+                mlat += Number(lat);
+                mlong += Number(long);
+
+                var thumb = "";
+                if(obj.thumb){
+                  thumb = obj.thumb.value
+                }
+
+                url = location;
+
+                if(set.indexOf(url) == -1){
+
+                  var contents = '<div style="width : 180px">'
+
+                    contents += '</div>';
+
+                    var link = "table.html?property=http://purl.org/dc/terms/spatial&value="+location+"&type=uri"
+
+                    var contents = '<div><div class="media">';
+                      //contents += '<img class="mr-3" style="width : 64px" src="'+thumb+'" alt="Generic placeholder image">';
+                      contents += '<div class="media-body">';
+                        contents += '<h5 class="mt-0"><a href="#" onclick="get_dbpedia_info(\''+url+'\'); show_modal(\''+link+'\',\''+title+'\'); return false;">'+title+'</a></h5>';
+                        //contents += '<p id="p_'+i+'"></p>';
+                        contents += '</div>';
+                        contents += '</div></div>';
+
+                        marker.bindPopup(contents);
+                        markers.addLayer(marker);
+
+                        set.push(url)
+
+                      }
+                    }
+
+                  }
+
+                  mymap.addLayer(markers);
+
+                  var popup = L.popup();
+
+                  function onMapClick(e) {
+
+                    popup
+                    .setLatLng(e.latlng)
+                    .setContent("You clicked the map at " + e.latlng.toString())
+                    .openOn(mymap);
+                  }
+
+                  mymap.on('click', onMapClick);
+
+                  mymap.panTo(new L.LatLng(mlat / result.length, mlong / result.length));
+
+                },
+                // 2つめは通信失敗時のコールバック
+                function () {
+                  alert(data.statusText);
+                }
+                ).always(function() {
+                  $("#loading").empty()
+                });
+
+
+              }
+
+            </script>

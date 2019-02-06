@@ -1,0 +1,67 @@
+table.table a {
+  margin: 0;
+  color: #007bff !important;
+}
+
+.view,body,html{height:100%}.carousel{height:50%}.carousel .carousel-inner,.carousel .carousel-inner .active,.carousel .carousel-inner .carousel-item{height:100%}
+
+.navbar {
+  background-color: rgba(0, 0, 0, .2)
+}
+
+.page-footer, .top-nav-collapse {
+  background-color: #1C2331
+}
+
+@media only screen and (max-width:768px) {
+  .navbar {
+    background-color: #1C2331
+  }
+}
+
+/* alternating column backgrounds */
+.vis-time-axis .vis-grid.vis-odd {
+  background: #f5f5f5;
+}
+
+/* gray background in weekends, white text color */
+.vis-time-axis .vis-grid.vis-saturday, .vis-time-axis .vis-grid.vis-sunday
+{
+  background: gray;
+}
+
+.vis-time-axis .vis-text.vis-saturday, .vis-time-axis .vis-text.vis-sunday
+{
+  color: white;
+}
+
+.pagetop {
+  display: none;
+  position: fixed;
+  bottom: 30px;
+  right: 15px;
+}
+.pagetop a {
+  display: block;
+  background-color: #ccc;
+  text-align: center;
+  color: #222;
+  font-size: 12px;
+  text-decoration: none;
+  padding: 5px 10px;
+  filter:alpha(opacity=50);
+  -moz-opacity: 0.5;
+  opacity: 0.5;
+}
+.pagetop a:hover {
+  display: block;
+  background-color: #b2d1fb;
+  text-align: center;
+  color: #fff;
+  font-size: 12px;
+  text-decoration: none;
+  padding:5px 10px;
+  filter:alpha(opacity=50);
+  -moz-opacity: 0.5;
+  opacity: 0.5;
+}
