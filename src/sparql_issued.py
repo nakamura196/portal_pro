@@ -24,7 +24,7 @@ map = {}
 for row in results:
 
     year = str(row[1]).split("/")[-1].split("-")[0]
-    if len(year) == 4 and int(year) < 2000:
+    if len(year) == 4 and int(year) < 2000 and int(year) > 0:
 
         digitizedPublisher = str(row[0])
 

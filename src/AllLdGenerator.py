@@ -5,10 +5,12 @@ import argparse
 import urllib.request
 from rdflib import URIRef, BNode, Literal, Graph
 
-api_url = "http://localhost:10080/portal/ja/search?kywd=%E4%B8%AD%E6%9D%91&collection=All&title=&author=&publisher=&doi=&sort_by=search_api_relevance&_format=json&page="
+# api_url = "http://localhost:10080/portal/ja/search?kywd=%E4%B8%AD%E6%9D%91&collection=All&title=&author=&publisher=&doi=&sort_by=search_api_relevance&_format=json&page="
 
-output_path = "data.json"
+api_url = "http://localhost:10080/portal/ja/search?_format=json&page="
 
+output_path = "data_all.json"
+a
 collection = []
 
 loop_flg = True
@@ -31,15 +33,17 @@ while loop_flg:
         for i in range(len(data)):
             url_i = data[i]["id"].replace("jaassets", "ja/assets")
 
-
             try:
                 request_i = urllib.request.Request(url_i)
-                response_i = urllib.request.urlopen(request_i)
+                try:
+                    response_i = urllib.request.urlopen(request_i)
 
-                response_body_i = response_i.read().decode("utf-8")
-                data_i = json.loads(response_body_i)
+                    response_body_i = response_i.read().decode("utf-8")
+                    data_i = json.loads(response_body_i)
 
-                collection.append(data_i)
+                    collection.append(data_i)
+                except:
+                    print(url_i)
             except:
                 print(url_i)
 

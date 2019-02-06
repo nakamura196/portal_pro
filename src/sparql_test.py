@@ -1,5 +1,4 @@
-filename = "data/data.rdf" #replace with something interesting
-uri = "http://localhost:10080/portal/ja/assets/4bf51ed7-9458-496e-bf71-be7494617fa0?_format=json" #replace with something interesting
+filename = "data/data_all.rdf"
 
 import rdflib
 import rdfextras
