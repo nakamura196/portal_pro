@@ -13,7 +13,7 @@ function Snorql() {
     this._endpoint = "https://sparql.dl.itc.u-tokyo.ac.jp";/*document.location.href.match(/^([^?]*)snorql\//)[1] + 'sparql';*/
     // modify these to your likeing
     this._poweredByLink = 'https://da.dl.itc.u-tokyo.ac.jp/portal';
-    this._poweredByLabel = '東京大学学術資産等アーカイブズポータル';
+    this._poweredByLabel = '東京大学学術資産等アーカイブズポータル / UTokyo Academic Archives Portal';
     this._enableNamedGraphs = false;
 
     this._browserBase = null;
