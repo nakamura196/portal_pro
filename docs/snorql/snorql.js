@@ -12,8 +12,8 @@ function Snorql() {
     // modify this._endpoint to point to your SPARQL endpoint
     this._endpoint = "https://sparql.dl.itc.u-tokyo.ac.jp";/*document.location.href.match(/^([^?]*)snorql\//)[1] + 'sparql';*/
     // modify these to your likeing
-    this._poweredByLink = 'http://www.openlinksw.com/virtuoso/';
-    this._poweredByLabel = 'OpenLink Virtuoso';
+    this._poweredByLink = 'https://da.dl.itc.u-tokyo.ac.jp/portal';
+    this._poweredByLabel = '東京大学学術資産等アーカイブズポータル';
     this._enableNamedGraphs = false;
 
     this._browserBase = null;
