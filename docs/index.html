@@ -1,50 +1,91 @@
 ---
 layout: default
 ---
+<main role="main">
+  <section class="jumbotron text-center">
+    <div class="container">
+      <h1 class="jumbotron-heading">UTokyo Academic Archives Portal Apps</h1>
+      <p class="lead text-muted">&emsp;東京大学学術資産等アーカイブズポータル（アーカイブズポータル）が提供するAPIを用いた可視化例を紹介するサイトです。<br/>&emsp;アーカイブズポータルのAPIに関する説明は<a href="https://da.dl.itc.u-tokyo.ac.jp/portal/help/api">こちら</a>をご確認ください。
+        <p> <a href="https://da.dl.itc.u-tokyo.ac.jp/sparql" class="btn btn-primary my-2">UTokyo Academic Archives Portal</a> <a href="https://sparql.dl.itc.u-tokyo.ac.jp" class="btn btn-secondary my-2">SPARQL Endpoint</a> <a href="snorql" class="btn btn-secondary my-2">Snorql</a> </p>
+      </div>
+    </section>
+    <div class="album py-5 bg-light">
+      <div class="container">
 
-<!--Main layout-->
-<div class="container mt-5">
 
-  <p>&emsp;このシステムは、東京大学学術資産等アーカイブズポータル（アーカイブズポータル）がAPIを通じて提供するデータを用いた可視化例を紹介するサイトです。</p>
 
-  <p>&emsp;アーカイブズポータルが提供するAPIの説明については、<a href="https://da.dl.itc.u-tokyo.ac.jp/portal/help/api">こちら</a>をご確認ください。
-
-  <!--Second row-->
-  <div class="row mt-5">
-
-    <div class="col-lg-4 mb-4">
-      <div class="card mb-r wow fadeIn" data-wow-delay="0.2s">
-        <div class="card-body text-center">
-          <h4 class="card-title">
-            年表で見る
-          </h4>
-          <a href="timeline" class="btn btn-primary btn-md">View</a>
+        <div class="row">
+          <div class="col-md-4">
+            <div class="card mb-4 shadow-sm"> <img class="bd-placeholder-img card-img-top" width="100%" height="240" src="assets/images/default.png" />
+              <div class="card-body">
+                <p class="card-text">Timeline search</p>
+                <div class="d-flex justify-content-between align-items-center">
+                  <div class="btn-group"> <a class="btn btn-sm btn-outline-secondary" href="timeline">View</a> </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-4">
+            <div class="card mb-4 shadow-sm"> <img class="bd-placeholder-img card-img-top" width="100%" height="240" src="assets/images/default.png" />
+              <div class="card-body">
+                <p class="card-text">棒グラフで見る</p>
+                <div class="d-flex justify-content-between align-items-center">
+                  <div class="btn-group"> <a class="btn btn-sm btn-outline-secondary" href="stats">View</a> </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-4">
+            <div class="card mb-4 shadow-sm"> <img class="bd-placeholder-img card-img-top" width="100%" height="240" src="assets/images/default.png" />
+              <div class="card-body">
+                <p class="card-text">Pack Hierarchyで見る</p>
+                <div class="d-flex justify-content-between align-items-center">
+                  <div class="btn-group"> <a class="btn btn-sm btn-outline-secondary" href="pack-hierarchy_2.html">View</a> </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-4">
+            <div class="card mb-4 shadow-sm"> <img class="bd-placeholder-img card-img-top" width="100%" height="240" src="assets/images/default.png" />
+              <div class="card-body">
+                <p class="card-text">データセット</p>
+                <div class="d-flex justify-content-between align-items-center">
+                  <div class="btn-group"> <a class="btn btn-sm btn-outline-secondary" href="#">View</a> </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-4">
+            <div class="card mb-4 shadow-sm"> <img class="bd-placeholder-img card-img-top" width="100%" height="240" src="assets/images/iiif.png" />
+              <div class="card-body">
+                <p class="card-text">IIIF Collection</p>
+                <div class="d-flex justify-content-between align-items-center">
+                  <div class="btn-group"> <a class="btn btn-sm btn-outline-secondary" href="https://nakamura196.github.io/portal_pro/data/collection.json">View</a> </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-4">
+            <div class="card mb-4 shadow-sm"> <img class="bd-placeholder-img card-img-top" width="100%" height="240" src="assets/images/iiif.png" />
+              <div class="card-body">
+                <p class="card-text">Attributions from IIIF Collection</p>
+                <div class="d-flex justify-content-between align-items-center">
+                  <div class="btn-group"> <a class="btn btn-sm btn-outline-secondary" href="common/collection?collection=https://nakamura196.github.io/portal_pro/data/collection.json">View</a> </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-4">
+            <div class="card mb-4 shadow-sm"> <img class="bd-placeholder-img card-img-top" width="100%" height="240" src="assets/images/iiif.png" />
+              <div class="card-body">
+                <p class="card-text">View IIIF Collection</p>
+                <div class="d-flex justify-content-between align-items-center">
+                  <div class="btn-group"> <a class="btn btn-sm btn-outline-secondary" href="common/javala/?collection=https://nakamura196.github.io/portal_pro/data/collection.json">Javala</a> <a class="btn btn-sm btn-outline-secondary" href="http://universalviewer.io/uv.html?manifest=https://nakamura196.github.io/portal_pro/data/collection.json">Universal Viewer</a> </div>
+                </div>
+              </div>
+            </div>
+          </div>
         </div>
       </div>
     </div>
-
-    <div class="col-lg-4 mb-4">
-      <div class="card mb-r wow fadeIn" data-wow-delay="0.2s">
-        <div class="card-body text-center">
-          <h4 class="card-title">
-            棒グラフで見る
-          </h4>
-          <a href="stats" class="btn btn-primary btn-md">View</a>
-        </div>
-      </div>
-    </div>
-
-    <div class="col-lg-4 mb-4">
-      <div class="card mb-r wow fadeIn" data-wow-delay="0.2s">
-        <div class="card-body text-center">
-          <h4 class="card-title">
-            Pack Hierarchyで見る
-          </h4>
-          <a href="pack-hierarchy_2.html" class="btn btn-primary btn-md">View</a>
-        </div>
-      </div>
-    </div>
-
-  </div>
-
-</div>
+  </main>

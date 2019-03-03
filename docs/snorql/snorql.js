@@ -18,7 +18,7 @@ function Snorql() {
 
     this._browserBase = null;
     this._namespaces = {};
-    this._graph = "http://localhost:8890/TEST/";
+    this._graph = "portal";
     this._xsltDOM = null;
 
     this.start = function() {
