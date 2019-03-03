@@ -1,0 +1,212 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>IIIF Collection</title>
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.0/css/solid.css" integrity="sha384-r/k8YTFqmlOaqRkZuSiE9trsrDXkh07mRaoGBMoDcmA58OHILZPsk29i2BsFng1B" crossorigin="anonymous">
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.0/css/fontawesome.css" integrity="sha384-4aon80D8rXCGx9ayDt85LbyUHeMWd3UiBaWliBlJ53yzm9hqN21A+o1pqoyK04h+" crossorigin="anonymous">
+  <link href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.0.0/css/bootstrap.min.css" rel="stylesheet">
+</head>
+<body>
+  <div class="py-5 bg-light">
+    <div class="container">
+      <h3 class="mb-5">IIIF Collection</h3>
+      <div id="main" class="my-5">
+      </div>
+      <div class="text-center" id="loading">
+        <img src="../assets/images/loading.gif" class="img-fluid"/>
+      </div>
+    </div>
+  </div>
+
+  <!--Footer-->
+  <footer class="page-footer text-center font-small mdb-color darken-2 mt-5 fadeIn">
+
+    <!--Copyright-->
+    <div class="footer-copyright py-5">
+      <p><a href="https://researchmap.jp/nakamura.satoru/?lang=english">Satoru Nakamura</a>. <a href="http://creativecommons.org/publicdomain/zero/1.0/">CC0</a>.</p>
+    </div>
+    <!--/.Copyright-->
+
+  </footer>
+  <!--/.Footer-->
+
+  <script
+  src="//code.jquery.com/jquery-3.3.1.min.js"
+  integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8="
+  crossorigin="anonymous"></script>
+
+  <script src="//maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"
+  integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl"
+  crossorigin="anonymous"></script>
+
+  <script src="//code.highcharts.com/highcharts.js"></script>
+
+  <script>
+
+    jQuery(document).ready(function() {
+
+      //パラメータの取得
+      var vars = getParam();
+      var url = vars["collection"] ? vars["collection"] : 'https://nakamura196.github.io/portal_pro/data/collection.json'
+
+      $.ajax({
+        url: url,
+        async : false
+      })
+      .then(
+      // 1つめは通信成功時のコールバック
+      function (result) {
+
+        collections = result["collections"]
+
+        var tmp = {}
+
+        for(var i = 0; i < collections.length; i++){
+          var collection = collections[i]
+
+          var label = collection["label"]
+
+          $.ajax({
+            url:collection["@id"],
+            async : false
+          })
+          .done(function(data){
+            tmp[label] = data["manifests"].length
+          })
+
+        }
+
+        var map = {}
+        map["Collection"] = tmp
+
+        count = 0
+        for(var v in map){
+
+          histgram = map[v]
+
+          count += 1
+
+          var card = $('<div class="card mb-5">')
+            $("#main").append(card)
+
+            var body = $('<div class="card-body">');
+              card.append(body)
+
+              body.append($("<div id='container_"+count+"'>"))
+
+                keysSorted = Object.keys(histgram).sort(function(a,b){return histgram[b]-histgram[a]})
+                keys = []
+                values = []
+
+                var max = keysSorted.length
+
+                var other = 0
+
+                if(max > 50){
+                  for(j = 0; j < max; j++){
+                    var c = histgram[keysSorted[j]]
+                    if(c > 10){
+                      keys.push(keysSorted[j])
+                      values.push(c)
+                    } else {
+                      other += c
+                    }
+                  }
+
+                  keys.push("その他")
+                  values.push(other)
+
+                } else {
+                  for(j = 0; j < max; j++){
+                    var c = histgram[keysSorted[j]]
+                    keys.push(keysSorted[j])
+                    values.push(c)
+                  }
+                }
+
+                Highcharts.chart('container_'+count, {
+                  chart: {
+                    type: 'bar'
+                  },
+                  title: {
+                    text: v
+                  },
+                  xAxis: {
+                    categories: keys,
+                    title: {
+                      text: null
+                    }
+                  },
+                  yAxis: {
+                    min: 0,
+                    title: {
+                      text: 'Number of items',
+                      align: 'high'
+                    },
+                    labels: {
+                      overflow: 'justify'
+                    }
+                  },
+                  tooltip: {
+                    valueSuffix: ' items'
+                  },
+                  plotOptions: {
+                    bar: {
+                      dataLabels: {
+                        enabled: true
+                      }
+                    },
+                    series: {
+                      cursor: 'pointer'
+                    }
+                  },
+                  legend: {
+                    layout: 'vertical',
+                    align: 'right',
+                    verticalAlign: 'top',
+                    x: -40,
+                    y: 80,
+                    floating: true,
+                    borderWidth: 1,
+                    backgroundColor: ((Highcharts.theme && Highcharts.theme.legendBackgroundColor) || '#FFFFFF'),
+                    shadow: true
+                  },
+                  credits: {
+                    enabled: false
+                  },
+                  series: [{
+                    name: 'Item',
+                    data: values
+                  }]
+                });
+              }
+
+
+            },
+            // 2つめは通信失敗時のコールバック
+            function () {
+              alert(data.statusText);
+            }
+            ).always(function() {
+              $("#loading").empty()
+            });
+
+          })
+
+          function getParam(){
+            var vars = {};
+            var param = location.search.substring(1).split('&');
+            for(var i = 0; i < param.length; i++) {
+              var keySearch = param[i].search(/=/);
+              var key = '';
+              if(keySearch != -1) key = param[i].slice(0, keySearch);
+              var val = param[i].slice(param[i].indexOf('=', 0) + 1);
+              if(key != '') vars[key] = decodeURI(val);
+            }
+            return vars;
+          }
+
+        </script>
+
+      </body>
+      </html>
