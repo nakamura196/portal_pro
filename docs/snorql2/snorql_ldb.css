@@ -1,0 +1,214 @@
+/** modification to Snorql style.css */
+body {
+	font-size: 100%;
+}
+#header {
+	padding: 0.5em;
+}
+#prefixestext {
+	color: #555;
+	margin: 0; 
+	height: 4.5em;
+	overflow-y: scroll;
+	resize: vertical;
+	padding: 0.1em 0.3em;
+}
+.section {
+	margin: 1em 2em 0;
+	padding: 0.9em 1.5em;
+}
+.busy:after {
+	content: url(spinner.gif);
+	vertical-align: -2px;
+}
+#querytext {
+	width: 100%;
+	height: 300px;
+	font-size: 100%;
+	padding: 0.1em 0.3em;
+}
+.queryresults {
+	border-collapse: collapse; margin-top: 0.3em; 
+	min-width: 66%;
+}
+.uri {
+	white-space: wrap;
+}
+#footer {
+	font-size: 85%;
+}
+
+/** increment */
+.incCtrl .wait {
+	color: silver;
+	text-decoration: none;
+	cursor: default
+}
+.incCtrl a {
+	display: none
+}
+.incCtrl a.active {
+	display: inline
+}
+.incCtrl select {
+	margin-left: 0.5em;
+}
+.ctrl0 {
+	margin: -0.2em 0 0.2em;
+}
+.ctrl1 {
+	margin: 0.3em 0 -0.5em;
+}
+
+.queryresults tbody.wait {
+	display: none
+}
+.queryresults.showall tbody.wait {
+	display: table-row-group;
+}
+.switcher,
+.pseudolink {
+	cursor: pointer;
+	color: blue;
+}
+.switcher {
+	display: inline-block;
+	float:right;
+}
+/** describer */
+table.describe {
+	width: 100%;
+	border: 1px solid #333;
+	margin-bottom: 1em;
+}
+div > table.describe {
+	background: white;
+}
+table.describe table.describe {
+	margin-bottom: 0;
+}
+table.describe, table.describe th, table.describe td {
+	border-collapse: collapse;
+}
+table.describe th, table.describe td {
+	border: 1px solid #ccc;
+	padding: 0.3em;
+	vertical-align: top;
+}
+table.describe caption {
+	text-align: left;
+}
+td table.describe caption {
+	font-size: 80%;
+	color: gray;
+}
+td table.describe caption:before {
+	content: "<";
+}
+td table.describe caption:after {
+	content: ">";
+}
+table.describe .subtext {
+	font-size: 90%;
+	color: #666;
+}
+.describe td.repeated {
+	display: none;
+}
+col.term {
+	width:22%;
+	background:#f7f7fc;
+}
+table.describe .type {
+	background: #fcfcfc66;
+}
+table.describe .agential {
+	background: #fffee98f;
+}
+table.describe .spatial {
+	background: #fcf6eac2;
+}
+table.describe .temporal {
+	background: #fff5ea82;
+}
+
+/* describer image */
+#ressection {
+	position: relative;
+	margin-top: 0.8em;
+}
+#ressection img.primimage {
+	position: absolute;
+	top: 0;
+	right: 0;
+	max-width: 200px;
+	max-height: 200px;
+	box-shadow: 2px 2px 8px rgba(0, 0, 0, 0.3);
+}
+#ressection img.primimage:hover {
+	cursor: zoom-in;
+}
+#ressection img.primimage:active {
+	max-width: 800px;
+	max-height: 800px;
+	z-index: 10;
+	cursor: default;
+}
+
+/* map */
+td.map {
+	position: relative;
+}
+td.map > div {
+	height: 140px;
+	width: 200px;
+	position: absolute !important;
+	right: 0;
+	top: 0;
+}
+
+
+/** easy sparql */
+#moreform {
+	background: #f2edf8;
+	margin: 0 2em 1em;
+	padding: 0.6em 1.5em;
+}
+#moreform input[type=text] {
+	width: 8em;
+}
+#moreform input[type=submit] {
+	height: 1.8em;
+	margin-left: 0.5em;
+}
+#moreform.ja span[lang=en],
+#moreform.en span[lang=ja] {
+	display: none;
+}
+input[name=who] {
+	background: #fff7d18f;
+}
+input[name=where] {
+	background: #f9edd68f;
+}
+input[name=when] {
+	background: #fdefef8f;
+}
+input[name=title] {
+	background: #f8f7f9a1;
+}
+input[name=text] {
+	background: #f8f7f9a1;
+}
+table.describe .ats td {
+	background: transparent;
+}
+table.describe .ats > tr > td:nth-child(2) {
+	background: #fefefe9c;
+}
+
+td img.thumb {
+	max-width: 150px;
+	max-height: 80px;
+}
+
