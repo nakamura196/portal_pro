@@ -18,7 +18,7 @@ function langtoggle(obj){
 Util = {
 	jps: {
 		endpoint: "https://sparql.dl.itc.u-tokyo.ac.jp",
-		snorql: "https://nakamura196.github.io/portal_pro/snorql2/",
+		snorql: "https://nakamura196.github.io/portal_pro/snorql/",
 		query: function(qstr){
 			return this.snorql + "?query=" + encodeURIComponent(qstr);
 		}
