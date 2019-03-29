@@ -1,0 +1,79 @@
+
+<!DOCTYPE html>
+<html itemscope="" itemid="" itemtype="http://schema.org/WebPage" xmlns="http://www.w3.org/1999/xhtml" lang="ja">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width" />
+  <title itemprop="name">Japan Searchキーワードの年別出現回数 - ジャパンサーチ keyword-item frequency by year</title>
+  <link rel="stylesheet" href="parts/kan01.css" />
+  <link rel="stylesheet" href="parts/common.css" />
+  <style>
+    #chartjs-tooltip {
+      background: white;
+      border: gray solid 1px;
+      border-radius: 3px;
+      box-shadow: 1px 1px 1px rgba(0,0,0,0.4);
+      position: absolute;
+      font-size: 80%;
+      padding: 1em;
+    }
+    div.ready {display:none}
+    canvas.ready {
+      border: gray 1px dotted;
+      margin: 1em 0;
+      width: 80%;
+      height: 150px;
+    }
+    canvas.loading {
+      background: url(qui/transp-spinner-light.gif) center center no-repeat;
+    }
+    figure a img {
+      width:500px;
+    }
+    #freqform select, #freqform button {
+      float: right;
+      height: 1.75em;
+      margin-left: 0.2em;
+    }
+  </style>
+  <script src="parts/std.js"></script>
+  <script src="parts/common.js"></script>
+  <script src="qui/sparql.js"></script>
+</head>
+
+<body>
+
+  <div id="s0" class="main" role="main">
+
+    <h1><span lang="ja">キーワードの年別出現回数</span><span lang="en">Keyword-Item Frequency by Year</span></h1>
+
+    <p lang="ja"><a href="https://da.dl.itc.u-tokyo.ac.jp/portal/">東京大学学術資産等アーカイブズポータル</a>のアイテムタイトル（<code>rdfs:label</code>）もしくは文字列値に含まれるキーワードを検索し、マッチ数を年別にグラフ化する試みです。年範囲のあるアイテムは、出現数をその範囲年数で割って各年に加算します（点線）。各年のポイントをクリックすると個別の数値を表示し、そこからその年のキーワドマッチ検索クエリを実行できます。キーワードは1つしか受け付けませんが、複数チャートを作成後、合成することができます（最初のチャートと同一年範囲のみ）。</p>
+    <p lang="en">This tool searchs a keyword in <a href="https://da.dl.itc.u-tokyo.ac.jp/portal/en/">UTokyo Academic Archives Portal</a> items, and count the occurrences by year. If items have year range, those occurrences are divided by the number of years in the range. Click a point in the graph, then a link to keyword query for the year will be shown. Some interesting words would be <span class="pseudolink" onclick="WF.freq_chart('大相撲', 1926, true);">大相撲</span> (Sumo) or <span class="pseudolink" onclick="WF.freq_chart('パソコン', 1926, true);">パソコン</span> (Personal computer). Although only single keyword allowd, multiple charts can be combined later (as long as the same year range).</p>
+
+    <form id="freqform" onsubmit="return WF.go_chart(this);">
+      <span lang="ja">キーワード</span><span lang="en">Word</span>
+      <input type="text" name="word" id="word"/>
+      <input type="submit"/>
+      <label><input type="checkbox" name="incdesc" checked/><span lang="ja">タイトル<em class="ud">以外も</em>含む</span><span lang="en">includes all texts</span></label>
+      <label><input type="radio" name="sty" value="1926"/><span lang="ja">昭和以降</span><span lang="en">Showa (1926)-</span></label>
+      <label><input type="radio" name="sty" value="1868" checked="checked"/><span lang="ja">明治から</span><span lang="en">Meiji (1868)-</span></label>
+      <label><input type="radio" name="sty" value="1000"/><span lang="ja">指定なし</span><span lang="en">None</span></label>
+    </form>
+
+    <canvas id="wchart" class="ready"></canvas>
+    <div id="chartjs-tooltip" class="ready"></div>
+    <script src="lib/js/Chart.min.js"></script>
+    <script src="parts/kwitem-frequency.js"></script>
+
+    <ul>
+      <li><span lang="ja">キーワードマッチはVirtuosoの<code>bif:contains</code>を用いており、検索漏れがある可能性もあります。逆に「京都」で検索すると「東京都」もヒットします。また「タイトル以外も含む」にするとローマ字読みも対象になるので、「AI」では大半が「愛」になります。</span><span lang="en">Keyword match uses <code>bif:contains</code> which might not be optimized for Japanese search.</span></li>
+      <li><span lang="ja">東京大学学術資産等アーカイブズポータル全体で、年情報（<code>schema:temporal</code>）による年別アイテム数は、下図のようになっています。マッチ数の評価は、この全体数も念頭に置いてください（マッチ数そのものでもいろいろ面白い傾向はつかめると思いますが）。</span><span lang="en">The entire UTokyo Academic Archives Portal items numbers by year (<code>schema:temporal</code>) are shown below. When evaluate the number of hits, consider that general numbers are increasing in years.</span>
+        <figure><a href="parts/items-by-year.png"><img src="parts/items-by-year.png" alt="年別アイテム数は概ね年とともに増加"/></a></figure>
+      </li>
+      <li><span lang="ja">ジャパンサーチのデータセットの偏りによる影響も考えられます。現在のところ、図書（全国書誌）やNDLデジタルアーカイブに含まれるキーワードが大きな割合を占めることになります。また年情報を持つものに限られるので、総数の大きな標本類が含まれないことにも注意してください。</span><span lang="en">Some specific types of items (e.g. Books or NDL Digital Archives) account for large portion of Japan Search, which could also cause some skew in the resulting hits.</span></li>
+    </ul>
+
+  </div>
+
+</body>
+</html>

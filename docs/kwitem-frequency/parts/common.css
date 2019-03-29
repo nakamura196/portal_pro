@@ -1,0 +1,157 @@
+@charset "utf-8";
+
+html[lang=ja] *[lang=en],
+html[lang=en] *[lang=ja] {
+	display: none;
+}
+body {
+	position: relative;
+}
+h1 em {
+	color: #ddddf9;
+	text-shadow: 0 -1px 1px #fff, 1px 1px 1px #333;
+	margin-right: 3px;
+	transform: rotate(7deg);
+	display: inline-block;
+	font-size: 90%;
+}
+html[lang=ja] h1 em {
+	font-style: normal;
+	font-size: 80%;
+}
+a[href="https://jpsearch.go.jp"]:after {
+	content: url(/works/ld/jpsearch/parts/jps-logo.svg);
+	vertical-align: -2px;
+	margin-left: 2px;
+}
+div.main li {
+	margin-bottom: 0.5em;
+}
+.subtitle {
+	color: inherit;
+}
+h2 .subtitle {
+	font-size: 0.7em;
+}
+
+.langbar {
+	float: right;
+	font-size: 80%;
+}
+.langbar span {
+	cursor: pointer;
+	border-style: solid;
+	border-width: 1px;
+	border-color: #fff #bbb #bbb #fff;
+	display: inline-block;
+	width: 3em;
+	text-align: center;
+	color: gray;
+}
+.langbar span:hover {
+	color: #33a;
+	text-decoration: underline;
+}
+.langbar span.active {
+	color: #944;
+	background: #f6f6f6;
+	border-color: #bbb #fff #fff #bbb;
+	cursor: default;
+}
+.langbar span.active:hover {
+	color: #944;
+	text-decoration: none;
+}
+em.ud {
+	font-style: normal;
+	-webkit-text-emphasis: filled dot black;
+	-webkit-text-emphasis-position: under;
+	text-emphasis: filled dot black;
+	text-emphasis-position: under;
+}
+/*
+#useit h2 {
+	clear:none;
+}
+img.dopo {
+	width: 180px;
+}
+*/
+#gallery {
+	position: absolute;
+	top: 2em;
+	right: -120px;
+	width: 128px;
+}
+#gallery img {
+	width: 120px;
+	display: block;
+}
+#gallery a {
+}
+#gallery a:after {
+	content: "";
+}
+#gallery figure {
+	margin: 5px 0;
+	padding: 4px;
+	width: 120px;
+	border: #eee 1px solid;
+	box-shadow: 1px 1px 2px rgba(0, 0, 0, 0.3);
+	display: inline-block;
+}
+#gallery figcaption {
+	text-align: center;
+	font-size: 75%;
+	overflow: hidden;
+	padding-top: 2px;
+}
+#gallery img.updator {
+	width: 14px;
+	position: absolute;
+	top: -14px;
+	right: 0;
+	cursor: pointer;
+}
+@media (max-width: 1250px) {
+	#gallery {
+		right: -100px;
+	}
+}
+@media (max-width: 1210px) {
+	#gallery {
+		height: 170px;
+		position: static;
+		width: auto;
+		overflow-y: hidden;
+	}
+	#gallery img.updator {
+		position: static;
+		display: inline;
+		vertical-align: 10px;
+		margin-left: 5px;
+	}
+	#gallery figure {
+		height: 152px;
+		overflow: hidden;
+	}
+	#useit h2 {
+		margin-top: 1em;
+	}
+}
+
+@media (max-width: 925px) {
+	#gallery {
+		position: relative;
+		top: 0;
+		right: 0;
+		padding-right: 10px;
+		margin-right: -10px;
+	}
+	#gallery img.updator {
+		position: absolute;
+		display: inline;
+		top: 0;
+		margin-left: 0;
+	}
+}
