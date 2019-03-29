@@ -1,0 +1,257 @@
+<!DOCTYPE html>
+<html itemscope="" itemid="" itemtype="http://schema.org/WebPage" xmlns="http://www.w3.org/1999/xhtml" lang="ja">
+<head>
+  <meta charset="UTF-8" />
+  <!-- Required meta tags -->
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+  <!-- Bootstrap CSS -->
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css" integrity="sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28anvf" crossorigin="anonymous">
+
+  <title itemprop="name">外部エンドポイントとの統合クエリ</title>
+</head>
+
+<body class="bg-light">
+
+  <header>
+    <!--Navbar-->
+    <nav class="navbar navbar-expand-lg navbar-light scrolling-navbar" style="background-color: white;">
+      <div class="container-fluid">
+        <a class="navbar-brand" href="https://github.com/nakamura196/portal_pro/wiki/%E6%9D%B1%E4%BA%AC%E5%A4%A7%E5%AD%A6%E5%AD%A6%E8%A1%93%E8%B3%87%E7%94%A3%E7%AD%89%E3%82%A2%E3%83%BC%E3%82%AB%E3%82%A4%E3%83%96%E3%82%BA%E3%83%9D%E3%83%BC%E3%82%BF%E3%83%AB-%E9%9D%9E%E5%85%AC%E5%BC%8F-%E3%82%B5%E3%83%9D%E3%83%BC%E3%83%88%E3%83%9A%E3%83%BC%E3%82%B8">東京大学学術資産等アーカイブズポータル 非公式 サポートページ</a>
+      </div>
+    </nav>
+    <!--/.Navbar-->
+
+  </header>
+
+  <div class="container mt-5">
+
+    <h1>外部エンドポイント（Japan Search）との統合クエリ</h1>
+
+    <form class="mt-5">
+      <div class="form-group">
+        <label>タイトルに含む</label>
+        <input type="text" id="q" name="q" class="form-control">
+      </div>
+
+      <div class="form-group">
+        <label>リテラル値に含む</label>
+        <input type="text" id="text" name="text" class="form-control">
+      </div>
+
+      <button type="submit" class="btn btn-primary" id="btn">送信</button>
+    </form>
+
+    <div id="container" class="my-5"></div>
+
+    <a id="a" class="btn btn-primary" target="snorql" style="display : none;">一覧を見る <i class="fas fa-external-link-alt"></i></a>
+
+  </div>
+
+  <!--Footer-->
+  <footer class="text-center bg-secondary mt-5">
+
+    <!--Copyright-->
+    <div class="py-5" style="color : white;">
+      <a href="https://researchmap.jp/nakamura.satoru/" style="color : white;">Satoru Nakamura</a>.<br/><a href="https://www.kanzaki.com/works/ld/jpsearch/" style="color : white;">Japan Search 非公式サポートページ</a> を参考に作成しています。
+    </div>
+    <!--/.Copyright-->
+
+  </footer>
+  <!--/.Footer-->
+
+  <!-- Optional JavaScript -->
+  <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+  <script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+  <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+
+  <script src="https://code.highcharts.com/highcharts.js"></script>
+
+  <script type="text/javascript">
+
+    var arg = getParam()
+    var q = arg["q"] != null ? arg["q"] : "田中芳男";
+    if(q != ""){
+      $("#q").val(q)
+    }
+    var text = arg["text"] != null ? arg["text"] : "";
+    if(text != ""){
+      $("#text").val(text)
+    }
+
+    jQuery(document).ready(function() {
+
+      jQuery.ajaxSetup({
+        cache : true
+      });
+
+      if(q != "" || text != ""){
+        search()
+      }
+
+    });
+
+    function getParam(){
+      var arg = new Object;
+      url = location.search.substring(1).split('&');
+
+      for(i=0; url[i]; i++) {
+        var k = url[i].split('=');
+        arg[k[0]] = decodeURIComponent(k[1]);
+      }
+
+      return arg
+    }
+
+    function search() {
+
+      query = "PREFIX dct: <http://purl.org/dc/terms/>  \n" +
+      "PREFIX jps: <https://jpsearch.go.jp/term/property#>  \n" +
+      "PREFIX schema: <http://schema.org/>  \n" +
+      "PREFIX dcndl: <http://ndl.go.jp/dcndl/terms/>  \n" +
+      "SELECT DISTINCT count(DISTINCT ?s) as ?c ?org WHERE {  \n" +
+      " {  \n" +
+      "   SERVICE <https://jpsearch.go.jp/rdf/sparql> {  \n" +
+      "     ?s rdfs:label ?title .  \n"
+      if(q!= ""){
+        query += "      ?title bif:contains '\""+q+"\"' .   \n"
+      } else {
+        query += "      ?s ?p ?o .   \n"
+        query += "      ?o bif:contains '\""+text+"\"' .   \n"
+      }
+      query += "      ?s jps:accessInfo ?accessInfo .   \n" +
+      "     ?accessInfo schema:provider ?orgUri.   \n" +
+      "     ?orgUri schema:name ?org.   \n" +
+      "     filter(lang(?org) = \"ja\")  \n" +
+      "     optional { ?s schema:image ?image. }  \n" +
+      "   }  \n" +
+      " } UNION {  \n" +
+      "   ?s dct:title ?title.  \n"
+      if(q!= ""){
+        query += "    ?title bif:contains '\""+q+"\"' .   \n"
+      } else {
+        query += "    ?s ?p ?o .   \n"
+        query += "    ?o bif:contains '\""+text+"\"' .   \n"
+      }
+      query += "    ?s dcndl:digitizedPublisher ?org.  \n" +
+      "   filter(lang(?org) = \"ja\")  \n" +
+      "   optional { ?s foaf:thumbnail ?image. }  \n" +
+      " }  \n" +
+      "} order by desc(?c)  "
+
+      $.ajax({
+        url:"https://sparql.dl.itc.u-tokyo.ac.jp",
+        type:'POST',
+        data:{
+          query : query,
+          format : "json"
+        }
+      })
+      .then(
+      // 1つめは通信成功時のコールバック
+      function (data) {
+        var result = data.results.bindings;
+
+        keys = []
+        values = []
+
+        for(var i = 0; i < result.length; i++){
+          var obj = result[i]
+          keys.push(obj.org.value)
+          values.push(Number(obj.c.value))
+        }
+
+        Highcharts.chart('container', {
+          chart: {
+            type: 'bar'
+          },
+          title: {
+            text: null
+          },
+          xAxis: {
+            categories: keys,
+            title: {
+              text: null
+            }
+          },
+          yAxis: {
+            min: 0,
+            title: {
+              text: 'Number of items',
+              align: 'high'
+            },
+            labels: {
+              overflow: 'justify'
+            }
+          },
+          tooltip: {
+            valueSuffix: ' items'
+          },
+          plotOptions: {
+            bar: {
+              dataLabels: {
+                enabled: true
+              }
+            },
+            series: {
+              cursor: 'pointer',
+              point: {
+                events: {
+                  click: function () {
+
+                    var value = this.category
+                    var query2 = query.replace("count(DISTINCT ?s) as ?c", "?s ?title ?image")
+                    query2 = query2.replace("desc(?c)", "?org")
+                    query2 = query2.replace(/lang\(\?org\) = "ja"/g, "?org = \""+value+"\"@ja")
+
+                    var url = "https://nakamura196.github.io/portal_pro/snorql/?query=" + encodeURIComponent(query2)
+                    open( url, "snorql" ) ;
+
+                  }
+                }
+              }
+            }
+          },
+          legend: {
+            layout: 'vertical',
+            align: 'right',
+            verticalAlign: 'top',
+            x: -40,
+            y: 80,
+            floating: true,
+            borderWidth: 1,
+            backgroundColor: ((Highcharts.theme && Highcharts.theme.legendBackgroundColor) || '#FFFFFF'),
+            shadow: true
+          },
+          credits: {
+            enabled: false
+          },
+          series: [{
+            name: 'Item',
+            data: values
+          }]
+        });
+
+        var query2 = query.replace("count(DISTINCT ?s) as ?c", "?s ?title ?image")
+        query2 = query2.replace("desc(?c)", "?org")
+        var url = "https://nakamura196.github.io/portal_pro/snorql/?query=" + encodeURIComponent(query2)
+        var a = $("#a")
+        a.attr("href", url)
+        a.show()
+
+      },
+      // 2つめは通信失敗時のコールバック
+      function () {
+        alert(data.statusText);
+      }
+      ).always(function() {
+        $("#loading").empty()
+      });
+    }
+  </script>
+
+</body>
+</html>
