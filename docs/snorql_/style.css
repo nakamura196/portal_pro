@@ -22,7 +22,6 @@ img { border: none; }
 .queryresults a small { font-size: 100%; color: #55a; }
 .queryresults small { font-size: 100%; color: #666; }
 .queryresults .property { white-space: nowrap; }
-
 #rdficon { float: right; margin: 0.6em 1em; }
 .directory li { margin-bottom: 0.5em; }
 .directory small { font-size: 80%; color: #666; }
@@ -32,10 +31,6 @@ img { border: none; }
 .snorql .queryresults th { background: #88c; }
 .snorql .queryresults .odd td { background: #f2f2ff; }
 .snorql .queryresults .even td { background: #ddf; }
-.snorql .queryresults .odd td.odd { background: #f1f8fcee; }
-.snorql .queryresults .even td.odd { background: #e4eef4ee; }
-.snorql .queryresults .odd td.even { background: #f3f1eeee; }
-.snorql .queryresults .even td.even { background: #e7e8ffee; }
 
 .browser h1, .browser h2 { color: #810; }
 .browser #header, .browser .section { background: #beb; }

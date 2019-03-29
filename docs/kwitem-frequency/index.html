@@ -3,51 +3,67 @@
 <html itemscope="" itemid="" itemtype="http://schema.org/WebPage" xmlns="http://www.w3.org/1999/xhtml" lang="ja">
 <head>
   <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width" />
-  <title itemprop="name">Japan Searchキーワードの年別出現回数 - ジャパンサーチ keyword-item frequency by year</title>
-  <link rel="stylesheet" href="parts/kan01.css" />
+  <!-- Required meta tags -->
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+  <!-- Bootstrap CSS -->
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+
+  <title itemprop="name">キーワードの年別出現回数</title>
   <link rel="stylesheet" href="parts/common.css" />
   <style>
-    #chartjs-tooltip {
-      background: white;
-      border: gray solid 1px;
-      border-radius: 3px;
-      box-shadow: 1px 1px 1px rgba(0,0,0,0.4);
-      position: absolute;
-      font-size: 80%;
-      padding: 1em;
-    }
-    div.ready {display:none}
-    canvas.ready {
-      border: gray 1px dotted;
-      margin: 1em 0;
-      width: 80%;
-      height: 150px;
-    }
-    canvas.loading {
-      background: url(qui/transp-spinner-light.gif) center center no-repeat;
-    }
-    figure a img {
-      width:500px;
-    }
-    #freqform select, #freqform button {
-      float: right;
-      height: 1.75em;
-      margin-left: 0.2em;
-    }
+  #chartjs-tooltip {
+    background: white;
+    border: gray solid 1px;
+    border-radius: 3px;
+    box-shadow: 1px 1px 1px rgba(0,0,0,0.4);
+    position: absolute;
+    font-size: 80%;
+    padding: 1em;
+  }
+  div.ready {display:none}
+  canvas.ready {
+    border: gray 1px dotted;
+    margin: 1em 0;
+    width: 80%;
+    height: 150px;
+  }
+  canvas.loading {
+    background: url(qui/transp-spinner-light.gif) center center no-repeat;
+  }
+  figure a img {
+    width:500px;
+  }
+  #freqform select, #freqform button {
+    float: right;
+    height: 1.75em;
+    margin-left: 0.2em;
+  }
   </style>
   <script src="parts/std.js"></script>
   <script src="parts/common.js"></script>
   <script src="qui/sparql.js"></script>
 </head>
 
-<body>
+<body class="bg-light">
 
-  <div id="s0" class="main" role="main">
+  <header>
+    <!--Navbar-->
+    <nav class="navbar navbar-expand-lg navbar-light scrolling-navbar" style="background-color: white;">
+      <div class="container-fluid">
+        <a class="navbar-brand" href="https://github.com/nakamura196/portal_pro/wiki/%E6%9D%B1%E4%BA%AC%E5%A4%A7%E5%AD%A6%E5%AD%A6%E8%A1%93%E8%B3%87%E7%94%A3%E7%AD%89%E3%82%A2%E3%83%BC%E3%82%AB%E3%82%A4%E3%83%96%E3%82%BA%E3%83%9D%E3%83%BC%E3%82%BF%E3%83%AB-%E9%9D%9E%E5%85%AC%E5%BC%8F-%E3%82%B5%E3%83%9D%E3%83%BC%E3%83%88%E3%83%9A%E3%83%BC%E3%82%B8">東京大学学術資産等アーカイブズポータル 非公式 サポートページ</a>
+      </div>
+    </nav>
+    <!--/.Navbar-->
+
+  </header>
+
+  <div class="container my-5">
 
     <h1><span lang="ja">キーワードの年別出現回数</span><span lang="en">Keyword-Item Frequency by Year</span></h1>
 
-    <p lang="ja"><a href="https://da.dl.itc.u-tokyo.ac.jp/portal/">東京大学学術資産等アーカイブズポータル</a>のアイテムタイトル（<code>rdfs:label</code>）もしくは文字列値に含まれるキーワードを検索し、マッチ数を年別にグラフ化する試みです。年範囲のあるアイテムは、出現数をその範囲年数で割って各年に加算します（点線）。各年のポイントをクリックすると個別の数値を表示し、そこからその年のキーワドマッチ検索クエリを実行できます。キーワードは1つしか受け付けませんが、複数チャートを作成後、合成することができます（最初のチャートと同一年範囲のみ）。</p>
+    <p lang="ja"><a href="https://da.dl.itc.u-tokyo.ac.jp/portal/">東京大学学術資産等アーカイブズポータル</a>のアイテムタイトル（<code>dcterms:title</code>）もしくは文字列値に含まれるキーワードを検索し、マッチ数を年別にグラフ化する試みです。年範囲のあるアイテムは、出現数をその範囲年数で割って各年に加算します（点線）。各年のポイントをクリックすると個別の数値を表示し、そこからその年のキーワドマッチ検索クエリを実行できます。キーワードは1つしか受け付けませんが、複数チャートを作成後、合成することができます（最初のチャートと同一年範囲のみ）。</p>
     <p lang="en">This tool searchs a keyword in <a href="https://da.dl.itc.u-tokyo.ac.jp/portal/en/">UTokyo Academic Archives Portal</a> items, and count the occurrences by year. If items have year range, those occurrences are divided by the number of years in the range. Click a point in the graph, then a link to keyword query for the year will be shown. Some interesting words would be <span class="pseudolink" onclick="WF.freq_chart('大相撲', 1926, true);">大相撲</span> (Sumo) or <span class="pseudolink" onclick="WF.freq_chart('パソコン', 1926, true);">パソコン</span> (Personal computer). Although only single keyword allowd, multiple charts can be combined later (as long as the same year range).</p>
 
     <form id="freqform" onsubmit="return WF.go_chart(this);">
@@ -67,13 +83,27 @@
 
     <ul>
       <li><span lang="ja">キーワードマッチはVirtuosoの<code>bif:contains</code>を用いており、検索漏れがある可能性もあります。逆に「京都」で検索すると「東京都」もヒットします。また「タイトル以外も含む」にするとローマ字読みも対象になるので、「AI」では大半が「愛」になります。</span><span lang="en">Keyword match uses <code>bif:contains</code> which might not be optimized for Japanese search.</span></li>
+      <!--
       <li><span lang="ja">東京大学学術資産等アーカイブズポータル全体で、年情報（<code>schema:temporal</code>）による年別アイテム数は、下図のようになっています。マッチ数の評価は、この全体数も念頭に置いてください（マッチ数そのものでもいろいろ面白い傾向はつかめると思いますが）。</span><span lang="en">The entire UTokyo Academic Archives Portal items numbers by year (<code>schema:temporal</code>) are shown below. When evaluate the number of hits, consider that general numbers are increasing in years.</span>
-        <figure><a href="parts/items-by-year.png"><img src="parts/items-by-year.png" alt="年別アイテム数は概ね年とともに増加"/></a></figure>
-      </li>
-      <li><span lang="ja">ジャパンサーチのデータセットの偏りによる影響も考えられます。現在のところ、図書（全国書誌）やNDLデジタルアーカイブに含まれるキーワードが大きな割合を占めることになります。また年情報を持つものに限られるので、総数の大きな標本類が含まれないことにも注意してください。</span><span lang="en">Some specific types of items (e.g. Books or NDL Digital Archives) account for large portion of Japan Search, which could also cause some skew in the resulting hits.</span></li>
-    </ul>
+      <figure><a href="parts/items-by-year.png"><img src="parts/items-by-year.png" alt="年別アイテム数は概ね年とともに増加"/></a></figure>
+    </li>
+    <li><span lang="ja">ジャパンサーチのデータセットの偏りによる影響も考えられます。現在のところ、図書（全国書誌）やNDLデジタルアーカイブに含まれるキーワードが大きな割合を占めることになります。また年情報を持つものに限られるので、総数の大きな標本類が含まれないことにも注意してください。</span><span lang="en">Some specific types of items (e.g. Books or NDL Digital Archives) account for large portion of Japan Search, which could also cause some skew in the resulting hits.</span></li>
+  -->
+</ul>
 
+</div>
+
+<!--Footer-->
+<footer class="text-center bg-secondary mt-5">
+
+  <!--Copyright-->
+  <div class="py-5" style="color : white;">
+    <a href="https://researchmap.jp/nakamura.satoru/" style="color : white;">Satoru Nakamura</a>.<br/><a href="https://www.kanzaki.com/works/ld/jpsearch/" style="color : white;">Japan Search 非公式サポートページ</a> を参考に作成しています。
   </div>
+  <!--/.Copyright-->
+
+</footer>
+<!--/.Footer-->
 
 </body>
 </html>

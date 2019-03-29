@@ -1,0 +1,136 @@
+---
+layout: default
+title: 年表で見る
+---
+
+<div class="container py-2 my-5">
+
+  <h3 class="mb-5">年表で見る</h3>
+
+  <div class="text-center" id="loading">
+    <img src="assets/images/loading.gif" class="img-fluid"/>
+  </div>
+
+  <div id="visualization" class="mt-5"></div>
+
+</div>
+
+<link href="assets/thirdparty/vis/4.15.1/vis.min.css" rel="stylesheet" type="text/css" />
+<script src="assets/thirdparty/vis/4.15.1/vis.min.js"></script>
+
+<script type="text/javascript">
+
+  var timeline;
+
+  var width = 20;
+
+  jQuery(document).ready(function() {
+
+    jQuery.ajaxSetup({
+      cache : true
+    });
+
+    var query = "";
+    query += " PREFIX dcterms: <http://purl.org/dc/terms/> ";
+    query += " SELECT DISTINCT ?date count(?s) as ?c  WHERE { ";
+    query += " ?s dcterms:issued ?date . ";
+    query += " filter (datatype(?date) = dcterms:W3CDTF) ";
+    query += " } order by desc(?c) ";
+
+    $.ajax({
+      url:"https://sparql.dl.itc.u-tokyo.ac.jp",
+      type:'POST',
+      data:{
+        query : query,
+        format : "json"
+      }
+    })
+    .then(
+    // 1つめは通信成功時のコールバック
+    function (data) {
+      var result = data.results.bindings;
+
+      var groups = new vis.DataSet();
+      var group = "Item";
+
+      var items = []
+
+      var arr = []
+
+      for(var i = 0; i < result.length; i++){
+        var obj = result[i];
+
+        if($.isNumeric(obj.date.value)){
+          var date = Number(obj.date.value)
+          if(date > 1000 && date < 3000){
+            var tmp = {}
+            tmp.x = date+"-01-01"
+            tmp.y = obj.c.value
+            tmp.group = group
+            items.push(tmp)
+
+            if(arr.indexOf(group) == -1){
+              arr.push(group)
+            }
+          }
+        }
+
+      }
+
+      for(var k = 0; k < arr.length; k++){
+        var group = arr[k]
+        groups.add({
+          id: group,
+          content: group//+"："+total
+        })
+      }
+
+      displayTimeline(items, groups)
+
+
+    },
+    // 2つめは通信失敗時のコールバック
+    function () {
+      alert(data.statusText);
+    }
+    ).always(function() {
+      $("#loading").empty()
+    });
+
+  });
+
+  function displayTimeline(items, groups){
+
+    var container = document.getElementById('visualization');
+
+    var dataset = new vis.DataSet(items);
+    var options = {
+      defaultGroup: 'ungrouped',
+      style:'bar',
+      stack : true,
+      barChart: {
+        width: width,
+        align:'right'
+      }, // align: left, center, right
+      drawPoints: false,
+      dataAxis: {
+        icons:true
+      },
+      legend: true,
+      orientation:'top'
+    };
+    graph2d = new vis.Graph2d(container, items, groups, options);
+    graph2d.on('doubleClick', onClick);
+
+    $("#visualization").append('<p class="text-center grey-text mt-3">ヒストグラムをダブルクリックで詳細を表示</p>')
+  }
+
+  function onClick(properties) {
+
+    var dd = new Date(properties.time);
+    var year = dd.getFullYear();
+    var date = year;
+    console.log(date);
+  }
+
+</script>

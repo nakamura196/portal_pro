@@ -66,56 +66,85 @@ title: 年表で見る
 
   function search() {
 
-    var query = "";
-    query += " PREFIX dcterms: <http://purl.org/dc/terms/> ";
-    query += " PREFIX dcndl: <http://ndl.go.jp/dcndl/terms/> ";
-    query += " SELECT DISTINCT ?date count(?s) as ?c ?pub WHERE { ";
-    query += " ?s dcterms:issued ?date . ";
-    query += " filter (datatype(?date) = dcterms:W3CDTF) ";
-    query += " ?s dcndl:digitizedPublisher ?pub . ";
-    query += " filter(LANG(?pub) = 'ja') . ";
-    query += " } order by desc(?c) ";
-
     $.ajax({
-      url:"https://sparql.dl.itc.u-tokyo.ac.jp",
-      type:'POST',
-      data:{
-        query : query,
-        format : "json"
-      }
+      url:'data/data_timeline.json',
+      type:'GET',
+      async: true,
+      format: "json"
     })
     .then(
     // 1つめは通信成功時のコールバック
-    function (data) {
-      var result = data.results.bindings;
+    function (result) {
+
+      //map["item"] = result
+
+      /*
+      for (var i = 0; i < result.length; i++) {
+        var obj = result[i];
+
+        var o = obj[dcterms+"date"][0]["@value"]
+
+        o = arrangeDate(o)
+
+        if(o == null){
+          continue
+        }
+
+        var group = "item"
+
+        if(!map[group]){
+          map[group] = {}
+        }
+
+        tmp = map[group]
+
+        if(!tmp[o]){
+          tmp[o] = 0
+        }
+        tmp[o] = tmp[o] + 1
+
+
+      }
+      */
+
+      console.log(map)
 
       var groups = new vis.DataSet();
-      //var group = "Item";
 
       var items = []
 
       var arr = []
 
-      for(var i = 0; i < result.length; i++){
-        var obj = result[i];
+      for(var year in result){
+        //var total = 0
 
-        if($.isNumeric(obj.date.value)){
-          var date = Number(obj.date.value)
-          if(date > 1000 && date < 3000){
+        var obj = result[year]
 
-            var group = obj.pub.value
+        for(var group in obj){
+          var tmp = {}
+          tmp.x = year
+          tmp.y = obj[group]
+          tmp.group = group
+          items.push(tmp)
 
-            var tmp = {}
-            tmp.x = date+"-01-01"
-            tmp.y = obj.c.value
-            tmp.group = group
-            items.push(tmp)
-
-            if(arr.indexOf(group) == -1){
-              arr.push(group)
-            }
+          if(arr.indexOf(group) == -1){
+            arr.push(group)
           }
         }
+
+        /*
+        obj = map[group]
+        for(key in obj){
+          var tmp = {}
+          tmp.x = key
+          tmp.y = obj[key]
+          tmp.group = group
+          items.push(tmp)
+
+          total += tmp.y
+        }
+        */
+
 
       }
 
@@ -127,9 +156,30 @@ title: 年表で見る
         })
       }
 
+      /*
+      for(group in map){
+
+        var total = 0
+
+        obj = map[group]
+        for(key in obj){
+          var tmp = {}
+          tmp.x = key
+          tmp.y = obj[key]
+          tmp.group = group
+          items.push(tmp)
+
+          total += tmp.y
+        }
+
+        groups.add({
+          id: group,
+          content: group+"："+total
+        })
+      }
+      */
+
       displayTimeline(items, groups)
-
-
     },
     // 2つめは通信失敗時のコールバック
     function () {

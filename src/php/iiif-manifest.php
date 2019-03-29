@@ -7,9 +7,10 @@
 require 'vendor/autoload.php';
 
 $title = isset($_GET["title"]) ? $_GET["title"] : "";
+$text = isset($_GET["text"]) ? $_GET["text"] : "";
 ?>
 
-<?php if($title != ""): ?>
+<?php if($title != "" || $text != ""): ?>
 
   <?php
 
@@ -19,7 +20,13 @@ $title = isset($_GET["title"]) ? $_GET["title"] : "";
     $query = $query . '?s dcterms:identifier ?manifest . ';
     $query = $query . '?manifest rdf:type <http://iiif.io/api/presentation/2#Manifest> . ';
       $query = $query . '?s dcterms:title ?title . ';
-      $query = $query . '?title bif:contains \'"' . $title . '"\' . ';
+      if($title != ""){
+        $query = $query . '?title bif:contains \'"' . $title . '"\' . ';
+      } else {
+        $query = $query . '?s ?p ?o . ';
+        $query = $query . '?o bif:contains \'"' . $text . '"\' . ';
+      }
+
       $query = $query . 'optional { ?s foaf:thumbnail ?thumbnail . } ';
       $query = $query . '} limit 1000';
 
@@ -27,7 +34,7 @@ $title = isset($_GET["title"]) ? $_GET["title"] : "";
 
       $collection = [];
       $collection["@context"] = "http://iiif.io/api/presentation/2/context.json";
-      $collection["label"] = "IIIF collection from UTokyo Archives Portal";
+      $collection["label"] = "IIIF collection from UTokyo Academic Archives Portal";
       $collection["@type"] = "sc:Collection";
       $collection["vhint"] = "use-thumb";
       $collection["@id"] = "https://diyhistory.org/public/portal_pro/iiif-manifest.php";
@@ -62,50 +69,24 @@ $title = isset($_GET["title"]) ? $_GET["title"] : "";
         <!-- Bootstrap CSS -->
         <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
 
-        <title>Hello, world!</title>
+        <title>IIIF manifest search</title>
       </head>
-      <body>
 
-        <nav class="navbar navbar-expand-lg navbar-light bg-light">
-          <div class="container">
-            <a class="navbar-brand" href="#">UTokyo Archives Portal Pro</a>
-            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-              <span class="navbar-toggler-icon"></span>
-            </button>
+      <body class="bg-light">
 
-            <div class="collapse navbar-collapse" id="navbarSupportedContent">
-              <ul class="navbar-nav mr-auto">
-                <li class="nav-item active">
-                  <a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>
-                </li>
-                <li class="nav-item">
-                  <a class="nav-link" href="#">Link</a>
-                </li>
-                <li class="nav-item dropdown">
-                  <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                    Dropdown
-                  </a>
-                  <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                    <a class="dropdown-item" href="#">Action</a>
-                    <a class="dropdown-item" href="#">Another action</a>
-                    <div class="dropdown-divider"></div>
-                    <a class="dropdown-item" href="#">Something else here</a>
-                  </div>
-                </li>
-                <li class="nav-item">
-                  <a class="nav-link disabled" href="#" tabindex="-1" aria-disabled="true">Disabled</a>
-                </li>
-              </ul>
-              <form class="form-inline my-2 my-lg-0">
-                <input class="form-control mr-sm-2" type="search" placeholder="Search" aria-label="Search">
-                <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>
-              </form>
+        <header>
+          <!--Navbar-->
+          <nav class="navbar navbar-expand-lg navbar-light scrolling-navbar" style="background-color: white;">
+            <div class="container-fluid">
+              <a class="navbar-brand" href="https://github.com/nakamura196/portal_pro/wiki/%E6%9D%B1%E4%BA%AC%E5%A4%A7%E5%AD%A6%E5%AD%A6%E8%A1%93%E8%B3%87%E7%94%A3%E7%AD%89%E3%82%A2%E3%83%BC%E3%82%AB%E3%82%A4%E3%83%96%E3%82%BA%E3%83%9D%E3%83%BC%E3%82%BF%E3%83%AB-%E9%9D%9E%E5%85%AC%E5%BC%8F-%E3%82%B5%E3%83%9D%E3%83%BC%E3%83%88%E3%83%9A%E3%83%BC%E3%82%B8">東京大学学術資産等アーカイブズポータル 非公式 サポートページ</a>
             </div>
-          </div>
-        </nav>
+          </nav>
+          <!--/.Navbar-->
+
+        </header>
 
         <div class="container my-5">
-          <h1>IIIF manifest search - UTokyo Archives Portal Pro</h1>
+          <h1>IIIF manifest search</h1>
           <p>東京大学学術資産等アーカイブズポータルに登録されているIIIFマニフェストを検索し、IIIFコレクションを生成</p>
 
           <div class="mt-5">
@@ -113,12 +94,10 @@ $title = isset($_GET["title"]) ? $_GET["title"] : "";
               <label>タイトルに含む</label>
               <input type="text" id="title" class="form-control">
             </div>
-            <!--
             <div class="form-group">
               <label>リテラル値に含む</label>
-              <input type="text" class="form-control">
+              <input type="text" id="text" class="form-control">
             </div>
-            -->
             <div class="form-group form-check">
               <input type="checkbox" class="form-check-input" id="exampleCheck1" checked>
               <label class="form-check-label" for="exampleCheck1">IIIFビューアで表示</label>
@@ -126,6 +105,18 @@ $title = isset($_GET["title"]) ? $_GET["title"] : "";
             <button class="btn btn-primary" id="btn">送信</button>
           </div>
         </div>
+
+        <!--Footer-->
+        <footer class="text-center bg-secondary mt-5">
+
+          <!--Copyright-->
+          <div class="py-5" style="color : white;">
+            <a href="https://researchmap.jp/nakamura.satoru/" style="color : white;">Satoru Nakamura</a>.<br/><a href="https://www.kanzaki.com/works/ld/jpsearch/" style="color : white;">Japan Search 非公式サポートページ</a> を参考に作成しています。
+          </div>
+          <!--/.Copyright-->
+
+        </footer>
+        <!--/.Footer-->
 
 
         <!-- Optional JavaScript -->
@@ -138,10 +129,17 @@ $title = isset($_GET["title"]) ? $_GET["title"] : "";
         $('#btn').click(function() {
           var flg = $("#exampleCheck1").prop("checked");
           var title = $("#title").val();
-          if(title == ""){
+          var text = $("#text").val();
+          if(title == "" && text == ""){
             return false;
           }
-          var url = "https://diyhistory.org/public/portal_pro/iiif-manifest.php?title="+title
+          var query = "";
+          if(title != ""){
+            query += "title="+title
+          } else {
+            query += "text="+text
+          }
+          var url = "https://diyhistory.org/public/portal_pro/iiif-manifest.php?"+query
           if(flg){
             url = "https://www.kanzaki.com/works/2016/pub/image-annotator?u="+url;
           }

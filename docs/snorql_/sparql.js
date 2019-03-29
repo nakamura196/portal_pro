@@ -262,7 +262,7 @@ SPARQL.Query = function(service, priority) {
 		// see: http://www.ietf.org/internet-drafts/draft-crockford-jsonorg-json-03.txt
 		
 		// (1) strip out quoted strings
-		var no_strings = text.replace(/"(\\.|[^"\\])*"/g, '');	//"
+		var no_strings = text.replace(/"(\\.|[^"\\])*"/g, '');
 		// (2) make sure that all the characters are explicitly part of the JSON grammar
 		// (in particular, note as discussed in the IETF submission, there are no assignments
 		//  or function invocations allowed by this reg. exp.)
@@ -308,9 +308,7 @@ SPARQL.Query = function(service, priority) {
 		SPARQL.statistics.successes++;
 		_service._markDone(this);
 		this._doCallback(arg.callback, 'success', arg.transformer(
-			//@@2018-12-09
-			_output == 'json' ? (_create_json(xhr.responseText) ||
-				{"status": "error", "response": xhr.responseText} ) : xhr.responseText
+			_output == 'json' ? _create_json(xhr.responseText) : xhr.responseText
 		));
 	};
 	
