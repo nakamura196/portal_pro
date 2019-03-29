@@ -78,7 +78,7 @@ $text = isset($_GET["text"]) ? $_GET["text"] : "";
           <!--Navbar-->
           <nav class="navbar navbar-expand-lg navbar-light scrolling-navbar" style="background-color: white;">
             <div class="container-fluid">
-              <a class="navbar-brand" href="https://github.com/nakamura196/portal_pro/wiki/%E6%9D%B1%E4%BA%AC%E5%A4%A7%E5%AD%A6%E5%AD%A6%E8%A1%93%E8%B3%87%E7%94%A3%E7%AD%89%E3%82%A2%E3%83%BC%E3%82%AB%E3%82%A4%E3%83%96%E3%82%BA%E3%83%9D%E3%83%BC%E3%82%BF%E3%83%AB-%E9%9D%9E%E5%85%AC%E5%BC%8F-%E3%82%B5%E3%83%9D%E3%83%BC%E3%83%88%E3%83%9A%E3%83%BC%E3%82%B8">東京大学学術資産等アーカイブズポータル 非公式 サポートページ</a>
+              <a class="navbar-brand" href="https://github.com/nakamura196/portal_pro/wiki">東京大学学術資産等アーカイブズポータル 非公式 サポートページ</a>
             </div>
           </nav>
           <!--/.Navbar-->
