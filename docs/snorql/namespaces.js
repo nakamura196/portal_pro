@@ -10,4 +10,6 @@ var D2R_namespacePrefixes = {
     ov: 'http://open.vocab.org/terms/',
     xsd: 'http://www.w3.org/2001/XMLSchema#',
     dcndl: 'http://ndl.go.jp/dcndl/terms/',
+    jps: 'https://jpsearch.go.jp/term/property#',
+    schema: 'http://schema.org/'
 };
