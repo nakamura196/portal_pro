@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:prop-fr="http://fr.dbpedia.org/property/"
+	xmlns:dbpedia-owl="http://dbpedia.org/ontology/" >
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Viticulture_en_Algérie">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Banque_de_l&#39;Algérie" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Franc_algérien">
+    <prop-fr:banqueCentrale rdf:resource="http://fr.dbpedia.org/resource/Banque_de_l&#39;Algérie" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Banque_de_l&#39;Algérie" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Émile_Moreau_(banquier)">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Banque_de_l&#39;Algérie" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Algérie_française">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Banque_de_l&#39;Algérie" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Banque_de_l&#39;Algérie">
+    <owl:sameAs rdf:resource="http://fr.dbpedia.org/resource/Banque_de_l&#39;Algérie" />
+  </rdf:Description>
+</rdf:RDF>

@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:dct="http://purl.org/dc/terms/"
+	xmlns:dbo="http://dbpedia.org/ontology/"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:prov="http://www.w3.org/ns/prov#"
+	xmlns:dbp="http://dbpedia.org/property/" >
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Francis_Ronalds">
+    <dbo:field rdf:resource="http://dbpedia.org/resource/Applied_mechanics" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ferdinand_P._Beer">
+    <dbo:discipline rdf:resource="http://dbpedia.org/resource/Applied_mechanics" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Applied_Mechanics">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Applied_mechanics" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mechanical_engineering">
+    <dbp:activitySector rdf:resource="http://dbpedia.org/resource/Applied_mechanics" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nicholas_J._Hoff">
+    <dbo:field rdf:resource="http://dbpedia.org/resource/Applied_mechanics" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bernard_Parker_Haigh">
+    <dbo:field rdf:resource="http://dbpedia.org/resource/Applied_mechanics" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mohammad_Reza_Eslami">
+    <dbo:field rdf:resource="http://dbpedia.org/resource/Applied_mechanics" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Narinder_Kumar_Gupta">
+    <dbo:knownFor rdf:resource="http://dbpedia.org/resource/Applied_mechanics" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Applied_mechanics">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing" />
+    <rdfs:label xml:lang="de">Technische Mechanik</rdfs:label>
+    <rdfs:label xml:lang="en">Applied mechanics</rdfs:label>
+    <rdfs:label xml:lang="ru">Прикладная механика</rdfs:label>
+    <rdfs:label xml:lang="it">Meccanica applicata</rdfs:label>
+    <rdfs:label xml:lang="ja">応用力学</rdfs:label>
+    <rdfs:label xml:lang="ar">ميكانيك تطبيقي</rdfs:label>
+    <rdfs:label xml:lang="pt">Mecânica aplicada</rdfs:label>
+    <rdfs:label xml:lang="zh">工程力学</rdfs:label>
+    <rdfs:comment xml:lang="ru">Прикладная механика — техническая наука, посвящённая исследованиям устройств и принципов механизмов. Прикладная механика занимается изучением и классификацией машин, а также их разработкой. Прикладная механика состоит из четырёх разделов. 
+*  В первом из них рассматриваются общие черты теории механизмов. 
+*  Второй раздел посвящён основам сопротивления материалов — динамика и прочность инженерных конструкций. 
+*  Третий раздел посвящён вопросам проектирования наиболее распространённых механизмов (гл. образом кулачковых, фрикционных, зубчатых). 
+*  Четвёртый раздел посвящён деталям машин.</rdfs:comment>
+    <rdfs:comment xml:lang="en">Applied mechanics is a branch of the physical sciences and the practical application of mechanics. Applied mechanics describes the response of bodies (solids and fluids) or systems of bodies to external forces. Some examples of mechanical systems include the flow of a liquid under pressure, the fracture of a solid from an applied force, or the vibration of an ear in response to sound. A practitioner of the discipline is known as a mechanician.</rdfs:comment>
+    <rdfs:comment xml:lang="ja">応用力学（おうようりきがく、英語：applied mechanics）は、質量保存、運動量、角運動量、万有引力などの数少ない基本法則をもとに、論理的な推論によって、対象とした系の挙動を解析し、予測する学問である。その適用対象は広範多岐にわたり、スケールも原子分子のオーダーから宇宙規模にも及んでいる。また、これらの法則は、共通の記述言語である数学を用いて表現され、対象系を構成する材料や系全体の特性も数理的に記述される。これにより的確な共通理解が得られることになる。</rdfs:comment>
+    <rdfs:comment xml:lang="it">La meccanica applicata, nota anche in Italia come meccanica applicata alle macchine, è una branca dell&#39;ingegneria che ha lo scopo di studiare il comportamento dei dispositivi meccanici di interesse applicativo utilizzando la metodologia ed i risultati della meccanica teorica. A rigore sono parte della meccanica applicata anche la fluidodinamica applicata e la scienza delle costruzioni, ma il campo di studio di tali discipline è talmente vasto che sono ormai divenute branche indipendenti dell&#39;ingegneria. Al momento la meccanica applicata si occupa principalmente dello studio dei sistemi meccanici di interesse applicativo costituiti da corpi a comportamento rigido dei quali si studia la cinematica e successivamente, una volta note o ipotizzate le forze agenti, la dinamica.</rdfs:comment>
+    <rdfs:comment xml:lang="pt">A mecânica aplicada é um ramo da ciência física e aplicação prática da mecânica. A mecânica aplicada examina a resposta dos corpos (sólidos e fluidos) ou sistema de corpos quando submetidos a forças externas. Alguns exemplos de sistemas mecânicos incluem o fluxo de líquidos sob pressão, a fratura de um sólido causada por uma força aplicada, ou a vibração de um sistema auditivo em resposta ao som.</rdfs:comment>
+    <rdfs:comment xml:lang="zh">工程力學，也稱應用力學，是研究宏觀物質運動規律及其在工程上的應用的科學，其基本原理是古典力學或經典力學，是物理學力學的一個分支，及質點及材料力學、塑性力學、彈性力學、結構力學、固體力學、流體力學、流變學、空氣力學、水力學和土力學等。工程力學屬於工程學的一門分科，旨在為如在材料科學、機械製造等專業提供理論上的計算方法。這些結合實際的法則可以進行材料的實際測量和選擇等諸多相關任務，工程力學作為輔助科學被運用其中。</rdfs:comment>
+    <rdfs:comment xml:lang="de">Die Technische Mechanik ist ein Teil der Mechanik. Sie wendet die physikalischen Grundlagen auf technische Systeme an und behandelt vor allem die in der Technik wichtigen festen Körper. Ziel ist vor allem die Berechnung der in den Körpern wirkenden Kräfte. Vorlesungen in Technischer Mechanik sind fester Bestandteil in den Studiengängen des Maschinenbaus und des Bauingenieurwesens, werden dort im Bachelorstudium in größerem Umfang von etwa 30 von 180 ECTS-Aufwandspunkten gelehrt und in fast genauso vielen Lehrveranstaltungen angewendet. Außerdem wird sie in weiteren Ingenieurwissenschaften behandelt wie der Elektrotechnik, dem Industriedesign oder dem Wirtschaftsingenieurwesen, jedoch in geringerem Umfang von etwa 10 ECTS.</rdfs:comment>
+    <rdfs:comment xml:lang="ar">25بك المحتوى هنا ينقصه الاستشهاد بمصادر. يرجى إيراد مصادر موثوق بها. أي معلومات غير موثقة يمكن التشكيك بها وإزالتها. (مارس 2016) الميكانيك التطبيقي هو جزء من الفيزياء التطبيقية أساسها العلمي الميكانيكا الكلاسيكية التي تشكل بدورها جزءًا من الفيزياء يعرف من يمارسها كمهنة بالميكانيكي مشاريع شقيقة في كومنز صور وملفات عن: ميكانيك تطبيقي 25بك هذه بذرة مقالة عن الفيزياء بحاجة للتوسيع. شارك في تحريرها.</rdfs:comment>
+    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/Technische_Mechanik" />
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q1257115" />
+    <owl:sameAs rdf:resource="http://ja.dbpedia.org/resource/応用力学" />
+    <owl:sameAs rdf:resource="http://it.dbpedia.org/resource/Meccanica_applicata" />
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q1257115" />
+    <owl:sameAs rdf:resource="http://id.dbpedia.org/resource/Mekanika_teknik" />
+    <owl:sameAs rdf:resource="http://pt.dbpedia.org/resource/Mecânica_aplicada" />
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.0c90wg" />
+    <owl:sameAs rdf:resource="http://el.dbpedia.org/resource/Εφαρμοσμένη_μηχανική" />
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Applied_mechanics" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Mechanics" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Mechanical_engineering" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Structural_engineering" />
+    <dbo:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4562815</dbo:wikiPageID>
+    <dbo:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">744651594</dbo:wikiPageRevisionID>
+    <dbo:wikiPageExternalLink rdf:resource="http://www.nptelvideos.com/applied_mechanics/" />
+    <dbo:wikiPageExternalLink rdf:resource="https://web.archive.org/web/20131102052912/http:/www.saeteamkiit.org/~avinash/nptel/mechanical.htm" />
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Applied_mechanics" />
+    <prov:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Applied_mechanics?oldid=744651594" />
+    <dbo:abstract xml:lang="it">La meccanica applicata, nota anche in Italia come meccanica applicata alle macchine, è una branca dell&#39;ingegneria che ha lo scopo di studiare il comportamento dei dispositivi meccanici di interesse applicativo utilizzando la metodologia ed i risultati della meccanica teorica. A rigore sono parte della meccanica applicata anche la fluidodinamica applicata e la scienza delle costruzioni, ma il campo di studio di tali discipline è talmente vasto che sono ormai divenute branche indipendenti dell&#39;ingegneria. Al momento la meccanica applicata si occupa principalmente dello studio dei sistemi meccanici di interesse applicativo costituiti da corpi a comportamento rigido dei quali si studia la cinematica e successivamente, una volta note o ipotizzate le forze agenti, la dinamica.</dbo:abstract>
+    <dbo:abstract xml:lang="ru">Прикладная механика — техническая наука, посвящённая исследованиям устройств и принципов механизмов. Прикладная механика занимается изучением и классификацией машин, а также их разработкой. Прикладная механика состоит из четырёх разделов. 
+*  В первом из них рассматриваются общие черты теории механизмов. 
+*  Второй раздел посвящён основам сопротивления материалов — динамика и прочность инженерных конструкций. 
+*  Третий раздел посвящён вопросам проектирования наиболее распространённых механизмов (гл. образом кулачковых, фрикционных, зубчатых). 
+*  Четвёртый раздел посвящён деталям машин.</dbo:abstract>
+    <dbo:abstract xml:lang="pt">A mecânica aplicada é um ramo da ciência física e aplicação prática da mecânica. A mecânica aplicada examina a resposta dos corpos (sólidos e fluidos) ou sistema de corpos quando submetidos a forças externas. Alguns exemplos de sistemas mecânicos incluem o fluxo de líquidos sob pressão, a fratura de um sólido causada por uma força aplicada, ou a vibração de um sistema auditivo em resposta ao som. A mecânica aplicada, como o nome sugere, é uma ponte entre uma teoria física e suas aplicações técnicas. Como tal, a mecânica aplicada é usada erm diversos campos da engenharia, especialmente a engenharia mecânica.</dbo:abstract>
+    <dbo:abstract xml:lang="ar">25بك المحتوى هنا ينقصه الاستشهاد بمصادر. يرجى إيراد مصادر موثوق بها. أي معلومات غير موثقة يمكن التشكيك بها وإزالتها. (مارس 2016) الميكانيك التطبيقي هو جزء من الفيزياء التطبيقية أساسها العلمي الميكانيكا الكلاسيكية التي تشكل بدورها جزءًا من الفيزياء يعرف من يمارسها كمهنة بالميكانيكي مشاريع شقيقة في كومنز صور وملفات عن: ميكانيك تطبيقي 25بك هذه بذرة مقالة عن الفيزياء بحاجة للتوسيع. شارك في تحريرها.</dbo:abstract>
+    <dbo:abstract xml:lang="ja">応用力学（おうようりきがく、英語：applied mechanics）は、質量保存、運動量、角運動量、万有引力などの数少ない基本法則をもとに、論理的な推論によって、対象とした系の挙動を解析し、予測する学問である。その適用対象は広範多岐にわたり、スケールも原子分子のオーダーから宇宙規模にも及んでいる。また、これらの法則は、共通の記述言語である数学を用いて表現され、対象系を構成する材料や系全体の特性も数理的に記述される。これにより的確な共通理解が得られることになる。</dbo:abstract>
+    <dbo:abstract xml:lang="zh">工程力學，也稱應用力學，是研究宏觀物質運動規律及其在工程上的應用的科學，其基本原理是古典力學或經典力學，是物理學力學的一個分支，及質點及材料力學、塑性力學、彈性力學、結構力學、固體力學、流體力學、流變學、空氣力學、水力學和土力學等。工程力學屬於工程學的一門分科，旨在為如在材料科學、機械製造等專業提供理論上的計算方法。這些結合實際的法則可以進行材料的實際測量和選擇等諸多相關任務，工程力學作為輔助科學被運用其中。</dbo:abstract>
+    <dbo:abstract xml:lang="en">Applied mechanics is a branch of the physical sciences and the practical application of mechanics. Applied mechanics describes the response of bodies (solids and fluids) or systems of bodies to external forces. Some examples of mechanical systems include the flow of a liquid under pressure, the fracture of a solid from an applied force, or the vibration of an ear in response to sound. A practitioner of the discipline is known as a mechanician. Engineering mechanics describes the behavior of a body, in either a beginning state of rest or of motion, subjected to the action of forces. Applied mechanics, bridges the gap between physical theory and its application to technology. It is used in many fields of engineering, especially mechanical engineering. In this context, it is commonly referred to as engineering mechanics. Much of modern engineering mechanics is based on Isaac Newton&#39;s laws of motion while the modern practice of their application can be traced back to Stephen Timoshenko, who is said to be the father of modern engineering mechanics. Within the theoretical sciences, applied mechanics is useful in formulating new ideas and theories, discovering and interpreting phenomena, and developing experimental and computational tools. In the application of the natural sciences, mechanics was said to be complemented by thermodynamics, the study of heat and more generally energy, and electromechanics, the study of electricity and magnetism.</dbo:abstract>
+    <dbo:abstract xml:lang="de">Die Technische Mechanik ist ein Teil der Mechanik. Sie wendet die physikalischen Grundlagen auf technische Systeme an und behandelt vor allem die in der Technik wichtigen festen Körper. Ziel ist vor allem die Berechnung der in den Körpern wirkenden Kräfte. Vorlesungen in Technischer Mechanik sind fester Bestandteil in den Studiengängen des Maschinenbaus und des Bauingenieurwesens, werden dort im Bachelorstudium in größerem Umfang von etwa 30 von 180 ECTS-Aufwandspunkten gelehrt und in fast genauso vielen Lehrveranstaltungen angewendet. Außerdem wird sie in weiteren Ingenieurwissenschaften behandelt wie der Elektrotechnik, dem Industriedesign oder dem Wirtschaftsingenieurwesen, jedoch in geringerem Umfang von etwa 10 ECTS. Das Aufgabengebiet der Technischen Mechanik ist die Bereitstellung der theoretischen Berechnungsverfahren beispielsweise für den Maschinenbau und die Baustatik. Die eigentliche Bemessung der Bauteile oder Tragwerke, die Auswahl der Werkstoffe und dergleichen wird dann von anwendungsnahen Disziplinen übernommen, in denen die Technische Mechanik Hilfswissenschaft ist, beispielsweise die Konstruktionslehre oder die Betriebsfestigkeit. Gegenstände der Technischen Mechanik sind 
+*  die Gesetze der klassischen Mechanik, 
+*  mathematische Modelle der mechanischen Zusammenhänge physischer Körper, 
+*  spezifische und rationelle Methoden der rechnerischen Analyse mechanischer Systeme. Die klassische Einteilung erfolgt in 
+*  die Statik, die sich mit Kräften auf ruhende (unbewegte) Körper (hauptsächlich mit eindimensionalen Stäben) befasst, 
+*  die Festigkeitslehre, die sich mit deformierbaren Körpern (bzw. hauptsächlich Querschnitten) befasst und Material- und Querschnittseigenschaften integriert, 
+*  die Dynamik mit den beiden Teilgebieten Kinetik und Kinematik, die sich mit bewegten Körpern befassen. In der Theoretischen Mechanik (auch Analytische Mechanik genannt) geht es dagegen darum, von Axiomen wie den Newtonschen Gesetzen ausgehend eine widerspruchsfreie mathematische Theorie zu entwickeln. In der Technischen Mechanik wird dagegen ein methodischer Aufbau gewählt, der die benötigten Kenntnisse für die Berechnung von Maschinen oder Bauwerken vermittelt.</dbo:abstract>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/H._Norman_Abramson">
+    <dbo:knownFor rdf:resource="http://dbpedia.org/resource/Applied_mechanics" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Engineering_Mechanics">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Applied_mechanics" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ahmed_Cemal_Eringen">
+    <dbo:field rdf:resource="http://dbpedia.org/resource/Applied_mechanics" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Engineering_mechanics">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Applied_mechanics" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Thomas_R._Kane">
+    <dbo:field rdf:resource="http://dbpedia.org/resource/Applied_mechanics" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Theoretical_and_applied_mechanics">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Applied_mechanics" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Applied_mechanics">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Applied_mechanics" />
+  </rdf:Description>
+</rdf:RDF>

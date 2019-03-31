@@ -1,0 +1,473 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:dbo="http://dbpedia.org/ontology/"
+	xmlns:dbp="http://dbpedia.org/property/"
+	xmlns:dct="http://purl.org/dc/terms/"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	xmlns:prov="http://www.w3.org/ns/prov#"
+	xmlns:ns9="http://dbpedia.org/ontology/PopulatedPlace/"
+	xmlns:georss="http://www.georss.org/georss/"
+	xmlns:ns11="http://purl.org/linguistics/gold/" >
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Erika_Mabuchi">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Kagawa_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Takamatsu_Castle_(Sanuki)">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Kagawa_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yoshihiro_Hamaguchi">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Kagawa_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Norio_Suzuki_(golfer)">
+    <dbp:birthPlace rdf:resource="http://dbpedia.org/resource/Kagawa_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Japan_National_Route_30">
+    <dbo:routeEnd rdf:resource="http://dbpedia.org/resource/Kagawa_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yoshio_Fukui">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Kagawa_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Shōdoshima,_Kagawa">
+    <dbp:prefecture rdf:resource="http://dbpedia.org/resource/Kagawa_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yosan_Line">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Kagawa_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ayagawa,_Kagawa">
+    <dbp:prefecture rdf:resource="http://dbpedia.org/resource/Kagawa_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kōtoku_Line">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Kagawa_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mitoyo,_Kagawa">
+    <dbp:prefecture rdf:resource="http://dbpedia.org/resource/Kagawa_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Takamatsu,_Kagawa">
+    <dbp:prefecture rdf:resource="http://dbpedia.org/resource/Kagawa_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yuichi_Nakamura_(voice_actor)">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Kagawa_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yoshimi_Minami">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Kagawa_Prefecture" />
+    <dbp:birthPlace rdf:resource="http://dbpedia.org/resource/Kagawa_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hiroshi_Shima">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Kagawa_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sanuki,_Kagawa">
+    <dbp:prefecture rdf:resource="http://dbpedia.org/resource/Kagawa_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Shizuko_Kasagi">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Kagawa_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Shuri_Okuda">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Kagawa_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Wakamisugi_Akiteru">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Kagawa_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yasuo_Suzuki">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Kagawa_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Fuchu_Dam">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Kagawa_Prefecture" />
+    <dbo:operator rdf:resource="http://dbpedia.org/resource/Kagawa_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mannoike_Dam">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Kagawa_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Naiba_Dam">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Kagawa_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Port_of_Takamatsu">
+    <dbp:location rdf:resource="http://dbpedia.org/resource/Kagawa_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sanyo_Broadcasting__JOYR-TV,_JOYR-DTV__1">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Kagawa_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bukichi_Miki">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Kagawa_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tokujiro_Namikoshi">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Kagawa_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ōtaki-Ōkawa_Prefectural_Natural_Park">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Kagawa_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yuta_Watanabe">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Kagawa_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Shionoe,_Kagawa">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Kagawa_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sachiko_Masumi">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Kagawa_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Dosan_Line">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Kagawa_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jun_Kaname">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Kagawa_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Konpira_Grand_Theatre">
+    <dbp:city rdf:resource="http://dbpedia.org/resource/Kagawa_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kagawa_Five_Arrows">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Kagawa_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nishinippon_Broadcasting">
+    <dbo:broadcastArea rdf:resource="http://dbpedia.org/resource/Kagawa_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2013_Japan_Football_League">
+    <dbp:stadium rdf:resource="http://dbpedia.org/resource/Kagawa_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Aki_Takanori">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Kagawa_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hiroki_Ogita">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Kagawa_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Maeyama_Dam">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Kagawa_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yuji_Terajima">
+    <dbp:birthPlace rdf:resource="http://dbpedia.org/resource/Kagawa_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tameichi_Hara">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Kagawa_Prefecture" />
+    <dbp:birthPlace rdf:resource="http://dbpedia.org/resource/Kagawa_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kagawa-ken">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Kagawa_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kotoyūki_Kazuyoshi">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Kagawa_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kagawa">
+    <dbo:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/Kagawa_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kagawa_Prefecture">
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatPrefecturesOfJapan" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/District108552138" />
+    <rdf:type rdf:resource="http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing" />
+    <rdf:type rdf:resource="http://schema.org/AdministrativeArea" />
+    <rdf:type rdf:resource="http://schema.org/Place" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Location" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q3455524" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Place" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/PopulatedPlace" />
+    <rdf:type rdf:resource="http://umbel.org/umbel/rc/Location_Underspecified" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PhysicalEntity100001930" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Object100002684" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Location100027167" />
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/AdministrativeDistrict108491826" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoLegalActorGeo" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Region108630985" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoGeoEntity" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoPermanentlyLocatedEntity" />
+    <rdf:type rdf:resource="http://umbel.org/umbel/rc/PopulatedPlace" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Prefecture108626947" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/AdministrativeRegion" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Region" />
+    <rdfs:label xml:lang="nl">Kagawa (prefectuur)</rdfs:label>
+    <rdfs:label xml:lang="it">Prefettura di Kagawa</rdfs:label>
+    <rdfs:label xml:lang="en">Kagawa Prefecture</rdfs:label>
+    <rdfs:label xml:lang="de">Präfektur Kagawa</rdfs:label>
+    <rdfs:label xml:lang="pt">Kagawa</rdfs:label>
+    <rdfs:label xml:lang="ru">Кагава (префектура)</rdfs:label>
+    <rdfs:label xml:lang="fr">Préfecture de Kagawa</rdfs:label>
+    <rdfs:label xml:lang="pl">Prefektura Kagawa</rdfs:label>
+    <rdfs:label xml:lang="ja">香川県</rdfs:label>
+    <rdfs:label xml:lang="zh">香川县</rdfs:label>
+    <rdfs:label xml:lang="ar">كاغاوا (محافظة)</rdfs:label>
+    <rdfs:label xml:lang="es">Prefectura de Kagawa</rdfs:label>
+    <rdfs:comment xml:lang="de">Die Präfektur Kagawa (jap. 香川県, Kagawa-ken) ist eine der Präfekturen Japans und liegt auf der japanischen Insel Shikoku, an das Seto-Binnenmeer angrenzend. Sie ging 1871 aus der Provinz Sanuki hervor. Sitz der Präfekturverwaltung ist Takamatsu.</rdfs:comment>
+    <rdfs:comment xml:lang="zh">香川縣（日语：香川県／かがわけん Kagawa ken */?）位於日本四國島北部，面積約1,900平方公里，面積在各縣中是最小的，人口約1,020,000，縣廳（縣政府）設於高松市，自瀨户大橋興建後，火車及汽車便從對岸的岡山縣進入四國，香川縣成了四國的門户，該縣出產的讚岐烏龍麵頗为有名。</rdfs:comment>
+    <rdfs:comment xml:lang="ar">25بك المحتوى هنا ينقصه الاستشهاد بمصادر. يرجى إيراد مصادر موثوق بها. أي معلومات غير موثقة يمكن التشكيك بها وإزالتها. (مارس 2016) محافظة كاغاوا (باليابانية: 香川県, كاغاوا-كين) هي إحدى محافظات اليابان تقع في جزيرة شيكوكو، عاصمتها مدينة تاكاماتسو.</rdfs:comment>
+    <rdfs:comment xml:lang="ru">Кагава (яп. 香川県 Кагава-кэн) — префектура, расположенная в регионе Сикоку на острове Сикоку, Япония. Площадь префектуры составляет 1876,55 км², население — 981 577 человек (1 августа 2014), плотность населения — 523,08 чел./км². Центр префектуры — город Такамацу. Кагава – самая маленькая из префектур Японии.</rdfs:comment>
+    <rdfs:comment xml:lang="pt">Kagawa (香川県, Kagawa-ken?) é uma província do Japão. Tem como capital a cidade de Takamatsu.</rdfs:comment>
+    <rdfs:comment xml:lang="es">La prefectura de Kagawa (香川県 Kagawa-ken?) está ubicada en la isla de Shikoku, Japón. La capital es Takamatsu.</rdfs:comment>
+    <rdfs:comment xml:lang="it">Kagawa (香川県 Kagawa-ken?) è una prefettura giapponese di circa 1,8 milioni di abitanti, si trova nella regione di Shikoku, sull&#39;isola di Shikoku. Il suo capoluogo è Takamatsu. La prefettura di Kagawa corrisponde alla vecchia provincia di Sanuki.</rdfs:comment>
+    <rdfs:comment xml:lang="fr">Kagawa (香川県, Kagawa-ken) est une préfecture du Japon située au nord de Shikoku.</rdfs:comment>
+    <rdfs:comment xml:lang="nl">De prefectuur Kagawa (香川県, Kagawa-ken) is een Japanse prefectuur in het noordoosten van Shikoku. Kagawa heeft een oppervlakte van 1861,51 km² en had op 1 april 2008 een bevolking van 1.001.872 inwoners. De hoofdstad is Takamatsu.</rdfs:comment>
+    <rdfs:comment xml:lang="ja">香川県（かがわけん）は、瀬戸内海に面し四国の北東に位置する日本の県の一つで、令制国の讃岐国に当たる。県庁所在地は高松市。県名は、讃岐のほぼ中央に存在し、かつて高松が属していた古代以来の郡「香川郡」から取られた。全国一小さい県だが、災害が少なくコンパクトな中に都市の利便性と豊かな自然が調和した生活環境を併せ持つ特徴を有する。</rdfs:comment>
+    <rdfs:comment xml:lang="en">Kagawa Prefecture (香川県 Kagawa-ken) is a prefecture of Japan located on Shikoku island. The capital is Takamatsu.</rdfs:comment>
+    <rdfs:comment xml:lang="pl">Prefektura Kagawa (jap. 香川県 Kagawa-ken) – prefektura znajdująca się na wyspie Sikoku w Japonii. Jej stolicą jest miasto Takamatsu.</rdfs:comment>
+    <owl:differentFrom rdf:resource="http://dbpedia.org/resource/Kanagawa_Prefecture" />
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Historic_Sites_of_Kagawa_Prefecture" />
+    <owl:sameAs rdf:resource="http://yago-knowledge.org/resource/Kagawa_Prefecture" />
+    <owl:sameAs rdf:resource="http://es.dbpedia.org/resource/Prefectura_de_Kagawa" />
+    <owl:sameAs rdf:resource="http://ko.dbpedia.org/resource/가가와_현" />
+    <owl:sameAs rdf:resource="http://nl.dbpedia.org/resource/Kagawa_(prefectuur)" />
+    <owl:sameAs rdf:resource="http://ja.dbpedia.org/resource/香川県" />
+    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/Präfektur_Kagawa" />
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q161454" />
+    <owl:sameAs rdf:resource="http://sws.geonames.org/1860834/" />
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q161454" />
+    <owl:sameAs rdf:resource="http://it.dbpedia.org/resource/Prefettura_di_Kagawa" />
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Kagawa_Prefecture" />
+    <owl:sameAs rdf:resource="http://fr.dbpedia.org/resource/Préfecture_de_Kagawa" />
+    <owl:sameAs rdf:resource="http://eu.dbpedia.org/resource/Kagawa_(prefetura)" />
+    <owl:sameAs rdf:resource="http://id.dbpedia.org/resource/Prefektur_Kagawa" />
+    <owl:sameAs rdf:resource="http://cs.dbpedia.org/resource/Prefektura_Kagawa" />
+    <owl:sameAs rdf:resource="http://pl.dbpedia.org/resource/Prefektura_Kagawa" />
+    <owl:sameAs rdf:resource="http://pt.dbpedia.org/resource/Kagawa" />
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.0191nt" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Prefectures_of_Japan" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Shikoku_region" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Kagawa_Prefecture" />
+    <dbo:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">183463</dbo:wikiPageID>
+    <dbo:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">728973970</dbo:wikiPageRevisionID>
+    <dbo:wikiPageExternalLink rdf:resource="http://www.pref.kagawa.jp/" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.pref.kagawa.jp/foreigner.shtml" />
+    <dbo:wikiPageExternalLink rdf:resource="http://notesfromshikoku.blogspot.com" />
+    <foaf:name xml:lang="en">Kagawa</foaf:name>
+    <foaf:homepage rdf:resource="http://www.pref.kagawa.jp/foreigner.shtml" />
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#float">34.2667</geo:lat>
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#float">133.95</geo:long>
+    <foaf:depiction rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Flag_of_Kagawa_Prefecture.svg" />
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Kagawa_Prefecture" />
+    <geo:geometry rdf:datatype="http://www.openlinksw.com/schemas/virtrdf#Geometry">POINT(133.94999694824 34.266666412354)</geo:geometry>
+    <dbo:thumbnail rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Flag_of_Kagawa_Prefecture.svg?width=300" />
+    <prov:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Kagawa_Prefecture?oldid=728973970" />
+    <ns9:areaTotal rdf:datatype="http://dbpedia.org/datatype/squareKilometre">1861.7</ns9:areaTotal>
+    <ns9:populationDensity rdf:datatype="http://dbpedia.org/datatype/inhabitantsPerSquareKilometre">523.2</ns9:populationDensity>
+    <dbo:abstract xml:lang="nl">De prefectuur Kagawa (香川県, Kagawa-ken) is een Japanse prefectuur in het noordoosten van Shikoku. Kagawa heeft een oppervlakte van 1861,51 km² en had op 1 april 2008 een bevolking van 1.001.872 inwoners. De hoofdstad is Takamatsu.</dbo:abstract>
+    <dbo:abstract xml:lang="es">La prefectura de Kagawa (香川県 Kagawa-ken?) está ubicada en la isla de Shikoku, Japón. La capital es Takamatsu.</dbo:abstract>
+    <dbo:abstract xml:lang="ja">香川県（かがわけん）は、瀬戸内海に面し四国の北東に位置する日本の県の一つで、令制国の讃岐国に当たる。県庁所在地は高松市。県名は、讃岐のほぼ中央に存在し、かつて高松が属していた古代以来の郡「香川郡」から取られた。全国一小さい県だが、災害が少なくコンパクトな中に都市の利便性と豊かな自然が調和した生活環境を併せ持つ特徴を有する。</dbo:abstract>
+    <dbo:abstract xml:lang="pt">Kagawa (香川県, Kagawa-ken?) é uma província do Japão. Tem como capital a cidade de Takamatsu.</dbo:abstract>
+    <dbo:abstract xml:lang="en">Kagawa Prefecture (香川県 Kagawa-ken) is a prefecture of Japan located on Shikoku island. The capital is Takamatsu.</dbo:abstract>
+    <dbo:abstract xml:lang="fr">Kagawa (香川県, Kagawa-ken) est une préfecture du Japon située au nord de Shikoku.</dbo:abstract>
+    <dbo:abstract xml:lang="it">Kagawa (香川県 Kagawa-ken?) è una prefettura giapponese di circa 1,8 milioni di abitanti, si trova nella regione di Shikoku, sull&#39;isola di Shikoku. Il suo capoluogo è Takamatsu. La prefettura di Kagawa corrisponde alla vecchia provincia di Sanuki.</dbo:abstract>
+    <dbo:abstract xml:lang="pl">Prefektura Kagawa (jap. 香川県 Kagawa-ken) – prefektura znajdująca się na wyspie Sikoku w Japonii. Jej stolicą jest miasto Takamatsu.</dbo:abstract>
+    <dbo:abstract xml:lang="de">Die Präfektur Kagawa (jap. 香川県, Kagawa-ken) ist eine der Präfekturen Japans und liegt auf der japanischen Insel Shikoku, an das Seto-Binnenmeer angrenzend. Sie ging 1871 aus der Provinz Sanuki hervor. Sitz der Präfekturverwaltung ist Takamatsu.</dbo:abstract>
+    <dbo:abstract xml:lang="ru">Кагава (яп. 香川県 Кагава-кэн) — префектура, расположенная в регионе Сикоку на острове Сикоку, Япония. Площадь префектуры составляет 1876,55 км², население — 981 577 человек (1 августа 2014), плотность населения — 523,08 чел./км². Центр префектуры — город Такамацу. Кагава – самая маленькая из префектур Японии.</dbo:abstract>
+    <dbo:abstract xml:lang="zh">香川縣（日语：香川県／かがわけん Kagawa ken */?）位於日本四國島北部，面積約1,900平方公里，面積在各縣中是最小的，人口約1,020,000，縣廳（縣政府）設於高松市，自瀨户大橋興建後，火車及汽車便從對岸的岡山縣進入四國，香川縣成了四國的門户，該縣出產的讚岐烏龍麵頗为有名。</dbo:abstract>
+    <dbo:abstract xml:lang="ar">25بك المحتوى هنا ينقصه الاستشهاد بمصادر. يرجى إيراد مصادر موثوق بها. أي معلومات غير موثقة يمكن التشكيك بها وإزالتها. (مارس 2016) محافظة كاغاوا (باليابانية: 香川県, كاغاوا-كين) هي إحدى محافظات اليابان تقع في جزيرة شيكوكو، عاصمتها مدينة تاكاماتسو.</dbo:abstract>
+    <dbo:areaTotal rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.8617e+09</dbo:areaTotal>
+    <dbo:capital rdf:resource="http://dbpedia.org/resource/Takamatsu,_Kagawa" />
+    <dbo:country rdf:resource="http://dbpedia.org/resource/Japan" />
+    <dbo:populationDensity rdf:datatype="http://www.w3.org/2001/XMLSchema#double">523.2</dbo:populationDensity>
+    <dbo:populationTotal rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">974052</dbo:populationTotal>
+    <dbp:island rdf:resource="http://dbpedia.org/resource/Shikoku" />
+    <dbp:municipalities rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">17</dbp:municipalities>
+    <dbp:popdate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2016-05-01</dbp:popdate>
+    <!--
+    <p: xmlns:p="http://dbpedia.org/property/rōmaji" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Kagawa-ken</p:>
+    -->
+    <georss:point>34.266666666666666 133.95</georss:point>
+    <dbp:arearank rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">47</dbp:arearank>
+    <dbp:bird rdf:resource="http://dbpedia.org/resource/Lesser_cuckoo" />
+    <dbp:districts rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</dbp:districts>
+    <dbp:flag rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Flag of Kagawa Prefecture.svg</dbp:flag>
+    <dbp:flower rdf:resource="http://dbpedia.org/resource/Olive" />
+    <dbp:governor rdf:resource="http://dbpedia.org/resource/Keizō_Hamada" />
+    <dbp:isocode rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">JP-37</dbp:isocode>
+    <dbp:pcwater rdf:datatype="http://www.w3.org/2001/XMLSchema#double">2.8</dbp:pcwater>
+    <dbp:poprank rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">40</dbp:poprank>
+    <dbp:region rdf:resource="http://dbpedia.org/resource/Shikoku" />
+    <dbp:symbol rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Symbol of Kagawa Prefecture.svg</dbp:symbol>
+    <dbp:tree rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Olive</dbp:tree>
+    <dbp:japanesename rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">香川県</dbp:japanesename>
+    <ns11:hypernym rdf:resource="http://dbpedia.org/resource/Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mino,_Kagawa">
+    <dbp:prefecture rdf:resource="http://dbpedia.org/resource/Kagawa_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Chichu_Art_Museum">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Kagawa_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Honshi-Bisan_Line">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Kagawa_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kagawa_University">
+    <dbo:state rdf:resource="http://dbpedia.org/resource/Kagawa_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Takamatsu_University">
+    <dbo:state rdf:resource="http://dbpedia.org/resource/Kagawa_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ryoji_Ujihara">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Kagawa_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2014_J.League_Division_2">
+    <dbp:stadium rdf:resource="http://dbpedia.org/resource/Kagawa_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2014_J3_League">
+    <dbp:stadium rdf:resource="http://dbpedia.org/resource/Kagawa_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Makoto_Kitano">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Kagawa_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sanuki_udon">
+    <dbo:region rdf:resource="http://dbpedia.org/resource/Kagawa_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kento_Momota">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Kagawa_Prefecture" />
+    <dbp:birthPlace rdf:resource="http://dbpedia.org/resource/Kagawa_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Naohiro_Oyama">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Kagawa_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nobuhiro_Maeda">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Kagawa_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Rikiya_Kawamae">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Kagawa_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Shigeki_Mino">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Kagawa_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Taisuke_Matsugae">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Kagawa_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Takayuki_Tada">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Kagawa_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Higashikagawa,_Kagawa">
+    <dbp:prefecture rdf:resource="http://dbpedia.org/resource/Kagawa_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kan&#39;onji,_Kagawa">
+    <dbp:prefecture rdf:resource="http://dbpedia.org/resource/Kagawa_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kotohira,_Kagawa">
+    <dbp:prefecture rdf:resource="http://dbpedia.org/resource/Kagawa_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mannō,_Kagawa">
+    <dbp:prefecture rdf:resource="http://dbpedia.org/resource/Kagawa_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Marugame,_Kagawa">
+    <dbp:prefecture rdf:resource="http://dbpedia.org/resource/Kagawa_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Michiru_Yamane">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Kagawa_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Miki,_Kagawa">
+    <dbp:prefecture rdf:resource="http://dbpedia.org/resource/Kagawa_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Naoshima,_Kagawa">
+    <dbp:prefecture rdf:resource="http://dbpedia.org/resource/Kagawa_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sakaide,_Kagawa">
+    <dbp:prefecture rdf:resource="http://dbpedia.org/resource/Kagawa_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tadotsu,_Kagawa">
+    <dbp:prefecture rdf:resource="http://dbpedia.org/resource/Kagawa_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tonoshō,_Kagawa">
+    <dbp:prefecture rdf:resource="http://dbpedia.org/resource/Kagawa_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Zentsūji,_Kagawa">
+    <dbp:prefecture rdf:resource="http://dbpedia.org/resource/Kagawa_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Marugame_Castle">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Kagawa_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kohei_Mihara_(footballer)">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Kagawa_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Shigeru_Katagiri">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Kagawa_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kagawa_prefecture">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Kagawa_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Keiichi_Sato">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Kagawa_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Teshima_Art_Museum">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Kagawa_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nishinippon_Broadcasting__JOKF-_D_TV__1">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Kagawa_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Satoru_Anabuki">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Kagawa_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hajime_Toyoshima">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Kagawa_Prefecture" />
+    <dbp:birthPlace rdf:resource="http://dbpedia.org/resource/Kagawa_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kotoden_Nagao_Line">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Kagawa_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hiroshima_FM">
+    <dbo:broadcastArea rdf:resource="http://dbpedia.org/resource/Kagawa_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kimiko_Itoh">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Kagawa_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sakae_Tsuboi">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Kagawa_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hōnen&#39;ike_Dam">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Kagawa_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Masanori_Yusa">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Kagawa_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Masumi_Aya">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Kagawa_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yoichiro_Yoshikawa">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Kagawa_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Utazu,_Kagawa">
+    <dbp:prefecture rdf:resource="http://dbpedia.org/resource/Kagawa_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Kagawa_Museum">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Kagawa_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kotogahama_Sadao">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Kagawa_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kohichi_Amano">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Kagawa_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Wasanbon">
+    <dbo:region rdf:resource="http://dbpedia.org/resource/Kagawa_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2013_J.League_Division_2">
+    <dbp:stadium rdf:resource="http://dbpedia.org/resource/Kagawa_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Akihiro_Yoshida">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Kagawa_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kotoden_Kotohira_Line">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Kagawa_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kotoden_Shido_Line">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Kagawa_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Keiichiro_Nakano">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Kagawa_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Takayuki_Hirao">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Kagawa_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sumire_Kita">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Kagawa_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ryota_Noguchi">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Kagawa_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Takashi_Akiyama">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Kagawa_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Toshihiro_Horikawa">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Kagawa_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/香川県">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Kagawa_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/JP-37">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Kagawa_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Kagawa_Prefecture">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Kagawa_Prefecture" />
+  </rdf:Description>
+</rdf:RDF>

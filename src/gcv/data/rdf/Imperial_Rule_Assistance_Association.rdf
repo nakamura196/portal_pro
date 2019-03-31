@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:dct="http://purl.org/dc/terms/"
+	xmlns:dbo="http://dbpedia.org/ontology/"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:prov="http://www.w3.org/ns/prov#"
+	xmlns:dbp="http://dbpedia.org/property/"
+	xmlns:ns8="http://purl.org/linguistics/gold/" >
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kantarō_Suzuki">
+    <dbo:party rdf:resource="http://dbpedia.org/resource/Imperial_Rule_Assistance_Association" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kuniaki_Koiso">
+    <dbo:party rdf:resource="http://dbpedia.org/resource/Imperial_Rule_Assistance_Association" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nobusuke_Kishi">
+    <dbo:otherParty rdf:resource="http://dbpedia.org/resource/Imperial_Rule_Assistance_Association" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Taisei_Yokusankai">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Imperial_Rule_Assistance_Association" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Rikken_Minseitō">
+    <dbp:successor rdf:resource="http://dbpedia.org/resource/Imperial_Rule_Assistance_Association" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Shakai_Taishūtō">
+    <dbp:successor rdf:resource="http://dbpedia.org/resource/Imperial_Rule_Assistance_Association" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tasei_Yokusankai">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Imperial_Rule_Assistance_Association" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Fumimaro_Konoe">
+    <dbo:party rdf:resource="http://dbpedia.org/resource/Imperial_Rule_Assistance_Association" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hideki_Tojo">
+    <dbo:party rdf:resource="http://dbpedia.org/resource/Imperial_Rule_Assistance_Association" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Rikken_Seiyūkai">
+    <dbp:successor rdf:resource="http://dbpedia.org/resource/Imperial_Rule_Assistance_Association" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Great_Japan_Youth_Party">
+    <dbp:motherParty rdf:resource="http://dbpedia.org/resource/Imperial_Rule_Assistance_Association" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Imperial_Rule_Assistance_Association">
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q7278" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoLegalActor" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoLegalActorGeo" />
+    <rdf:type rdf:resource="http://schema.org/Organization" />
+    <rdf:type rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#SocialPerson" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Party108256968" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/SocialGroup107950920" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Group100031264" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Organization108008335" />
+    <rdf:type rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q24229398" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Company" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Abstraction100002137" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Organisation" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Agent" />
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatPoliticalPartiesInJapan" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatDefunctPoliticalPartiesInJapan" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatFar-rightPoliticalParties" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatPoliticalPartiesEstablishedIn1940" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatBannedFar-rightParties" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatPoliticalPartiesDisestablishedIn1945" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q43229" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatPartiesOfSingle-partySystems" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatMonarchistParties" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoPermanentlyLocatedEntity" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/PoliticalParty" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatMonarchistOrganizations" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatFascistParties" />
+    <rdfs:label xml:lang="it">Taisei Yokusankai</rdfs:label>
+    <rdfs:label xml:lang="fr">Association de soutien à l&#39;autorité impériale</rdfs:label>
+    <rdfs:label xml:lang="ru">Ассоциация помощи трону</rdfs:label>
+    <rdfs:label xml:lang="en">Imperial Rule Assistance Association</rdfs:label>
+    <rdfs:label xml:lang="de">Taisei Yokusankai</rdfs:label>
+    <rdfs:label xml:lang="ja">大政翼賛会</rdfs:label>
+    <rdfs:label xml:lang="zh">大政翼贊會</rdfs:label>
+    <rdfs:label xml:lang="pt">Taisei Yokusankai</rdfs:label>
+    <rdfs:label xml:lang="es">Taisei Yokusankai</rdfs:label>
+    <rdfs:label xml:lang="pl">Stowarzyszenie Wspierania Władzy Cesarskiej</rdfs:label>
+    <rdfs:comment xml:lang="de">Die Taisei Yokusankai (jap. 大政翼賛会, deutsch Unterstützungsgesellschaft für die Kaiserliche Herrschaft, oder Kaiserliche Hilfsgesellschaft) wurde 1940 vom damaligen Japanischen Premierminister Konoe Fumimaro gegründet. Er beabsichtigte damit die Parteienpolitik in Japan abzuschaffen. Unter der Shintaisen genannten Doktrin machte er sich an die Abschaffung der traditionellen Parteien. Als Ersatz für diese war die Taisei Yokusankai, eine „rechts-sozialistische“ Sammelbewegung, vorgesehen. Damit würde Japan de facto zum Ein-Parteien-Staat.</rdfs:comment>
+    <rdfs:comment xml:lang="es">La Asociación de Apoyo al Régimen Imperial (大政翼贊會/大政翼賛会 Taisei Yokusankai?) fue una organización para-fascista de Japón, creada en octubre de 1940 por el primer ministro Fumimaro Konoe para promover los objetivos del Shintaisei (&quot;Nuevo Orden&quot;). El Taiseis Yokusankai pronto evolucionó hacia un partido político de tipo estatista que buscaba acabar con las divisiones existentes en la política y la economía del Imperio de Japón para a su vez crear un estado totalitario de partido único, con el fin de maximizar la eficacia de la guerra total que Japón sostenía con China.</rdfs:comment>
+    <rdfs:comment xml:lang="fr">L&#39;association de soutien à l&#39;autorité impériale (大政翼賛会, Taisei Yokusankai) est une structure politique créée par le Premier Ministre Fumimaro Konoe le 12 octobre 1940 afin de supprimer le sectarisme et d&#39;instaurer un parti unique totalitaire au sein de l&#39;Empire du Japon. Ce parti devait maximiser l&#39;effort de guerre totale contre la Chine.</rdfs:comment>
+    <rdfs:comment xml:lang="zh">大政翼贊會（日语：大政翼賛会〔大政翼贊會〕／たいせいよくさんかい Taisei yokusankai ?）是日本在第二次世界大戰期間的一個政治團體，於1940年10月12日宣告成立，1945年6月13日解散。其以推動政治權力集中的「新體制運動」作為主要目標，將既有的政黨解散成一個全國性的政治組織，以一黨專政的模式統治日本。 由於當時任何形式的結社自由均被管制，大政翼贊會因而自稱是一種為了公共目的而成立的「公事結社」。雖然自身認為是一個超越黨派的組織，但戰後被廣泛被認為是與同時代之納粹黨、法西斯黨相似的獨裁政黨，較不同之處是大政翼贊會採取多數決，與上述政黨多為個人獨裁相異。除了位於首都東京的中央本部外，在全國各地設有道府縣支部、大都市支部、市區町村支部、町内會、部落會等分支機構。 大政翼贊會成立後，曾與許多功能類似的團體合併、也成立許多外圍團體，例如1942年5月26日成立的「日本文學報國會」、1942年12月23日成立的「大日本言論報國會」等。在當時太平洋戰爭爆發的情勢下，以大政翼贊會為中心、對軍部的方針給予支持的政治體制，被稱為「翼贊體制」，無論是政府運作、公共政策、產業發展、文化教育等各種國政事務，均在這種體系下被大政翼贊會及其外圍團體緊密掌握。</rdfs:comment>
+    <rdfs:comment xml:lang="ru">Ассоциация помощи трону (Тайсэй ёкусанкай, яп. 大政翼贊會) — японская фашистская организация в 1940—1945. Цель создания — «мобилизовать нацию вокруг монарха» в условиях войны. Была создана в 1940 году по инициативе премьер-министра Фумимаро Коноэ в рамках создания так называемой «новой политической структуры» взамен распущенных политических партий вскоре после подписания Японией «Тройственного пакта», закрепившего союз стран оси. Возглавлял Ассоциацию помощи трону председатель, которым становился премьер-министр; в префектурах, уездах, городах и посёлках существовали местные отделы; весь административный аппарат назначался председателем на 1 год. Как правило, местные руководители префектур, городов и деревень были одновременно руководителями соответствующих местных отделений ассоциации.</rdfs:comment>
+    <rdfs:comment xml:lang="pl">Stowarzyszenie Wspierania Władzy Cesarskiej (jap. 大政翼賛会 Taisei-yokusankai) – stowarzyszenie powstałe w Japonii 12 października 1940 r., istniejące do 13 czerwca 1945. Zajęło miejsce rozwiązanych partii politycznych. Zgodnie z zasadą monopartyjności miało koordynować na terenie całego kraju działalność administracyjną i polityczną zmierzającą do osiągnięcia &quot;celów cesarstwa&quot;. Wszelkie różnice zdań miały ulec zniwelowaniu dla dobra jednej, wspólnej sprawy. Wysiłki mobilizacyjne, którymi kierowało Stowarzyszenie Wspierania Władzy Cesarskiej, były podejmowane w trzech płaszczyznach:</rdfs:comment>
+    <rdfs:comment xml:lang="ja">大政翼賛会（たいせいよくさんかい）は、1940年（昭和15年）10月12日から1945年（昭和20年）6月13日まで存在していた日本の公事結社。左右合同の組織である。</rdfs:comment>
+    <rdfs:comment xml:lang="en">The Imperial Rule Assistance Association (大政翼贊會/大政翼賛会 Taisei Yokusankai), or Imperial Aid Association, was Japan&#39;s para-fascist organization created by Prime Minister Fumimaro Konoe on October 12, 1940 to promote the goals of his Shintaisei (&quot;New Order&quot;) movement. It evolved into a &quot;statist&quot; ruling political party which aimed at removing the sectionalism in the politics and economics in the Empire of Japan to create a totalitarian one-party state, in order to maximize efficiency of Japan’s total war effort in China. When the organization was launched officially, Konoe was hailed as a &quot;political savior&quot; of a nation in chaos; however, internal divisions soon appeared.</rdfs:comment>
+    <rdfs:comment xml:lang="it">L&#39;Associazione per il sostegno dell&#39;Autorità Imperiale (in giapponese 大政翼賛会 - Taisei Yokusankai) è stato un partito politico para-fascista giapponese attivo dal 1940 al 1945.</rdfs:comment>
+    <rdfs:comment xml:lang="pt">Associação de Assistência ao Regime Imperial (大政翼贊會/大政翼賛会, Taisei Yokusankai?), ou Associação de Apoio Imperial, foi uma organização para-fascista japonesa criada pelo primeiro-ministro Fumimaro Konoe em 12 de outubro de 1940 para promover os objetivos de seu movimento Shintaisou (&quot;Nova Ordem&quot;). Evoluiu para um partido político governante &quot;estatista&quot;, que visava acabar com as divisões existentes na política e na economia do Império do Japão para criar um Estado totalitário unipartidário, a fim de maximizar a eficiência do esforço de guerra total do Japão na China.  Quando a organização foi iniciada oficialmente, Konoe foi saudado como um &quot;salvador político&quot; de uma nação no caos; no entanto, as divisões internas logo apareceram.</rdfs:comment>
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q714797" />
+    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/Taisei_Yokusankai" />
+    <owl:sameAs rdf:resource="http://ja.dbpedia.org/resource/大政翼賛会" />
+    <owl:sameAs rdf:resource="http://es.dbpedia.org/resource/Taisei_Yokusankai" />
+    <owl:sameAs rdf:resource="http://cs.dbpedia.org/resource/Asociace_pro_podporu_trůnu" />
+    <owl:sameAs rdf:resource="http://pl.dbpedia.org/resource/Stowarzyszenie_Wspierania_Władzy_Cesarskiej" />
+    <owl:sameAs rdf:resource="http://it.dbpedia.org/resource/Taisei_Yokusankai" />
+    <owl:sameAs rdf:resource="http://fr.dbpedia.org/resource/Association_de_soutien_à_l&#39;autorité_impériale" />
+    <owl:sameAs rdf:resource="http://ko.dbpedia.org/resource/대정익찬회" />
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q714797" />
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.08bxbb" />
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Imperial_Rule_Assistance_Association" />
+    <owl:sameAs rdf:resource="http://yago-knowledge.org/resource/Imperial_Rule_Assistance_Association" />
+    <owl:sameAs rdf:resource="http://pt.dbpedia.org/resource/Taisei_Yokusankai" />
+    <owl:sameAs rdf:resource="http://yago-knowledge.org/resource/Taisei_Yokusankai" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Politics_of_the_Empire_of_Japan" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Fascist_parties" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Defunct_political_parties_in_Japan" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Japanese_nationalism" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Political_parties_disestablished_in_1945" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Political_parties_established_in_1940" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Banned_far-right_parties" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Parties_of_one-party_systems" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Political_parties_in_Japan" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Japan_in_World_War_II" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Far-right_politics_in_Japan" />
+    <dbo:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2909254</dbo:wikiPageID>
+    <dbo:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">744749459</dbo:wikiPageRevisionID>
+    <foaf:name xml:lang="en">大政翼贊會</foaf:name>
+    <foaf:name xml:lang="en">大政翼賛会</foaf:name>
+    <foaf:name xml:lang="en">Taisei Yokusankai</foaf:name>
+    <foaf:depiction rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Taisei_Yokusankai.svg" />
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Imperial_Rule_Assistance_Association" />
+    <dbo:thumbnail rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Taisei_Yokusankai.svg?width=300" />
+    <prov:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Imperial_Rule_Assistance_Association?oldid=744749459" />
+    <dbo:abstract xml:lang="zh">大政翼贊會（日语：大政翼賛会〔大政翼贊會〕／たいせいよくさんかい Taisei yokusankai ?）是日本在第二次世界大戰期間的一個政治團體，於1940年10月12日宣告成立，1945年6月13日解散。其以推動政治權力集中的「新體制運動」作為主要目標，將既有的政黨解散成一個全國性的政治組織，以一黨專政的模式統治日本。 由於當時任何形式的結社自由均被管制，大政翼贊會因而自稱是一種為了公共目的而成立的「公事結社」。雖然自身認為是一個超越黨派的組織，但戰後被廣泛被認為是與同時代之納粹黨、法西斯黨相似的獨裁政黨，較不同之處是大政翼贊會採取多數決，與上述政黨多為個人獨裁相異。除了位於首都東京的中央本部外，在全國各地設有道府縣支部、大都市支部、市區町村支部、町内會、部落會等分支機構。 大政翼贊會成立後，曾與許多功能類似的團體合併、也成立許多外圍團體，例如1942年5月26日成立的「日本文學報國會」、1942年12月23日成立的「大日本言論報國會」等。在當時太平洋戰爭爆發的情勢下，以大政翼贊會為中心、對軍部的方針給予支持的政治體制，被稱為「翼贊體制」，無論是政府運作、公共政策、產業發展、文化教育等各種國政事務，均在這種體系下被大政翼贊會及其外圍團體緊密掌握。 1945年3月30日，其旗下肩負議會政黨職責的翼贊政治會改組為「大日本政治會」，大政翼贊會本身則在同年6月被解散併入因應本土決戰而成立的「國民義勇隊」。</dbo:abstract>
+    <dbo:abstract xml:lang="it">L&#39;Associazione per il sostegno dell&#39;Autorità Imperiale (in giapponese 大政翼賛会 - Taisei Yokusankai) è stato un partito politico para-fascista giapponese attivo dal 1940 al 1945.</dbo:abstract>
+    <dbo:abstract xml:lang="de">Die Taisei Yokusankai (jap. 大政翼賛会, deutsch Unterstützungsgesellschaft für die Kaiserliche Herrschaft, oder Kaiserliche Hilfsgesellschaft) wurde 1940 vom damaligen Japanischen Premierminister Konoe Fumimaro gegründet. Er beabsichtigte damit die Parteienpolitik in Japan abzuschaffen. Unter der Shintaisen genannten Doktrin machte er sich an die Abschaffung der traditionellen Parteien. Als Ersatz für diese war die Taisei Yokusankai, eine „rechts-sozialistische“ Sammelbewegung, vorgesehen. Damit würde Japan de facto zum Ein-Parteien-Staat.</dbo:abstract>
+    <dbo:abstract xml:lang="ja">大政翼賛会（たいせいよくさんかい）は、1940年（昭和15年）10月12日から1945年（昭和20年）6月13日まで存在していた日本の公事結社。左右合同の組織である。</dbo:abstract>
+    <dbo:abstract xml:lang="en">The Imperial Rule Assistance Association (大政翼贊會/大政翼賛会 Taisei Yokusankai), or Imperial Aid Association, was Japan&#39;s para-fascist organization created by Prime Minister Fumimaro Konoe on October 12, 1940 to promote the goals of his Shintaisei (&quot;New Order&quot;) movement. It evolved into a &quot;statist&quot; ruling political party which aimed at removing the sectionalism in the politics and economics in the Empire of Japan to create a totalitarian one-party state, in order to maximize efficiency of Japan’s total war effort in China. When the organization was launched officially, Konoe was hailed as a &quot;political savior&quot; of a nation in chaos; however, internal divisions soon appeared.</dbo:abstract>
+    <dbo:abstract xml:lang="pt">Associação de Assistência ao Regime Imperial (大政翼贊會/大政翼賛会, Taisei Yokusankai?), ou Associação de Apoio Imperial, foi uma organização para-fascista japonesa criada pelo primeiro-ministro Fumimaro Konoe em 12 de outubro de 1940 para promover os objetivos de seu movimento Shintaisou (&quot;Nova Ordem&quot;). Evoluiu para um partido político governante &quot;estatista&quot;, que visava acabar com as divisões existentes na política e na economia do Império do Japão para criar um Estado totalitário unipartidário, a fim de maximizar a eficiência do esforço de guerra total do Japão na China.  Quando a organização foi iniciada oficialmente, Konoe foi saudado como um &quot;salvador político&quot; de uma nação no caos; no entanto, as divisões internas logo apareceram.</dbo:abstract>
+    <dbo:abstract xml:lang="pl">Stowarzyszenie Wspierania Władzy Cesarskiej (jap. 大政翼賛会 Taisei-yokusankai) – stowarzyszenie powstałe w Japonii 12 października 1940 r., istniejące do 13 czerwca 1945. Zajęło miejsce rozwiązanych partii politycznych. Zgodnie z zasadą monopartyjności miało koordynować na terenie całego kraju działalność administracyjną i polityczną zmierzającą do osiągnięcia &quot;celów cesarstwa&quot;. Wszelkie różnice zdań miały ulec zniwelowaniu dla dobra jednej, wspólnej sprawy. Stowarzyszenie Wspierania Władzy Cesarskiej było wzorowane na partii nazistowskiej, lecz pod względem składu i stylu działania wykazywało zasadnicze różnice. Było mechanizmem, przy pomocy którego przywódcy usiłowali stworzyć pozory ogólnonarodowej zgody. Nie miało kadry aktywnych działaczy i jedynie w niewielkim stopniu odwoływało się do zgromadzeń i przemówień. Działało drogą nacisków społecznych, dławiąc niezadowolenie i formując jednomyślne poparcie dla rządu. Cała jego struktura nie służyła czynnej kontroli społecznej, a jedynie zwalczaniu opozycji, niewiary wobec wojennych celów i nacjonalistycznych dogmatów. Wysiłki mobilizacyjne, którymi kierowało Stowarzyszenie Wspierania Władzy Cesarskiej, były podejmowane w trzech płaszczyznach: 
+*  Mobilizacja narodowa - dążenie do całkowitego ujednolicenia frontu wewnętrznego. W ramach tej mobilizacji cały kraj został objęty siecią małych związków sąsiedzkich (tonari-gumi). 
+*  Mobilizacja na rzecz celu państwowego - polegała na dążeniu do połączenia wszystkich ośrodków działalności politycznej, społecznej i kulturalnej w kraju. Zmuszano je do włączenia się do kampanii i przemawiania zgodnym chórem. 
+*  Mobilizacja duchowa - ujednolicenie poglądów i jednomyślne popieranie haseł szowinizmu i nacjonalizmu. W tym celu operowano hasłami &quot;drogi cesarskiej&quot;, &quot;ducha Yamato&quot;, &quot;misji cesarskiej&quot;, i sloganami &quot;cały świat pod jednym dachem&quot;, &quot;jedność rządów i religii&quot;. Otwarcie występowano przeciwko światu zachodniemu i starano się wymazywać wpływy Zachodu z życia Japończyków (filmy zagraniczne znikały z repertuarów kin, usuwano napisy w języku angielskim z dworców kolejowych, zarzucano grę w golfa na rzecz rodzimego łucznictwa). Nowy podręcznik szkolny zatytułowany Podstawy państwowości japońskiej (jap. 国体の本義 Kokutai no hongi) zaszczepiał młodzieży wiarę w mity związane z dziejami Japonii i w sintoistyczne dogmaty o boskości cesarza, o wyjątkowości narodu japońskiego i o posłannictwie Japonii do zjednoczenia świata i jej roli pomostu pomiędzy Wschodem i Zachodem.</dbo:abstract>
+    <dbo:abstract xml:lang="fr">L&#39;association de soutien à l&#39;autorité impériale (大政翼賛会, Taisei Yokusankai) est une structure politique créée par le Premier Ministre Fumimaro Konoe le 12 octobre 1940 afin de supprimer le sectarisme et d&#39;instaurer un parti unique totalitaire au sein de l&#39;Empire du Japon. Ce parti devait maximiser l&#39;effort de guerre totale contre la Chine.</dbo:abstract>
+    <dbo:abstract xml:lang="ru">Ассоциация помощи трону (Тайсэй ёкусанкай, яп. 大政翼贊會) — японская фашистская организация в 1940—1945. Цель создания — «мобилизовать нацию вокруг монарха» в условиях войны. Была создана в 1940 году по инициативе премьер-министра Фумимаро Коноэ в рамках создания так называемой «новой политической структуры» взамен распущенных политических партий вскоре после подписания Японией «Тройственного пакта», закрепившего союз стран оси. Возглавлял Ассоциацию помощи трону председатель, которым становился премьер-министр; в префектурах, уездах, городах и посёлках существовали местные отделы; весь административный аппарат назначался председателем на 1 год. Как правило, местные руководители префектур, городов и деревень были одновременно руководителями соответствующих местных отделений ассоциации. Одновременно с созданием организации резко ужесточился политический режим, был установлен контроль над всей экономической и общественной жизнью страны. Велась активная пропаганда в СМИ шовинизма, милитаризма и антикоммунизма, усилился полицейский террор. Ассоциации помощи трону подчинялись различные массовые организации (Ассоциация великой Японии служения отечеству через производство, Молодёжная партия великой Японии и другие). В январе 1942 года правительством Тодзио были назначены новые выборы, всю подготовку к которым провела Ассоциация, ею была создана особая организация для рекомендации депутатов в парламент. В итоге из 466 избранных депутатов 381 были рекомендованы Ассоциацией. В мае 1942 года для усиления «новой политической структуры» было создано Общество политического содействия трону во главе с бывшим премьером Абэ Нобуюки для усиления идеологической работы, достижения победы в войне. После создания этого общества все сохранившиеся до той поры политические организации Японии объявили о самороспуске. 30 марта 1945 года была создана новая организация под названием «Политическое общество Великой Японии», объединившая функции Ассоциации помощи трону и Общества политического содействия трону. Руководителем стал генерал Минами Дзиро. Это попытка сплотить японский народ в условиях проигрываемой войны не удалась: брожение и недовольство усиливалось, например, ещё в 1944 году около 15 % рабочих уклонилось от явки на заводы.13 июня 1945 года, незадолго до капитуляции Японии во Второй мировой войне, Ассоциация помощи трону была распущена японским правительством.</dbo:abstract>
+    <dbo:abstract xml:lang="es">La Asociación de Apoyo al Régimen Imperial (大政翼贊會/大政翼賛会 Taisei Yokusankai?) fue una organización para-fascista de Japón, creada en octubre de 1940 por el primer ministro Fumimaro Konoe para promover los objetivos del Shintaisei (&quot;Nuevo Orden&quot;). El Taiseis Yokusankai pronto evolucionó hacia un partido político de tipo estatista que buscaba acabar con las divisiones existentes en la política y la economía del Imperio de Japón para a su vez crear un estado totalitario de partido único, con el fin de maximizar la eficacia de la guerra total que Japón sostenía con China.</dbo:abstract>
+    <dbo:colour rdf:resource="http://dbpedia.org/resource/Red_(color)" />
+    <dbo:colour rdf:resource="http://dbpedia.org/resource/White" />
+    <dbo:colourName xml:lang="en">Red,white</dbo:colourName>
+    <dbo:country rdf:resource="http://dbpedia.org/resource/Empire_of_Japan" />
+    <dbo:extinctionDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1945-06-13</dbo:extinctionDate>
+    <dbo:extinctionYear rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1945</dbo:extinctionYear>
+    <dbo:formationDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1940-10-12</dbo:formationDate>
+    <dbo:formationYear rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1940</dbo:formationYear>
+    <dbo:headquarter rdf:resource="http://dbpedia.org/resource/Tokyo" />
+    <dbo:headquarter rdf:resource="http://dbpedia.org/resource/Empire_of_Japan" />
+    <dbo:ideology rdf:resource="http://dbpedia.org/resource/Japanese_militarism" />
+    <dbo:ideology rdf:resource="http://dbpedia.org/resource/Fascism" />
+    <dbo:ideology rdf:resource="http://dbpedia.org/resource/State_Shinto" />
+    <dbo:ideology rdf:resource="http://dbpedia.org/resource/Japanese_nationalism" />
+    <dbo:ideology rdf:resource="http://dbpedia.org/resource/Statism_in_Shōwa_Japan" />
+    <dbo:religion rdf:resource="http://dbpedia.org/resource/Shintoism" />
+    <dbo:youthWing rdf:resource="http://dbpedia.org/resource/Great_Japan_Youth_Party" />
+    <dbp:englishName rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Imperial Rule Assistance Association</dbp:englishName>
+    <dbp:international rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">None</dbp:international>
+    <dbp:leader1Name rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Hideki Tojo</dbp:leader1Name>
+    <dbp:leader1Name rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Kuniaki Koiso</dbp:leader1Name>
+    <dbp:leader1Name rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Kantarō Suzuki</dbp:leader1Name>
+    <dbp:leader1Name rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Fumimaro Konoe</dbp:leader1Name>
+    <dbp:leader1Title rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">President</dbp:leader1Title>
+    <dbp:partyLogo rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">200</dbp:partyLogo>
+    <dbp:position rdf:resource="http://dbpedia.org/resource/Far-right_politics" />
+    <dbp:predecessor rdf:resource="http://dbpedia.org/resource/Imperial_Way_Faction" />
+    <dbp:wing rdf:resource="http://dbpedia.org/resource/Imperial_Rule_Assistance_Political_Association" />
+    <dbp:wing rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Yokusan Sonendan</dbp:wing>
+    <dbp:wing1Title rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Paramilitary wing</dbp:wing1Title>
+    <dbp:wing2Title rdf:resource="http://dbpedia.org/resource/Parliamentary_group" />
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Japan" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/大政翼賛会">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Imperial_Rule_Assistance_Association" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/New_Asian_Day">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Imperial_Rule_Assistance_Association" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yoriyasu_Arima">
+    <dbp:knownFor rdf:resource="http://dbpedia.org/resource/Imperial_Rule_Assistance_Association" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Imperial_Aid_Association">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Imperial_Rule_Assistance_Association" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/IRAA">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Imperial_Rule_Assistance_Association" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/大政翼贊會">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Imperial_Rule_Assistance_Association" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Imperial_Rule_Assistance_Association">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Imperial_Rule_Assistance_Association" />
+  </rdf:Description>
+</rdf:RDF>

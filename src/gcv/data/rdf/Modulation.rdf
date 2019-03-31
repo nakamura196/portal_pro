@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:dct="http://purl.org/dc/terms/"
+	xmlns:dbo="http://dbpedia.org/ontology/"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:prov="http://www.w3.org/ns/prov#"
+	xmlns:dbp="http://dbpedia.org/property/"
+	xmlns:ns8="http://purl.org/linguistics/gold/" >
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Compatible_sideband_transmission">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Modulation" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mechanically_induced_modulation">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Modulation" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nord_Lead">
+    <dbp:leftControl rdf:resource="http://dbpedia.org/resource/Modulation" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Modulated">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Modulation" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mode_of_transmission">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Modulation" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Intermodulation">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Modulation" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Digital_modulation">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Modulation" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Shift_keying">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Modulation" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Modulation">
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Election" />
+    <rdfs:label xml:lang="ru">Модуляция</rdfs:label>
+    <rdfs:label xml:lang="ja">変調方式</rdfs:label>
+    <rdfs:label xml:lang="nl">Modulatie (radio)</rdfs:label>
+    <rdfs:label xml:lang="it">Modulazione</rdfs:label>
+    <rdfs:label xml:lang="es">Modulación (telecomunicación)</rdfs:label>
+    <rdfs:label xml:lang="pl">Modulacja</rdfs:label>
+    <rdfs:label xml:lang="ar">تضمين (إلكترونيات)</rdfs:label>
+    <rdfs:label xml:lang="de">Modulation (Technik)</rdfs:label>
+    <rdfs:label xml:lang="zh">調變</rdfs:label>
+    <rdfs:label xml:lang="en">Modulation</rdfs:label>
+    <rdfs:label xml:lang="fr">Modulation du signal</rdfs:label>
+    <rdfs:label xml:lang="pt">Modulação</rdfs:label>
+    <rdfs:comment xml:lang="ja">変調方式（へんちょうほうしき）は、変調すなわち情報を記録・伝送するにあたり、情報および記録・伝送媒体の性質に応じて情報を最適な電気信号に変換する操作の方式である。 無線通信では一定周波数の電波を発生し、それを変調することにより情報を伝送する。この変調を受ける電波を搬送波（キャリア）という。有線通信においても伝送媒体が電線になるほかは同様なことを行い、媒体として光ケーブルを用いる光通信でも、搬送波が電気信号でなく光になる以外は同様である。尚、変調により、特に光通信の場合は多くのチャンネルを確保できるという有用性もある。一般に一つの伝送路を多くの回線として使う目的も大きい。 キャリアを用いないベースバンド伝送でも情報信号を何らかの形で変化させて送るのが一般的である。これらはラインコーディング（符号化方式の分類の一つ）とも呼ばれる。</rdfs:comment>
+    <rdfs:comment xml:lang="es">Modulación engloba el conjunto de técnicas que se usan para transportar información sobre una onda portadora, típicamente una onda sinusoidal. Estas técnicas permiten un mejor aprovechamiento del canal de comunicación lo que posibilita transmitir más información de forma simultánea además de mejorar la resistencia contra posibles ruidos e interferencias. Según la American National Standard for Telecommunications, la modulación es el proceso, o el resultado del proceso, de variar una característica de una onda portadora de acuerdo con una señal que transporta información. El propósito de la modulación es sobreponer señales en las ondas portadoras.</rdfs:comment>
+    <rdfs:comment xml:lang="zh">调制是一种将一個或多個週期性的載波混入想傳送之信号的技術，常用于无线电波的传播与通信、利用电话线的数据通信等各方面。依调制信号的不同，可区分为數位调制及類比调制，這些不同的调制，是以不同的方法，將信号和载波合成的技术。调制的逆过程叫做解调，用以解出原始的信号。</rdfs:comment>
+    <rdfs:comment xml:lang="pl">Modulacja – samorzutna lub celowa zmiana parametrów sygnału. Przykładem może być modulowany dźwięk syreny alarmowej o zmiennej częstotliwości. Częstotliwość zmian wywołanych modulacją jest dużo mniejsza od częstotliwości fali. Jeżeli modulowane są sygnały sinusoidalne, to proces ten może powodować zmiany amplitudy, częstotliwości lub fazy drgań. W przypadku fal prostokątnych (często stosowanych w technice cyfrowej) procesowi modulacji podlega szerokość, amplituda, pozycja (układ) oraz gęstość impulsów.</rdfs:comment>
+    <rdfs:comment xml:lang="nl">Modulatie is het combineren van een informatiesignaal met een draaggolf met een hogere frequentie, zodat een signaal ontstaat met een frequentieband rondom de frequentie van de draaggolf. Stel dat een radio- of televisiesignaal direct zonder draaggolf draadloos wordt uitgezonden. Het audiosignaal dat door een microfoon wordt opgewekt, en frequenties onder 20 kHz bevat, zou dus dan met die frequenties worden uitgezonden. Er zou dan maar één zender tegelijk in bedrijf kunnen zijn, maar het grootste probleem is dat dergelijke frequenties zich niet goed voortplanten door de atmosfeer.</rdfs:comment>
+    <rdfs:comment xml:lang="de">Der Begriff Modulation (von lat. modulatio = Takt, Rhythmus) beschreibt in der Nachrichtentechnik einen Vorgang, bei dem ein zu übertragendes Nutzsignal (beispielsweise Musik, Sprache, Daten) einen sogenannten Träger verändert (moduliert). Dadurch wird eine hochfrequente Übertragung des niederfrequenten Nutzsignals ermöglicht. Das Sendesignal belegt im Bereich der Trägerfrequenz eine vom Nutzsignal abhängige Bandbreite. Die Nachricht wird empfangsseitig durch einen Demodulator wieder zurückgewonnen.</rdfs:comment>
+    <rdfs:comment xml:lang="ar">التضمين (بالإنجليزية: Modulation) في الإلكترونيات و الاتصالات هو عملية تراكب موجتين كهربائيتين أحدهما الموجة الحاملة وتكون ذات تردد عالي ، والموجة المحمولة ذات تردد منخفض . مثال على ذلك البث في الراديو : ترسل محطة الإذاعة صوت المذيع كموجة ذات تردد منخفض راكبة على موجة كهرومغناطيسية ذات تردد عالي . ويستقبلهما جهاز الراديو وبه دوائر إلكترونية خاصة تفك الموجتين عن بعضهما البعض ، وتكبر الموجة المحمولة كهربائيا وتوصلها بمكبر الصوت فنسمع المذيع من جهاز الراديو. التضمين أو التراكب يتم بين الموجة الحاملة (ذات تردد عالي) ، و موجة &quot;محمولة&quot; يقال لها الإشارة المعدِّلة وهي تحمل المعلومات المراد نقلها .</rdfs:comment>
+    <rdfs:comment xml:lang="en">In electronics and telecommunications, modulation is the process of varying one or more properties of a periodic waveform, called the carrier signal, with a modulating signal that typically contains information to be transmitted. In telecommunications, modulation is the process of conveying a message signal, for example a digital bit stream or an analog audio signal, inside another signal that can be physically transmitted. Modulation of a sine waveform transforms a baseband message signal into a passband signal.</rdfs:comment>
+    <rdfs:comment xml:lang="fr">En télécommunications, le signal transportant une information doit passer par un moyen de transmission entre un émetteur et un récepteur. Le signal est rarement adapté à la transmission directe par le canal de communication choisi, hertzien, filaire, ou optique. La modulation peut être définie comme le processus par lequel le signal est transformé de sa forme originale en une forme adaptée au canal de transmission, par exemple en faisant varier les paramètres d&#39;amplitude et d&#39;argument (phase/fréquence) d&#39;une onde sinusoïdale appelée porteuse.Le dispositif qui effectue cette modulation, en général électronique, est un modulateur (voir modem).L&#39;opération inverse permettant d&#39;extraire le signal de la porteuse est la démodulation.</rdfs:comment>
+    <rdfs:comment xml:lang="ru">Модуля́ция (лат. modulatio — размеренность, ритмичность) — процесс изменения одного или нескольких параметров высокочастотного несущего колебания по закону низкочастотного информационного сигнала (сообщения). Передаваемая информация заложена в управляющем (модулирующем) сигнале, а роль переносчика информации выполняет высокочастотное колебание, называемое несущим (модулируемым). Модуляция, таким образом, представляет собой процесс «посадки» информационного колебания на заведомо известную несущую с целью получения нового, модулированного сигнала.</rdfs:comment>
+    <rdfs:comment xml:lang="pt">Modulação é o processo de variação de altura (amplitude), de intensidade, frequência, do comprimento e/ou da fase de onda numa onda de transporte, que deforma uma das características de um sinal portador (amplitude, fase ou frequência) que varia proporcionalmente ao sinal modulador.</rdfs:comment>
+    <rdfs:comment xml:lang="it">In telecomunicazioni ed elettronica con il termine modulazione si indica l&#39;insieme delle tecniche di trasmissione finalizzate ad imprimere un segnale elettrico o elettromagnetico, detto modulante, generalmente contenente informazione cioè variabile in maniera aleatoria nel tempo, su di un altro segnale elettrico o elettromagnetico, detto portante, sviluppato ad alta frequenza (frequenza portante &gt;&gt; frequenza modulante). Il risultato della modulazione è la conversione del segnale modulante dalla banda base alla cosiddetta banda traslata (segnale modulato), secondo il teorema della modulazione.</rdfs:comment>
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Modulation" />
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q170474" />
+    <owl:sameAs rdf:resource="http://nl.dbpedia.org/resource/Modulatie_(radio)" />
+    <owl:sameAs rdf:resource="http://es.dbpedia.org/resource/Modulación_(telecomunicación)" />
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.055y7" />
+    <owl:sameAs rdf:resource="http://id.dbpedia.org/resource/Modulasi" />
+    <owl:sameAs rdf:resource="http://eu.dbpedia.org/resource/Modulazio" />
+    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/Modulation_(Technik)" />
+    <owl:sameAs rdf:resource="http://ja.dbpedia.org/resource/変調方式" />
+    <owl:sameAs rdf:resource="http://ko.dbpedia.org/resource/변조" />
+    <owl:sameAs rdf:resource="http://fr.dbpedia.org/resource/Modulation_du_signal" />
+    <owl:sameAs rdf:resource="http://pt.dbpedia.org/resource/Modulação" />
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q170474" />
+    <owl:sameAs rdf:resource="http://it.dbpedia.org/resource/Modulazione" />
+    <owl:sameAs rdf:resource="http://el.dbpedia.org/resource/Διαμόρφωση_σήματος" />
+    <owl:sameAs rdf:resource="http://cs.dbpedia.org/resource/Modulace" />
+    <owl:sameAs rdf:resource="http://pl.dbpedia.org/resource/Modulacja" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Radio_modulation_modes" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:History_of_television" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Television_terminology" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Telecommunication_theory" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Physical_layer_protocols" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:History_of_radio" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Frequency_mixers" />
+    <dbo:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">20637</dbo:wikiPageID>
+    <dbo:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">733497210</dbo:wikiPageRevisionID>
+    <dbo:wikiPageExternalLink rdf:resource="http://ittrap.com/modemmodulation-and-demodulation/" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.analog.com/library/analogDialogue/archives/47-06/multipliers_modulators.pdf" />
+    <dbo:wikiPageExternalLink rdf:resource="http://webdemo.inue.uni-stuttgart.de/webdemos/02_lectures/communication_3/soft_demapping" />
+    <foaf:depiction rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Amfm3-en-de.gif" />
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Modulation" />
+    <dbo:thumbnail rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Amfm3-en-de.gif?width=300" />
+    <prov:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Modulation?oldid=733497210" />
+    <dbo:abstract xml:lang="de">Der Begriff Modulation (von lat. modulatio = Takt, Rhythmus) beschreibt in der Nachrichtentechnik einen Vorgang, bei dem ein zu übertragendes Nutzsignal (beispielsweise Musik, Sprache, Daten) einen sogenannten Träger verändert (moduliert). Dadurch wird eine hochfrequente Übertragung des niederfrequenten Nutzsignals ermöglicht. Das Sendesignal belegt im Bereich der Trägerfrequenz eine vom Nutzsignal abhängige Bandbreite. Die Nachricht wird empfangsseitig durch einen Demodulator wieder zurückgewonnen. Das Trägersignal selbst ist bezüglich der übertragenen Nachricht ohne Bedeutung; es ist nur zur Anpassung an die physikalischen Eigenschaften des Übertragungskanals notwendig und kann (bei bestimmten Modulationsarten) unterdrückt werden.</dbo:abstract>
+    <dbo:abstract xml:lang="pl">Modulacja – samorzutna lub celowa zmiana parametrów sygnału. Przykładem może być modulowany dźwięk syreny alarmowej o zmiennej częstotliwości. Częstotliwość zmian wywołanych modulacją jest dużo mniejsza od częstotliwości fali. Jeżeli modulowane są sygnały sinusoidalne, to proces ten może powodować zmiany amplitudy, częstotliwości lub fazy drgań. W przypadku fal prostokątnych (często stosowanych w technice cyfrowej) procesowi modulacji podlega szerokość, amplituda, pozycja (układ) oraz gęstość impulsów.</dbo:abstract>
+    <dbo:abstract xml:lang="ar">التضمين (بالإنجليزية: Modulation) في الإلكترونيات و الاتصالات هو عملية تراكب موجتين كهربائيتين أحدهما الموجة الحاملة وتكون ذات تردد عالي ، والموجة المحمولة ذات تردد منخفض . مثال على ذلك البث في الراديو : ترسل محطة الإذاعة صوت المذيع كموجة ذات تردد منخفض راكبة على موجة كهرومغناطيسية ذات تردد عالي . ويستقبلهما جهاز الراديو وبه دوائر إلكترونية خاصة تفك الموجتين عن بعضهما البعض ، وتكبر الموجة المحمولة كهربائيا وتوصلها بمكبر الصوت فنسمع المذيع من جهاز الراديو. التضمين أو التراكب يتم بين الموجة الحاملة (ذات تردد عالي) ، و موجة &quot;محمولة&quot; يقال لها الإشارة المعدِّلة وهي تحمل المعلومات المراد نقلها . فك التضمين) هي العملية العكسية حيث تستخراج الإشارة المعدلة من الموجة الحاملة . الجهاز الملائم لذلك يدعى مُزيل التضمين . الجهاز الذي يصلح للتضمين ولإزالة التعديل يقال له &quot;المودِم&quot;. تعتبر عملية تضمين الإشارة من أهم العمليات في تقنية الاتصالات لقدرتها على استيعاب ترددات عالية جدا. وتستعمل تقنية التضمين في عدة أنظمة مثل الجي أس أم، البلوتوث، التلفزيون، الراديو الجي بي أس وغيرها من الأنظمة.</dbo:abstract>
+    <dbo:abstract xml:lang="nl">Modulatie is het combineren van een informatiesignaal met een draaggolf met een hogere frequentie, zodat een signaal ontstaat met een frequentieband rondom de frequentie van de draaggolf. Stel dat een radio- of televisiesignaal direct zonder draaggolf draadloos wordt uitgezonden. Het audiosignaal dat door een microfoon wordt opgewekt, en frequenties onder 20 kHz bevat, zou dus dan met die frequenties worden uitgezonden. Er zou dan maar één zender tegelijk in bedrijf kunnen zijn, maar het grootste probleem is dat dergelijke frequenties zich niet goed voortplanten door de atmosfeer. Dit probleem wordt opgelost door het bronsignaal met een draaggolf met een veel hogere frequentie over te brengen. Met een modulator wordt het signaal gesuperponeerd op een sinusvormige draaggolf, waaruit later door demodulatie het oorspronkelijke signaal weer kan worden teruggewonnen. Door gebruikmaking van draaggolven van verschillende frequenties kunnen verschillende zenders uitzenden zonder elkaar te storen en worden ze door de selectiviteit van de ontvanger uit elkaar gehouden. Door een hoogfrequente draaggolf te gebruiken krijgt het signaal de transmissiekwaliteiten om draadloos te worden uitgezonden, maar uiteraard kan het nog steeds door een draad- of glasvezelverbinding worden getransporteerd zoals bij kabeltelevisie.</dbo:abstract>
+    <dbo:abstract xml:lang="fr">En télécommunications, le signal transportant une information doit passer par un moyen de transmission entre un émetteur et un récepteur. Le signal est rarement adapté à la transmission directe par le canal de communication choisi, hertzien, filaire, ou optique. La modulation peut être définie comme le processus par lequel le signal est transformé de sa forme originale en une forme adaptée au canal de transmission, par exemple en faisant varier les paramètres d&#39;amplitude et d&#39;argument (phase/fréquence) d&#39;une onde sinusoïdale appelée porteuse.Le dispositif qui effectue cette modulation, en général électronique, est un modulateur (voir modem).L&#39;opération inverse permettant d&#39;extraire le signal de la porteuse est la démodulation. Cette page permet de classifier les divers types de modulation, objets d&#39;articles détaillés disponibles, en résumant leurs usages et principes.</dbo:abstract>
+    <dbo:abstract xml:lang="en">In electronics and telecommunications, modulation is the process of varying one or more properties of a periodic waveform, called the carrier signal, with a modulating signal that typically contains information to be transmitted. In telecommunications, modulation is the process of conveying a message signal, for example a digital bit stream or an analog audio signal, inside another signal that can be physically transmitted. Modulation of a sine waveform transforms a baseband message signal into a passband signal. A modulator is a device that performs modulation. A demodulator (sometimes detector or demod) is a device that performs demodulation, the inverse of modulation. A modem (from modulator–demodulator) can perform both operations. The aim of analog modulation is to transfer an analog baseband (or lowpass) signal, for example an audio signal or TV signal, over an analog bandpass channel at a different frequency, for example over a limited radio frequency band or a cable TV network channel. The aim of digital modulation is to transfer a digital bit stream over an analog bandpass channel, for example over the public switched telephone network (where a bandpass filter limits the frequency range to 300–3400 Hz) or over a limited radio frequency band. Analog and digital modulation facilitate frequency division multiplexing (FDM), where several low pass information signals are transferred simultaneously over the same shared physical medium, using separate passband channels (several different carrier frequencies). The aim of digital baseband modulation methods, also known as line coding, is to transfer a digital bit stream over a baseband channel, typically a non-filtered copper wire such as a serial bus or a wired local area network. The aim of pulse modulation methods is to transfer a narrowband analog signal, for example a phone call over a wideband baseband channel or, in some of the schemes, as a bit stream over another digital transmission system. In music synthesizers, modulation may be used to synthesise waveforms with an extensive overtone spectrum using a small number of oscillators. In this case the carrier frequency is typically in the same order or much lower than the modulating waveform (see frequency modulation synthesis or ring modulation synthesis).</dbo:abstract>
+    <dbo:abstract xml:lang="es">Modulación engloba el conjunto de técnicas que se usan para transportar información sobre una onda portadora, típicamente una onda sinusoidal. Estas técnicas permiten un mejor aprovechamiento del canal de comunicación lo que posibilita transmitir más información de forma simultánea además de mejorar la resistencia contra posibles ruidos e interferencias. Según la American National Standard for Telecommunications, la modulación es el proceso, o el resultado del proceso, de variar una característica de una onda portadora de acuerdo con una señal que transporta información. El propósito de la modulación es sobreponer señales en las ondas portadoras. Básicamente, la modulación consiste en hacer que un parámetro de la onda portadora cambie de valor de acuerdo con las variaciones de la señal moduladora, que es la información que queremos transmitir.</dbo:abstract>
+    <dbo:abstract xml:lang="it">In telecomunicazioni ed elettronica con il termine modulazione si indica l&#39;insieme delle tecniche di trasmissione finalizzate ad imprimere un segnale elettrico o elettromagnetico, detto modulante, generalmente contenente informazione cioè variabile in maniera aleatoria nel tempo, su di un altro segnale elettrico o elettromagnetico, detto portante, sviluppato ad alta frequenza (frequenza portante &gt;&gt; frequenza modulante). Il risultato della modulazione è la conversione del segnale modulante dalla banda base alla cosiddetta banda traslata (segnale modulato), secondo il teorema della modulazione. L&#39;operazione inversa di ripristino del segnale informativo originario in banda base è detta demodulazione. Il dispositivo in trasmissione che attua l&#39;operazione di modulazione sul segnale informativo è detto modulatore, mentre il dispositivo in ricezione che attua l&#39;operazione di demodulazione è detto demodulatore, compresi rispettivamente nel trasmettitore e nel ricevitore. In un sistema di ricetrasmissione tali sistemi vengono riuniti entrambi sotto la dizione Modem (dalla composizione di MOdulazione e DEModulazione). I segnali modulanti possono rappresentare le informazioni più diverse: audio, video, dati. L&#39;onda portante è un&#39;onda elettromagnetica o un segnale elettrico a frequenza ben determinata (molto maggiore della frequenza del segnale modulante), che può essere trasmessa in aria o nel vuoto (ad es. nelle radiocomunicazioni), o tramite altro mezzo fisico (ad es. un cavo). In caso di comunicazioni in fibra ottica la portante è la radiazione laser la cui frequenza è tipicamente espressa come lunghezza d&#39;onda.</dbo:abstract>
+    <dbo:abstract xml:lang="ru">Модуля́ция (лат. modulatio — размеренность, ритмичность) — процесс изменения одного или нескольких параметров высокочастотного несущего колебания по закону низкочастотного информационного сигнала (сообщения). Передаваемая информация заложена в управляющем (модулирующем) сигнале, а роль переносчика информации выполняет высокочастотное колебание, называемое несущим (модулируемым). Модуляция, таким образом, представляет собой процесс «посадки» информационного колебания на заведомо известную несущую с целью получения нового, модулированного сигнала. В результате модуляции спектр низкочастотного управляющего сигнала переносится в область высоких частот. Это позволяет при организации вещания настроить функционирование всех приёмо-передающих устройств на разных частотах с тем, чтобы они «не мешали» друг другу. В качестве несущего могут быть использованы колебания различной формы (прямоугольные, треугольные и т. д.), однако чаще всего применяются гармонические колебания. В зависимости от того, какой из параметров несущего колебания изменяется, различают вид модуляции (амплитудная, частотная, фазовая и др.). Модуляция дискретным сигналом называется цифровой модуляцией или манипуляцией.</dbo:abstract>
+    <dbo:abstract xml:lang="pt">Modulação é o processo de variação de altura (amplitude), de intensidade, frequência, do comprimento e/ou da fase de onda numa onda de transporte, que deforma uma das características de um sinal portador (amplitude, fase ou frequência) que varia proporcionalmente ao sinal modulador.</dbo:abstract>
+    <dbo:abstract xml:lang="zh">调制是一种将一個或多個週期性的載波混入想傳送之信号的技術，常用于无线电波的传播与通信、利用电话线的数据通信等各方面。依调制信号的不同，可区分为數位调制及類比调制，這些不同的调制，是以不同的方法，將信号和载波合成的技术。调制的逆过程叫做解调，用以解出原始的信号。</dbo:abstract>
+    <dbo:abstract xml:lang="ja">変調方式（へんちょうほうしき）は、変調すなわち情報を記録・伝送するにあたり、情報および記録・伝送媒体の性質に応じて情報を最適な電気信号に変換する操作の方式である。 無線通信では一定周波数の電波を発生し、それを変調することにより情報を伝送する。この変調を受ける電波を搬送波（キャリア）という。有線通信においても伝送媒体が電線になるほかは同様なことを行い、媒体として光ケーブルを用いる光通信でも、搬送波が電気信号でなく光になる以外は同様である。尚、変調により、特に光通信の場合は多くのチャンネルを確保できるという有用性もある。一般に一つの伝送路を多くの回線として使う目的も大きい。 キャリアを用いないベースバンド伝送でも情報信号を何らかの形で変化させて送るのが一般的である。これらはラインコーディング（符号化方式の分類の一つ）とも呼ばれる。</dbo:abstract>
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Process" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Pulsed_Accretion">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Modulation" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Precapillary_resistance">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Modulation" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Modulation_(communications)">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Modulation" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Demod">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Modulation" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/RF_modulation">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Modulation" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Pulse_Modulation">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Modulation" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Angle_modulation">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Modulation" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Pulse_modulation">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Modulation" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Higher-order_modulation">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Modulation" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Modulator">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Modulation" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Multi_Carrier_Modulation">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Modulation" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Modulation_(disambiguation)">
+    <dbo:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/Modulation" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Pulse_modulator">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Modulation" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/M-ary_transmission">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Modulation" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Analog_modulation">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Modulation" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/SC-FDE">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Modulation" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Modulated_wave">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Modulation" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Analog_modulation_method">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Modulation" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Digital_modulation_method">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Modulation" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Digital_Modem">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Modulation" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Pulse_modulation_methods">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Modulation" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Modulation_memory">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Modulation" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Modulating_signal">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Modulation" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Modulation">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Modulation" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Pulse_time_modulation">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Modulation" />
+  </rdf:Description>
+</rdf:RDF>

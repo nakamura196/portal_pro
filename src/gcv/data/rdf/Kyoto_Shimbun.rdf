@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:dct="http://purl.org/dc/terms/"
+	xmlns:dbo="http://dbpedia.org/ontology/"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:prov="http://www.w3.org/ns/prov#"
+	xmlns:dbp="http://dbpedia.org/property/"
+	xmlns:ns8="http://purl.org/linguistics/gold/" >
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kyoto_Shimbun">
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Work104599396" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Creation103129123" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Product104007894" />
+    <rdf:type rdf:resource="http://schema.org/CreativeWork" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Newspaper" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Press106263369" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/PeriodicalLiterature" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Work" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PrintMedia106263609" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Medium106254669" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Newspaper106267145" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Whole100003553" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q1092563" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Artifact100021939" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q386724" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q11032" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatPublicationsEstablishedIn1879" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatNewspapersPublishedInJapan" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Instrumentality103575240" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PhysicalEntity100001930" />
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Object100002684" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/WrittenWork" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Publication106589574" />
+    <rdfs:label xml:lang="en">Kyoto Shimbun</rdfs:label>
+    <rdfs:label xml:lang="ja">京都新聞</rdfs:label>
+    <rdfs:label xml:lang="zh">京都新聞</rdfs:label>
+    <rdfs:comment xml:lang="ja">京都新聞（きょうとしんぶん）は、京都府と滋賀県を中心に発行されている地方紙である。</rdfs:comment>
+    <rdfs:comment xml:lang="en">Kyoto Shimbun (京都新聞 Kyōto Shinbun) is a daily newspaper published in Kyoto, Japan, and the company publishing that newspapers is also called The Kyoto Shimbun (株式会社京都新聞社 Kabushiki-gaisha Kyōto Shinbunsha). Kyoto Shimbun has two headquarters in Kyoto and Ōtsu, and three branch offices in Uji, Tokyo and Osaka.</rdfs:comment>
+    <rdfs:comment xml:lang="zh">《京都新聞》是主要在京都府及滋賀縣發行的一份地方報紙。早報日發行量大約有51萬份。政治立場偏左派。 由于京都是歷史古城，且大學很多，因此該報有不少有關歷史、文化的文章。另外，京都放送與琵琶湖放送是其關係企業。</rdfs:comment>
+    <owl:sameAs rdf:resource="http://yago-knowledge.org/resource/Kyoto_Shimbun" />
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.0gmh03z" />
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Kyoto_Shimbun" />
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q6452210" />
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q6452210" />
+    <owl:sameAs rdf:resource="http://ja.dbpedia.org/resource/京都新聞" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Media_in_Kyoto" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:1879_establishments_in_Japan" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Newspaper_companies_of_Japan" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Publications_established_in_1879" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Newspapers_published_in_Japan" />
+    <dbo:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">23481216</dbo:wikiPageID>
+    <dbo:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">552253759</dbo:wikiPageRevisionID>
+    <dbo:wikiPageExternalLink rdf:resource="http://www.kyoto-np.co.jp/" />
+    <foaf:name xml:lang="en">The Kyoto Shimbun</foaf:name>
+    <foaf:homepage rdf:resource="http://www.kyoto-np.co.jp/" />
+    <foaf:depiction rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Kyoto_shimbun_bldg.jpg" />
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Kyoto_Shimbun" />
+    <dbo:thumbnail rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Kyoto_shimbun_bldg.jpg?width=300" />
+    <prov:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Kyoto_Shimbun?oldid=552253759" />
+    <dbo:abstract xml:lang="en">Kyoto Shimbun (京都新聞 Kyōto Shinbun) is a daily newspaper published in Kyoto, Japan, and the company publishing that newspapers is also called The Kyoto Shimbun (株式会社京都新聞社 Kabushiki-gaisha Kyōto Shinbunsha). Kyoto Shimbun has two headquarters in Kyoto and Ōtsu, and three branch offices in Uji, Tokyo and Osaka.</dbo:abstract>
+    <dbo:abstract xml:lang="ja">京都新聞（きょうとしんぶん）は、京都府と滋賀県を中心に発行されている地方紙である。</dbo:abstract>
+    <dbo:abstract xml:lang="zh">《京都新聞》是主要在京都府及滋賀縣發行的一份地方報紙。早報日發行量大約有51萬份。政治立場偏左派。 由于京都是歷史古城，且大學很多，因此該報有不少有關歷史、文化的文章。另外，京都放送與琵琶湖放送是其關係企業。</dbo:abstract>
+    <dbo:foundingDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1879-06-09</dbo:foundingDate>
+    <dbo:headquarter rdf:resource="http://dbpedia.org/resource/Kyoto" />
+    <dbo:headquarter rdf:resource="http://dbpedia.org/resource/Nakagyō-ku,_Kyoto" />
+    <dbo:language rdf:resource="http://dbpedia.org/resource/Japanese_language" />
+    <dbo:type rdf:resource="http://dbpedia.org/resource/Newspaper" />
+    <dbp:caption rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">The Kyoto headquarters of Kyoto Shimbun.</dbp:caption>
+    <dbp:format rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Blanket</dbp:format>
+    <dbp:owners rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">The Kyoto Shimbun Co., Ltd.</dbp:owners>
+    <dbp:price rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Subscription: 3,925 Yen/month</dbp:price>
+    <dbp:price rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Morning edition: 130 Yen/copy</dbp:price>
+    <dbp:price rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Evening edition: 50 Yen/copy</dbp:price>
+    <dbp:publisher rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Hoichi Shiraishi</dbp:publisher>
+    <dbp:circulation rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Evening edition: 317,132</dbp:circulation>
+    <dbp:circulation rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Morning edition: 516,366</dbp:circulation>
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Newspaper" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Kyoto_Shimbun">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Kyoto_Shimbun" />
+  </rdf:Description>
+</rdf:RDF>

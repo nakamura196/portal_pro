@@ -1,0 +1,913 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:dbo="http://dbpedia.org/ontology/"
+	xmlns:dbp="http://dbpedia.org/property/"
+	xmlns:dct="http://purl.org/dc/terms/"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	xmlns:prov="http://www.w3.org/ns/prov#"
+	xmlns:ns9="http://dbpedia.org/ontology/PopulatedPlace/"
+	xmlns:georss="http://www.georss.org/georss/"
+	xmlns:ns11="http://purl.org/linguistics/gold/" >
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hironori_Ōtsuka">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Ibaraki_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Shingo_Katayama">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Ibaraki_Prefecture" />
+    <dbp:birthPlace rdf:resource="http://dbpedia.org/resource/Ibaraki_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Takayasu_Akira">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Ibaraki_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Takeshi_Terauchi">
+    <dbo:hometown rdf:resource="http://dbpedia.org/resource/Ibaraki_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tsutomu_Sonobe">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Ibaraki_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ayano_Murasaki">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Ibaraki_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mito,_Ibaraki">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Ibaraki_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Namegata,_Ibaraki">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Ibaraki_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Omitama">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Ibaraki_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Takayuki_Miyauchi">
+    <dbo:hometown rdf:resource="http://dbpedia.org/resource/Ibaraki_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tatsuya_Ishii">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Ibaraki_Prefecture" />
+    <dbo:hometown rdf:resource="http://dbpedia.org/resource/Ibaraki_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tsuchiura">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Ibaraki_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tsukuba,_Ibaraki">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Ibaraki_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tsukubamirai,_Ibaraki">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Ibaraki_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Utsunomiya_Line">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Ibaraki_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ibaragi_Prefecture">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Ibaraki_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Daichi_Kawashima">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Ibaraki_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Takuya_Yamamoto">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Ibaraki_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ibaragi,_Japan">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Ibaraki_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ibaraki,_Japan">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Ibaraki_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Edo_River">
+    <dbp:location rdf:resource="http://dbpedia.org/resource/Ibaraki_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hitachi,_Ibaraki">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Ibaraki_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Takeo_Kurita">
+    <dbp:birthPlace rdf:resource="http://dbpedia.org/resource/Ibaraki_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tsukushi_(wrestler)">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Ibaraki_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yachiyo,_Ibaraki">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Ibaraki_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/KEK">
+    <dbo:headquarter rdf:resource="http://dbpedia.org/resource/Ibaraki_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ryutsu_Keizai_University">
+    <dbo:state rdf:resource="http://dbpedia.org/resource/Ibaraki_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/University_of_Tsukuba">
+    <dbo:state rdf:resource="http://dbpedia.org/resource/Ibaraki_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mitsuo_Kamata">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Ibaraki_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Takayo_Mimura">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Ibaraki_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Shinya_Kato">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Ibaraki_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tetsuro_Ota">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Ibaraki_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yōko_Sasaki">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Ibaraki_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ibaragi_prefecture">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Ibaraki_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Plenty_(band)">
+    <dbo:hometown rdf:resource="http://dbpedia.org/resource/Ibaraki_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Megumi_Nakajima">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Ibaraki_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Reine_Hibiki">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Ibaraki_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tatsuya_Mizuno">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Ibaraki_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yoshio_Kitajima">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Ibaraki_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yuichi_Nemoto">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Ibaraki_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Takeshi_Terada">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Ibaraki_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yoshiko_Kamei">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Ibaraki_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yuichi_Akasaka">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Ibaraki_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Teppei_Isaka">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Ibaraki_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Masahiko_Sawaguchi">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Ibaraki_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Masato_Sakurai">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Ibaraki_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yōko_Teppōzuka">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Ibaraki_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Takafumi_Suzuki">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Ibaraki_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Katsumi_Hirosawa">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Ibaraki_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kazuaki_Kurihara">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Ibaraki_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Rikiya_Iimura">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Ibaraki_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Toshinori_Ishikuma">
+    <dbo:residence rdf:resource="http://dbpedia.org/resource/Ibaraki_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Moe_Toyota">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Ibaraki_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hitachinaka,_Ibaraki">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Ibaraki_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hitachiōmiya,_Ibaraki">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Ibaraki_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hitachiōta,_Ibaraki">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Ibaraki_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ibaraki,_Ibaraki">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Ibaraki_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ishioka,_Ibaraki">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Ibaraki_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Itako,_Ibaraki">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Ibaraki_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jōsō">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Ibaraki_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kasama,_Ibaraki">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Ibaraki_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kashima,_Ibaraki">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Ibaraki_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kitaibaraki,_Ibaraki">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Ibaraki_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Koga,_Ibaraki">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Ibaraki_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Moriya,_Ibaraki">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Ibaraki_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mount_Tsukuba">
+    <dbo:locatedInArea rdf:resource="http://dbpedia.org/resource/Ibaraki_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Naka,_Ibaraki">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Ibaraki_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ryūgasaki,_Ibaraki">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Ibaraki_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Shimotsuma,_Ibaraki">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Ibaraki_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Takahagi,_Ibaraki">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Ibaraki_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Toride,_Ibaraki">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Ibaraki_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tōkai,_Ibaraki">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Ibaraki_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ushiku,_Ibaraki">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Ibaraki_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yūki,_Ibaraki">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Ibaraki_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ōarai,_Ibaraki">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Ibaraki_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ami,_Ibaraki">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Ibaraki_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bandō,_Ibaraki">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Ibaraki_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Chikusei,_Ibaraki">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Ibaraki_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hokota,_Ibaraki">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Ibaraki_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Inashiki,_Ibaraki">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Ibaraki_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kamisu,_Ibaraki">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Ibaraki_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kasumigaura,_Ibaraki">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Ibaraki_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Miho,_Ibaraki">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Ibaraki_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sakuragawa,_Ibaraki">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Ibaraki_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Shirosato,_Ibaraki">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Ibaraki_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Fact_(band)">
+    <dbo:hometown rdf:resource="http://dbpedia.org/resource/Ibaraki_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Masakatsu_Sawa">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Ibaraki_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Eriko_Tamura">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Ibaraki_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hiroyuki_Watanabe">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Ibaraki_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Michihiro_Omigawa">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Ibaraki_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mooka_Line">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Ibaraki_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Natsuo_Yamaguchi">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Ibaraki_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tokyo_Gas">
+    <dbo:regionServed rdf:resource="http://dbpedia.org/resource/Ibaraki_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2010–11_Top_League">
+    <dbp:stadium rdf:resource="http://dbpedia.org/resource/Ibaraki_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Keita_Goto_(footballer)">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Ibaraki_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mikio_Manaka">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Ibaraki_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2012–13_Top_League">
+    <dbp:stadium rdf:resource="http://dbpedia.org/resource/Ibaraki_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kazuo_Niibori">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Ibaraki_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Maharu_Yoshimura">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Ibaraki_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yumi_Ohka">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Ibaraki_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ikuko_Itoh">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Ibaraki_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kazuo_Tsunoda">
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Ibaraki_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Satoshi_Yashiro">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Ibaraki_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yasuo_Manaka">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Ibaraki_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jo_Iimura">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Ibaraki_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Wakanami_Jun">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Ibaraki_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ibaraki-ken">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Ibaraki_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hitachi_Ibaraki_SC">
+    <dbo:ground rdf:resource="http://dbpedia.org/resource/Ibaraki_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kainoyama_Isamu">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Ibaraki_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jun_Sadogawa">
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Ibaraki_Prefecture" />
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Ibaraki_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gunji_Koizumi">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Ibaraki_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ibaraki">
+    <dbo:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/Ibaraki_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ibaraki_Prefecture">
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q3455524" />
+    <rdf:type rdf:resource="http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing" />
+    <rdf:type rdf:resource="http://schema.org/AdministrativeArea" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Object100002684" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoLegalActorGeo" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PhysicalEntity100001930" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Prefecture108626947" />
+    <rdf:type rdf:resource="http://schema.org/Place" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/AdministrativeRegion" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Region" />
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Location100027167" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/District108552138" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Region108630985" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/PopulatedPlace" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Place" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Location" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/AdministrativeDistrict108491826" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatPrefecturesOfJapan" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoPermanentlyLocatedEntity" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoGeoEntity" />
+    <rdf:type rdf:resource="http://umbel.org/umbel/rc/Location_Underspecified" />
+    <rdf:type rdf:resource="http://umbel.org/umbel/rc/PopulatedPlace" />
+    <rdfs:label xml:lang="nl">Ibaraki (prefectuur)</rdfs:label>
+    <rdfs:label xml:lang="pt">Ibaraki</rdfs:label>
+    <rdfs:label xml:lang="en">Ibaraki Prefecture</rdfs:label>
+    <rdfs:label xml:lang="pl">Prefektura Ibaraki</rdfs:label>
+    <rdfs:label xml:lang="ru">Ибараки</rdfs:label>
+    <rdfs:label xml:lang="zh">茨城縣</rdfs:label>
+    <rdfs:label xml:lang="es">Prefectura de Ibaraki</rdfs:label>
+    <rdfs:label xml:lang="ar">إيباراكي (محافظة)</rdfs:label>
+    <rdfs:label xml:lang="ja">茨城県</rdfs:label>
+    <rdfs:label xml:lang="de">Präfektur Ibaraki</rdfs:label>
+    <rdfs:label xml:lang="fr">Préfecture d&#39;Ibaraki</rdfs:label>
+    <rdfs:label xml:lang="it">Prefettura di Ibaraki</rdfs:label>
+    <rdfs:comment xml:lang="it">Ibaraki (茨城県 Ibaraki-ken?) è una prefettura giapponese di circa 3 milioni di abitanti, con capoluogo a Mito. Si trova nella regione di Kantō, sull&#39;isola di Honshū.</rdfs:comment>
+    <rdfs:comment xml:lang="de">Die Präfektur Ibaraki (jap. 茨城県, Ibaraki-ken) ist eine der Präfekturen Japans und liegt in der Region Kantō auf der Insel Honshū in Japan. Sitz der Präfekturverwaltung ist Mito.</rdfs:comment>
+    <rdfs:comment xml:lang="en">Ibaraki Prefecture (茨城県 Ibaraki-ken) is a prefecture of Japan, located in the Kantō region on the main island of Honshu. The capital is Mito.</rdfs:comment>
+    <rdfs:comment xml:lang="ar">25بك المحتوى هنا ينقصه الاستشهاد بمصادر. يرجى إيراد مصادر موثوق بها. أي معلومات غير موثقة يمكن التشكيك بها وإزالتها. (فبراير 2016) محافظة إيباراكي (باليابانية: 茨城県 إيباراكي-كن) هي محافظة في اليابان تقع في منطقة كانتو على جزيرة هونشو، وعاصمتها هي ميتو.</rdfs:comment>
+    <rdfs:comment xml:lang="pt">Este artigo é sobre a província japonesa. Sobre a cidade da província de Osaka, veja Ibaraki (Osaka). Ibaraki (茨城県, Ibaraki-ken?) é uma província do Japão. A sua capital é a cidade de Mito.</rdfs:comment>
+    <rdfs:comment xml:lang="fr">Ibaraki (茨城県, Ibaraki-ken) est une préfecture du Japon.</rdfs:comment>
+    <rdfs:comment xml:lang="es">La Prefectura de Ibaraki (茨城県 Ibaraki-ken?) está ubicada en la región de Kantō en la isla de Honshū, Japón. La capital es Mito. La Prefectura de Ibaraki se conocía anteriormente como la Provincia de Hitachi; en 1871, el nombre cambió a Prefectura de Ibaraki, al inicio de la Era Meiji.</rdfs:comment>
+    <rdfs:comment xml:lang="zh">茨城縣（日语：茨城県／いばらきけん Ibaraki ken */?）是日本的一个县，位於關東地方北部。東濱太平洋、北接福島縣、西接栃木縣、南接千葉縣與埼玉縣。首府是水戶市。茨城縣人口數在全日本的都道府縣中排名第11位，面積為第23位。茨城縣的大部分土地在過去相當於令制國中的常陸國。西南部及南部的部分地區則屬下總國。</rdfs:comment>
+    <rdfs:comment xml:lang="pl">Prefektura Ibaraki (jap. 茨城県 Ibaraki-ken) - prefektura położona w północno-wschodniej części regionu Kantō, w Japonii. Jej stolicą jest miasto Mito.</rdfs:comment>
+    <rdfs:comment xml:lang="ja">茨城県（いばらきけん）は、日本の県の一つ。関東地方の北東に位置し、東は太平洋に面する。県庁所在地は水戸市。都道府県人口は全国11位、面積は全国24位である。</rdfs:comment>
+    <rdfs:comment xml:lang="ru">Ибара́ки (яп. 茨城県 Ибараки-кэн) — префектура, расположенная в регионе Канто на острове Хонсю, Япония. Площадь префектуры составляет 11 636,28 км², население — 1 038 364 человека (1 августа 2014), плотность населения — 89,24 чел./км². Административный центр префектуры — город Мито.</rdfs:comment>
+    <rdfs:comment xml:lang="nl">De prefectuur Ibaraki  (茨城県,Ibaraki-ken) is een Japanse prefectuur in de regio Kanto in Honshu. Ibaraki heeft een oppervlakte van 6095,69 km² en had op 1 augustus 2010 een bevolking van ongeveer 2.963.959 inwoners. De hoofdstad is Mito.</rdfs:comment>
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Historic_Sites_of_Ibaraki_Prefecture" />
+    <owl:sameAs rdf:resource="http://it.dbpedia.org/resource/Prefettura_di_Ibaraki" />
+    <owl:sameAs rdf:resource="http://yago-knowledge.org/resource/Ibaraki_Prefecture" />
+    <owl:sameAs rdf:resource="http://pt.dbpedia.org/resource/Ibaraki" />
+    <owl:sameAs rdf:resource="http://nl.dbpedia.org/resource/Ibaraki_(prefectuur)" />
+    <owl:sameAs rdf:resource="http://ko.dbpedia.org/resource/이바라키_현" />
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q83273" />
+    <owl:sameAs rdf:resource="http://fr.dbpedia.org/resource/Préfecture_d&#39;Ibaraki" />
+    <owl:sameAs rdf:resource="http://eu.dbpedia.org/resource/Ibaraki_(prefetura)" />
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q83273" />
+    <owl:sameAs rdf:resource="http://sws.geonames.org/2112669/" />
+    <owl:sameAs rdf:resource="http://pl.dbpedia.org/resource/Prefektura_Ibaraki" />
+    <owl:sameAs rdf:resource="http://cs.dbpedia.org/resource/Prefektura_Ibaraki" />
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Ibaraki_Prefecture" />
+    <owl:sameAs rdf:resource="http://ja.dbpedia.org/resource/茨城県" />
+    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/Präfektur_Ibaraki" />
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.018qt8" />
+    <owl:sameAs rdf:resource="http://es.dbpedia.org/resource/Prefectura_de_Ibaraki" />
+    <owl:sameAs rdf:resource="http://id.dbpedia.org/resource/Prefektur_Ibaraki" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Prefectures_of_Japan" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Kantō_region" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Ibaraki_Prefecture" />
+    <dbo:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">181029</dbo:wikiPageID>
+    <dbo:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">742365630</dbo:wikiPageRevisionID>
+    <dbo:wikiPageExternalLink rdf:resource="http://www.pref.ibaraki.jp/bukyoku/seikan/kokuko/e-ibaraki-report/index.html" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.pref.ibaraki.jp/bukyoku/seikan/kokuko/en/" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.pref.ibaraki.jp" />
+    <dbo:wikiPageExternalLink rdf:resource="https://books.google.com/books?id=p2QnPijAEmEC" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.ibarakijapan.com" />
+    <foaf:name xml:lang="en">Ibaraki</foaf:name>
+    <foaf:homepage rdf:resource="http://www.pref.ibaraki.jp" />
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#float">36.2333</geo:lat>
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#float">140.283</geo:long>
+    <foaf:depiction rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Flag_of_Ibaraki_Prefecture.svg" />
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Ibaraki_Prefecture" />
+    <geo:geometry rdf:datatype="http://www.openlinksw.com/schemas/virtrdf#Geometry">POINT(140.2833404541 36.233333587646)</geo:geometry>
+    <dbo:thumbnail rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Flag_of_Ibaraki_Prefecture.svg?width=300" />
+    <prov:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Ibaraki_Prefecture?oldid=742365630" />
+    <ns9:areaTotal rdf:datatype="http://dbpedia.org/datatype/squareKilometre">6095.58</ns9:areaTotal>
+    <ns9:populationDensity rdf:datatype="http://dbpedia.org/datatype/inhabitantsPerSquareKilometre">486.28</ns9:populationDensity>
+    <dbo:abstract xml:lang="pl">Prefektura Ibaraki (jap. 茨城県 Ibaraki-ken) - prefektura położona w północno-wschodniej części regionu Kantō, w Japonii. Jej stolicą jest miasto Mito.</dbo:abstract>
+    <dbo:abstract xml:lang="ru">Ибара́ки (яп. 茨城県 Ибараки-кэн) — префектура, расположенная в регионе Канто на острове Хонсю, Япония. Площадь префектуры составляет 11 636,28 км², население — 1 038 364 человека (1 августа 2014), плотность населения — 89,24 чел./км². Административный центр префектуры — город Мито.</dbo:abstract>
+    <dbo:abstract xml:lang="it">Ibaraki (茨城県 Ibaraki-ken?) è una prefettura giapponese di circa 3 milioni di abitanti, con capoluogo a Mito. Si trova nella regione di Kantō, sull&#39;isola di Honshū.</dbo:abstract>
+    <dbo:abstract xml:lang="ar">25بك المحتوى هنا ينقصه الاستشهاد بمصادر. يرجى إيراد مصادر موثوق بها. أي معلومات غير موثقة يمكن التشكيك بها وإزالتها. (فبراير 2016) محافظة إيباراكي (باليابانية: 茨城県 إيباراكي-كن) هي محافظة في اليابان تقع في منطقة كانتو على جزيرة هونشو، وعاصمتها هي ميتو.</dbo:abstract>
+    <dbo:abstract xml:lang="de">Die Präfektur Ibaraki (jap. 茨城県, Ibaraki-ken) ist eine der Präfekturen Japans und liegt in der Region Kantō auf der Insel Honshū in Japan. Sitz der Präfekturverwaltung ist Mito.</dbo:abstract>
+    <dbo:abstract xml:lang="zh">茨城縣（日语：茨城県／いばらきけん Ibaraki ken */?）是日本的一个县，位於關東地方北部。東濱太平洋、北接福島縣、西接栃木縣、南接千葉縣與埼玉縣。首府是水戶市。茨城縣人口數在全日本的都道府縣中排名第11位，面積為第23位。茨城縣的大部分土地在過去相當於令制國中的常陸國。西南部及南部的部分地區則屬下總國。</dbo:abstract>
+    <dbo:abstract xml:lang="fr">Ibaraki (茨城県, Ibaraki-ken) est une préfecture du Japon.</dbo:abstract>
+    <dbo:abstract xml:lang="pt">Este artigo é sobre a província japonesa. Sobre a cidade da província de Osaka, veja Ibaraki (Osaka). Ibaraki (茨城県, Ibaraki-ken?) é uma província do Japão. A sua capital é a cidade de Mito.</dbo:abstract>
+    <dbo:abstract xml:lang="es">La Prefectura de Ibaraki (茨城県 Ibaraki-ken?) está ubicada en la región de Kantō en la isla de Honshū, Japón. La capital es Mito. La Prefectura de Ibaraki se conocía anteriormente como la Provincia de Hitachi; en 1871, el nombre cambió a Prefectura de Ibaraki, al inicio de la Era Meiji.</dbo:abstract>
+    <dbo:abstract xml:lang="ja">茨城県（いばらきけん）は、日本の県の一つ。関東地方の北東に位置し、東は太平洋に面する。県庁所在地は水戸市。都道府県人口は全国11位、面積は全国24位である。</dbo:abstract>
+    <dbo:abstract xml:lang="en">Ibaraki Prefecture (茨城県 Ibaraki-ken) is a prefecture of Japan, located in the Kantō region on the main island of Honshu. The capital is Mito.</dbo:abstract>
+    <dbo:abstract xml:lang="nl">De prefectuur Ibaraki  (茨城県,Ibaraki-ken) is een Japanse prefectuur in de regio Kanto in Honshu. Ibaraki heeft een oppervlakte van 6095,69 km² en had op 1 augustus 2010 een bevolking van ongeveer 2.963.959 inwoners. De hoofdstad is Mito.</dbo:abstract>
+    <dbo:areaTotal rdf:datatype="http://www.w3.org/2001/XMLSchema#double">6.09558e+09</dbo:areaTotal>
+    <dbo:capital rdf:resource="http://dbpedia.org/resource/Mito,_Ibaraki" />
+    <dbo:country rdf:resource="http://dbpedia.org/resource/Japan" />
+    <dbo:populationDensity rdf:datatype="http://www.w3.org/2001/XMLSchema#double">486.28</dbo:populationDensity>
+    <dbo:populationTotal rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">2964141</dbo:populationTotal>
+    <dbp:island rdf:resource="http://dbpedia.org/resource/Honshu" />
+    <dbp:municipalities rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">44</dbp:municipalities>
+    <dbp:popdate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2010-09-01</dbp:popdate>
+    <!--
+    <p: xmlns:p="http://dbpedia.org/property/rōmaji" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Ibaraki-ken</p:>
+    -->
+    <georss:point>36.233333333333334 140.28333333333333</georss:point>
+    <dbp:arearank rdf:datatype="http://dbpedia.org/datatype/rod">23.0</dbp:arearank>
+    <dbp:bird rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Eurasian Skylark</dbp:bird>
+    <dbp:districts rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">7</dbp:districts>
+    <dbp:flag rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Flag of Ibaraki Prefecture.svg</dbp:flag>
+    <dbp:flower rdf:resource="http://dbpedia.org/resource/Rose" />
+    <dbp:governor rdf:resource="http://dbpedia.org/resource/Masaru_Hashimoto" />
+    <dbp:isocode rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">JP-08</dbp:isocode>
+    <dbp:pcwater rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.8</dbp:pcwater>
+    <dbp:poprank rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">11</dbp:poprank>
+    <dbp:region rdf:resource="http://dbpedia.org/resource/Kantō_region" />
+    <dbp:tree rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Ume tree</dbp:tree>
+    <dbp:japanesename rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">茨城県</dbp:japanesename>
+    <ns11:hypernym rdf:resource="http://dbpedia.org/resource/Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kashima_Antlers">
+    <dbo:ground rdf:resource="http://dbpedia.org/resource/Ibaraki_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kashima_Railway_Line">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Ibaraki_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kawachi,_Ibaraki">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Ibaraki_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Minato_Line">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Ibaraki_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ibaraki_Christian_University">
+    <dbo:state rdf:resource="http://dbpedia.org/resource/Ibaraki_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ibaraki_Prefectural_University_of_Health_Sciences">
+    <dbo:state rdf:resource="http://dbpedia.org/resource/Ibaraki_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ibaraki_Women&#39;s_Junior_College">
+    <dbo:state rdf:resource="http://dbpedia.org/resource/Ibaraki_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mito_Junior_College">
+    <dbo:state rdf:resource="http://dbpedia.org/resource/Ibaraki_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Miyuki_Akiyama">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Ibaraki_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/National_University_Corporation_Tsukuba_University_of_Technology">
+    <dbo:state rdf:resource="http://dbpedia.org/resource/Ibaraki_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tokiwa_University">
+    <dbo:state rdf:resource="http://dbpedia.org/resource/Ibaraki_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tsukuba_Gakuin_University">
+    <dbo:state rdf:resource="http://dbpedia.org/resource/Ibaraki_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tsukuba_International_School">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Ibaraki_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tsukuba_International_University">
+    <dbo:state rdf:resource="http://dbpedia.org/resource/Ibaraki_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yamato_Yamamoto">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Ibaraki_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kasama_Castle">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Ibaraki_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nakamura_Tsune">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Ibaraki_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Museum_of_Modern_Art,_Ibaraki">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Ibaraki_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tsuchiura_Castle">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Ibaraki_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mito_Line">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Ibaraki_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Shigeru_Sakurai">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Ibaraki_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Wataru_Endo">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Ibaraki_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Daigo,_Ibaraki">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Ibaraki_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Aritomo_Gotō">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Ibaraki_Prefecture" />
+    <dbp:birthPlace rdf:resource="http://dbpedia.org/resource/Ibaraki_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Daishi_Nobuyuki">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Ibaraki_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Fumiaki_Nakamura">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Ibaraki_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hideaki_Tomiyama">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Ibaraki_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hirokatsu_Tayama">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Ibaraki_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hiroyuki_Omichi">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Ibaraki_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jun_Kanakubo">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Ibaraki_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kazuhisa_Irii">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Ibaraki_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kazuhito_Esaki">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Ibaraki_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kenji_Suzuki_(director)">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Ibaraki_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kento_Fukuda">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Ibaraki_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mai_Mizuhashi">
+    <dbo:hometown rdf:resource="http://dbpedia.org/resource/Ibaraki_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Miyabiyama_Tetsushi">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Ibaraki_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sai_Kanakubo">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Ibaraki_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Seiji_Kubo">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Ibaraki_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Takehiro_Otani">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Ibaraki_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Teruaki_Kobayashi">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Ibaraki_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tomoaki_Maeno">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Ibaraki_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tomohiro_Nagatsuka">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Ibaraki_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yasumichi_Kushida">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Ibaraki_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yoshihide_Nagano">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Ibaraki_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ibaraki_prefecture">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Ibaraki_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Minoru_Kawawada">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Ibaraki_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ibaraki_dialect">
+    <dbo:spokenIn rdf:resource="http://dbpedia.org/resource/Ibaraki_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kosuke_Suda">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Ibaraki_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ōarai_Kashima_Line">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Ibaraki_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hiromitsu_Agatsuma">
+    <dbo:hometown rdf:resource="http://dbpedia.org/resource/Ibaraki_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/JT-60">
+    <dbp:location rdf:resource="http://dbpedia.org/resource/Ibaraki_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/New_Central_Airservice">
+    <dbo:headquarter rdf:resource="http://dbpedia.org/resource/Ibaraki_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mitsuko_Baisho">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Ibaraki_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kairaku-en">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Ibaraki_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tokyo_Electric_Power_Company">
+    <dbo:regionServed rdf:resource="http://dbpedia.org/resource/Ibaraki_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yoko_Matsugane">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Ibaraki_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kinji_Fukasaku">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Ibaraki_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Aka_Plu">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Ibaraki_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Atsuko_Kurusu">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Ibaraki_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Juri_Takahashi">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Ibaraki_Prefecture" />
+    <dbo:hometown rdf:resource="http://dbpedia.org/resource/Ibaraki_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mika_Katsumura">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Ibaraki_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tomoki_Nojiri">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Ibaraki_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Fukushiro_Nukaga">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Ibaraki_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jōsō_Line">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Ibaraki_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kanto_Tsukuba_Bank">
+    <dbo:regionServed rdf:resource="http://dbpedia.org/resource/Ibaraki_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ryūgasaki_Line">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Ibaraki_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nanae_Katō">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Ibaraki_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hitomi_Kurihara">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Ibaraki_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kashima_Line">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Ibaraki_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Goro_Kawanami">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Ibaraki_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ujō_Noguchi">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Ibaraki_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yuji_Iida">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Ibaraki_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yuzo_Iwakami">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Ibaraki_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Takao_Ishii">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Ibaraki_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kazuko_Miyata">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Ibaraki_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yuta_Nakayama">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Ibaraki_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Institute_for_Comparative_Research_in_Human_and_Social_Sciences">
+    <dbo:state rdf:resource="http://dbpedia.org/resource/Ibaraki_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mount_Kaba,_Ibaraki">
+    <dbo:locatedInArea rdf:resource="http://dbpedia.org/resource/Ibaraki_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/List_of_Historic_Sites_of_Japan_(Tochigi)">
+    <dbp:prefecture rdf:resource="http://dbpedia.org/resource/Ibaraki_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ibaraki_prefercture">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Ibaraki_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gran_Naniwa">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Ibaraki_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Morishige">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Ibaraki_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ibaraki_Prefectural_Museum_of_History">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Ibaraki_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mayumi_Gojo">
+    <dbo:hometown rdf:resource="http://dbpedia.org/resource/Ibaraki_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/You_Kikkawa">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Ibaraki_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Taku_Watanabe">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Ibaraki_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hiroyuki_Ikeuchi">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Ibaraki_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Cali_Gari">
+    <dbo:hometown rdf:resource="http://dbpedia.org/resource/Ibaraki_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hiroshi_Kobayashi_(footballer)">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Ibaraki_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Science_Museum_of_Map_and_Survey">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Ibaraki_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hironobu_Sakaguchi">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Ibaraki_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mitsuo_Yanagimachi">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Ibaraki_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nobuo_Tobita">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Ibaraki_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tomo_Muranaka">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Ibaraki_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hiroto_Yamamoto">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Ibaraki_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Takuya_Terada">
+    <dbo:hometown rdf:resource="http://dbpedia.org/resource/Ibaraki_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yasuhiro_Inaba">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Ibaraki_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yoshihiro_Nakamura">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Ibaraki_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Takuya_Eguchi">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Ibaraki_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kazuhiko_Hosokawa">
+    <dbp:birthPlace rdf:resource="http://dbpedia.org/resource/Ibaraki_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Takuya_Nozawa">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Ibaraki_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Teruo_Kakuta">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Ibaraki_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jōban_Line">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Ibaraki_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hiroshi_Yoneyama">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Ibaraki_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Suigun_Line">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Ibaraki_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Shirō_Takasu">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Ibaraki_Prefecture" />
+    <dbp:birthPlace rdf:resource="http://dbpedia.org/resource/Ibaraki_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Shunichi_Kajima">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Ibaraki_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hiroshi_Noguchi">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Ibaraki_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Michiko_Hada">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Ibaraki_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hayato_Sakurai">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Ibaraki_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kazuyo_Sejima">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Ibaraki_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Masumi_Itō">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Ibaraki_Prefecture" />
+    <dbo:hometown rdf:resource="http://dbpedia.org/resource/Ibaraki_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tatsuya_Kawajiri">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Ibaraki_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ayami_Mutō">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Ibaraki_Prefecture" />
+    <dbo:hometown rdf:resource="http://dbpedia.org/resource/Ibaraki_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Azusa_Tadokoro">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Ibaraki_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hiroya_Takada">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Ibaraki_Prefecture" />
+    <dbp:fightingOutOf rdf:resource="http://dbpedia.org/resource/Ibaraki_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ryutsu_Keizai_Dragons_Ryugasaki">
+    <dbo:ground rdf:resource="http://dbpedia.org/resource/Ibaraki_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Morihiro_Saito">
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Ibaraki_Prefecture" />
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Ibaraki_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kisenosato_Yutaka">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Ibaraki_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Minanogawa_Tōzō">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Ibaraki_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yuji_Hashimoto">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Ibaraki_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Haruka_Sunada">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Ibaraki_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ōuchiyama_Heikichi">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Ibaraki_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Toru_Ojima">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Ibaraki_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Takashi_Seki">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Ibaraki_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Toru_Kaburagi">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Ibaraki_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yusuke_Ishitsuka">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Ibaraki_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Fumiko_Ito">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Ibaraki_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Daiki_Kogure">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Ibaraki_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Haruhiko_Takimoto">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Ibaraki_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hisashi_Ohashi">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Ibaraki_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jumpei_Arai">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Ibaraki_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Koki_Machida">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Ibaraki_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Masato_Yuzawa">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Ibaraki_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Taiki_Hirato">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Ibaraki_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yuto_Koizumi">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Ibaraki_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ibaragi_Oni">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Ibaraki_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/JP-08">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Ibaraki_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Dōmei_Yakazu">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Ibaraki_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/茨城県">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Ibaraki_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/List_of_Historic_Sites_of_Japan_(Ibaraki)">
+    <dbp:prefecture rdf:resource="http://dbpedia.org/resource/Ibaraki_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Ibaraki_Prefecture">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Ibaraki_Prefecture" />
+  </rdf:Description>
+</rdf:RDF>

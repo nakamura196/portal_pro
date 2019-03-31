@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:dbo="http://dbpedia.org/ontology/"
+	xmlns:dct="http://purl.org/dc/terms/"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:prov="http://www.w3.org/ns/prov#"
+	xmlns:ns7="http://purl.org/linguistics/gold/" >
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Tsukuba_District,_Ibaraki">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Tsukuba_District,_Ibaraki" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mamiya_Rinzō">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Tsukuba_District,_Ibaraki" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tsukuba_District,_Ibaraki">
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoPermanentlyLocatedEntity" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatFormerDistrictsOfIbarakiPrefecture" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PhysicalEntity100001930" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Settlement" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoLegalActorGeo" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/District108552138" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Location100027167" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Object100002684" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Region108630985" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoGeoEntity" />
+    <rdfs:label xml:lang="en">Tsukuba District, Ibaraki</rdfs:label>
+    <rdfs:label xml:lang="ja">筑波郡</rdfs:label>
+    <rdfs:comment xml:lang="ja">筑波郡（つくばぐん）は、茨城県（常陸国）にあった郡。</rdfs:comment>
+    <rdfs:comment xml:lang="en">Tsukuba (筑波郡 Tsukuba-gun) was a district located in Ibaraki Prefecture, Japan. At its greatest extent it included the areas of today&#39;s cities of Jōsō, Shimotsuma, Toride, Tsuchiura, Tsukuba, and Tsukuba Mirai. The district had two towns before the dissolution: 
+*  Ina 
+*  Yawara On March 27, 2006, the town of Ina and the village of Yawara were merged to create the city of Tsukubamirai. Therefore, Tsukuba District was dissolved as a result of this merger.</rdfs:comment>
+    <owl:sameAs rdf:resource="http://ja.dbpedia.org/resource/筑波郡" />
+    <owl:sameAs rdf:resource="http://yago-knowledge.org/resource/Tsukuba_District,_Ibaraki" />
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q7850092" />
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Tsukuba_District,_Ibaraki" />
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.03knrl" />
+    <owl:sameAs rdf:resource="http://sws.geonames.org/2110682/" />
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q7850092" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Former_districts_of_Ibaraki_Prefecture" />
+    <dbo:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">874412</dbo:wikiPageID>
+    <dbo:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">585792597</dbo:wikiPageRevisionID>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Tsukuba_District,_Ibaraki" />
+    <prov:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Tsukuba_District,_Ibaraki?oldid=585792597" />
+    <dbo:abstract xml:lang="en">Tsukuba (筑波郡 Tsukuba-gun) was a district located in Ibaraki Prefecture, Japan. At its greatest extent it included the areas of today&#39;s cities of Jōsō, Shimotsuma, Toride, Tsuchiura, Tsukuba, and Tsukuba Mirai. The district had two towns before the dissolution: 
+*  Ina 
+*  Yawara On March 27, 2006, the town of Ina and the village of Yawara were merged to create the city of Tsukubamirai. Therefore, Tsukuba District was dissolved as a result of this merger.</dbo:abstract>
+    <dbo:abstract xml:lang="ja">筑波郡（つくばぐん）は、茨城県（常陸国）にあった郡。</dbo:abstract>
+    <ns7:hypernym rdf:resource="http://dbpedia.org/resource/District" />
+  </rdf:Description>
+</rdf:RDF>

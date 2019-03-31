@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:dct="http://purl.org/dc/terms/"
+	xmlns:dbo="http://dbpedia.org/ontology/"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:prov="http://www.w3.org/ns/prov#"
+	xmlns:dbp="http://dbpedia.org/property/" >
+  <rdf:Description rdf:about="http://dbpedia.org/resource/National_Democratic_Party_(Japan)">
+    <dbo:mergedIntoParty rdf:resource="http://dbpedia.org/resource/Kaishintō" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kaishintō">
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Organisation" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/PoliticalParty" />
+    <rdf:type rdf:resource="http://schema.org/Organization" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Agent" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q7278" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q43229" />
+    <rdf:type rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#SocialPerson" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q24229398" />
+    <rdf:type rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent" />
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing" />
+    <rdfs:label xml:lang="en">Kaishintō</rdfs:label>
+    <rdfs:label xml:lang="ja">改進党</rdfs:label>
+    <rdfs:comment xml:lang="en">The Kaishintō (Japanese: 改進党, lit. Reformist Party) was a political party in Japan.</rdfs:comment>
+    <rdfs:comment xml:lang="ja">改進党（かいしんとう）は、1952年から1954年にかけて活動した日本の政党の一つ。総裁は重光葵、幹事長は三木武夫。</rdfs:comment>
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Kaishintō" />
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Kaishintō" />
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q11498880" />
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q11498880" />
+    <owl:sameAs rdf:resource="http://ja.dbpedia.org/resource/改進党" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:1952_establishments_in_Japan" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Political_parties_established_in_1952" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:1954_disestablishments_in_Japan" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Political_parties_disestablished_in_1954" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Defunct_political_parties_in_Japan" />
+    <dbo:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">49782699</dbo:wikiPageID>
+    <dbo:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">729447369</dbo:wikiPageRevisionID>
+    <foaf:name xml:lang="en">改進党</foaf:name>
+    <foaf:name xml:lang="en">Kaishintō</foaf:name>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Kaishintō" />
+    <prov:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Kaishintō?oldid=729447369" />
+    <dbo:abstract xml:lang="en">The Kaishintō (Japanese: 改進党, lit. Reformist Party) was a political party in Japan.</dbo:abstract>
+    <dbo:abstract xml:lang="ja">改進党（かいしんとう）は、1952年から1954年にかけて活動した日本の政党の一つ。総裁は重光葵、幹事長は三木武夫。</dbo:abstract>
+    <dbo:country rdf:resource="http://dbpedia.org/resource/Japan" />
+    <dbo:extinctionDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1954-11-24</dbo:extinctionDate>
+    <dbo:extinctionYear rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1954</dbo:extinctionYear>
+    <dbo:formationDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1952-02-08</dbo:formationDate>
+    <dbo:formationYear rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1952</dbo:formationYear>
+    <dbo:headquarter rdf:resource="http://dbpedia.org/resource/Tokyo" />
+    <dbo:headquarter rdf:resource="http://dbpedia.org/resource/Japan" />
+    <dbo:ideology rdf:resource="http://dbpedia.org/resource/Liberalism" />
+    <dbo:ideology rdf:resource="http://dbpedia.org/resource/Agrarianism" />
+    <dbo:ideology rdf:resource="http://dbpedia.org/resource/Japanese_nationalism" />
+    <dbo:ideology rdf:resource="http://dbpedia.org/resource/Economic_liberalism" />
+    <dbo:mergedIntoParty rdf:resource="http://dbpedia.org/resource/Japan_Democratic_Party_(1954)" />
+    <dbp:colorcode rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">#8000FF</dbp:colorcode>
+    <dbp:merger rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">National Democratic Party, Shinsei Club and Farmers Cooperative Party</dbp:merger>
+    <dbp:position rdf:resource="http://dbpedia.org/resource/Centre-right_politics" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kaishinto">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Kaishintō" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Kaishintō">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Kaishintō" />
+  </rdf:Description>
+</rdf:RDF>

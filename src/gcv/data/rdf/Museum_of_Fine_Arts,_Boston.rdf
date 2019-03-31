@@ -1,0 +1,327 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:dct="http://purl.org/dc/terms/"
+	xmlns:dbo="http://dbpedia.org/ontology/"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	xmlns:prov="http://www.w3.org/ns/prov#"
+	xmlns:dbp="http://dbpedia.org/property/"
+	xmlns:georss="http://www.georss.org/georss/"
+	xmlns:ns10="http://purl.org/linguistics/gold/" >
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Matthew_Teitelbaum">
+    <dbp:title rdf:resource="http://dbpedia.org/resource/Museum_of_Fine_Arts,_Boston" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Procuress_(Dirck_van_Baburen)">
+    <dbo:museum rdf:resource="http://dbpedia.org/resource/Museum_of_Fine_Arts,_Boston" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Museum_of_Fine_Arts,_Boston">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Museum_of_Fine_Arts,_Boston" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Meditation_by_the_Sea">
+    <dbo:museum rdf:resource="http://dbpedia.org/resource/Museum_of_Fine_Arts,_Boston" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Boston_Museum_of_Fine_Arts">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Museum_of_Fine_Arts,_Boston" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Museum_of_fine_arts_Boston">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Museum_of_Fine_Arts,_Boston" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Where_Do_We_Come_From%3F_What_Are_We%3F_Where_Are_We_Going%3F">
+    <dbo:museum rdf:resource="http://dbpedia.org/resource/Museum_of_Fine_Arts,_Boston" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Painter&#39;s_Honeymoon">
+    <dbo:museum rdf:resource="http://dbpedia.org/resource/Museum_of_Fine_Arts,_Boston" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/In_the_Loge">
+    <dbo:museum rdf:resource="http://dbpedia.org/resource/Museum_of_Fine_Arts,_Boston" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Dance_at_Bougival">
+    <dbo:museum rdf:resource="http://dbpedia.org/resource/Museum_of_Fine_Arts,_Boston" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Fog_Warning">
+    <dbo:museum rdf:resource="http://dbpedia.org/resource/Museum_of_Fine_Arts,_Boston" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Le_Grand_Canal">
+    <dbo:museum rdf:resource="http://dbpedia.org/resource/Museum_of_Fine_Arts,_Boston" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Museum_of_Fine_Arts,_Boston">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Position108621598" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Landmark108624891" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Facility103315023" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatLandmarksInBoston,Massachusetts" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatArtMuseumsEstablishedIn1870" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Museum" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatMuseumsInBoston,Massachusetts" />
+    <rdf:type rdf:resource="http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatMuseumsEstablishedIn1870" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatMuseumsInTheUnitedStates" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Point108620061" />
+    <rdf:type rdf:resource="http://schema.org/Place" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatMuseumsOfAncientRome" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatMuseumsOfAncientGreece" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Area102735688" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Building" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Room104105893" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/ArchitecturalStructure" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Location" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatMuseumsOfAmericanArt" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatArtMuseumsInMassachusetts" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Place" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q33506" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatContemporaryArtGalleries" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Gallery103412058" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Whole100003553" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q41176" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Location100027167" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoGeoEntity" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoPermanentlyLocatedEntity" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Structure104341686" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Artifact100021939" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatAsianArtMuseums" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatMuseumsOfJapaneseCultureAbroadInTheUnitedStates" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatMuseumsOfAncientNearEast" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatAsianArtMuseumsInTheUnitedStates" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoLegalActorGeo" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Object100002684" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PhysicalEntity100001930" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Depository103177349" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Museum103800563" />
+    <rdfs:label xml:lang="ru">Музей изящных искусств (Бостон)</rdfs:label>
+    <rdfs:label xml:lang="pt">Museu de Belas Artes de Boston</rdfs:label>
+    <rdfs:label xml:lang="en">Museum of Fine Arts, Boston</rdfs:label>
+    <rdfs:label xml:lang="es">Museo de Bellas Artes (Boston)</rdfs:label>
+    <rdfs:label xml:lang="nl">Museum of Fine Arts (Boston)</rdfs:label>
+    <rdfs:label xml:lang="ar">متحف الفنون الجميلة في بوسطن</rdfs:label>
+    <rdfs:label xml:lang="fr">Musée des beaux-arts de Boston</rdfs:label>
+    <rdfs:label xml:lang="pl">Museum of Fine Arts w Bostonie</rdfs:label>
+    <rdfs:label xml:lang="de">Museum of Fine Arts, Boston</rdfs:label>
+    <rdfs:label xml:lang="ja">ボストン美術館</rdfs:label>
+    <rdfs:label xml:lang="it">Museum of Fine Arts (Boston)</rdfs:label>
+    <rdfs:label xml:lang="zh">波士頓美術館</rdfs:label>
+    <rdfs:comment xml:lang="en">The Museum of Fine Arts (or MFA) in Boston, Massachusetts, is the fourth  largest museum in the United States. It contains more than 450,000 works of art, making it one of the most comprehensive collections in the Americas. With more than one million visitors a year, it is the 55th most-visited art museum in the world as of 2014. Founded in 1870, the museum moved to its current location in 1909. The museum is affiliated with the Tufts School of the Museum of Fine Arts.</rdfs:comment>
+    <rdfs:comment xml:lang="pt">O Museu de Belas Artes de Boston (em inglês: Museum of Fine Arts) em Boston, Massachusetts, é um dos maiores museus dos Estados Unidos e guarda a segunda maior coleção permanente de obras de arte na América, depois do Metropolitan Museum of Art, em New York. O museu foi criado em 1870 a abriu em 1876. O projeto foi do arquiteto Guy Lowell e sua construção é em estilo Neo-clássico. Atualmente está passando por uma reformulação. Alguns destaques da coleção:</rdfs:comment>
+    <rdfs:comment xml:lang="zh">波士頓美術館（Museum of Fine Arts, Boston，簡稱MFA），位于美國麻薩諸塞州波士頓，是全美最大博物馆之一。1876年7月4日美國建國百年時對外開放，之後在1909年迁到现址。館藏近45萬件艺术品，每年吸引超过100万人次参观。2013年，它是全世界第55热门的艺术博物馆，美国第10热门的藝術博物馆。 博物馆有一附属艺术学院，名波士頓美術館學校（School of the Museum of Fine Arts, Boston），另有位于日本名古屋的姊妹馆，名為名古屋波士頓美術館。</rdfs:comment>
+    <rdfs:comment xml:lang="es">El Museo de Bellas Artes de Boston (en inglés: Museum of Fine Arts)?, en Boston, Massachusetts, es uno de los museos más importantes de los Estados Unidos y contiene la segunda colección permanente más grande en ese país, tras la del Museo Metropolitano de Arte en Nueva York. El director actual del museo es Malcolm Rogers. Algunas de las secciones más destacadas del museo del museo son: Frecuentemente alberga exposiciones temporales, como la muestra Art of Star Wars (sobre diseños de La guerra de las galaxias) en 2002, que atrajo a más de 1.652.000 visitantes.</rdfs:comment>
+    <rdfs:comment xml:lang="nl">Het Museum of Fine Arts is een museum in de Amerikaanse stad Boston. Het is met een bezoekersaantal van ongeveer een miljoen per jaar en een collectie van meer dan 450.000 voorwerpen een van de grootste musea in de Verenigde Staten. De directeur van het museum is Malcolm Rogers. De collectie is verdeeld in acht afdelingen: 
+*  Amerikaanse kunst 
+*  Oudheden 
+*  Aziatische, Oceanische en Afrikaanse kunst 
+*  Europese kunst 
+*  hedendaagse kunst 
+*  muziekinstrumenten 
+*  gravures, tekeningen en foto&#39;s 
+*  textiel en mode. 
+* Nederlandse en Vlaamse kunst in het Museum of Fine Arts  
+* 
+*       
+* 
+*</rdfs:comment>
+    <rdfs:comment xml:lang="ja">ボストン美術館 (英: Museum of Fine Arts, Boston、略称はMFA) は、アメリカ合衆国マサチューセッツ州ボストン市にある、全米有数の規模を持つ美術館。</rdfs:comment>
+    <rdfs:comment xml:lang="ru">Музей изящных искусств в Бостоне (англ. The Museum of Fine Arts; сокр. MFA) — один из крупнейших художественных музеев США. Учреждён в 1870 году на базе Бостонского атенеума. В современном здании с колоннами — с 1909 г. Имеет филиал в Нагое, Япония. Собрание музея по величине является вторым в Северной и Южной Америке, уступая лишь музею Метрополитен в Нью-Йорке. Директором музея в настоящее время является Малкольм Роджерс (англ. Malcolm Rogers).</rdfs:comment>
+    <rdfs:comment xml:lang="de">Das Museum of Fine Arts, Boston (deutsch: Museum der Schönen Künste) ist ein Kunstmuseum in Boston, Massachusetts, Vereinigte Staaten, und ist eines der größten Museen des Landes.</rdfs:comment>
+    <rdfs:comment xml:lang="ar">25بك المحتوى هنا ينقصه الاستشهاد بمصادر. يرجى إيراد مصادر موثوق بها. أي معلومات غير موثقة يمكن التشكيك بها وإزالتها. (مارس 2016) متحف الفنون الجميلة في بوسطن بولاية ماساشوستس هو أحد أكبر المتاحف في الولايات المتحدة الأمريكية، ويستقبل المتحف أكثر من مليون زائر سنوياً. يضم المتحف أكثر من 450 ألف عمل فني. وقد أنشئ المتحف في عام 1870 وأخذ المتحف مقره الحالي في عام 1909. يتبع للمتحف كلية متحف الفنون الجميلة، فضلاً عن متحف شقيق في ناجويا في اليابان.</rdfs:comment>
+    <rdfs:comment xml:lang="pl">Museum of Fine Arts w Bostonie zapoczątkowało swoją działalność 4 lipca 1876. Budynek muzeum na Copley Square mieścił w sobie w tym czasie 5600 dzieł sztuki. Przez następne kilka lat kolekcja powiększała się. W 1909 muzeum zostało przeniesione do swojej obecnej lokalizacji na Huntington Avenue. Dziś jego kolekcja składa się z ok. 450 tysięcy eksponatów z rozmaitych okresów od starożytności do współczesności. Muzeum organizuje również tymczasowe wystawy i realizuje programy edukacyjne.</rdfs:comment>
+    <rdfs:comment xml:lang="fr">Le musée des beaux-arts de Boston (Museum of Fine Arts, Boston), dans le Massachusetts, est l&#39;un des plus grands musées des États-Unis. L&#39;institution fut fondée en 1870 et ouvrit en 1876, après avoir emprunté une grosse partie des collections du Boston Athenæum. Le musée a emménagé dans ses locaux actuels de Huntington Avenue en 1909.</rdfs:comment>
+    <owl:sameAs rdf:resource="http://nl.dbpedia.org/resource/Museum_of_Fine_Arts_(Boston)" />
+    <owl:sameAs rdf:resource="http://pl.dbpedia.org/resource/Museum_of_Fine_Arts_w_Bostonie" />
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q49133" />
+    <owl:sameAs rdf:resource="http://it.dbpedia.org/resource/Museum_of_Fine_Arts_(Boston)" />
+    <owl:sameAs rdf:resource="http://ko.dbpedia.org/resource/보스턴_미술관" />
+    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/Museum_of_Fine_Arts,_Boston" />
+    <owl:sameAs rdf:resource="http://id.dbpedia.org/resource/Museum_of_Fine_Arts,_Boston" />
+    <owl:sameAs rdf:resource="http://sws.geonames.org/4944804/" />
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q49133" />
+    <owl:sameAs rdf:resource="http://pt.dbpedia.org/resource/Museu_de_Belas_Artes_de_Boston" />
+    <owl:sameAs rdf:resource="http://yago-knowledge.org/resource/Museum_of_Fine_Arts,_Boston" />
+    <owl:sameAs rdf:resource="http://sw.cyc.com/concept/Mx4rvmJ3TZwpEbGdrcN5Y29ycA" />
+    <owl:sameAs rdf:resource="http://es.dbpedia.org/resource/Museo_de_Bellas_Artes_(Boston)" />
+    <owl:sameAs rdf:resource="http://fr.dbpedia.org/resource/Musée_des_beaux-arts_de_Boston" />
+    <owl:sameAs rdf:resource="http://ja.dbpedia.org/resource/ボストン美術館" />
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.04ftck" />
+    <owl:sameAs rdf:resource="http://d-nb.info/gnd/38524-4" />
+    <owl:sameAs rdf:resource="http://cs.dbpedia.org/resource/Museum_of_Fine_Arts_(Boston)" />
+    <owl:sameAs rdf:resource="http://eu.dbpedia.org/resource/Bostongo_Arte_Ederren_Museoa" />
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Museum_of_Fine_Arts,_Boston" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Fenway–Kenmore" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Museums_of_Ancient_Greece" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Museums_of_Ancient_Rome" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Museum_of_Fine_Arts,_Boston" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Art_museums_in_Massachusetts" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Museums_of_American_art" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Landmarks_in_Fenway–Kenmore" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Museums_in_Boston" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Mesoamerican_art_museums_in_the_United_States" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Museums_of_Japanese_culture_abroad_in_the_United_States" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Institutions_accredited_by_the_American_Alliance_of_Museums" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Asian_art_museums_in_the_United_States" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Egyptological_collections_in_the_United_States" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Museums_of_Ancient_Near_East" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:1870_establishments_in_Massachusetts" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Culture_of_Boston" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Art_museums_established_in_1870" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Cultural_infrastructure_completed_in_1909" />
+    <dbo:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1189247</dbo:wikiPageID>
+    <dbo:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">743296151</dbo:wikiPageRevisionID>
+    <dbo:wikiPageExternalLink rdf:resource="http://www.mfa.org/" />
+    <foaf:name xml:lang="en">Museum of Fine Arts, Boston</foaf:name>
+    <foaf:homepage rdf:resource="http://www.mfa.org/" />
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#float">42.3392</geo:lat>
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-71.0942</geo:long>
+    <foaf:depiction rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Mfa_boston_af.jpg" />
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Museum_of_Fine_Arts,_Boston" />
+    <geo:geometry rdf:datatype="http://www.openlinksw.com/schemas/virtrdf#Geometry">POINT(-71.094169616699 42.339168548584)</geo:geometry>
+    <dbo:thumbnail rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Mfa_boston_af.jpg?width=300" />
+    <prov:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Museum_of_Fine_Arts,_Boston?oldid=743296151" />
+    <dbo:abstract xml:lang="nl">Het Museum of Fine Arts is een museum in de Amerikaanse stad Boston. Het is met een bezoekersaantal van ongeveer een miljoen per jaar en een collectie van meer dan 450.000 voorwerpen een van de grootste musea in de Verenigde Staten. De directeur van het museum is Malcolm Rogers. Het Museum of Fine Arts werd op 4 februari 1870 opgericht om de groeiende verzameling van het Boston Athenæum in onder te brengen. Het museum opende op 4 juli 1876 zijn deuren in een door John H. Sturgis en Charles Brigham ontworpen gebouw in neogotische stijl aan Copley Square. Op 9 november 1909 verhuisde het museum naar het door Guy Lowell in neoclassicistische stijl ontworpen gebouw aan Huntington Avenue. Op 3 februari 1915 werd de Evansvleugel en op 25 oktober 1988 de Japanse tuin geopend. De collectie is verdeeld in acht afdelingen: 
+*  Amerikaanse kunst 
+*  Oudheden 
+*  Aziatische, Oceanische en Afrikaanse kunst 
+*  Europese kunst 
+*  hedendaagse kunst 
+*  muziekinstrumenten 
+*  gravures, tekeningen en foto&#39;s 
+*  textiel en mode. Op 20 november 2010 werd de nieuwe vleugel voor Amerikaanse kunst geopend. Deze uitbreiding werd ontworpen door Foster en Partners. 
+* Nederlandse en Vlaamse kunst in het Museum of Fine Arts  
+* Hans Memling. Christus. 1481. 
+*       
+* Atelier van Jheronimus Bosch. Van Os-Van Langhel-drieluik. Ca. 1496-1500. 
+*       
+* Rembrandt (en/of atelier). De schilder in zijn atelier. 1626-1628. 
+* Frans Hals. Portret van een man. 1660-1666. 
+* Vincent van Gogh. Portret van de postbode Joseph Roulin. 1888. 
+* Vincent van Gogh. Portret van Augustine Roulin. 1889.</dbo:abstract>
+    <dbo:abstract xml:lang="fr">Le musée des beaux-arts de Boston (Museum of Fine Arts, Boston), dans le Massachusetts, est l&#39;un des plus grands musées des États-Unis. L&#39;institution fut fondée en 1870 et ouvrit en 1876, après avoir emprunté une grosse partie des collections du Boston Athenæum. Le musée a emménagé dans ses locaux actuels de Huntington Avenue en 1909. Ses collections sont variées ; parmi les domaines les mieux représentés figurent l&#39;Antiquité, notamment de l&#39;Ancien Empire égyptien, et la peinture française de la fin du XIXe siècle, avec par exemple la grande toile D&#39;où venons-nous ? Que sommes-nous ? Où allons-nous ? de Paul Gauguin.</dbo:abstract>
+    <dbo:abstract xml:lang="en">The Museum of Fine Arts (or MFA) in Boston, Massachusetts, is the fourth  largest museum in the United States. It contains more than 450,000 works of art, making it one of the most comprehensive collections in the Americas. With more than one million visitors a year, it is the 55th most-visited art museum in the world as of 2014. Founded in 1870, the museum moved to its current location in 1909. The museum is affiliated with the Tufts School of the Museum of Fine Arts.</dbo:abstract>
+    <dbo:abstract xml:lang="zh">波士頓美術館（Museum of Fine Arts, Boston，簡稱MFA），位于美國麻薩諸塞州波士頓，是全美最大博物馆之一。1876年7月4日美國建國百年時對外開放，之後在1909年迁到现址。館藏近45萬件艺术品，每年吸引超过100万人次参观。2013年，它是全世界第55热门的艺术博物馆，美国第10热门的藝術博物馆。 博物馆有一附属艺术学院，名波士頓美術館學校（School of the Museum of Fine Arts, Boston），另有位于日本名古屋的姊妹馆，名為名古屋波士頓美術館。</dbo:abstract>
+    <dbo:abstract xml:lang="pl">Museum of Fine Arts w Bostonie zapoczątkowało swoją działalność 4 lipca 1876. Budynek muzeum na Copley Square mieścił w sobie w tym czasie 5600 dzieł sztuki. Przez następne kilka lat kolekcja powiększała się. W 1909 muzeum zostało przeniesione do swojej obecnej lokalizacji na Huntington Avenue. Dziś jego kolekcja składa się z ok. 450 tysięcy eksponatów z rozmaitych okresów od starożytności do współczesności. Muzeum organizuje również tymczasowe wystawy i realizuje programy edukacyjne.</dbo:abstract>
+    <dbo:abstract xml:lang="de">Das Museum of Fine Arts, Boston (deutsch: Museum der Schönen Künste) ist ein Kunstmuseum in Boston, Massachusetts, Vereinigte Staaten, und ist eines der größten Museen des Landes.</dbo:abstract>
+    <dbo:abstract xml:lang="pt">O Museu de Belas Artes de Boston (em inglês: Museum of Fine Arts) em Boston, Massachusetts, é um dos maiores museus dos Estados Unidos e guarda a segunda maior coleção permanente de obras de arte na América, depois do Metropolitan Museum of Art, em New York. O museu foi criado em 1870 a abriu em 1876. O projeto foi do arquiteto Guy Lowell e sua construção é em estilo Neo-clássico. Atualmente está passando por uma reformulação. Alguns destaques da coleção: 
+*  Artefatos de arte egípcia (esculturas, sarcófagos e jóias) 
+*  Obras do Impressionismo (Paul Gauguin, Manet, Renoir, Degas, Monet, Van Gogh, Cézanne e outros) 
+*  Arte Norte-americana do século XVIII e XIX (John Singleton Copley, Winslow Homer e John Singer Sargent. 
+*  A Coleção Morse de 5.000 peças de cerâmica japonesa</dbo:abstract>
+    <dbo:abstract xml:lang="ru">Музей изящных искусств в Бостоне (англ. The Museum of Fine Arts; сокр. MFA) — один из крупнейших художественных музеев США. Учреждён в 1870 году на базе Бостонского атенеума. В современном здании с колоннами — с 1909 г. Имеет филиал в Нагое, Япония. Собрание музея по величине является вторым в Северной и Южной Америке, уступая лишь музею Метрополитен в Нью-Йорке. Директором музея в настоящее время является Малкольм Роджерс (англ. Malcolm Rogers).</dbo:abstract>
+    <dbo:abstract xml:lang="ja">ボストン美術館 (英: Museum of Fine Arts, Boston、略称はMFA) は、アメリカ合衆国マサチューセッツ州ボストン市にある、全米有数の規模を持つ美術館。</dbo:abstract>
+    <dbo:abstract xml:lang="es">El Museo de Bellas Artes de Boston (en inglés: Museum of Fine Arts)?, en Boston, Massachusetts, es uno de los museos más importantes de los Estados Unidos y contiene la segunda colección permanente más grande en ese país, tras la del Museo Metropolitano de Arte en Nueva York. El director actual del museo es Malcolm Rogers. Fue creado en el año 1870 y se inauguró en 1876, con una gran parte de sus colecciones tomada de la galería de arte del Ateneo de Boston. Está ubicado en la Avenida Huntington de Boston desde el año 1909. Además de su finalidad conservadora, el museo está asociado con una academia de arte, la Escuela de Bellas Artes de Boston, y un museo hermano, en Nagoya/Boston Museum of Fine Arts, en Nagoya, Japón. Algunas de las secciones más destacadas del museo del museo son: 
+*  Antigüedades egipcias, incluyendo esculturas, sarcófagos y joyería. 
+*  Pintura europea antigua, con obras maestras de Rogier van der Weyden, El Greco, Velázquez, Jacob Jordaens, Rembrandt... 
+*  Pintura impresionista y postimpresionista francesa, incluyendo cuadros de Paul Gauguin como ¿De dónde venimos? ¿A dónde vamos? (D&#39;où venons-nous? Que sommes-nous? Où allons-nous?) y obras de Manet, Renoir, Degas, Monet, Van Gogh, Cézanne, entre otros. 
+*  Pintores estadounidenses de los siglos XVIII y XIX, incluyendo muchas obras de John Singleton Copley, Winslow Homer y John Singer Sargent. 
+*  La colección Edward S. Morse de 5.000 piezas de cerámica japonesa, que forma parte de la mayor colección de obras japonesas fuera de Japón. 
+*  La Galería Gund, que alberga exposiciones temporales con un jardín japonés fuera del propio museo. Frecuentemente alberga exposiciones temporales, como la muestra Art of Star Wars (sobre diseños de La guerra de las galaxias) en 2002, que atrajo a más de 1.652.000 visitantes.</dbo:abstract>
+    <dbo:abstract xml:lang="ar">25بك المحتوى هنا ينقصه الاستشهاد بمصادر. يرجى إيراد مصادر موثوق بها. أي معلومات غير موثقة يمكن التشكيك بها وإزالتها. (مارس 2016) متحف الفنون الجميلة في بوسطن بولاية ماساشوستس هو أحد أكبر المتاحف في الولايات المتحدة الأمريكية، ويستقبل المتحف أكثر من مليون زائر سنوياً. يضم المتحف أكثر من 450 ألف عمل فني. وقد أنشئ المتحف في عام 1870 وأخذ المتحف مقره الحالي في عام 1909. يتبع للمتحف كلية متحف الفنون الجميلة، فضلاً عن متحف شقيق في ناجويا في اليابان.</dbo:abstract>
+    <dbo:director rdf:resource="http://dbpedia.org/resource/Matthew_Teitelbaum" />
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Massachusetts" />
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Boston" />
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Huntington_Avenue" />
+    <dbo:numberOfVisitors rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">1227163</dbo:numberOfVisitors>
+    <dbo:type rdf:resource="http://dbpedia.org/resource/Art_museum" />
+    <dbp:imageUpright rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.15</dbp:imageUpright>
+    <georss:point>42.339166666666664 -71.09416666666667</georss:point>
+    <georss:point>42.339167 -71.094167</georss:point>
+    <dbp:architect rdf:resource="http://dbpedia.org/resource/Guy_Lowell" />
+    <dbp:coordinatesRegion rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">US-MA</dbp:coordinatesRegion>
+    <dbp:established rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1870</dbp:established>
+    <dbp:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">42.3392</dbp:latitude>
+    <dbp:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-71.0942</dbp:longitude>
+    <dbp:mapCaption rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Location within Boston</dbp:mapCaption>
+    <dbp:mapSize rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">250</dbp:mapSize>
+    <dbp:mapType rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Boston</dbp:mapType>
+    <dbp:publictransit rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Museum of Fine Arts   Ruggles   Ruggles   Ruggles</dbp:publictransit>
+    <ns10:hypernym rdf:resource="http://dbpedia.org/resource/Museums" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bocca_Baciata">
+    <dbo:museum rdf:resource="http://dbpedia.org/resource/Museum_of_Fine_Arts,_Boston" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Fruit_and_a_Jug_on_a_Table">
+    <dbo:museum rdf:resource="http://dbpedia.org/resource/Museum_of_Fine_Arts,_Boston" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mrs._Fiske_Warren_(Gretchen_Osgood)_and_Her_Daughter_Rachel">
+    <dbo:museum rdf:resource="http://dbpedia.org/resource/Museum_of_Fine_Arts,_Boston" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Time_Unveiling_Truth_(Tiepolo)">
+    <dbo:museum rdf:resource="http://dbpedia.org/resource/Museum_of_Fine_Arts,_Boston" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Daughters_of_Edward_Darley_Boit">
+    <dbo:museum rdf:resource="http://dbpedia.org/resource/Museum_of_Fine_Arts,_Boston" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Roulin_Family">
+    <dbo:museum rdf:resource="http://dbpedia.org/resource/Museum_of_Fine_Arts,_Boston" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/MFA">
+    <dbo:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/Museum_of_Fine_Arts,_Boston" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Museum_of_Fine_Arts">
+    <dbo:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/Museum_of_Fine_Arts,_Boston" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Three_Crosses">
+    <dbo:museum rdf:resource="http://dbpedia.org/resource/Museum_of_Fine_Arts,_Boston" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Death_of_General_Warren_at_the_Battle_of_Bunker&#39;s_Hill,_June_17,_1775">
+    <dbo:museum rdf:resource="http://dbpedia.org/resource/Museum_of_Fine_Arts,_Boston" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Boston">
+    <dbp:imageCaption rdf:resource="http://dbpedia.org/resource/Museum_of_Fine_Arts,_Boston" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Malcolm_Rogers_(curator)">
+    <dbp:title rdf:resource="http://dbpedia.org/resource/Museum_of_Fine_Arts,_Boston" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nine_Dragons_(painting)">
+    <dbo:museum rdf:resource="http://dbpedia.org/resource/Museum_of_Fine_Arts,_Boston" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Wrestlers_(Luks)">
+    <dbo:museum rdf:resource="http://dbpedia.org/resource/Museum_of_Fine_Arts,_Boston" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Saint_Luke_Drawing_the_Virgin">
+    <dbo:museum rdf:resource="http://dbpedia.org/resource/Museum_of_Fine_Arts,_Boston" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Boston_Green_Head">
+    <dbp:location rdf:resource="http://dbpedia.org/resource/Museum_of_Fine_Arts,_Boston" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Edward_W._Hooper">
+    <dbo:knownFor rdf:resource="http://dbpedia.org/resource/Museum_of_Fine_Arts,_Boston" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Boston&#39;s_Museum_of_Fine_Arts">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Museum_of_Fine_Arts,_Boston" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Homme_au_bain_(painting)">
+    <dbo:museum rdf:resource="http://dbpedia.org/resource/Museum_of_Fine_Arts,_Boston" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Boston_Museum_of_Fine_Art">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Museum_of_Fine_Arts,_Boston" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lime_Green_Icicle_Tower">
+    <dbp:owner rdf:resource="http://dbpedia.org/resource/Museum_of_Fine_Arts,_Boston" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Prince_Balthasar_Charles_with_a_Dwarf">
+    <dbo:museum rdf:resource="http://dbpedia.org/resource/Museum_of_Fine_Arts,_Boston" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Modern_Rome">
+    <dbo:museum rdf:resource="http://dbpedia.org/resource/Museum_of_Fine_Arts,_Boston" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Court_Ladies_Preparing_Newly_Woven_Silk">
+    <dbo:museum rdf:resource="http://dbpedia.org/resource/Museum_of_Fine_Arts,_Boston" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/MFA_Boston">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Museum_of_Fine_Arts,_Boston" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Museum_of_Fine_Arts_(Boston)">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Museum_of_Fine_Arts,_Boston" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Museum_of_Fine_Arts_in_Boston">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Museum_of_Fine_Arts,_Boston" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Museum_of_Fine_Arts_Boston">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Museum_of_Fine_Arts,_Boston" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Boston_MFA">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Museum_of_Fine_Arts,_Boston" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Boston_Fine_Arts_Museum">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Museum_of_Fine_Arts,_Boston" />
+  </rdf:Description>
+</rdf:RDF>

@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:dbo="http://dbpedia.org/ontology/"
+	xmlns:dct="http://purl.org/dc/terms/"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:prov="http://www.w3.org/ns/prov#"
+	xmlns:dbp="http://dbpedia.org/property/"
+	xmlns:ns8="http://purl.org/linguistics/gold/" >
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hokusai">
+    <dbo:influenced rdf:resource="http://dbpedia.org/resource/Hiroshige" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Eight_Views_of_Ōmi">
+    <dbo:author rdf:resource="http://dbpedia.org/resource/Hiroshige" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hiroshige_Utagawa">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Hiroshige" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Thirty-six_Views_of_Mount_Fuji_(Hiroshige)">
+    <dbo:author rdf:resource="http://dbpedia.org/resource/Hiroshige" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ando_Hiroshige">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Hiroshige" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Andō_Hiroshige">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Hiroshige" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hiroshige_Ando">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Hiroshige" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hirosige">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Hiroshige" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Andro_Hiroshige">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Hiroshige" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ichiyusai_Hiroshige">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Hiroshige" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/安藤広重">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Hiroshige" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/歌川広重">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Hiroshige" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Andou_Hiroshige">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Hiroshige" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/One_Hundred_Famous_Views_of_Edo">
+    <dbo:author rdf:resource="http://dbpedia.org/resource/Hiroshige" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Famous_Views_of_the_Sixty-odd_Provinces">
+    <dbo:author rdf:resource="http://dbpedia.org/resource/Hiroshige" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hiroshige">
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatJapanesePrintmakers" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Person100007846" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Object100002684" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoLegalActor" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoLegalActorGeo" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PhysicalEntity100001930" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatLandscapeArtists" />
+    <rdf:type rdf:resource="http://schema.org/Person" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q24229398" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Artist109812338" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Creator109614315" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Wikicat19th-centuryJapanesePeople" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatUkiyo-eArtists" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q215627" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Printmaker110475687" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Agent" />
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatJapaneseArtists" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Painter110391653" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatJapanesePainters" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Organism100004475" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Person" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/CausalAgent100007347" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Whole100003553" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/LivingThing100004258" />
+    <rdf:type rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson" />
+    <rdf:type rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q5" />
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person" />
+    <rdf:type rdf:resource="http://umbel.org/umbel/rc/Artist" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Artist" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q483501" />
+    <rdfs:label xml:lang="en">Hiroshige</rdfs:label>
+    <rdfs:label xml:lang="pt">Hiroshige</rdfs:label>
+    <rdfs:label xml:lang="es">Utagawa Hiroshige</rdfs:label>
+    <rdfs:label xml:lang="it">Utagawa Hiroshige</rdfs:label>
+    <rdfs:label xml:lang="ru">Утагава Хиросигэ</rdfs:label>
+    <rdfs:label xml:lang="ja">歌川広重</rdfs:label>
+    <rdfs:label xml:lang="fr">Hiroshige</rdfs:label>
+    <rdfs:label xml:lang="ar">هيروشيغه</rdfs:label>
+    <rdfs:label xml:lang="zh">歌川廣重</rdfs:label>
+    <rdfs:label xml:lang="de">Utagawa Hiroshige</rdfs:label>
+    <rdfs:label xml:lang="pl">Hiroshige Andō</rdfs:label>
+    <rdfs:label xml:lang="nl">Ando Hiroshige</rdfs:label>
+    <rdfs:comment xml:lang="pt">Hiroshige (1797-1858), pintor e gravador japonês, conhecido sobretudo por suas gravuras de paisagens. Foi o último grande professor de Ukiyo-e, ou escola de gravura popular, e converteu as paisagens cotidianas em cenas líricas de grande intimismo que lhe proporcionaram um êxito comercial ainda maior que o de seu contemporâneo Hokusai. Sua obra-prima é a série de gravuras Tokaido gojusan-tsugi (As Cinqüenta e Três Estações do Tokaido).</rdfs:comment>
+    <rdfs:comment xml:lang="it">Fu allievo di Utagawa Toyohiro (1773-1829 circa) e studiò lo stile occidentale introdotto dal fondatore della scuola Utagawa, Toyoharu (1735-1814). Assieme a Hokusai è considerato uno tra i principali paesaggisti giapponesi dell&#39;Ottocento e fra i più celebri rappresentanti della corrente artistica Ukiyo-e. La produzione artistica di Hiroshige annovera diversi generi, tra cui stampe di attori, guerrieri, cortigiane, ma l&#39;oggetto principale della sua arte fu la natura nelle sue molteplici espressioni. La contemplazione della natura e la successiva rappresentazione in chiave morfologicamente armonica, è ciò che distingue Hiroshige dagli altri pittori-incisori del suo tempo, creando una dialettica tra il finito e l&#39;infinito, ossia il sentimento umano scaturente dall&#39;ascolto quasi religioso del</rdfs:comment>
+    <rdfs:comment xml:lang="fr">Utagawa Hiroshige (歌川広重, Utagawa Hiroshige,  né en 1797 à Edo, mort le 12 octobre 1858 à Edo) est un dessinateur, graveur et peintre japonais. Il se distingue par des séries d&#39;estampes sur le mont Fuji et sur Edo (actuel Tōkyō), dessinant de façon évocatrice les paysages et l&#39;atmosphère de la ville, en reprenant les instants de la vie quotidienne de la ville avant sa transformation à l&#39;ère Meiji (1868-1912). Auteur prolifique, actif entre 1818 et 1858, il crée une œuvre constituée de plus de 5 400 estampes. Le style d&#39;Hiroshige est cependant bien différent de celui d&#39;Hokusai.</rdfs:comment>
+    <rdfs:comment xml:lang="pl">Hiroshige Andō (jap. 安藤広重 Andō Hiroshige, ur. 1797 w Edo, zm. 12 października 1858), zwany także Hiroshige Utagawa (jap. 歌川広重 Utagawa Hiroshige) – jeden z najbardziej znanych japońskich malarzy, grafików i twórców ukiyo-e. W dzieciństwie nosił imię Tokutarō. Był synem strażaka. W wieku dwunastu lat stracił rodziców. Przydomek Hiroshige przyjął w 1811 r., gdy rozpoczął naukę w pracowni Toyohiro Utagawy. Z tego powodu mógł używać nazwy szkoły Utagawa zamiast własnego nazwiska. Hiroshige zmarł w czasie epidemii cholery w Edo.</rdfs:comment>
+    <rdfs:comment xml:lang="nl">Ando Hiroshige, ook bekend als Utagawa Hiroshige, (歌川広重 Utagawa Hiroshige; 1797 - 12 oktober 1858, Edo) was een Japans kunstenaar. Hij maakte ukiyo-e (Japanse houtsnede-druk) prints. Het bekendst is hij geworden door zijn landschapsafbeeldingen. Zijn roem vergaarde hij in de periode 1831-1834 met de publicatie van De 53 halteplaatsen van de Tōkaidō, een serie van 55 prenten met de halteplaatsen en het begin- en eindpunt van de Tōkaidō, de belangrijkste weg tussen Edo en Kyoto. Zijn succes resulteerde in een grote werkdruk die een periode van mindere artisticiteit in de jaren 1840-1850 tot gevolg had. In 1856 begon hij aan zijn laatste grote werk, Honderd beroemde gezichten van Edo.</rdfs:comment>
+    <rdfs:comment xml:lang="ar">25بك المحتوى هنا ينقصه الاستشهاد بمصادر. يرجى إيراد مصادر موثوق بها. أي معلومات غير موثقة يمكن التشكيك بها وإزالتها. (مارس 2016) أندو هيروشيغه (باليابانية: 安藤 広重) عاش (1797-1858 م) هو رسام ورشام ياباني، عاصر في حياته &quot;هوكوسائي&quot; والذي كان آخر أستاذ في مدرسة الرشم الخشبي الياباني المعروفة باسم &quot;أوكييو-إه&quot;.</rdfs:comment>
+    <rdfs:comment xml:lang="zh">歌川廣重（1797年－1858年10月12日）是日本浮世繪畫家。</rdfs:comment>
+    <rdfs:comment xml:lang="es">Utagawa Hiroshige (歌川広重 Utagawa Hiroshige?), seudónimo artístico de Andō Tokutarō (安藤徳太郎 Andō Tokutarō?) (Edo, actual Tokio, 1797 – ídem, 1858), fue un pintor japonés. Perteneció a la Escuela Utagawa, una de las más reputadas del estilo ukiyo-e. Hiroshige fue uno de los principales exponentes del paisajismo japonés, llevando esta disciplina a un nivel artístico y de estilo de gran calidad. Es también conocido como Andō Hiroshige (安藤広重 Andō Hiroshige?) e Ichiyūsai Hiroshige (一幽斎廣重 Ichiyūsai Hiroshige?).</rdfs:comment>
+    <rdfs:comment xml:lang="ja">歌川 広重（うたがわ ひろしげ、寛政9年（1797年） - 安政5年9月6日（1858年10月12日）は、江戸時代末期の浮世絵師。本名は安藤重右衛門。江戸の定火消しの安藤家に生まれ家督を継ぎ、その後に浮世絵師となった。かつては安藤広重（あんどう ひろしげ）とも呼ばれたが、安藤は本姓、広重は号であり、両者を組み合わせて呼ぶのは不適切で、広重自身もそう名乗ったことはない。ゴッホやモネなどの画家に影響を与え、世界的に著名な画家である。</rdfs:comment>
+    <rdfs:comment xml:lang="de">Utagawa Hiroshige (jap. 歌川 広重, alte Schreibung: 歌川 廣重, * 1797 in Edo (heute: Tokio); † 12. Oktober 1858), war zusammen mit Kuniyoshi und Kunisada einer der drei stilbildenden Meister des japanischen Farbholzschnitts am Ende der Edo-Zeit. Seine besondere Bedeutung liegt in einer völlig neuartigen Komposition des Landschaftsdruckes seiner Zeit und seinem maßgeblichen Einfluss auf die Entwicklung des europäischen Impressionismus.</rdfs:comment>
+    <rdfs:comment xml:lang="ru">Утагава Хиросигэ (歌川広重; 1797—1858) — японский художник-график, представитель направления укиё-э, мастер цветной ксилографии. Автор не менее чем 5400 гравюр. В лирических камерных пейзажах с жанровыми мотивами (цикл 53 станции Токайдо, 1833—1834) передавал зыбкие состояния природы, атмосферные эффекты снега и тумана. Работал под псевдонимом Андо Хиросигэ (安藤広重).</rdfs:comment>
+    <rdfs:comment xml:lang="en">Utagawa Hiroshige (Japanese: 歌川 広重), also Andō Hiroshige (Japanese: 安藤 広重; 1797 – 12 October 1858), was a Japanese ukiyo-e artist, considered the last great master of that tradition. Hiroshige is best known for his landscapes, such as the series The Fifty-three Stations of the Tōkaidō and The Sixty-nine Stations of the Kiso Kaidō; and for his depictions of birds and flowers. The subjects of his work were atypical of the ukiyo-e genre, whose typical focus was on beautiful women, popular actors, and other scenes of the urban pleasure districts of Japan&#39;s Edo period (1603–1868). The popular Thirty-six Views of Mount Fuji series by Hokusai was a strong influence on Hiroshige&#39;s choice of subject, though Hiroshige&#39;s approach was more poetic and ambient than Hokusai&#39;s bolder, more formal prints.</rdfs:comment>
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Hiroshige_(given_name)" />
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Hiroshige" />
+    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/Utagawa_Hiroshige" />
+    <owl:sameAs rdf:resource="http://it.dbpedia.org/resource/Utagawa_Hiroshige" />
+    <owl:sameAs rdf:resource="http://yago-knowledge.org/resource/Hiroshige" />
+    <owl:sameAs rdf:resource="http://fr.dbpedia.org/resource/Hiroshige" />
+    <owl:sameAs rdf:resource="http://id.dbpedia.org/resource/Hiroshige" />
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q200798" />
+    <owl:sameAs rdf:resource="http://es.dbpedia.org/resource/Utagawa_Hiroshige" />
+    <owl:sameAs rdf:resource="http://eu.dbpedia.org/resource/Hiroshige" />
+    <owl:sameAs rdf:resource="http://ja.dbpedia.org/resource/歌川広重" />
+    <owl:sameAs rdf:resource="http://yago-knowledge.org/resource/Utagawa_Shigenobu" />
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q200798" />
+    <owl:sameAs rdf:resource="http://pl.dbpedia.org/resource/Hiroshige_Andō" />
+    <owl:sameAs rdf:resource="http://nl.dbpedia.org/resource/Ando_Hiroshige" />
+    <owl:sameAs rdf:resource="http://pt.dbpedia.org/resource/Hiroshige" />
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.07hpgg" />
+    <owl:sameAs rdf:resource="http://cs.dbpedia.org/resource/Hirošige" />
+    <owl:sameAs rdf:resource="http://d-nb.info/gnd/118551469" />
+    <owl:sameAs rdf:resource="http://el.dbpedia.org/resource/Χιροσίτζε" />
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Edo" />
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Japan" />
+    <dbo:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1858-1-1</dbo:deathDate>
+    <dbo:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1858-10-12</dbo:deathDate>
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Edo" />
+    <dbo:birthPlace rdf:resource="http://wikidata.dbpedia.org/resource/Q7473516" />
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Japan" />
+    <dbo:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1797-1-1</dbo:birthDate>
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:19th-century_Japanese_people" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Japanese_painters" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Landscape_artists" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:1797_births" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Ukiyo-e_artists" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Japanese_printmakers" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:1858_deaths" />
+    <dbo:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2492542</dbo:wikiPageID>
+    <dbo:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">743711538</dbo:wikiPageRevisionID>
+    <dbo:wikiPageExternalLink rdf:resource="https://books.google.com/books?id=j3rirorbbeEC" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.hiroshige.org.uk/" />
+    <dbo:wikiPageExternalLink rdf:resource="http://digitalmuseum.rekibun.or.jp/app/selected/edo-tokyo?no=200704" />
+    <dbo:wikiPageExternalLink rdf:resource="http://ukiyo-e.org/artist/utagawa-hiroshige" />
+    <dbo:wikiPageExternalLink rdf:resource="http://tokaido-hiroshige.jp/" />
+    <dbo:wikiPageExternalLink rdf:resource="https://books.google.com/books?id=1URfPgAACAAJ" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.brooklynmuseum.org/exhibitions/online/edo/" />
+    <dbo:wikiPageExternalLink rdf:resource="https://books.google.com/books?id=JDtJfhUAErQC" />
+    <foaf:name xml:lang="en">Hiroshige</foaf:name>
+    <foaf:name xml:lang="en">広重</foaf:name>
+    <foaf:depiction rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Portrait_à_la_mémoire_d&#39;Hiroshige_par_Kunisada.jpg" />
+    <dct:description xml:lang="en">Major Japanese ukiyo-e woodblock print artist</dct:description>
+    <foaf:givenName xml:lang="en">Hiroshige</foaf:givenName>
+    <foaf:gender xml:lang="en">male</foaf:gender>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Hiroshige" />
+    <dbo:thumbnail rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Portrait_à_la_mémoire_d&#39;Hiroshige_par_Kunisada.jpg?width=300" />
+    <prov:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Hiroshige?oldid=743711538" />
+    <dbo:abstract xml:lang="en">Utagawa Hiroshige (Japanese: 歌川 広重), also Andō Hiroshige (Japanese: 安藤 広重; 1797 – 12 October 1858), was a Japanese ukiyo-e artist, considered the last great master of that tradition. Hiroshige is best known for his landscapes, such as the series The Fifty-three Stations of the Tōkaidō and The Sixty-nine Stations of the Kiso Kaidō; and for his depictions of birds and flowers. The subjects of his work were atypical of the ukiyo-e genre, whose typical focus was on beautiful women, popular actors, and other scenes of the urban pleasure districts of Japan&#39;s Edo period (1603–1868). The popular Thirty-six Views of Mount Fuji series by Hokusai was a strong influence on Hiroshige&#39;s choice of subject, though Hiroshige&#39;s approach was more poetic and ambient than Hokusai&#39;s bolder, more formal prints. For scholars and collectors, Hiroshige&#39;s death marked the beginning of a rapid decline in the ukiyo-e genre, especially in the face of the westernization that followed the Meiji Restoration of 1868. Hiroshige&#39;s work came to have a marked influence on Western painting towards the close of the 19th century as a part of the trend in Japonism. Western artists closely studied Hiroshige&#39;s compositions, and some, such as van Gogh, painted copies of Hiroshige&#39;s prints.</dbo:abstract>
+    <dbo:abstract xml:lang="pl">Hiroshige Andō (jap. 安藤広重 Andō Hiroshige, ur. 1797 w Edo, zm. 12 października 1858), zwany także Hiroshige Utagawa (jap. 歌川広重 Utagawa Hiroshige) – jeden z najbardziej znanych japońskich malarzy, grafików i twórców ukiyo-e. W dzieciństwie nosił imię Tokutarō. Był synem strażaka. W wieku dwunastu lat stracił rodziców. Przydomek Hiroshige przyjął w 1811 r., gdy rozpoczął naukę w pracowni Toyohiro Utagawy. Z tego powodu mógł używać nazwy szkoły Utagawa zamiast własnego nazwiska. Hiroshige wykonywał większość swoich prac w technice drzeworytu. Początkowo tworzył portrety, przedstawiające głównie aktorów i kobiety, ale w późniejszych latach stał się sławny dzięki pejzażom i obrazom natury. Wykonał tysiące kompozycji przedstawiających kwiaty i ptaki, ale także Edo, miasta i drogi. Do najsłynniejszych należą np. serie: Sto znanych miejsc w Edo (przyjmowane za wyjątkowe osiągnięcie szkoły ukiyo-e)i Pięćdziesiąt trzy stacje na gościńcu Tōkaidō. Hiroshige zmarł w czasie epidemii cholery w Edo. Jego twórczość stała się inspiracją dla Udo Kallera, Vincenta van Gogha, Jamesa McNeilla Whistlera, Paula Cézanne&#39;a, Henri de Toulouse-Lautreca, Paula Gauguina i innych twórców impresjonizmu. Część jego dzieł znajduje się w Muzeum Miedzi w Legnicy. Kolekcjonerem jego drzeworytów był m.in. Feliks Jasieński - zebrał ich około 2000. Wiele z nich jest prezentowanych w krakowskim muzeum „Manggha”. Wielbicielką twórczości Hiroshige była Wisława Szymborska, która poświęciła mu wiersz z tomu Ludzie na moście.</dbo:abstract>
+    <dbo:abstract xml:lang="it">Fu allievo di Utagawa Toyohiro (1773-1829 circa) e studiò lo stile occidentale introdotto dal fondatore della scuola Utagawa, Toyoharu (1735-1814). Assieme a Hokusai è considerato uno tra i principali paesaggisti giapponesi dell&#39;Ottocento e fra i più celebri rappresentanti della corrente artistica Ukiyo-e. La produzione artistica di Hiroshige annovera diversi generi, tra cui stampe di attori, guerrieri, cortigiane, ma l&#39;oggetto principale della sua arte fu la natura nelle sue molteplici espressioni. La contemplazione della natura e la successiva rappresentazione in chiave morfologicamente armonica, è ciò che distingue Hiroshige dagli altri pittori-incisori del suo tempo, creando una dialettica tra il finito e l&#39;infinito, ossia il sentimento umano scaturente dall&#39;ascolto quasi religioso della natura e il respiro del cosmo. Nel arco di tutta sua vita Hiroshige creò circa 400 incisioni. La serie più famosa di Hiroshige è &quot;Le 100 vedute famose di Edo&quot;.Hiroshige ebbe straordinaria influenza sulla pittura europea di fine Ottocento. Principalmente tale influenza si manifestò sull&#39;impressionismo e post-impressionismo, venendo imitato da diversi artisti, tra cui Claude Monet e Vincent van Gogh. A Hiroshige è stato intitolato il cratere Hiroshige, sulla superficie di Mercurio.</dbo:abstract>
+    <dbo:abstract xml:lang="pt">Hiroshige (1797-1858), pintor e gravador japonês, conhecido sobretudo por suas gravuras de paisagens. Foi o último grande professor de Ukiyo-e, ou escola de gravura popular, e converteu as paisagens cotidianas em cenas líricas de grande intimismo que lhe proporcionaram um êxito comercial ainda maior que o de seu contemporâneo Hokusai. Sua obra-prima é a série de gravuras Tokaido gojusan-tsugi (As Cinqüenta e Três Estações do Tokaido).</dbo:abstract>
+    <dbo:abstract xml:lang="ru">Утагава Хиросигэ (歌川広重; 1797—1858) — японский художник-график, представитель направления укиё-э, мастер цветной ксилографии. Автор не менее чем 5400 гравюр. В лирических камерных пейзажах с жанровыми мотивами (цикл 53 станции Токайдо, 1833—1834) передавал зыбкие состояния природы, атмосферные эффекты снега и тумана. Работал под псевдонимом Андо Хиросигэ (安藤広重).</dbo:abstract>
+    <dbo:abstract xml:lang="zh">歌川廣重（1797年－1858年10月12日）是日本浮世繪畫家。</dbo:abstract>
+    <dbo:abstract xml:lang="ar">25بك المحتوى هنا ينقصه الاستشهاد بمصادر. يرجى إيراد مصادر موثوق بها. أي معلومات غير موثقة يمكن التشكيك بها وإزالتها. (مارس 2016) أندو هيروشيغه (باليابانية: 安藤 広重) عاش (1797-1858 م) هو رسام ورشام ياباني، عاصر في حياته &quot;هوكوسائي&quot; والذي كان آخر أستاذ في مدرسة الرشم الخشبي الياباني المعروفة باسم &quot;أوكييو-إه&quot;.</dbo:abstract>
+    <dbo:abstract xml:lang="es">Utagawa Hiroshige (歌川広重 Utagawa Hiroshige?), seudónimo artístico de Andō Tokutarō (安藤徳太郎 Andō Tokutarō?) (Edo, actual Tokio, 1797 – ídem, 1858), fue un pintor japonés. Perteneció a la Escuela Utagawa, una de las más reputadas del estilo ukiyo-e. Hiroshige fue uno de los principales exponentes del paisajismo japonés, llevando esta disciplina a un nivel artístico y de estilo de gran calidad. Es también conocido como Andō Hiroshige (安藤広重 Andō Hiroshige?) e Ichiyūsai Hiroshige (一幽斎廣重 Ichiyūsai Hiroshige?). Hiroshige era dibujante, grabador y pintor, con una prolífica obra desarrollada entre 1818 y 1858, etapa en la que creó más de 5400 grabados. Se distinguió por series de estampas sobre el monte Fuji y sobre Edo (actual Tokio), dibujando con maestría los paisajes y la atmósfera de la ciudad, y captando los momentos de la vida diaria de la capital nipona antes de su transformación durante el período Meiji (1868-1912). Estas obras se caracterizan por su formato vertical, por el control sutil del cromatismo –con el dominio del verde y del azul– y su sentido del primer plano, que sería imitado, más tarde, por la fotografía y el cine. Fue uno de los últimos representantes del ukiyo-e, y en particular del grabado, al que condujo a una cota de gran calidad antes de la decadencia de la xilografía en Japón. Hiroshige fue un humilde intérprete de la naturaleza, pero sobre todo fue un verdadero genio cuando se expresó con la ayuda de los medios limitados del grabado sobre madera, haciendo surgir las delicadas transparencias de la atmósfera al compás de las estaciones, en paisajes donde el ser humano está siempre presente. Poco después de la apertura forzada del Japón a los intercambios comerciales con Occidente, fue principalmente a través de la obra de Hiroshige que Europa descubrió hacia 1870 la asombrosa originalidad de las artes gráficas niponas. Su obra influyó en numerosos artistas europeos, creando un estilo denominado japonismo, que tuvo una influencia determinante sobre movimientos como el impresionismo y el modernismo.</dbo:abstract>
+    <dbo:abstract xml:lang="fr">Utagawa Hiroshige (歌川広重, Utagawa Hiroshige,  né en 1797 à Edo, mort le 12 octobre 1858 à Edo) est un dessinateur, graveur et peintre japonais. Il se distingue par des séries d&#39;estampes sur le mont Fuji et sur Edo (actuel Tōkyō), dessinant de façon évocatrice les paysages et l&#39;atmosphère de la ville, en reprenant les instants de la vie quotidienne de la ville avant sa transformation à l&#39;ère Meiji (1868-1912). Auteur prolifique, actif entre 1818 et 1858, il crée une œuvre constituée de plus de 5 400 estampes. Il est avec Hokusai, avec qui on le compare souvent — pour les opposer — l&#39;un des derniers très grands noms de l’ukiyo-e et, en particulier, de l&#39;estampe de paysage, qu&#39;il aura menée à un sommet inégalé avant le déclin de la xylographie au Japon. Ses séries les plus connues, les Cent vues d&#39;Edo, Les Soixante-neuf Stations du Kiso Kaidō et surtout Les Cinquante-trois Stations du Tōkaidō, rivalisent en notoriété avec la célèbre série de Hokusai, les Trente-six Vues du mont Fuji (dont fait partie ce qui est sans doute l&#39;estampe japonaise la plus connue, La Grande Vague de Kanagawa). Le style d&#39;Hiroshige est cependant bien différent de celui d&#39;Hokusai. Hiroshige se fait l&#39;humble interprète de la nature, qui, à l&#39;aide des moyens frustes de la gravure sur bois, sait exprimer comme à travers « une fenêtre enchantée » les délicates transparences de l&#39;atmosphère au fil des saisons, dans des paysages où l&#39;homme est toujours présent. La composition de ses œuvres est saisissante, caractérisée par une maîtrise subtile des couleurs franches — avec une dominante du vert et du bleu. Son sens du premier plan sera repris plus tard par Degas, et l&#39;on retrouvera en photographie. Peu après la réouverture forcée du Japon aux échanges avec l&#39;Occident, c&#39;est principalement à travers l&#39;œuvre d&#39;Hiroshige que le monde découvre vers 1870 l&#39;étonnante originalité des arts graphiques dans ce pays. Le japonisme aura une influence déterminante sur les peintres impressionnistes et ensuite sur l&#39;Art nouveau.</dbo:abstract>
+    <dbo:abstract xml:lang="nl">Ando Hiroshige, ook bekend als Utagawa Hiroshige, (歌川広重 Utagawa Hiroshige; 1797 - 12 oktober 1858, Edo) was een Japans kunstenaar. Hij maakte ukiyo-e (Japanse houtsnede-druk) prints. Het bekendst is hij geworden door zijn landschapsafbeeldingen. Zijn roem vergaarde hij in de periode 1831-1834 met de publicatie van De 53 halteplaatsen van de Tōkaidō, een serie van 55 prenten met de halteplaatsen en het begin- en eindpunt van de Tōkaidō, de belangrijkste weg tussen Edo en Kyoto. Zijn succes resulteerde in een grote werkdruk die een periode van mindere artisticiteit in de jaren 1840-1850 tot gevolg had. In 1856 begon hij aan zijn laatste grote werk, Honderd beroemde gezichten van Edo. Katsushika Hokusai is een inspiratiebron geweest voor Hiroshige, maar Hiroshige zelf heeft op briljante wijze het landschapsgenre verder ontwikkeld. De echtgenoot van Hiroshiges geadopteerde dochter volgde hem op als Hiroshige II.</dbo:abstract>
+    <dbo:abstract xml:lang="de">Utagawa Hiroshige (jap. 歌川 広重, alte Schreibung: 歌川 廣重, * 1797 in Edo (heute: Tokio); † 12. Oktober 1858), war zusammen mit Kuniyoshi und Kunisada einer der drei stilbildenden Meister des japanischen Farbholzschnitts am Ende der Edo-Zeit. Seine besondere Bedeutung liegt in einer völlig neuartigen Komposition des Landschaftsdruckes seiner Zeit und seinem maßgeblichen Einfluss auf die Entwicklung des europäischen Impressionismus. Er ist auch unter dem Namen Andō Hiroshige bekannt, einer fälschlich gebrauchten Kombination seines bürgerlichen Familiennamens Andō und dem ihm von seinem Lehrer verliehenen Künstlernamen Hiroshige, zu dem zwingend der Name der Schule Utagawa hinzugefügt werden muss.</dbo:abstract>
+    <dbo:abstract xml:lang="ja">歌川 広重（うたがわ ひろしげ、寛政9年（1797年） - 安政5年9月6日（1858年10月12日）は、江戸時代末期の浮世絵師。本名は安藤重右衛門。江戸の定火消しの安藤家に生まれ家督を継ぎ、その後に浮世絵師となった。かつては安藤広重（あんどう ひろしげ）とも呼ばれたが、安藤は本姓、広重は号であり、両者を組み合わせて呼ぶのは不適切で、広重自身もそう名乗ったことはない。ゴッホやモネなどの画家に影響を与え、世界的に著名な画家である。</dbo:abstract>
+    <dbo:field rdf:resource="http://dbpedia.org/resource/Painting" />
+    <dbo:field rdf:resource="http://dbpedia.org/resource/Woodblock_printing_in_Japan" />
+    <dbo:movement rdf:resource="http://dbpedia.org/resource/Utagawa_school" />
+    <dbo:training rdf:resource="http://dbpedia.org/resource/Toyohiro" />
+    <dbp:caption rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Memorial portrait of Hiroshige by Kunisada</dbp:caption>
+    <dbp:nationality rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Japanese</dbp:nationality>
+    <dbp:works rdf:resource="http://dbpedia.org/resource/The_Sixty-nine_Stations_of_the_Kiso_Kaidō" />
+    <dbp:works rdf:resource="http://dbpedia.org/resource/The_Fifty-three_Stations_of_the_Tōkaidō" />
+    <dbp:works rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">* &#39;&#39;</dbp:works>
+    <dbp:works rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">*</dbp:works>
+    <dbp:works rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">&#39;&#39;</dbp:works>
+    <dbp:wordnet_type rdf:resource="http://www.w3.org/2006/03/wn/wn20/instances/synset-artist-noun-1" />
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Artist" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Utagawa_Hiroshige">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Hiroshige" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/広重">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Hiroshige" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/廣重">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Hiroshige" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/歌川廣重">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Hiroshige" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Utagawa_Hiroshige_I">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Hiroshige" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Utagawa_Shigenobu">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Hiroshige" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Hiroshige">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Hiroshige" />
+  </rdf:Description>
+</rdf:RDF>

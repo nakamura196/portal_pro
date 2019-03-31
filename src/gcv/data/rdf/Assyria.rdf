@@ -1,0 +1,312 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:dbo="http://dbpedia.org/ontology/"
+	xmlns:dbp="http://dbpedia.org/property/"
+	xmlns:dct="http://purl.org/dc/terms/"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	xmlns:prov="http://www.w3.org/ns/prov#"
+	xmlns:georss="http://www.georss.org/georss/" >
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Akkadian_language">
+    <dbo:spokenIn rdf:resource="http://dbpedia.org/resource/Assyria" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Syria_(disambiguation)">
+    <dbo:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/Assyria" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Exsyringians">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Assyria" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Second_Assyriaii_Empire">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Assyria" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ancient_Assyria">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Assyria" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tell_Bazmusian">
+    <dbp:epochs rdf:resource="http://dbpedia.org/resource/Assyria" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Assyria">
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Location" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/AdministrativeDistrict108491826" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatFormerCountriesInTheMiddleEast" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatBiblicalPlaces" />
+    <rdf:type rdf:resource="http://schema.org/Place" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoPermanentlyLocatedEntity" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoGeoEntity" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Country108544813" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Country" />
+    <rdf:type rdf:resource="http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing" />
+    <rdf:type rdf:resource="http://schema.org/Country" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Object100002684" />
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoLegalActorGeo" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Site108651247" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Tract108673395" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PhysicalEntity100001930" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q6256" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/GeographicalArea108574314" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Location100027167" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/District108552138" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Region108630985" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/PopulatedPlace" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Place" />
+    <rdfs:label xml:lang="zh">亚述</rdfs:label>
+    <rdfs:label xml:lang="fr">Assyrie</rdfs:label>
+    <rdfs:label xml:lang="en">Assyria</rdfs:label>
+    <rdfs:label xml:lang="de">Assyrisches Reich</rdfs:label>
+    <rdfs:label xml:lang="nl">Assyrische Rijk</rdfs:label>
+    <rdfs:label xml:lang="ru">Ассирия</rdfs:label>
+    <rdfs:label xml:lang="es">Asiria</rdfs:label>
+    <rdfs:label xml:lang="it">Assiria</rdfs:label>
+    <rdfs:label xml:lang="ar">آشور</rdfs:label>
+    <rdfs:label xml:lang="pt">Assíria</rdfs:label>
+    <rdfs:label xml:lang="pl">Asyria</rdfs:label>
+    <rdfs:label xml:lang="ja">アッシリア</rdfs:label>
+    <rdfs:comment xml:lang="ar">25بك المحتوى هنا ينقصه الاستشهاد بمصادر. يرجى إيراد مصادر موثوق بها. أي معلومات غير موثقة يمكن التشكيك بها وإزالتها. (يناير 2016) 20بك إن كنت تبحث عن عناوين مشابهة، فانظر آشور (توضيح). آشور (Assyria, Ashur)، أول دولة قامت في مدينة آشور في شمال بلاد ما بين النهرين، وتوسعت في الألف الثانية ق.م. وامتدت شمالا لمدن نينوى، نمرود وخورسباد. ولقد حكم الملك شمشي مدينة آشور عام 1813 ق.م. واستولي حمورابي ملك بابل على آشور عام 1760 ق.م. إلا أن الملك الآشوري شلمنصر استولي على بابل وهزم الميتانيين عام 1273 ق.م. ثم استولت آشور ثانية على بابل عام 1240 ق.م. وفي عام 1000 ق.م. استولي الآراميون على آشور، لكن الآشوريين استولوا على فينيقيا عام 774 ق.م. وصور عام 734 ق.م. والسامرة عام 721 ق.م. وأسر سارجون الثاني اليهود في أورشليم عام 701 ق.م. وفي عام 686 ق.م. دمر الآشوريون مدينة بابل وثار البابليون على حكم الآشوري</rdfs:comment>
+    <rdfs:comment xml:lang="nl">Het Assyrische Rijk of kortweg Assyrië was een rijk dat bestond tussen 2000 v.Chr. en 609 v.Chr. De Assyriërs veroverden het rijk vanuit hun kerngebied rond de stad Aššur (of Assoer) in Mesopotamië, hoewel Aššur niet altijd de hoofdstad geweest is. Onder Shamshi-adad I was het Šubad-Enlil en vanaf Sennacherib werd Ninive de hoofdstad. Op het hoogtepunt van hun macht besloeg het rijk Mesopotamië, de Levant (waaronder Israël) en zelfs Egypte.</rdfs:comment>
+    <rdfs:comment xml:lang="pt">A Assíria foi um reino acádio semita em torno da região do alto rio Tigre, no norte da Mesopotâmia (atual norte do Iraque), e que dominou por diversas vezes ao longo da história os impérios existentes naquela região, desde a tomada da Babilônia até à sua reconquista. Seu nome vem de sua capital original, a antiga cidade de Assur (em acádio: 𒀸𒋗𒁺 𐎹; transl.: Aššūrāyu; em árabe: أشور, Ashûr; em hebraico: אַשּׁוּר, Ashûr; em aramaico: ܐܬ݂ܘܿܪ, Aṯur). O termo também pode se referir à região geográfica, ou, mais precisamente, ao centro da região onde estes reinos se localizavam.</rdfs:comment>
+    <rdfs:comment xml:lang="ru">Асси́рия — (аккадский: Aššur, араб. أشور‎ Aššûr, ивр. ‏אַשּׁוּר‎‏‎‎ Aššûr, арам. ܐܫܘܪ Ašur, арам. ܐܬܘܪ Atur ассир.: Atur) — древнее государство в Северном Междуречье (на территории современного Ирака). Ассирия просуществовала почти две тысячи лет, начиная с XXIV века до н. э. и до её уничтожения в VII веке до н. э. (около 609 до н. э.) Мидией и Вавилонией. Новоассирийская держава (750—620 г. до н. э.) считается первой империей в истории человечества.</rdfs:comment>
+    <rdfs:comment xml:lang="ja">アッシリア（Assyria）は、メソポタミア（現在のイラク）北部を占める地域、またはそこに興った王国。首都は、初期はアッシュールで、後にニネヴェに遷都した。南側にバビロニアと隣接する。チグリス川とユーフラテス川の上流域を中心に栄え、後にメソポタミアと古代エジプトを含む世界帝国を築いた。アッシリアの偉業は、ペルシア帝国に受け継がれてその属州となった。</rdfs:comment>
+    <rdfs:comment xml:lang="fr">L&#39;Assyrie est une ancienne région du nord de la Mésopotamie, qui tire son nom de la ville d&#39;Assur, le même nom que celui de sa divinité tutélaire. À partir de cette région s&#39;est formé, au IIe millénaire av. J.-C., un royaume puissant qui devient plus tard un empire. Aux VIIIe et VIIe siècles av. J.-C., l&#39;Assyrie contrôle des territoires s&#39;étendant sur la totalité ou sur une partie de plusieurs pays actuels, comme l&#39;Irak, la Syrie, le Liban, la Turquie et l&#39;Iran. Pour les Assyriens d&#39;aujourd&#39;hui, voir l&#39;article « Assyriens ».</rdfs:comment>
+    <rdfs:comment xml:lang="en">Assyria, a major Mesopotamian East Semitic-speaking kingdom and empire of the ancient Near East, existed as an independent state from perhaps as early as the 25th century BC, until its collapse between 612 BC and 599 BC, spanning the mid to Early Bronze Age through to the late Iron Age.</rdfs:comment>
+    <rdfs:comment xml:lang="it">Anticamente il termine Assiria (Accadico: Aššur; Aramaico: אתור/ܐܬܘܪ, Aṯûr; Ebraico: אשור, Ashur) si riferiva ad una regione dell&#39;alto Tigri, corrispondente all&#39;estrema regione settentrionale dell&#39;odierno Iraq. Era cinta ad est dai monti Zagros e a nord dal massiccio dell&#39;Armenia, mentre a sud-ovest si estendeva la pianura mesopotamica. Gli Assiri sono oggi noti soprattutto per la loro terribile ferocia nei confronti delle popolazioni vinte che venivano trucidate e deportate. La loro storia può essere suddivisa cronologicamente in tre periodi. Questi sono detti:</rdfs:comment>
+    <rdfs:comment xml:lang="zh">亚述（亞拉姆語：ܐܬܘܪ；英语：Assyria）是兴起于美索不达米亚（即两河流域，今伊拉克境内幼发拉底河和底格里斯河一帶）的国家，使用的语言有阿拉米语，阿卡德语等。公元前8世纪末，亚述逐步强大，先后征服了小亚细亚东部、叙利亚、腓尼基、巴勒斯坦、巴比伦尼亚和埃及等地。國都定于尼尼微（今伊拉克摩苏尔附近）。亚述人在两河流域古代历史上频繁活动时间前后约有二千年。后来亚述人失去了霸主地位，不再有独立的国家了。 在两河文明的几千年历史上，亚述可以说是历史延续最完整的国家，历史学家掌握有从大约公元前2000年开始到前605年连续的亚述国王名单。 虽然二千多年之间，亚述有时强大，有时則衰落或沦为他国的属地，但作为独立的国家和相对独立地区的亚述，是一直存在的。直到公元前900年前后，亚述国家突然空前强大，成为不可一世的亚述帝国，然后最終于公元前605年灭亡，国家随之消失。但亚述民族仍然顽强地在其祖居地生活至今，当今的亚述人是信奉各东方礼教会的基督徒，語言為现代阿拉米语。</rdfs:comment>
+    <rdfs:comment xml:lang="es">Asiria fue un imperio de la antigüedad situado en el suroeste asiático, que ocupaba el norte de la antigua Mesopotamia, mientras Babilonia ocupaba la parte sur. Sus límites fueron, al norte, los montes Tauro, al sur Caldea (Babilonia), al este la Media y al oeste Mesopotamia.[cita requerida] Fue también conocido como Subartu y, tras su declive, como Athura, Syria (griego antiguo), Assyria (latín) y Assuristan.</rdfs:comment>
+    <rdfs:comment xml:lang="de">Das Assyrische Reich war ein Staat des sogenannten Alten Orients mit Ursprung im nördlichen, auch als Zweistromland bezeichneten Mesopotamien. Es existierte über einen Zeitraum von etwa 1200 Jahren, vom Beginn des 18. Jahrhunderts v. Chr. bis zu seiner Vernichtung um 609 v. Chr. Seine Geschichte wird in drei Perioden eingeteilt: das Alt-, Mittel- und Neuassyrische Reich. Namensgeber, sowohl für das Reich, als auch für seine erste Hauptstadt, war Assur, der höchste Gott im Glauben der Assyrer.</rdfs:comment>
+    <rdfs:comment xml:lang="pl">Asyria (akad. māt Aššurki) – starożytne państwo semickie w północnej Mezopotamii istniejące od drugiej połowy III tysiąclecia p.n.e. do pierwszej połowy I tysiąclecia p.n.e.</rdfs:comment>
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Assyria" />
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.0wmn" />
+    <owl:sameAs rdf:resource="http://eu.dbpedia.org/resource/Asiria" />
+    <owl:sameAs rdf:resource="http://ja.dbpedia.org/resource/アッシリア" />
+    <owl:sameAs rdf:resource="http://pl.dbpedia.org/resource/Asyria" />
+    <owl:sameAs rdf:resource="http://pt.dbpedia.org/resource/Assíria" />
+    <owl:sameAs rdf:resource="http://el.dbpedia.org/resource/Ασσυρία" />
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q41137" />
+    <owl:sameAs rdf:resource="http://yago-knowledge.org/resource/Assyria" />
+    <owl:sameAs rdf:resource="http://es.dbpedia.org/resource/Asiria" />
+    <owl:sameAs rdf:resource="http://fr.dbpedia.org/resource/Assyrie" />
+    <owl:sameAs rdf:resource="http://cs.dbpedia.org/resource/Asýrie" />
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q41137" />
+    <owl:sameAs rdf:resource="http://nl.dbpedia.org/resource/Assyrische_Rijk" />
+    <owl:sameAs rdf:resource="http://it.dbpedia.org/resource/Assiria" />
+    <owl:sameAs rdf:resource="http://id.dbpedia.org/resource/Asyur" />
+    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/Assyrisches_Reich" />
+    <owl:sameAs rdf:resource="http://ko.dbpedia.org/resource/아시리아" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Assyria" />
+    <dbo:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2085</dbo:wikiPageID>
+    <dbo:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">745275090</dbo:wikiPageRevisionID>
+    <dbo:wikiPageExternalLink rdf:resource="http://video.google.com/videoplay?docid=-4066140085264233173" />
+    <dbo:wikiPageExternalLink rdf:resource="https://books.google.com/books?id=oknsEhcALLEC&amp;printsec=frontcover" />
+    <dbo:wikiPageExternalLink rdf:resource="http://lexicorient.com/e.o/assyria.htm" />
+    <dbo:wikiPageExternalLink rdf:resource="http://web.archive.org/web/20040416132927/www.bol.ucla.edu/~szuchman/hist312.htm" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.ancient.eu.com/assyria/" />
+    <dbo:wikiPageExternalLink rdf:resource="https://web.archive.org/web/20060921105053/http:/fax.libs.uga.edu/DS71xJ39C/1f/civilization_of_babylonia_and_assyria.pdf" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.atour.com/" />
+    <dbo:wikiPageExternalLink rdf:resource="https://web.archive.org/web/20070722000403/http:/fax.libs.uga.edu/DS71xJ39C/" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.third-millennium-library.com/readinghall/UniversalHistory/THE_OLD_WORLD/Religion-Babilonia-Assyria/THEOPHILUS_G_PINCHES/1-Foreword.html" />
+    <dbo:wikiPageExternalLink rdf:resource="http://abovyan.com/2005/02/assyrians-in-arzni/" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.bbc.co.uk/radio4/history/inourtime/inourtime_20080515.shtml" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.jaas.org/edocs/v18n2/Parpola-identity_Article%20-Final.pdf" />
+    <foaf:name xml:lang="en">Early Period</foaf:name>
+    <foaf:name xml:lang="en">Middle Assyrian Empire</foaf:name>
+    <foaf:name xml:lang="en">Neo-Assyrian Empire</foaf:name>
+    <foaf:name xml:lang="en">Assyrian Empire</foaf:name>
+    <foaf:name xml:lang="en">Assyria</foaf:name>
+    <foaf:name xml:lang="en">Old Assyrian Empire</foaf:name>
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#float">36.0</geo:lat>
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#float">43.3</geo:long>
+    <foaf:depiction rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Median_Empire.svg" />
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Assyria" />
+    <geo:geometry rdf:datatype="http://www.openlinksw.com/schemas/virtrdf#Geometry">POINT(43.299999237061 36)</geo:geometry>
+    <dbo:thumbnail rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Median_Empire.svg?width=300" />
+    <prov:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Assyria?oldid=745275090" />
+    <dbo:abstract xml:lang="en">Assyria, a major Mesopotamian East Semitic-speaking kingdom and empire of the ancient Near East, existed as an independent state from perhaps as early as the 25th century BC, until its collapse between 612 BC and 599 BC, spanning the mid to Early Bronze Age through to the late Iron Age. From the end of the seventh century BC to the mid-seventh century AD, it survived as a geopolitical entity, for the most part ruled by foreign powers, although the Neo-Assyrian Empire and its successor states arose at different times during the Parthian and early Sasanian Empires between the mid-second century BC and late third century AD, a period which also saw Assyria become a major centre of Syriac Christianity and the birthplace of the Church of the East. Centered on the Tigris in Upper Mesopotamia (modern northern Iraq, northeastern Syria, southeastern Turkey and the northwestern fringes of Iran), the Assyrians came to rule powerful empires at several times. Making up a substantial part of the greater Mesopotamian &quot;cradle of civilization&quot;, which included Sumer, the Akkadian Empire, and Babylonia, Assyria was at the height of technological, scientific and cultural achievements for its time. At its peak, the Assyrian empire stretched from Cyprus in the Mediterranean Sea to Iran, and from what is now Armenia and Azerbaijan in the Caucasus, to the Arabian Peninsula, Egypt and eastern Libya. Assyria is named after its original capital, the ancient city of Aššur, which dates to c. 2600 BC, originally one of a number of Akkadian city states in Mesopotamia. In the 25th and 24th centuries BC, Assyrian kings were pastoral leaders. From the late 24th century BC, the Assyrians became subject to Sargon of Akkad, who united all the Akkadian- and Sumerian-speaking peoples of Mesopotamia under the Akkadian Empire, which lasted from c. 2334 BC to 2154 BC. After its fall, the greater remaining part of Assyria was geopolitical region and province of other nations between the mid-2nd century BC and late 3rd century AD, with a patchwork of small independent Assyrian kingdoms adjacent to it. The region of Assyria fell under the successive control of the Medes, the Achaemenid Empire, the Seleucid Empire, the Parthian Empire, the Roman Empire, and the Sasanian Empire. The Muslim conquest of Persia in the mid-seventh century finally dissolved it as a single entity, after which the remnants of the Assyrian people gradually became an ethnic, linguistic, cultural and religious minority in the Assyrian homeland, surviving there to this day as an indigenous people of the region.</dbo:abstract>
+    <dbo:abstract xml:lang="it">Anticamente il termine Assiria (Accadico: Aššur; Aramaico: אתור/ܐܬܘܪ, Aṯûr; Ebraico: אשור, Ashur) si riferiva ad una regione dell&#39;alto Tigri, corrispondente all&#39;estrema regione settentrionale dell&#39;odierno Iraq. Era cinta ad est dai monti Zagros e a nord dal massiccio dell&#39;Armenia, mentre a sud-ovest si estendeva la pianura mesopotamica. Alla fine del III millennio a.C. questo territorio fu colonizzato da una popolazione semitica di Amorrei, strettamente imparentata coi Babilonesi, cioè gli Assiri che, come la stessa regione, presero il nome dall&#39;antica città di Assur.Più tardi il termine andò ad indicare l&#39;impero assiro propriamente detto che, dal IX al VII secolo a.C. dominò su tutta la Mezzaluna Fertile, l&#39;Egitto e gran parte dell&#39;Anatolia. Gli Assiri sono oggi noti soprattutto per la loro terribile ferocia nei confronti delle popolazioni vinte che venivano trucidate e deportate. La loro storia può essere suddivisa cronologicamente in tre periodi. Questi sono detti: 
+*  Antico Impero o periodo Paleoassiro (1950 - 1365 a.C.)  
+*  Medio Impero o periodo Medioassiro (1365 - 932 a.C.) 
+*  Nuovo Impero o periodo Neoassiro (911 - 612 a.C.). Fu durante il periodo del Nuovo Impero che la civiltà assira raggiunse il suo apice.</dbo:abstract>
+    <dbo:abstract xml:lang="es">Asiria fue un imperio de la antigüedad situado en el suroeste asiático, que ocupaba el norte de la antigua Mesopotamia, mientras Babilonia ocupaba la parte sur. Sus límites fueron, al norte, los montes Tauro, al sur Caldea (Babilonia), al este la Media y al oeste Mesopotamia.[cita requerida] Fue también conocido como Subartu y, tras su declive, como Athura, Syria (griego antiguo), Assyria (latín) y Assuristan. Su capital, Assur, a orillas del Tigris, al lado del templo de su principal divinidad, Assur, dio lugar al nombre del país. Otras ciudades importantes fueron Nínive (destruida en 612 a. C.), Harrán, Calakh y Dur Sharrukin (actualmente Jorsabad).</dbo:abstract>
+    <dbo:abstract xml:lang="fr">L&#39;Assyrie est une ancienne région du nord de la Mésopotamie, qui tire son nom de la ville d&#39;Assur, le même nom que celui de sa divinité tutélaire. À partir de cette région s&#39;est formé, au IIe millénaire av. J.-C., un royaume puissant qui devient plus tard un empire. Aux VIIIe et VIIe siècles av. J.-C., l&#39;Assyrie contrôle des territoires s&#39;étendant sur la totalité ou sur une partie de plusieurs pays actuels, comme l&#39;Irak, la Syrie, le Liban, la Turquie et l&#39;Iran. L&#39;assyriologie, discipline qui étudie l&#39;Assyrie antique et plus largement la Mésopotamie antique, distingue trois phases dans l&#39;histoire assyrienne, sachant qu&#39;avant les environs de 700 av. J.-C. les dates sont approximatives : la période paléo-assyrienne, du XXe au début du XIVe siècle av. J.-C. ; la période médio-assyrienne, jusqu&#39;à 911 av. J.-C. ; et la période néo-assyrienne, jusqu&#39;à 612-609 av. J.-C., date de la fin du royaume assyrien. Schématiquement, durant la première période, l&#39;Assyrie se résume à la cité-État d&#39;Assur, connue surtout par le dynamisme de ses marchands. La deuxième période voit la naissance du royaume assyrien à proprement parler, en tant qu&#39;État territorial puissant, qui connaît cependant un affaiblissement important au tournant des IIe et Ier millénaires av. J.-C. La troisième période voit l&#39;Assyrie se muer progressivement en un empire, grâce notamment à sa redoutable armée. C&#39;est par cette période que l&#39;Assyrie est la mieux connue, grâce aux découvertes effectuées à partir du XIXe siècle dans ses capitales successives, Assur, Kalkhu (Nimrud), Dur-Sharrukin (Khorsabad) et Ninive. C&#39;est également la puissance de cet Empire et de ses souverains qui a permis au souvenir de l&#39;Assyrie de perdurer par la tradition de la Bible hébraïque et des auteurs grecs classiques. La grande quantité de documentation épigraphique et archéologique collectée pour la période assyrienne depuis près de deux siècles permet de bien connaître de nombreux aspects de ce royaume qui est une des composantes essentielles de la civilisation mésopotamienne ancienne, au même titre que celui qui est devenu son rival méridional, le royaume de Babylone. C&#39;est la dernière phase du royaume qui est, toutefois, de loin la mieux connue. On peut dresser un important tableau de plusieurs aspects de l&#39;administration du royaume, les activités économiques, les composantes de la société, la culture assyrienne, notamment la religion et l&#39;art. De nombreuses zones d&#39;ombre demeurent car la documentation n&#39;est pas répartie de façon homogène selon les lieux, les périodes et les aspects de la vie des anciens assyriens, du fait de la disparition de nombreuses sources depuis l&#39;Antiquité, mais aussi parce que les découvertes concernent essentiellement le milieu des élites. Pour les Assyriens d&#39;aujourd&#39;hui, voir l&#39;article « Assyriens ».</dbo:abstract>
+    <dbo:abstract xml:lang="pt">A Assíria foi um reino acádio semita em torno da região do alto rio Tigre, no norte da Mesopotâmia (atual norte do Iraque), e que dominou por diversas vezes ao longo da história os impérios existentes naquela região, desde a tomada da Babilônia até à sua reconquista. Seu nome vem de sua capital original, a antiga cidade de Assur (em acádio: 𒀸𒋗𒁺 𐎹; transl.: Aššūrāyu; em árabe: أشور, Ashûr; em hebraico: אַשּׁוּר, Ashûr; em aramaico: ܐܬ݂ܘܿܪ, Aṯur). O termo também pode se referir à região geográfica, ou, mais precisamente, ao centro da região onde estes reinos se localizavam. Os descendentes dos assírios ainda habitam a região nos dias de hoje, formando uma minoria cristã no Iraque. Durante o Antigo Período Assírio (do século XX a.C. ao século XV a.C.), Assur controlou a maior parte da Alta Mesopotâmia. No Período Assírio Médio (do século XV ao século X a.C.) a sua influência declinou, e só foi reconquistada posteriormente, após uma série de conquistas. O Império Neo-Assírio do início da Idade do Ferro (911–612 a.C.) expandiu-se ainda mais, e sob Assurbanípal (ca. 668–627 a.C.) controlou, por algumas décadas, todo o Crescente Fértil, bem como o Egito, antes de sucumbir à expansão neo-babilônia e, posteriormente, persa.</dbo:abstract>
+    <dbo:abstract xml:lang="zh">亚述（亞拉姆語：ܐܬܘܪ；英语：Assyria）是兴起于美索不达米亚（即两河流域，今伊拉克境内幼发拉底河和底格里斯河一帶）的国家，使用的语言有阿拉米语，阿卡德语等。公元前8世纪末，亚述逐步强大，先后征服了小亚细亚东部、叙利亚、腓尼基、巴勒斯坦、巴比伦尼亚和埃及等地。國都定于尼尼微（今伊拉克摩苏尔附近）。亚述人在两河流域古代历史上频繁活动时间前后约有二千年。后来亚述人失去了霸主地位，不再有独立的国家了。 在两河文明的几千年历史上，亚述可以说是历史延续最完整的国家，历史学家掌握有从大约公元前2000年开始到前605年连续的亚述国王名单。 虽然二千多年之间，亚述有时强大，有时則衰落或沦为他国的属地，但作为独立的国家和相对独立地区的亚述，是一直存在的。直到公元前900年前后，亚述国家突然空前强大，成为不可一世的亚述帝国，然后最終于公元前605年灭亡，国家随之消失。但亚述民族仍然顽强地在其祖居地生活至今，当今的亚述人是信奉各东方礼教会的基督徒，語言為现代阿拉米语。</dbo:abstract>
+    <dbo:abstract xml:lang="de">Das Assyrische Reich war ein Staat des sogenannten Alten Orients mit Ursprung im nördlichen, auch als Zweistromland bezeichneten Mesopotamien. Es existierte über einen Zeitraum von etwa 1200 Jahren, vom Beginn des 18. Jahrhunderts v. Chr. bis zu seiner Vernichtung um 609 v. Chr. Seine Geschichte wird in drei Perioden eingeteilt: das Alt-, Mittel- und Neuassyrische Reich. Namensgeber, sowohl für das Reich, als auch für seine erste Hauptstadt, war Assur, der höchste Gott im Glauben der Assyrer. Das Neuassyrische Reich (ab dem 9. Jahrhundert v. Chr.) gilt als das erste Großreich der Weltgeschichte. Sein Mittelpunkt lag am Tigris. Das Machtzentrum hatte sich von der Stadt Aššur (heute: Kalat Scherkât) mit der Zeit nur geringfügig nach Norden in die Städte Kalach (Nimrud) und zuletzt Ninive verschoben. In seiner größten Ausdehnung unter Assurbanipal erstreckte sich das Reich im Osten über Babylon bis hinein in den heutigen Iran, im Westen bis ans Mittelmeer und über das Alte Ägypten bis nach Nubien (assyrisch: Meluḫḫa). Die Assyrer sind seit dem 2. Jahrtausend v. Chr. am mittleren Tigris nachgewiesen. Erste Ansiedlungen am Großen Zab und am oberen Tigris werden bereits um. 2500 v. Chr. vermutet. Die Assyrer entstanden aus einer Vermischung von nicht-sumerischen Bewohnern aus der noch älteren Halaf- und Samarra-Kultur mit semitischen Einwanderern. Kulturell zwar weniger produktiv, aber dafür zäh und kriegerisch. Die Stadt Assur lag an einem Tigrisübergang, an den Handelswegen zwischen Babylonien und Anatolien, Elam, dem Zagros und Dschesireh mit Nordmesopotamien. Älteste Spuren einer Ansiedlung reichen bis in die altsumerische Zeit zurück und unter Oberherrschaft der Könige des akkadischen Reichs war hier der Sitz eines seiner Statthalter. Ohne die Wehrhaftigkeit seiner Bevölkerung wäre Aššur gegen Ende der Ur-III-Zeit und beim Zusammenbruch des Reichs der 3. Dynastie von Ur zur leichte Beute westsemitischer Invasoren geworden. Die lokalen Fürsten sicherten nicht nur die Stadt gegen Eindringlinge, sondern übernahmen die zuvor durch den König von Ur wahrgenommene Rolle als Beschützer ihrer Kaufleute und ihrer bis weit hinauf nach Kleinasien vorgeschobenen Handelskolonien (z. B. Kaniš).</dbo:abstract>
+    <dbo:abstract xml:lang="nl">Het Assyrische Rijk of kortweg Assyrië was een rijk dat bestond tussen 2000 v.Chr. en 609 v.Chr. De Assyriërs veroverden het rijk vanuit hun kerngebied rond de stad Aššur (of Assoer) in Mesopotamië, hoewel Aššur niet altijd de hoofdstad geweest is. Onder Shamshi-adad I was het Šubad-Enlil en vanaf Sennacherib werd Ninive de hoofdstad. Op het hoogtepunt van hun macht besloeg het rijk Mesopotamië, de Levant (waaronder Israël) en zelfs Egypte. Daarnaast wordt de term Assyrië ook wel geografisch gebruikt om noordelijk Mesopotamië aan te duiden, waarbij het zuidelijk deel dan veelal als Babylonië wordt aangeduid.</dbo:abstract>
+    <dbo:abstract xml:lang="ja">アッシリア（Assyria）は、メソポタミア（現在のイラク）北部を占める地域、またはそこに興った王国。首都は、初期はアッシュールで、後にニネヴェに遷都した。南側にバビロニアと隣接する。チグリス川とユーフラテス川の上流域を中心に栄え、後にメソポタミアと古代エジプトを含む世界帝国を築いた。アッシリアの偉業は、ペルシア帝国に受け継がれてその属州となった。</dbo:abstract>
+    <dbo:abstract xml:lang="ar">25بك المحتوى هنا ينقصه الاستشهاد بمصادر. يرجى إيراد مصادر موثوق بها. أي معلومات غير موثقة يمكن التشكيك بها وإزالتها. (يناير 2016) 20بك إن كنت تبحث عن عناوين مشابهة، فانظر آشور (توضيح). آشور (Assyria, Ashur)، أول دولة قامت في مدينة آشور في شمال بلاد ما بين النهرين، وتوسعت في الألف الثانية ق.م. وامتدت شمالا لمدن نينوى، نمرود وخورسباد. ولقد حكم الملك شمشي مدينة آشور عام 1813 ق.م. واستولي حمورابي ملك بابل على آشور عام 1760 ق.م. إلا أن الملك الآشوري شلمنصر استولي على بابل وهزم الميتانيين عام 1273 ق.م. ثم استولت آشور ثانية على بابل عام 1240 ق.م. وفي عام 1000 ق.م. استولي الآراميون على آشور، لكن الآشوريين استولوا على فينيقيا عام 774 ق.م. وصور عام 734 ق.م. والسامرة عام 721 ق.م. وأسر سارجون الثاني اليهود في أورشليم عام 701 ق.م. وفي عام 686 ق.م. دمر الآشوريون مدينة بابل وثار البابليون على حكم الآشوريين وهزموهم بمساعدة ميديا عام 612 ق.م. شن الآشوريون حملاتهم على باقي مناطق سوريا وتركيا وإيران. وكانت مملكة آشور دولة عسكرية تقوم على العبيد، وكان لها إنجازات معمارية وصنع التماثيل ولاسيما تماثيل الثيران المجنحة التي كانت تقام أمام القصر الملكي، وزينت الجدران بنقوش المعارك ورحلات الصيد. وما بين سنتي 883 ق.م. و612 ق.م. أقامت إمبراطورية من النيل للقوقاز، ومن ملوكها العظام: آشوربانيبال، تغلات فلاصر الثالث، سرجون الثاني، سنحاريب، آشورناصربال، واسرحادون (والد آشور بانيبال) الذي كان مهووسا بحب إذلال الملوك حيث كان يجبر الملوك التابعين له على المجيء إلى عاصمته والعمل في ظروف قاسية لبناء قصوره في نينوى، وآخر ملوك آشور المدعو آشور أوباليط الذي اقام مقر قيادة مؤقت في حران (الجزيرة الفراتية) بعد سقوط نينوى بيد البابليين بقيادة نابو بولاصر الكلداني محاولا تأخير المذبحة الشاملة للشعب الآشوري. وكانت كتابة الآشوريين الكتابة المسمارية التي كانت تكتب علي ألواح الطين، وأشهر مخطوطاتها ملحمة جلجماش التي ورد بها الطوفان لأول مرة. وكانت علومهم مرتبطة بالزراعة ونظام العد الحسابي السومري الذي عرف بنظام الستينات وكان يعرفون أن الدائرة 60 درجة، كما عرفوا الكسور والمربع والمكعب والجذر التربيعي، وتقدموا في الفلك وحسبوا محيط خمسة كواكب، وكان لهم تقويمهم القمري وقسموا السنة لشهور والشهور لأيام، وكان اليوم عندهم 12 ساعة والساعة 30 دقيقة. وكانت مكتبة الملك آشور بانيبال من أشهر المكتبات في العالم القديم حيث جمع كل الألواح بها من شتى مكتبات بلاده. الآشوريون هم من الأكديين الذين قطنوا المنطقة الشمالية من حوض نهر دجلة، بعد الهجرة من منطقة بابل خلال العهد الأكدي. اختلط الاشوريون مع الشعوب الجبلية الحيثيين والحوريين واستعدبو الآراميين (قبيلة الأخلامو والنبط) وقبائل العريبي أو الأعربي (قبائل قيدار وقيدم وجندبو وسبأ وثمودي) والكلدان.</dbo:abstract>
+    <dbo:abstract xml:lang="ru">Асси́рия — (аккадский: Aššur, араб. أشور‎ Aššûr, ивр. ‏אַשּׁוּר‎‏‎‎ Aššûr, арам. ܐܫܘܪ Ašur, арам. ܐܬܘܪ Atur ассир.: Atur) — древнее государство в Северном Междуречье (на территории современного Ирака). Ассирия просуществовала почти две тысячи лет, начиная с XXIV века до н. э. и до её уничтожения в VII веке до н. э. (около 609 до н. э.) Мидией и Вавилонией. Новоассирийская держава (750—620 г. до н. э.) считается первой империей в истории человечества. Захватнические военные походы ассирийцы начали в первой половине IX века до н. э. Они захватили всю Месопотамию, Палестину и Кипр, территории современных Турции и Сирии, а также Египет (который, однако, потеряли спустя 15 лет). На покоренных землях они образовали провинции, обложив их ежегодной данью, а наиболее искусных ремесленников переселяли в ассирийские города (вероятно, поэтому в искусстве Ассирии заметно влияние культур окружающих народов). Своей империей ассирийцы управляли очень сурово, депортируя или казня всех бунтовщиков. Ассирия достигла вершины своего могущества в третьей четверти VIII века до н.э. во время правления Тиглатпаласара III (745—727 г. до н. э.). Его сын Саргон II разгромил Урарту, захватил Северно-Израильское царство и раздвинул границы царства до Египта. Его сын Сеннахериб после восстания в Вавилоне (689 г. до н. э.) сравнял этот город с землей. Своей столицей он избрал Ниневию, отстроив её с величайшей пышностью. Территория города была значительно увеличена и обнесена мощными укреплениями, был построен новый дворец, обновлены храмы. Для снабжения города и разбитых вокруг него садов хорошей водой соорудили акведук высотой 10 м. Созданное ассирийцами государство со столицей в городе Ниневия (пригород нынешнего города Мосул) существовало с начала II тысячелетия примерно до 612 г. до н. э., когда Ниневия была разрушена объединившимися войсками Мидии и Вавилонии. Крупными городами были также Ашшур, Калах и Дур-Шаррукин («Дворец Саргона»). Цари Ассирии сосредоточили в своих руках почти всю полноту власти — они одновременно занимали должность верховного жреца и военного вождя, а некоторое время даже — казначея. Царскими советниками были привилегированные военачальники (управляющие провинциями, обязательно служившие в армии и платившие царю дань). Земледелием занимались рабы и зависимые работники.</dbo:abstract>
+    <dbo:abstract xml:lang="pl">Asyria (akad. māt Aššurki) – starożytne państwo semickie w północnej Mezopotamii istniejące od drugiej połowy III tysiąclecia p.n.e. do pierwszej połowy I tysiąclecia p.n.e.</dbo:abstract>
+    <dbo:capital rdf:resource="http://dbpedia.org/resource/Nineveh" />
+    <dbo:capital rdf:resource="http://dbpedia.org/resource/Nimrud" />
+    <dbo:capital rdf:resource="http://dbpedia.org/resource/Dur-Sharrukin" />
+    <dbo:capital rdf:resource="http://dbpedia.org/resource/Harran" />
+    <dbo:capital rdf:resource="http://dbpedia.org/resource/Aššur" />
+    <dbo:capital rdf:resource="http://dbpedia.org/resource/Assur" />
+    <dbo:dissolutionYear rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">-2025</dbo:dissolutionYear>
+    <dbo:dissolutionYear rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">-934</dbo:dissolutionYear>
+    <dbo:dissolutionYear rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">-1393</dbo:dissolutionYear>
+    <dbo:dissolutionYear rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">-612</dbo:dissolutionYear>
+    <dbo:dissolutionYear rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">-605</dbo:dissolutionYear>
+    <dbo:foundingYear rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">-911</dbo:foundingYear>
+    <dbo:foundingYear rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">-2600</dbo:foundingYear>
+    <dbo:foundingYear rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">-2500</dbo:foundingYear>
+    <dbo:foundingYear rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">-1392</dbo:foundingYear>
+    <dbo:foundingYear rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">-2025</dbo:foundingYear>
+    <georss:point>36.0 43.3</georss:point>
+    <dbp:commonLanguages rdf:resource="http://dbpedia.org/resource/Akkadian_language" />
+    <dbp:commonLanguages rdf:resource="http://dbpedia.org/resource/Sumerian_language" />
+    <dbp:commonLanguages rdf:resource="http://dbpedia.org/resource/Aramaic_language" />
+    <dbp:commonLanguages rdf:resource="http://dbpedia.org/resource/Aramaic" />
+    <dbp:continent rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Asia</dbp:continent>
+    <dbp:country rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Iraq</dbp:country>
+    <dbp:dateEvent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">612</dbp:dateEvent>
+    <dbp:era rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Mesopotamia</dbp:era>
+    <dbp:era rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Iron Age</dbp:era>
+    <dbp:era rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Bronze Age</dbp:era>
+    <dbp:event rdf:resource="http://dbpedia.org/resource/Battle_of_Nineveh_(612_BC)" />
+    <dbp:eventEnd rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Decline of Assyria</dbp:eventEnd>
+    <dbp:eventEnd rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Reign of Ashur-dan II</dbp:eventEnd>
+    <dbp:eventEnd rdf:resource="http://dbpedia.org/resource/Fall_of_Harran" />
+    <dbp:eventStart rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Independence from Mitanni</dbp:eventStart>
+    <dbp:eventStart rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Reign of Adad-nirari II</dbp:eventStart>
+    <dbp:eventStart rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Kikkiya overthrown</dbp:eventStart>
+    <dbp:flagP rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Kingdoms of Israel and Judah map 830.svg</dbp:flagP>
+    <dbp:flagP rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Kushite empire 700bc.jpg</dbp:flagP>
+    <dbp:flagP rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">14</dbp:flagP>
+    <dbp:flagS rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Neo-Babylonian Empire.png</dbp:flagS>
+    <dbp:flagS rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Median Empire.svg</dbp:flagS>
+    <dbp:flagS rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Map of Assyria.png</dbp:flagS>
+    <dbp:governmentType rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Monarchy</dbp:governmentType>
+    <dbp:imageMap rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Ancient Egypt and Mesopotamia c. 1450 BC.png</dbp:imageMap>
+    <dbp:imageMap rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">14</dbp:imageMap>
+    <dbp:imageMap rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Map of Assyria.png</dbp:imageMap>
+    <dbp:imageMapCaption rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Map of the Neo-Assyrian Empire and its expansions.</dbp:imageMapCaption>
+    <dbp:imageMapCaption rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Overview map of the Ancient Near East in the 15th century BC , showing the core territory of Assyria with its two major cities Assur and Nineveh wedged between Babylonia downstream  and the states of Mitanni and Hatti upstream .</dbp:imageMapCaption>
+    <dbp:imageMapCaption rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Map of the Ancient Near East during the Amarna Period , showing the great powers of the day: Egypt , Hatti , the Kassite kingdom of Babylon , Assyria , and Mitanni . The extent of the Achaean/Mycenaean civilization is shown in purple.</dbp:imageMapCaption>
+    <dbp:leader rdf:resource="http://dbpedia.org/resource/Puzur-Ashur_I" />
+    <dbp:leader rdf:resource="http://dbpedia.org/resource/Adad-nirari_II" />
+    <dbp:leader rdf:resource="http://dbpedia.org/resource/Tudiya" />
+    <dbp:leader rdf:resource="http://dbpedia.org/resource/Ilu-shuma" />
+    <dbp:leader rdf:resource="http://dbpedia.org/resource/Ashur-bel-kala" />
+    <dbp:leader rdf:resource="http://dbpedia.org/resource/Ashur-nadin-ahhe_II" />
+    <dbp:leader rdf:resource="http://dbpedia.org/resource/Ashur-uballit_II" />
+    <dbp:leader rdf:resource="http://dbpedia.org/resource/Erishum_I" />
+    <dbp:leader rdf:resource="http://dbpedia.org/resource/Tiglath-Pileser_II" />
+    <dbp:leader rdf:resource="http://dbpedia.org/resource/Ashur-uballit_I" />
+    <dbp:p rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Early Dynastic Period</dbp:p>
+    <dbp:p rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Old Assyrian Empire</dbp:p>
+    <dbp:p rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Twenty-fifth Dynasty of Egypt</dbp:p>
+    <dbp:p rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Early Assyrian kingdom</dbp:p>
+    <dbp:p rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Elam</dbp:p>
+    <dbp:p rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Kingdom of Israel</dbp:p>
+    <dbp:p rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Middle Assyrian Empire</dbp:p>
+    <dbp:region rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Near East</dbp:region>
+    <dbp:region rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Middle East</dbp:region>
+    <dbp:region rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">West Asia</dbp:region>
+    <dbp:religion rdf:resource="http://dbpedia.org/resource/Ancient_Mesopotamian_religion" />
+    <dbp:religion rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Ancient Mesopotamian religion</dbp:religion>
+    <dbp:s rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Twenty-sixth Dynasty of Egypt</dbp:s>
+    <dbp:s rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Median Empire</dbp:s>
+    <dbp:s rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Neo-Babylonian_Empire</dbp:s>
+    <dbp:s rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Kingdom of Mitanni</dbp:s>
+    <dbp:s rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Neo-Assyrian Empire</dbp:s>
+    <dbp:s rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Old Assyrian Empire</dbp:s>
+    <dbp:s rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Middle Assyrian Empire</dbp:s>
+    <dbp:titleLeader rdf:resource="http://dbpedia.org/resource/List_of_Assyrian_kings" />
+    <dbp:titleLeader rdf:resource="http://dbpedia.org/resource/Kings_of_Assyria" />
+    <dbp:yearLeader rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">circa 1393 BC</dbp:yearLeader>
+    <dbp:yearLeader rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1365</dbp:yearLeader>
+    <dbp:yearLeader rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">967</dbp:yearLeader>
+    <dbp:yearLeader rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">911</dbp:yearLeader>
+    <dbp:yearLeader rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1073</dbp:yearLeader>
+    <dbp:yearLeader rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">c. 2450 BC</dbp:yearLeader>
+    <dbp:yearLeader rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">circa 2025 BC</dbp:yearLeader>
+    <dbp:yearLeader rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">c. 2025 BC</dbp:yearLeader>
+    <dbp:yearLeader rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">c. 1975 BC</dbp:yearLeader>
+    <dbp:yearLeader rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">612</dbp:yearLeader>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/History_of_Qatar">
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Assyria" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Assyria_(disambiguation)">
+    <dbo:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/Assyria" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Assaria,_Kansas">
+    <owl:differentFrom rdf:resource="http://dbpedia.org/resource/Assyria" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Assyrian_empire">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Assyria" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Clearchus_of_Sparta">
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Assyria" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Assyrian_Empire">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Assyria" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Assyira">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Assyria" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sam&#39;al">
+    <dbp:p rdf:resource="http://dbpedia.org/resource/Assyria" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tell_Leilan">
+    <dbp:region rdf:resource="http://dbpedia.org/resource/Assyria" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mar_Awa_Royel">
+    <dbo:nationality rdf:resource="http://dbpedia.org/resource/Assyria" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Rabban_Hormizd_Monastery">
+    <dbp:location rdf:resource="http://dbpedia.org/resource/Assyria" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ashur-nadin-ahhe_II">
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Assyria" />
+    <dbp:deathPlace rdf:resource="http://dbpedia.org/resource/Assyria" />
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Assyria" />
+    <dbp:birthPlace rdf:resource="http://dbpedia.org/resource/Assyria" />
+    <dbo:placeOfBurial rdf:resource="http://dbpedia.org/resource/Assyria" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Rise_of_Assyria">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Assyria" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/First_Assyrian_Empire">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Assyria" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Old_Assyria">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Assyria" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Early_Assyrian_kingdom">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Assyria" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Asyria">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Assyria" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Atoor">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Assyria" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ancient_Assyrians">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Assyria" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Assyrian_civilization">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Assyria" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Land_of_Ashur">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Assyria" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/First_Assyrian_Dynasty">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Assyria" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Old_Assyrian_Kingdoms">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Assyria" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ancient_Assyrian_culture">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Assyria" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Assyria">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Assyria" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ashuristan">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Assyria" />
+  </rdf:Description>
+</rdf:RDF>

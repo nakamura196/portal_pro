@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:dct="http://purl.org/dc/terms/"
+	xmlns:dbo="http://dbpedia.org/ontology/"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	xmlns:prov="http://www.w3.org/ns/prov#"
+	xmlns:georss="http://www.georss.org/georss/"
+	xmlns:dbp="http://dbpedia.org/property/" >
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mount_Shirouma">
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatMountainsOfToyamaPrefecture" />
+    <rdf:type rdf:resource="http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing" />
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatHidaMountains" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoPermanentlyLocatedEntity" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Mountain" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoGeoEntity" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/NaturalElevation109366317" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/NaturalPlace" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Mountain109359803" />
+    <rdf:type rdf:resource="http://schema.org/Mountain" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Place" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Location" />
+    <rdf:type rdf:resource="http://schema.org/Place" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/GeologicalFormation109287968" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PhysicalEntity100001930" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatMountainsOfNaganoPrefecture" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Object100002684" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q8502" />
+    <rdfs:label xml:lang="fr">Mont Shirouma</rdfs:label>
+    <rdfs:label xml:lang="en">Mount Shirouma</rdfs:label>
+    <rdfs:label xml:lang="ja">白馬岳</rdfs:label>
+    <rdfs:comment xml:lang="fr">Le mont Shirouma (白 馬岳 Shirouma-dake) est une montagne du Japon. Culminant à 2 932 mètres, il est le plus haut sommet du groupe Hakuba des monts Hida et l&#39;un des plus prisés des randonneurs japonais. Il est également l&#39;un des rares sommets du Japon recouverts de névés, dans le Shirouma Dai Sekkei[Quoi ?] (白馬 大雪 渓). Situé dans le parc national de Chūbu-Sangaku, il est l&#39;une des 100 montagnes célèbres du Japon. Les plantes alpines y sont abondantes en été.</rdfs:comment>
+    <rdfs:comment xml:lang="en">Mt. Shirouma (白馬岳 Shirouma-dake) is a peak in the Hida Mountains range of the Japanese Alps, located in Nagano Prefecture and Toyama Prefecture, central Honshu, Japan.</rdfs:comment>
+    <rdfs:comment xml:lang="ja">白馬岳（しろうまだけ）は、飛騨山脈（北アルプス）北部の後立山連峰にある標高2,932 mの山。長野県と富山県とにまたがり、中部山岳国立公園内にある。</rdfs:comment>
+    <owl:sameAs rdf:resource="http://ja.dbpedia.org/resource/白馬岳" />
+    <owl:sameAs rdf:resource="http://fr.dbpedia.org/resource/Mont_Shirouma" />
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Mount_Shirouma" />
+    <owl:sameAs rdf:resource="http://yago-knowledge.org/resource/Mount_Shirouma" />
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q3695423" />
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q3695423" />
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.080fx2b" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Hida_Mountains" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Mountains_of_Nagano_Prefecture" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Mountains_of_Toyama_Prefecture" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Japan_Alps" />
+    <dbo:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">24636073</dbo:wikiPageID>
+    <dbo:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">687959398</dbo:wikiPageRevisionID>
+    <foaf:name xml:lang="en">Mount Shirouma</foaf:name>
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#float">36.7586</geo:lat>
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#float">137.759</geo:long>
+    <foaf:depiction rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Shiroumadake_from_maruyama_26_2000_7_30.jpg" />
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Mount_Shirouma" />
+    <geo:geometry rdf:datatype="http://www.openlinksw.com/schemas/virtrdf#Geometry">POINT(137.75860595703 36.758609771729)</geo:geometry>
+    <dbo:thumbnail rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Shiroumadake_from_maruyama_26_2000_7_30.jpg?width=300" />
+    <prov:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Mount_Shirouma?oldid=687959398" />
+    <dbo:abstract xml:lang="fr">Le mont Shirouma (白 馬岳 Shirouma-dake) est une montagne du Japon. Culminant à 2 932 mètres, il est le plus haut sommet du groupe Hakuba des monts Hida et l&#39;un des plus prisés des randonneurs japonais. Il est également l&#39;un des rares sommets du Japon recouverts de névés, dans le Shirouma Dai Sekkei[Quoi ?] (白馬 大雪 渓). Situé dans le parc national de Chūbu-Sangaku, il est l&#39;une des 100 montagnes célèbres du Japon. Les plantes alpines y sont abondantes en été.</dbo:abstract>
+    <dbo:abstract xml:lang="ja">白馬岳（しろうまだけ）は、飛騨山脈（北アルプス）北部の後立山連峰にある標高2,932 mの山。長野県と富山県とにまたがり、中部山岳国立公園内にある。</dbo:abstract>
+    <dbo:abstract xml:lang="en">Mt. Shirouma (白馬岳 Shirouma-dake) is a peak in the Hida Mountains range of the Japanese Alps, located in Nagano Prefecture and Toyama Prefecture, central Honshu, Japan.</dbo:abstract>
+    <dbo:elevation rdf:datatype="http://www.w3.org/2001/XMLSchema#double">2932.24</dbo:elevation>
+    <dbo:locatedInArea rdf:resource="http://dbpedia.org/resource/Nagano_Prefecture" />
+    <dbo:locatedInArea rdf:resource="http://dbpedia.org/resource/Japan" />
+    <dbo:locatedInArea rdf:resource="http://dbpedia.org/resource/Kurobe,_Toyama" />
+    <dbo:locatedInArea rdf:resource="http://dbpedia.org/resource/Toyama_Prefecture" />
+    <dbo:locatedInArea rdf:resource="http://dbpedia.org/resource/Hakuba,_Nagano" />
+    <dbo:mountainRange rdf:resource="http://dbpedia.org/resource/Hida_Mountains" />
+    <dbo:nationalTopographicSystemMapNumber>50000:1 白馬岳</dbo:nationalTopographicSystemMapNumber>
+    <dbo:nationalTopographicSystemMapNumber>Geospatial Information Authority25000:1 白馬岳</dbo:nationalTopographicSystemMapNumber>
+    <dbo:otherName xml:lang="en">白馬岳</dbo:otherName>
+    <georss:point>36.75861111111111 137.75861111111112</georss:point>
+    <dbp:language rdf:resource="http://dbpedia.org/resource/Japanese_language" />
+    <dbp:latD rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">36</dbp:latD>
+    <dbp:latM rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">45</dbp:latM>
+    <dbp:latNs rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">N</dbp:latNs>
+    <dbp:latS rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">31</dbp:latS>
+    <dbp:listing rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">100</dbp:listing>
+    <dbp:listing rdf:resource="http://dbpedia.org/resource/List_of_mountains_and_hills_of_Japan_by_height" />
+    <dbp:longD rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">137</dbp:longD>
+    <dbp:longEw rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">E</dbp:longEw>
+    <dbp:longM rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">45</dbp:longM>
+    <dbp:longS rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">31</dbp:longS>
+    <dbp:mapCaption rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Location of Mount Shirouma in Japan.</dbp:mapCaption>
+    <dbp:photo rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Shiroumadake from maruyama 26 2000 7 30.jpg</dbp:photo>
+    <dbp:photoCaption rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Mount Shirouma and the Mountain hut</dbp:photoCaption>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Mount_Shirouma">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Mount_Shirouma" />
+  </rdf:Description>
+</rdf:RDF>

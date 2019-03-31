@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:dbo="http://dbpedia.org/ontology/"
+	xmlns:dbp="http://dbpedia.org/property/"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:prov="http://www.w3.org/ns/prov#" >
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Minoru_Genda">
+    <dbp:deathPlace rdf:resource="http://dbpedia.org/resource/Matsuyama" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ningineer_Stadium">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Matsuyama" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Matsuyama">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Matsuyama" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hideyuki_Ashihara">
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Matsuyama" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mansaku_Itami">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Matsuyama" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Akiyama_Yoshifuru">
+    <dbp:birthPlace rdf:resource="http://dbpedia.org/resource/Matsuyama" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Saka_no_Ue_no_Kumo_Museum">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Matsuyama" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Shiki_Memorial_Museum">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Matsuyama" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Matsuyama_Shinonome_College">
+    <dbo:city rdf:resource="http://dbpedia.org/resource/Matsuyama" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Matsuyama_University">
+    <dbo:city rdf:resource="http://dbpedia.org/resource/Matsuyama" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Matsuyama">
+    <rdfs:label xml:lang="en">Matsuyama</rdfs:label>
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Matsuyama" />
+    <dbo:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">898120</dbo:wikiPageID>
+    <dbo:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">73370920</dbo:wikiPageRevisionID>
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Matsuyama,_Ehime" />
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Matsuyama" />
+    <prov:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Matsuyama?oldid=73370920" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nankai_Broadcasting">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Matsuyama" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Iyotetsu">
+    <dbp:hqLocationCity rdf:resource="http://dbpedia.org/resource/Matsuyama" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Matsuyama_Airport">
+    <dbo:city rdf:resource="http://dbpedia.org/resource/Matsuyama" />
+  </rdf:Description>
+</rdf:RDF>

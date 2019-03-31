@@ -1,0 +1,60 @@
+{
+    "entities": [
+        {
+            "mentions": [
+                {
+                    "text": {
+                        "beginOffset": 0,
+                        "content": "医学部"
+                    },
+                    "type": "COMMON"
+                },
+                {
+                    "text": {
+                        "beginOffset": 123,
+                        "content": "医学部"
+                    },
+                    "type": "COMMON"
+                }
+            ],
+            "metadata": {},
+            "name": "医学部",
+            "salience": 0.48170355,
+            "type": "ORGANIZATION"
+        },
+        {
+            "mentions": [
+                {
+                    "text": {
+                        "beginOffset": 111,
+                        "content": "東京大学"
+                    },
+                    "type": "PROPER"
+                }
+            ],
+            "metadata": {
+                "mid": "/m/017lvd",
+                "wikipedia_url": "https://en.wikipedia.org/wiki/University_of_Tokyo"
+            },
+            "name": "東京大学",
+            "salience": 0.29207316,
+            "type": "ORGANIZATION"
+        },
+        {
+            "mentions": [
+                {
+                    "text": {
+                        "beginOffset": 9,
+                        "content": "近大ノ節来訪挨拶ノ件\t S0001/Mo046/0125\t -03-21\t 件\t 公開\t 本郷\t 直轄院部校館所"
+                    },
+                    "type": "PROPER"
+                }
+            ],
+            "metadata": {},
+            "name": "近大ノ節来訪挨拶ノ件 S0001/Mo046/0125 -03-21 件 公開 本郷 直轄院部校館所",
+            "salience": 0.2262233,
+            "type": "ORGANIZATION"
+        }
+    ],
+    "language": "ja"
+}

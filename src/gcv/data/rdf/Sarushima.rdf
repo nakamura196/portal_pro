@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:dct="http://purl.org/dc/terms/"
+	xmlns:dbo="http://dbpedia.org/ontology/"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	xmlns:prov="http://www.w3.org/ns/prov#"
+	xmlns:ns8="http://dbpedia.org/ontology/PopulatedPlace/"
+	xmlns:georss="http://www.georss.org/georss/"
+	xmlns:dbp="http://dbpedia.org/property/"
+	xmlns:ns11="http://purl.org/linguistics/gold/" >
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sarushima">
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Island" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Location" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Place" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/PopulatedPlace" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Land109334396" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PhysicalEntity100001930" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Object100002684" />
+    <rdf:type rdf:resource="http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatIslandsOfJapan" />
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Island109316454" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoGeoEntity" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoPermanentlyLocatedEntity" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q23442" />
+    <rdf:type rdf:resource="http://schema.org/Place" />
+    <rdfs:label xml:lang="zh">猿島</rdfs:label>
+    <rdfs:label xml:lang="de">Sarushima</rdfs:label>
+    <rdfs:label xml:lang="en">Sarushima</rdfs:label>
+    <rdfs:label xml:lang="ja">猿島</rdfs:label>
+    <rdfs:comment xml:lang="zh">猿島，是一個位於日本神奈川縣橫須賀市的無人島。其四面為東京灣所環繞，是東京灣內唯一自然形成的島嶼。</rdfs:comment>
+    <rdfs:comment xml:lang="de">Sarushima (jap. 猿島, dt. „Affeninsel“) ist eine japanische Insel in der Bucht von Tokio. Die Insel ist unbewohnt, aber wegen einer Höhle, in der der buddhistische Reformator Nichiren weilte, ihrem Badestrand, den Festungsanlagen und ihren popkulturellen Erwähnungen touristisch bedeutsam.</rdfs:comment>
+    <rdfs:comment xml:lang="ja">猿島（さるしま）は、東京湾に浮かぶ無人島であり、湾内最大の自然島である。住所は、神奈川県横須賀市猿島。島内の大半を猿島公園として、横須賀市が整備している。</rdfs:comment>
+    <rdfs:comment xml:lang="en">Sarushima (猿島 Saru-shima, meaning &quot;Monkey Island&quot; in the Japanese language), is a small island located off Yokosuka, Kanagawa in Japan. It is the only natural island in Tokyo Bay. Sarushima was used as a battery by the Tokugawa shogunate during the Edo period, and after the Meiji Restoration in 1868, the island was developed as the Yokosuka Navy Yard. Matthew C. Perry named the island Perry Island in 1853.</rdfs:comment>
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Sarushima" />
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q75413" />
+    <owl:sameAs rdf:resource="http://yago-knowledge.org/resource/Sarushima" />
+    <owl:sameAs rdf:resource="http://sws.geonames.org/1852928/" />
+    <owl:sameAs rdf:resource="http://ja.dbpedia.org/resource/猿島" />
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q75413" />
+    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/Sarushima" />
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.0gky85r" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Islands_of_Kanagawa_Prefecture" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Visitor_attractions_in_Kanagawa_Prefecture" />
+    <dbo:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">31349792</dbo:wikiPageID>
+    <dbo:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">715557307</dbo:wikiPageRevisionID>
+    <dbo:wikiPageExternalLink rdf:resource="http://travel.cnn.com/tokyo/play/sarushima-welcome-monkey-island-516705" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.city.yokosuka.kanagawa.jp/0140/english/welcome/03.html" />
+    <foaf:name xml:lang="en">Sarushima</foaf:name>
+    <foaf:name xml:lang="en">猿島</foaf:name>
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#float">35.2861</geo:lat>
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#float">139.694</geo:long>
+    <foaf:depiction rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Sarushima_from_boat_2010.jpg" />
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Sarushima" />
+    <geo:geometry rdf:datatype="http://www.openlinksw.com/schemas/virtrdf#Geometry">POINT(139.69416809082 35.286109924316)</geo:geometry>
+    <dbo:thumbnail rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Sarushima_from_boat_2010.jpg?width=300" />
+    <prov:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Sarushima?oldid=715557307" />
+    <ns8:areaTotal rdf:datatype="http://dbpedia.org/datatype/squareKilometre">0.055</ns8:areaTotal>
+    <dbo:abstract xml:lang="de">Sarushima (jap. 猿島, dt. „Affeninsel“) ist eine japanische Insel in der Bucht von Tokio. Die Insel ist unbewohnt, aber wegen einer Höhle, in der der buddhistische Reformator Nichiren weilte, ihrem Badestrand, den Festungsanlagen und ihren popkulturellen Erwähnungen touristisch bedeutsam.</dbo:abstract>
+    <dbo:abstract xml:lang="en">Sarushima (猿島 Saru-shima, meaning &quot;Monkey Island&quot; in the Japanese language), is a small island located off Yokosuka, Kanagawa in Japan. It is the only natural island in Tokyo Bay. Sarushima was used as a battery by the Tokugawa shogunate during the Edo period, and after the Meiji Restoration in 1868, the island was developed as the Yokosuka Navy Yard. Matthew C. Perry named the island Perry Island in 1853.</dbo:abstract>
+    <dbo:abstract xml:lang="ja">猿島（さるしま）は、東京湾に浮かぶ無人島であり、湾内最大の自然島である。住所は、神奈川県横須賀市猿島。島内の大半を猿島公園として、横須賀市が整備している。</dbo:abstract>
+    <dbo:abstract xml:lang="zh">猿島，是一個位於日本神奈川縣橫須賀市的無人島。其四面為東京灣所環繞，是東京灣內唯一自然形成的島嶼。</dbo:abstract>
+    <dbo:areaTotal rdf:datatype="http://www.w3.org/2001/XMLSchema#double">55000.0</dbo:areaTotal>
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Yokosuka,_Kanagawa" />
+    <georss:point>35.28611111111111 139.69416666666666</georss:point>
+    <dbp:coastlineKm rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.6</dbp:coastlineKm>
+    <dbp:country rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Japan</dbp:country>
+    <dbp:elevationM rdf:datatype="http://www.w3.org/2001/XMLSchema#double">39.3</dbp:elevationM>
+    <dbp:imageAlt rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">The island of Sarushima is golden on a late August day. In the lower right corner a few men on the deck of a boat look back at the island</dbp:imageAlt>
+    <dbp:imageCaption rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Sarushima as seen from a boat leaving the island</dbp:imageCaption>
+    <dbp:imageName rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Sarushima from boat 2010.jpg</dbp:imageName>
+    <dbp:imageSize rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">320</dbp:imageSize>
+    <dbp:sobriquet rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Monkey Island</dbp:sobriquet>
+    <ns11:hypernym rdf:resource="http://dbpedia.org/resource/Island" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tokyo_Bay">
+    <dbo:island rdf:resource="http://dbpedia.org/resource/Sarushima" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Saru-shima">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Sarushima" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Sarushima">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Sarushima" />
+  </rdf:Description>
+</rdf:RDF>

@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:dct="http://purl.org/dc/terms/"
+	xmlns:dbo="http://dbpedia.org/ontology/"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:prov="http://www.w3.org/ns/prov#"
+	xmlns:ns7="http://purl.org/linguistics/gold/" >
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Friction_angle">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Friction" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Cuíca">
+    <ns7:hypernym rdf:resource="http://dbpedia.org/resource/Friction" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Coulomb_friction">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Friction" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Coefficient_of_friction">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Friction" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Damping">
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Friction" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Friction">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing" />
+    <rdfs:label xml:lang="en">Friction</rdfs:label>
+    <rdfs:label xml:lang="ar">احتكاك</rdfs:label>
+    <rdfs:label xml:lang="pt">Atrito</rdfs:label>
+    <rdfs:label xml:lang="fr">Frottement</rdfs:label>
+    <rdfs:label xml:lang="ru">Трение</rdfs:label>
+    <rdfs:label xml:lang="it">Attrito</rdfs:label>
+    <rdfs:label xml:lang="de">Reibung</rdfs:label>
+    <rdfs:label xml:lang="zh">摩擦力</rdfs:label>
+    <rdfs:label xml:lang="es">Fricción</rdfs:label>
+    <rdfs:label xml:lang="ja">摩擦</rdfs:label>
+    <rdfs:label xml:lang="nl">Wrijving</rdfs:label>
+    <rdfs:label xml:lang="pl">Tarcie (fizyka)</rdfs:label>
+    <rdfs:comment xml:lang="en">Friction is the force resisting the relative motion of solid surfaces, fluid layers, and material elements sliding against each other. There are several types of friction: 
+* Dry friction resists relative lateral motion of two solid surfaces in contact. Dry friction is subdivided into static friction (&quot;stiction&quot;) between non-moving surfaces, and kinetic friction between moving surfaces. 
+* Fluid friction describes the friction between layers of a viscous fluid that are moving relative to each other. 
+* Lubricated friction is a case of fluid friction where a lubricant fluid separates two solid surfaces. 
+* Skin friction is a component of drag, the force resisting the motion of a fluid across the surface of a body. 
+* Internal friction is the force resisting motion between the elements makin</rdfs:comment>
+    <rdfs:comment xml:lang="it">In fisica l&#39;attrito (o forza d&#39;attrito) è definito come una forza che si oppone allo scivolamento di un corpo su una superficie. La forza d&#39;attrito che si manifesta tra superfici in quiete tra loro è detta di attrito statico, mentre tra superfici in moto relativo si parla invece di attrito dinamico.</rdfs:comment>
+    <rdfs:comment xml:lang="fr">En physique, le frottement (ou friction) est une interaction qui s&#39;oppose au mouvement relatif entre deux systèmes en contact. Le frottement peut être étudié au même titre que les autres types de force ou de couple. Son action est caractérisée par une norme et une orientation, ce qui en fait un vecteur. L&#39;orientation de la force (ou du couple) de frottement créé sur un corps est opposée au déplacement de ce corps. La science qui étudie le frottement entre solides est la tribologie.</rdfs:comment>
+    <rdfs:comment xml:lang="pt">Atrito, em física é a força de contato que atua sempre que dois corpos entram em choque e há tendência ao movimento. É gerada pela aspericidade (rugosidade) dos corpos (vide figura &quot;ilustrativa&quot;). A força de atrito é sempre paralela às superfícies em interação e contrária ao movimento relativo entre eles. Entretanto, ao contrário do que se poderia imaginar, mantidas as demais variáveis constantes, a força de atrito não depende da área de contato entre as superfícies, apenas da natureza destas superfícies e da força normal que tende a evitar que uma superfície &quot;penetre&quot; na outra.</rdfs:comment>
+    <rdfs:comment xml:lang="ja">摩擦（まさつ）とは、接触して、相対運動している、あるいはしようとしている物体間に働く現象である。少なくとも片方が固体である現象を扱うことが多い。狭義には、このときの物体間で発生する抵抗のことを指す。この分野を扱う学問領域をトライボロジーという。 摩擦は材料の表面がかかわる現象で、材料の表面の状態、酸化物の層、吸着分子層の存在、表面の微少形状など、変動させる要因の多い現象であるため、摩擦係数、摩耗特性などのモデル化が難しい領域である。 実際の物体では、接触面に垂直な成分を持つ力があれば、相対的に静止していても摩擦が発生している。これを静止摩擦という。人間の掌が物体を掴むことができるのは指紋による強い静止摩擦のおかげである。 相対的に運動している場合、物体の運動エネルギーは奪われ、周囲に散逸したエネルギーは熱に変わる。これを動摩擦といい、発生した熱を摩擦熱と呼ぶ。車のブレーキがタイヤの動きを止めるのは動摩擦の作用であり、マッチをマッチ箱の黒褐色の部分でこすると火がつくのは摩擦熱の作用である。 また日本における慣用的用法であるが、転がり抵抗のことを「転がり摩擦」とも言う。 力学における摩擦の取り扱いについては、摩擦力を参照。</rdfs:comment>
+    <rdfs:comment xml:lang="nl">Wrijving is in de natuurkunde het verschijnsel waarbij een weerstandskracht kan ontstaan wanneer twee oppervlakken langs elkaar schuiven, terwijl ze tegen elkaar aan gedrukt worden. Wrijving kan leiden tot vormverandering en warmteproductie. De wrijvingskracht leidt zoals elke kracht tot een &quot;versnelling&quot;. Omdat de wrijvingskracht altijd in tegengestelde richting van de beweging werkt, leidt wrijving altijd tot &quot;negatieve versnelling&quot; ofwel: vertraging. Een bewegend voorwerp, dat alléén wrijving en verder geen andere krachten ondervindt, gaat dus steeds langzamer bewegen tot het stil staat.</rdfs:comment>
+    <rdfs:comment xml:lang="ru">Тре́ние — процесс взаимодействия тел при их относительном движении (смещении) либо при движении тела в газообразной или жидкой среде. По-другому называется фрикционным взаимодействием (англ. friction). Изучением процессов трения занимается раздел физики, который называется механикой фрикционного взаимодействия, или трибологией.</rdfs:comment>
+    <rdfs:comment xml:lang="pl">Tarcie (pojęcie fizyczne, jeden z oporów ruchu) – całość zjawisk fizycznych towarzyszących przemieszczaniu się względem siebie dwóch ciał fizycznych (tarcie zewnętrzne) lub elementów tego samego ciała (tarcie wewnętrzne) i powodujących rozpraszanie energii podczas ruchu. Tarcie zewnętrzne występuje na granicy dwóch ciał stałych.Tarcie wewnętrzne występuje przy przepływie płynów, jak i deformacji ciał stałych. Siła występująca w zjawiskach tarcia nazywana jest siłą tarcia. Podstawowy podział tarcia: Podział stosowany w technice uwzględniający występowanie środków smarnych: . gdzie:</rdfs:comment>
+    <rdfs:comment xml:lang="de">Reibung, auch als Friktion bezeichnet, ist die Kraft, die zwischen zwei sich berührenden Körpern wirkt, wenn sie sich gegeneinander bewegen. Man unterscheidet zwischen äußerer Reibung zwischen sich berührenden Grenzflächen von Festkörpern und innerer Reibung zwischen benachbarten Teilchen bei der Verformung von Fluiden und Festkörpern. In physikalischen Modellen werden Reibungskräfte oft vernachlässigt, wenn sie relativ klein und/oder quantitativ schwer erfassbar sind. Im Hinblick auf den bei der Reibung auftretenden Energieverlust (ihre Umwandlung in Wärme unter Zunahme der Entropie) spricht man von Dissipation, insbesondere im Fall von kinetischer Energie, aber auch verallgemeinernd bei nicht-mechanischen Prozessen.</rdfs:comment>
+    <rdfs:comment xml:lang="ar">25بك المحتوى هنا ينقصه الاستشهاد بمصادر. يرجى إيراد مصادر موثوق بها. أي معلومات غير موثقة يمكن التشكيك بها وإزالتها. (فبراير 2016) ملف:Disambigua compass.svg ميز عن السحج، والصامت الموقوف الاحتكاكي، والمناوشة. الاحتكاك هي القوة المقاومة التي تحدث عند تحرك سطحين متلاصقين باتجاهين متعاكسين عندما يكون بينهما قوة ضاغطة تعمل على تلاحمهما معا (وزن أحد الجسمين مثلا). وتنتج كمية من الحرارة. يحدث الاحتكاك بين المواد الصلبة، السائلة والغازية أو أي تشكيلة منهم. معامل الاحتكاك، إما الساكن(س) أو الحركي(ح)</rdfs:comment>
+    <rdfs:comment xml:lang="zh">摩擦力（英語：friction）指两个表面接触的物体相对滑动时抵制它们的相对移动的力，是经典力学的一個名詞。广义地，物体在液体和气体中运动时也受到摩擦力。 摩擦力的成因： 
+*  一物體在另一物體表面上滑動或將要滑動時，兩物體在接觸面上會產生阻止相對運動的作用力，這種作用力稱為摩擦力。 
+*  物體在靜止或運動狀態，均可能在接觸面上產生摩擦力。 
+*  摩擦力與物體相對運動的方向相反。</rdfs:comment>
+    <rdfs:comment xml:lang="es">La fuerza de fricción o la fuerza de rozamiento es la fuerza que existe entre dos superficies en contacto, que se opone al movimiento relativo entre ambas superficies (fuerza de fricción dinámica) o a la fuerza que se opone al inicio del deslizamiento (fuerza de fricción estática). Se genera debido a las imperfecciones, mayormente microscópicas, entre las superficies en contacto. Estas imperfecciones hacen que la fuerza perpendicular R entre ambas superficies no lo sea perfectamente, sino que forme un ángulo con la normal N (el ángulo de rozamiento). Por tanto, la fuerza resultante se compone de la fuerza normal N (perpendicular a las superficies en contacto) y de la fuerza de rozamiento F, paralela a las superficies en contacto.</rdfs:comment>
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Deformation_(engineering)" />
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.02zp2" />
+    <owl:sameAs rdf:resource="http://ja.dbpedia.org/resource/摩擦" />
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Friction" />
+    <owl:sameAs rdf:resource="http://fr.dbpedia.org/resource/Frottement" />
+    <owl:sameAs rdf:resource="http://it.dbpedia.org/resource/Attrito" />
+    <owl:sameAs rdf:resource="http://ko.dbpedia.org/resource/마찰력" />
+    <owl:sameAs rdf:resource="http://cs.dbpedia.org/resource/Tření" />
+    <owl:sameAs rdf:resource="http://eu.dbpedia.org/resource/Marruskadura_indar" />
+    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/Reibung" />
+    <owl:sameAs rdf:resource="http://nl.dbpedia.org/resource/Wrijving" />
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q82580" />
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q82580" />
+    <owl:sameAs rdf:resource="http://es.dbpedia.org/resource/Fricción" />
+    <owl:sameAs rdf:resource="http://el.dbpedia.org/resource/Τριβή" />
+    <owl:sameAs rdf:resource="http://pt.dbpedia.org/resource/Atrito" />
+    <owl:sameAs rdf:resource="http://pl.dbpedia.org/resource/Tarcie_(fizyka)" />
+    <owl:sameAs rdf:resource="http://id.dbpedia.org/resource/Gaya_gesek" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Force" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Classical_mechanics" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Friction" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Tribology" />
+    <dbo:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">11062</dbo:wikiPageID>
+    <dbo:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">744798335</dbo:wikiPageRevisionID>
+    <dbo:wikiPageExternalLink rdf:resource="https://books.google.com/books?id=WDll8hA006AC&amp;pg=PT2503&amp;lpg=PT2503" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.physclips.unsw.edu.au/" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.ing.unitn.it/~bigoni/flutter.html" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.roymech.co.uk/Useful_Tables/Tribology/co_of_frict.htm" />
+    <dbo:wikiPageExternalLink rdf:resource="http://chain-guide.com/basics/2-3-1-coefficient-of-friction.html" />
+    <dbo:wikiPageExternalLink rdf:resource="http://chemwiki.ucdavis.edu/Core/Physical_Chemistry/Physical_Properties_of_Matter/Bulk_Properties/Cohesive_And_Adhesive_Forces" />
+    <dbo:wikiPageExternalLink rdf:resource="http://nsfafresh.org" />
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Friction" />
+    <prov:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Friction?oldid=744798335" />
+    <dbo:abstract xml:lang="en">Friction is the force resisting the relative motion of solid surfaces, fluid layers, and material elements sliding against each other. There are several types of friction: 
+* Dry friction resists relative lateral motion of two solid surfaces in contact. Dry friction is subdivided into static friction (&quot;stiction&quot;) between non-moving surfaces, and kinetic friction between moving surfaces. 
+* Fluid friction describes the friction between layers of a viscous fluid that are moving relative to each other. 
+* Lubricated friction is a case of fluid friction where a lubricant fluid separates two solid surfaces. 
+* Skin friction is a component of drag, the force resisting the motion of a fluid across the surface of a body. 
+* Internal friction is the force resisting motion between the elements making up a solid material while it undergoes deformation. When surfaces in contact move relative to each other, the friction between the two surfaces converts kinetic energy into thermal energy (that is, it converts work to heat). This property can have dramatic consequences, as illustrated by the use of friction created by rubbing pieces of wood together to start a fire. Kinetic energy is converted to thermal energy whenever motion with friction occurs, for example when a viscous fluid is stirred. Another important consequence of many types of friction can be wear, which may lead to performance degradation and/or damage to components. Friction is a component of the science of tribology. Friction is not itself a fundamental force. Dry friction arises from a combination of inter-surface adhesion, surface roughness, surface deformation, and surface contamination. The complexity of these interactions makes the calculation of friction from first principles impractical and necessitates the use of empirical methods for analysis and the development of theory. Friction is a non-conservative force - work done against friction is path dependent. In the presence of friction, some energy is always lost in the form of heat. Thus mechanical energy is not conserved.</dbo:abstract>
+    <dbo:abstract xml:lang="de">Reibung, auch als Friktion bezeichnet, ist die Kraft, die zwischen zwei sich berührenden Körpern wirkt, wenn sie sich gegeneinander bewegen. Man unterscheidet zwischen äußerer Reibung zwischen sich berührenden Grenzflächen von Festkörpern und innerer Reibung zwischen benachbarten Teilchen bei der Verformung von Fluiden und Festkörpern. In physikalischen Modellen werden Reibungskräfte oft vernachlässigt, wenn sie relativ klein und/oder quantitativ schwer erfassbar sind. Im Hinblick auf den bei der Reibung auftretenden Energieverlust (ihre Umwandlung in Wärme unter Zunahme der Entropie) spricht man von Dissipation, insbesondere im Fall von kinetischer Energie, aber auch verallgemeinernd bei nicht-mechanischen Prozessen. Anstelle von „Reibungskraft“ wird auch der Terminus Reibungswiderstand gebraucht. Mit der wissenschaftlichen Untersuchung von Reibungsvorgängen beschäftigt sich die Tribologie (Reibungslehre).</dbo:abstract>
+    <dbo:abstract xml:lang="it">In fisica l&#39;attrito (o forza d&#39;attrito) è definito come una forza che si oppone allo scivolamento di un corpo su una superficie. La forza d&#39;attrito che si manifesta tra superfici in quiete tra loro è detta di attrito statico, mentre tra superfici in moto relativo si parla invece di attrito dinamico. L&#39;attrito è un fenomeno macroscopico sempre presente nel mondo reale presentando vantaggi e svantaggi a seconda del contesto di analisi e la cui origine fisica è fatta risalire alle forze di adesione o coesione tra materiali in interazione tra loro, le quali a loro volta derivano in ultima analisi dall&#39;interazione elettrostatica tra i materiali in questione.</dbo:abstract>
+    <dbo:abstract xml:lang="pl">Tarcie (pojęcie fizyczne, jeden z oporów ruchu) – całość zjawisk fizycznych towarzyszących przemieszczaniu się względem siebie dwóch ciał fizycznych (tarcie zewnętrzne) lub elementów tego samego ciała (tarcie wewnętrzne) i powodujących rozpraszanie energii podczas ruchu. Tarcie zewnętrzne występuje na granicy dwóch ciał stałych.Tarcie wewnętrzne występuje przy przepływie płynów, jak i deformacji ciał stałych. Siła występująca w zjawiskach tarcia nazywana jest siłą tarcia. Podstawowy podział tarcia: 
+*  tarcie zewnętrzne 
+*  tarcie ślizgowe 
+*  tarcie spoczynkowe (tarcie statyczne) 
+*  tarcie ruchowe (tarcie kinetyczne) 
+*  tarcie toczne 
+*  tarcie wewnętrzne Podział stosowany w technice uwzględniający występowanie środków smarnych: 
+*  tarcie suche 
+*  tarcie płynne 
+*  tarcie graniczne 
+*  tarcie mieszane W tarciu zewnętrznym suchym zazwyczaj siła tarcia spoczynkowego jest większa lub równa sile tarcia ruchowego: . Choć zjawiska wywołujące tarcie mają skomplikowana naturę – od czysto mechanicznej po molekularną, matematyczny opis zjawiska jest bardzo prosty. Jeżeli ciało nie porusza się, to siła tarcia statycznego równoważy siłę wypadkową pozostałych sił działających na ciało, ma jej kierunek, a zwrot przeciwny. Maksymalną wartość siły tarcia statycznego określa wzór: Jeżeli ciało porusza się, to siła tarcia dynamicznego ma kierunek ruchu ciała, zwrot przeciwny do zwrotu wektora prędkości lub wektora przemieszczenia. Wartość tej siły jest równa: gdzie: – współczynnik tarcia zależny od rodzaju powierzchni stykających się ciał, – siła nacisku prostopadła do powierzchni styku ciał. Gdy ciało porusza się, tak że jego fragmenty mają różne kierunki ruchu względem podłoża (np. złożenie ruchu postępowego i obrotowego), to siły tarcia działające na różne fragmenty ciała też mogą mieć różne kierunki.</dbo:abstract>
+    <dbo:abstract xml:lang="ar">25بك المحتوى هنا ينقصه الاستشهاد بمصادر. يرجى إيراد مصادر موثوق بها. أي معلومات غير موثقة يمكن التشكيك بها وإزالتها. (فبراير 2016) ملف:Disambigua compass.svg ميز عن السحج، والصامت الموقوف الاحتكاكي، والمناوشة. الاحتكاك هي القوة المقاومة التي تحدث عند تحرك سطحين متلاصقين باتجاهين متعاكسين عندما يكون بينهما قوة ضاغطة تعمل على تلاحمهما معا (وزن أحد الجسمين مثلا). وتنتج كمية من الحرارة. يحدث الاحتكاك بين المواد الصلبة، السائلة والغازية أو أي تشكيلة منهم. وقوة الاحتكاك هي حاصل ضرب القوة الضاغطة بين الجسمين في معامل الاحتكاك.قح = قض X µحيث: قح: قوة الاحتكاكقض: القوة الضاغطة بين الجسمين أو القوة العمودية على السطح الفاصل بينهما معامل الاحتكاك، إما الساكن(س) أو الحركي(ح) يعتبر الاحتكاك قوة تطبق في الاتجاه العكسي لسرعة الجسم. فمثلا إذا دُفع كرسي على الأرض نحو اليمين تكون قوة الاحتكاك متجهة إلى اليسار. تنشأ قوة الاحتكاك بين الأجسام نتيجة وجود نتوءات وفجوات بين الأسطح فكلما كانت الأسطح ملساء كلما قلت تلك القوة. أثناء تحرك الجسم على السطح، تصطدم كل من النتوءات الصغيرة الموجودة عليه وذلك السطح، وحينئذ تكون القوة مطلوبة لنقل النتوءات بجانب بعضها الآخر. وتعتمد منطقة الاتصال الفعلي على القوة العمودية بين الجسم والسطح المنزلق. وتتناسب هذه القوة الاحتكاكية مع إجمالي القوة العمودية وتعادل هذه القوة غالبا وزن الجسم المنزلق تماما. وفي حالة الاحتكاك الجاف المنزلق حيث لا يوجد تشحيم أو تزييت، تكون قوة الاحتكاك مستقلة عن السرعة تقريبا. كما أن قوة الاحتكاك لا تعتمد على منطقة الاتصال بين الجسم والسطح الذي ينزلق عليه. وتعتبر منطقة الاحتكاك الفعلية منطقة صغيرة الحجم نسبيا، وتعرف منطقة الاحتكاك بأنها تلك المنطقة التي يحدث فيها تلامس فعلي بين كل من النتوءات الصغيرة الموجودة على الجسم والسطح الذي ينزلق عليه.</dbo:abstract>
+    <dbo:abstract xml:lang="fr">En physique, le frottement (ou friction) est une interaction qui s&#39;oppose au mouvement relatif entre deux systèmes en contact. Le frottement peut être étudié au même titre que les autres types de force ou de couple. Son action est caractérisée par une norme et une orientation, ce qui en fait un vecteur. L&#39;orientation de la force (ou du couple) de frottement créé sur un corps est opposée au déplacement de ce corps. La science qui étudie le frottement entre solides est la tribologie. La tribologie est complexe par le fait que le frottement n&#39;est pas dû à une interaction élémentaire, mais résulte de causes diverses, principalement des forces électromagnétiques et de l&#39;interaction d&#39;échange entre les atomes des surfaces en contact. Ces mêmes forces sont également en jeu dans l&#39;adhérence, qui s&#39;oppose à la création d&#39;un mouvement, qui pour cette raison peut être étudiée conjointement.</dbo:abstract>
+    <dbo:abstract xml:lang="pt">Atrito, em física é a força de contato que atua sempre que dois corpos entram em choque e há tendência ao movimento. É gerada pela aspericidade (rugosidade) dos corpos (vide figura &quot;ilustrativa&quot;). A força de atrito é sempre paralela às superfícies em interação e contrária ao movimento relativo entre eles. Apesar de sempre paralelo às superfícies em interação, o atrito entre estas superfícies depende da força normal, a componente vertical da força de contato; quanto maior for a Força Normal maior será o atrito. Passar um dedo pelo tampo de uma mesa pode ser usado como exemplo prático: ao pressionar-se com força o dedo sobre o tampo, o atrito aumenta e é mais difícil manter o dedo se movendo pela superfície. Entretanto, ao contrário do que se poderia imaginar, mantidas as demais variáveis constantes, a força de atrito não depende da área de contato entre as superfícies, apenas da natureza destas superfícies e da força normal que tende a evitar que uma superfície &quot;penetre&quot; na outra. A energia dissipada pelo atrito é, geralmente, convertida em energia térmica e/ou quebra de ligações entre moléculas, como ocorre ao lixar alguma superfície.</dbo:abstract>
+    <dbo:abstract xml:lang="es">La fuerza de fricción o la fuerza de rozamiento es la fuerza que existe entre dos superficies en contacto, que se opone al movimiento relativo entre ambas superficies (fuerza de fricción dinámica) o a la fuerza que se opone al inicio del deslizamiento (fuerza de fricción estática). Se genera debido a las imperfecciones, mayormente microscópicas, entre las superficies en contacto. Estas imperfecciones hacen que la fuerza perpendicular R entre ambas superficies no lo sea perfectamente, sino que forme un ángulo con la normal N (el ángulo de rozamiento). Por tanto, la fuerza resultante se compone de la fuerza normal N (perpendicular a las superficies en contacto) y de la fuerza de rozamiento F, paralela a las superficies en contacto.</dbo:abstract>
+    <dbo:abstract xml:lang="zh">摩擦力（英語：friction）指两个表面接触的物体相对滑动时抵制它们的相对移动的力，是经典力学的一個名詞。广义地，物体在液体和气体中运动时也受到摩擦力。 摩擦力的成因： 
+*  一物體在另一物體表面上滑動或將要滑動時，兩物體在接觸面上會產生阻止相對運動的作用力，這種作用力稱為摩擦力。 
+*  物體在靜止或運動狀態，均可能在接觸面上產生摩擦力。 
+*  摩擦力與物體相對運動的方向相反。</dbo:abstract>
+    <dbo:abstract xml:lang="ja">摩擦（まさつ）とは、接触して、相対運動している、あるいはしようとしている物体間に働く現象である。少なくとも片方が固体である現象を扱うことが多い。狭義には、このときの物体間で発生する抵抗のことを指す。この分野を扱う学問領域をトライボロジーという。 摩擦は材料の表面がかかわる現象で、材料の表面の状態、酸化物の層、吸着分子層の存在、表面の微少形状など、変動させる要因の多い現象であるため、摩擦係数、摩耗特性などのモデル化が難しい領域である。 実際の物体では、接触面に垂直な成分を持つ力があれば、相対的に静止していても摩擦が発生している。これを静止摩擦という。人間の掌が物体を掴むことができるのは指紋による強い静止摩擦のおかげである。 相対的に運動している場合、物体の運動エネルギーは奪われ、周囲に散逸したエネルギーは熱に変わる。これを動摩擦といい、発生した熱を摩擦熱と呼ぶ。車のブレーキがタイヤの動きを止めるのは動摩擦の作用であり、マッチをマッチ箱の黒褐色の部分でこすると火がつくのは摩擦熱の作用である。 また日本における慣用的用法であるが、転がり抵抗のことを「転がり摩擦」とも言う。 力学における摩擦の取り扱いについては、摩擦力を参照。</dbo:abstract>
+    <dbo:abstract xml:lang="nl">Wrijving is in de natuurkunde het verschijnsel waarbij een weerstandskracht kan ontstaan wanneer twee oppervlakken langs elkaar schuiven, terwijl ze tegen elkaar aan gedrukt worden. Wrijving kan leiden tot vormverandering en warmteproductie. De wrijvingskracht leidt zoals elke kracht tot een &quot;versnelling&quot;. Omdat de wrijvingskracht altijd in tegengestelde richting van de beweging werkt, leidt wrijving altijd tot &quot;negatieve versnelling&quot; ofwel: vertraging. Een bewegend voorwerp, dat alléén wrijving en verder geen andere krachten ondervindt, gaat dus steeds langzamer bewegen tot het stil staat.</dbo:abstract>
+    <dbo:abstract xml:lang="ru">Тре́ние — процесс взаимодействия тел при их относительном движении (смещении) либо при движении тела в газообразной или жидкой среде. По-другому называется фрикционным взаимодействием (англ. friction). Изучением процессов трения занимается раздел физики, который называется механикой фрикционного взаимодействия, или трибологией. Трение главным образом имеет электронную природу при условии, что вещество находится в нормальном состоянии. В сверхпроводящем состоянии вдалеке от критической температуры основным «источником» трения являются фононы, а коэффициент трения может уменьшиться в несколько раз.</dbo:abstract>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Friction_(disambiguation)">
+    <dbo:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/Friction" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Frictional_force">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Friction" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Static_Friction">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Friction" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kinetic_Friction">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Friction" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sliding_Friction">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Friction" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Frictionless">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Friction" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Static_friction">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Friction" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Friction_coefficient">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Friction" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Frictional_coefficient">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Friction" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Rope_drag">
+    <ns7:hypernym rdf:resource="http://dbpedia.org/resource/Friction" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Coefficient_of_static_friction">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Friction" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sliding_friction">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Friction" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Frictional_Force">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Friction" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Angle_of_friction">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Friction" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kinetic_friction">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Friction" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Stiction">
+    <ns7:hypernym rdf:resource="http://dbpedia.org/resource/Friction" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Force_of_friction">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Friction" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Coefficient_of_kinetic_friction">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Friction" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Dynamic_friction">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Friction" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Starting_Friction">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Friction" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Internal_friction">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Friction" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Limiting_friction">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Friction" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Dry_friction">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Friction" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Starting_friction">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Friction" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Coefficient_of_sliding_friction">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Friction" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Friction_coefficients">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Friction" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Microviscosity">
+    <ns7:hypernym rdf:resource="http://dbpedia.org/resource/Friction" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Friction_physics">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Friction" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Friction">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Friction" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Contact_friction">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Friction" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Coulomb&#39;s_law_of_friction">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Friction" />
+  </rdf:Description>
+</rdf:RDF>

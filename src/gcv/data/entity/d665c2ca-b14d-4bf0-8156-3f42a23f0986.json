@@ -1,0 +1,105 @@
+{
+    "entities": [
+        {
+            "mentions": [
+                {
+                    "text": {
+                        "beginOffset": 3,
+                        "content": "論説"
+                    },
+                    "type": "PROPER"
+                },
+                {
+                    "text": {
+                        "beginOffset": 12,
+                        "content": "抜書"
+                    },
+                    "type": "COMMON"
+                }
+            ],
+            "metadata": {},
+            "name": "論説",
+            "salience": 0.39475688,
+            "type": "OTHER"
+        },
+        {
+            "mentions": [
+                {
+                    "text": {
+                        "beginOffset": 29,
+                        "content": "F0001/05/03\t 9999-99-99\t アイテム\t 公開\t 本郷\t キリスト教"
+                    },
+                    "type": "PROPER"
+                }
+            ],
+            "metadata": {},
+            "name": "F0001/05/03 9999-99-99 アイテム 公開 本郷 キリスト教",
+            "salience": 0.15773875,
+            "type": "ORGANIZATION"
+        },
+        {
+            "mentions": [
+                {
+                    "text": {
+                        "beginOffset": 99,
+                        "content": "関係"
+                    },
+                    "type": "COMMON"
+                }
+            ],
+            "metadata": {},
+            "name": "関係",
+            "salience": 0.14084153,
+            "type": "OTHER"
+        },
+        {
+            "mentions": [
+                {
+                    "text": {
+                        "beginOffset": 108,
+                        "content": "加藤弘之"
+                    },
+                    "type": "PROPER"
+                }
+            ],
+            "metadata": {
+                "mid": "/m/026hfxv",
+                "wikipedia_url": "https://en.wikipedia.org/wiki/Katō_Hiroyuki"
+            },
+            "name": "加藤弘之",
+            "salience": 0.13049154,
+            "type": "PERSON"
+        },
+        {
+            "mentions": [
+                {
+                    "text": {
+                        "beginOffset": 132,
+                        "content": "外山"
+                    },
+                    "type": "PROPER"
+                }
+            ],
+            "metadata": {},
+            "name": "外山",
+            "salience": 0.096740924,
+            "type": "LOCATION"
+        },
+        {
+            "mentions": [
+                {
+                    "text": {
+                        "beginOffset": 141,
+                        "content": "罫紙"
+                    },
+                    "type": "COMMON"
+                }
+            ],
+            "metadata": {},
+            "name": "罫紙",
+            "salience": 0.079430364,
+            "type": "CONSUMER_GOOD"
+        }
+    ],
+    "language": "ja"
+}

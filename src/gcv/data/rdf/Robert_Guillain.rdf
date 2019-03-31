@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:dbo="http://dbpedia.org/ontology/"
+	xmlns:dct="http://purl.org/dc/terms/"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:prov="http://www.w3.org/ns/prov#"
+	xmlns:ns7="http://purl.org/linguistics/gold/" >
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Guillain">
+    <dbo:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/Robert_Guillain" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Robert_Guillain">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatFrenchJournalists" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Person100007846" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Object100002684" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Communicator109610660" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoLegalActor" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Organism100004475" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoLegalActorGeo" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Person" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PhysicalEntity100001930" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/CausalAgent100007347" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Whole100003553" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/LivingThing100004258" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Writer110794014" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatPeopleAssociatedWithTheAtomicBombingsOfHiroshimaAndNagasaki" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Journalist110224578" />
+    <rdfs:label xml:lang="ja">ロベール・ギラン</rdfs:label>
+    <rdfs:label xml:lang="en">Robert Guillain</rdfs:label>
+    <rdfs:label xml:lang="fr">Robert Guillain</rdfs:label>
+    <rdfs:comment xml:lang="en">Robert Guillain (4 September 1908 – 29 December 1998) was a French journalist and author of several books on Asia, especially Japan. Guillain was considered one of the most experienced and knowledgeable Western journalist on Asia, especially Japan and China, over the second half of the 20th century. Since 1977, a Robert Guillain Reporters au Japon (Robert Guillain Reporters in Japan) Prize is awarded every year to selected journalists by the Association de Presse France-Japon (France-Japan Press Association).</rdfs:comment>
+    <rdfs:comment xml:lang="ja">ロベール・ギラン（Robert Guillain 1908年9月4日 - 1998年12月29日）はフランスのジャーナリストで、アジア、特に日本通として知られる。</rdfs:comment>
+    <rdfs:comment xml:lang="fr">Robert Guillain, son nom complet étant Florent Antoine Guillain, (4 septembre 1908 - 29 décembre 1998) était un reporter français, correspondant en Asie pendant près de quarante années.</rdfs:comment>
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q3435289" />
+    <owl:sameAs rdf:resource="http://viaf.org/viaf/101850036" />
+    <owl:sameAs rdf:resource="http://fr.dbpedia.org/resource/Robert_Guillain" />
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q3435289" />
+    <owl:sameAs rdf:resource="http://yago-knowledge.org/resource/Robert_Guillain" />
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.0ddflm0" />
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Robert_Guillain" />
+    <owl:sameAs rdf:resource="http://ja.dbpedia.org/resource/ロベール・ギラン" />
+    <dbo:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1998-12-29</dbo:deathDate>
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Paris" />
+    <dbo:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1908-9-4</dbo:birthDate>
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:French_Japanologists" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:1908_births" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:1998_deaths" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:French_journalists" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:French_male_writers" />
+    <dbo:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">28780477</dbo:wikiPageID>
+    <dbo:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">745146841</dbo:wikiPageRevisionID>
+    <dbo:wikiPageExternalLink rdf:resource="http://associationrobertguillain.over-blog.com/" />
+    <foaf:name xml:lang="en">Robert Guillain</foaf:name>
+    <dct:description xml:lang="en">Author</dct:description>
+    <foaf:givenName xml:lang="en">Robert</foaf:givenName>
+    <foaf:gender xml:lang="en">male</foaf:gender>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Robert_Guillain" />
+    <foaf:surname xml:lang="en">Guillain</foaf:surname>
+    <prov:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Robert_Guillain?oldid=745146841" />
+    <dbo:abstract xml:lang="en">Robert Guillain (4 September 1908 – 29 December 1998) was a French journalist and author of several books on Asia, especially Japan. Guillain was considered one of the most experienced and knowledgeable Western journalist on Asia, especially Japan and China, over the second half of the 20th century. He spent most of his professional career in Asia as correspondent for the French news agency Agence Havas (since renamed Agence France-Presse) and then for the French daily Le Monde. During his presence in Asia, he witnessed and reported on some of the most dramatic and historic developments, from the Second Sino-Japanese War, to World War II in Japan including the nuclear bombing of Japan at the end of World War II, the decolonization processes in India and Vietnam, the Chinese Civil War, the Korean War, the Indochina wars, China&#39;s Great Leap Forward and Cultural Revolution economic and political turmoils, and the rebirth and global expansion of the Japanese economy. Since 1977, a Robert Guillain Reporters au Japon (Robert Guillain Reporters in Japan) Prize is awarded every year to selected journalists by the Association de Presse France-Japon (France-Japan Press Association).</dbo:abstract>
+    <dbo:abstract xml:lang="fr">Robert Guillain, son nom complet étant Florent Antoine Guillain, (4 septembre 1908 - 29 décembre 1998) était un reporter français, correspondant en Asie pendant près de quarante années.</dbo:abstract>
+    <dbo:abstract xml:lang="ja">ロベール・ギラン（Robert Guillain 1908年9月4日 - 1998年12月29日）はフランスのジャーナリストで、アジア、特に日本通として知られる。</dbo:abstract>
+    <ns7:hypernym rdf:resource="http://dbpedia.org/resource/Journalist" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Robert_Guillain">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Robert_Guillain" />
+  </rdf:Description>
+</rdf:RDF>

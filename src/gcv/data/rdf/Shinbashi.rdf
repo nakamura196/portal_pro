@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:dbo="http://dbpedia.org/ontology/"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:prov="http://www.w3.org/ns/prov#"
+	xmlns:dbp="http://dbpedia.org/property/" >
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Keiko_Han">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Shinbashi" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Shinbashi">
+    <rdfs:label xml:lang="en">Shinbashi</rdfs:label>
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Shinbashi" />
+    <dbo:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">40793545</dbo:wikiPageID>
+    <dbo:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">577187733</dbo:wikiPageRevisionID>
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Shinbashi,_Minato,_Tokyo" />
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Shinbashi" />
+    <prov:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Shinbashi?oldid=577187733" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Japan_National_Route_1">
+    <dbp:road rdf:resource="http://dbpedia.org/resource/Shinbashi" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Shinbashi">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Shinbashi" />
+  </rdf:Description>
+</rdf:RDF>

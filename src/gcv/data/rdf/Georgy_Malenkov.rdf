@@ -1,0 +1,296 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:dbo="http://dbpedia.org/ontology/"
+	xmlns:dct="http://purl.org/dc/terms/"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:prov="http://www.w3.org/ns/prov#"
+	xmlns:dbp="http://dbpedia.org/property/"
+	xmlns:ns8="http://purl.org/linguistics/gold/" >
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nikita_Khrushchev">
+    <dbo:predecessor rdf:resource="http://dbpedia.org/resource/Georgy_Malenkov" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Maksim_Saburov">
+    <dbp:premier rdf:resource="http://dbpedia.org/resource/Georgy_Malenkov" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lazar_Kaganovich">
+    <dbp:premier rdf:resource="http://dbpedia.org/resource/Georgy_Malenkov" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Joseph_Stalin">
+    <dbo:successor rdf:resource="http://dbpedia.org/resource/Georgy_Malenkov" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lavrentiy_Beria">
+    <dbp:premier rdf:resource="http://dbpedia.org/resource/Georgy_Malenkov" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Panteleimon_Ponomarenko">
+    <dbp:premier rdf:resource="http://dbpedia.org/resource/Georgy_Malenkov" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vyacheslav_Malyshev">
+    <dbp:premier rdf:resource="http://dbpedia.org/resource/Georgy_Malenkov" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Georgii_Malenkov">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Georgy_Malenkov" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vyacheslav_Molotov">
+    <dbp:premier rdf:resource="http://dbpedia.org/resource/Georgy_Malenkov" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Georgi_Maksimilianovich_Malenkov">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Georgy_Malenkov" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Anastas_Mikoyan">
+    <dbp:premier rdf:resource="http://dbpedia.org/resource/Georgy_Malenkov" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Roman_Rudenko">
+    <dbp:premier rdf:resource="http://dbpedia.org/resource/Georgy_Malenkov" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Pyotr_Lomako">
+    <dbp:premier rdf:resource="http://dbpedia.org/resource/Georgy_Malenkov" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Georgy_Aleksandrov">
+    <dbp:premier rdf:resource="http://dbpedia.org/resource/Georgy_Malenkov" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Georgi_Malenkov">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Georgy_Malenkov" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Georgy_Malenkov">
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/BadPerson109831962" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatHeadsOfStateOfTheSovietUnion" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatHeadsOfGovernmentOfTheSovietUnion" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatHeadsOfTheCommunistPartyOfTheSovietUnion" />
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatLeadersOfTheSovietUnion" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatSovietPeople" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatSovietPoliticians" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatRussianPeople" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatGreatPurgePerpetrators" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatPeopleFromOrenburg" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatPeopleFromOrenburgGovernorate" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q215627" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q24229398" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatPeople&#39;sCommissarsAndMinistersOfTheSovietUnion" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Commissar109942697" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Hero110325013" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Leader109623038" />
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/HeadOfState110164747" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Politician110450303" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PhysicalEntity100001930" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Agent" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/SkilledWorker110605985" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Person100007846" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Object100002684" />
+    <rdf:type rdf:resource="http://schema.org/Person" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Communicator109610660" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Perpetrator110417168" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoLegalActor" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/CausalAgent100007347" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoLegalActorGeo" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Whole100003553" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/LivingThing100004258" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Organism100004475" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Person" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Negotiator110351874" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Worker109632518" />
+    <rdf:type rdf:resource="http://umbel.org/umbel/rc/PersonWithOccupation" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/OfficeHolder" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Official110372373" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Representative110522035" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Head110162991" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q5" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatRussianPeopleOfWorldWarII" />
+    <rdf:type rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Officeholder110371450" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Owner110389398" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Holder110180178" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatHeroesOfSocialistLabour" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Wrongdoer109633969" />
+    <rdf:type rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson" />
+    <rdfs:label xml:lang="de">Georgi Maximilianowitsch Malenkow</rdfs:label>
+    <rdfs:label xml:lang="nl">Georgi Malenkov</rdfs:label>
+    <rdfs:label xml:lang="fr">Gueorgui Malenkov</rdfs:label>
+    <rdfs:label xml:lang="ar">جورجي مالينكوف</rdfs:label>
+    <rdfs:label xml:lang="es">Gueorgui Malenkov</rdfs:label>
+    <rdfs:label xml:lang="ja">ゲオルギー・マレンコフ</rdfs:label>
+    <rdfs:label xml:lang="it">Georgij Maksimilianovič Malenkov</rdfs:label>
+    <rdfs:label xml:lang="pl">Gieorgij Malenkow</rdfs:label>
+    <rdfs:label xml:lang="en">Georgy Malenkov</rdfs:label>
+    <rdfs:label xml:lang="ru">Маленков, Георгий Максимилианович</rdfs:label>
+    <rdfs:label xml:lang="zh">格奥尔基·马克西米利安诺维奇·马林科夫</rdfs:label>
+    <rdfs:label xml:lang="pt">Geórgiy Malenkov</rdfs:label>
+    <rdfs:comment xml:lang="nl">Georgij Maksimilianovitsj Malenkov (Russisch: Георгий Максимилианович Маленков) (Orenburg, 8 januari 1902 - Moskou, 14 januari 1988) was een Sovjet-Russisch politicus. Malenkov ontving een strenge Russisch-orthodoxe opvoeding. Hij werd in 1920 lid van de communistische partij. Van 1921 tot 1925 studeerde hij technische wetenschappen. Na 1925 klom hij snel op in de communistische partij. In 1934 werd hij lid van de organisatorische afdeling van de partij. Werd voor de Tweede Wereldoorlog lid van het Centraal Comité en van het secretariaat van het Centraal Comité van de Communistische Partij van de Sovjet-Unie. Malenkov werd één van de vertrouwelingen van Jozef Stalin. In maart 1939 werd hij lid van het Orgburo (Organisatorisch Bureau) (tot 1952).</rdfs:comment>
+    <rdfs:comment xml:lang="ja">ゲオルギー・マクシミリアーノヴィチ・マレンコフ（ロシア語：Георгий Максимилианович Маленков、ラテン文字表記：Georgy Maximilianovich Malenkov、1902年1月13日（ユリウス暦1月8日） - 1988年1月14日）は、ソビエト社会主義共和国連邦の政治家。第2代閣僚会議議長（首相）。ヨシフ・スターリンの重要な側近であり、スターリンの死後、短期間ながらソビエト連邦の最高指導者を務めた。ソ連共産党筆頭書記、ソ連首相をつとめた。</rdfs:comment>
+    <rdfs:comment xml:lang="en">Georgy Maximilianovich Malenkov (Russian: Гео́ргий Максимилиа́нович Маленко́в; 8 January 1902 [O.S. 26 December 1901] – 14 January 1988) was a Soviet politician and Communist Party leader. His family connections with Vladimir Lenin speeded his promotion in the party, and in 1925 he was put in charge of the party records. This brought him into close association with Joseph Stalin, and he was heavily involved in the purges of the 1930s. During World War II, he was given sole responsibility for the Soviet missile program. Later he gained favour with Stalin by discrediting Marshal Georgy Zhukov for supposed disloyalty, and supporting Stalin’s campaign to erase all the glories of Leningrad in the public mind, in order to promote Moscow as the cultural capital.</rdfs:comment>
+    <rdfs:comment xml:lang="de">Georgi Maximilianowitsch Malenkow (russisch Георгий Максимилианович Маленков, wiss. Transliteration Georgij Maksimilianovič Malenkov; * 26. Dezember 1901jul./ 8. Januar 1902greg. in Orenburg; † 14. Januar 1988 in Moskau) war ein sowjetischer Politiker und von 1953 bis 1955 als Vorsitzender des Ministerrats Regierungschef (Ministerpräsident) der UdSSR. 1961 wurde er aus der KPdSU ausgeschlossen, behielt jedoch seinen Posten als Kraftwerksdirektor in Kasachstan.</rdfs:comment>
+    <rdfs:comment xml:lang="pl">Gieorgij Maksimilianowicz Malenkow, ros. Георгий Максимилянович Маленков (ur. 26 grudnia 1901?/8 stycznia 1902 w Orenburgu, zm. 14 stycznia 1988 w Moskwie) – radziecki działacz państwowy i partyjny. Jeden z najbliższych współpracowników Józefa Stalina, a po jego śmierci przez niespełna dwa lata (1953-1955) premier ZSRR i faktyczny przywódca tego państwa.</rdfs:comment>
+    <rdfs:comment xml:lang="ar">25بك المحتوى هنا ينقصه الاستشهاد بمصادر. يرجى إيراد مصادر موثوق بها. أي معلومات غير موثقة يمكن التشكيك بها وإزالتها. (أبريل_2011) جورجي مالينكوف (بالإنجليزية: Gueorgui Malenkov) و (بالروسية: Максимилианович Маленков) كان سياسياً روسياً تقلد العديد من المناصب السياسية المهمة وأحد مسيري الحزب الشيوعي السوفييتي، أصبح رئيس الإتحاد السوفييتي بعد ستالين في مارس 1953 إلى غاية فبراير 1955.</rdfs:comment>
+    <rdfs:comment xml:lang="fr">Gueorgui Maksimilianovitch Malenkov (en russe : Георгий Максимилианович Маленков ; 8 janvier 1902 (26 décembre 1901) - 14 janvier 1988) est un homme politique et dirigeant du Parti communiste de l&#39;Union soviétique (PCUS), proche collaborateur de Staline, qui fut président du Conseil des ministres de mars 1953 à février 1955.</rdfs:comment>
+    <rdfs:comment xml:lang="zh">格奥尔基·马克西米连诺维奇·馬林科夫（Гео́ргий Максимилиа́нович Маленко́в，1902年1月13日－1988年1月14日），蘇聯政治家，也是蘇聯共產黨的領導人，史達林死後曾於1953年3月5日短暫成為中央書記處排名第一的書記（一共9天，3月14日马林科夫便辞去中央书记职务），於1953年3月5日到1955年2月8日擔任苏联部长会议主席（政府首脑）。 馬林科夫於1919年擔任紅軍政戰官，1920年加入蘇聯共產黨，之後成為史達林的心腹；1930年代後半馬林科夫曾經與貝利亞共同進行對蘇聯黨政軍的大清洗。马林科夫一直都与贝利亚有着良好的私交，但是之後馬林科夫却在最后抛弃了貝利亞。1946年馬林科夫成為蘇共中央政治局委員，在日丹諾夫死後成為史達林決策的核心人物。</rdfs:comment>
+    <rdfs:comment xml:lang="pt">Geórgiy Maksimiliánovich Malenkov, em russo Гео́ргий Максимилиа́нович Маленко́в (Oremburgo, 8 de janeiro de 1902  — Moscou, 14 de janeiro de 1988) foi um político soviético e líder do Partido Comunista da URSS, além de colaborador próximo de Stálin. Ele tornou-se líder da URSS por um breve tempo, entre março e setembro de 1953, após a morte de Stalin, e foi premier da União Soviética de 1953 a 1955. Malenkov acabou gerente de uma usina hidrelétrica no Cazaquistão até morrer.</rdfs:comment>
+    <rdfs:comment xml:lang="ru">Гео́ргий Максимилиа́нович Маленко́в (26 декабря 1901 [8 января 1902], Оренбург, Российская империя — 14 января 1988 года, Москва) — советский государственный и партийный деятель, соратник И. В. Сталина, Председатель Совета министров СССР (1953—1955 гг.). Участник антипартийной группы.</rdfs:comment>
+    <rdfs:comment xml:lang="es">Gueorgui Maksimiliánovich Malenkov (en ruso: Гео́ргий Максимилиа́нович Маленко́в; Oremburgo, 26 de diciembre de 1901jul./ 8 de enero de 1902greg. - Moscú, 14 de enero de 1988) fue un político soviético y dirigente del Partido Comunista, así como íntimo colaborador de Iósif Stalin. Brevemente se convirtió en mandatario de la Unión Soviética (marzo–septiembre de 1953) a la muerte de Stalin y fue primer ministro de la Unión Soviética de 1953 a 1955.</rdfs:comment>
+    <owl:sameAs rdf:resource="http://nl.dbpedia.org/resource/Georgi_Malenkov" />
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Georgy_Malenkov" />
+    <owl:sameAs rdf:resource="http://viaf.org/viaf/18030281" />
+    <owl:sameAs rdf:resource="http://es.dbpedia.org/resource/Gueorgui_Malenkov" />
+    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/Georgi_Maximilianowitsch_Malenkow" />
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q180588" />
+    <owl:sameAs rdf:resource="http://eu.dbpedia.org/resource/Georgi_Malenkov" />
+    <owl:sameAs rdf:resource="http://ko.dbpedia.org/resource/게오르기_말렌코프" />
+    <owl:sameAs rdf:resource="http://pl.dbpedia.org/resource/Gieorgij_Malenkow" />
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.01ygxq" />
+    <owl:sameAs rdf:resource="http://d-nb.info/gnd/119372339" />
+    <owl:sameAs rdf:resource="http://cs.dbpedia.org/resource/Georgij_Maximilianovič_Malenkov" />
+    <owl:sameAs rdf:resource="http://ja.dbpedia.org/resource/ゲオルギー・マレンコフ" />
+    <owl:sameAs rdf:resource="http://yago-knowledge.org/resource/Georgy_Malenkov" />
+    <owl:sameAs rdf:resource="http://it.dbpedia.org/resource/Georgij_Maksimilianovič_Malenkov" />
+    <owl:sameAs rdf:resource="http://el.dbpedia.org/resource/Γκεόργκι_Μαλενκόφ" />
+    <owl:sameAs rdf:resource="http://fr.dbpedia.org/resource/Gueorgui_Malenkov" />
+    <owl:sameAs rdf:resource="http://pt.dbpedia.org/resource/Geórgiy_Malenkov" />
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q180588" />
+    <owl:sameAs rdf:resource="http://id.dbpedia.org/resource/Georgiy_Malenkov" />
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Soviet_Union" />
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Russian_SFSR" />
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Moscow" />
+    <dbo:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1988-1-14</dbo:deathDate>
+    <dbo:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1988-01-14</dbo:deathDate>
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Russian_Empire" />
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Orenburg" />
+    <dbo:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1902-01-08</dbo:birthDate>
+    <dbo:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1901-12-26</dbo:birthDate>
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Recipients_of_the_Order_of_Lenin" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Russian_communists" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Politburo_of_the_Central_Committee_of_the_Communist_Party_of_the_Soviet_Union_members" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Fourth_convocation_members_of_the_Soviet_of_the_Union" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:1988_deaths" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Bolsheviks" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Russian_Orthodox_Christians_from_Russia" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Third_convocation_members_of_the_Soviet_of_the_Union" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:First_convocation_members_of_the_Soviet_of_the_Union" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Second_convocation_members_of_the_Soviet_of_the_Union" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Heroes_of_Socialist_Labour" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:People_from_Orenburg_Governorate" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:1902_births" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Burials_at_Kuntsevo_Cemetery" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:People_from_Orenburg" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Heads_of_government_of_the_Soviet_Union" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Heads_of_the_Communist_Party_of_the_Soviet_Union" />
+    <dbo:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">38584473</dbo:wikiPageID>
+    <dbo:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">743777127</dbo:wikiPageRevisionID>
+    <dbo:wikiPageExternalLink rdf:resource="http://www.marxists.org/archive/malenkov/index.htm" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.time.com/time/printout/0,8816,858727,00.html" />
+    <dbo:wikiPageExternalLink rdf:resource="https://books.google.com/books?id=RkaWTipqnecC&amp;printsec=frontcover" />
+    <foaf:name xml:lang="en">(Гео́ргий Маленко́в)</foaf:name>
+    <foaf:name xml:lang="en">Georgy Malenkov</foaf:name>
+    <foaf:depiction rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Georgy_Malenkov_1964.jpg" />
+    <dct:description xml:lang="en">Soviet politician</dct:description>
+    <foaf:givenName xml:lang="en">Georgy</foaf:givenName>
+    <foaf:gender xml:lang="en">male</foaf:gender>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Georgy_Malenkov" />
+    <foaf:surname xml:lang="en">Malenkov</foaf:surname>
+    <dbo:thumbnail rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Georgy_Malenkov_1964.jpg?width=300" />
+    <prov:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Georgy_Malenkov?oldid=743777127" />
+    <dbo:abstract xml:lang="nl">Georgij Maksimilianovitsj Malenkov (Russisch: Георгий Максимилианович Маленков) (Orenburg, 8 januari 1902 - Moskou, 14 januari 1988) was een Sovjet-Russisch politicus. Malenkov ontving een strenge Russisch-orthodoxe opvoeding. Hij werd in 1920 lid van de communistische partij. Van 1921 tot 1925 studeerde hij technische wetenschappen. Na 1925 klom hij snel op in de communistische partij. In 1934 werd hij lid van de organisatorische afdeling van de partij. Werd voor de Tweede Wereldoorlog lid van het Centraal Comité en van het secretariaat van het Centraal Comité van de Communistische Partij van de Sovjet-Unie. Malenkov werd één van de vertrouwelingen van Jozef Stalin. In maart 1939 werd hij lid van het Orgburo (Organisatorisch Bureau) (tot 1952). Vlak voor het uitbreken van de Grote Vaderlandse Oorlog (juni 1941) met de Duitsers werd Malenkov kandidaat-lid van het politbureau. Direct na de Duitse aanval op de Sovjet-Unie in juni 1941 richtte Stalin het Opperste Verdedigingscomité op. Hij vulde deze met vertrouwelingen op, zoals Malenkov. Het Verdedigingscomité fungeerde als een soort oorlogskabinet. In 1944 werd Malenkov door Stalin benoemd als zijn plaatsvervangend voorzitter van de Raad van Volkscommissarissen (vicepremier), hetgeen Malenkov was tot 1946. Hij geraakte de laatste oorlogsjaren in ernstig conflict met Andrej Zjdanov, de partijleider van Leningrad (tegenwoordig: Sint-Petersburg). In 1946 werd Malenkov lid van het politbureau en vicevoorzitter van de Raad van Ministers. Van mei 1946 tot mei 1947 was Malenkov voorzitter van het Comité voor Raketten. In 1952 werd hij in het presidium (de opvolger van het politbureau) van de CPSU gekozen. Na het overlijden van Stalin in maart 1953 werd Malenkov premier, Nikita Chroesjtsjov secretaris van het Centraal Comité en Nikolaj Boelganin minister van Defensie en Lavrenti Beria minister van Binnenlandse Zaken. Op die manier werd het zogenaamde &#39;collectieve leiderschap&#39; ingevoerd, hetgeen Stalin 1952 had bepaald. Spoedig werd echter Beria (juni 1953) van zijn post verwijderd en in 1955 ook Malenkov. Op die manier kwam het duo Chroesjtsjov-Boelganin als sterkste uit de strijd. Malenkov vervulde nog twee jaar de functie van minister van Energievoorziening, maar werd in 1957 ook van die post ontheven. Hij werd tevens uit de partij gezet. Malenkov werd benoemd tot directeur van een waterkrachtcentrale en later tot directeur van een verwarmingscentrale in Kazachstan. In 1961 ging hij met pensioen. Malenkov bleef een krachtig aanhanger van het communisme en stalinisme tot zijn dood. In de jaren zeventig keerde Malenkov weer terug tot het Russisch-orthodoxe geloof van zijn jeugd. Hij werd zelfs bestuurder in een plaatselijke parochie. Hij maakte in 1985 de benoeming van Michael Gorbatsjov als secretaris-generaal van de partij mee. Begin 1988 overleed hij nabij Moskou. Zijn christelijke grafsteen werd gebeeldhouwd door zijn schoonzoon. Zijn dochter is een architecte die kerken ontwerpt.</dbo:abstract>
+    <dbo:abstract xml:lang="pt">Geórgiy Maksimiliánovich Malenkov, em russo Гео́ргий Максимилиа́нович Маленко́в (Oremburgo, 8 de janeiro de 1902  — Moscou, 14 de janeiro de 1988) foi um político soviético e líder do Partido Comunista da URSS, além de colaborador próximo de Stálin. Ele tornou-se líder da URSS por um breve tempo, entre março e setembro de 1953, após a morte de Stalin, e foi premier da União Soviética de 1953 a 1955. Malenkov nasceu em Orenburg, na Rússia imperial, numa família de oficiais militares. Entrou para o Exército Vermelho em 1919 e para o PCUS em abril de 1920. Durante sua carreira militar, trabalhou como comissário político. Após dar baixa do Exército Vermelho em 1921, Malenkov foi estudar na Escola Técnica Superior de Moscou. Formou-se em 1925 e, desde então, trabalhou para o Partido Comunista, onde se tornou um dos confidentes de Stalin. Junto com Lavrenti Béria, Malenkov ajudou Stalin durante os expurgos de 1936-1937. Mais tarde, tornou-se rival de Béria. Malenkov foi indicado para o Politburo, mas só entrou para o órgão em 1946. Apesar de ter sido preterido por seus adversários Andrei Jdanov e Béria, ele logo voltou às graças com Stalin, especialmente após a derrocada de Jdanov. Em pouco tempo, Malenkov uniu forças com Béria e, juntos, fizeram com que aliados de Jdanov fossem expurgados e mandados para campos de trabalho forçado. Em 1952, Malenkov tornou-se membro do secretariado do PCUS. A morte de Stalin, no ano seguinte, alçou Malenkov brevemente ao posto mais alto da URSS e, com o apoio de Béria, ele chegou a ser Premier e primeiro-secretário do partido. No entanto, por oposição de membros do Presidium, Malenkov foi forçado a renunciar à liderança do Partido em 13 de março, sendo sucedido por Nikita Khruschov em setembro. Durante alguns anos, existiu uma espécie de duunvirato entre Khruschov e Malenkov. Malenkov continuou como premier por dois anos, durante os quais foi o governante de facto da URSS. Nesse período, ele deixou clara sua oposição às armas nucleares e declarou que &quot;uma guerra nuclear poderia levar à destruição global&quot;. Também defendeu a reorientação da economia soviética para a produção de bens de consumo em detrimento da indústria pesada, algo que seu sucessor Khruschov iria enfatizar. Malenkov foi forçado a deixar o cargo em fevereiro de 1955, depois de ser atacado por suas ligações próximas com Béria (que já havia sido executado como traidor em dezembro de 1953) e pelo ritmo lento das reformas, particularmente quanto à reabilitação de presos políticos. Malenkov permaneceu no órgão sucessor do Politburo o Presidium. Entretanto, em 1957 foi forçado a renunciar mais uma vez em virtude de sua participação numa tentativa fracassada de depor Khruschov — da qual também participaram Nikolai Bulganin, Viatcheslav Molotov e Lazar Kaganovitch. No entanto, diferentemente de Stalin, Khrushchev poupou a vida dos conspiradores e apenas reduziu suas influências na política soviética. Em 1961, Malenkov foi expulso do Partido Comunista e exilado internamente na própria URSS. Malenkov acabou gerente de uma usina hidrelétrica no Cazaquistão até morrer.</dbo:abstract>
+    <dbo:abstract xml:lang="ru">Гео́ргий Максимилиа́нович Маленко́в (26 декабря 1901 [8 января 1902], Оренбург, Российская империя — 14 января 1988 года, Москва) — советский государственный и партийный деятель, соратник И. В. Сталина, Председатель Совета министров СССР (1953—1955 гг.). Участник антипартийной группы. Член ЦК КПСС (1939—1957 гг.), кандидат в члены Политбюро ЦК ВКП(б) (1941—1946 гг.), член Политбюро (Президиума) ЦК (1946—1957 гг.), член Оргбюро ЦК ВКП(б) (1939—1952 гг.), Секретарь ЦК КПСС (1939—1946 гг. и 1948—1953 гг.), депутат Верховного Совета СССР (1938—1958 гг.). Курировал ряд важнейших отраслей оборонной промышленности, в том числе создание водородной бомбы и первой АЭС в мире. Фактический руководитель Советского государства в марте — сентябре 1953 года.</dbo:abstract>
+    <dbo:abstract xml:lang="ar">25بك المحتوى هنا ينقصه الاستشهاد بمصادر. يرجى إيراد مصادر موثوق بها. أي معلومات غير موثقة يمكن التشكيك بها وإزالتها. (أبريل_2011) جورجي مالينكوف (بالإنجليزية: Gueorgui Malenkov) و (بالروسية: Максимилианович Маленков) كان سياسياً روسياً تقلد العديد من المناصب السياسية المهمة وأحد مسيري الحزب الشيوعي السوفييتي، أصبح رئيس الإتحاد السوفييتي بعد ستالين في مارس 1953 إلى غاية فبراير 1955.</dbo:abstract>
+    <dbo:abstract xml:lang="zh">格奥尔基·马克西米连诺维奇·馬林科夫（Гео́ргий Максимилиа́нович Маленко́в，1902年1月13日－1988年1月14日），蘇聯政治家，也是蘇聯共產黨的領導人，史達林死後曾於1953年3月5日短暫成為中央書記處排名第一的書記（一共9天，3月14日马林科夫便辞去中央书记职务），於1953年3月5日到1955年2月8日擔任苏联部长会议主席（政府首脑）。 馬林科夫於1919年擔任紅軍政戰官，1920年加入蘇聯共產黨，之後成為史達林的心腹；1930年代後半馬林科夫曾經與貝利亞共同進行對蘇聯黨政軍的大清洗。马林科夫一直都与贝利亚有着良好的私交，但是之後馬林科夫却在最后抛弃了貝利亞。1946年馬林科夫成為蘇共中央政治局委員，在日丹諾夫死後成為史達林決策的核心人物。</dbo:abstract>
+    <dbo:abstract xml:lang="fr">Gueorgui Maksimilianovitch Malenkov (en russe : Георгий Максимилианович Маленков ; 8 janvier 1902 (26 décembre 1901) - 14 janvier 1988) est un homme politique et dirigeant du Parti communiste de l&#39;Union soviétique (PCUS), proche collaborateur de Staline, qui fut président du Conseil des ministres de mars 1953 à février 1955.</dbo:abstract>
+    <dbo:abstract xml:lang="de">Georgi Maximilianowitsch Malenkow (russisch Георгий Максимилианович Маленков, wiss. Transliteration Georgij Maksimilianovič Malenkov; * 26. Dezember 1901jul./ 8. Januar 1902greg. in Orenburg; † 14. Januar 1988 in Moskau) war ein sowjetischer Politiker und von 1953 bis 1955 als Vorsitzender des Ministerrats Regierungschef (Ministerpräsident) der UdSSR. Als Gefolgsmann Stalins wirkte er 1937 an dessen „Säuberungen“ in Weißrussland und Armenien mit und war 1942 für die Luftverteidigung Stalingrads verantwortlich. Nach Stalins Tod wurde er 1953 Ministerpräsident, reformierte die Landwirtschaft und verfolgte einen relativ milden Kurs gegenüber dem Westen, unterlag aber 1955 im Machtkampf mit Bulganin und Chruschtschow. 1961 wurde er aus der KPdSU ausgeschlossen, behielt jedoch seinen Posten als Kraftwerksdirektor in Kasachstan.</dbo:abstract>
+    <dbo:abstract xml:lang="es">Gueorgui Maksimiliánovich Malenkov (en ruso: Гео́ргий Максимилиа́нович Маленко́в; Oremburgo, 26 de diciembre de 1901jul./ 8 de enero de 1902greg. - Moscú, 14 de enero de 1988) fue un político soviético y dirigente del Partido Comunista, así como íntimo colaborador de Iósif Stalin. Brevemente se convirtió en mandatario de la Unión Soviética (marzo–septiembre de 1953) a la muerte de Stalin y fue primer ministro de la Unión Soviética de 1953 a 1955.</dbo:abstract>
+    <dbo:abstract xml:lang="en">Georgy Maximilianovich Malenkov (Russian: Гео́ргий Максимилиа́нович Маленко́в; 8 January 1902 [O.S. 26 December 1901] – 14 January 1988) was a Soviet politician and Communist Party leader. His family connections with Vladimir Lenin speeded his promotion in the party, and in 1925 he was put in charge of the party records. This brought him into close association with Joseph Stalin, and he was heavily involved in the purges of the 1930s. During World War II, he was given sole responsibility for the Soviet missile program. Later he gained favour with Stalin by discrediting Marshal Georgy Zhukov for supposed disloyalty, and supporting Stalin’s campaign to erase all the glories of Leningrad in the public mind, in order to promote Moscow as the cultural capital. On Stalin’s death in 1953, Malenkov was briefly party leader, but was soon replaced by Nikita Khrushchev, with Malenkov as premier, as the party did not want both functions entrusted to the same person. His two-year term ended in failure. He was expelled from the Politburo in 1957. In 1961 he was expelled from the party and exiled to Kazakhstan.</dbo:abstract>
+    <dbo:abstract xml:lang="pl">Gieorgij Maksimilianowicz Malenkow, ros. Георгий Максимилянович Маленков (ur. 26 grudnia 1901?/8 stycznia 1902 w Orenburgu, zm. 14 stycznia 1988 w Moskwie) – radziecki działacz państwowy i partyjny. Jeden z najbliższych współpracowników Józefa Stalina, a po jego śmierci przez niespełna dwa lata (1953-1955) premier ZSRR i faktyczny przywódca tego państwa.</dbo:abstract>
+    <dbo:abstract xml:lang="ja">ゲオルギー・マクシミリアーノヴィチ・マレンコフ（ロシア語：Георгий Максимилианович Маленков、ラテン文字表記：Georgy Maximilianovich Malenkov、1902年1月13日（ユリウス暦1月8日） - 1988年1月14日）は、ソビエト社会主義共和国連邦の政治家。第2代閣僚会議議長（首相）。ヨシフ・スターリンの重要な側近であり、スターリンの死後、短期間ながらソビエト連邦の最高指導者を務めた。ソ連共産党筆頭書記、ソ連首相をつとめた。</dbo:abstract>
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/Bauman_Moscow_State_Technical_University" />
+    <dbo:nationality rdf:resource="http://dbpedia.org/resource/Soviet_Union" />
+    <dbo:office>Full member of the18th,19th,20thPolitburo</dbo:office>
+    <dbo:office>Candidate member of the18thPolitburo</dbo:office>
+    <dbo:office>Chairmanof theCouncil of Ministers</dbo:office>
+    <dbo:office>Member of the18th,19thSecretariat</dbo:office>
+    <dbo:office>Deputy Chairmanof theCouncil of Ministers</dbo:office>
+    <dbo:party rdf:resource="http://dbpedia.org/resource/Communist_Party_of_the_Soviet_Union" />
+    <dbo:predecessor rdf:resource="http://dbpedia.org/resource/Joseph_Stalin" />
+    <dbo:religion rdf:resource="http://dbpedia.org/resource/Russian_Orthodox" />
+    <dbo:successor rdf:resource="http://dbpedia.org/resource/Nikolai_Bulganin" />
+    <dbo:termPeriod rdf:resource="http://dbpedia.org/resource/Georgy_Malenkov__8" />
+    <dbo:termPeriod rdf:resource="http://dbpedia.org/resource/Georgy_Malenkov__3" />
+    <dbo:termPeriod rdf:resource="http://dbpedia.org/resource/Georgy_Malenkov__5" />
+    <dbo:termPeriod rdf:resource="http://dbpedia.org/resource/Georgy_Malenkov__2" />
+    <dbo:termPeriod rdf:resource="http://dbpedia.org/resource/Georgy_Malenkov__1" />
+    <dbo:termPeriod rdf:resource="http://dbpedia.org/resource/Georgy_Malenkov__4" />
+    <dbo:termPeriod rdf:resource="http://dbpedia.org/resource/Georgy_Malenkov__6" />
+    <dbo:termPeriod rdf:resource="http://dbpedia.org/resource/Georgy_Malenkov__7" />
+    <!--
+    <p: xmlns:p="http://dbpedia.org/property/1blankname" rdf:resource="http://dbpedia.org/resource/List_of_First_Deputies_of_the_Soviet_Union" />
+    -->
+    <!--
+    <p: xmlns:p="http://dbpedia.org/property/1namedata" rdf:resource="http://dbpedia.org/resource/Lavrentiy_Beria" />
+    -->
+    <!--
+    <p: xmlns:p="http://dbpedia.org/property/1namedata" rdf:resource="http://dbpedia.org/resource/Nikolai_Bulganin" />
+    -->
+    <!--
+    <p: xmlns:p="http://dbpedia.org/property/1namedata" rdf:resource="http://dbpedia.org/resource/Lazar_Kaganovich" />
+    -->
+    <!--
+    <p: xmlns:p="http://dbpedia.org/property/1namedata" rdf:resource="http://dbpedia.org/resource/Vyacheslav_Molotov" />
+    -->
+    <dbp:after rdf:resource="http://dbpedia.org/resource/Nikolai_Bulganin" />
+    <dbp:before rdf:resource="http://dbpedia.org/resource/Joseph_Stalin" />
+    <dbp:birthName rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Georgy Maximilianovich Malenkov</dbp:birthName>
+    <dbp:children rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</dbp:children>
+    <dbp:ethnicity rdf:resource="http://dbpedia.org/resource/Russian_people" />
+    <dbp:ethnicity rdf:resource="http://dbpedia.org/resource/Macedonians_(ethnic_group)" />
+    <dbp:office rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Member of the Orgburo</dbp:office>
+    <dbp:premier rdf:resource="http://dbpedia.org/resource/Joseph_Stalin" />
+    <dbp:premier rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Joseph Stalin</dbp:premier>
+    <dbp:premier rdf:resource="http://dbpedia.org/resource/Nikolai_Bulganin" />
+    <dbp:profession rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Engineer, politician</dbp:profession>
+    <dbp:spouse rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Valeriya A. Golubtsova</dbp:spouse>
+    <dbp:termEnd rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1952-10-14</dbp:termEnd>
+    <dbp:termStart rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1939-03-22</dbp:termStart>
+    <dbp:title rdf:resource="http://dbpedia.org/resource/Premier_of_the_Soviet_Union" />
+    <dbp:years rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1953</dbp:years>
+    <dbp:wordnet_type rdf:resource="http://www.w3.org/2006/03/wn/wn20/instances/synset-incumbent-noun-1" />
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Politician" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nikolai_Bulganin">
+    <dbo:predecessor rdf:resource="http://dbpedia.org/resource/Georgy_Malenkov" />
+    <dbp:before rdf:resource="http://dbpedia.org/resource/Georgy_Malenkov" />
+    <dbp:premier rdf:resource="http://dbpedia.org/resource/Georgy_Malenkov" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Giorgiy_Malenkov">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Georgy_Malenkov" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ivan_Tevosian">
+    <dbp:premier rdf:resource="http://dbpedia.org/resource/Georgy_Malenkov" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Georgy_Maximilianovich_Malenkov">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Georgy_Malenkov" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Alexander_Puzanov">
+    <dbp:premier rdf:resource="http://dbpedia.org/resource/Georgy_Malenkov" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Georgy_Maksimilianovich_Malenkov">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Georgy_Malenkov" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Malenkov">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Georgy_Malenkov" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Georgij_Maksimilianovič_Malenkov">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Georgy_Malenkov" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Гео́ргий_Максимилиа́нович_Маленко́в">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Georgy_Malenkov" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gregory_Malenkov">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Georgy_Malenkov" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Georgij_Maksimilianovic_Malenkov">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Georgy_Malenkov" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Georgy_Malenkov">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Georgy_Malenkov" />
+  </rdf:Description>
+</rdf:RDF>

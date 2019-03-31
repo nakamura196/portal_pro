@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:dct="http://purl.org/dc/terms/"
+	xmlns:dbo="http://dbpedia.org/ontology/"
+	xmlns:dbp="http://dbpedia.org/property/"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:prov="http://www.w3.org/ns/prov#"
+	xmlns:ns8="http://purl.org/linguistics/gold/" >
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Human_Origins">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Homo_sapiens" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Homo_sapian">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Homo_sapiens" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sapiens">
+    <dbo:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/Homo_sapiens" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Humanzee">
+    <dbo:species rdf:resource="http://dbpedia.org/resource/Homo_sapiens" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Homo_Sapiens">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Homo_sapiens" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Evolution_of_primates">
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Homo_sapiens" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/DisGeNET">
+    <dbp:organism rdf:resource="http://dbpedia.org/resource/Homo_sapiens" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Homo_Sapien">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Homo_sapiens" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Homosapiens">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Homo_sapiens" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gawis_cranium">
+    <dbp:species rdf:resource="http://dbpedia.org/resource/Homo_sapiens" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Paleoworld_(Season_1)">
+    <dbp:shortsummary rdf:resource="http://dbpedia.org/resource/Homo_sapiens" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Spike_(database)">
+    <dbp:organism rdf:resource="http://dbpedia.org/resource/Homo_sapiens" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/SNPedia">
+    <dbp:organism rdf:resource="http://dbpedia.org/resource/Homo_sapiens" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/H._sapiens">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Homo_sapiens" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Homosapian">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Homo_sapiens" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/HeLa">
+    <dbo:species rdf:resource="http://dbpedia.org/resource/Homo_sapiens" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Homo_sapiens">
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/BiologicalDatabase" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/CausalAgent100007347" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Whole100003553" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/LivingThing100004258" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Organism100004475" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Clergyman109927451" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Priest110470779" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/SpiritualLeader109505153" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Archpriest109807075" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Leader109623038" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatPrimatesWithSequencedGenomes" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PhysicalEntity100001930" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Person100007846" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Object100002684" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoLegalActor" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoLegalActorGeo" />
+    <rdfs:label xml:lang="en">Homo sapiens</rdfs:label>
+    <rdfs:label xml:lang="fr">Homo sapiens</rdfs:label>
+    <rdfs:label xml:lang="pt">Homo sapiens</rdfs:label>
+    <rdfs:label xml:lang="es">Homo sapiens</rdfs:label>
+    <rdfs:label xml:lang="ru">Человек разумный</rdfs:label>
+    <rdfs:label xml:lang="ar">إنسان عاقل</rdfs:label>
+    <rdfs:label xml:lang="ja">ホモ・サピエンス</rdfs:label>
+    <rdfs:label xml:lang="it">Homo sapiens</rdfs:label>
+    <rdfs:comment xml:lang="it">Homo sapiens (Linnaeus, 1758; dal latino «uomo sapiente») è la definizione tassonomica dell&#39;uomo moderno.Appartiene al genere Homo, di cui è l&#39;unica specie vivente, alla famiglia degli ominidi e all&#39;ordine dei primati. Il termine generale &quot;uomo&quot; viene a volte usato in alcuni contesti anche in riferimento ad altri rappresentanti estinti della medesima area evolutiva.</rdfs:comment>
+    <rdfs:comment xml:lang="ja">ホモ・サピエンス（英語: Homo sapiens、ラテン語で「賢い人間」を意味する）は、現生人類の属する種の学名である。ネアンデルタール人（ホモ・ネアンデルターレンシス）などのすでに絶滅した多くの旧人類もこれに含める。ヒト属の唯一の現存種である。 種の下位の亜種の分類では、現生人類をホモ・サピエンス・サピエンスとすることで、彼らの祖先だと主張されてきたホモ・サピエンス・イダルトゥと区別している。創意工夫に長け、適応性の高いホモ・サピエンスはこれまでに疑いようもなく、地球上で最も支配的な種として繁栄してきた。国際自然保護連合が作成した絶滅危惧種のレッドリストでは、「軽度懸念」（低危険種）とされている。</rdfs:comment>
+    <rdfs:comment xml:lang="pt">Humano (conhecido taxonomicamente como Homo sapiens, do latim &quot;homem sábio&quot;, e também chamado de ser humano, pessoa, gente ou homem) é a única espécie animal de primata bípede do gênero Homo ainda viva. Os humanos anatomicamente modernos originaram-se na África há cerca de 200 mil anos, atingindo o comportamento moderno há cerca de 50 mil anos.</rdfs:comment>
+    <rdfs:comment xml:lang="fr">Homme moderne, Homme, Humain, Être humain  Pour les articles homonymes, voir Homo sapiens (homonymie), Homme (homonymie) et Humain.Homo sapiensFichier:Akha cropped.png Un homme et une femme d&#39;ethnie Akha en Thaïlande Nom binominal Homo sapiensLinnaeus, 1758 Statut de conservation UICN  LC  : Préoccupation mineure Répartition géographique Fichier:Habitat-homo-sapiens.svg Répartition géographique : /    Indice élevée de population /    Faible indice de population /    Indice de population nulle ou très faible</rdfs:comment>
+    <rdfs:comment xml:lang="en">Homo sapiens (Latin: &quot;wise man&quot;) is the binomial nomenclature (also known as the scientific name) for the only extant human species. Homo is the human genus, which also includes Neanderthals and many other extinct species of hominid; H. sapiens is the only surviving species of the genus Homo. Modern humans are the subspecies Homo sapiens sapiens, which differentiates them from what has been argued to be their direct ancestor, Homo sapiens idaltu. The ingenuity and adaptability of Homo sapiens has led to its becoming the most influential species on the Earth; it is currently deemed of least concern on the Red List of endangered species by the International Union for the Conservation of Nature.</rdfs:comment>
+    <rdfs:comment xml:lang="ar">25بك هذه المقالة تحتاج للمزيد من الوصلات للمقالات الأخرى للمساعدة في ترابط مقالات الموسوعة. فضلًا ساعد في تحسين هذه المقالة بإضافة وصلات إلى المقالات المتعلقة بها الموجودة في النص الحالي. (سبتمبر 2016) الإنسان العاقل (بالإنجليزية: Homo_sapiens) هو النوع الوحيد من جنس الأناسي الذي ما زال على قيد الحياة، ظهر منذ 120.000 سنة، قام بصناعة الأدوات الحجرية وزين المغارات التي سكنها وطور عدة طرق تواصل بدائية. مشاريع شقيقة توجد في ويكي أنواع معلومات أكثر حول: Homo sapiens</rdfs:comment>
+    <rdfs:comment xml:lang="ru">Челове́к разу́мный (лат. Homo sapiens; также встречаются транслитные варианты Хомо Сапиенс и Гомо Сапиенс) — вид рода Люди (Homo) из семейства гоминид в отряде приматов. В конце верхнего палеолита, около 40 тысяч лет назад, его ареал уже охватывает практически всю Землю. От современных человекообразных, помимо ряда анатомических особенностей, отличается значительной степенью развития материальной и нематериальной культуры (включая изготовление и использование орудий труда), способностью к членораздельной речи и крайне развитому абстрактному мышлению. Человек как биологический вид является предметом исследования физической антропологии. Природа и сущность человека являются предметом как философского, так и религиозного диспутов.</rdfs:comment>
+    <rdfs:comment xml:lang="es">Homo sapiens (del latín, homo ‘hombre’ y sapiens ‘sabio’) es una especie de primate perteneciente a la familia de los homínidos. También son conocidos bajo la denominación genérica de «hombres», aunque ese término es ambiguo y se usa también para referirse a los individuos de sexo masculino y, en particular, a los varones adultos. Los seres humanos poseen capacidades mentales que les permiten inventar, aprender y utilizar estructuras lingüísticas complejas, lógicas, matemáticas, escritura, música, ciencia, y tecnología. Los humanos son animales sociales, capaces de concebir, transmitir y aprender conceptos totalmente abstractos.</rdfs:comment>
+    <owl:sameAs rdf:resource="http://yago-knowledge.org/resource/Homo_sapiens" />
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q15978631" />
+    <owl:sameAs rdf:resource="http://fr.dbpedia.org/resource/Homo_sapiens" />
+    <owl:sameAs rdf:resource="http://ja.dbpedia.org/resource/ホモ・サピエンス" />
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Homo_sapiens" />
+    <owl:sameAs rdf:resource="http://d-nb.info/gnd/4038639-9" />
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q15978631" />
+    <owl:sameAs rdf:resource="http://pt.dbpedia.org/resource/Homo_sapiens" />
+    <owl:sameAs rdf:resource="http://es.dbpedia.org/resource/Homo_sapiens" />
+    <owl:sameAs rdf:resource="http://it.dbpedia.org/resource/Homo_sapiens" />
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.0dgw9r" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Extant_Gelasian_first_appearances" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Animals_described_in_1758" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Humans" />
+    <dbo:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">99645</dbo:wikiPageID>
+    <dbo:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">745245679</dbo:wikiPageRevisionID>
+    <dbo:wikiPageExternalLink rdf:resource="http://humanorigins.si.edu/evidence/human-evolution-timeline-interactive" />
+    <dbp:name rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Homo sapiens</dbp:name>
+    <foaf:depiction rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Akha_cropped_hires.JPG" />
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Homo_sapiens" />
+    <dbo:thumbnail rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Akha_cropped_hires.JPG?width=300" />
+    <prov:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Homo_sapiens?oldid=745245679" />
+    <dbo:abstract xml:lang="es">Homo sapiens (del latín, homo ‘hombre’ y sapiens ‘sabio’) es una especie de primate perteneciente a la familia de los homínidos. También son conocidos bajo la denominación genérica de «hombres», aunque ese término es ambiguo y se usa también para referirse a los individuos de sexo masculino y, en particular, a los varones adultos. Los seres humanos poseen capacidades mentales que les permiten inventar, aprender y utilizar estructuras lingüísticas complejas, lógicas, matemáticas, escritura, música, ciencia, y tecnología. Los humanos son animales sociales, capaces de concebir, transmitir y aprender conceptos totalmente abstractos. Se consideran Homo sapiens de forma indiscutible a los que poseen tanto las características anatómica de las poblaciones humanas actuales como lo que se define como «comportamiento moderno». Los restos más antiguos de Homo sapiens son los de Omo I, llamados hombres de Kibish (Etiopía), con 195 000 años. La evidencia más antigua de comportamiento moderno son las de Pinnacle Point (Sudáfrica) con 165 000 años. Pertenece al género Homo que fue más diversificado, y durante el último millón y medio de años incluía otras especies ya extintas. Desde la extinción del Homo neanderthalensis, hace 28 000 años, el Homo sapiens es la única especie conocida del género Homo que aún perdura. Hasta hace poco, la biología utilizaba un nombre trinomial —Homo sapiens sapiens— para esta especie, pero más recientemente se ha descartado el nexo filogenético entre el neandertal y la actual humanidad, por lo que se usa exclusivamente el nombre binomial. Homo sapiens pertenece a una estirpe de primates, los hominoideos. Aunque el descubrimiento de Homo sapiens idaltu en 2003 haría necesario volver al sistema trinomial, la posición taxonómica de este último es aún incierta. Evolutivamente se diferenció en África y de ese ancestro surgió la familia de la que forman parte los homínidos. Filosóficamente, el ser humano se ha definido y redefinido a sí mismo de numerosas maneras a través de la historia, otorgándose de esta manera un propósito positivo o negativo respecto de su propia existencia. Existen diversos sistemas religiosos e ideales filosóficos que, de acuerdo a una diversa gama de culturas e ideales individuales, tienen como propósito y función responder algunas de esas interrogantes existenciales. Los seres humanos tienen la capacidad de ser conscientes de sí mismos, así como de su pasado; saben que tienen el poder de planear, transformar y realizar proyectos de diversos tipos. En función a esta capacidad, han creado diversos códigos morales y dogmas orientados directamente al manejo de estas capacidades. Además, pueden ser conscientes de responsabilidades y peligros provenientes de la naturaleza, así como de otros seres humanos.</dbo:abstract>
+    <dbo:abstract xml:lang="ja">ホモ・サピエンス（英語: Homo sapiens、ラテン語で「賢い人間」を意味する）は、現生人類の属する種の学名である。ネアンデルタール人（ホモ・ネアンデルターレンシス）などのすでに絶滅した多くの旧人類もこれに含める。ヒト属の唯一の現存種である。 種の下位の亜種の分類では、現生人類をホモ・サピエンス・サピエンスとすることで、彼らの祖先だと主張されてきたホモ・サピエンス・イダルトゥと区別している。創意工夫に長け、適応性の高いホモ・サピエンスはこれまでに疑いようもなく、地球上で最も支配的な種として繁栄してきた。国際自然保護連合が作成した絶滅危惧種のレッドリストでは、「軽度懸念」（低危険種）とされている。</dbo:abstract>
+    <dbo:abstract xml:lang="ru">Челове́к разу́мный (лат. Homo sapiens; также встречаются транслитные варианты Хомо Сапиенс и Гомо Сапиенс) — вид рода Люди (Homo) из семейства гоминид в отряде приматов. В конце верхнего палеолита, около 40 тысяч лет назад, его ареал уже охватывает практически всю Землю. От современных человекообразных, помимо ряда анатомических особенностей, отличается значительной степенью развития материальной и нематериальной культуры (включая изготовление и использование орудий труда), способностью к членораздельной речи и крайне развитому абстрактному мышлению. Человек как биологический вид является предметом исследования физической антропологии. Природа и сущность человека являются предметом как философского, так и религиозного диспутов. Человечество — совокупность человеческих индивидов. Разнообразие культур, форм общественной жизни и социальной организации является предметом изучения социальных и гуманитарных наук (социальной и культурной антропологии, социологии, экономики, истории и др.). Неоантропы (др.-греч. νέος — новый и ἄνθρωπος — человек) — обобщённое название людей современного вида, ископаемых и ныне живущих.</dbo:abstract>
+    <dbo:abstract xml:lang="ar">25بك هذه المقالة تحتاج للمزيد من الوصلات للمقالات الأخرى للمساعدة في ترابط مقالات الموسوعة. فضلًا ساعد في تحسين هذه المقالة بإضافة وصلات إلى المقالات المتعلقة بها الموجودة في النص الحالي. (سبتمبر 2016) الإنسان العاقل (بالإنجليزية: Homo_sapiens) هو النوع الوحيد من جنس الأناسي الذي ما زال على قيد الحياة، ظهر منذ 120.000 سنة، قام بصناعة الأدوات الحجرية وزين المغارات التي سكنها وطور عدة طرق تواصل بدائية. مشاريع شقيقة توجد في ويكي أنواع معلومات أكثر حول: Homo sapiens</dbo:abstract>
+    <dbo:abstract xml:lang="en">Homo sapiens (Latin: &quot;wise man&quot;) is the binomial nomenclature (also known as the scientific name) for the only extant human species. Homo is the human genus, which also includes Neanderthals and many other extinct species of hominid; H. sapiens is the only surviving species of the genus Homo. Modern humans are the subspecies Homo sapiens sapiens, which differentiates them from what has been argued to be their direct ancestor, Homo sapiens idaltu. The ingenuity and adaptability of Homo sapiens has led to its becoming the most influential species on the Earth; it is currently deemed of least concern on the Red List of endangered species by the International Union for the Conservation of Nature.</dbo:abstract>
+    <dbo:abstract xml:lang="fr">Homme moderne, Homme, Humain, Être humain  Pour les articles homonymes, voir Homo sapiens (homonymie), Homme (homonymie) et Humain.Homo sapiensFichier:Akha cropped.png Un homme et une femme d&#39;ethnie Akha en Thaïlande Nom binominal Homo sapiensLinnaeus, 1758 Statut de conservation UICN  LC  : Préoccupation mineure Répartition géographique Fichier:Habitat-homo-sapiens.svg Répartition géographique : /    Indice élevée de population /    Faible indice de population /    Indice de population nulle ou très faible Homo sapiens (« homme savant »), communément appelé homme moderne, « homme », « homme anatomiquement moderne », « humain » ou encore « être humain », est une espèce de primates appartenant à la famille des hominidés. Il est le seul représentant actuel du genre Homo, les autres espèces, une quinzaine en l’état actuel des connaissances de la paléoanthropologie, étant éteintes. Parmi les hominidés actuels, il se distingue d’un point de vue physiologique par sa bipédie quasi-exclusive, son cerveau plus volumineux et son système pileux moins développé. Du point de vue de l&#39;éthologie, et par rapport au reste du règne animal, Homo sapiens se distingue par la complexité de ses relations sociales, l&#39;utilisation d&#39;un langage articulé élaboré transmis par l&#39;apprentissage, la fabrication d&#39;outils, le port de vêtements, la maîtrise du feu, la domestication de nombreuses espèces végétales et animales, ainsi que l&#39;aptitude de son système cognitif à l&#39;abstraction, l&#39;introspection et la spiritualité. Il n&#39;est cependant pas le seul du genre Homo à maîtriser toutes ces techniques. Plus généralement, il se distingue de toute autre espèce animale par l&#39;abondance et la sophistication de ses réalisations techniques et artistiques, l&#39;importance de l&#39;apprentissage et de l&#39;apport culturel dans le développement de l&#39;individu, mais aussi par l&#39;ampleur des transformations qu&#39;il opère sur les écosystèmes. La science qui étudie l&#39;homme sous tous ses aspects est l&#39;anthropologie. Celle qui étudie son histoire évolutive est la paléoanthropologie.</dbo:abstract>
+    <dbo:abstract xml:lang="it">Homo sapiens (Linnaeus, 1758; dal latino «uomo sapiente») è la definizione tassonomica dell&#39;uomo moderno.Appartiene al genere Homo, di cui è l&#39;unica specie vivente, alla famiglia degli ominidi e all&#39;ordine dei primati. Il periodo che va dal paleolitico medio, circa 200 000 anni fa, all&#39;epoca odierna, vede la comparsa in Africa orientale e la diversificazione della specie Homo sapiens. Secondo le teorie prevalenti, dal continente africano, circa 65-75 000 anni fa (o secondo altre evidenze alcune decine di migliaia di anni prima), in stretta coincidenza con un evento di fortissima riduzione della popolazione globale, tuttora in fase di definizione, parte della specie iniziò un percorso migratorio che attraverso un corridoio medio orientale la portò a colonizzare l&#39;intero pianeta. La precisa datazione dei primi esemplari definibili sapiens, tradizionalmente posta a circa 130 000 anni fa, è stata spostata dalle scienze paleontologiche più indietro nel tempo, grazie a ritrovamenti nei tufi vulcanici della valle del fiume Omo in Etiopia. Per mezzo di tecniche basate sui rapporti isotopici dell&#39;argon, i più antichi resti anatomicamente simili all&#39;uomo moderno si possono datare a 195 000 anni fa, con una incertezza di ± 5 000 anni. Il termine generale &quot;uomo&quot; viene a volte usato in alcuni contesti anche in riferimento ad altri rappresentanti estinti della medesima area evolutiva.</dbo:abstract>
+    <dbo:abstract xml:lang="pt">Humano (conhecido taxonomicamente como Homo sapiens, do latim &quot;homem sábio&quot;, e também chamado de ser humano, pessoa, gente ou homem) é a única espécie animal de primata bípede do gênero Homo ainda viva. Os humanos anatomicamente modernos originaram-se na África há cerca de 200 mil anos, atingindo o comportamento moderno há cerca de 50 mil anos. Os membros dessa espécie têm um cérebro altamente desenvolvido, com inúmeras capacidades como o raciocínio abstrato, a linguagem, a introspecção e a resolução de problemas. Esta capacidade mental, associada a um corpo ereto possibilitaram o uso dos braços para manipular objetos, fator que permitiu aos humanos a criação e a utilização de ferramentas para alterar o ambiente a sua volta mais do que qualquer outra espécie de ser vivo. Outros processos de pensamento de alto nível, como a auto-consciência, a racionalidade e a sapiência, são considerados características que definem uma &quot;pessoa&quot;. Homo sapiens surgiu na África Oriental entre 190.000 e 160.000 anos atrás, depois se espalhou para o leste do Mediterrâneo em torno de 100.000 a 60.000 anos atrás, e pode ter chegado na China 80.000 anos atrás. Atualmente os seres humanos estão distribuídos em toda a Terra. Em novembro de 2011, a população humana foi estimada em cerca de 7 bilhões de indivíduos pela Organização das Nações Unidas. Desde o surgimento da civilização, os humanos são uma forma dominante de vida biológica, em termos de distribuição espacial e efeitos sobre a biosfera do planeta. Como a maioria dos primatas superiores, os seres humanos são sociais por natureza, sendo particularmente hábeis em utilizar sistemas de comunicação, principalmente verbal, gestual e escrito, para se expressar, trocar ideias e se organizar. Os humanos criaram complexas estruturas sociais compostas de muitos grupos cooperantes e concorrentes, de famílias até nações. As interações sociais entre os humanos criaram uma variedade extremamente grande de tradições, rituais, normas sociais e éticas, leis e valores, que em conjunto formam a base da sociedade humana. A cultura humana é marcada pelo apreço pela beleza e estética o que, combinado com o desejo de expressão, levou a inovações como a arte, a escrita, a literatura e a música. O Homo sapiens, como espécie, tem como característica o desejo de entender e influenciar o ambiente à sua volta, procurando explicar e manipular os fenômenos naturais através da filosofia, artes, ciências, mitologia e da religião. Esta curiosidade natural levou ao desenvolvimento de ferramentas e habilidades avançadas. O ser humano é a única espécie conhecida capaz de criar o fogo, cozinhar seus alimentos, vestir-se, além de utilizar várias outras tecnologias. Os humanos passam suas habilidades e conhecimentos para as próximas gerações e, portanto, são considerados dependentes da cultura.</dbo:abstract>
+    <dbp:authority rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Linnaeus, 1758</dbp:authority>
+    <dbp:fossilRange rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">(Middle Pleistocene–Present)</dbp:fossilRange>
+    <dbp:imageAlt rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">man and woman in northern Thailand – husband carries stem of banana-plant, which will be fed to their pigs</dbp:imageAlt>
+    <dbp:imageCaption rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Homo sapiens sapiens</dbp:imageCaption>
+    <dbp:imageCaption rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Male and female</dbp:imageCaption>
+    <dbp:imageWidth rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">200</dbp:imageWidth>
+    <dbp:status rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">LC</dbp:status>
+    <dbp:statusSystem rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">iucn3.1</dbp:statusSystem>
+    <dbp:subdivision rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">†Homo sapiens idaltu</dbp:subdivision>
+    <dbp:subdivision rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Homo sapiens sapiens</dbp:subdivision>
+    <dbp:subdivisionRanks rdf:resource="http://dbpedia.org/resource/Subspecies" />
+    <dbp:taxon rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Homo sapiens</dbp:taxon>
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Nomenclature" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/HomoSapiens">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Homo_sapiens" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Anzick-1">
+    <dbp:species rdf:resource="http://dbpedia.org/resource/Homo_sapiens" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Homo_sapein">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Homo_sapiens" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Homo_sapiens_(disambiguation)">
+    <dbo:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/Homo_sapiens" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Alternative_views_on_the_origin_of_mankind">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Homo_sapiens" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Homo_sapien">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Homo_sapiens" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Theories_of_the_origin_of_humans">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Homo_sapiens" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Interferome">
+    <dbp:organism rdf:resource="http://dbpedia.org/resource/Homo_sapiens" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Allele_frequency_net_database">
+    <dbp:organism rdf:resource="http://dbpedia.org/resource/Homo_sapiens" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/AspicDB">
+    <dbp:organism rdf:resource="http://dbpedia.org/resource/Homo_sapiens" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/HumHot">
+    <dbp:organism rdf:resource="http://dbpedia.org/resource/Homo_sapiens" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/L1Base">
+    <dbp:organism rdf:resource="http://dbpedia.org/resource/Homo_sapiens" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Strbase">
+    <dbp:organism rdf:resource="http://dbpedia.org/resource/Homo_sapiens" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/UCbase">
+    <dbp:organism rdf:resource="http://dbpedia.org/resource/Homo_sapiens" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/DbCRID">
+    <dbp:organism rdf:resource="http://dbpedia.org/resource/Homo_sapiens" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/DbDNV">
+    <dbp:organism rdf:resource="http://dbpedia.org/resource/Homo_sapiens" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/IGRhCellID">
+    <dbp:organism rdf:resource="http://dbpedia.org/resource/Homo_sapiens" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/LocDB">
+    <dbp:organism rdf:resource="http://dbpedia.org/resource/Homo_sapiens" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/RegPhos">
+    <dbp:organism rdf:resource="http://dbpedia.org/resource/Homo_sapiens" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/SpliceInfo">
+    <dbp:organism rdf:resource="http://dbpedia.org/resource/Homo_sapiens" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Structure_atlas_of_human_genome">
+    <dbp:organism rdf:resource="http://dbpedia.org/resource/Homo_sapiens" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Human_specie">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Homo_sapiens" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/H_Sapiens">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Homo_sapiens" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Dawn_of_modern_humanity">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Homo_sapiens" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Dawn_of_modern_humans">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Homo_sapiens" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Dawn_of_modern_man">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Homo_sapiens" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Dawn_of_modern_men">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Homo_sapiens" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Modern_human_origin">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Homo_sapiens" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Modern_human_origins">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Homo_sapiens" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Modern_humanity&#39;s_dawn">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Homo_sapiens" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Modern_humanity&#39;s_origin">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Homo_sapiens" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Modern_humanity&#39;s_origins">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Homo_sapiens" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Modern_humans&#39;_dawn">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Homo_sapiens" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Modern_man&#39;s_dawn">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Homo_sapiens" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Modern_man&#39;s_origin">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Homo_sapiens" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Modern_man&#39;s_origins">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Homo_sapiens" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Modern_men&#39;s_dawn">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Homo_sapiens" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Modern_men&#39;s_origin">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Homo_sapiens" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Modern_men&#39;s_origins">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Homo_sapiens" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Origin_of_modern_man">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Homo_sapiens" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Origins_of_modern_humans">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Homo_sapiens" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Origins_of_modern_man">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Homo_sapiens" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/East_African_Plains_Ape">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Homo_sapiens" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Homo_sapiens">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Homo_sapiens" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/H._Sapiens">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Homo_sapiens" />
+  </rdf:Description>
+</rdf:RDF>

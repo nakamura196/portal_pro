@@ -1,0 +1,665 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:dbo="http://dbpedia.org/ontology/"
+	xmlns:dbp="http://dbpedia.org/property/"
+	xmlns:dct="http://purl.org/dc/terms/"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	xmlns:prov="http://www.w3.org/ns/prov#"
+	xmlns:georss="http://www.georss.org/georss/"
+	xmlns:ns10="http://purl.org/linguistics/gold/" >
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Edith_Stein">
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Auschwitz_concentration_camp" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Fritz_Klein">
+    <dbo:occupation rdf:resource="http://dbpedia.org/resource/Auschwitz_concentration_camp" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mala_Zimetbaum">
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Auschwitz_concentration_camp" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yekusiel_Yehuda_Teitelbaum_(II)">
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Auschwitz_concentration_camp" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Czesława_Kwoka">
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Auschwitz_concentration_camp" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Abraham_Leon">
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Auschwitz_concentration_camp" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Auschwitz_Concentration_Camp">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Auschwitz_concentration_camp" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Dénes_Friedmann">
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Auschwitz_concentration_camp" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lion_van_Minden">
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Auschwitz_concentration_camp" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Oskar_Hekš">
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Auschwitz_concentration_camp" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Rafael_Schächter">
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Auschwitz_concentration_camp" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Anna_Sophia_Polak">
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Auschwitz_concentration_camp" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Otto_Selz">
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Auschwitz_concentration_camp" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sim_Gokkes">
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Auschwitz_concentration_camp" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lea_Deutsch">
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Auschwitz_concentration_camp" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Malva_Schalek">
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Auschwitz_concentration_camp" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Auschwitz_concentration_camp">
+    <rdf:type rdf:resource="http://schema.org/Place" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PhysicalEntity100001930" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Object100002684" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoLegalActorGeo" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Broadcaster" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Facility103315023" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/District108552138" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PenalInstitution103907654" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Establishment103297735" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Institution103574555" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/LivingQuarters103679384" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/MilitaryQuarters103763727" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Camp102944826" />
+    <rdf:type rdf:resource="http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatNaziExterminationCamps" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatWorldHeritageSitesInPoland" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatNaziConcentrationCamps" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatRegisteredMuseumsInPoland" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatWorldWarIISitesOfNaziGermany" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatWorldWarIISitesInPoland" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Depository103177349" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Museum103800563" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/ConcentrationCamp" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Housing103546340" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Location" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Whole100003553" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Place" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Artifact100021939" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoGeoEntity" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoPermanentlyLocatedEntity" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Structure104341686" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Location100027167" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/AdministrativeDistrict108491826" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Region108630985" />
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/City108524735" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/GeographicalArea108574314" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Municipality108626283" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/UrbanArea108675967" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Site108651247" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Camp102945379" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Tract108673395" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/ConcentrationCamp103086183" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatConcentrationCamps" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatCitiesAndTownsInLesserPolandVoivodeship" />
+    <rdfs:label xml:lang="zh">奥斯威辛集中营</rdfs:label>
+    <rdfs:label xml:lang="es">Auschwitz</rdfs:label>
+    <rdfs:label xml:lang="ar">معسكر أوشفيتز بيركينو</rdfs:label>
+    <rdfs:label xml:lang="de">KZ Auschwitz</rdfs:label>
+    <rdfs:label xml:lang="ru">Освенцим</rdfs:label>
+    <rdfs:label xml:lang="en">Auschwitz concentration camp</rdfs:label>
+    <rdfs:label xml:lang="pl">Auschwitz-Birkenau</rdfs:label>
+    <rdfs:label xml:lang="ja">アウシュヴィッツ＝ビルケナウ強制収容所</rdfs:label>
+    <rdfs:label xml:lang="nl">Auschwitz (concentratiekamp)</rdfs:label>
+    <rdfs:label xml:lang="pt">Auschwitz</rdfs:label>
+    <rdfs:label xml:lang="fr">Auschwitz</rdfs:label>
+    <rdfs:label xml:lang="it">Campo di concentramento di Auschwitz</rdfs:label>
+    <rdfs:comment xml:lang="ar">أوشفيتز بيركينو أو معسكر أوشفيتز للاعتقال والإبادة كان معسكر اعتقال وإبادة بني وشغل من قبل ألمانيا النازية في أثناء الاحتلال النازي لبولندا أثناء الحرب العالمية الثانية. يعتبر معسكر أوشفيتز من أكبر معسكرات الاعتقال النازية ويتكون من ثلاث معسكرات رئيسية و45 معسكر فرعي. صمم معسكر أوشفيتز بناء على أفكار هاينريك هملر وزير الداخلية الألماني لوضع حل أخير لليهود في أوروبا. وتم نقل اليهود بالقطارات في الفترة بين ربيع عام 1942 وخريف عام 1944 إلى غرف الإعدام بالغاز في المعسكر من جميع أرجاء أوروبا الواقعة تحت الاحتلال النازي.</rdfs:comment>
+    <rdfs:comment xml:lang="es">El campo de concentración de Auschwitz (en alemán, «Konzentrationslager Auschwitz») fue un complejo formado por diversos campos de concentración y exterminio de la Alemania nazi situado en los territorios polacos ocupados durante la Segunda Guerra Mundial. Comprendía Auschwitz I —el campo original—, Auschwitz II-Birkenau —de concentración y exterminio—, Auschwitz III-Monowitz —campo de trabajo para la IG Farben— y 45 campos satélite más. La Unesco lo declaró Patrimonio de la Humanidad en 1979 como uno de los lugares de mayor simbolismo del Holocausto o Shoah.</rdfs:comment>
+    <rdfs:comment xml:lang="it">Il template {{Coord}} ha riscontrato degli errori (istruzioni):Modulo:Wikidata:398: attempt to index field &#39;wikibase&#39; (a nil value) Per campo di concentramento di Auschwitz (in tedesco Konzentrationslager Auschwitz o anche KL Auschwitz) si intende il vasto complesso di campi di concentramento e di lavoro che formarono un sistema concentrazionario situato nelle vicinanze di Oświęcim (in tedesco Auschwitz), città della Polonia meridionale. Oltre al campo originario, denominato Auschwitz I, durante il periodo dell&#39;Olocausto, nacquero diversi altri campi del complesso, tra cui il famigerato campo di sterminio di Birkenau (Auschwitz II), situato a Birkenau (in polacco Brzezinka), il campo di lavoro di Monowitz (Auschwitz III), situato a Monowitz, (in polacco Monowice), e altri 45 sotto-campi co</rdfs:comment>
+    <rdfs:comment xml:lang="de">Das Konzentrationslager Auschwitz, auch KZ Auschwitz genannt, war ein nationalsozialistischer Lagerkomplex, der eine Doppelfunktion als Konzentrationslager und Vernichtungslager hatte. Er bestand aus dem Konzentrationslager Auschwitz (Stammlager, bzw. mit Nr. I bezeichnet), dem Vernichtungslager Birkenau - Konzentrationslager Auschwitz II, dem Konzentrationslager Monowitz (bzw. als Nebenlager geführt) und ca. 50 weiteren Außenlagern. Der Lagerkomplex befand sich im vom Deutschen Reich annektierten Teil von Polen. Die SS betrieb den Lagerkomplex von 1940 bis 1945 am Westrand der polnischen Stadt Oświęcim (dt.: Auschwitz).</rdfs:comment>
+    <rdfs:comment xml:lang="nl">Auschwitz was een verzameling van concentratie- en vernietigingskampen die tijdens de Tweede Wereldoorlog door nazi-Duitsland nabij de Poolse stad Auschwitz (Pools: Oświęcim) werden opgezet. Het was het grootste van alle Duitse concentratiekampen en bestond uit Auschwitz I (Stammlager of basiskamp), Auschwitz II-Birkenau (Vernichtungslager of vernietigingskamp), Auschwitz III-Monowitz (een werkkamp) en een aantal subkampen. Naar Auschwitz werden ongeveer 1,3 miljoen mensen gedeporteerd. Hiervan zijn er ongeveer 1,1 miljoen om het leven gekomen, waarvan het grootste deel werd vergast.</rdfs:comment>
+    <rdfs:comment xml:lang="pl">Konzentrationslager Auschwitz, KL Auschwitz (Stammlager), w tym KL Birkenau (Auschwitz II) i KL Monowitz (Auschwitz III) – zespół niemieckich nazistowskich obozów koncentracyjnych, w tym obozu zagłady na terenie Oświęcimia i pobliskich miejscowości, istniejący w latach 1940-1945, symbol Holocaustu. Określany też mianem &quot;fabryki śmierci&quot;. Jedyny obóz koncentracyjny, znajdujący się na liście światowego dziedzictwa UNESCO, figuruje tam pod oficjalną nazwą Auschwitz-Birkenau. Niemiecki nazistowski obóz koncentracyjny i zagłady (1940-1945).</rdfs:comment>
+    <rdfs:comment xml:lang="en">Auschwitz concentration camp (German: Konzentrationslager Auschwitz, also KZ Auschwitz [kɔntsɛntʁaˈtsi̯oːnsˌlaːɡɐ ˈʔaʊʃvɪts] ) was a network of German Nazi concentration camps and extermination camps built and operated by the Third Reich in Polish areas annexed by Nazi Germany during World War II. It consisted of Auschwitz I (the original camp), Auschwitz II–Birkenau (a combination concentration/extermination camp), Auschwitz III–Monowitz (a labor camp to staff an IG Farben factory), and 45 satellite camps.</rdfs:comment>
+    <rdfs:comment xml:lang="zh">奥斯威辛集中營，或稱奧許維茲－比克瑙集中營（德语：Konzentrationslager Auschwitz-Birkenau，波兰语：Obóz Koncentracyjny Auschwitz-Birkenau；「奧許維茲」是奥斯威辛的德語名稱），是納粹德國時期建立最主要的集中營和滅絕營，位於波蘭南方、距波蘭第二大城克拉科夫西南60公里的小城奥斯威辛。 奧斯維辛集中營於1940年4月27日，由納粹德國親衛隊領導人希姆萊下令建造。1942年1月20日舉行的萬湖會議通過「最終解決方案」，透過滅絕營實行有系統的猶太人大屠殺行動，估計約有110萬人在奧斯維辛集中營被殺，超過九成遇害人都是猶太人。 奧斯維辛集中營共有3個主要營區，分別是奥斯威辛（一号营区）、比克瑙（二号营区）、莫諾維茨（三号营区）和39個小型的營地或工廠，最主要的目的是進行殺害猶太人或是對其收容者進行極為嚴苛的工作、集體處決或是進行不人道的人體實驗。 奧斯維辛集中營在1945年1月27日由蘇聯紅軍解放。1947年，波蘭國會立法將此改為紀念納粹大屠殺的博物館，即奧許維茲－比克瑙國家博物館，以做為第二次世界大戰中納粹德國統治期間，犯下惡名昭彰罪行的歷史見證。1979年，聯合國教科文組織將奧斯維辛集中營列入世界文化遺產。2007年，聯合國教科文組織把集中營命名為「奧斯維辛－比克瑙 德國納粹集中和滅絕營（1940-1945年）」</rdfs:comment>
+    <rdfs:comment xml:lang="pt">Auschwitz é o nome de uma rede de campos de concentração localizados no sul da Polônia operados pelo Terceiro Reich nas áreas polonesas anexadas pela Alemanha Nazista, maior símbolo do Holocausto perpetrado pelo nazismo durante a Segunda Guerra Mundial. A partir de 1940, o governo de Adolf Hitler construiu vários campos de concentração e um campo de extermínio nesta área. A razão direta para sua construção foi o fato de que as prisões em massa de judeus, especialmente poloneses, por toda a Europa que ia sendo conquistada pelas tropas nazistas, excediam em grande número a capacidade das prisões convencionais até então existentes. Ele foi o maior dos campos de concentração nazistas, consistindo de Auschwitz I (Stammlager, campo principal e centro administrativo do complexo); Auschwitz II–Bir</rdfs:comment>
+    <rdfs:comment xml:lang="ru">Концентрацио́нный ла́герь и ла́герь сме́рти Осве́нцим (Концентрационный лагерь и лагерь смерти Аушвиц: нем. Konzentrationslager Auschwitz, польск. Obóz Koncentracyjny Auschwitz; Концентрационный лагерь и лагерь смерти Биркенау: нем. Konzentrationslager Birkenau, польск. Obóz Koncentracyjny Birkenau, Концентрационный лагерь и лагерь смерти Аушвиц-Биркенау: нем. Konzentrationslager Auschwitz-Birkenau, польск. Obóz Koncentracyjny Auschwitz-Birkenau) — комплекс немецких концентрационных лагерей и лагерей смерти, располагавшийся в 1940—1945 годах к западу от Генерал-губернаторства, около города Освенцим, который в 1939 г. указом Гитлера был присоединён к территории Третьего рейха, в 60 км к западу от Кракова. В мировой практике принято использовать немецкое название «Аушвиц», а не польское «Осв</rdfs:comment>
+    <rdfs:comment xml:lang="ja">アウシュヴィッツ＝ビルケナウ強制収容所（アウシュヴィッツ ビルケナウ きようせいしゅうようじょ、独: Das Konzentrationslager Auschwitz-Birkenau、波: Obóz Koncentracyjny Auschwitz-Birkenau）は、ドイツが第二次世界大戦中に国家をあげて推進した人種差別的な絶滅政策 (ホロコースト) および強制労働により、最大級の犠牲者を出した強制収容所である。収容された90%がユダヤ人であった。 アウシュヴィッツ第一強制収容所はドイツ占領地のポーランド南部オシフィエンチム市（ドイツ語名アウシュヴィッツ）に、アウシュヴィッツ第二強制収容所は隣接するブジェジンカ村（ドイツ語名ビルケナウ）につくられた。周辺には同様の施設が多数建設されている。ユネスコの世界遺産委員会は、二度と同じような過ちが起こらないようにとの願いを込めて、1979年に世界遺産リストに登録した。公式な分類ではないが、日本ではいわゆる「負の世界遺産」に分類されることがしばしばである。一部現存する施設は「ポーランド国立オシフィエンチム博物館」が管理・公開している。 この項では、ビルケナウに限定せず、アウシュヴィッツ全体について述べる。</rdfs:comment>
+    <rdfs:comment xml:lang="fr">Auschwitz (en allemand : Konzentrationslager Auschwitz , « Camp de concentration d&#39;Auschwitz ») est le plus grand complexe concentrationnaire du Troisième Reich, à la fois camp de concentration et d&#39;extermination. Il est situé sur le territoire des localités d&#39;Oświęcim (Auschwitz en allemand) et de Brzezinka (Birkenau en allemand), annexées au Reich (province de Silésie) après l&#39;invasion de la Pologne.</rdfs:comment>
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Responsibility_for_the_Holocaust" />
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Porajmos" />
+    <owl:sameAs rdf:resource="http://fr.dbpedia.org/resource/Auschwitz" />
+    <owl:sameAs rdf:resource="http://it.dbpedia.org/resource/Campo_di_concentramento_di_Auschwitz" />
+    <owl:sameAs rdf:resource="http://sws.geonames.org/7701596/" />
+    <owl:sameAs rdf:resource="http://d-nb.info/gnd/4003697-2" />
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.0v_x" />
+    <owl:sameAs rdf:resource="http://ko.dbpedia.org/resource/아우슈비츠_강제_수용소" />
+    <owl:sameAs rdf:resource="http://cs.dbpedia.org/resource/Auschwitz" />
+    <owl:sameAs rdf:resource="http://es.dbpedia.org/resource/Auschwitz" />
+    <owl:sameAs rdf:resource="http://pt.dbpedia.org/resource/Auschwitz" />
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q7341" />
+    <owl:sameAs rdf:resource="http://pl.dbpedia.org/resource/Auschwitz-Birkenau" />
+    <owl:sameAs rdf:resource="http://sw.cyc.com/concept/Mx4rvWwDwCbJTde9axPRHwGOrw" />
+    <owl:sameAs rdf:resource="http://yago-knowledge.org/resource/Auschwitz" />
+    <owl:sameAs rdf:resource="http://yago-knowledge.org/resource/Auschwitz_concentration_camp" />
+    <owl:sameAs rdf:resource="http://eu.dbpedia.org/resource/Auschwitz" />
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q7341" />
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Auschwitz_concentration_camp" />
+    <owl:sameAs rdf:resource="http://nl.dbpedia.org/resource/Auschwitz_(concentratiekamp)" />
+    <owl:sameAs rdf:resource="http://el.dbpedia.org/resource/Στρατόπεδο_συγκέντρωσης_Άουσβιτς" />
+    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/KZ_Auschwitz" />
+    <owl:sameAs rdf:resource="http://id.dbpedia.org/resource/Kamp_konsentrasi_Auschwitz" />
+    <owl:sameAs rdf:resource="http://ja.dbpedia.org/resource/アウシュヴィッツ＝ビルケナウ強制収容所" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Auschwitz_concentration_camp" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Bayer_AG" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:World_Heritage_Sites_in_Poland" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:1940_establishments_in_Germany" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Tourism_in_Eastern_Europe" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:World_War_II_sites_of_Nazi_Germany" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:World_War_II_sites_in_Poland" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Registered_museums_in_Poland" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Human_rights_abuses" />
+    <dbo:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2006</dbo:wikiPageID>
+    <dbo:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">744973408</dbo:wikiPageRevisionID>
+    <dbo:wikiPageExternalLink rdf:resource="http://www.keene.edu/cchs/JerzyBielecki_Story.pdf" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.slate.com/blogs/outward/2015/01/27/remembering_the_gay_victims_of_the_holocaust.html" />
+    <dbo:wikiPageExternalLink rdf:resource="https://www.ushmm.org/information/exhibitions/online-exhibitions/special-focus/international-holocaust-remembrance-day" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.wiesenthal.com/" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.wiez.pl/czasopismo/;s,czasopismo_szczegoly,id,215,art,6714" />
+    <dbo:wikiPageExternalLink rdf:resource="https://www.theguardian.com/news/2006/apr/13/guardianobituaries.secondworldwar" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.writing.upenn.edu/~afilreis/Holocaust/auschwitz.html" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.highbeam.com/doc/1G2-2591309522.html" />
+    <dbo:wikiPageExternalLink rdf:resource="http://whc.unesco.org/en/list/31" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.highbeam.com/doc/1G2-3408200075.html" />
+    <dbo:wikiPageExternalLink rdf:resource="https://web.archive.org/web/20140501142518/http:/en.auschwitz.org/h/index.php?option=com_content&amp;task=view&amp;id=16&amp;Itemid=15&amp;limit=1&amp;limitstart=6" />
+    <dbo:wikiPageExternalLink rdf:resource="https://web.archive.org/web/20140501142530/http:/en.auschwitz.org/z/index.php?option=com_content&amp;task=view&amp;id=52&amp;Itemid=99999999" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.highbeam.com/doc/1P2-7896385.html" />
+    <dbo:wikiPageExternalLink rdf:resource="https://web.archive.org/web/20140501141524/http:/en.auschwitz.org/m/index.php?option=com_content&amp;task=view&amp;id=458&amp;Itemid=8" />
+    <dbo:wikiPageExternalLink rdf:resource="https://web.archive.org/web/20141101044907/http:/en.auschwitz.org/h/index.php?option=com_content&amp;task=view&amp;id=24&amp;Itemid=3" />
+    <dbo:wikiPageExternalLink rdf:resource="https://web.archive.org/web/20140501142547/http:/en.auschwitz.org/h/index.php?option=com_content&amp;task=view&amp;id=22&amp;Itemid=19&amp;limit=1&amp;limitstart=2" />
+    <dbo:wikiPageExternalLink rdf:resource="https://web.archive.org/web/20141204143409/http:/en.auschwitz.org/z/index.php?option=com_content&amp;task=view&amp;id=56&amp;Itemid=24" />
+    <dbo:wikiPageExternalLink rdf:resource="http://sputnikipogrom.com/history/28551/liberation-of-auschwitz/" />
+    <dbo:wikiPageExternalLink rdf:resource="http://ajcf.pl/en/" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.pilecki.ipn.gov.pl/rp/biogram/7081,dok.html" />
+    <dbo:wikiPageExternalLink rdf:resource="http://nuremberg.law.harvard.edu/NurTranscript/TranscriptPages/83_44.html" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.bbc.co.uk/news/world-europe-30996555" />
+    <dbo:wikiPageExternalLink rdf:resource="http://auschwitz.org/en/" />
+    <dbo:wikiPageExternalLink rdf:resource="http://en.auschwitz.org/h/index.php?option=com_content&amp;task=view&amp;id=22&amp;Itemid=19&amp;limit=1&amp;limitstart=2" />
+    <dbo:wikiPageExternalLink rdf:resource="http://en.auschwitz.org/h/index.php?option=com_content&amp;task=view&amp;id=24&amp;Itemid=3" />
+    <dbo:wikiPageExternalLink rdf:resource="http://en.auschwitz.org/h/index.php?option=com_content&amp;task=view&amp;id=16&amp;Itemid=15&amp;limit=1&amp;limitstart=6" />
+    <dbo:wikiPageExternalLink rdf:resource="http://en.auschwitz.org/z/index.php?option=com_content&amp;task=view&amp;id=56&amp;Itemid=24" />
+    <dbo:wikiPageExternalLink rdf:resource="https://web.archive.org/web/20081003220655/http:/www.um.oswiecim.pl/rocznica/index.php?option=com_content&amp;task=view&amp;id=55&amp;Itemid=99" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.cbsnews.com/news/oldest-survivor-of-auschwitz-dies-at-age-108/" />
+    <dbo:wikiPageExternalLink rdf:resource="http://isurvived.org/" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.yadvashem.org/yv/en/exhibitions/auschwitz_architecture/index.asp?WT.mc_id=wiki" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.yadvashem.org/yv/en/exhibitions/album_auschwitz/index.asp" />
+    <dbo:wikiPageExternalLink rdf:resource="https://web.archive.org/web/20131103214327/http:/www.psbprzedborz.pl/index.php?option=com_content&amp;view=article&amp;id=50:bendera-eugeniusz" />
+    <dbo:wikiPageExternalLink rdf:resource="https://web.archive.org/web/20131104130240/http:/en.auschwitz.org/h/index.php?option=com_content&amp;task=view&amp;id=9&amp;Itemid=11&amp;limit=1&amp;limitstart=3" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.auschwitz-birkenau.org/" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.bbc.com/news/uk-33237625" />
+    <dbo:wikiPageExternalLink rdf:resource="https://web.archive.org/web/20120404121918/http:/www.keene.edu/cchs/JerzyBielecki_Story.pdf" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.bbc.co.uk/history/worldwars/genocide/" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.auschwitz.org/" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.jpost.com/Features/In-Thespotlight/Planning-ahead" />
+    <dbo:wikiPageExternalLink rdf:resource="http://remember.org/" />
+    <dbo:wikiPageExternalLink rdf:resource="https://www.ushmm.org/" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.bbc.co.uk/news/uk-england-cambridgeshire-37322599" />
+    <dbo:wikiPageExternalLink rdf:resource="https://books.google.com/books?id=7KaCGDUys50C" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.nationalarchives.gov.uk/education/worldwar2/theatres-of-war/eastern-europe/investigation/camps/sources/docs/7/" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.um.oswiecim.pl/rocznica/index.php?option=com_content&amp;task=view&amp;id=55&amp;Itemid=99" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.nobelprize.org/nobel_prizes/peace/laureates/1986/press.html" />
+    <dbo:wikiPageExternalLink rdf:resource="http://en.auschwitz.org/m/index.php?option=com_content&amp;task=view&amp;id=458&amp;Itemid=8" />
+    <dbo:wikiPageExternalLink rdf:resource="http://en.auschwitz.org/z/index.php?option=com_content&amp;task=view&amp;id=52&amp;Itemid=99999999" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.independent.co.uk/news/world/legacy-of-auschwitz-is-still-with-us-1569949.html" />
+    <dbo:wikiPageExternalLink rdf:resource="http://en.auschwitz.org/h/index.php?option=com_content&amp;task=view&amp;id=9&amp;Itemid=11&amp;limit=1&amp;limitstart=3" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.psbprzedborz.pl/index.php?option=com_content&amp;view=article&amp;id=50:bendera-eugeniusz" />
+    <foaf:homepage rdf:resource="http://www.auschwitz.org/" />
+    <dbp:name rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Auschwitz</dbp:name>
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#float">50.0358</geo:lat>
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#float">19.1783</geo:long>
+    <foaf:depiction rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Birkenau_gate.JPG" />
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Auschwitz_concentration_camp" />
+    <geo:geometry rdf:datatype="http://www.openlinksw.com/schemas/virtrdf#Geometry">POINT(19.178333282471 50.035831451416)</geo:geometry>
+    <dbo:thumbnail rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Birkenau_gate.JPG?width=300" />
+    <prov:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Auschwitz_concentration_camp?oldid=744973408" />
+    <dbo:abstract xml:lang="nl">Auschwitz was een verzameling van concentratie- en vernietigingskampen die tijdens de Tweede Wereldoorlog door nazi-Duitsland nabij de Poolse stad Auschwitz (Pools: Oświęcim) werden opgezet. Het was het grootste van alle Duitse concentratiekampen en bestond uit Auschwitz I (Stammlager of basiskamp), Auschwitz II-Birkenau (Vernichtungslager of vernietigingskamp), Auschwitz III-Monowitz (een werkkamp) en een aantal subkampen. Naar Auschwitz werden ongeveer 1,3 miljoen mensen gedeporteerd. Hiervan zijn er ongeveer 1,1 miljoen om het leven gekomen, waarvan het grootste deel werd vergast. De naam Auschwitz is symbolisch geworden voor de vernietigings- en concentratiekampen van de nazi&#39;s die op vele plaatsen in Europa verschenen voor en tijdens de Tweede Wereldoorlog. Miljoenen mensen, merendeels Joden maar ook personen die tot andere etnische minderheden behoorden, evenals politieke gevangenen, zijn in dergelijke kampen om het leven gekomen.</dbo:abstract>
+    <dbo:abstract xml:lang="ar">أوشفيتز بيركينو أو معسكر أوشفيتز للاعتقال والإبادة كان معسكر اعتقال وإبادة بني وشغل من قبل ألمانيا النازية في أثناء الاحتلال النازي لبولندا أثناء الحرب العالمية الثانية. يعتبر معسكر أوشفيتز من أكبر معسكرات الاعتقال النازية ويتكون من ثلاث معسكرات رئيسية و45 معسكر فرعي. صمم معسكر أوشفيتز بناء على أفكار هاينريك هملر وزير الداخلية الألماني لوضع حل أخير لليهود في أوروبا. وتم نقل اليهود بالقطارات في الفترة بين ربيع عام 1942 وخريف عام 1944 إلى غرف الإعدام بالغاز في المعسكر من جميع أرجاء أوروبا الواقعة تحت الاحتلال النازي. اتهم رودولف هوس القائد الأعلى للمعسكر أثناء محكمة نورنبيرغ بعد نهاية الحرب بإعدام ثلاثة ملايين شخص، ثم تم تعديل الرقم ليصبح 1.1 مليون أكثر من 90% منهم من اليهود بالإضافة إلى 150 ألف بولندي، 23 ألف من أقوام روما وسنتي، 15 ألف من السجناء السوفيت في الحرب وعشرات الآلاف من الجنسيات الأخرى. سقط معسكر أوشفيتز في 27 يناير 1945 بيد الجنود السوفييت وهو اليوم الذي أصبح لاحقاً اليوم الدولي لذكرى الهولوكوست. أدرج أوشفيتز بيركينو كأحد مواقع التراث العالمي في بولندا عام 1979، ويزوره حوالي 700 ألف زائر في العام.</dbo:abstract>
+    <dbo:abstract xml:lang="ja">アウシュヴィッツ＝ビルケナウ強制収容所（アウシュヴィッツ ビルケナウ きようせいしゅうようじょ、独: Das Konzentrationslager Auschwitz-Birkenau、波: Obóz Koncentracyjny Auschwitz-Birkenau）は、ドイツが第二次世界大戦中に国家をあげて推進した人種差別的な絶滅政策 (ホロコースト) および強制労働により、最大級の犠牲者を出した強制収容所である。収容された90%がユダヤ人であった。 アウシュヴィッツ第一強制収容所はドイツ占領地のポーランド南部オシフィエンチム市（ドイツ語名アウシュヴィッツ）に、アウシュヴィッツ第二強制収容所は隣接するブジェジンカ村（ドイツ語名ビルケナウ）につくられた。周辺には同様の施設が多数建設されている。ユネスコの世界遺産委員会は、二度と同じような過ちが起こらないようにとの願いを込めて、1979年に世界遺産リストに登録した。公式な分類ではないが、日本ではいわゆる「負の世界遺産」に分類されることがしばしばである。一部現存する施設は「ポーランド国立オシフィエンチム博物館」が管理・公開している。 この項では、ビルケナウに限定せず、アウシュヴィッツ全体について述べる。</dbo:abstract>
+    <dbo:abstract xml:lang="es">El campo de concentración de Auschwitz (en alemán, «Konzentrationslager Auschwitz») fue un complejo formado por diversos campos de concentración y exterminio de la Alemania nazi situado en los territorios polacos ocupados durante la Segunda Guerra Mundial. Comprendía Auschwitz I —el campo original—, Auschwitz II-Birkenau —de concentración y exterminio—, Auschwitz III-Monowitz —campo de trabajo para la IG Farben— y 45 campos satélite más. Situado a unos 43 km al oeste de Cracovia, fue el mayor centro de exterminio de la historia del nazismo, donde se calcula que fueron enviadas cerca de un millón trescientas mil personas, de las cuales murieron un millón cien mil, la gran mayoría de ellas judías (el 90 %, aproximadamente un millón), aunque también deben contarse a prisioneros de guerra, disidentes al régimen, etc. En la puerta de entrada a uno de los diversos campos que componían el complejo (Auschwitz I) se puede leer el lema en alemán Arbeit macht frei («(El) Trabajo libera»), con el que recibían a los deportados las fuerzas de las SS que estaban a cargo del centro durante su periodo de funcionamiento, desde su apertura el 20 de mayo de 1940 hasta el 27 de enero de 1945, cuando fue liberado por el ejército soviético. Bajo la supervisión de Heinrich Himmler, estuvo dirigido por el oficial de las SS Obersturmbannführer Rudolf Höss hasta el verano de 1943, reemplazado posteriormente por Arthur Liebehenschel y Richard Baer. Höss, capturado por los aliados, daría testimonio en los juicios de Núremberg antes de que lo procesaran y condenaran a muerte por ahorcamiento en 1947 delante del crematorio de Auschwitz I. Liebehenschel fue también juzgado por un tribunal polaco y ejecutado en 1948. Baer logró evadirse y vivir bajo una identidad falsa en Hamburgo, hasta que fue reconocido y arrestado. Se suicidó en la prisión poco antes de iniciarse su proceso en 1963. La Unesco lo declaró Patrimonio de la Humanidad en 1979 como uno de los lugares de mayor simbolismo del Holocausto o Shoah.</dbo:abstract>
+    <dbo:abstract xml:lang="pt">Auschwitz é o nome de uma rede de campos de concentração localizados no sul da Polônia operados pelo Terceiro Reich nas áreas polonesas anexadas pela Alemanha Nazista, maior símbolo do Holocausto perpetrado pelo nazismo durante a Segunda Guerra Mundial. A partir de 1940, o governo de Adolf Hitler construiu vários campos de concentração e um campo de extermínio nesta área. A razão direta para sua construção foi o fato de que as prisões em massa de judeus, especialmente poloneses, por toda a Europa que ia sendo conquistada pelas tropas nazistas, excediam em grande número a capacidade das prisões convencionais até então existentes. Ele foi o maior dos campos de concentração nazistas, consistindo de Auschwitz I (Stammlager, campo principal e centro administrativo do complexo); Auschwitz II–Birkenau (campo de extermínio), Auschwitz III–Monowitz, e mais 45 campos satélites. Por um longo tempo, Auschwitz era o nome alemão dado a Oświęcim, na Baixa Polônia, a cidade em volta da qual os campos eram localizados. Ele tornou-se novamente oficial após a invasão da Polônia pela Alemanha em setembro de 1939. &quot;Birkenau&quot;, a tradução alemã para Brzezinka (floresta de bétulas), referia-se originalmente a uma pequena vila polonesa que foi destruída para que o campo pudesse ser construído. Em 27 de abril de 1940, Heinrich Himmler, o Reichsführer da SS, deu ordens para que a área dos antigos alojamentos da artilharia do exército, no local agora oficialmente nominado Auschwitz, ex-Oświęcim, fosse transformada em campos de concentração. No complexo construído, Auschwitz II–Birkenau foi designado por ele como campo de extermínio e o lugar para a Solução Final dos judeus. Entre o começo de 1942 e o fim de 1944, trens transportaram judeus de toda a Europa ocupada para as câmaras de gás do campo. O primeiro comandante, Rudolf Höss, testemunhou depois da guerra, no Julgamento de Nuremberg, que mais de três milhões de pessoas haviam morrido ali, 2.500.000 gaseificadas e 500.000 de fome e doenças. Hoje em dia os números mais aceitos são em torno de 1,3 milhão, sendo 90% deles de judeus. Outros deportados para Auschwitz e executados foram 150 mil poloneses, 23 mil ciganos romenos, 15 mil prisioneiros de guerra soviéticos, cerca de 400 Testemunhas de Jeová e dezenas de milhares de pessoas de diversas nacionalidades.  Aqueles que não eram executados nas câmaras de gás morriam de fome, doenças infecciosas, trabalhos forçados, execuções individuais ou experiências médicas. Em 27 de janeiro de 1945 os campos foram libertados pelas tropas soviéticas, dia este que é comemorado mundialmente como o Dia Internacional da Lembrança do Holocausto, assim designado pela Assembleia Geral das Nações Unidas, resolução 60/7, em 1 de novembro de 2005, durante a 42º sessão plenária da Organização. Em 1947, a Polônia criou um museu no local de Auschwitz I e II, que desde então recebeu a visita de mais de 30 milhões de pessoas de todo mundo, que já passaram sob o portão de ferro que tem escrito em seu cimo o infame motto &quot;Arbeit macht frei&quot; (o trabalho liberta). Em 2002, a UNESCO declarou oficialmente as ruínas de Auschwitz-Birkenau como Patrimônio da Humanidade.</dbo:abstract>
+    <dbo:abstract xml:lang="zh">奥斯威辛集中營，或稱奧許維茲－比克瑙集中營（德语：Konzentrationslager Auschwitz-Birkenau，波兰语：Obóz Koncentracyjny Auschwitz-Birkenau；「奧許維茲」是奥斯威辛的德語名稱），是納粹德國時期建立最主要的集中營和滅絕營，位於波蘭南方、距波蘭第二大城克拉科夫西南60公里的小城奥斯威辛。 奧斯維辛集中營於1940年4月27日，由納粹德國親衛隊領導人希姆萊下令建造。1942年1月20日舉行的萬湖會議通過「最終解決方案」，透過滅絕營實行有系統的猶太人大屠殺行動，估計約有110萬人在奧斯維辛集中營被殺，超過九成遇害人都是猶太人。 奧斯維辛集中營共有3個主要營區，分別是奥斯威辛（一号营区）、比克瑙（二号营区）、莫諾維茨（三号营区）和39個小型的營地或工廠，最主要的目的是進行殺害猶太人或是對其收容者進行極為嚴苛的工作、集體處決或是進行不人道的人體實驗。 奧斯維辛集中營在1945年1月27日由蘇聯紅軍解放。1947年，波蘭國會立法將此改為紀念納粹大屠殺的博物館，即奧許維茲－比克瑙國家博物館，以做為第二次世界大戰中納粹德國統治期間，犯下惡名昭彰罪行的歷史見證。1979年，聯合國教科文組織將奧斯維辛集中營列入世界文化遺產。2007年，聯合國教科文組織把集中營命名為「奧斯維辛－比克瑙 德國納粹集中和滅絕營（1940-1945年）」</dbo:abstract>
+    <dbo:abstract xml:lang="fr">Auschwitz (en allemand : Konzentrationslager Auschwitz , « Camp de concentration d&#39;Auschwitz ») est le plus grand complexe concentrationnaire du Troisième Reich, à la fois camp de concentration et d&#39;extermination. Il est situé sur le territoire des localités d&#39;Oświęcim (Auschwitz en allemand) et de Brzezinka (Birkenau en allemand), annexées au Reich (province de Silésie) après l&#39;invasion de la Pologne. Ces camps de concentration et d&#39;extermination, dirigés par les SS, sont créés le 27 avril 1940 par Heinrich Himmler et libérés par l&#39;Armée rouge le 27 janvier 1945. En cinq années, plus de 1,1 million d&#39;hommes, de femmes et d&#39;enfants meurent à Auschwitz, dont 900 000 immédiatement à la sortie des trains qui les y transportaient. 90% de ces personnes étaient juives. Ces victimes, de ce que les nazis appelèrent la « solution finale », furent assassinées dans les chambres à gaz ou parfois par arme à feu, mais elles moururent aussi de maladies, de malnutrition, de mauvais traitements ou d&#39;expériences médicales. En raison de sa taille, Auschwitz est considéré comme le symbole des meurtres de masse commis par les nazis et plus particulièrement comme celui de la Shoah, au cours de laquelle près de six millions de Juifs furent assassinés. Comme les autres camps de concentration nazis, Auschwitz était sous les ordres de Heinrich Himmler et de la SS. Le responsable du camp fut le SS-Obersturmbannführer Rudolf Höss (du 1er mai 1940 au 1er décembre 1943, puis de nouveau entre mai et septembre 1944), remplacé entre temps par Arthur Liebehenschel, et ensuite par Richard Baer. Monument historique et culturel majeur, qui contribue au « devoir de mémoire », Auschwitz est inscrit depuis 1979 (3e session du Comité du patrimoine mondial) au patrimoine mondial en Pologne de l&#39;UNESCO.</dbo:abstract>
+    <dbo:abstract xml:lang="pl">Konzentrationslager Auschwitz, KL Auschwitz (Stammlager), w tym KL Birkenau (Auschwitz II) i KL Monowitz (Auschwitz III) – zespół niemieckich nazistowskich obozów koncentracyjnych, w tym obozu zagłady na terenie Oświęcimia i pobliskich miejscowości, istniejący w latach 1940-1945, symbol Holocaustu. Określany też mianem &quot;fabryki śmierci&quot;. Jedyny obóz koncentracyjny, znajdujący się na liście światowego dziedzictwa UNESCO, figuruje tam pod oficjalną nazwą Auschwitz-Birkenau. Niemiecki nazistowski obóz koncentracyjny i zagłady (1940-1945). Nazwy Auschwitz, Birkenau i Monowitz są niemieckimi odpowiednikami polskich nazw Oświęcim, Brzezinka i Monowice, stosowanymi po agresji Niemiec na Polskę w 1939 r. i aneksji tych ziem przez III Rzeszę. Oświęcim dekretem Hitlera z 8 października 1939 został wcielony do III Rzeszy i znalazł się administracyjnie w Niemczech, w powiecie bielskim (Landkreis Bielitz) rejencji katowickiej (Regierungsbezirk Kattowitz) prowincji Górnego Śląska (Provinz Oberschlesien). W 1940 r. na tych terenach władze niemieckie utworzyły obóz przeznaczony początkowo do osadzania więźniów politycznych i opozycji, głównie Polaków. Rozbudowywany był potem stopniowo w główne miejsce masowej eksterminacji około 1,1 miliona Żydów z całej Europy, a także 140–150 tysięcy Polaków, około 23 tysięcy Romów, około 12 tysięcy jeńców radzieckich oraz ofiar innych narodowości. W skład kompleksu KL Auschwitz weszły, w miarę jego rozbudowy: 
+*  Auschwitz I (Oświęcim) – pierwszy obóz (tzw. „obóz macierzysty”), głównie pracy przymusowej, pełniący również funkcję centrum zarządzającego dla całego kompleksu; 
+*  Auschwitz II – Birkenau (Brzezinka) – początkowo obóz koncentracyjny, potem także miejsce masowej eksterminacji, wyposażone w komory gazowe i krematoria; 
+*  Auschwitz III Monowitz (Monowice) – obóz pracy przymusowej w zakładach Buna-Werke koncernu IG Farben.</dbo:abstract>
+    <dbo:abstract xml:lang="it">Il template {{Coord}} ha riscontrato degli errori (istruzioni):Modulo:Wikidata:398: attempt to index field &#39;wikibase&#39; (a nil value) Per campo di concentramento di Auschwitz (in tedesco Konzentrationslager Auschwitz o anche KL Auschwitz) si intende il vasto complesso di campi di concentramento e di lavoro che formarono un sistema concentrazionario situato nelle vicinanze di Oświęcim (in tedesco Auschwitz), città della Polonia meridionale. Oltre al campo originario, denominato Auschwitz I, durante il periodo dell&#39;Olocausto, nacquero diversi altri campi del complesso, tra cui il famigerato campo di sterminio di Birkenau (Auschwitz II), situato a Birkenau (in polacco Brzezinka), il campo di lavoro di Monowitz (Auschwitz III), situato a Monowitz, (in polacco Monowice), e altri 45 sotto-campi costruiti durante l&#39;occupazione tedesca della Polonia in cui i deportati venivano utilizzati per lavorare nelle diverse industrie tedesche costruite nei dintorni. Il complesso dei campi di Auschwitz, il più grande mai realizzato dal nazismo, svolse un ruolo fondamentale nel progetto di &quot;soluzione finale della questione ebraica&quot; – eufemismo con il quale i nazisti indicarono lo sterminio degli ebrei (nel campo, tuttavia, trovarono la morte anche molte altre categorie di internati) – divenendo rapidamente il più efficiente centro di sterminio della Germania nazista. Auschwitz, nell&#39;immaginario collettivo, è diventato il simbolo universale del lager, nonché sinonimo di &quot;fabbrica della morte&quot;, realizzato nel cuore dell&#39;Europa orientale del XX secolo. Nel 1947 il parlamento polacco deliberò la creazione di un memoriale-museo che comprese l&#39;area di Auschwitz I e Auschwitz II. Nel 1979 il sito venne dichiarato patrimonio dell&#39;umanità dell&#39;UNESCO. La denominazione iniziale Auschwitz Concentration Camp verrà ufficialmente cambiata in Auschwitz Birkenau - German Nazi Concentration and Extermination Camp (1940-1945)  nel 2007, su richiesta della Polonia.</dbo:abstract>
+    <dbo:abstract xml:lang="ru">Концентрацио́нный ла́герь и ла́герь сме́рти Осве́нцим (Концентрационный лагерь и лагерь смерти Аушвиц: нем. Konzentrationslager Auschwitz, польск. Obóz Koncentracyjny Auschwitz; Концентрационный лагерь и лагерь смерти Биркенау: нем. Konzentrationslager Birkenau, польск. Obóz Koncentracyjny Birkenau, Концентрационный лагерь и лагерь смерти Аушвиц-Биркенау: нем. Konzentrationslager Auschwitz-Birkenau, польск. Obóz Koncentracyjny Auschwitz-Birkenau) — комплекс немецких концентрационных лагерей и лагерей смерти, располагавшийся в 1940—1945 годах к западу от Генерал-губернаторства, около города Освенцим, который в 1939 г. указом Гитлера был присоединён к территории Третьего рейха, в 60 км к западу от Кракова. В мировой практике принято использовать немецкое название «Аушвиц», а не польское «Освенцим», поскольку именно немецкое название использовалось нацистской администрацией. В советских и российских справочных изданиях и СМИ исторически преимущественно используется польское название, хотя немецкое постепенно входит в употребление. Лагерь освобождён 27 января 1945 года советскими войсками. День освобождения лагеря установлен ООН как Международный день памяти жертв Холокоста. Около 1,4 млн человек, из которых около 1,1 млн составляли евреи, были умерщвлены в Освенциме в 1941—1945 годах. В то же время по оценке историка Г. Д. Комкова в статье в Большой советской энциклопедии общее число жертв составило свыше 4 млн человек. Освенцим-Биркенау был крупнейшим и наиболее долго просуществовавшим из нацистских лагерей уничтожения, поэтому он стал одним из главных символов Холокоста. На территории лагеря в 1947 году был создан музей, который включён в список Всемирного наследия ЮНЕСКО. Музей зарегистрирован в Государственном реестре музеев Польши.</dbo:abstract>
+    <dbo:abstract xml:lang="en">Auschwitz concentration camp (German: Konzentrationslager Auschwitz, also KZ Auschwitz [kɔntsɛntʁaˈtsi̯oːnsˌlaːɡɐ ˈʔaʊʃvɪts] ) was a network of German Nazi concentration camps and extermination camps built and operated by the Third Reich in Polish areas annexed by Nazi Germany during World War II. It consisted of Auschwitz I (the original camp), Auschwitz II–Birkenau (a combination concentration/extermination camp), Auschwitz III–Monowitz (a labor camp to staff an IG Farben factory), and 45 satellite camps. Auschwitz I was first constructed to hold Polish political prisoners, who began to arrive in May 1940. The first extermination of prisoners took place in September 1941, and Auschwitz II–Birkenau went on to become a major site of the Nazi Final Solution to the Jewish Question. From early 1942 until late 1944, transport trains delivered Jews to the camp&#39;s gas chambers from all over German-occupied Europe, where they were killed with the pesticide Zyklon B. At least 1.1 million prisoners died at Auschwitz, around 90 percent of them Jewish; approximately 1 in 6 Jews killed in the Holocaust died at the camp. Others deported to Auschwitz included 150,000 Poles, 23,000 Romani and Sinti, 15,000 Soviet prisoners of war, 400 Jehovah&#39;s Witnesses, and tens of thousands of others of diverse nationalities, including an unknown number of homosexuals. Many of those not killed in the gas chambers died of starvation, forced labor, infectious diseases, individual executions, and medical experiments. In the course of the war, the camp was staffed by 7,000 members of the German Schutzstaffel (SS), approximately 12 percent of whom were later convicted of war crimes. Some, including camp commandant Rudolf Höss, were executed. The Allied Powers refused to believe early reports of the atrocities at the camp, and their failure to bomb the camp or its railways remains controversial. One hundred forty-four prisoners are known to have escaped from Auschwitz successfully, and on October 7, 1944, two Sonderkommando units—prisoners assigned to staff the gas chambers—launched a brief, unsuccessful uprising. As Soviet troops approached Auschwitz in January 1945, most of its population was evacuated and sent on a death march. The prisoners remaining at the camp were liberated on January 27, 1945, a day now commemorated as International Holocaust Remembrance Day. In the following decades, survivors, such as Primo Levi, Viktor Frankl, and Elie Wiesel, wrote memoirs of their experiences in Auschwitz, and the camp became a dominant symbol of the Holocaust. In 1947, Poland founded the Auschwitz-Birkenau State Museum on the site of Auschwitz I and II, and in 1979, it was named a UNESCO World Heritage Site.</dbo:abstract>
+    <dbo:abstract xml:lang="de">Das Konzentrationslager Auschwitz, auch KZ Auschwitz genannt, war ein nationalsozialistischer Lagerkomplex, der eine Doppelfunktion als Konzentrationslager und Vernichtungslager hatte. Er bestand aus dem Konzentrationslager Auschwitz (Stammlager, bzw. mit Nr. I bezeichnet), dem Vernichtungslager Birkenau - Konzentrationslager Auschwitz II, dem Konzentrationslager Monowitz (bzw. als Nebenlager geführt) und ca. 50 weiteren Außenlagern. Der Lagerkomplex befand sich im vom Deutschen Reich annektierten Teil von Polen. Die SS betrieb den Lagerkomplex von 1940 bis 1945 am Westrand der polnischen Stadt Oświęcim (dt.: Auschwitz). Die europaweit gefangen genommenen Menschen wurden per Bahn in das KZ Auschwitz transportiert. Etwa 90 % waren Juden. Die Herkunftsländer waren Belgien, Deutschland, Frankreich, Griechenland, Italien, Jugoslawien, Luxemburg, Niederlande, Österreich, Polen, Rumänien, Sowjetunion, Tschechoslowakei und Ungarn. Die Zahl der Todesopfer beläuft sich auf 1,1 bis 1,5 Millionen. Am 27. Januar 1945 befreite die Rote Armee den Lagerkomplex. In der Nachkriegszeit ist der Name „Auschwitz“ zu einem Symbol für den Holocaust geworden. Der Jahrestag der Befreiung des KZ Auschwitz ist seit 1996 in Deutschland, seit 2005 international der Tag des Gedenkens an die Opfer des Nationalsozialismus.</dbo:abstract>
+    <dbo:activeYears>May 1940 – January 1945</dbo:activeYears>
+    <dbo:alternativeName xml:lang="en">Birkenau</dbo:alternativeName>
+    <dbo:commander rdf:resource="http://dbpedia.org/resource/Arthur_Liebehenschel" />
+    <dbo:commander rdf:resource="http://dbpedia.org/resource/Rudolf_Höss" />
+    <dbo:depictionDescription xml:lang="en">The main entrance to Auschwitz II (Birkenau)</dbo:depictionDescription>
+    <dbo:imageSize rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">275</dbo:imageSize>
+    <dbo:liberationDate>Soviet Union, January 27, 1945</dbo:liberationDate>
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Oświęcim" />
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Nazi_Germany" />
+    <dbo:mapCaption>Location of Auschwitz in contemporary Poland</dbo:mapCaption>
+    <dbo:notableWork rdf:resource="http://dbpedia.org/resource/If_This_Is_a_Man" />
+    <dbo:notableWork rdf:resource="http://dbpedia.org/resource/Man&#39;s_Search_for_Meaning" />
+    <dbo:notableWork rdf:resource="http://dbpedia.org/resource/Night_(book)" />
+    <dbo:numberOfDeaths>1.1 million (estimated)</dbo:numberOfDeaths>
+    <dbo:operator rdf:resource="http://dbpedia.org/resource/Schutzstaffel" />
+    <dbo:operator rdf:resource="http://dbpedia.org/resource/Soviet_Union" />
+    <dbo:originallyUsedFor>Army barracks</dbo:originallyUsedFor>
+    <dbo:type rdf:resource="http://dbpedia.org/resource/Concentration_camp" />
+    <dbo:type rdf:resource="http://dbpedia.org/resource/Extermination_camp" />
+    <dbo:victim rdf:resource="http://dbpedia.org/resource/Imre_Kertész" />
+    <dbo:victim rdf:resource="http://dbpedia.org/resource/Witold_Pilecki" />
+    <dbo:victim rdf:resource="http://dbpedia.org/resource/Edith_Stein" />
+    <dbo:victim rdf:resource="http://dbpedia.org/resource/Viktor_Frankl" />
+    <dbo:victim rdf:resource="http://dbpedia.org/resource/Anne_Frank" />
+    <dbo:victim rdf:resource="http://dbpedia.org/resource/Else_Ury" />
+    <dbo:victim rdf:resource="http://dbpedia.org/resource/Primo_Levi" />
+    <dbo:victim rdf:resource="http://dbpedia.org/resource/Elie_Wiesel" />
+    <dbo:victim rdf:resource="http://dbpedia.org/resource/Fritz_Löhner-Beda" />
+    <dbo:victim rdf:resource="http://dbpedia.org/resource/Jews" />
+    <dbo:victim rdf:resource="http://dbpedia.org/resource/Otto_Frank" />
+    <dbo:victim rdf:resource="http://dbpedia.org/resource/Simone_Veil" />
+    <dbo:victim rdf:resource="http://dbpedia.org/resource/Romani_people" />
+    <dbo:victim rdf:resource="http://dbpedia.org/resource/Poles" />
+    <dbo:victim rdf:resource="http://dbpedia.org/resource/Rudolf_Vrba" />
+    <dbo:victim rdf:resource="http://dbpedia.org/resource/Maximilian_Kolbe" />
+    <dbo:victims>Anne Frank,Otto Frank,Viktor Frankl,Imre Kertész,Maximilian Kolbe,Primo Levi,Witold Pilecki,Edith Stein,Simone Veil,Rudolf Vrba,Elie Wiesel,Fritz Löhner-Beda,Else Ury</dbo:victims>
+    <dbo:victims>MainlyJews,Poles,Romani, Soviet soldiers</dbo:victims>
+    <georss:point>50.035833333333336 19.178333333333335</georss:point>
+    <dbp:align rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">right</dbp:align>
+    <dbp:caption rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Hungarian Jews on the Judenrampe  after disembarking from the transport trains. To be sent rechts!—to the right—meant the person had been chosen as a laborer; links!—to the left—meant death in the gas chambers. Photo from the Auschwitz Album .</dbp:caption>
+    <dbp:caption rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Guard tower at Auschwitz-Birkenau</dbp:caption>
+    <dbp:caption rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Interior of the crematorium at</dbp:caption>
+    <dbp:caption rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Hungarian Jews not selected as laborers were murdered in the gas chambers almost immediately after arrival. Photo from the Auschwitz Album .</dbp:caption>
+    <dbp:caption rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Latrine at Auschwitz-Birkenau</dbp:caption>
+    <dbp:caption rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Remaining prisoner barracks at Auschwitz-Birkenau</dbp:caption>
+    <dbp:caption rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">museum</dbp:caption>
+    <dbp:caption rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Auschwitz I</dbp:caption>
+    <dbp:coordinatesDisplay rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">inline,title</dbp:coordinatesDisplay>
+    <dbp:coordinatesType rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">region:PL-MA_type:landmark</dbp:coordinatesType>
+    <dbp:direction rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">vertical</dbp:direction>
+    <dbp:direction rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">horizontal</dbp:direction>
+    <dbp:image rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</dbp:image>
+    <dbp:image rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Selection Birkenau ramp.jpg</dbp:image>
+    <dbp:image rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Bundesarchiv Bild 183-N0827-318, KZ Auschwitz, Ankunft ungarischer Juden.jpg</dbp:image>
+    <dbp:image rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Toaletter på auschwitz 2.jpg</dbp:image>
+    <dbp:image rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Crematorium at Auschwitz I 2012.jpg</dbp:image>
+    <dbp:image rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Birkenau-guard-post.JPG</dbp:image>
+    <dbp:latd rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">50</dbp:latd>
+    <dbp:latm rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</dbp:latm>
+    <dbp:latns rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">N</dbp:latns>
+    <dbp:lats rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">9</dbp:lats>
+    <dbp:locationMap rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Poland</dbp:locationMap>
+    <dbp:longd rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">19</dbp:longd>
+    <dbp:longew rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">E</dbp:longew>
+    <dbp:longm rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">10</dbp:longm>
+    <dbp:longs rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">42</dbp:longs>
+    <dbp:width rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">197</dbp:width>
+    <dbp:width rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">200</dbp:width>
+    <dbp:width rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">180</dbp:width>
+    <dbp:wordnet_type rdf:resource="http://www.w3.org/2006/03/wn/wn20/instances/synset-monument-noun-2" />
+    <ns10:hypernym rdf:resource="http://dbpedia.org/resource/Network" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Extermination_camp">
+    <dbp:camp rdf:resource="http://dbpedia.org/resource/Auschwitz_concentration_camp" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/René_Blum_(ballet)">
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Auschwitz_concentration_camp" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Elio_Morpurgo">
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Auschwitz_concentration_camp" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Robert_Remak_(mathematician)">
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Auschwitz_concentration_camp" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bronisław_Czech">
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Auschwitz_concentration_camp" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/James_Simon_(composer)">
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Auschwitz_concentration_camp" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Rutka_Laskier">
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Auschwitz_concentration_camp" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Simon_Okker">
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Auschwitz_concentration_camp" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kurt_Gerron">
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Auschwitz_concentration_camp" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kurt_Grelling">
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Auschwitz_concentration_camp" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Petr_Ginz">
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Auschwitz_concentration_camp" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Arthur_Bergen">
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Auschwitz_concentration_camp" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/David_Vogel_(author)">
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Auschwitz_concentration_camp" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Oskar_Rosenfeld">
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Auschwitz_concentration_camp" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bedřich_Fritta">
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Auschwitz_concentration_camp" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mommie_Schwarz">
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Auschwitz_concentration_camp" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Laure_Gatet">
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Auschwitz_concentration_camp" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Moshe_Merin">
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Auschwitz_concentration_camp" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Auschwitz-Birkenau_extermination_camp">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Auschwitz_concentration_camp" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ernst_Cohen">
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Auschwitz_concentration_camp" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Abraham_Icek_Tuschinski">
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Auschwitz_concentration_camp" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Samuel_Jessurun_de_Mesquita">
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Auschwitz_concentration_camp" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bernard_Natan">
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Auschwitz_concentration_camp" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Erich_Muhsfeldt">
+    <dbo:knownFor rdf:resource="http://dbpedia.org/resource/Auschwitz_concentration_camp" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Adolphe_Féder">
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Auschwitz_concentration_camp" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Abraham_Mok">
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Auschwitz_concentration_camp" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Auschwitz_(concentration_camp)">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Auschwitz_concentration_camp" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Aucshwitz">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Auschwitz_concentration_camp" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Karel_Hartmann">
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Auschwitz_concentration_camp" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Holocaust_in_Poland">
+    <dbp:data rdf:resource="http://dbpedia.org/resource/Auschwitz_concentration_camp" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Józef_Cyrek">
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Auschwitz_concentration_camp" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Auschwitz">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Auschwitz_concentration_camp" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Birkenau">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Auschwitz_concentration_camp" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Maximilian_Kolbe">
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Auschwitz_concentration_camp" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Wilhelm_Brasse">
+    <dbo:knownFor rdf:resource="http://dbpedia.org/resource/Auschwitz_concentration_camp" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hans_Aumeier">
+    <dbo:knownFor rdf:resource="http://dbpedia.org/resource/Auschwitz_concentration_camp" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Victor_Perez">
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Auschwitz_concentration_camp" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Auschwitch">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Auschwitz_concentration_camp" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Auswitch">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Auschwitz_concentration_camp" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Auswitz">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Auschwitz_concentration_camp" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Auswitzch">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Auschwitz_concentration_camp" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Béatrice_Reinach">
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Auschwitz_concentration_camp" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Franceska_Mann">
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Auschwitz_concentration_camp" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Baruch_Lopes_Leão_de_Laguna">
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Auschwitz_concentration_camp" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ivana_Hirschmann">
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Auschwitz_concentration_camp" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lavoslav_Singer">
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Auschwitz_concentration_camp" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Auschwitz_extermination_camp">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Auschwitz_concentration_camp" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Aushwitz">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Auschwitz_concentration_camp" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Józef_Noji">
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Auschwitz_concentration_camp" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Shimon_Sofer_(II)">
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Auschwitz_concentration_camp" />
+    <dbp:deathPlace rdf:resource="http://dbpedia.org/resource/Auschwitz_concentration_camp" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Auchwitz">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Auschwitz_concentration_camp" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Auschwitz_Birkenau_concentration_camp">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Auschwitz_concentration_camp" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Józef_Kowalski_(priest)">
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Auschwitz_concentration_camp" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Otti_Berger">
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Auschwitz_concentration_camp" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Irène_Némirovsky">
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Auschwitz_concentration_camp" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Menachem_Birnbaum">
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Auschwitz_concentration_camp" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Auschwitz_Birkenau">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Auschwitz_concentration_camp" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Auschwitz_II_Birkenau">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Auschwitz_concentration_camp" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Anna_Zahorska">
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Auschwitz_concentration_camp" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Franz_Koritschoner">
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Auschwitz_concentration_camp" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Auschwitz_I">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Auschwitz_concentration_camp" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/KZ_Auschwitz">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Auschwitz_concentration_camp" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Augustyn_Suski">
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Auschwitz_concentration_camp" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Stanisława_Leszczyńska">
+    <dbo:knownFor rdf:resource="http://dbpedia.org/resource/Auschwitz_concentration_camp" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Eva_and_Abraham_Beem">
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Auschwitz_concentration_camp" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Zalman_Gradowski">
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Auschwitz_concentration_camp" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Arno_Nadel">
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Auschwitz_concentration_camp" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Judith_Magyar_Isaacson">
+    <dbo:knownFor rdf:resource="http://dbpedia.org/resource/Auschwitz_concentration_camp" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jonas_Slier">
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Auschwitz_concentration_camp" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Auschwitz-Birkenau,_German_Nazi_Concentration_and_Extermination_Camp_(1940-1945)">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Auschwitz_concentration_camp" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jakob_Edelstein">
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Auschwitz_concentration_camp" />
+    <dbp:deathPlace rdf:resource="http://dbpedia.org/resource/Auschwitz_concentration_camp" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Miklós_Nyiszli">
+    <dbo:knownFor rdf:resource="http://dbpedia.org/resource/Auschwitz_concentration_camp" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Otto_Wallburg">
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Auschwitz_concentration_camp" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Reinhold_Strassmann">
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Auschwitz_concentration_camp" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ryszard_Świętochowski">
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Auschwitz_concentration_camp" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Benjamin_Fondane">
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Auschwitz_concentration_camp" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Józef_Siemieński">
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Auschwitz_concentration_camp" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Regina_Jonas">
+    <dbp:deathPlace rdf:resource="http://dbpedia.org/resource/Auschwitz_concentration_camp" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Edith_Frank">
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Auschwitz_concentration_camp" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Auschwitz-Birkenau">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Auschwitz_concentration_camp" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Walter_Süskind">
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Auschwitz_concentration_camp" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Estella_Agsteribbe">
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Auschwitz_concentration_camp" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tatjana_Barbakoff">
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Auschwitz_concentration_camp" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Edward_Gött-Getyński">
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Auschwitz_concentration_camp" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Fritz_Weiss">
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Auschwitz_concentration_camp" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Henri_Abraham">
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Auschwitz_concentration_camp" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Julius_Hirsch">
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Auschwitz_concentration_camp" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ala_Gertner">
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Auschwitz_concentration_camp" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Paul_Scheuerpflug">
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Auschwitz_concentration_camp" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Roman_Rybarski">
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Auschwitz_concentration_camp" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Harry_Waldau">
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Auschwitz_concentration_camp" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Robert_Liebmann">
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Auschwitz_concentration_camp" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Eddy_Hamel">
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Auschwitz_concentration_camp" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Árpád_Weisz">
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Auschwitz_concentration_camp" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Alberto_Errera">
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Auschwitz_concentration_camp" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Louise_Ochsé">
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Auschwitz_concentration_camp" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Auschwitz_III">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Auschwitz_concentration_camp" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Former_Nazi_German_Concentration_Camp_of_Auschwitz">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Auschwitz_concentration_camp" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Former_Nazi_German_Concentration_Camp_of_Auschwitz">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Auschwitz_concentration_camp" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Auschwitz-Birkenau_concentration_camp">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Auschwitz_concentration_camp" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Birkenau_concentration_camp">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Auschwitz_concentration_camp" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Berthold_Guthmann">
+    <dbp:deathPlace rdf:resource="http://dbpedia.org/resource/Auschwitz_concentration_camp" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Rosette_Wolczak">
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Auschwitz_concentration_camp" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Auschwitz_II">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Auschwitz_concentration_camp" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mayer_Hersh">
+    <dbo:knownFor rdf:resource="http://dbpedia.org/resource/Auschwitz_concentration_camp" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Birchenau">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Auschwitz_concentration_camp" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Medical_experiments_at_Auschwitz">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Auschwitz_concentration_camp" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Medical_experiments_at_aushwitz">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Auschwitz_concentration_camp" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Miroslav_Šalom_Freiberger">
+    <dbp:deathPlace rdf:resource="http://dbpedia.org/resource/Auschwitz_concentration_camp" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Aushwitz_concentration_camp">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Auschwitz_concentration_camp" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Auschwitz_II_extermination_camp">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Auschwitz_concentration_camp" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Auschwitz_I_concentration_camp">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Auschwitz_concentration_camp" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Auschwitz,_Poland">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Auschwitz_concentration_camp" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Auschwitz_II-Birkenau">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Auschwitz_concentration_camp" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Auschwitz_concentration_camp">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Auschwitz_concentration_camp" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Moshe_Sofer_(II)">
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Auschwitz_concentration_camp" />
+  </rdf:Description>
+</rdf:RDF>

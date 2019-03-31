@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:dct="http://purl.org/dc/terms/"
+	xmlns:dbo="http://dbpedia.org/ontology/"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:prov="http://www.w3.org/ns/prov#" >
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Buddha_(disambiguation)">
+    <dbo:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/Buddha_(title)" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Buddha_(title)">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing" />
+    <rdfs:label xml:lang="en">Buddha (title)</rdfs:label>
+    <rdfs:comment xml:lang="en">Buddha (Sanskrit: बुद्ध) refers to one who have achieved enlightenment and Buddhahood, and has fully comprehended the Four Noble Truths. Contemporary, the term refers to Siddharta Gautama, the teacher and founder of Buddhism, who is simply known as &quot;the Buddha&quot;. The term also refers to others who have achieved enlightenment and Buddhahood, such as the 27 Buddhas who preceded Gautama, Amitābha and the future Buddha, Maitreya.</rdfs:comment>
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q21509147" />
+    <owl:sameAs rdf:resource="http://id.dbpedia.org/resource/Buddha" />
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Buddha_(title)" />
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q21509147" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:5th_century_BC_in_religion" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Buddhas" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Buddhist_philosophers" />
+    <dbo:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">48594911</dbo:wikiPageID>
+    <dbo:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">744224287</dbo:wikiPageRevisionID>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Buddha_(title)" />
+    <prov:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Buddha_(title)?oldid=744224287" />
+    <dbo:abstract xml:lang="en">Buddha (Sanskrit: बुद्ध) refers to one who have achieved enlightenment and Buddhahood, and has fully comprehended the Four Noble Truths. Contemporary, the term refers to Siddharta Gautama, the teacher and founder of Buddhism, who is simply known as &quot;the Buddha&quot;. The term also refers to others who have achieved enlightenment and Buddhahood, such as the 27 Buddhas who preceded Gautama, Amitābha and the future Buddha, Maitreya.</dbo:abstract>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Buddha_(title)">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Buddha_(title)" />
+  </rdf:Description>
+</rdf:RDF>

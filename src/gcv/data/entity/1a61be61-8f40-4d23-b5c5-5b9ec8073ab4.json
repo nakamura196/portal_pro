@@ -1,0 +1,53 @@
+{
+    "entities": [
+        {
+            "mentions": [
+                {
+                    "text": {
+                        "beginOffset": 0,
+                        "content": "東京大学入学志願者名票\t F0040/S3/18\t 1954-02-99\t アイテム\t 小柳恵太朗\t 公開"
+                    },
+                    "type": "PROPER"
+                }
+            ],
+            "metadata": {},
+            "name": "東京大学入学志願者名票 F0040/S3/18 1954-02-99 アイテム 小柳恵太朗 公開",
+            "salience": 0.3508474,
+            "type": "ORGANIZATION"
+        },
+        {
+            "mentions": [
+                {
+                    "text": {
+                        "beginOffset": 103,
+                        "content": "本郷"
+                    },
+                    "type": "PROPER"
+                }
+            ],
+            "metadata": {
+                "mid": "/m/0229js",
+                "wikipedia_url": "https://en.wikipedia.org/wiki/Hongō,_Tokyo"
+            },
+            "name": "本郷",
+            "salience": 0.3372703,
+            "type": "LOCATION"
+        },
+        {
+            "mentions": [
+                {
+                    "text": {
+                        "beginOffset": 111,
+                        "content": "紙"
+                    },
+                    "type": "COMMON"
+                }
+            ],
+            "metadata": {},
+            "name": "紙",
+            "salience": 0.31188235,
+            "type": "WORK_OF_ART"
+        }
+    ],
+    "language": "ja"
+}

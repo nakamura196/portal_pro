@@ -1,0 +1,103 @@
+{
+    "entities": [
+        {
+            "mentions": [
+                {
+                    "text": {
+                        "beginOffset": 0,
+                        "content": "英国"
+                    },
+                    "type": "PROPER"
+                },
+                {
+                    "text": {
+                        "beginOffset": 78,
+                        "content": "英国"
+                    },
+                    "type": "PROPER"
+                }
+            ],
+            "metadata": {
+                "mid": "/m/07ssc",
+                "wikipedia_url": "https://en.wikipedia.org/wiki/United_Kingdom"
+            },
+            "name": "英国",
+            "salience": 0.26335618,
+            "type": "LOCATION"
+        },
+        {
+            "mentions": [
+                {
+                    "text": {
+                        "beginOffset": 33,
+                        "content": "核実験"
+                    },
+                    "type": "COMMON"
+                },
+                {
+                    "text": {
+                        "beginOffset": 111,
+                        "content": "核実験"
+                    },
+                    "type": "COMMON"
+                }
+            ],
+            "metadata": {},
+            "name": "核実験",
+            "salience": 0.26136982,
+            "type": "EVENT"
+        },
+        {
+            "mentions": [
+                {
+                    "text": {
+                        "beginOffset": 125,
+                        "content": "ロンドン発　\t 朝日新聞"
+                    },
+                    "type": "PROPER"
+                }
+            ],
+            "metadata": {},
+            "name": "ロンドン発 朝日新聞",
+            "salience": 0.17125441,
+            "type": "EVENT"
+        },
+        {
+            "mentions": [
+                {
+                    "text": {
+                        "beginOffset": 160,
+                        "content": "朝日新聞社"
+                    },
+                    "type": "PROPER"
+                }
+            ],
+            "metadata": {
+                "mid": "/m/01ttwm",
+                "wikipedia_url": "https://en.wikipedia.org/wiki/Asahi_Shimbun"
+            },
+            "name": "朝日新聞社",
+            "salience": 0.17125441,
+            "type": "ORGANIZATION"
+        },
+        {
+            "mentions": [
+                {
+                    "text": {
+                        "beginOffset": 180,
+                        "content": "ja"
+                    },
+                    "type": "PROPER"
+                }
+            ],
+            "metadata": {
+                "mid": "/g/1q6jfqkhz",
+                "wikipedia_url": "https://en.wikipedia.org/wiki/Japan_Agricultural_Cooperatives"
+            },
+            "name": "ja",
+            "salience": 0.13276517,
+            "type": "ORGANIZATION"
+        }
+    ],
+    "language": "ja"
+}

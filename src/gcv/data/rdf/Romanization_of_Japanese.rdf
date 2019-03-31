@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:dct="http://purl.org/dc/terms/"
+	xmlns:dbo="http://dbpedia.org/ontology/"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:prov="http://www.w3.org/ns/prov#"
+	xmlns:dbp="http://dbpedia.org/property/"
+	xmlns:ns8="http://purl.org/linguistics/gold/" >
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Romanised_Japanese">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Romanization_of_Japanese" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Romanji">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Romanization_of_Japanese" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Japanese_romanization">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Romanization_of_Japanese" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Japanese_Romanization">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Romanization_of_Japanese" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Romanization_of_Japanese">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Usher110741821" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Escort110063461" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Person100007846" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Object100002684" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoLegalActor" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoLegalActorGeo" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PhysicalEntity100001930" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Attendant109821831" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Organism100004475" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/CausalAgent100007347" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatPhoneticGuides" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Whole100003553" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/LivingThing100004258" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Worker109632518" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Assistant109815790" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Software" />
+    <rdfs:label xml:lang="nl">Romaji</rdfs:label>
+    <rdfs:label xml:lang="pl">Rōmaji</rdfs:label>
+    <rdfs:label xml:lang="en">Romanization of Japanese</rdfs:label>
+    <rdfs:label xml:lang="ar">روماجي</rdfs:label>
+    <rdfs:label xml:lang="fr">Rōmaji</rdfs:label>
+    <rdfs:label xml:lang="it">Rōmaji</rdfs:label>
+    <rdfs:label xml:lang="ru">Ромадзи</rdfs:label>
+    <rdfs:label xml:lang="ja">ローマ字</rdfs:label>
+    <rdfs:label xml:lang="pt">Rōmaji</rdfs:label>
+    <rdfs:label xml:lang="zh">日语罗马字</rdfs:label>
+    <rdfs:label xml:lang="es">Rōmaji</rdfs:label>
+    <rdfs:comment xml:lang="nl">Rōmaji is een Japans woord voor het Latijnse of Romeinse alfabet en de afzonderlijke letters daarvan. Het woord rōmaji is een samenstelling van het Japanse woord rōma (een verbastering van &#39;Rome&#39;) en ji (字, &#39;teken&#39;, &#39;letter&#39;). Het woord wordt evenwel niet alleen door Japanners gebruikt, maar ook door buitenlandse vertalers of andere deskundigen om te verwijzen naar Japans dat is getranslitereerd naar Latijnse letters.</rdfs:comment>
+    <rdfs:comment xml:lang="ru">Ромадзи (яп. ローマ字 ро:мадзи (инф.), букв.: «латинские буквы») — совокупность систем транслитерации японской письменности, созданных для записи слов японского языка латиницей. Ромадзи применяется в различных целях. В крупных японских городах с её помощью дублируются указатели на улицах и в метро; она используется в словарях, учебниках, разговорниках; иногда применяется и в японских текстах в качестве средства выделения; японские компании, работающие на международных рынках, записывают ромадзи свои названия и имена сотрудников при зарубежных контактах.</rdfs:comment>
+    <rdfs:comment xml:lang="fr">Le terme rōmaji (ローマ字, ou plus anciennement 羅馬字) désigne les caractères de l&#39;alphabet romain utilisés dans le cadre de l&#39;écriture japonaise. Ils se surajoutent aux trois systèmes graphiques initiaux du japonais : les kanjis, les hiraganas et les katakanas.</rdfs:comment>
+    <rdfs:comment xml:lang="en">The romanization of Japanese is the application of the Latin script to write the Japanese language. This method of writing is sometimes referred to in English as rōmaji (ローマ字?, literally, &quot;roman letters&quot;) (Japanese pronunciation: [ɽóːmadʑi] ), usually transcribed romaji, sometimes incorrectly transliterated with an n as romanji. There are several different romanization systems. The three main ones are Hepburn romanization, Kunrei-shiki romanization (ISO 3602), and Nihon-shiki romanization (ISO 3602 Strict). Variants of the Hepburn system are the most widely used.</rdfs:comment>
+    <rdfs:comment xml:lang="zh">日语罗马字（日語：／ローマじ Rōmaji ?，指代日语时常称为罗马音）是使用拉丁字母来表示日语发音的一种表示法。而罗马字一共有三种体系:训令式罗马字、黑本式罗马字与日本式罗马字。</rdfs:comment>
+    <rdfs:comment xml:lang="pl">Rōmaji (jap. ローマ字 rōmaji, znaki rzymskie) – latynizacja języka japońskiego, zapis transkrypcyjny języka japońskiego za pomocą alfabetu łacińskiego.</rdfs:comment>
+    <rdfs:comment xml:lang="ja">ローマ字（ローマじ）は、仮名文字をラテン文字に転写する際の規則全般（ローマ字表記法）、またはラテン文字で表記された日本語（ローマ字つづりの日本語）を表す。</rdfs:comment>
+    <rdfs:comment xml:lang="ar">25بك المحتوى هنا ينقصه الاستشهاد بمصادر. يرجى إيراد مصادر موثوق بها. أي معلومات غير موثقة يمكن التشكيك بها وإزالتها. (مارس 2016) الروماجي (باليابانية: ローマ字 ‏ rōmaji ‏ عن هذا الملف Ja-Romaji.oga (؟·معلومات)) يقصد به استخدام الحروف اللاتينية لكتابة اللغة اليابانية التي تكتب اعتياديا بحروف لوغوغرامية مستعارة من الصينية (كانجي) وحروف أخرى مقطعية (كانا). يستخدم الرومدزي بغرض تسهيل قراءة النصوص اليابانية الموجهة لمن لا يعرفون اللغة، كالأسماء في لافتات الشوارع وجوازات السفر، والقواميس والكتب الدراسية للدارسين الأجانب للغة. كلمة &quot;رومدزي&quot; أحيانا تكتب بشكل خاطئ &quot;رومانـجي&quot;.</rdfs:comment>
+    <rdfs:comment xml:lang="es">El rōmaji (ローマ字 &#39;&#39;rōmaji&#39;&#39;? lit. «caracteres romanos»), en japonés se refiere en grandes rasgos al alfabeto latino. En Occidente, se suele emplear este término para referirse a la escritura de la lengua japonesa en letras romanas o latinas en contraste con la mezcla habitual de kanji, hiragana y katakana. Los kanji son ideogramas, el hiragana y katakana son silabarios, utilizados en el Idioma japonés. Algunos lo escriben Rōmanji, siendo ésta una falta de ortografía bastante común.</rdfs:comment>
+    <rdfs:comment xml:lang="pt">O rōmaji (ローマ字 rōmaji? , lit. &quot;letra romana&quot;) é empregado na transcrição fonética da língua japonesa para o alfabeto latino (ou romano). O japonês normalmente é escrito em kanjis (mais de 3 mil ideogramas), hiraganas e katakanas (46 caracteres em cada silabário). A romanização está presente onde há mensagens destinadas a estrangeiros, como nas sinalizações de rua, em passaportes, em dicionários e em livros didáticos para os estudantes da língua. É a transliteração da língua japonesa.</rdfs:comment>
+    <rdfs:comment xml:lang="it">Il rōmaji (ローマ字? lett. &quot;caratteri romani&quot;) è un sistema di scrittura usato in Giappone. Utilizza le lettere dell&#39;alfabeto latino per la romanizzazione della lingua giapponese e dei suoi altri tre sistemi di scrittura: lo hiragana, il katakana e quello logografico basato sui caratteri kanji. Esistono diversi sistemi di trascrizione in rōmaji: i più usati sono il sistema Hepburn e il sistema Kunrei.</rdfs:comment>
+    <owl:sameAs rdf:resource="http://cs.dbpedia.org/resource/Rómadži" />
+    <owl:sameAs rdf:resource="http://nl.dbpedia.org/resource/Romaji" />
+    <owl:sameAs rdf:resource="http://yago-knowledge.org/resource/Romanization_of_Japanese" />
+    <owl:sameAs rdf:resource="http://fr.dbpedia.org/resource/Rōmaji" />
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Romanization_of_Japanese" />
+    <owl:sameAs rdf:resource="http://it.dbpedia.org/resource/Rōmaji" />
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q192509" />
+    <owl:sameAs rdf:resource="http://el.dbpedia.org/resource/Ρομάτζι" />
+    <owl:sameAs rdf:resource="http://pt.dbpedia.org/resource/Rōmaji" />
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.06km2" />
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q192509" />
+    <owl:sameAs rdf:resource="http://ko.dbpedia.org/resource/일본어_로마자_표기법" />
+    <owl:sameAs rdf:resource="http://id.dbpedia.org/resource/Romaji" />
+    <owl:sameAs rdf:resource="http://pl.dbpedia.org/resource/Rōmaji" />
+    <owl:sameAs rdf:resource="http://ja.dbpedia.org/resource/ローマ字" />
+    <owl:sameAs rdf:resource="http://es.dbpedia.org/resource/Rōmaji" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Phonetic_guides" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Romanization_of_Japanese" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Romanization" />
+    <dbo:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">26263954</dbo:wikiPageID>
+    <dbo:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">742551371</dbo:wikiPageRevisionID>
+    <dbo:wikiPageExternalLink rdf:resource="http://www.halcat.com/" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.webcitation.org/6GcxnbzSJ" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.gsi.go.jp/common/000024858.pdf" />
+    <dbo:wikiPageExternalLink rdf:resource="https://web.archive.org/web/20080416175444/http:/www.cic.sfu.ca/tqj/JapaneseStudy/romaji.html" />
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Romanization_of_Japanese" />
+    <prov:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Romanization_of_Japanese?oldid=742551371" />
+    <dbo:abstract xml:lang="ja">ローマ字（ローマじ）は、仮名文字をラテン文字に転写する際の規則全般（ローマ字表記法）、またはラテン文字で表記された日本語（ローマ字つづりの日本語）を表す。</dbo:abstract>
+    <dbo:abstract xml:lang="en">The romanization of Japanese is the application of the Latin script to write the Japanese language. This method of writing is sometimes referred to in English as rōmaji (ローマ字?, literally, &quot;roman letters&quot;) (Japanese pronunciation: [ɽóːmadʑi] ), usually transcribed romaji, sometimes incorrectly transliterated with an n as romanji. There are several different romanization systems. The three main ones are Hepburn romanization, Kunrei-shiki romanization (ISO 3602), and Nihon-shiki romanization (ISO 3602 Strict). Variants of the Hepburn system are the most widely used. Japanese is normally written in a combination of logographic characters borrowed from Chinese (kanji) and syllabic scripts (kana) which also ultimately derive from Chinese characters. Rōmaji may be used in any context where Japanese text is targeted at non-Japanese speakers who cannot read kanji or kana, such as for names on street signs and passports, and in dictionaries and textbooks for foreign learners of the language. It is also used to transliterate Japanese terms in text written in English (or other languages that use the Latin script) on topics related to Japan, such as linguistics, literature, history, and culture. Rōmaji is the most common way to input Japanese into word processors and computers, and may also be used to display Japanese on devices that do not support the display of Japanese characters. All Japanese who have attended elementary school since World War II have been taught to read and write romanized Japanese. Therefore, almost all Japanese are able to read and write Japanese using rōmaji, although it is extremely rare in Japan to use this method to write Japanese (except as an input tool on a computer or for special purposes like in some logo design), and most Japanese are more comfortable reading kanji/kana. The word rōmaji literally means &quot;Roman letters&quot;, and in Japan it is more often used to refer to the Latin alphabet itself (as used in English and other European languages) than to any specific form of romanized Japanese.</dbo:abstract>
+    <dbo:abstract xml:lang="ar">25بك المحتوى هنا ينقصه الاستشهاد بمصادر. يرجى إيراد مصادر موثوق بها. أي معلومات غير موثقة يمكن التشكيك بها وإزالتها. (مارس 2016) الروماجي (باليابانية: ローマ字 ‏ rōmaji ‏ عن هذا الملف Ja-Romaji.oga (؟·معلومات)) يقصد به استخدام الحروف اللاتينية لكتابة اللغة اليابانية التي تكتب اعتياديا بحروف لوغوغرامية مستعارة من الصينية (كانجي) وحروف أخرى مقطعية (كانا). يستخدم الرومدزي بغرض تسهيل قراءة النصوص اليابانية الموجهة لمن لا يعرفون اللغة، كالأسماء في لافتات الشوارع وجوازات السفر، والقواميس والكتب الدراسية للدارسين الأجانب للغة. كلمة &quot;رومدزي&quot; أحيانا تكتب بشكل خاطئ &quot;رومانـجي&quot;. تستخدم الأحرف الصوتية الخمسة في اللغة الإنكليزية للتعبير عن الحركات اليابانية الخمسة (الأصوات المتحركة اليابانية)، وهي بالترتيب: 
+*  a يقرأ كما في كلمة &quot;father&quot; الإنكليزية. 
+*  i يقرأ كما في كلمة &quot;feet&quot; الإنكليزية. 
+*  u يقرأ كما في كلمة &quot;روح&quot; العربية، ولكن دون تدوير الشفاه. 
+*  e يقرأ كما في كلمة &quot;get&quot; الإنكليزية. 
+*  o يقرأ كما في كلمة &quot;old&quot; الإنكليزية. هناك عدة أنظمة لرومنة اللغة اليابانية: الثلاثة الرئيسية هي: نظام هيبورن، كونري-شيكي ونيهون-شيكي. الرومدزي هو أيضا النظام الأكثر استخداما في إدخال الحروف اليابانية إلى أجهزة الحاسوب ومعالجات الكلمات (انظر اللغة اليابانية والكمبيوتر)، ولذا تقريبًا كل اليابانيين يستطيعون قراءة اليابانية بالرومدزي.</dbo:abstract>
+    <dbo:abstract xml:lang="it">Il rōmaji (ローマ字? lett. &quot;caratteri romani&quot;) è un sistema di scrittura usato in Giappone. Utilizza le lettere dell&#39;alfabeto latino per la romanizzazione della lingua giapponese e dei suoi altri tre sistemi di scrittura: lo hiragana, il katakana e quello logografico basato sui caratteri kanji. Esistono diversi sistemi di trascrizione in rōmaji: i più usati sono il sistema Hepburn e il sistema Kunrei. Il più diffuso è il sistema Hepburn, che si differenzia dal Kunrei solo per qualche sillaba e per la scrittura dei suoni contratti. Il primo si avvicina di più alla pronuncia, mentre il secondo è più schematico (dove lo Hepburn utilizza ta, chi, tsu, te e to per trascrivere le sillabe italiane ta, ci, zu, te e to, il Kunrei utilizza ta, ti, tu, te e to). I giapponesi usano occasionalmente il rōmaji per scrivere i testi, uno dei casi più frequenti è quello relativo ai nomi delle località sui segnali stradali, che vengono scritti usando gli altri sistemi di scrittura ma anche con il rōmaji, per consentire agli stranieri di saperli leggere. Altri casi isolati sono quelli delle insegne o dei nomi che vogliono imitare uno stile occidentale. Negli ultimi tempi viene occasionalmente utilizzato il modo di scrivere occidentale da sinistra a destra al posto del classico sistema di scrittura verticale. Il rōmaji si è enormemente diffuso negli ultimi anni e viene insegnato nelle scuole perché attraverso la sillabazione in caratteri romani si possono scrivere i testi in giapponese su apparecchi elettronici (computer, telefoni cellulari, etc.).</dbo:abstract>
+    <dbo:abstract xml:lang="nl">Rōmaji is een Japans woord voor het Latijnse of Romeinse alfabet en de afzonderlijke letters daarvan. Het woord rōmaji is een samenstelling van het Japanse woord rōma (een verbastering van &#39;Rome&#39;) en ji (字, &#39;teken&#39;, &#39;letter&#39;). Het woord wordt evenwel niet alleen door Japanners gebruikt, maar ook door buitenlandse vertalers of andere deskundigen om te verwijzen naar Japans dat is getranslitereerd naar Latijnse letters. Er zijn diverse systemen in gebruik om Japans weer te geven met Latijnse letters. Transliteratie met het Hepburn-systeem komt het meest voor. Het door de Japanse overheid erkende systeem is Kunrei-shiki, het Kunrei-systeem (ISO 3602).</dbo:abstract>
+    <dbo:abstract xml:lang="ru">Ромадзи (яп. ローマ字 ро:мадзи (инф.), букв.: «латинские буквы») — совокупность систем транслитерации японской письменности, созданных для записи слов японского языка латиницей. Ромадзи применяется в различных целях. В крупных японских городах с её помощью дублируются указатели на улицах и в метро; она используется в словарях, учебниках, разговорниках; иногда применяется и в японских текстах в качестве средства выделения; японские компании, работающие на международных рынках, записывают ромадзи свои названия и имена сотрудников при зарубежных контактах. Существует несколько систем латинизации. Основными считаются система Хэпбёрна, кунрэй-сики (ISO 3602) и нихон-сики (ISO 3602 Strict). Наиболее широко во всём мире (в том числе в Японии) используется система Хэпбёрна, хотя она изначально предназначена лишь для носителей английского языка. Иногда можно встретить ошибочное утверждение, что словом ローマ字 ро: мадзи в японском языке обозначается латинский алфавит. На самом деле, в современном японском он обозначается словом ラテン文字 ратэнмодзи.</dbo:abstract>
+    <dbo:abstract xml:lang="es">El rōmaji (ローマ字 &#39;&#39;rōmaji&#39;&#39;? lit. «caracteres romanos»), en japonés se refiere en grandes rasgos al alfabeto latino. En Occidente, se suele emplear este término para referirse a la escritura de la lengua japonesa en letras romanas o latinas en contraste con la mezcla habitual de kanji, hiragana y katakana. Los kanji son ideogramas, el hiragana y katakana son silabarios, utilizados en el Idioma japonés. Algunos lo escriben Rōmanji, siendo ésta una falta de ortografía bastante común.</dbo:abstract>
+    <dbo:abstract xml:lang="fr">Le terme rōmaji (ローマ字, ou plus anciennement 羅馬字) désigne les caractères de l&#39;alphabet romain utilisés dans le cadre de l&#39;écriture japonaise. Ils se surajoutent aux trois systèmes graphiques initiaux du japonais : les kanjis, les hiraganas et les katakanas.</dbo:abstract>
+    <dbo:abstract xml:lang="pt">O rōmaji (ローマ字 rōmaji? , lit. &quot;letra romana&quot;) é empregado na transcrição fonética da língua japonesa para o alfabeto latino (ou romano). O japonês normalmente é escrito em kanjis (mais de 3 mil ideogramas), hiraganas e katakanas (46 caracteres em cada silabário). A romanização está presente onde há mensagens destinadas a estrangeiros, como nas sinalizações de rua, em passaportes, em dicionários e em livros didáticos para os estudantes da língua. É a transliteração da língua japonesa. Existem diferentes sistemas de romanização, sendo que os principais são três: o sistema Hepburn, o Kunrei-shiki (ISO 3602) e o Nihon-shiki (ISO 3602 estrito). Sistemas variantes do Hepburn são os que estão em maior uso. Todos os japoneses que estudaram na escola fundamental depois da Segunda Grande Guerra foram ensinados a ler e a escrever em rōmaji, o japonês romanizado. A romanização é o método mais comum de se inserir palavras japonesas no computador e em processadores de texto.</dbo:abstract>
+    <dbo:abstract xml:lang="zh">日语罗马字（日語：／ローマじ Rōmaji ?，指代日语时常称为罗马音）是使用拉丁字母来表示日语发音的一种表示法。而罗马字一共有三种体系:训令式罗马字、黑本式罗马字与日本式罗马字。</dbo:abstract>
+    <dbo:abstract xml:lang="pl">Rōmaji (jap. ローマ字 rōmaji, znaki rzymskie) – latynizacja języka japońskiego, zapis transkrypcyjny języka japońskiego za pomocą alfabetu łacińskiego.</dbo:abstract>
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Application" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Rōmaji">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Romanization_of_Japanese" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Japanese_romanisation">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Romanization_of_Japanese" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/ローマ字">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Romanization_of_Japanese" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Romaji">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Romanization_of_Japanese" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Roomadi">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Romanization_of_Japanese" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Okinawan_language">
+    <dbp:script rdf:resource="http://dbpedia.org/resource/Romanization_of_Japanese" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Roumaji">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Romanization_of_Japanese" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Romazi">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Romanization_of_Japanese" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Roomaji">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Romanization_of_Japanese" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Roomazi">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Romanization_of_Japanese" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Rômaji">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Romanization_of_Japanese" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Rômazi">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Romanization_of_Japanese" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Romanization_of_japanese">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Romanization_of_Japanese" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Rõmaji">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Romanization_of_Japanese" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Rōmanji">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Romanization_of_Japanese" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Romanized_Japanese">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Romanization_of_Japanese" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Romanisation_of_Japanese">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Romanization_of_Japanese" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Romanization_of_Japanese">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Romanization_of_Japanese" />
+  </rdf:Description>
+</rdf:RDF>

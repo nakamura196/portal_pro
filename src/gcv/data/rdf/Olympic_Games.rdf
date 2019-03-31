@@ -1,0 +1,342 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:dct="http://purl.org/dc/terms/"
+	xmlns:dbo="http://dbpedia.org/ontology/"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:prov="http://www.w3.org/ns/prov#"
+	xmlns:dbp="http://dbpedia.org/property/"
+	xmlns:ns8="http://purl.org/linguistics/gold/" >
+  <rdf:Description rdf:about="http://dbpedia.org/resource/OG">
+    <dbo:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/Olympic_Games" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Eric_Moussambani">
+    <dbp:level rdf:resource="http://dbpedia.org/resource/Olympic_Games" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Alison_Mowbray">
+    <dbo:knownFor rdf:resource="http://dbpedia.org/resource/Olympic_Games" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Madeline_de_Jesús">
+    <dbp:level rdf:resource="http://dbpedia.org/resource/Olympic_Games" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_greek_olympics">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Olympic_Games" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Unannounced_Olympiads">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Olympic_Games" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sigurd_Roll">
+    <dbo:knownFor rdf:resource="http://dbpedia.org/resource/Olympic_Games" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Downing_Stadium">
+    <dbo:tenant rdf:resource="http://dbpedia.org/resource/Olympic_Games" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/OlympicGames">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Olympic_Games" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Olympic_Games">
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatMulti-sportEvents" />
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/SportsEvent" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PsychologicalFeature100023100" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatOlympicGames" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Event100029378" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Abstraction100002137" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Game100456199" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/SocialEvent107288639" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoPermanentlyLocatedEntity" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Contest107456188" />
+    <rdfs:label xml:lang="ru">Олимпийские игры</rdfs:label>
+    <rdfs:label xml:lang="en">Olympic Games</rdfs:label>
+    <rdfs:label xml:lang="es">Juegos Olímpicos</rdfs:label>
+    <rdfs:label xml:lang="fr">Jeux olympiques</rdfs:label>
+    <rdfs:label xml:lang="zh">奥林匹克运动会</rdfs:label>
+    <rdfs:label xml:lang="nl">Olympische Spelen</rdfs:label>
+    <rdfs:label xml:lang="pt">Jogos Olímpicos</rdfs:label>
+    <rdfs:label xml:lang="it">Giochi olimpici</rdfs:label>
+    <rdfs:label xml:lang="de">Olympische Spiele</rdfs:label>
+    <rdfs:label xml:lang="ja">近代オリンピック</rdfs:label>
+    <rdfs:label xml:lang="pl">Igrzyska olimpijskie</rdfs:label>
+    <rdfs:label xml:lang="ar">دورة الألعاب الأولمبية</rdfs:label>
+    <rdfs:comment xml:lang="nl">De Olympische Spelen zijn een internationale sportmanifestatie. Er doen duizenden atleten aan uiteenlopende sporten mee. De twee versies, de Zomerspelen en de Winterspelen, worden elk om de vier jaar gehouden. Ruim anderhalf jaar na de Zomerspelen, in het tweede kalenderjaar erna, zijn steeds de Winterspelen, vervolgens duurt het dus een kleine tweëneenhalf jaar tot de volgende Zomerspelen.</rdfs:comment>
+    <rdfs:comment xml:lang="zh">奧林匹克運動會（希腊语：Ολυμπιακοί Αγώνες，法语：Jeux olympiques, 英语：Olympic Games），簡稱奧運會、奧運，是國際上最主要的綜合型體育賽事，由国际奥林匹克委员会主办；後因有別冬季奧林匹克運動會，又稱為「夏季奧林匹克運動會」，每4年举行一次（夏季与冬季奥运互相轮替）。奥林匹克运动会最早起源於古希腊，因為举办地在奥林匹亚而得名；但隨著古希臘的沒落，奧運停办了近1,500年，直到19世纪末由法国的顾拜旦男爵创立了有真正奧運精神的现代奥林匹克运动会。从此，自1896年开始每4年举办一次，只有在两次世界大战期間中断过3次（分別是在1916年、1940年和1944年），更確立了會期不超過16日的傳統。奧林匹克運動會現在已經成為了全世界和平與友誼的象徵。</rdfs:comment>
+    <rdfs:comment xml:lang="pl">Igrzyska olimpijskie – najstarsza i zarazem największa międzynarodowa impreza sportowa organizowana co 2 lata (na przemian letnie i zimowe) w różnych krajach, pod hasłem szlachetnego współzawodnictwa i braterstwa wszystkich narodów Międzynarodowego Komitetu Olimpijskiego.</rdfs:comment>
+    <rdfs:comment xml:lang="en">The modern Olympic Games or Olympics (French: Jeux olympiques) are leading international sporting events featuring summer and winter sports competitions in which thousands of athletes from around the world participate in a variety of competitions. The Olympic Games are considered the world&#39;s foremost sports competition with more than 200 nations participating. The Olympic Games are held every four years, with the Summer and Winter Games alternating by occurring every four years but two years apart.</rdfs:comment>
+    <rdfs:comment xml:lang="fr">Les Jeux olympiques (appelés aussi les JO, les Jeux, les Olympiades ou encore les Olympiques; en anglais: Olympic Games ou Olympics; en grec ancien : οἱ Ὀλυμπιακοὶ ἀγῶνες (hoi Olympiakoì agônes), en grec moderne : Ολυμπιακοί αγώνες (Olympiakí agónes), également Oλυμπιάδα (Olympiáda), c&#39;est-à-dire Olympiade) sont un événement international majeur, regroupant les sports d’été et d’hiver, auquel des milliers d’athlètes participent. Les Jeux olympiques se tiennent tous les quatre ans, les années paires, en alternant Jeux olympiques d&#39;été et Jeux olympiques d&#39;hiver : quatre ans entre deux éditions des Jeux olympiques d&#39;été ou d&#39;hiver et deux ans entre les Jeux olympiques d&#39;été et ceux d&#39;hiver. Originellement tenus dans le centre religieux d’Olympie, dans la Grèce antique du VIIIe siècle av. J.-</rdfs:comment>
+    <rdfs:comment xml:lang="it">I Giochi olimpici sono un evento sportivo quadriennale che prevede la competizione tra i migliori atleti del mondo in quasi tutte le discipline sportive praticate nei cinque continenti. Essi, pur essendo comunemente chiamati anche Olimpiadi, non sono da confondere con l&#39;Olimpiade: quest&#39;ultima indica l&#39;intervallo di tempo di quattro anni che intercorre tra un&#39;edizione dei Giochi olimpici e la successiva. Per questo, anche se i Giochi del 1916, del 1940 e 1944 non sono stati disputati, si è continuato a conteggiare le Olimpiadi, cosicché i Giochi di Rio de Janeiro 2016 sono stati quelli della trentunesima edizione.</rdfs:comment>
+    <rdfs:comment xml:lang="ru">Современные Олимпи́йские и́гры — крупнейшие международные комплексные спортивные соревнования, которые проводятся раз в четыре года под эгидой Международного олимпийского комитета. Традиция проведения Олимпийских игр, существовавшая в Древней Греции, зародилась как часть религиозного культа. Игры проводились с 776 до н. э. по 394 н. э., всего было проведено 293 Олимпиады в Олимпии, считавшейся у греков священным местом. От Олимпии произошло и название Игр. В тех же местах проведения Олимпийских игр спустя несколько дней проводятся Паралимпийские игры для людей с ограниченными возможностями.</rdfs:comment>
+    <rdfs:comment xml:lang="pt">Jogos Olímpicos são um evento multiesportivo global com modalidades de verão e de inverno, em que milhares de atletas participam de várias competições. Atualmente os Jogos são realizados a cada dois anos, em anos pares, com os Jogos Olímpicos de Verão e de Inverno se alternando, embora ocorram a cada quatro anos no âmbito dos respectivos Jogos sazonais. Originalmente, os Jogos Olímpicos da Antiguidade foram realizados em Olímpia, na Grécia, do século VIII a.C. ao século V d.C. No século XIX, o Barão Pierre de Coubertin fundou o Comitê Olímpico Internacional (COI) em 1894. O COI se tornou o órgão dirigente do Movimento Olímpico, cuja estrutura e as ações são definidas pela Carta Olímpica.</rdfs:comment>
+    <rdfs:comment xml:lang="ar">الألعاب الأولمبية أو الأولمبياد حدث رياضي دولي يشمل الألعاب الرياضية الصيفية والشتوية، يشارك فيه الرياضيون من كلا الجنسين في المنافسات المختلفة ويمثلون دولاً مختلفة. وينظم هذا الحدث حالياً كل سنتين في السنوات الزوجية، بتناوب الألعاب الصيفية والشتوية بعد أن كانت تقام كلتا المسابقتين في نفس السنة حتى سنة 1992 وقد توقفت في فترة الحرب العالمية الأولى وكذلك في فترة الحرب العالمية الثانية. وقد أقيمت الألعاب الأولمبية القديمة في مدينة أوليمبيا في اليونان من القرن الثامن قبل الميلاد وحتى القرن الخامس الميلادي. وقد أسس البارون بيير دي كوبرتان اللجنة الأولمبية الدولية في سنة 1894 م عبر الكونغرس الأولمبي، ومنذ ذلك الحين أصبحت هذه اللجنة الهيئة الحاكمة للحركة الأولمبية، و يتحدد هيكلتها و إجراءتها الميثاق الأولمبي.</rdfs:comment>
+    <rdfs:comment xml:lang="es">Los Juegos Olímpicos (JJ. OO.), Olímpicos, olimpiadas u olimpíadas (en griego, Ολυμπιακοί Αγώνες, transliterado como Olympikoí Agōnes, en francés, Jeux Olympiques y en inglés, Olympic Games) son el mayor evento deportivo internacional multidisciplinario en el que participan atletas de diversas partes del mundo. Los Juegos Olímpicos son considerados la principal competición del mundo deportivo, con más de doscientas naciones participantes. Existen dos tipos: los Juegos Olímpicos de Verano y los Juegos Olímpicos de Invierno, que se realizan con un intervalo de dos años, según la Carta Olímpica: «Los Juegos de la Olimpiada se celebran durante el primer año de una Olimpiada, y los Juegos Olímpicos de Invierno durante su tercer año».</rdfs:comment>
+    <rdfs:comment xml:lang="de">Olympische Spiele (von altgriechisch τὰ Ὀλύμπια ta Olýmpia „die Olympischen Spiele“; neugriechisch ολυμπιακοί αγώνες olymbiakí agónes „olympische Wettkämpfe“) ist die Sammelbezeichnung für regelmäßig ausgetragene Sportwettkampfveranstaltungen, die „Olympischen Spiele“ und „Olympischen Winterspiele“. Bei diesen treten Athleten und Mannschaften in verschiedenen Sportarten gegeneinander an. Organisiert werden sie vom Internationalen Olympischen Komitee (IOC). Der Zeitraum zwischen den Spielen wird als ολυμπιάδα olymbiada „Olympiade“ bezeichnet.</rdfs:comment>
+    <rdfs:comment xml:lang="ja">近代オリンピック（きんだいオリンピック、仏: Jeux olympiques、英: Olympic Games）は、国際オリンピック委員会（英：IOC）が開催する世界的なスポーツ大会。現在、夏季大会と冬季大会の各大会が4年に1度、夏季大会は西暦で4の倍数の年、冬季大会は4の倍数でない偶数の年で2年ずらして開催されるので、2年に1度開催されることになる。 日本語ではオリンピック、またそのシンボルマークから五輪と呼ぶこともある。 詳細は「」を参照</rdfs:comment>
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/List_of_Olympic_Games_host_cities" />
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/List_of_Olympic_medals_by_host_nation" />
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Cost_of_the_Olympic_Games" />
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Olympic_Games" />
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.05nd_" />
+    <owl:sameAs rdf:resource="http://eu.dbpedia.org/resource/Olinpiar_Jokoak" />
+    <owl:sameAs rdf:resource="http://pl.dbpedia.org/resource/Igrzyska_olimpijskie" />
+    <owl:sameAs rdf:resource="http://d-nb.info/gnd/2021059-0" />
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q5389" />
+    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/Olympische_Spiele" />
+    <owl:sameAs rdf:resource="http://pt.dbpedia.org/resource/Jogos_Olímpicos" />
+    <owl:sameAs rdf:resource="http://el.dbpedia.org/resource/Ολυμπιακοί_Αγώνες" />
+    <owl:sameAs rdf:resource="http://yago-knowledge.org/resource/Olympic_Games" />
+    <owl:sameAs rdf:resource="http://es.dbpedia.org/resource/Juegos_Olímpicos" />
+    <owl:sameAs rdf:resource="http://cs.dbpedia.org/resource/Olympijské_hry" />
+    <owl:sameAs rdf:resource="http://ja.dbpedia.org/resource/近代オリンピック" />
+    <owl:sameAs rdf:resource="http://fr.dbpedia.org/resource/Jeux_olympiques" />
+    <owl:sameAs rdf:resource="http://nl.dbpedia.org/resource/Olympische_Spelen" />
+    <owl:sameAs rdf:resource="http://data.nytimes.com/2372471229863261500" />
+    <owl:sameAs rdf:resource="http://id.dbpedia.org/resource/Olimpiade" />
+    <owl:sameAs rdf:resource="http://it.dbpedia.org/resource/Giochi_olimpici" />
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q5389" />
+    <owl:sameAs rdf:resource="http://ko.dbpedia.org/resource/올림픽" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Athletic_culture_based_on_Greek_antiquity" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Recurring_sporting_events_established_in_1896" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Multi-sport_events" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Olympic_Games" />
+    <dbo:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">22576</dbo:wikiPageID>
+    <dbo:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">744361901</dbo:wikiPageRevisionID>
+    <dbo:wikiPageExternalLink rdf:resource="http://www.gamesbids.com/eng/" />
+    <dbo:wikiPageExternalLink rdf:resource="https://books.google.com/?id=1Su8jRiVVdoC&amp;pg=PA228&amp;dq=tv+influence+on+olympic+games#PPA230,M1" />
+    <dbo:wikiPageExternalLink rdf:resource="https://books.google.com/?id=s5ntIQv0W5IC" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.olympics-records.com/" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.olympicgameswinners.com/" />
+    <dbo:wikiPageExternalLink rdf:resource="https://books.google.com/?id=fH3hD3MkIMYC&amp;pg=PR101&amp;dq=commercialization+of+the+olympic+games" />
+    <dbo:wikiPageExternalLink rdf:resource="https://books.google.com/books?id=Nqbz8Emo3PIC&amp;pg=PA223" />
+    <dbo:wikiPageExternalLink rdf:resource="https://books.google.com/?id=H3cu_PFsFYwC&amp;pg=PA17&amp;dq=1998+winter+olympics" />
+    <dbo:wikiPageExternalLink rdf:resource="https://web.archive.org/web/20110723070003/http:/multimedia.olympic.org/pdf/en_report_122.pdf" />
+    <dbo:wikiPageExternalLink rdf:resource="https://books.google.com/books?id=WKRUmep515oC&amp;lpg=PP1&amp;dq=America&#39;s%20first%20Olympics%3A%20the%20St.%20Louis%20games%20of%201904&amp;pg=PA53#v=onepage&amp;q=liverpool&amp;f=false" />
+    <dbo:wikiPageExternalLink rdf:resource="https://books.google.com/?id=2-HQMnDiLqIC" />
+    <dbo:wikiPageExternalLink rdf:resource="http://ezine.pk/?Olympic-Games--From-History-of-Olympics-to-the-Present-Day&amp;id=820" />
+    <dbo:wikiPageExternalLink rdf:resource="https://books.google.com/?id=4F-v35--l_gC&amp;dq=Panathenaic+Stadium,+Averoff,+Constantine" />
+    <dbo:wikiPageExternalLink rdf:resource="http://go.galegroup.com.proxy.lib.sfu.ca/ps/retrieve.do?sgHitCountType=None&amp;sort=RELEVANCE&amp;inPS=true&amp;prodId=CPI&amp;userGroupName=sfu_z39&amp;tabID=T004&amp;searchId=R1&amp;resultListType=RESULT_LIST&amp;contentSegment=&amp;searchType=AdvancedSearchForm&amp;currentPosition=1&amp;contentSet=GALE%7CA191264469&amp;&amp;docId=GALE" />
+    <dbo:wikiPageExternalLink rdf:resource="http://multimedia.olympic.org/pdf/en_report_122.pdf" />
+    <dbo:wikiPageExternalLink rdf:resource="http://multimedia.olympic.org/pdf/en_report_658.pdf" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.aroundtherings.com/" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.perseus.tufts.edu/cgi-bin/ptext?doc=Perseus%3Atext%3A1999.01.0162&amp;query=head%3D%231" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.perseus.tufts.edu/cgi-bin/ptext?doc=Perseus%3Atext%3A1999.01.0160&amp;query=book%3D%235" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.perseus.tufts.edu/cgi-bin/ptext?doc=Perseus%3Atext%3A1999.01.0162&amp;layout=&amp;loc=O.+10.1" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.perseus.tufts.edu/cgi-bin/ptext?doc=Perseus%3Atext%3A1999.01.0160" />
+    <dbo:wikiPageExternalLink rdf:resource="https://books.google.com/?id=YXWa6ll5GxoC&amp;pg=PA15&amp;dq=Hans-Gunnar+Liljenwall," />
+    <dbo:wikiPageExternalLink rdf:resource="https://books.google.com/?id=aldh2YTO7XQC&amp;printsec=copyright&amp;dq=spartakiads+and+the+olympics" />
+    <dbo:wikiPageExternalLink rdf:resource="https://www.britannica.com/sports/Olympic-Games" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.nytimes.com/interactive/2008/08/04/sports/olympics/20080804_MEDALCOUNT_MAP.html" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.databaseolympics.com/index.htm" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.insidethegames.biz/" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.olympic.org/" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.dicolympic.com/?s=&amp;l=en" />
+    <dbo:wikiPageExternalLink rdf:resource="https://books.google.com/?id=Krclca7m_z0C&amp;pg=PA146&amp;lpg=PA146&amp;dq=television+ratings+decline+olympic+games+torino" />
+    <dbo:wikiPageExternalLink rdf:resource="https://books.google.com/books?id=vxAmyvh0ZsQC" />
+    <dbo:wikiPageExternalLink rdf:resource="https://books.google.com/?id=Kd7ieYncwxIC&amp;pg=PA192&amp;dq=television+and+the+olympic+games" />
+    <dbo:wikiPageExternalLink rdf:resource="https://books.google.com/?id=JphFoBnq2R8C&amp;pg=PA14&amp;dq=olympic+games+television+ratings" />
+    <dbo:wikiPageExternalLink rdf:resource="https://books.google.com/?id=QmXi_-Jujj0C&amp;pg=PA283&amp;dq=winter+games+at+the+1912+summer+olympics" />
+    <dbo:wikiPageExternalLink rdf:resource="https://books.google.com/?id=nMzYdZpk8qMC&amp;printsec=copyright&amp;dq=olympics" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.webcitation.org/5gKmnnDyw" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.la84foundation.org/6oic/OfficialReports/1896/1896.pdf" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.theolympicgamescountdown.com" />
+    <foaf:homepage rdf:resource="http://www.olympic.org/" />
+    <foaf:depiction rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Olympic_medals_2000_-_2016.svg" />
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Olympic_Games" />
+    <dbo:thumbnail rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Olympic_medals_2000_-_2016.svg?width=300" />
+    <prov:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Olympic_Games?oldid=744361901" />
+    <dbo:abstract xml:lang="nl">De Olympische Spelen zijn een internationale sportmanifestatie. Er doen duizenden atleten aan uiteenlopende sporten mee. De twee versies, de Zomerspelen en de Winterspelen, worden elk om de vier jaar gehouden. Ruim anderhalf jaar na de Zomerspelen, in het tweede kalenderjaar erna, zijn steeds de Winterspelen, vervolgens duurt het dus een kleine tweëneenhalf jaar tot de volgende Zomerspelen. De filosofie achter &#39;de Spelen&#39; wordt uitgedragen door de &#39;Olympische Beweging&#39;. Die beweging omvat tegenwoordig de internationale sportbonden, de Nationaal Olympisch Comités en de organisator van de Spelen. Het Internationaal Olympisch Comité is verantwoordelijk voor het uitkiezen van de gaststad en het olympische programma. Steeds wordt tijdens een IOC-bijeenkomst zeven jaar van tevoren de locatie / organisator gekozen uit enkele kandidaten, met andere woorden: in het jaar na de Spelen wordt de organisator voor de editie na de eerstvolgende editie van de Spelen gekozen. Sinds 2012 houdt het organiseren van de Zomerspelen automatisch ook het organiseren van de Paralympische Spelen in. De organisatie van de Spelen is verantwoordelijk voor het naleven van de olympische regels, die zijn omschreven in het Olympisch Handvest. Er gaan enkele symbolen en rituelen gepaard met de organisatie van de Olympische Spelen, waaronder de olympische vlag en de olympische vlam.</dbo:abstract>
+    <dbo:abstract xml:lang="zh">奧林匹克運動會（希腊语：Ολυμπιακοί Αγώνες，法语：Jeux olympiques, 英语：Olympic Games），簡稱奧運會、奧運，是國際上最主要的綜合型體育賽事，由国际奥林匹克委员会主办；後因有別冬季奧林匹克運動會，又稱為「夏季奧林匹克運動會」，每4年举行一次（夏季与冬季奥运互相轮替）。奥林匹克运动会最早起源於古希腊，因為举办地在奥林匹亚而得名；但隨著古希臘的沒落，奧運停办了近1,500年，直到19世纪末由法国的顾拜旦男爵创立了有真正奧運精神的现代奥林匹克运动会。从此，自1896年开始每4年举办一次，只有在两次世界大战期間中断过3次（分別是在1916年、1940年和1944年），更確立了會期不超過16日的傳統。奧林匹克運動會現在已經成為了全世界和平與友誼的象徵。</dbo:abstract>
+    <dbo:abstract xml:lang="ar">الألعاب الأولمبية أو الأولمبياد حدث رياضي دولي يشمل الألعاب الرياضية الصيفية والشتوية، يشارك فيه الرياضيون من كلا الجنسين في المنافسات المختلفة ويمثلون دولاً مختلفة. وينظم هذا الحدث حالياً كل سنتين في السنوات الزوجية، بتناوب الألعاب الصيفية والشتوية بعد أن كانت تقام كلتا المسابقتين في نفس السنة حتى سنة 1992 وقد توقفت في فترة الحرب العالمية الأولى وكذلك في فترة الحرب العالمية الثانية. وقد أقيمت الألعاب الأولمبية القديمة في مدينة أوليمبيا في اليونان من القرن الثامن قبل الميلاد وحتى القرن الخامس الميلادي. وقد أسس البارون بيير دي كوبرتان اللجنة الأولمبية الدولية في سنة 1894 م عبر الكونغرس الأولمبي، ومنذ ذلك الحين أصبحت هذه اللجنة الهيئة الحاكمة للحركة الأولمبية، و يتحدد هيكلتها و إجراءتها الميثاق الأولمبي. دفع تطور الحركة الأولمبية في القرن العشرين اللجنة الأولمبية الدولية إلى مجاراة الألعاب الأولمبية لتغير الظروف الاجتماعية العالمية. وشملت بعض هذه التعديلات إنشاء دورة الألعاب الأولمبية الشتوية للرياضات على الجليد والثلوج، والألعاب الأولمبية للرياضيين ذوي الإعاقات الجسدية، ودورة الألعاب الأولمبية للرياضيين الشباب. كما كان على اللجنة الأولمبية الدولية أيضاً أن تلائم الألعاب الأولمبية مع الوقائع السياسية والاقتصادية والتكنولوجية المتغيرة للقرن العشرين. ونتيجة لذلك، تحولت الألعاب الأولمبية بعيدًا عن الهواية الخالصة، كما تخيلها كوبرتان من قبل، وأصبحت للرياضيين المحترفين. كما أن تزايد أهمية وسائل الإعلام أوجد مسألة رعاية الشركات وتسويق الألعاب الأولمبية. تضم الحركة الأولمبية حالياً الاتحادات الرياضية الدولية، و اللجان الأولمبية الوطنية، واللجان المنظمة لكل من الألعاب الأولمبية الخاصة. وتعد اللجنة الأولمبية الدولية، كهيئة لصنع القرار، المسؤولة عن اختيار المدينة المضيفة لكل دورة للألعاب الأولمبية. وتعد المدينة المضيفة هي المسؤولة عن تنظيم وتمويل الاحتفال بالألعاب الأولمبية بم يتفق مع الميثاق الأولمبي. تحدد لجنة الألعاب الأولمبية البرنامج الأولمبي الذي يحدد الألعاب المتنافس عليها في كل دورة للألعاب الأولمبية. يشمل الاحتفال بالألعاب الأولمبية العديد من الشعائر والرموز الأولمبية، مثل العلم الأولمبي والشعلة الأولمبية، فضلاً عن حفلي الافتتاح والختام. وقد تنافس أكثر من 13000 رياضي في دورات الألعاب الأولمبية الشتوية منها والصيفية في 33 رياضة مختلفة 400 حدث رياضي. ينال الرياضي الحاصل على المركز الأول على الميدالية الذهبية، والثاني على الفضية، والثالث على البرونزية. نمت دورة الألعاب لدرجة أن كل دولة تمثل تقريباً. وقد خلق هذا النمو العديد من التحديات، بما في ذلك المقاطعة، والمنشطات، ورشوة المسؤولين، والإرهاب. ومرة كل سنتين، تقدم دورة الألعاب الأولمبية ووسائل الإعلام رياضيين غير معروفين وتمنحهم الفرصة لتحقيق الشهرة الوطنية أو الشهرة العالمية في بعض الحالات. كما تشكل دورة الألعاب فرصة كبيرة للدولة والمدينة المضيفة لترقى وتقدم نفسها إلى العالم. احتوى برنامج الألعاب سنة 1896 على مسابقات صيفية فقط (المسابقات الشتوية لم تبدأ حتى سنة 1924) شارك فيها حوالي 300 رياضي من حوالي 15 دولة تنافسوا في 43 مسابقة ضمن 9 رياضات مختلفة، ولكن عندما أقيمت الألعاب الأولمبية الصيفية في أثينا سنة 2004 شارك أكثر من 10000 رياضي من 202 دولة تنافسوا في 28 لعبة مختلفة.</dbo:abstract>
+    <dbo:abstract xml:lang="it">I Giochi olimpici sono un evento sportivo quadriennale che prevede la competizione tra i migliori atleti del mondo in quasi tutte le discipline sportive praticate nei cinque continenti. Essi, pur essendo comunemente chiamati anche Olimpiadi, non sono da confondere con l&#39;Olimpiade: quest&#39;ultima indica l&#39;intervallo di tempo di quattro anni che intercorre tra un&#39;edizione dei Giochi olimpici e la successiva. Per questo, anche se i Giochi del 1916, del 1940 e 1944 non sono stati disputati, si è continuato a conteggiare le Olimpiadi, cosicché i Giochi di Rio de Janeiro 2016 sono stati quelli della trentunesima edizione. Il nome Giochi olimpici è stato scelto per ricordare gli antichi Giochi olimpici che si svolgevano nella Grecia antica presso la città di Olimpia, nei quali si confrontavano i migliori atleti greci. Il barone Pierre de Coubertin alla fine del XIX secolo ebbe l&#39;idea di organizzare dei giochi simili a quelli dell&#39;antica Grecia, e quindi preclusi al sesso femminile, ma su questo punto non venne ascoltato. Le prime Olimpiadi dell&#39;era moderna si svolsero ad Atene nel 1896. A partire dal 1924, vennero istituiti anche dei Giochi Olimpici invernali specifici per gli sport invernali. In più, esistono anche le Paraolimpiadi, competizioni fra persone disabili. A partire dal 1994 l&#39;edizione invernale non si tiene più nello stesso anno dell&#39;edizione estiva, ma sfasata di due anni. La bandiera olimpica, uno dei simboli più riconosciuti al mondo, raffigura cinque anelli intrecciati in campo bianco, che simboleggiano i cinque continenti. I colori scelti sono presenti nelle bandiere di tutte le nazioni, quindi la loro combinazione simboleggia tutti i Paesi, mentre l&#39;intreccio degli anelli rappresenta l&#39;universalità dello spirito olimpico. Le regole e le linee guida per l&#39;organizzazione dei giochi olimpici (sia quelli estivi che quelli invernali), compreso come deve essere il simbolo delle Olimpiadi, quale deve essere la bandiera e il motto, sono contenuti nella Carta Olimpica, un documento ufficiale composto da 6 capitoli e 61 paragrafi, nei quali si spiegano i valori del Movimento olimpico, come si celebrano, si organizzano e si amministrano i giochi olimpici.</dbo:abstract>
+    <dbo:abstract xml:lang="ja">近代オリンピック（きんだいオリンピック、仏: Jeux olympiques、英: Olympic Games）は、国際オリンピック委員会（英：IOC）が開催する世界的なスポーツ大会。現在、夏季大会と冬季大会の各大会が4年に1度、夏季大会は西暦で4の倍数の年、冬季大会は4の倍数でない偶数の年で2年ずらして開催されるので、2年に1度開催されることになる。 日本語ではオリンピック、またそのシンボルマークから五輪と呼ぶこともある。 詳細は「」を参照</dbo:abstract>
+    <dbo:abstract xml:lang="fr">Les Jeux olympiques (appelés aussi les JO, les Jeux, les Olympiades ou encore les Olympiques; en anglais: Olympic Games ou Olympics; en grec ancien : οἱ Ὀλυμπιακοὶ ἀγῶνες (hoi Olympiakoì agônes), en grec moderne : Ολυμπιακοί αγώνες (Olympiakí agónes), également Oλυμπιάδα (Olympiáda), c&#39;est-à-dire Olympiade) sont un événement international majeur, regroupant les sports d’été et d’hiver, auquel des milliers d’athlètes participent. Les Jeux olympiques se tiennent tous les quatre ans, les années paires, en alternant Jeux olympiques d&#39;été et Jeux olympiques d&#39;hiver : quatre ans entre deux éditions des Jeux olympiques d&#39;été ou d&#39;hiver et deux ans entre les Jeux olympiques d&#39;été et ceux d&#39;hiver. Originellement tenus dans le centre religieux d’Olympie, dans la Grèce antique du VIIIe siècle av. J.-C. au Ve siècle apr. J.-C., les Jeux ont été rénovés par le baron Pierre de Coubertin en 1894 lorsqu’il fonda le Comité international olympique (CIO), les premiers Jeux olympiques modernes s’étant déroulés en 1896. Depuis lors, le CIO est devenu l’organisation gouvernant le mouvement olympique dont la structure et les décisions sont définies par la Charte olympique. Pendant le XXe siècle, le CIO a adapté selon sa vision propre les Jeux aux changements sociaux qui se sont produits dans le monde. Certains de ces ajustements inclurent la création des Jeux olympiques d’hiver, les Jeux paralympiques, les Jeux olympiques de la jeunesse. Le CIO les a aussi adaptés à sa perception des changements économiques, politiques et techniques du XXe siècle. De ce fait, les Jeux olympiques sont progressivement passés de l’amateurisme pur que voulait Pierre de Coubertin, au professionnalisme. En outre, l’importante croissance des médias de masse a apporté aux Jeux des sources de financement considérables, faisant planer des soupçons récurrents de corruption. Actuellement, les mouvements olympiques comprennent les fédérations sportives internationales, les comités nationaux olympiques et l’organisation de comités pour chaque édition des Jeux olympiques. La ville hôte est chargée d’organiser et de trouver des fonds pour les Jeux olympiques de manière à ce qu’ils soient en accord avec la Charte olympique. Le CIO décide aussi des sports présents ou non à chaque édition. La célébration des Jeux inclut de nombreux rituels et des symboles, comme le drapeau olympique et la flamme olympique, ainsi que les cérémonies d’ouverture et de clôture . Les trois meilleurs athlètes ou équipes de chaque compétition reçoivent respectivement une médaille d’or (1re place), d’argent (2e place) et de bronze (3e place).Les Jeux olympiques sont devenus si importants que presque chaque nation est représentée. Une telle ampleur a généré de nombreux défis, comme le boycott, le dopage, la corruption (Salt Lake City) et le terrorisme. Tous les deux ans, les Jeux et leur exposition médiatique permettent à des athlètes d&#39;acquérir une notoriété nationale, voire mondiale dans certains cas. Les Jeux sont aussi une excellente occasion pour la ville hôte et le pays d&#39;accueil d&#39;assurer leur promotion sur la scène internationale.</dbo:abstract>
+    <dbo:abstract xml:lang="es">Los Juegos Olímpicos (JJ. OO.), Olímpicos, olimpiadas u olimpíadas (en griego, Ολυμπιακοί Αγώνες, transliterado como Olympikoí Agōnes, en francés, Jeux Olympiques y en inglés, Olympic Games) son el mayor evento deportivo internacional multidisciplinario en el que participan atletas de diversas partes del mundo. Los Juegos Olímpicos son considerados la principal competición del mundo deportivo, con más de doscientas naciones participantes. Existen dos tipos: los Juegos Olímpicos de Verano y los Juegos Olímpicos de Invierno, que se realizan con un intervalo de dos años, según la Carta Olímpica: «Los Juegos de la Olimpiada se celebran durante el primer año de una Olimpiada, y los Juegos Olímpicos de Invierno durante su tercer año». Los Juegos Olímpicos modernos se inspiraron en los del siglo VIII a. C. organizados por los antiguos griegos en la ciudad de Olimpia, entre los años 776 a. C. y el 393 d. C. En el siglo XIX, surgió la idea de realizar unos eventos similares a los organizados en la antigüedad, los que se concretarían principalmente gracias a las gestiones del noble francés Pierre Frèdy, barón de Coubertin. El barón de Coubertin fundó el Comité Olímpico Internacional (COI) en 1894. Desde entonces, el COI se ha convertido en el órgano coordinador del Movimiento Olímpico, con la Carta Olímpica que define su estructura y autoridad. La primera edición de los llamados Juegos Olímpicos de la era moderna se llevó a cabo en Atenas, capital de Grecia, a partir del 6 de abril de 1896. Desde aquella oportunidad, han sido realizados cada cuatro años en diversas ciudades del mundo, siendo las únicas excepciones las ediciones de 1916, 1940 y 1944, debido al estallido de la Primera y Segunda Guerra Mundial. La evolución del movimiento olímpico durante los siglos XX y XXI ha dado lugar a varias modificaciones en los Juegos Olímpicos. Algunos de estos ajustes incluyen la creación de los juegos de invierno para deportes invernales, los juegos paralímpicos para atletas con algún tipo de discapacidad y los Juegos Olímpicos de la Juventud para atletas adolescentes. Los Juegos Olímpicos de invierno se realizaron por primera vez en 1924, en la localidad francesa de Chamonix. Originalmente realizados como parte del evento de verano, el COI los consideró como un evento separado retroactivamente, y desde esa fecha comenzaron a realizarse en el mismo año que los juegos originales. Posteriormente, con el fin de potenciar el desarrollo de los eventos invernales, el COI decidió desfasar la realización de los Juegos invernales a partir de Lillehammer 1994. Desde esa fecha, los Juegos Olímpicos de Invierno se realizan en los años pares entre dos Juegos de Verano. Los primeros Juegos Olímpicos de la Juventud de Verano se celebraron en Singapur en 2010, mientras que los Juegos Olímpicos de la Juventud de Invierno se celebraron en Innsbruck en 2012. El COI ha tenido que adaptarse a una variedad de avances económicos, políticos y tecnológicos. Como resultado, los Juegos Olímpicos se han alejado del amateurismo puro, según lo previsto por Coubertin, para permitir la participación de los atletas profesionales. La creciente importancia de los medios de comunicación de masas inició el tema de patrocinio de las empresas y la comercialización de los Juegos. Grandes boicots se realizaron durante la Guerra Fría en los Juegos de 1980 y 1984. El Movimiento Olímpico consta de Federaciones Internacionales de cada deporte, Comités Olímpicos Nacionales y Comités Organizadores de cada edición. El COI es responsable de la elección de la ciudad sede. Según la Carta Olímpica, la ciudad anfitriona es responsable de la organización y el financiamiento de los Juegos. El programa olímpico, compuesto por los deportes disputados en los Juegos, también está determinado por el COI. Existen diversos símbolos y ceremonias olímpicas, como la bandera y la antorcha olímpicas, así como las ceremonias de apertura y clausura. Cerca de 13 000 atletas compiten en los Juegos Olímpicos de Verano e Invierno en 33 deportes diferentes y en aproximadamente 400 eventos. Los ganadores del primer, segundo y tercer lugar en cada evento reciben medallas olímpicas: oro, plata y bronce, respectivamente. En la actualidad casi todos los países están representados en los Juegos Olímpicos. Esto ha provocado diversos problemas: dopaje, sobornos y actos de terrorismo. Cada dos años, los Juegos Olímpicos y su exposición a los medios, proporcionan a los atletas desconocidos la oportunidad de alcanzar la fama nacional e internacional. Además constituyen una oportunidad para el país y la ciudad sede de darse a conocer al mundo.</dbo:abstract>
+    <dbo:abstract xml:lang="en">The modern Olympic Games or Olympics (French: Jeux olympiques) are leading international sporting events featuring summer and winter sports competitions in which thousands of athletes from around the world participate in a variety of competitions. The Olympic Games are considered the world&#39;s foremost sports competition with more than 200 nations participating. The Olympic Games are held every four years, with the Summer and Winter Games alternating by occurring every four years but two years apart. Their creation was inspired by the ancient Olympic Games, which were held in Olympia, Greece, from the 8th century BC to the 4th century AD. Baron Pierre de Coubertin founded the International Olympic Committee (IOC) in 1894. The IOC is the governing body of the Olympic Movement, with the Olympic Charter defining its structure and authority. The evolution of the Olympic Movement during the 20th and 21st centuries has resulted in several changes to the Olympic Games. Some of these adjustments include the creation of the Winter Olympic Games for ice and winter sports, the Paralympic Games for athletes with a disability, and the Youth Olympic Games for teenage athletes. The IOC has had to adapt to a variety of economic, political, and technological advancements. As a result, the Olympics has shifted away from pure amateurism, as envisioned by Coubertin, to allowing participation of professional athletes. The growing importance of mass media created the issue of corporate sponsorship and commercialisation of the Games. World wars led to the cancellation of the 1916, 1940, and 1944 Games. Large boycotts during the Cold War limited participation in the 1980 and 1984 Games. The Olympic Movement consists of international sports federations (IFs), National Olympic Committees (NOCs), and organising committees for each specific Olympic Games. As the decision-making body, the IOC is responsible for choosing the host city for each Games, and organises and funds the Games according to the Olympic Charter. The IOC also determines the Olympic programme, consisting of the sports to be contested at the Games. There are several Olympic rituals and symbols, such as the Olympic flag and torch, as well as the opening and closing ceremonies. Over 13,000 athletes compete at the Summer and Winter Olympic Games in 33 different sports and nearly 400 events. The first, second, and third-place finishers in each event receive Olympic medals: gold, silver, and bronze, respectively. The Games have grown so much that nearly every nation is now represented. This growth has created numerous challenges and controversies, including boycotts, doping, bribery, and a terrorist attack in 1972. Every two years the Olympics and its media exposure provide unknown athletes with the chance to attain national and sometimes international fame. The Games also constitute an opportunity for the host city and country to showcase themselves to the world.</dbo:abstract>
+    <dbo:abstract xml:lang="pl">Igrzyska olimpijskie – najstarsza i zarazem największa międzynarodowa impreza sportowa organizowana co 2 lata (na przemian letnie i zimowe) w różnych krajach, pod hasłem szlachetnego współzawodnictwa i braterstwa wszystkich narodów Międzynarodowego Komitetu Olimpijskiego.</dbo:abstract>
+    <dbo:abstract xml:lang="de">Olympische Spiele (von altgriechisch τὰ Ὀλύμπια ta Olýmpia „die Olympischen Spiele“; neugriechisch ολυμπιακοί αγώνες olymbiakí agónes „olympische Wettkämpfe“) ist die Sammelbezeichnung für regelmäßig ausgetragene Sportwettkampfveranstaltungen, die „Olympischen Spiele“ und „Olympischen Winterspiele“. Bei diesen treten Athleten und Mannschaften in verschiedenen Sportarten gegeneinander an. Organisiert werden sie vom Internationalen Olympischen Komitee (IOC). Der Zeitraum zwischen den Spielen wird als ολυμπιάδα olymbiada „Olympiade“ bezeichnet. Die Einführung der Olympischen Spiele der Neuzeit wurde 1894 als Wiederbegründung der antiken Festspiele in Olympia auf Anregung von Pierre de Coubertin beschlossen. Als „Treffen der Jugend der Welt“ sollten sie dem sportlichen Vergleich und der Völkerverständigung dienen. Seit 1896 finden alle vier Jahre Olympische Spiele und seit 1924 Olympische Winterspiele statt. Seit 1994 alternieren Winter- und Sommerspiele im zweijährigen Rhythmus. Das IOC übernimmt auch die Schirmherrschaft für die Paralympics als Wettkämpfe behinderter Sportler, der Deaflympics, Special Olympics und der World Games für nichtolympische Sportarten. Darüber hinaus gibt es seit 2010 die Olympischen Jugendspiele, die für Jugendliche im Alter von 14 bis 18 Jahren bestimmt sind. Die Olympischen Spiele sind in ihrem Umfang stetig gewachsen, so dass mittlerweile fast jedes Land der Welt mit Sportlern vertreten ist. Neben den Fußball-Weltmeisterschaften gelten sie gegenwärtig als das größte Sportereignis der Welt.</dbo:abstract>
+    <dbo:abstract xml:lang="pt">Jogos Olímpicos são um evento multiesportivo global com modalidades de verão e de inverno, em que milhares de atletas participam de várias competições. Atualmente os Jogos são realizados a cada dois anos, em anos pares, com os Jogos Olímpicos de Verão e de Inverno se alternando, embora ocorram a cada quatro anos no âmbito dos respectivos Jogos sazonais. Originalmente, os Jogos Olímpicos da Antiguidade foram realizados em Olímpia, na Grécia, do século VIII a.C. ao século V d.C. No século XIX, o Barão Pierre de Coubertin fundou o Comitê Olímpico Internacional (COI) em 1894. O COI se tornou o órgão dirigente do Movimento Olímpico, cuja estrutura e as ações são definidas pela Carta Olímpica. A evolução do Movimento Olímpico durante o século XX obrigou o COI a adaptar os Jogos para o mundo da mudança das circunstâncias sociais. Alguns destes ajustes incluíram a criação dos Jogos de Inverno para esportes do gelo e da neve, os Jogos Paralímpicos de atletas com deficiência física e visual (atualmente atletas com deficiência intelectual e auditiva não participam) e os Jogos Olímpicos da Juventude para atletas adolescentes. O COI também teve de acomodar os Jogos para as diferentes variáveis econômicas, políticas e realidades tecnológicas do século XX. Como resultado, os Jogos Olímpicos se afastaram do amadorismo puro, como imaginado por Coubertin, para permitir a participação de atletas profissionais. A crescente importância dos meios de comunicação gerou a questão do patrocínio corporativo e a comercialização dos Jogos. O Movimento Olímpico é atualmente composto por federações esportivas internacionais, comitês olímpicos nacionais (CONs) e comissões organizadoras de cada especificidade dos Jogos Olímpicos. Como o órgão de decisão, o COI é responsável por escolher a cidade anfitriã para cada edição. A cidade anfitriã é responsável pela organização e financiamento à celebração dos Jogos coerentes com a Carta Olímpica. O programa olímpico, que consiste no esporte que será disputado a cada Jogos Olímpicos, também é determinado pelo COI. A celebração dos Jogos abrange muitos rituais e símbolos, como a tocha e a bandeira olímpica, bem como as cerimônias de abertura e encerramento. Existem mais de 13 000 atletas que competem nos Jogos Olímpicos de Verão e Inverno, em 33 diferentes modalidades esportivas com cerca de 400 eventos. Os finalistas do primeiro, segundo e terceiro lugar de cada evento recebem medalhas olímpicas de ouro, prata e bronze, respectivamente. Os Jogos têm crescido em escala, a ponto de quase todas as nações serem representadas. Tal crescimento tem criado inúmeros desafios, incluindo boicotes, doping, corrupção de agentes públicos e terrorismo. A cada dois anos, os Jogos Olímpicos e sua exposição à mídia proporcionam a atletas desconhecidos a chance de alcançar fama nacional e, em casos especiais, a fama internacional. Os Jogos também constituem uma oportunidade importante para a cidade e o país se promover e mostrar-se para o mundo.</dbo:abstract>
+    <dbo:abstract xml:lang="ru">Современные Олимпи́йские и́гры — крупнейшие международные комплексные спортивные соревнования, которые проводятся раз в четыре года под эгидой Международного олимпийского комитета. Традиция проведения Олимпийских игр, существовавшая в Древней Греции, зародилась как часть религиозного культа. Игры проводились с 776 до н. э. по 394 н. э., всего было проведено 293 Олимпиады в Олимпии, считавшейся у греков священным местом. От Олимпии произошло и название Игр. Современные Олимпийские игры были возрождены в конце XIX века французским общественным деятелем Пьером де Кубертеном. Олимпийские игры, известные также как летние Олимпийские игры, проводились каждые четыре года, начиная с 1896 года, за исключением лет, пришедшихся на мировые войны. В 1924 году были учреждены зимние Олимпийские игры, которые первоначально проводились в тот же год, что и летние. Однако, начиная с 1994 года, время проведения зимних Олимпийских игр сдвинуто на два года относительно времени проведения летних Игр. В тех же местах проведения Олимпийских игр спустя несколько дней проводятся Паралимпийские игры для людей с ограниченными возможностями.</dbo:abstract>
+    <dbp:colwidth rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">30</dbp:colwidth>
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Event" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Robert_Halperin">
+    <dbo:knownFor rdf:resource="http://dbpedia.org/resource/Olympic_Games" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Brian_Marshall_(athlete)">
+    <dbp:level rdf:resource="http://dbpedia.org/resource/Olympic_Games" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kyle_Prandi">
+    <dbp:level rdf:resource="http://dbpedia.org/resource/Olympic_Games" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Games_(Olympics)">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Olympic_Games" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nine_Network_Olympic_broadcasts">
+    <dbo:genre rdf:resource="http://dbpedia.org/resource/Olympic_Games" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Network_Ten_Olympic_broadcasts">
+    <dbo:genre rdf:resource="http://dbpedia.org/resource/Olympic_Games" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Scott_Cranham">
+    <dbp:level rdf:resource="http://dbpedia.org/resource/Olympic_Games" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gordon_Norton">
+    <dbo:occupation rdf:resource="http://dbpedia.org/resource/Olympic_Games" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/List_of_Morehouse_College_alumni">
+    <dbp:nota rdf:resource="http://dbpedia.org/resource/Olympic_Games" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Richard_Wearne">
+    <dbo:occupation rdf:resource="http://dbpedia.org/resource/Olympic_Games" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Paula_Jean_Myers-Pope">
+    <dbp:level rdf:resource="http://dbpedia.org/resource/Olympic_Games" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Les_Jeux_Olympiques">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Olympic_Games" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/OL">
+    <dbo:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/Olympic_Games" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Greg_Louganis">
+    <dbp:level rdf:resource="http://dbpedia.org/resource/Olympic_Games" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/ABC_Olympic_broadcasts">
+    <dbo:genre rdf:resource="http://dbpedia.org/resource/Olympic_Games" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/NBC_Olympic_broadcasts">
+    <dbo:genre rdf:resource="http://dbpedia.org/resource/Olympic_Games" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gabriela_Andersen-Schiess">
+    <dbp:level rdf:resource="http://dbpedia.org/resource/Olympic_Games" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Olimpics">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Olympic_Games" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ben_Johnson_(sprinter)">
+    <dbp:level rdf:resource="http://dbpedia.org/resource/Olympic_Games" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Olympic">
+    <dbo:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/Olympic_Games" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Olympick_games">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Olympic_Games" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Olympics">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Olympic_Games" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/CBS_Olympic_broadcasts">
+    <dbo:genre rdf:resource="http://dbpedia.org/resource/Olympic_Games" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Pang_Wei">
+    <dbp:events rdf:resource="http://dbpedia.org/resource/Olympic_Games" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/History_of_the_modern_Olympics">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Olympic_Games" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/University_of_London_Boat_Club">
+    <dbp:distinctions rdf:resource="http://dbpedia.org/resource/Olympic_Games" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2016_Summer_Olympics_on_NBC">
+    <dbo:genre rdf:resource="http://dbpedia.org/resource/Olympic_Games" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bruce_McAvaney">
+    <dbo:knownFor rdf:resource="http://dbpedia.org/resource/Olympic_Games" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Christopher_Chavasse">
+    <dbp:profession rdf:resource="http://dbpedia.org/resource/Olympic_Games" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bob_Bolitho">
+    <dbo:team rdf:resource="http://dbpedia.org/resource/Olympic_Games" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bob_Bolitho__13">
+    <dbo:team rdf:resource="http://dbpedia.org/resource/Olympic_Games" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Peter_Norman">
+    <dbp:level rdf:resource="http://dbpedia.org/resource/Olympic_Games" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Park_Si-hun">
+    <dbp:level rdf:resource="http://dbpedia.org/resource/Olympic_Games" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Frederick_Lorz">
+    <dbp:level rdf:resource="http://dbpedia.org/resource/Olympic_Games" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tedford_H._Cann">
+    <dbo:occupation rdf:resource="http://dbpedia.org/resource/Olympic_Games" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Modern_Olympic_Games">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Olympic_Games" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Modern_Olympics">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Olympic_Games" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Olympionike">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Olympic_Games" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Brian_Williams_(sportscaster)">
+    <dbo:knownFor rdf:resource="http://dbpedia.org/resource/Olympic_Games" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Olympic_games">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Olympic_Games" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jules_Sobrian">
+    <dbo:knownFor rdf:resource="http://dbpedia.org/resource/Olympic_Games" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yoel_Romero">
+    <dbp:wrestling rdf:resource="http://dbpedia.org/resource/Olympic_Games" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Peter_Shmock">
+    <dbo:knownFor rdf:resource="http://dbpedia.org/resource/Olympic_Games" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/History_of_the_Modern_Olympics">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Olympic_Games" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/History_of_the_modern_olympics">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Olympic_Games" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jeff_Galloway">
+    <dbo:occupation rdf:resource="http://dbpedia.org/resource/Olympic_Games" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jinelle_Zaugg-Siergiej">
+    <dbo:occupation rdf:resource="http://dbpedia.org/resource/Olympic_Games" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Olympics_Games">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Olympic_Games" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nathan_Milgate">
+    <dbo:occupation rdf:resource="http://dbpedia.org/resource/Olympic_Games" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Seven_Network_Olympic_broadcasts">
+    <dbo:genre rdf:resource="http://dbpedia.org/resource/Olympic_Games" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Wilfrid_Kalaugher">
+    <dbo:occupation rdf:resource="http://dbpedia.org/resource/Olympic_Games" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Great_Olympic_Encyclopedia">
+    <dbo:nonFictionSubject rdf:resource="http://dbpedia.org/resource/Olympic_Games" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Olimpic_games">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Olympic_Games" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Olympics">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Olympic_Games" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/RTP_Desporto">
+    <dbp:data rdf:resource="http://dbpedia.org/resource/Olympic_Games" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Parade_of_nations">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Olympic_Games" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Olympic_Games">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Olympic_Games" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Olympic_history">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Olympic_Games" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Olympic_Games">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Olympic_Games" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jeux_olympiques">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Olympic_Games" />
+  </rdf:Description>
+</rdf:RDF>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:dct="http://purl.org/dc/terms/"
+	xmlns:dbo="http://dbpedia.org/ontology/"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	xmlns:prov="http://www.w3.org/ns/prov#"
+	xmlns:georss="http://www.georss.org/georss/" >
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Port_of_Yokosuka">
+    <rdf:type rdf:resource="http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Object100002684" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Building102913152" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PhysicalEntity100001930" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Artifact100021939" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoGeoEntity" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoPermanentlyLocatedEntity" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatBuildingsAndStructuresInKanagawaPrefecture" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Structure104341686" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Whole100003553" />
+    <rdfs:label xml:lang="en">Port of Yokosuka</rdfs:label>
+    <rdfs:label xml:lang="zh">橫須賀港</rdfs:label>
+    <rdfs:label xml:lang="fr">Port de Yokosuka</rdfs:label>
+    <rdfs:label xml:lang="ja">横須賀港</rdfs:label>
+    <rdfs:comment xml:lang="ja">横須賀港（よこすかこう）は、神奈川県横須賀市に所在し、東京湾に面する港湾。港湾管理者は横須賀市。港湾法上の重要港湾、港則法上の特定港に指定されている。また、周辺地区は都市景観100選に選定されている。</rdfs:comment>
+    <rdfs:comment xml:lang="zh">橫須賀港（日语：横須賀港／よこすかこう）位於日本神奈川縣横須賀市，是面向東京灣的一個港口，由當地市政府所管理。</rdfs:comment>
+    <rdfs:comment xml:lang="fr">Le port de Yokosuka (横須賀港, Yokosuka-kō) se situe au sud du port de Yokohama dans la baie de Tokyo. Classé comme « port important » selon les lois portuaires du Japon, il est administré par la ville de Yokosuka. Situé près de l&#39;usine Nissan d&#39;Oppama, Yokosuka est un port important dans l&#39;export d&#39;automobiles. La flotte de pêche ramène du thon et d&#39;autres produits de la mer. Le ferry Tokyo-Wan (en) relie Yokosuka au port de Kanaya à Futtsu dans la préfecture de Chiba. D&#39;autres ferrys font la liaison avec Tokyo, Izu Ōshima, et même Ōita à Kyūshū.</rdfs:comment>
+    <rdfs:comment xml:lang="en">The Port of Yokosuka (横須賀港 Yokosuka-kō) lies to the south of the Port of Yokohama on Tokyo Bay. Under the Ports and Harbors Law of Japan it is classified as an Important Port. The city of Yokosuka administers the port. The Port of Yokosuka has 100 berths of length 4.5 m or more. It covers 13 areas from Oppama in the north to Kurihama and Nobi in the south. Kurihama is the place where Commodore Matthew Perry landed in 1853. Since then it has been developed for military, shipping, and ferry traffic. The U.S. Navy base and the Maritime Self-Defense force base lie within the Port of Yokosuka.</rdfs:comment>
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Port_of_Yokosuka" />
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q7231304" />
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.02vmm3f" />
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q7231304" />
+    <owl:sameAs rdf:resource="http://ja.dbpedia.org/resource/横須賀港" />
+    <owl:sameAs rdf:resource="http://fr.dbpedia.org/resource/Port_de_Yokosuka" />
+    <owl:sameAs rdf:resource="http://yago-knowledge.org/resource/Port_of_Yokosuka" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Buildings_and_structures_in_Kanagawa_Prefecture" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Ports_and_harbors_of_Japan" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Yokosuka,_Kanagawa" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Transport_in_Yokosuka,_Kanagawa" />
+    <dbo:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">12034226</dbo:wikiPageID>
+    <dbo:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">667318367</dbo:wikiPageRevisionID>
+    <dbo:wikiPageExternalLink rdf:resource="http://www.city.yokosuka.kanagawa.jp/minato/" />
+    <foaf:homepage rdf:resource="http://www.city.yokosuka.kanagawa.jp/minato/" />
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#float">35.2903</geo:lat>
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#float">139.682</geo:long>
+    <foaf:depiction rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/USSMidway_mlit1983.jpg" />
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Port_of_Yokosuka" />
+    <geo:geometry rdf:datatype="http://www.openlinksw.com/schemas/virtrdf#Geometry">POINT(139.68188476562 35.290332794189)</geo:geometry>
+    <dbo:thumbnail rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/USSMidway_mlit1983.jpg?width=300" />
+    <prov:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Port_of_Yokosuka?oldid=667318367" />
+    <dbo:abstract xml:lang="fr">Le port de Yokosuka (横須賀港, Yokosuka-kō) se situe au sud du port de Yokohama dans la baie de Tokyo. Classé comme « port important » selon les lois portuaires du Japon, il est administré par la ville de Yokosuka. Le port de Yokosuka dispose de 100 berths (?) de 4,5 m de longueur ou plus. Il s&#39;étend sur 13 district d&#39;Oppama au nord à Kurihama et Nobi au sud. Kurihama est la ville où le commodore Matthew Perry débarqua en 1853. Yokosuka a depuis été développée pour accueillir des activités militaires, commerciales et touristiques. Une importante base navale américaine et les forces maritimes d&#39;autodéfense siègent au port de Yokosuka. Situé près de l&#39;usine Nissan d&#39;Oppama, Yokosuka est un port important dans l&#39;export d&#39;automobiles. La flotte de pêche ramène du thon et d&#39;autres produits de la mer. Le ferry Tokyo-Wan (en) relie Yokosuka au port de Kanaya à Futtsu dans la préfecture de Chiba. D&#39;autres ferrys font la liaison avec Tokyo, Izu Ōshima, et même Ōita à Kyūshū.</dbo:abstract>
+    <dbo:abstract xml:lang="ja">横須賀港（よこすかこう）は、神奈川県横須賀市に所在し、東京湾に面する港湾。港湾管理者は横須賀市。港湾法上の重要港湾、港則法上の特定港に指定されている。また、周辺地区は都市景観100選に選定されている。</dbo:abstract>
+    <dbo:abstract xml:lang="en">The Port of Yokosuka (横須賀港 Yokosuka-kō) lies to the south of the Port of Yokohama on Tokyo Bay. Under the Ports and Harbors Law of Japan it is classified as an Important Port. The city of Yokosuka administers the port. The Port of Yokosuka has 100 berths of length 4.5 m or more. It covers 13 areas from Oppama in the north to Kurihama and Nobi in the south. Kurihama is the place where Commodore Matthew Perry landed in 1853. Since then it has been developed for military, shipping, and ferry traffic. The U.S. Navy base and the Maritime Self-Defense force base lie within the Port of Yokosuka. Located near the Nissan Oppama plant, Yokosuka is a major port for the shipping of automobiles. The fishing fleet brings in tuna and other ocean products. Tokyo-Wan Ferry links Yokosuka with the Port of Kanaya in Futtsu, Chiba Prefecture. Other ferries go to Tokyo, Izu Ōshima and Ōita in Kyūshū.</dbo:abstract>
+    <dbo:abstract xml:lang="zh">橫須賀港（日语：横須賀港／よこすかこう）位於日本神奈川縣横須賀市，是面向東京灣的一個港口，由當地市政府所管理。</dbo:abstract>
+    <georss:point>35.290333333333336 139.6818888888889</georss:point>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Port_of_yokosuka">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Port_of_Yokosuka" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Port_of_Yokosuka">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Port_of_Yokosuka" />
+  </rdf:Description>
+</rdf:RDF>

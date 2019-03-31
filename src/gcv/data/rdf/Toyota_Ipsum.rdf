@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:dct="http://purl.org/dc/terms/"
+	xmlns:dbo="http://dbpedia.org/ontology/"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:prov="http://www.w3.org/ns/prov#"
+	xmlns:dbp="http://dbpedia.org/property/" >
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Toyota_SportsVan">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Toyota_Ipsum" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Toyota_Sportsvan">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Toyota_Ipsum" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Toyota_Picnic">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Toyota_Ipsum" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Toyota_Gaia">
+    <dbo:relatedMeanOfTransportation rdf:resource="http://dbpedia.org/resource/Toyota_Ipsum" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Toyota_Ipsum">
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Vehicle104524313" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/MeanOfTransportation" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Whole100003553" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Conveyance103100490" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Automobile" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WheeledVehicle104576211" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Object100002684" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Self-propelledVehicle104170037" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Wikicat1990sAutomobiles" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Wikicat2000sAutomobiles" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatMinivans" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Instrumentality103575240" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Van104520170" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PhysicalEntity100001930" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatVehiclesIntroducedIn1995" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatFront-wheel-driveVehicles" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Container103094503" />
+    <rdf:type rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#DesignedArtifact" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/MotorVehicle103791235" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Artifact100021939" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Car102958343" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Minivan103770679" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PassengerVan103896419" />
+    <rdf:type rdf:resource="http://schema.org/Product" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Truck104490091" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatToyotaVehicles" />
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing" />
+    <rdfs:label xml:lang="en">Toyota Ipsum</rdfs:label>
+    <rdfs:label xml:lang="ru">Toyota Ipsum</rdfs:label>
+    <rdfs:label xml:lang="ja">トヨタ・イプサム</rdfs:label>
+    <rdfs:label xml:lang="pl">Toyota Ipsum</rdfs:label>
+    <rdfs:label xml:lang="de">Toyota Ipsum</rdfs:label>
+    <rdfs:comment xml:lang="ja">イプサム（Ipsum）はトヨタ自動車が生産していたミニバン型乗用車である。 当時の初代ホンダ・オデッセイを始めとするミニバンブームの中で初代モデルは目標販売台数を大幅に上回る受注を獲得し、日本国内外のメーカーから類似車種が発売された。2代目へのフルモデルチェンジで大型化や高級化を図るが、初代ほどの人気は得られず長期にわたって販売されていた。さらにエコカー減税の対象となる競合車の登場で大幅に販売台数を減らし、2009年12月の生産終了をもって13年の歴史に幕を下ろした。</rdfs:comment>
+    <rdfs:comment xml:lang="en">The first generation, named Ipsum in Japan and Picnic and SportsVan in export markets, was built from 1995–2001, with export versions arriving in 1996. It had a choice of two inline-four petrol engines, ranging from 1.8- to 2.0-litres, as well as a 2.2-litre diesel engine, the 3C-TE.</rdfs:comment>
+    <rdfs:comment xml:lang="ru">Toyota Ipsum — компактвэн, производившийся японской компанией Toyota с 1995 по 2009 года. Представляет собой 5-дверный минивэн с двумя или тремя рядами кресел и вместительностью 5-7 пассажиров. Производство модели началось в мае 1996 года. Первое поколение выпускалось с мая 1996 года по апрель 2001 года в кузовах CXM10G, SXM10G, SXM15G, оснащались двигателями 3S-FE, 3C-TE. С апреля 1998 года по апрель 2001 года в кузове SXM10G выпускалась модель с двумя рядами кресел. Второе поколение выпускается с мая 2001 в кузовах ACM21W, ACM26W, оснащается двигателем 2AZ-FE. В октябре 2003 года автомобиль прошёл рестайлинг, который внёс небольшие поправки во внешний вид автомобиля (несколько изменена форма фар, бамперов и решётки радиатора). Салон также был немного усовершенствован (появился мульти-рул</rdfs:comment>
+    <rdfs:comment xml:lang="pl">Toyota Ipsum – 7-miejscowy minivan produkowany przez japońskie przedsiębiorstwo Toyota.</rdfs:comment>
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q1210227" />
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.0gdd51" />
+    <owl:sameAs rdf:resource="http://ja.dbpedia.org/resource/トヨタ・イプサム" />
+    <owl:sameAs rdf:resource="http://yago-knowledge.org/resource/Toyota_Ipsum" />
+    <owl:sameAs rdf:resource="http://ko.dbpedia.org/resource/토요타_입섬" />
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Toyota_Ipsum" />
+    <owl:sameAs rdf:resource="http://pl.dbpedia.org/resource/Toyota_Ipsum" />
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q1210227" />
+    <owl:sameAs rdf:resource="http://id.dbpedia.org/resource/Toyota_Ipsum" />
+    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/Toyota_Ipsum" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Compact_MPVs" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Cars_introduced_in_1995" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Toyota_vehicles" />
+    <dbo:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">6602848</dbo:wikiPageID>
+    <dbo:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">738571536</dbo:wikiPageRevisionID>
+    <foaf:name xml:lang="en">Toyota Ipsum</foaf:name>
+    <foaf:depiction rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/2003-2010_Toyota_Avensis_Verso_(ACM21R)_GLX_wagon_(2011-07-17).jpg" />
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Toyota_Ipsum" />
+    <dbo:thumbnail rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/2003-2010_Toyota_Avensis_Verso_(ACM21R)_GLX_wagon_(2011-07-17).jpg?width=300" />
+    <prov:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Toyota_Ipsum?oldid=738571536" />
+    <dbo:abstract xml:lang="pl">Toyota Ipsum – 7-miejscowy minivan produkowany przez japońskie przedsiębiorstwo Toyota.</dbo:abstract>
+    <dbo:abstract xml:lang="en">The first generation, named Ipsum in Japan and Picnic and SportsVan in export markets, was built from 1995–2001, with export versions arriving in 1996. It had a choice of two inline-four petrol engines, ranging from 1.8- to 2.0-litres, as well as a 2.2-litre diesel engine, the 3C-TE.</dbo:abstract>
+    <dbo:abstract xml:lang="ru">Toyota Ipsum — компактвэн, производившийся японской компанией Toyota с 1995 по 2009 года. Представляет собой 5-дверный минивэн с двумя или тремя рядами кресел и вместительностью 5-7 пассажиров. Производство модели началось в мае 1996 года. Первое поколение выпускалось с мая 1996 года по апрель 2001 года в кузовах CXM10G, SXM10G, SXM15G, оснащались двигателями 3S-FE, 3C-TE. С апреля 1998 года по апрель 2001 года в кузове SXM10G выпускалась модель с двумя рядами кресел. Второе поколение выпускается с мая 2001 в кузовах ACM21W, ACM26W, оснащается двигателем 2AZ-FE. В октябре 2003 года автомобиль прошёл рестайлинг, который внёс небольшие поправки во внешний вид автомобиля (несколько изменена форма фар, бамперов и решётки радиатора). Салон также был немного усовершенствован (появился мульти-руль, круиз контроль, также была незначительно изменена торпеда, установлена ещё более современная мультимедиа система с сабвуфером). В комплектации S стали устанавливаться передние сиденья с более серьёзной боковой поддержкой, по сравнению с дорестайлингом) Основной привод — передний, в кузовах SXM15G и ACM26W автомобиль оснащен полным приводом. Toyota Ipsum второго поколения выпускалось в четырёх комплектациях: e, i, u и s (sport). Все они внешне практически ничем не отличаются друг от друга — на первых двух нет релингов на крыше, а на спортивной версии присутствует небольшой аэродинамический обвес. В комплектациях «U» и «S» устанавливается специальная подвеска «TEMS» с регулировкой жёсткости в 4ёх положениях от COMFORT до SPORT, также на этих двух модификациях устанавливается спортивный трёхспицевый руль с возможностью переключения передач на руле в режиме тип-троник. Коэффициент лобового сопротивления составляет всего Cx=0,30 (это очень хороший результат даже для седана, а среди минивэнов это один из лучших результатов). 
+* Первое поколение 
+* Второе поколение 
+* Второе поколение в комплектации S 2001-2003 г.в. Данный автомобиль имеет европейский аналог Toyota Picnic (Первое поколение) и Toyota Avensis Verso (Второе поколение).</dbo:abstract>
+    <dbo:abstract xml:lang="ja">イプサム（Ipsum）はトヨタ自動車が生産していたミニバン型乗用車である。 当時の初代ホンダ・オデッセイを始めとするミニバンブームの中で初代モデルは目標販売台数を大幅に上回る受注を獲得し、日本国内外のメーカーから類似車種が発売された。2代目へのフルモデルチェンジで大型化や高級化を図るが、初代ほどの人気は得られず長期にわたって販売されていた。さらにエコカー減税の対象となる競合車の登場で大幅に販売台数を減らし、2009年12月の生産終了をもって13年の歴史に幕を下ろした。</dbo:abstract>
+    <dbo:class rdf:resource="http://dbpedia.org/resource/Compact_MPV" />
+    <dbo:manufacturer rdf:resource="http://dbpedia.org/resource/Toyota" />
+    <dbo:productionEndYear rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">2009</dbo:productionEndYear>
+    <dbo:productionStartYear rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1995</dbo:productionStartYear>
+    <dbo:relatedMeanOfTransportation rdf:resource="http://dbpedia.org/resource/Toyota_Avensis" />
+    <dbp:wordnet_type rdf:resource="http://www.w3.org/2006/03/wn/wn20/instances/synset-car-noun-1" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Toyota_Ipsum__First_generation__1">
+    <dbo:variantOf rdf:resource="http://dbpedia.org/resource/Toyota_Ipsum" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Toyota_Ipsum__Second_generation__1">
+    <dbo:variantOf rdf:resource="http://dbpedia.org/resource/Toyota_Ipsum" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Avensis_Verso">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Toyota_Ipsum" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Toyota_Nadia">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Toyota_Ipsum" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Toyota_Ipsum">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Toyota_Ipsum" />
+  </rdf:Description>
+</rdf:RDF>

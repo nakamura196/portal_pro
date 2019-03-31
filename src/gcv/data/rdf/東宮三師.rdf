@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:prov="http://www.w3.org/ns/prov#"
+	xmlns:dbpedia-owl="http://dbpedia.org/ontology/"
+	xmlns:dcterms="http://purl.org/dc/terms/"
+	xmlns:prop-ja="http://ja.dbpedia.org/property/" >
+  <rdf:Description rdf:about="http://ja.wikipedia.org/wiki/東宮三師">
+    <foaf:primaryTopic rdf:resource="http://ja.dbpedia.org/resource/東宮三師" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/施琅">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/東宮三師" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/東宮三師">
+    <rdfs:label xml:lang="ja">東宮三師</rdfs:label>
+    <rdfs:comment xml:lang="ja">東宮三師は、太子太師、太子太傅、太子太保の総称である。位階は従一品。皇太子を輔導する官僚であり、一般に高位で信望の厚い大臣が兼任、あるいは選任の者があたった。太子少師、太子少傅、太子少保を総称した東宮三少は東宮三師を輔ける官職である。皇太子を師を敬い道を重んじる品格に育てるため、、東宮三師は儀礼上、十分に高く崇められた。《百官志四上》には「太子太師、太傅、太保、各一人、従一品。掌輔導皇太子。毎見、迎拝殿門、三師答拝、毎門必譲、三師坐、太子乃坐。与三師書、前名惶恐、后名惶恐再拝。太子出、則乗路備卤簿以従。」とある。東宮三師と東宮三少は後世には次第に栄誉職と化し、単純に実の伴わない高官の肩書となり、皇太子を教導する責務を負わなくなった。朝鮮の高麗も東宮三師を設けており、王世子を教導する責務を負った。。</rdfs:comment>
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q10870028" />
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q10870028" />
+    <owl:sameAs rdf:resource="http://zh.dbpedia.org/resource/东宫三师" />
+    <foaf:isPrimaryTopicOf rdf:resource="http://ja.wikipedia.org/wiki/東宮三師" />
+    <prov:wasDerivedFrom rdf:resource="http://ja.wikipedia.org/wiki/東宮三師?oldid=57599015" />
+    <dbpedia-owl:abstract xml:lang="ja">東宮三師は、太子太師、太子太傅、太子太保の総称である。位階は従一品。皇太子を輔導する官僚であり、一般に高位で信望の厚い大臣が兼任、あるいは選任の者があたった。太子少師、太子少傅、太子少保を総称した東宮三少は東宮三師を輔ける官職である。皇太子を師を敬い道を重んじる品格に育てるため、、東宮三師は儀礼上、十分に高く崇められた。《百官志四上》には「太子太師、太傅、太保、各一人、従一品。掌輔導皇太子。毎見、迎拝殿門、三師答拝、毎門必譲、三師坐、太子乃坐。与三師書、前名惶恐、后名惶恐再拝。太子出、則乗路備卤簿以従。」とある。東宮三師と東宮三少は後世には次第に栄誉職と化し、単純に実の伴わない高官の肩書となり、皇太子を教導する責務を負わなくなった。朝鮮の高麗も東宮三師を設けており、王世子を教導する責務を負った。。</dbpedia-owl:abstract>
+    <dbpedia-owl:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1992735</dbpedia-owl:wikiPageID>
+    <dbpedia-owl:wikiPageLength rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">727</dbpedia-owl:wikiPageLength>
+    <dbpedia-owl:wikiPageOutDegree rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">16</dbpedia-owl:wikiPageOutDegree>
+    <dbpedia-owl:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">57599015</dbpedia-owl:wikiPageRevisionID>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/王世子" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/日本" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/太子少保" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/朝鮮" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/太子少師" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/太子太師" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/高麗" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/律令制" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/太子太保" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/東宮三少" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/東宮職" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/Category:中国の官名" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/Category:名数3" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/皇太子" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/太子太傅" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/太子少傅" />
+    <dcterms:subject rdf:resource="http://ja.dbpedia.org/resource/Category:名数3" />
+    <dcterms:subject rdf:resource="http://ja.dbpedia.org/resource/Category:中国の官名" />
+    <prop-ja:wikiPageUsesTemplate rdf:resource="http://ja.dbpedia.org/resource/Template:翻訳中途" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/呉応熊">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/東宮三師" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/洪承疇">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/東宮三師" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/太子太保">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://ja.dbpedia.org/resource/東宮三師" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/東宮三師" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/data/東宮三師.rdf">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document" />
+    <foaf:primaryTopic rdf:resource="http://ja.dbpedia.org/resource/東宮三師" />
+  </rdf:Description>
+</rdf:RDF>

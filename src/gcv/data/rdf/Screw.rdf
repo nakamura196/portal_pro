@@ -1,0 +1,303 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:dct="http://purl.org/dc/terms/"
+	xmlns:dbo="http://dbpedia.org/ontology/"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:prov="http://www.w3.org/ns/prov#"
+	xmlns:dbp="http://dbpedia.org/property/"
+	xmlns:ns8="http://purl.org/linguistics/gold/" >
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Cheese_head_(screw)">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Screw" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lag_screw">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Screw" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Allen_screw">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Screw" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Property_class">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Screw" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Flanged_bolt">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Screw" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Flanged_head">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Screw" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Shoulder_bolt">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Screw" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Screw_and_bolt">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Screw" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/British_Standard_Cycle">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Screw" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Set_screw">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Screw" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Cap_screw">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Screw" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Capscrew">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Screw" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Machine_screw">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Screw" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Leadscrew">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Screw" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Screw">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing" />
+    <rdfs:label xml:lang="ja">ねじ</rdfs:label>
+    <rdfs:label xml:lang="ar">مرود</rdfs:label>
+    <rdfs:label xml:lang="zh">螺絲</rdfs:label>
+    <rdfs:label xml:lang="pt">Parafuso</rdfs:label>
+    <rdfs:label xml:lang="it">Vite (meccanica)</rdfs:label>
+    <rdfs:label xml:lang="ru">Винт (деталь)</rdfs:label>
+    <rdfs:label xml:lang="pl">Śruba (złącze)</rdfs:label>
+    <rdfs:label xml:lang="es">Tornillo</rdfs:label>
+    <rdfs:label xml:lang="de">Schraube</rdfs:label>
+    <rdfs:label xml:lang="en">Screw</rdfs:label>
+    <rdfs:label xml:lang="nl">Schroef (verbinding)</rdfs:label>
+    <rdfs:label xml:lang="fr">Vis de fixation</rdfs:label>
+    <rdfs:comment xml:lang="pt">O parafuso é uma peça metálica ou feita de matéria dura (PVC, plástico, vidro, madeira, entre outros), em formato cônico ou cilíndrico, sulcada em espiral ao longo de sua face externa e com a sua base superior adaptada a diversas ferramentas de fixação (cabeça do parafuso), como chave de fenda ou demais modelos: Fenda cruzada (Phillips), Pozidriv, Torx, Allen, Robertson, Tri-Wing, Torq-Set e Spanner. Sua cabeça também pode ser quadrada ou sextavada para ser utilizada por chave de boca ou chave inglesa.</rdfs:comment>
+    <rdfs:comment xml:lang="fr">Une vis de fixation, appelée communément vis, est un organe mécanique, comportant une tige filetée et une tête; il est destiné à réaliser la fixation d&#39;une ou de plusieurs pièces par pression. La fixation par vis crée une liaison plan sur plan démontable, par placage précontraint des deux pièces à assembler. Tant que les efforts de traction appliqués sur la liaison n&#39;excèdent pas la tension exercée au repos par les vis (dite « prétension »), l&#39;assemblage bénéficie de la raideur des pièces assemblées.</rdfs:comment>
+    <rdfs:comment xml:lang="en">A screw is a type of fastener, sometimes similar to a bolt (see Differentiation between bolt and screw below), typically made of metal, and characterized by a helical ridge, known as a male thread (external thread) or just thread. A screw is an inclined plane wrapped around a nail. Some screw threads are designed to mate with a complementary thread, known as a female thread (internal thread), often in the form of a nut or an object that has the internal thread formed into it. Other screw threads are designed to cut a helical groove in a softer material as the screw is inserted. The most common uses of screws are to hold objects together and to position objects.</rdfs:comment>
+    <rdfs:comment xml:lang="es">Se denomina tornillo a un elemento mecánico , , aunque pueden ser de plástico, utilizado en la fijación temporal de unas piezas con otras, que está dotado de una caña roscada con rosca triangular, que mediante una fuerza de torsión ejercida en su cabeza con una llave adecuada o con un destornillador, se puede introducir en un agujero roscado a su medida o atravesar las piezas y acoplarse a una tuerca.</rdfs:comment>
+    <rdfs:comment xml:lang="de">Eine Schraube ist ein Stift oder Bolzen, der außen mit einem Gewinde versehen ist. Eine mit einer Schraube hergestellte Verbindung ist in der Regel kraft- und formschlüssig und wieder lösbar. Grundsätzlich ist zwischen sogenannten Holz- und Metallschrauben zu unterscheiden. Holzschrauben sind schwach konisch und werden vorwiegend in Holz eingeschraubt, worin sie sich ein Gegengewinde selbst schneiden. Ein besonderes und angepasstes Gegenstück wie die Mutter existiert nicht. Eine Schraube ist auch eines der beiden Teile eines Schraubgetriebes.</rdfs:comment>
+    <rdfs:comment xml:lang="ja">ねじ（螺子、捻子、捩子、螺旋、英: screw）は、円筒や円錐の面に沿って螺旋状の溝を設けた固着具。主として別個の部材の締結に用いられるが、回転運動と直線運動との変換などにも用いられる。ボルトのように外表面にねじ山がある雄ねじとナットのように内表面にねじ山のある雌ねじがある。雄ねじと雌ねじの組み合わせで使用されるが、後者がなく木材や薄い金属などの部材に穴を開けながら締結するものもあり木ねじと呼ばれる。 これらの他にも、ぜんまいやぜんまいを巻く装置もねじと呼ばれる。言葉の比喩として「ねじを巻く」とは、ぜんまいに動力を与えるところから、誰かを、何かを『追い込む』の意味として使われる。 長方形の一対角を直線で結び、この長方形を巻いて円筒とした時、対角線は「つる巻き線 (helix)」と呼ばれる三次元曲線を描く。ねじは、このつる巻き線に沿って溝を形成したものである。 今日ではねじはあらゆる用途において大量に使用されており、その多くはボルトやナット、木ねじなどによる締結用途である。また、ねじは各種の機械の運動や位置決めなどでも欠かせないものとなっている。</rdfs:comment>
+    <rdfs:comment xml:lang="ar">المِروَد أو المحوى أو البرغي (من العثمانية بورغو) أو البريمة أو اللولب (في عديد المخطوطات) أو القلاووظ (في مصر) هو قطعة من المعدن شبه أسطوانية الشكل تقريبا مدببة من أحد أطرافها وعريضة من الجهة الأخرى محززة على شكل لولبي شبيه لحد ما بالمسمار, عند تثبيت رأسه المدبب في قطعة من الخشب وأدارة البرغي من جهة رأسه العريض يدخل البرغي في القطعة الخشبية يصعب معه سحب البرغي عن الخشبة. ملف:Screw and trough.gif هناك أنواع وقياسات مختلفة من البراغي وكذلك المادة المصنوعة منها, فقد يكون البرغي مصنوع من الحديد العادي أو الحديد المغلون أو البراص أو الألمنيوم أو البلاستك ولكل منها استخداماته الخاصة.</rdfs:comment>
+    <rdfs:comment xml:lang="nl">Een schroef (Belgisch-Nederlands: vijs) is een middel om voorwerpen met elkaar te verbinden. Een schroef bestaat uit een cilindervormig of conisch deel (de spil) waaromheen een schroefdraad is aangebracht, met aan één uiteinde een verbreding, de kop, waarin op het uiteinde een sleuf of een anders gevormde verdieping is aangebracht. Hierin past een schroevendraaier. Een schroef wordt met een schroevendraaier of een schroefboormachine aan de bovenzijde van de kop aangedraaid. Als de aandraaikracht op de buitenzijde van de kop wordt uitgeoefend, spreken we van een bout.</rdfs:comment>
+    <rdfs:comment xml:lang="it">Una vite è un organo filettato di forma cilindrica, utilizzata prevalentemente per fissare oggetti tra loro. È una macchina semplice in grado di trasformare il moto circolare in moto rettilineo.</rdfs:comment>
+    <rdfs:comment xml:lang="pl">Śruba – element połączenia śrubowego. W budowie maszyn łączniki te znajdują różnorakie zastosowanie, dlatego też występują w wielu odmianach zawartych w normie PN-91/M-82055. Śruby, pod względem postaci, różnią się między sobą m.in. kształtem łba, zakończenia lub czopa, długością gwintu w stosunku do długości trzpienia, rodzajem gwintu oraz innymi szczegółami.</rdfs:comment>
+    <rdfs:comment xml:lang="zh">螺絲（英语：screw）即螺（丝）钉，是一种常见的紧固件，在機械、電器及建築物上广泛使用。一般材質為金屬或塑膠，呈圓柱形，表面刻有凹凸的溝稱為螺紋。螺紋是一個環繞螺絲側面的螺旋傾斜面，讓螺絲可應用螺旋機制緊鎖著螺絲帽或其他物體，這些物體的內側有和螺絲相對應的螺紋，稱為內螺紋。一般螺絲帽或其他物件的內螺絲需另外加工產生，不過有一種螺絲稱為自攻螺絲，可以在較軟的物體上切削出內螺紋，因此不需特別的加工。 螺絲的主要功用是接合二個物體，或者是固定一物體的位置。螺絲通常可隨意移除或重新嵌緊而不損其效率，亦比釘提供更大的力量，也可重覆使用。 一般螺絲的頂部直徑較大，常見的有圓形、方形或正六邊形，若頂部為正六邊形，可以用扳手轉動螺絲，若頂部為圓形，頂部正面也會有溝紋，方便使用對應的螺丝起子轉動螺絲。最常見的溝紋有一字型及十字型和方形，也有其他的形狀。較突出的頂部亦令螺絲不會鑽得太深入而穿過物料，及提高螺絲對物料的壓力。有些螺絲不會設計較大直徑的頂部，例如固定螺絲即為一例，因此螺絲可以整個鎖進工件內，不會有露出的部份。</rdfs:comment>
+    <rdfs:comment xml:lang="ru">Винт (от нем. Gewinde — нарезка, резьба, через польск. gwint) — крепёжное изделие для соединения деталей, с внутренней резьбой или без неё. Имеет вид стержня с наружной резьбой на одном конце и конструктивным элементом для передачи крутящего момента на другом. Передающим усилие элементом могут являться различного рода головки, шлицы в торце стержня и тому подобное. Шуруп — это разновидность винта, отличается тем, что имеет коническое сужение на конце и более редкую резьбу. Шуруп, создающий резьбу при вкручивании, называется самонарезающим винтом — в просторечии «саморезом». Винт предназначен для образования резьбового соединения или фиксации. Кроме соединения деталей, винты наряду с болтами могут выполнять функцию оси вращающихся деталей, служить направляющей для прямолинейного или вращате</rdfs:comment>
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q11022" />
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.03q5f5" />
+    <owl:sameAs rdf:resource="http://es.dbpedia.org/resource/Tornillo" />
+    <owl:sameAs rdf:resource="http://cs.dbpedia.org/resource/Šroub" />
+    <owl:sameAs rdf:resource="http://d-nb.info/gnd/4128855-5" />
+    <owl:sameAs rdf:resource="http://it.dbpedia.org/resource/Vite_(meccanica)" />
+    <owl:sameAs rdf:resource="http://pt.dbpedia.org/resource/Parafuso" />
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Screw" />
+    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/Schraube" />
+    <owl:sameAs rdf:resource="http://pl.dbpedia.org/resource/Śruba_(złącze)" />
+    <owl:sameAs rdf:resource="http://ja.dbpedia.org/resource/ねじ" />
+    <owl:sameAs rdf:resource="http://fr.dbpedia.org/resource/Vis_de_fixation" />
+    <owl:sameAs rdf:resource="http://nl.dbpedia.org/resource/Schroef_(verbinding)" />
+    <owl:sameAs rdf:resource="http://id.dbpedia.org/resource/Baut" />
+    <owl:sameAs rdf:resource="http://el.dbpedia.org/resource/Κοχλίας" />
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.0c37z" />
+    <owl:sameAs rdf:resource="http://ko.dbpedia.org/resource/수나사" />
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q11022" />
+    <owl:sameAs rdf:resource="http://eu.dbpedia.org/resource/Torloju" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Screws" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Articles_containing_video_clips" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Metalworking" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Woodworking" />
+    <dbo:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">20691673</dbo:wikiPageID>
+    <dbo:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">744747724</dbo:wikiPageRevisionID>
+    <dbo:wikiPageExternalLink rdf:resource="https://books.google.com/books?id=NaZwZK2xm-QC" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.baconsdozen.co.uk/tools/conversion%20charts.htm" />
+    <dbo:wikiPageExternalLink rdf:resource="https://books.google.com/books?id=4Q8LAAAAIAAJ" />
+    <dbo:wikiPageExternalLink rdf:resource="https://books.google.com/books?id=A81HmmRCN7YC" />
+    <dbo:wikiPageExternalLink rdf:resource="https://books.google.com/books?id=2yADAAAAMBAJ&amp;pg=PA149&amp;dq=popular+science+February+1946&amp;hl=en&amp;ei=vOPkTL3jJsnOnAf8toClDQ&amp;sa=X&amp;oi=book_result&amp;ct=result&amp;resnum=5&amp;ved=0CDMQ6AEwBA#v=onepage&amp;q=popular%20science%20February%201946&amp;f=true" />
+    <dbo:wikiPageExternalLink rdf:resource="http://hdl.handle.net/2060/19900009424" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.vibratoryfeeders.com/cascade-bowls.html" />
+    <dbo:wikiPageExternalLink rdf:resource="https://books.google.com/books?id=BPavrOZxCXAC" />
+    <dbo:wikiPageExternalLink rdf:resource="http://screwsnutsbolts.wix.com/screwsnutsbolts" />
+    <foaf:depiction rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Screws.jpg" />
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Screw" />
+    <dbo:thumbnail rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Screws.jpg?width=300" />
+    <prov:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Screw?oldid=744747724" />
+    <dbo:abstract xml:lang="ja">ねじ（螺子、捻子、捩子、螺旋、英: screw）は、円筒や円錐の面に沿って螺旋状の溝を設けた固着具。主として別個の部材の締結に用いられるが、回転運動と直線運動との変換などにも用いられる。ボルトのように外表面にねじ山がある雄ねじとナットのように内表面にねじ山のある雌ねじがある。雄ねじと雌ねじの組み合わせで使用されるが、後者がなく木材や薄い金属などの部材に穴を開けながら締結するものもあり木ねじと呼ばれる。 これらの他にも、ぜんまいやぜんまいを巻く装置もねじと呼ばれる。言葉の比喩として「ねじを巻く」とは、ぜんまいに動力を与えるところから、誰かを、何かを『追い込む』の意味として使われる。 長方形の一対角を直線で結び、この長方形を巻いて円筒とした時、対角線は「つる巻き線 (helix)」と呼ばれる三次元曲線を描く。ねじは、このつる巻き線に沿って溝を形成したものである。 今日ではねじはあらゆる用途において大量に使用されており、その多くはボルトやナット、木ねじなどによる締結用途である。また、ねじは各種の機械の運動や位置決めなどでも欠かせないものとなっている。</dbo:abstract>
+    <dbo:abstract xml:lang="en">A screw is a type of fastener, sometimes similar to a bolt (see Differentiation between bolt and screw below), typically made of metal, and characterized by a helical ridge, known as a male thread (external thread) or just thread. A screw is an inclined plane wrapped around a nail. Some screw threads are designed to mate with a complementary thread, known as a female thread (internal thread), often in the form of a nut or an object that has the internal thread formed into it. Other screw threads are designed to cut a helical groove in a softer material as the screw is inserted. The most common uses of screws are to hold objects together and to position objects. A screw will usually have a head on one end that contains a specially formed shape that allows it to be turned, or driven, with a tool. Common tools for driving screws include screwdrivers and wrenches. The head is usually larger than the body of the screw, which keeps the screw from being driven deeper than the length of the screw and to provide a bearing surface. There are exceptions; for instance, carriage bolts have a domed head that is not designed to be driven; set screws often have a head smaller than the outer diameter of the screw; J-bolts have a J-shaped head which is not designed to be driven, but rather is usually sunk into concrete allowing it to be used as an anchor bolt. The cylindrical portion of the screw from the underside of the head to the tip is known as the shank; it may be fully threaded or partially threaded. The distance between each thread is called the &quot;pitch&quot;. The majority of screws are tightened by clockwise rotation, which is termed a right-hand thread; a common mnemonic device for remembering this when working with screws or bolts is &quot;righty-tighty, lefty-loosey.&quot; Another rule is this: curl the fingers of your right hand around the screw with your thumb pointing is the direction you want the screw to go. If the screw is right-handed (most screws are) and you turn the screw in the direction of your fingers the screw will move in the direction of your thumb. Screws with left-hand threads are used in exceptional cases. For example, when the screw will be subject to counterclockwise torque (which would work to undo a right-hand thread), a left-hand-threaded screw would be an appropriate choice. The left side pedal of a bicycle has a left-hand thread. More generally, screw may mean any helical device, such as a clamp, a micrometer, a ship&#39;s propeller or an Archimedes&#39; screw water pump.</dbo:abstract>
+    <dbo:abstract xml:lang="ru">Винт (от нем. Gewinde — нарезка, резьба, через польск. gwint) — крепёжное изделие для соединения деталей, с внутренней резьбой или без неё. Имеет вид стержня с наружной резьбой на одном конце и конструктивным элементом для передачи крутящего момента на другом. Передающим усилие элементом могут являться различного рода головки, шлицы в торце стержня и тому подобное. Шуруп — это разновидность винта, отличается тем, что имеет коническое сужение на конце и более редкую резьбу. Шуруп, создающий резьбу при вкручивании, называется самонарезающим винтом — в просторечии «саморезом». Винт предназначен для образования резьбового соединения или фиксации. Кроме соединения деталей, винты наряду с болтами могут выполнять функцию оси вращающихся деталей, служить направляющей для прямолинейного или вращательного движения и прочих целей.</dbo:abstract>
+    <dbo:abstract xml:lang="pl">Śruba – element połączenia śrubowego. W budowie maszyn łączniki te znajdują różnorakie zastosowanie, dlatego też występują w wielu odmianach zawartych w normie PN-91/M-82055. Śruby, pod względem postaci, różnią się między sobą m.in. kształtem łba, zakończenia lub czopa, długością gwintu w stosunku do długości trzpienia, rodzajem gwintu oraz innymi szczegółami.</dbo:abstract>
+    <dbo:abstract xml:lang="de">Eine Schraube ist ein Stift oder Bolzen, der außen mit einem Gewinde versehen ist. Eine mit einer Schraube hergestellte Verbindung ist in der Regel kraft- und formschlüssig und wieder lösbar. Grundsätzlich ist zwischen sogenannten Holz- und Metallschrauben zu unterscheiden. Holzschrauben sind schwach konisch und werden vorwiegend in Holz eingeschraubt, worin sie sich ein Gegengewinde selbst schneiden. Ein besonderes und angepasstes Gegenstück wie die Mutter existiert nicht. Eine Metallschraube ist meistens zylindrisch und wird in ein Gegengewinde, das sich in der Mutter oder einem anderen an der Verbindung beteiligten Teil befindet, geschraubt. Sie heißt Metallschraube, weil sie im Metallgewerbe entwickelt wurde und vorwiegend dort verwendet wird. Sowohl Holz- als auch Metallschrauben bestehen meistens aus Metall (vorwiegend Stahl, Messing oder manchmal Kupfer), seltener aus Kunststoff. Bei Schrauben mit Kopf (kegel-, scheiben- oder linsenförmig) dient die Ringfläche unter dem Kopf als Anschlag gegen das mit ihnen zu befestigende gelochte Teil. Der Kopf enthält auch Formelemente zum formschlüssigen Kontakt mit Werkzeugen für das Drehen der Schraube: Schlitz, (Außen- oder Innen-) Sechskant oder andere. Das Gewinde stellt eine schiefe Ebene dar, die wendelförmig auf den Grundkörper gewickelt ist. Infolge der Keilwirkung einer schiefen Ebene wird beim Anziehen der Schraube eine kleine angewendete Umfangskraft zu einer größeren Axialkraft verstärkt. Andererseits wird eine große Bewegung am Umfang in eine kleine Axialbewegung umgewandelt (zum Justieren angewendet). Eine Schraube ist auch eines der beiden Teile eines Schraubgetriebes. Im vorliegenden Artikel werden vorwiegend die Eigenschaften von Metallschrauben beschrieben.</dbo:abstract>
+    <dbo:abstract xml:lang="zh">螺絲（英语：screw）即螺（丝）钉，是一种常见的紧固件，在機械、電器及建築物上广泛使用。一般材質為金屬或塑膠，呈圓柱形，表面刻有凹凸的溝稱為螺紋。螺紋是一個環繞螺絲側面的螺旋傾斜面，讓螺絲可應用螺旋機制緊鎖著螺絲帽或其他物體，這些物體的內側有和螺絲相對應的螺紋，稱為內螺紋。一般螺絲帽或其他物件的內螺絲需另外加工產生，不過有一種螺絲稱為自攻螺絲，可以在較軟的物體上切削出內螺紋，因此不需特別的加工。 螺絲的主要功用是接合二個物體，或者是固定一物體的位置。螺絲通常可隨意移除或重新嵌緊而不損其效率，亦比釘提供更大的力量，也可重覆使用。 一般螺絲的頂部直徑較大，常見的有圓形、方形或正六邊形，若頂部為正六邊形，可以用扳手轉動螺絲，若頂部為圓形，頂部正面也會有溝紋，方便使用對應的螺丝起子轉動螺絲。最常見的溝紋有一字型及十字型和方形，也有其他的形狀。較突出的頂部亦令螺絲不會鑽得太深入而穿過物料，及提高螺絲對物料的壓力。有些螺絲不會設計較大直徑的頂部，例如固定螺絲即為一例，因此螺絲可以整個鎖進工件內，不會有露出的部份。 大部份螺絲的螺紋都有一定的方向，順時針方向旋轉時可將螺絲鎖緊，這種螺絲稱為右旋螺絲。與上述螺絲相反的左旋螺絲，只有在特定情形下使用。有些應用下螺絲會受到逆時針方向的力矩，右旋螺絲會因為受到的力矩而使螺絲轉鬆，此時就需要使用左旋螺絲，例如腳踏車的左側踏板就會使用左旋螺絲。不過汽車左右側的車輪都是用右側螺絲旋緊，沒有資料顯示車輪鬆脫與螺絲旋紋有直接關係。</dbo:abstract>
+    <dbo:abstract xml:lang="nl">Een schroef (Belgisch-Nederlands: vijs) is een middel om voorwerpen met elkaar te verbinden. Een schroef bestaat uit een cilindervormig of conisch deel (de spil) waaromheen een schroefdraad is aangebracht, met aan één uiteinde een verbreding, de kop, waarin op het uiteinde een sleuf of een anders gevormde verdieping is aangebracht. Hierin past een schroevendraaier. Een schroef wordt met een schroevendraaier of een schroefboormachine aan de bovenzijde van de kop aangedraaid. Als de aandraaikracht op de buitenzijde van de kop wordt uitgeoefend, spreken we van een bout. In Europa en Azië worden de maten van schroeven en bouten doorgaans aangegeven in de vorm M(etrisch)(diameter van de spil in mm) x (lengte van de spil in mm), bijvoorbeeld M5 x 15. De maten worden dus gemeten exclusief de kop (links op de foto). Alleen bij een verzonken schroef (rechts op de foto), waarbij de kop aan de onderkant conisch en een de bovenkant plat is, wordt de kop meegerekend in de aangegeven lengte (15 mm). Bij een M5 x 15 inbusschroef kan de cilindrische kop wel 5 mm lengte toevoegen aan het totaal. Schroeven met een draadeinde dat langs de gehele lengte gelijk van diameter is, worden in moeren of tapgaten gedraaid; schroeven met een puntig uiteinde worden rechtstreeks in het te bevestigen materiaal gedraaid.</dbo:abstract>
+    <dbo:abstract xml:lang="ar">المِروَد أو المحوى أو البرغي (من العثمانية بورغو) أو البريمة أو اللولب (في عديد المخطوطات) أو القلاووظ (في مصر) هو قطعة من المعدن شبه أسطوانية الشكل تقريبا مدببة من أحد أطرافها وعريضة من الجهة الأخرى محززة على شكل لولبي شبيه لحد ما بالمسمار, عند تثبيت رأسه المدبب في قطعة من الخشب وأدارة البرغي من جهة رأسه العريض يدخل البرغي في القطعة الخشبية يصعب معه سحب البرغي عن الخشبة. ملف:Screw and trough.gif هناك أنواع وقياسات مختلفة من البراغي وكذلك المادة المصنوعة منها, فقد يكون البرغي مصنوع من الحديد العادي أو الحديد المغلون أو البراص أو الألمنيوم أو البلاستك ولكل منها استخداماته الخاصة. أنواع البراغي الموجودة في الأسواق والمستخدمة في الصناعة تعد بالألاف ويحكمها عموما نوع مادتها وطولها وقطرها ونوع تسنينها، والوصلات التالية لصور يمكن أن توضح ذلك  و . يستخدم لتثبيت البراغي عدد خاصة من المفكات ذات رؤوس مختلفة تتناسب والعزم اللازم لتثبيت البرغيي في موضعه, من هذه المفكات ما هو يدوي ومنها الآلي الكهربائي.</dbo:abstract>
+    <dbo:abstract xml:lang="es">Se denomina tornillo a un elemento mecánico , , aunque pueden ser de plástico, utilizado en la fijación temporal de unas piezas con otras, que está dotado de una caña roscada con rosca triangular, que mediante una fuerza de torsión ejercida en su cabeza con una llave adecuada o con un destornillador, se puede introducir en un agujero roscado a su medida o atravesar las piezas y acoplarse a una tuerca. El tornillo deriva directamente de la máquina simple conocida como plano inclinado y siempre trabaja asociado a un orificio roscado.Los tornillos permiten que las piezas sujetas con los mismos puedan ser desmontadas cuando la ocasión lo requiera.</dbo:abstract>
+    <dbo:abstract xml:lang="fr">Une vis de fixation, appelée communément vis, est un organe mécanique, comportant une tige filetée et une tête; il est destiné à réaliser la fixation d&#39;une ou de plusieurs pièces par pression. La fixation par vis crée une liaison plan sur plan démontable, par placage précontraint des deux pièces à assembler. Tant que les efforts de traction appliqués sur la liaison n&#39;excèdent pas la tension exercée au repos par les vis (dite « prétension »), l&#39;assemblage bénéficie de la raideur des pièces assemblées.</dbo:abstract>
+    <dbo:abstract xml:lang="pt">O parafuso é uma peça metálica ou feita de matéria dura (PVC, plástico, vidro, madeira, entre outros), em formato cônico ou cilíndrico, sulcada em espiral ao longo de sua face externa e com a sua base superior adaptada a diversas ferramentas de fixação (cabeça do parafuso), como chave de fenda ou demais modelos: Fenda cruzada (Phillips), Pozidriv, Torx, Allen, Robertson, Tri-Wing, Torq-Set e Spanner. Sua cabeça também pode ser quadrada ou sextavada para ser utilizada por chave de boca ou chave inglesa. O parafuso tem por finalidade ser o elemento de fixação de duas ou mais superfícies, combinadas ou em junções diferentes, como a madeira, parede de alvenaria (neste caso com a utilização de bucha de fixação), chapas metálicas ou numa matriz de matéria pouco dura ou dura, podendo associar o uso de porcas ou através do efeito combinado de rotação e pressão (penetração por progressão retilínea) em um orifício destinado exclusivamente para recebê-lo, sulcado em sentido contrário ao espiral ou não.</dbo:abstract>
+    <dbo:abstract xml:lang="it">Una vite è un organo filettato di forma cilindrica, utilizzata prevalentemente per fissare oggetti tra loro. È una macchina semplice in grado di trasformare il moto circolare in moto rettilineo.</dbo:abstract>
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Fastener" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Screw_(disambiguation)">
+    <dbo:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/Screw" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Merksworth_(1874)">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Screw" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/USS_Lackawanna_(1862)">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Screw" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/USS_Lancaster_(1858)">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Screw" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Pentalobe_security_screw">
+    <dbp:notes rdf:resource="http://dbpedia.org/resource/Screw" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hindley_Manufacturing">
+    <dbo:product rdf:resource="http://dbpedia.org/resource/Screw" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Cross-head_screw">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Screw" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Phillips-head_screw">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Screw" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lag_bolt">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Screw" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/USS_Housatonic_(1861)">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Screw" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Phillips_Head_Screw">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Screw" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Grade_(fasteners)">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Screw" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/HMS_Chesapeake_(1855)">
+    <dbp:shipPropulsion rdf:resource="http://dbpedia.org/resource/Screw" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/MV_Royal_Iris">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Screw" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/HMS_Exmouth_(1854)">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Screw" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Reed_And_Prince">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Screw" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Woodscrew">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Screw" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Security_Screw">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Screw" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Screw_head">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Screw" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Screwthread">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Screw" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bolt_Manufacturing_Process">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Screw" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Wood_screw">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Screw" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/USS_Oneida_(1861)">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Screw" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ice_screw">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Screw" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/USS_Quinnebaug_(1866)">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Screw" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Screws">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Screw" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Herbert_screw">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Screw" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Skrew">
+    <owl:differentFrom rdf:resource="http://dbpedia.org/resource/Screw" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Alhambra_(1855)">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Screw" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Self-tapping_screw">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Screw" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Security_screw">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Screw" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/HMS_Sans_Pareil_(1851)">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Screw" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bolt_manufacturing_process">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Screw" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Wood_screw_manufacturing">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Screw" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Screw/Bolt">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Screw" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sheet-metal_screw">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Screw" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sheet_metal_screw">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Screw" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tamper-resistant_screws">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Screw" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Syndesmotic_screw">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Screw" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tamper-resistant_screw">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Screw" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Screw_fastener">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Screw" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Coach_screw">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Screw" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Concrete_screw">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Screw" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tapcon">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Screw" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bulge_head">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Screw" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Button_head">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Screw" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Dome_head">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Screw" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Fillister_head">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Screw" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Flat-head_screw">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Screw" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Oval_head">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Screw" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Pan_head">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Screw" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Raised_head">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Screw" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Truss_head">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Screw" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Machine_screws">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Screw" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Screw_hole">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Screw" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bolt_(hardware)">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Screw" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Screw">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Screw" />
+  </rdf:Description>
+</rdf:RDF>

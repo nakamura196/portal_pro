@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:dct="http://purl.org/dc/terms/"
+	xmlns:dbo="http://dbpedia.org/ontology/"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	xmlns:prov="http://www.w3.org/ns/prov#"
+	xmlns:georss="http://www.georss.org/georss/"
+	xmlns:dbp="http://dbpedia.org/property/"
+	xmlns:ns10="http://purl.org/linguistics/gold/" >
+  <rdf:Description rdf:about="http://dbpedia.org/resource/National_Institute_for_Japanese_Language_and_Linguistics">
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q43229" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/University" />
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q327333" />
+    <rdf:type rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Agent" />
+    <rdf:type rdf:resource="http://schema.org/Organization" />
+    <rdf:type rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#SocialPerson" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Organisation" />
+    <rdf:type rdf:resource="http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q24229398" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/GovernmentAgency" />
+    <rdfs:label xml:lang="ja">国立国語研究所</rdfs:label>
+    <rdfs:label xml:lang="en">National Institute for Japanese Language and Linguistics</rdfs:label>
+    <rdfs:comment xml:lang="ja">国立国語研究所（こくりつこくごけんきゅうしょ）は、大学共同利用機関法人人間文化研究機構が設置する大学共同利用機関の一つ。</rdfs:comment>
+    <rdfs:comment xml:lang="en">The National Institute for Japanese Language and Linguistics (国立国語研究所 Kokuritsu Kokugo Kenkyūjo) (NINJAL) is an independent administrative institution in Japan, established for the purpose of studying, surveying, promoting, and making recommendations for the proper usage of the Japanese language. The institute is currently located in Tachikawa City in Tokyo, Japan.</rdfs:comment>
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/National_Institute_for_Japanese_Language_and_Linguistics" />
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q4853049" />
+    <owl:sameAs rdf:resource="http://ja.dbpedia.org/resource/国立国語研究所" />
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.04ycvc4" />
+    <owl:sameAs rdf:resource="http://d-nb.info/gnd/505310-9" />
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q4853049" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Research_institutes_in_Japan" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Government_of_Japan" />
+    <dbo:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">20229193</dbo:wikiPageID>
+    <dbo:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">667855598</dbo:wikiPageRevisionID>
+    <dbo:wikiPageExternalLink rdf:resource="http://www.ninjal.ac.jp/" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.ninjal.ac.jp/en/" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.ninjal.ac.jp/info/aboutus/overview/files/yoran2012.pdf" />
+    <foaf:name xml:lang="en">National Institute for Japanese Language and Linguistics</foaf:name>
+    <foaf:name xml:lang="en">Kokuritsu Kokugo Kenkyusho</foaf:name>
+    <foaf:homepage rdf:resource="http://www.ninjal.ac.jp/" />
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#float">35.7108</geo:lat>
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#float">139.41</geo:long>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/National_Institute_for_Japanese_Language_and_Linguistics" />
+    <geo:geometry rdf:datatype="http://www.openlinksw.com/schemas/virtrdf#Geometry">POINT(139.40992736816 35.710838317871)</geo:geometry>
+    <prov:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/National_Institute_for_Japanese_Language_and_Linguistics?oldid=667855598" />
+    <dbo:abstract xml:lang="ja">国立国語研究所（こくりつこくごけんきゅうしょ）は、大学共同利用機関法人人間文化研究機構が設置する大学共同利用機関の一つ。</dbo:abstract>
+    <dbo:abstract xml:lang="en">The National Institute for Japanese Language and Linguistics (国立国語研究所 Kokuritsu Kokugo Kenkyūjo) (NINJAL) is an independent administrative institution in Japan, established for the purpose of studying, surveying, promoting, and making recommendations for the proper usage of the Japanese language. The institute is currently located in Tachikawa City in Tokyo, Japan.</dbo:abstract>
+    <dbo:formationYear rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1948</dbo:formationYear>
+    <dbo:headquarter rdf:resource="http://dbpedia.org/resource/Tokyo,_Japan" />
+    <dbo:jurisdiction rdf:resource="http://dbpedia.org/resource/Federal_government_of_the_Japan" />
+    <dbo:leader rdf:resource="http://dbpedia.org/resource/Director-General_of" />
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Tokyo,_Japan" />
+    <dbo:parentOrganisation rdf:resource="http://dbpedia.org/resource/Independent_administrative_institution" />
+    <georss:point>35.71084 139.40993</georss:point>
+    <dbp:abbreviation rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">NINJAL</dbp:abbreviation>
+    <dbp:chief1Position rdf:resource="http://dbpedia.org/resource/KAGEYAMA_Taro" />
+    <ns10:hypernym rdf:resource="http://dbpedia.org/resource/Institution" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/NINJAL">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/National_Institute_for_Japanese_Language_and_Linguistics" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/National_Institute_for_Japanese_Language">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/National_Institute_for_Japanese_Language_and_Linguistics" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/National_Institute_for_Japanese_Language_and_Linguistics">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/National_Institute_for_Japanese_Language_and_Linguistics" />
+  </rdf:Description>
+</rdf:RDF>

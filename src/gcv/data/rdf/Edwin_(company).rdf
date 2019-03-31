@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:dct="http://purl.org/dc/terms/"
+	xmlns:dbo="http://dbpedia.org/ontology/"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:prov="http://www.w3.org/ns/prov#"
+	xmlns:dbp="http://dbpedia.org/property/" >
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Edwin_(company)">
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Company" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q43229" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Agent" />
+    <rdf:type rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#SocialPerson" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q24229398" />
+    <rdf:type rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Organisation" />
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing" />
+    <rdf:type rdf:resource="http://schema.org/Organization" />
+    <rdfs:label xml:lang="ja">エドウイン</rdfs:label>
+    <rdfs:label xml:lang="en">Edwin (company)</rdfs:label>
+    <rdfs:comment xml:lang="en">Edwin or often capitalized, EDWIN, is a Japanese clothing brand founded in 1969 by Edwin Company (株式会社エドウイン, Kabushiki-gaisha Edowin) mainly focused on jeans manufacture. The company has 365 employees and a revenue of 35 billion yen (as of 2002) according to the official site. The company has the largest flagship fashion store in Japan in Arakawa, Tokyo. Their most popular line of clothing is the 503 jeans model which was first sold in 1997. Actor Brad Pitt has been an official spokesman and model for the brand, appearing in many of its advertisements in the past.</rdfs:comment>
+    <rdfs:comment xml:lang="ja">エドウイン（EDWIN）は、デニム素材を中心とした日本のファッションブランド。</rdfs:comment>
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Edwin_(company)" />
+    <owl:sameAs rdf:resource="http://ja.dbpedia.org/resource/エドウイン" />
+    <owl:sameAs rdf:resource="http://ko.dbpedia.org/resource/에드윈_(기업)" />
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q5346176" />
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q5346176" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Clothing_brands_of_Japan" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Jeans" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Companies_based_in_Tokyo" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Itochu" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:1969_establishments_in_Japan" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Clothing_companies_of_Japan" />
+    <dbo:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4521296</dbo:wikiPageID>
+    <dbo:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">715028885</dbo:wikiPageRevisionID>
+    <dbo:wikiPageExternalLink rdf:resource="http://edwin-europe.com/" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.edwin.co.jp/" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.edwin-europe.com/" />
+    <foaf:name xml:lang="en">Edwin Chan Co., Ltd.</foaf:name>
+    <foaf:name xml:lang="en">株式会社エドウイン</foaf:name>
+    <foaf:homepage rdf:resource="http://edwin-europe.com/" />
+    <foaf:depiction rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/EDWIN_COMPANY_Head_Office.JPG" />
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Edwin_(company)" />
+    <dbo:thumbnail rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/EDWIN_COMPANY_Head_Office.JPG?width=300" />
+    <prov:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Edwin_(company)?oldid=715028885" />
+    <dbo:abstract xml:lang="en">Edwin or often capitalized, EDWIN, is a Japanese clothing brand founded in 1969 by Edwin Company (株式会社エドウイン, Kabushiki-gaisha Edowin) mainly focused on jeans manufacture. The company has 365 employees and a revenue of 35 billion yen (as of 2002) according to the official site. The company has the largest flagship fashion store in Japan in Arakawa, Tokyo. Their most popular line of clothing is the 503 jeans model which was first sold in 1997. Actor Brad Pitt has been an official spokesman and model for the brand, appearing in many of its advertisements in the past.</dbo:abstract>
+    <dbo:abstract xml:lang="ja">エドウイン（EDWIN）は、デニム素材を中心とした日本のファッションブランド。</dbo:abstract>
+    <dbo:industry rdf:resource="http://dbpedia.org/resource/Jeans" />
+    <dbo:locationCity rdf:resource="http://dbpedia.org/resource/Tokyo" />
+    <dbo:locationCountry rdf:resource="http://dbpedia.org/resource/Japan" />
+    <dbo:numberOfEmployees rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">365</dbo:numberOfEmployees>
+    <dbo:revenue rdf:datatype="http://dbpedia.org/datatype/japaneseYen">3.5E10</dbo:revenue>
+    <dbp:founded rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1969</dbp:founded>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Edwin_(clothing_brand)">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Edwin_(company)" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Edwin_(clothing)">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Edwin_(company)" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Edwin_(clothing_retailer)">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Edwin_(company)" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Edwin_(company)">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Edwin_(company)" />
+  </rdf:Description>
+</rdf:RDF>

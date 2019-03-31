@@ -1,0 +1,610 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:dbo="http://dbpedia.org/ontology/"
+	xmlns:dbp="http://dbpedia.org/property/"
+	xmlns:dct="http://purl.org/dc/terms/"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	xmlns:prov="http://www.w3.org/ns/prov#"
+	xmlns:georss="http://www.georss.org/georss/"
+	xmlns:ns10="http://dbpedia.org/property/state/"
+	xmlns:ns11="http://purl.org/linguistics/gold/" >
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tungusic_languages">
+    <dbp:region rdf:resource="http://dbpedia.org/resource/Siberia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Typhoon_Halong_(2014)">
+    <dbp:areas rdf:resource="http://dbpedia.org/resource/Siberia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yevgeny_Yevtushenko">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Siberia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Reindeer_in_Siberian_shamanism">
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Siberia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Titsian_Tabidze">
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Siberia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Zabel_Yesayan">
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Siberia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Alexey_Okladnikov">
+    <dbo:knownFor rdf:resource="http://dbpedia.org/resource/Siberia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Slava_Mogutin">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Siberia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yermak_Timofeyevich">
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Siberia" />
+    <dbo:knownFor rdf:resource="http://dbpedia.org/resource/Siberia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Arcady_Aris">
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Siberia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yupik_languages">
+    <dbp:region rdf:resource="http://dbpedia.org/resource/Siberia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Baikal_Mountains">
+    <dbp:region rdf:resource="http://dbpedia.org/resource/Siberia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Eastern_Front_of_the_Russian_Civil_War">
+    <dbo:place rdf:resource="http://dbpedia.org/resource/Siberia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Manfred_Stern">
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Siberia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vega_gull">
+    <dbo:binomialAuthority rdf:resource="http://dbpedia.org/resource/Siberia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Innocent_of_Irkutsk">
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Siberia" />
+    <dbo:majorShrine rdf:resource="http://dbpedia.org/resource/Siberia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Siberian_Turkic_languages">
+    <dbp:region rdf:resource="http://dbpedia.org/resource/Siberia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sziberia">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Siberia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Geography_of_Siberia">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Siberia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sibir&#39;">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Siberia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Anadyr_River">
+    <dbo:sourceCountry rdf:resource="http://dbpedia.org/resource/Siberia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Grigori_Rasputin">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Siberia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Siberian_Husky">
+    <dbp:country rdf:resource="http://dbpedia.org/resource/Siberia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Daniel_Gottlieb_Messerschmidt">
+    <dbo:knownFor rdf:resource="http://dbpedia.org/resource/Siberia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Khanate_of_Sibir">
+    <dbp:region rdf:resource="http://dbpedia.org/resource/Siberia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mir_mine">
+    <ns10:province rdf:resource="http://dbpedia.org/resource/Siberia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Siberian_International_Marathon">
+    <dbp:location rdf:resource="http://dbpedia.org/resource/Siberia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yakov_Yurovsky">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Siberia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Shlomo_Scharf">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Siberia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/1094_Siberia">
+    <dbp:namedAfter rdf:resource="http://dbpedia.org/resource/Siberia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Siberia_(disambiguation)">
+    <dbo:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/Siberia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Abraham_Walkowitz">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Siberia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Oksana_Kolesnikova">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Siberia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Syberia">
+    <owl:differentFrom rdf:resource="http://dbpedia.org/resource/Siberia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nina_Lobkovskaya">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Siberia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Russian_conquest_of_Siberia">
+    <dbo:place rdf:resource="http://dbpedia.org/resource/Siberia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sibir’">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Siberia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Сиби́рь">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Siberia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Anna_Barsukova">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Siberia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Alexander_Raikhel">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Siberia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Battle_of_Lake_Baikal">
+    <dbo:place rdf:resource="http://dbpedia.org/resource/Siberia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lake_Baikal">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Siberia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Elgygytgyn_Lake">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Siberia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lake_Oron">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Siberia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Dmitry_Kroyter">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Siberia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Latgalian_language">
+    <dbo:spokenIn rdf:resource="http://dbpedia.org/resource/Siberia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Anatoly_Sivkov">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Siberia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Defect_Designer">
+    <dbo:hometown rdf:resource="http://dbpedia.org/resource/Siberia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Krasnoyarsk_Railway">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Siberia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tough_Guy_or_Chicken%3F">
+    <dbp:title rdf:resource="http://dbpedia.org/resource/Siberia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/West_Siberian_Railway">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Siberia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Research_and_Development_Institute_of_Ecology_and_the_Sustainable_Use_of_Natural_Resources">
+    <dbo:regionServed rdf:resource="http://dbpedia.org/resource/Siberia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yuri_Kane">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Siberia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Antonina_Pirozhkova">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Siberia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yury_Verlinsky">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Siberia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Maria_Lark">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Siberia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sylvia_Agnes_Sophia_Tait">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Siberia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sibiria">
+    <owl:differentFrom rdf:resource="http://dbpedia.org/resource/Siberia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Alexander_Sibiryakov">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Siberia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tornadoes_of_2007">
+    <dbp:areasAffected rdf:resource="http://dbpedia.org/resource/Siberia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Siberia">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/AdministrativeRegion" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Region108630039" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Region" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Object100002684" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoLegalActorGeo" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PhysicalEntity100001930" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoPermanentlyLocatedEntity" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoGeoEntity" />
+    <rdf:type rdf:resource="http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing" />
+    <rdf:type rdf:resource="http://schema.org/AdministrativeArea" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatRegionsOfRussia" />
+    <rdf:type rdf:resource="http://schema.org/Place" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Location100027167" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/PopulatedPlace" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Settlement" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Place" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q3455524" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Location" />
+    <rdfs:label xml:lang="ja">シベリア</rdfs:label>
+    <rdfs:label xml:lang="pt">Sibéria</rdfs:label>
+    <rdfs:label xml:lang="en">Siberia</rdfs:label>
+    <rdfs:label xml:lang="it">Siberia</rdfs:label>
+    <rdfs:label xml:lang="ar">سيبيريا</rdfs:label>
+    <rdfs:label xml:lang="fr">Sibérie</rdfs:label>
+    <rdfs:label xml:lang="pl">Syberia</rdfs:label>
+    <rdfs:label xml:lang="de">Sibirien</rdfs:label>
+    <rdfs:label xml:lang="zh">西伯利亚</rdfs:label>
+    <rdfs:label xml:lang="nl">Siberië</rdfs:label>
+    <rdfs:label xml:lang="ru">Сибирь</rdfs:label>
+    <rdfs:label xml:lang="es">Siberia</rdfs:label>
+    <rdfs:comment xml:lang="en">Siberia (/saɪˈbɪəriə/; Russian: Сиби́рь, tr. Sibir&#39;; IPA: [sʲɪˈbʲirʲ] ) is an extensive geographical region, and by the broadest definition is also known as North Asia. Siberia has been historically part of Russia since the 17th century.</rdfs:comment>
+    <rdfs:comment xml:lang="nl">Siberië (Russisch: Сибирь, Sibir) is de naam voor een groot gebied in Noord-Azië dat voor het grootste deel is gelegen in het Aziatische deel van Rusland.</rdfs:comment>
+    <rdfs:comment xml:lang="zh">西伯利亞（俄语：Сибирь），古稱「鮮卑利亞」或「錫伯利亞」，是俄羅斯及蒙古国北部的一片非常大的地域，佔有整個北亞，面積約1,276萬平方公里，範圍西至烏拉山脈、東至太平洋；北至北冰洋，南至哈薩克的中北部，以及蒙古国和中國的邊境。整個地域除了西南部份屬於哈薩克以外，其餘的都屬於俄羅斯，並且占据了其75％的領土。</rdfs:comment>
+    <rdfs:comment xml:lang="it">La Siberia (in russo: Сиби́рь? Sibir&#39; ; in tataro: Seber; in mongolo, &quot;Siberia&quot; significa &quot;terra che dorme&quot; [Sibi]) è una vastissima regione della Russia che copre tutta l&#39;Asia settentrionale e comprende la maggior parte della steppa asiatica. Si estende a est della Russia europea, dalla quale è separata dagli Urali e dal fiume Ural, fino all&#39;Oceano Pacifico, e dall&#39;Oceano Artico verso sud fino ai confini con il Kazakistan, la Mongolia e la Cina. Tutta la Siberia appartiene alla Russia e ne ricopre il 74,7% del territorio.</rdfs:comment>
+    <rdfs:comment xml:lang="pt">A Sibéria (Russo: Сиби́рь, Sibir) é uma vasta região da Rússia e do norte do Cazaquistão, integralmente no norte da Ásia, estendendo-se dos Urais ao oceano Pacífico, e para sul desde o oceano Ártico até aos montes do centro-norte do Cazaquistão e até à fronteira com a Mongólia e República Popular da China.</rdfs:comment>
+    <rdfs:comment xml:lang="ar">سيبيريا هي الجزء الشرقي والشمال الشرقي من روسيا. يمتد غرباً من جبال الأورال حتي المحيط الهادي شرقاً، ومن المحيط المتجمد الشمالي حتي حدود كازاخستان و منغوليا و الصين جنوباً وتمثل 77% من مساحة روسيا (13.1 مليون كيلومتر مربع) ولكن عدد سكانها يمثل 27% من سكان روسيا (39 مليون نسمة).</rdfs:comment>
+    <rdfs:comment xml:lang="ja">シベリア（英: Siberia サイベリア、露: Сибирь スィビーリ）は、ロシア連邦領内のおよそウラル山脈分水嶺以東の北アジア地域である。漢字表記で西比利亜とも書く。かつては日本語でシベリヤという表記も多くみられた。シベリアの名称はシビル・ハン国に由来する。 一般的には極東分水嶺（サハ共和国東縁）より東の日本海・オホーツク海など沿岸地域（極東ロシア）は含まないが、広義には含めることもある。ロシア連邦所属の共和国・自治管区は存在するが、独立国家は存在しない。主な都市として、西から、オムスク、ノヴォシビルスク、クラスノヤルスク、イルクーツク、ヤクーツクがある。広義のシベリアはさらに、エカテリンブルク、ハバロフスク、ウラジオストクを含む。人口最大の都市はノヴォシビルスク。現在ではロシア語話者が人口の大半を占めるが、サハ語などのテュルク諸語や、ウラル語族に属する言語が多く分布している。</rdfs:comment>
+    <rdfs:comment xml:lang="es">Para otros usos del término véase Siberia (desambiguación). Siberia (en ruso: Сиби́рь, tr.: Sibír) es una vasta región geográfica que se encuentra en la parte asiática oriental de Rusia, por lo que también se le llama Rusia asiática, Rusia oriental o Rusia del Este; y por su situación geográfica respecto al continente asiático se denomina ocasionalmente Asia Septentrional, Asia del norte o Norte de Asia. Es una región que se extiende desde los montes Urales en el oeste, hasta el océano Pacífico en el este, y que colinda al norte con el océano Ártico y al sur con Kazajistán, Mongolia, Corea del norte y China. No representa ninguna división político-administrativa, ya que está formada por varios distritos de la Federación Rusa.</rdfs:comment>
+    <rdfs:comment xml:lang="pl">Syberia (ros. Сибирь, Sibir’ ) – kraina geograficzna w północnej Azji, wchodząca w skład Rosji, położona między Uralem na zachodzie, Oceanem Arktycznym na północy, działem wód zlewisk Oceanu Arktycznego i Spokojnego na wschodzie, oraz stepami Kazachstanu i Mongolii na południu. W ujęciu historycznym (oraz potocznym w Rosji) do Syberii należy również rosyjski Daleki Wschód. Powierzchnia Syberii w zależności od przyjętego przebiegu jej wschodniej granicy to około 10 lub 12,7 mln km².</rdfs:comment>
+    <rdfs:comment xml:lang="fr">45xCe modèle est-il pertinent ? Cliquez pour en voir d&#39;autres.Cet article ne cite pas suffisamment ses sources (mars 2013). Si vous disposez d&#39;ouvrages ou d&#39;articles de référence ou si vous connaissez des sites web de qualité traitant du thème abordé ici, merci de compléter l&#39;article en donnant les références utiles à sa vérifiabilité et en les liant à la section « Notes et références » (modifier l&#39;article, comment ajouter mes sources ?).</rdfs:comment>
+    <rdfs:comment xml:lang="de">Als Sibirien (russisch Сиби́рь/Sibir) bezeichnet man im weitesten Sinne den ganzen nordasiatischen Teil der Russischen Föderation. Es wird im Westen begrenzt vom Ural, im Norden vom Arktischen Ozean, im Osten vom Pazifik und im Süden von der Volksrepublik China, der Mongolei und Kasachstan. Es umfasst rund drei Viertel des russischen Territoriums und misst 13,1 Millionen Quadratkilometer.</rdfs:comment>
+    <rdfs:comment xml:lang="ru">Сибирь — обширный географический регион в северо-восточной части Евразии, ограниченный с запада Уральскими горами, с востока Дальневосточными регионами России, с севера Северным Ледовитым океаном, с юга границей сопредельных государств России (Казахстана, Монголии, Китая). В современном употреблении под термином Сибирь, как правило, понимается находящаяся в этих географических рубежах территория Российской Федерации, хотя, как историческое понятие, в своих широких границах Сибирь включает в себя и северо-восток Казахстана, и весь Российский Дальний Восток.</rdfs:comment>
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Siberia" />
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Shamanism" />
+    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/Sibirien" />
+    <owl:sameAs rdf:resource="http://it.dbpedia.org/resource/Siberia" />
+    <owl:sameAs rdf:resource="http://ko.dbpedia.org/resource/시베리아" />
+    <owl:sameAs rdf:resource="http://ja.dbpedia.org/resource/シベリア" />
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.07bfd" />
+    <owl:sameAs rdf:resource="http://eu.dbpedia.org/resource/Siberia" />
+    <owl:sameAs rdf:resource="http://el.dbpedia.org/resource/Σιβηρία" />
+    <owl:sameAs rdf:resource="http://sw.cyc.com/concept/Mx4rvVjtbJwpEbGdrcN5Y29ycA" />
+    <owl:sameAs rdf:resource="http://yago-knowledge.org/resource/Eastern_Siberia" />
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q5428" />
+    <owl:sameAs rdf:resource="http://pt.dbpedia.org/resource/Sibéria" />
+    <owl:sameAs rdf:resource="http://data.nytimes.com/66221059091048872481" />
+    <owl:sameAs rdf:resource="http://id.dbpedia.org/resource/Siberia" />
+    <owl:sameAs rdf:resource="http://es.dbpedia.org/resource/Siberia" />
+    <owl:sameAs rdf:resource="http://nl.dbpedia.org/resource/Siberië" />
+    <owl:sameAs rdf:resource="http://cs.dbpedia.org/resource/Sibiř" />
+    <owl:sameAs rdf:resource="http://d-nb.info/gnd/4054780-2" />
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Siberia" />
+    <owl:sameAs rdf:resource="http://fr.dbpedia.org/resource/Sibérie" />
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q5428" />
+    <owl:sameAs rdf:resource="http://yago-knowledge.org/resource/Siberia" />
+    <owl:sameAs rdf:resource="http://pl.dbpedia.org/resource/Syberia" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:North_Asia" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Regions_of_Russia" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Siberia" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Geography_of_Russia" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Eurasian_Steppe" />
+    <dbo:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">29639</dbo:wikiPageID>
+    <dbo:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">740138275</dbo:wikiPageRevisionID>
+    <dbo:wikiPageExternalLink rdf:resource="http://daily-notes.com/2013/05/the_center_of_siberia/" />
+    <foaf:name xml:lang="en">Siberia</foaf:name>
+    <foaf:name xml:lang="en">Siberian Tatar: Сибер (Siber)</foaf:name>
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#float">60.0</geo:lat>
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#float">105.0</geo:long>
+    <foaf:depiction rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Siberia-FederalSubjects.svg" />
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Siberia" />
+    <geo:geometry rdf:datatype="http://www.openlinksw.com/schemas/virtrdf#Geometry">POINT(105 60)</geo:geometry>
+    <dbo:thumbnail rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Siberia-FederalSubjects.svg?width=300" />
+    <prov:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Siberia?oldid=740138275" />
+    <dbo:abstract xml:lang="zh">西伯利亞（俄语：Сибирь），古稱「鮮卑利亞」或「錫伯利亞」，是俄羅斯及蒙古国北部的一片非常大的地域，佔有整個北亞，面積約1,276萬平方公里，範圍西至烏拉山脈、東至太平洋；北至北冰洋，南至哈薩克的中北部，以及蒙古国和中國的邊境。整個地域除了西南部份屬於哈薩克以外，其餘的都屬於俄羅斯，並且占据了其75％的領土。</dbo:abstract>
+    <dbo:abstract xml:lang="ja">シベリア（英: Siberia サイベリア、露: Сибирь スィビーリ）は、ロシア連邦領内のおよそウラル山脈分水嶺以東の北アジア地域である。漢字表記で西比利亜とも書く。かつては日本語でシベリヤという表記も多くみられた。シベリアの名称はシビル・ハン国に由来する。 一般的には極東分水嶺（サハ共和国東縁）より東の日本海・オホーツク海など沿岸地域（極東ロシア）は含まないが、広義には含めることもある。ロシア連邦所属の共和国・自治管区は存在するが、独立国家は存在しない。主な都市として、西から、オムスク、ノヴォシビルスク、クラスノヤルスク、イルクーツク、ヤクーツクがある。広義のシベリアはさらに、エカテリンブルク、ハバロフスク、ウラジオストクを含む。人口最大の都市はノヴォシビルスク。現在ではロシア語話者が人口の大半を占めるが、サハ語などのテュルク諸語や、ウラル語族に属する言語が多く分布している。</dbo:abstract>
+    <dbo:abstract xml:lang="fr">45xCe modèle est-il pertinent ? Cliquez pour en voir d&#39;autres.Cet article ne cite pas suffisamment ses sources (mars 2013). Si vous disposez d&#39;ouvrages ou d&#39;articles de référence ou si vous connaissez des sites web de qualité traitant du thème abordé ici, merci de compléter l&#39;article en donnant les références utiles à sa vérifiabilité et en les liant à la section « Notes et références » (modifier l&#39;article, comment ajouter mes sources ?). La Sibérie (en russe : Сибирь, Sibir) est la partie située en Asie de la Fédération de Russie : une immense région d&#39;une surface de 13,1 millions de km² très peu peuplée (39 millions d&#39;habitants soit environ 3 habitants au km²). Située dans l&#39;est de la Russie, elle s’étend de l&#39;Oural à l&#39;ouest jusqu&#39;à l&#39;océan Pacifique et de l&#39;océan Arctique au nord jusqu&#39;aux monts Altaï au nord du Kazakhstan et aux frontières mongoles et chinoises. Constituant la partie nord de l&#39;Asie, la Sibérie représente 77 % de la surface de la Russie, mais seulement 27 % de sa population, et se caractérise par un climat froid et continental, et un paysage au relief modéré sillonné par d&#39;énormes fleuves. Longtemps habitée par des populations pastorales turcophones, elle a été progressivement colonisée par l&#39;Empire russe. Le régime soviétique a démarré au XXe siècle l&#39;extraction minière, gazière et pétrolière et poursuivi l&#39;exploitation forestière.</dbo:abstract>
+    <dbo:abstract xml:lang="it">La Siberia (in russo: Сиби́рь? Sibir&#39; ; in tataro: Seber; in mongolo, &quot;Siberia&quot; significa &quot;terra che dorme&quot; [Sibi]) è una vastissima regione della Russia che copre tutta l&#39;Asia settentrionale e comprende la maggior parte della steppa asiatica. Si estende a est della Russia europea, dalla quale è separata dagli Urali e dal fiume Ural, fino all&#39;Oceano Pacifico, e dall&#39;Oceano Artico verso sud fino ai confini con il Kazakistan, la Mongolia e la Cina. Tutta la Siberia appartiene alla Russia e ne ricopre il 74,7% del territorio.</dbo:abstract>
+    <dbo:abstract xml:lang="de">Als Sibirien (russisch Сиби́рь/Sibir) bezeichnet man im weitesten Sinne den ganzen nordasiatischen Teil der Russischen Föderation. Es wird im Westen begrenzt vom Ural, im Norden vom Arktischen Ozean, im Osten vom Pazifik und im Süden von der Volksrepublik China, der Mongolei und Kasachstan. Es umfasst rund drei Viertel des russischen Territoriums und misst 13,1 Millionen Quadratkilometer. Im engeren Sinn versteht man unter Sibirien fünf der acht russischen Großlandschaften: das große Westsibirische Tiefland, das Nordsibirische Tiefland, die Mitteljakutische Niederung, das Mittelsibirische Bergland und die Südsibirischen Gebirge. Ostsibirien (zwei weitere Großlandschaften östlich der Lena) und die südöstlichsten Gebiete Russlands zwischen Amur und Pazifikküste werden hingegen auch als Russisch Fernost (Föderationskreis Ferner Osten) bezeichnet.</dbo:abstract>
+    <dbo:abstract xml:lang="pl">Syberia (ros. Сибирь, Sibir’ ) – kraina geograficzna w północnej Azji, wchodząca w skład Rosji, położona między Uralem na zachodzie, Oceanem Arktycznym na północy, działem wód zlewisk Oceanu Arktycznego i Spokojnego na wschodzie, oraz stepami Kazachstanu i Mongolii na południu. W ujęciu historycznym (oraz potocznym w Rosji) do Syberii należy również rosyjski Daleki Wschód. Powierzchnia Syberii w zależności od przyjętego przebiegu jej wschodniej granicy to około 10 lub 12,7 mln km².</dbo:abstract>
+    <dbo:abstract xml:lang="pt">A Sibéria (Russo: Сиби́рь, Sibir) é uma vasta região da Rússia e do norte do Cazaquistão, integralmente no norte da Ásia, estendendo-se dos Urais ao oceano Pacífico, e para sul desde o oceano Ártico até aos montes do centro-norte do Cazaquistão e até à fronteira com a Mongólia e República Popular da China.</dbo:abstract>
+    <dbo:abstract xml:lang="nl">Siberië (Russisch: Сибирь, Sibir) is de naam voor een groot gebied in Noord-Azië dat voor het grootste deel is gelegen in het Aziatische deel van Rusland.</dbo:abstract>
+    <dbo:abstract xml:lang="ar">سيبيريا هي الجزء الشرقي والشمال الشرقي من روسيا. يمتد غرباً من جبال الأورال حتي المحيط الهادي شرقاً، ومن المحيط المتجمد الشمالي حتي حدود كازاخستان و منغوليا و الصين جنوباً وتمثل 77% من مساحة روسيا (13.1 مليون كيلومتر مربع) ولكن عدد سكانها يمثل 27% من سكان روسيا (39 مليون نسمة).</dbo:abstract>
+    <dbo:abstract xml:lang="es">Para otros usos del término véase Siberia (desambiguación). Siberia (en ruso: Сиби́рь, tr.: Sibír) es una vasta región geográfica que se encuentra en la parte asiática oriental de Rusia, por lo que también se le llama Rusia asiática, Rusia oriental o Rusia del Este; y por su situación geográfica respecto al continente asiático se denomina ocasionalmente Asia Septentrional, Asia del norte o Norte de Asia. Es una región que se extiende desde los montes Urales en el oeste, hasta el océano Pacífico en el este, y que colinda al norte con el océano Ártico y al sur con Kazajistán, Mongolia, Corea del norte y China. No representa ninguna división político-administrativa, ya que está formada por varios distritos de la Federación Rusa. Siberia representa aproximadamente el 76 % del territorio de Rusia, (13,1 millones de kilómetros cuadrados), con una densidad de población muy baja, siendo el hogar de sólo el 28 % de la población de Rusia (alrededor de 40 millones de personas).</dbo:abstract>
+    <dbo:abstract xml:lang="en">Siberia (/saɪˈbɪəriə/; Russian: Сиби́рь, tr. Sibir&#39;; IPA: [sʲɪˈbʲirʲ] ) is an extensive geographical region, and by the broadest definition is also known as North Asia. Siberia has been historically part of Russia since the 17th century. The territory of Siberia extends eastwards from the Ural Mountains to the watershed between the Pacific and Arctic drainage basins. Siberia stretches southwards from the Arctic Ocean to the hills of north-central Kazakhstan and to the national borders of Mongolia and China. With an area of 13.1 million square kilometres, Siberia accounts for 77% of Russia&#39;s land area, but it is home to just 40 million people – 27% of the country&#39;s population. This is equivalent to an average population density of about 3 inhabitants per square kilometre (approximately equal to that of Australia), making Siberia one of the most sparsely populated regions on Earth.</dbo:abstract>
+    <dbo:abstract xml:lang="ru">Сибирь — обширный географический регион в северо-восточной части Евразии, ограниченный с запада Уральскими горами, с востока Дальневосточными регионами России, с севера Северным Ледовитым океаном, с юга границей сопредельных государств России (Казахстана, Монголии, Китая). В современном употреблении под термином Сибирь, как правило, понимается находящаяся в этих географических рубежах территория Российской Федерации, хотя, как историческое понятие, в своих широких границах Сибирь включает в себя и северо-восток Казахстана, и весь Российский Дальний Восток. Сибирь подразделяется на Западную и Восточную, иногда выделяют Южную Сибирь (в горной части), Северо-Восточную Сибирь и Среднюю Сибирь. Вошла в состав России в XVI—XVII веках. Площадь географической Сибири — 9,8 млн км² (около 57 % территории России). Население в границах географической Сибири — 24 757 359 чел. (2016)</dbo:abstract>
+    <dbo:border rdf:resource="http://dbpedia.org/resource/Mongolia" />
+    <dbo:border rdf:resource="http://dbpedia.org/resource/Arctic_Ocean" />
+    <dbo:border rdf:resource="http://dbpedia.org/resource/Ural_Mountains" />
+    <dbo:border rdf:resource="http://dbpedia.org/resource/PRC" />
+    <dbo:border rdf:resource="http://dbpedia.org/resource/Kazakhstan" />
+    <dbo:border rdf:resource="http://dbpedia.org/resource/Pacific_Ocean" />
+    <dbo:country rdf:resource="http://dbpedia.org/resource/Russia" />
+    <dbo:highestPlace rdf:resource="http://dbpedia.org/resource/Klyuchevskaya_Sopka" />
+    <dbo:maximumElevation rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4649.0</dbo:maximumElevation>
+    <dbo:part rdf:resource="http://dbpedia.org/resource/Siberia" />
+    <dbo:part rdf:resource="http://dbpedia.org/resource/West_Siberian_Plain" />
+    <dbo:part rdf:resource="http://dbpedia.org/resource/Central_Siberian_Plateau" />
+    <dbo:populationTotal rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">40000000</dbo:populationTotal>
+    <dbo:region rdf:resource="http://dbpedia.org/resource/North_Asia" />
+    <dbo:synonym>(Sibir&#39;&#39;)</dbo:synonym>
+    <dbo:synonym>Russian: &#39;&#39;</dbo:synonym>
+    <dbo:type rdf:resource="http://dbpedia.org/resource/Geography_of_Russia" />
+    <georss:point>60.0 105.0</georss:point>
+    <dbp:aprHighC rdf:datatype="http://www.w3.org/2001/XMLSchema#double">8.1</dbp:aprHighC>
+    <dbp:aprLowC rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-1.7</dbp:aprLowC>
+    <dbp:aprMeanC rdf:datatype="http://www.w3.org/2001/XMLSchema#double">3.2</dbp:aprMeanC>
+    <dbp:aprPrecipitationMm rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">24</dbp:aprPrecipitationMm>
+    <dbp:area rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">13100000</dbp:area>
+    <dbp:augHighC rdf:datatype="http://www.w3.org/2001/XMLSchema#double">22.2</dbp:augHighC>
+    <dbp:augLowC rdf:datatype="http://www.w3.org/2001/XMLSchema#double">11.7</dbp:augLowC>
+    <dbp:augMeanC rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">17</dbp:augMeanC>
+    <dbp:augPrecipitationMm rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">66</dbp:augPrecipitationMm>
+    <dbp:commons rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">yes</dbp:commons>
+    <dbp:commonsSearch rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Сибирь</dbp:commonsSearch>
+    <dbp:d rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">yes</dbp:d>
+    <dbp:dSearch rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Q5428</dbp:dSearch>
+    <dbp:date rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">August 2010</dbp:date>
+    <dbp:dateType rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Duration</dbp:dateType>
+    <dbp:decHighC rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-8.9</dbp:decHighC>
+    <dbp:decLowC rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-16.4</dbp:decLowC>
+    <dbp:decMeanC rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-12.7</dbp:decMeanC>
+    <dbp:decPrecipitationMm rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">24</dbp:decPrecipitationMm>
+    <dbp:febHighC rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-10.3</dbp:febHighC>
+    <dbp:febLowC rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-19.1</dbp:febLowC>
+    <dbp:febMeanC rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-14.7</dbp:febMeanC>
+    <dbp:febPrecipitationMm rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">14</dbp:febPrecipitationMm>
+    <dbp:imageCaption rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;North Asia</dbp:imageCaption>
+    <dbp:imageCaption rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;Geographic Russian Siberia</dbp:imageCaption>
+    <dbp:imageCaption rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;Siberian Federal District</dbp:imageCaption>
+    <dbp:imageSize rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">300</dbp:imageSize>
+    <dbp:janHighC rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-12.2</dbp:janHighC>
+    <dbp:janLowC rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-20.1</dbp:janLowC>
+    <dbp:janMeanC rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-16.2</dbp:janMeanC>
+    <dbp:janPrecipitationMm rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">19</dbp:janPrecipitationMm>
+    <dbp:julHighC rdf:datatype="http://www.w3.org/2001/XMLSchema#double">25.7</dbp:julHighC>
+    <dbp:julLowC rdf:datatype="http://www.w3.org/2001/XMLSchema#double">14.7</dbp:julLowC>
+    <dbp:julMeanC rdf:datatype="http://www.w3.org/2001/XMLSchema#double">20.2</dbp:julMeanC>
+    <dbp:julPrecipitationMm rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">72</dbp:julPrecipitationMm>
+    <dbp:junHighC rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">24</dbp:junHighC>
+    <dbp:junLowC rdf:datatype="http://www.w3.org/2001/XMLSchema#double">12.3</dbp:junLowC>
+    <dbp:junMeanC rdf:datatype="http://www.w3.org/2001/XMLSchema#double">18.2</dbp:junMeanC>
+    <dbp:junPrecipitationMm rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">58</dbp:junPrecipitationMm>
+    <dbp:location rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Novosibirsk, Siberia&#39;s largest city</dbp:location>
+    <dbp:marHighC rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-2.6</dbp:marHighC>
+    <dbp:marLowC rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-11.8</dbp:marLowC>
+    <dbp:marMeanC rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-7.2</dbp:marMeanC>
+    <dbp:marPrecipitationMm rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">15</dbp:marPrecipitationMm>
+    <dbp:mayHighC rdf:datatype="http://www.w3.org/2001/XMLSchema#double">17.5</dbp:mayHighC>
+    <dbp:mayLowC rdf:datatype="http://www.w3.org/2001/XMLSchema#double">5.6</dbp:mayLowC>
+    <dbp:mayMeanC rdf:datatype="http://www.w3.org/2001/XMLSchema#double">11.6</dbp:mayMeanC>
+    <dbp:mayPrecipitationMm rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">36</dbp:mayPrecipitationMm>
+    <dbp:metricFirst rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">yes</dbp:metricFirst>
+    <dbp:novHighC rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-2.9</dbp:novHighC>
+    <dbp:novLowC rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-9.1</dbp:novLowC>
+    <dbp:novMeanC rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">-6</dbp:novMeanC>
+    <dbp:novPrecipitationMm rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">32</dbp:novPrecipitationMm>
+    <dbp:octHighC rdf:datatype="http://www.w3.org/2001/XMLSchema#double">6.8</dbp:octHighC>
+    <dbp:octLowC rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">0</dbp:octLowC>
+    <dbp:octMeanC rdf:datatype="http://www.w3.org/2001/XMLSchema#double">3.4</dbp:octMeanC>
+    <dbp:octPrecipitationMm rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">38</dbp:octPrecipitationMm>
+    <dbp:populationDate rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2010</dbp:populationDate>
+    <dbp:populationDensity rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</dbp:populationDensity>
+    <dbp:portal rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Geography</dbp:portal>
+    <dbp:portal rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Russia</dbp:portal>
+    <dbp:precipitationColour rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">green</dbp:precipitationColour>
+    <dbp:s rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">yes</dbp:s>
+    <dbp:sepHighC rdf:datatype="http://www.w3.org/2001/XMLSchema#double">16.6</dbp:sepHighC>
+    <dbp:sepLowC rdf:datatype="http://www.w3.org/2001/XMLSchema#double">6.4</dbp:sepLowC>
+    <dbp:sepMeanC rdf:datatype="http://www.w3.org/2001/XMLSchema#double">11.5</dbp:sepMeanC>
+    <dbp:sepPrecipitationMm rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">44</dbp:sepPrecipitationMm>
+    <dbp:singleLine rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">yes</dbp:singleLine>
+    <dbp:voy rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">yes</dbp:voy>
+    <dbp:yearHighC rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">7</dbp:yearHighC>
+    <dbp:yearLowC rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-2.3</dbp:yearLowC>
+    <dbp:yearMeanC rdf:datatype="http://www.w3.org/2001/XMLSchema#double">2.4</dbp:yearMeanC>
+    <dbp:yearPrecipitationMm rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">442</dbp:yearPrecipitationMm>
+    <ns11:hypernym rdf:resource="http://dbpedia.org/resource/Region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Uralic–Yukaghir_languages">
+    <dbp:region rdf:resource="http://dbpedia.org/resource/Siberia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ze&#39;ev_Friedman">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Siberia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/George_W._De_Long">
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Siberia" />
+    <dbp:deathPlace rdf:resource="http://dbpedia.org/resource/Siberia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sam_Gindin">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Siberia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Dmitry_Rigin">
+    <dbp:birthPlace rdf:resource="http://dbpedia.org/resource/Siberia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Olga_Fonda">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Siberia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Battle_of_Romanovka">
+    <dbo:place rdf:resource="http://dbpedia.org/resource/Siberia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jacques_Gershkovitch">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Siberia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/In_Siberia">
+    <dbo:nonFictionSubject rdf:resource="http://dbpedia.org/resource/Siberia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/CnBnpb">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Siberia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Szibéria">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Siberia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mikhail_Borodin">
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Siberia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Arvīds_Immermanis">
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Siberia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Taseevskoye_mine">
+    <ns10:province rdf:resource="http://dbpedia.org/resource/Siberia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Little_gull">
+    <dbo:binomialAuthority rdf:resource="http://dbpedia.org/resource/Siberia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sang_Chul_Lee">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Siberia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Alexander_Klevan">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Siberia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Heuglin&#39;s_gull">
+    <dbo:binomialAuthority rdf:resource="http://dbpedia.org/resource/Siberia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mir_Jafar_Baghirov">
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Siberia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Choʻlpon">
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Siberia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Battle_of_Novo_Litovoskaya">
+    <dbo:place rdf:resource="http://dbpedia.org/resource/Siberia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Battle_of_Posolskeya">
+    <dbo:place rdf:resource="http://dbpedia.org/resource/Siberia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Valeriy_Brumel">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Siberia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Siberian">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Siberia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/List_of_The_Wild_Thornberrys_episodes">
+    <dbp:aux rdf:resource="http://dbpedia.org/resource/Siberia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Siberia,_Russia_(Federation)">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Siberia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lake_Cheko">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Siberia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lü_Ronghuan">
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Siberia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sergey_Bashkirov">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Siberia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lovett_Fort-Whiteman">
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Siberia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Narym_Pony">
+    <dbp:country rdf:resource="http://dbpedia.org/resource/Siberia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Siberian_Steppe">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Siberia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Siberian_steppe">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Siberia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lunnoye_mine">
+    <ns10:province rdf:resource="http://dbpedia.org/resource/Siberia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Abakan_Range">
+    <dbp:region rdf:resource="http://dbpedia.org/resource/Siberia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Stepan_Krasheninnikov">
+    <dbo:knownFor rdf:resource="http://dbpedia.org/resource/Siberia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Dmitri_Volkogonov">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Siberia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Soyot__settled_way_of_life__1">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Siberia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ivan_Samoylovych">
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Siberia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/East_Siberia">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Siberia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Uprising_of_Polish_political_exiles_in_Siberia">
+    <dbo:place rdf:resource="http://dbpedia.org/resource/Siberia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Elena_Shportun-Willemer">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Siberia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Pasha_Kovalev">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Siberia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Welicoruss">
+    <dbo:hometown rdf:resource="http://dbpedia.org/resource/Siberia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Deena_Varshavskaya">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Siberia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Liza_Fox">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Siberia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lake_Krasnoye_(Chukotka)">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Siberia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Stanovoy_Highlands">
+    <dbp:region rdf:resource="http://dbpedia.org/resource/Siberia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lew_Rywin">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Siberia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Władysław_Turowicz">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Siberia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mishelevka_Radar_Station">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Siberia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Baraba_dialect">
+    <dbo:spokenIn rdf:resource="http://dbpedia.org/resource/Siberia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Snejana_Urbin">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Siberia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Siberia,_Russia">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Siberia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Miroslava_Duma">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Siberia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Suchan_Valley_Campaign">
+    <dbo:place rdf:resource="http://dbpedia.org/resource/Siberia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tomsk_Railway">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Siberia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Eastern_Siberia">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Siberia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Сибирской">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Siberia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Siberia_(Russia)">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Siberia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Manhunt_International_2016">
+    <dbp:debuts rdf:resource="http://dbpedia.org/resource/Siberia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Khotoidokh_mine">
+    <ns10:province rdf:resource="http://dbpedia.org/resource/Siberia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Terligkhaiskoye_mine">
+    <ns10:province rdf:resource="http://dbpedia.org/resource/Siberia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mangazeisky_mine">
+    <ns10:province rdf:resource="http://dbpedia.org/resource/Siberia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Karasugskoye_mine">
+    <ns10:province rdf:resource="http://dbpedia.org/resource/Siberia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Urzarsaiskoye_mine">
+    <ns10:province rdf:resource="http://dbpedia.org/resource/Siberia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Climate_of_Siberia">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Siberia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Goltsovoye_mine">
+    <ns10:province rdf:resource="http://dbpedia.org/resource/Siberia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Siberia">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Siberia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kuranakh_mine">
+    <ns10:province rdf:resource="http://dbpedia.org/resource/Siberia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Siberian_Territory">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Siberia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Aktashskoye_mine">
+    <ns10:province rdf:resource="http://dbpedia.org/resource/Siberia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lednikovy-Sarmaka_mine">
+    <ns10:province rdf:resource="http://dbpedia.org/resource/Siberia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Сибирь">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Siberia" />
+  </rdf:Description>
+</rdf:RDF>

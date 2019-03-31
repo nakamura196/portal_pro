@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:dbo="http://dbpedia.org/ontology/"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:prov="http://www.w3.org/ns/prov#"
+	xmlns:dbp="http://dbpedia.org/property/" >
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ethirum_Pudhirum">
+    <dbo:writer rdf:resource="http://dbpedia.org/resource/Dharani" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Alive_(Sa_Dingding_album)">
+    <dbp:note rdf:resource="http://dbpedia.org/resource/Dharani" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Dharani">
+    <rdfs:label xml:lang="en">Dharani</rdfs:label>
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Dharani" />
+    <dbo:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">41479841</dbo:wikiPageID>
+    <dbo:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">588031023</dbo:wikiPageRevisionID>
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Dhāraṇī" />
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Dharani" />
+    <prov:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Dharani?oldid=588031023" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Dharani">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Dharani" />
+  </rdf:Description>
+</rdf:RDF>

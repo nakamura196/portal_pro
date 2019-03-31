@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:dct="http://purl.org/dc/terms/"
+	xmlns:dbo="http://dbpedia.org/ontology/"
+	xmlns:dbp="http://dbpedia.org/property/"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:prov="http://www.w3.org/ns/prov#"
+	xmlns:ns8="http://purl.org/linguistics/gold/" >
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mount_Richthofen">
+    <dbo:type rdf:resource="http://dbpedia.org/resource/Andesite" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Static_Peak_(Colorado)">
+    <dbo:type rdf:resource="http://dbpedia.org/resource/Andesite" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Little_Tahoma_Peak">
+    <dbo:type rdf:resource="http://dbpedia.org/resource/Andesite" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mount_Daniel">
+    <dbo:type rdf:resource="http://dbpedia.org/resource/Andesite" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Maplewell_Group">
+    <dbp:otherlithology rdf:resource="http://dbpedia.org/resource/Andesite" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Andesite">
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Band" />
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing" />
+    <rdfs:label xml:lang="en">Andesite</rdfs:label>
+    <rdfs:label xml:lang="nl">Andesiet</rdfs:label>
+    <rdfs:label xml:lang="pl">Andezyt</rdfs:label>
+    <rdfs:label xml:lang="de">Andesit</rdfs:label>
+    <rdfs:label xml:lang="ja">安山岩</rdfs:label>
+    <rdfs:label xml:lang="zh">安山岩</rdfs:label>
+    <rdfs:label xml:lang="it">Andesite</rdfs:label>
+    <rdfs:label xml:lang="ru">Андезит</rdfs:label>
+    <rdfs:label xml:lang="fr">Andésite</rdfs:label>
+    <rdfs:label xml:lang="es">Andesita</rdfs:label>
+    <rdfs:label xml:lang="ar">أنديزيت</rdfs:label>
+    <rdfs:label xml:lang="pt">Andesito</rdfs:label>
+    <rdfs:comment xml:lang="es">La andesita es una roca ígnea volcánica de composición intermedia. Su composición mineral comprende generalmente plagioclasa y varios otros minerales ferromagnésicos como piroxeno, biotita y hornblenda. También puede haber cantidades menores de sanidina y cuarzo. Los minerales más grandes como la plagioclasa suelen ser visibles a simple vista mientras que la matriz suele estar compuesta de granos minerales finos o vidrio. El magma andesítico es el magma más rico en agua aunque al erupcionar se pierde esta agua como vapor. Si el magma andesítico cristaliza en profundidad se forma el equivalente plutónico de la andesita que es la diorita. En este caso el agua pasa a formar parte de anfíboles, mineral que es escaso en la andesita.</rdfs:comment>
+    <rdfs:comment xml:lang="nl">Andesiet is een grijs tot zwart intermediair (tussen felsisch en mafisch) stollingsgesteente, dat tussen de 52 en 63 procent silica (SiO2) bevat.</rdfs:comment>
+    <rdfs:comment xml:lang="pt">Andesito é um tipo de rocha magmática cujo nome deriva de Andes, montanhas onde é muito comum. É uma rocha ígnea vulcânica de composição intermediária, calcialcalina, de cor cinzenta a cinzenta escura ou mesmo negra, com textura afanítica a porfirítica. Os andesitos são a rocha típica do vulcanismo associado às regiões de subducção, em especial aos arcos insulares.</rdfs:comment>
+    <rdfs:comment xml:lang="zh">安山岩(英语：Andesite)是一种中性火山喷出岩，是造山带最普通的火山岩，其中含有斑晶，斑晶是中性斜长石，深色矿物有辉石、角闪石，基质为隐晶质，由斜长石和极少量正长石或石英组成。主要含有的矿物是铁、钛的氧化物。“安山岩”这个词是来源自南美洲的“安第斯山”。 安山岩的分类主要依据起斑晶中含有的不同成分，如辉石安山岩、云母安山岩、角闪石安山岩等。安山岩的化学和矿物成分同闪长岩相当，是流纹岩和玄武岩之间的过渡類型岩石，含有范围在57-62%的二氧化硅（化学式：SiO2）。 安山岩為構成島弧火山的重要火成岩類，在新生代环太平洋地区有大量的发现。台灣的大屯火山群、富貴角都屬於安山岩。</rdfs:comment>
+    <rdfs:comment xml:lang="it">L&#39;andesite è una roccia ignea effusiva di chimismo intermedio con tessitura da afanitica a porfirica.</rdfs:comment>
+    <rdfs:comment xml:lang="de">Andesit, auch Islandit genannt, ist ein vulkanisches Gestein mit mittlerem SiO2-gehalt (intermediärer Vulkanit). Sein plutonisches Pendant ist der Diorit.</rdfs:comment>
+    <rdfs:comment xml:lang="ru">Андезит (от исп. Andes — названия горной системы Анды в Южной Америке) — магматическая вулканическая горная порода среднего состава, нормального ряда щелочности из семейства андезитов. Средний химический состав: SiO2 56-64 %, TiO2 0.5-0.7 %, Al2O3 16-21 %, Fe2O3 3-4 %, FeO 3-5 %, MgO 3-4 %, CaO 6-7 %, Na2O 2-4 %, K2O 1-2 %</rdfs:comment>
+    <rdfs:comment xml:lang="ar">25بك المحتوى هنا ينقصه الاستشهاد بمصادر. يرجى إيراد مصادر موثوق بها. أي معلومات غير موثقة يمكن التشكيك بها وإزالتها. (فبراير 2016) الأنديزيت هي من إحدى الصخور المتواجدة في مناطق الطمر و تتميز بتركيب كيميائي مما تشكل مع صخرة الكرانيت صهارة واحدة، مما تنتج هده الصهارة انصهار جزئي لرداء الفيحة الصخرية الراكبة تحت تاثير الحرارة و الماء من طرف القشرة المحيطية المنغرزة. أثناء صعود الصهارة يتبلور جزء منها في العمق ليعطي مثلا الكرانيث دي بنية محببة و في حالة وصول الصهارة إلى السطح تعطي صخورا بركانية دات بنية ميكرولوتية كالأندزيت. 25بك هذه بذرة مقالة عن علم البراكين بحاجة للتوسيع. شارك في تحريرها.</rdfs:comment>
+    <rdfs:comment xml:lang="pl">Andezyt – obojętna skała wylewna o strukturze porfirowej. W skład andezytu wchodzą: plagioklazy, biotyt, pirokseny i amfibole. Andezyt ma barwę szarą, brunatną, zieloną lub czarną. Andezyty pienińskie mają barwy białe do jasnoszarych, z czarnymi kryształkami amfiboli. Na diagramie klasyfikacyjnym QAPF andezyt zajmuje pole 10 wraz z bazaltem. Głębinowym odpowiednikiem andezytu jest dioryt. Według klasyfikacji TAS andezyty zajmują pola O1 (bazaltowe andezyty) i O2 (andezyty).</rdfs:comment>
+    <rdfs:comment xml:lang="fr">L’andésite est une roche volcanique, de composition intermédiaire et généralement de couleur grise. Appartenant à la série magmatique calco-alcaline, elle est caractéristique du volcanisme des zones de subduction (convergence). L&#39;andésite, comme la plupart des roches volcaniques, présente une texture microlitique. Les andésites sont souvent riches en phénocristaux de feldspaths plagioclase et de minéraux ferromagnésiens (hornblende brune, pyroxènes, amphiboles…), noyés dans une pâte. L&#39;andésite est l&#39;équivalent volcanique de la diorite plutonique.</rdfs:comment>
+    <rdfs:comment xml:lang="ja">安山岩（あんざんがん、英: andesite）は、火成岩の一種。現在用いられている全岩SiO2量による火山岩の分類法のうち、国際地質科学連合の推薦する分類体系によれば、52～57wt%が玄武岩質安山岩。57～63wt%が安山岩と定義される。日本でよく用いられている分類体系は都城・久城（1975）によるもので、国際地質科学連合のものと同様に、縦軸にアルカリ量 (Na2O + K2O)、横軸にSiO2量をとっており、SiO2が53～62wt%を安山岩としている。深成岩の閃緑岩に対応する。 英名の andesite は、南米アンデス山中のMarmato産の粗面岩様の火山岩に対し、ブッフが命名したもので、アンデスの名をとり -ite をつけたもの。日本語訳は、はじめ小藤文次郎により富士岩（明治17年）と訳され、東京大学系の人々に用いられたが、地質調査所ではアンデス山の石の意で、安山岩と訳して用いた。文献に最初に安山岩の訳が現れるのは、ライマンの弟子であった西山正吾による『伊豆図幅説明書』（明治19年）で、以後、富士岩・安山岩が明治20年代までは併用された。</rdfs:comment>
+    <rdfs:comment xml:lang="en">Andesite (pronunciation: /ˈændᵻsaɪt/ or /ˈændᵻzaɪt/) is an extrusive igneous, volcanic rock, of intermediate composition, with aphanitic to porphyritic texture. In a general sense, it is the intermediate type between basalt and dacite, and ranges from 57 to 63% silicon dioxide (SiO2) as illustrated in TAS diagrams. The mineral assemblage is typically dominated by plagioclase plus pyroxene or hornblende. Magnetite, zircon, apatite, ilmenite, biotite, and garnet are common accessory minerals. Alkali feldspar may be present in minor amounts. The quartz-feldspar abundances in andesite and other volcanic rocks are illustrated in QAPF diagrams.</rdfs:comment>
+    <owl:sameAs rdf:resource="http://el.dbpedia.org/resource/Ανδεσίτης" />
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.01pxwx" />
+    <owl:sameAs rdf:resource="http://es.dbpedia.org/resource/Andesita" />
+    <owl:sameAs rdf:resource="http://ja.dbpedia.org/resource/安山岩" />
+    <owl:sameAs rdf:resource="http://nl.dbpedia.org/resource/Andesiet" />
+    <owl:sameAs rdf:resource="http://eu.dbpedia.org/resource/Andesita" />
+    <owl:sameAs rdf:resource="http://id.dbpedia.org/resource/Andesit" />
+    <owl:sameAs rdf:resource="http://pt.dbpedia.org/resource/Andesito" />
+    <owl:sameAs rdf:resource="http://fr.dbpedia.org/resource/Andésite" />
+    <owl:sameAs rdf:resource="http://it.dbpedia.org/resource/Andesite" />
+    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/Andesit" />
+    <owl:sameAs rdf:resource="http://pl.dbpedia.org/resource/Andezyt" />
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q181908" />
+    <owl:sameAs rdf:resource="http://d-nb.info/gnd/4142389-6" />
+    <owl:sameAs rdf:resource="http://cs.dbpedia.org/resource/Andezit" />
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q181908" />
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Andesite" />
+    <owl:sameAs rdf:resource="http://ko.dbpedia.org/resource/안산암" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Subvolcanic_rocks" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Volcanology" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Volcanic_rocks" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Intermediate_rocks" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Aphanitic_rocks" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Porphyritic_rocks" />
+    <dbo:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">285239</dbo:wikiPageID>
+    <dbo:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">744045242</dbo:wikiPageRevisionID>
+    <dbo:wikiPageExternalLink rdf:resource="https://archive.org/stream/journal13113319982000roya#page/n229/mode/2up" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.nsm.buffalo.edu/courses/gly206/SubductionMagmas.pdf" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.nsf-margins.org/Eugene_PDF/SubFac_abstract_Gaetani.pdf" />
+    <dbo:wikiPageExternalLink rdf:resource="https://web.archive.org/web/20071208203514/http:/geology.csupomona.edu:80/alert/igneous/texture.htm" />
+    <dbo:wikiPageExternalLink rdf:resource="https://web.archive.org/web/20071104205758/http:/nsw.royalsoc.org.au:80/journal_archive/132_34.html" />
+    <dbp:name rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Andesite</dbp:name>
+    <foaf:depiction rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Andesite_pmg_ss_2006.jpg" />
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Andesite" />
+    <dbo:thumbnail rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Andesite_pmg_ss_2006.jpg?width=300" />
+    <prov:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Andesite?oldid=744045242" />
+    <dbo:abstract xml:lang="it">L&#39;andesite è una roccia ignea effusiva di chimismo intermedio con tessitura da afanitica a porfirica.</dbo:abstract>
+    <dbo:abstract xml:lang="ja">安山岩（あんざんがん、英: andesite）は、火成岩の一種。現在用いられている全岩SiO2量による火山岩の分類法のうち、国際地質科学連合の推薦する分類体系によれば、52～57wt%が玄武岩質安山岩。57～63wt%が安山岩と定義される。日本でよく用いられている分類体系は都城・久城（1975）によるもので、国際地質科学連合のものと同様に、縦軸にアルカリ量 (Na2O + K2O)、横軸にSiO2量をとっており、SiO2が53～62wt%を安山岩としている。深成岩の閃緑岩に対応する。 英名の andesite は、南米アンデス山中のMarmato産の粗面岩様の火山岩に対し、ブッフが命名したもので、アンデスの名をとり -ite をつけたもの。日本語訳は、はじめ小藤文次郎により富士岩（明治17年）と訳され、東京大学系の人々に用いられたが、地質調査所ではアンデス山の石の意で、安山岩と訳して用いた。文献に最初に安山岩の訳が現れるのは、ライマンの弟子であった西山正吾による『伊豆図幅説明書』（明治19年）で、以後、富士岩・安山岩が明治20年代までは併用された。</dbo:abstract>
+    <dbo:abstract xml:lang="ar">25بك المحتوى هنا ينقصه الاستشهاد بمصادر. يرجى إيراد مصادر موثوق بها. أي معلومات غير موثقة يمكن التشكيك بها وإزالتها. (فبراير 2016) الأنديزيت هي من إحدى الصخور المتواجدة في مناطق الطمر و تتميز بتركيب كيميائي مما تشكل مع صخرة الكرانيت صهارة واحدة، مما تنتج هده الصهارة انصهار جزئي لرداء الفيحة الصخرية الراكبة تحت تاثير الحرارة و الماء من طرف القشرة المحيطية المنغرزة. أثناء صعود الصهارة يتبلور جزء منها في العمق ليعطي مثلا الكرانيث دي بنية محببة و في حالة وصول الصهارة إلى السطح تعطي صخورا بركانية دات بنية ميكرولوتية كالأندزيت. 
+* 32xبوابة علم الأحجار الكريمة والمجوهرات 
+* 32xبوابة براكينمشاريع شقيقة في كومنز صور وملفات عن: أنديزيت 25بك هذه بذرة مقالة عن علم البراكين بحاجة للتوسيع. شارك في تحريرها.</dbo:abstract>
+    <dbo:abstract xml:lang="nl">Andesiet is een grijs tot zwart intermediair (tussen felsisch en mafisch) stollingsgesteente, dat tussen de 52 en 63 procent silica (SiO2) bevat.</dbo:abstract>
+    <dbo:abstract xml:lang="zh">安山岩(英语：Andesite)是一种中性火山喷出岩，是造山带最普通的火山岩，其中含有斑晶，斑晶是中性斜长石，深色矿物有辉石、角闪石，基质为隐晶质，由斜长石和极少量正长石或石英组成。主要含有的矿物是铁、钛的氧化物。“安山岩”这个词是来源自南美洲的“安第斯山”。 安山岩的分类主要依据起斑晶中含有的不同成分，如辉石安山岩、云母安山岩、角闪石安山岩等。安山岩的化学和矿物成分同闪长岩相当，是流纹岩和玄武岩之间的过渡類型岩石，含有范围在57-62%的二氧化硅（化学式：SiO2）。 安山岩為構成島弧火山的重要火成岩類，在新生代环太平洋地区有大量的发现。台灣的大屯火山群、富貴角都屬於安山岩。</dbo:abstract>
+    <dbo:abstract xml:lang="en">Andesite (pronunciation: /ˈændᵻsaɪt/ or /ˈændᵻzaɪt/) is an extrusive igneous, volcanic rock, of intermediate composition, with aphanitic to porphyritic texture. In a general sense, it is the intermediate type between basalt and dacite, and ranges from 57 to 63% silicon dioxide (SiO2) as illustrated in TAS diagrams. The mineral assemblage is typically dominated by plagioclase plus pyroxene or hornblende. Magnetite, zircon, apatite, ilmenite, biotite, and garnet are common accessory minerals. Alkali feldspar may be present in minor amounts. The quartz-feldspar abundances in andesite and other volcanic rocks are illustrated in QAPF diagrams. Classification of andesites may be refined according to the most abundant phenocryst. Example: hornblende-phyric andesite, if hornblende is the principal accessory mineral. Andesite can be considered as the extrusive equivalent of plutonic diorite. Characteristic of subduction zones, andesite represents the dominant rock type in island arcs. The average composition of the continental crust is andesitic. Along with basalts they are a major component of the Martian crust. The name andesite is derived from the Andes mountain range.</dbo:abstract>
+    <dbo:abstract xml:lang="fr">L’andésite est une roche volcanique, de composition intermédiaire et généralement de couleur grise. Appartenant à la série magmatique calco-alcaline, elle est caractéristique du volcanisme des zones de subduction (convergence). L&#39;andésite, comme la plupart des roches volcaniques, présente une texture microlitique. Les andésites sont souvent riches en phénocristaux de feldspaths plagioclase et de minéraux ferromagnésiens (hornblende brune, pyroxènes, amphiboles…), noyés dans une pâte. L&#39;andésite est l&#39;équivalent volcanique de la diorite plutonique.</dbo:abstract>
+    <dbo:abstract xml:lang="ru">Андезит (от исп. Andes — названия горной системы Анды в Южной Америке) — магматическая вулканическая горная порода среднего состава, нормального ряда щелочности из семейства андезитов. Средний химический состав: SiO2 56-64 %, TiO2 0.5-0.7 %, Al2O3 16-21 %, Fe2O3 3-4 %, FeO 3-5 %, MgO 3-4 %, CaO 6-7 %, Na2O 2-4 %, K2O 1-2 %</dbo:abstract>
+    <dbo:abstract xml:lang="pt">Andesito é um tipo de rocha magmática cujo nome deriva de Andes, montanhas onde é muito comum. É uma rocha ígnea vulcânica de composição intermediária, calcialcalina, de cor cinzenta a cinzenta escura ou mesmo negra, com textura afanítica a porfirítica. Os andesitos são a rocha típica do vulcanismo associado às regiões de subducção, em especial aos arcos insulares.</dbo:abstract>
+    <dbo:abstract xml:lang="pl">Andezyt – obojętna skała wylewna o strukturze porfirowej. W skład andezytu wchodzą: plagioklazy, biotyt, pirokseny i amfibole. Andezyt ma barwę szarą, brunatną, zieloną lub czarną. Andezyty pienińskie mają barwy białe do jasnoszarych, z czarnymi kryształkami amfiboli. Na diagramie klasyfikacyjnym QAPF andezyt zajmuje pole 10 wraz z bazaltem. Głębinowym odpowiednikiem andezytu jest dioryt. Według klasyfikacji TAS andezyty zajmują pola O1 (bazaltowe andezyty) i O2 (andezyty). 
+*  Pc – pikrobazalty 
+*  B – bazalty 
+*  O1 – bazaltowe andezyty 
+*  O2 – andezyty 
+*  O3 – dacyty 
+*  R – ryolity alkaliczne i ryolity 
+*  S1 – trachybazalty 
+*  S2 – trachyandezyty (maugearyty i shoshonity) 
+*  S3 – trachyandezyty (benmoreity i latyty) 
+*  T – trachity alkaliczne, trachity 
+*  U1 – bazanity i tefryty 
+*  U2 – fonotefryty 
+*  U3 – tefryfonolity 
+*  Ph – fonolity 
+*  F – foidyty Rozpowszechniony w ubiegłych epokach geologicznych, jest równocześnie jedną z najpospolitszych współczesnych skał wulkanicznych. Występuje zwłaszcza na wybrzeżach i wyspach Oceanu Spokojnego (linia andezytowa). W Polsce – w Pieninach (m.in. Bryjarka i Jarmuta górujące nad Szczawnicą, góra Wdżar koło Czorsztyna). Znajduje zastosowanie jako materiał w budownictwie i dekoratorstwie, również jako materiał kwasoodporny. Skały andezytowe stosunkowo łatwo wietrzeją, dając gleby gliniaste, zasobne w składniki pokarmowe dla roślin (głównie wapń i magnez).</dbo:abstract>
+    <dbo:abstract xml:lang="de">Andesit, auch Islandit genannt, ist ein vulkanisches Gestein mit mittlerem SiO2-gehalt (intermediärer Vulkanit). Sein plutonisches Pendant ist der Diorit.</dbo:abstract>
+    <dbo:abstract xml:lang="es">La andesita es una roca ígnea volcánica de composición intermedia. Su composición mineral comprende generalmente plagioclasa y varios otros minerales ferromagnésicos como piroxeno, biotita y hornblenda. También puede haber cantidades menores de sanidina y cuarzo. Los minerales más grandes como la plagioclasa suelen ser visibles a simple vista mientras que la matriz suele estar compuesta de granos minerales finos o vidrio. El magma andesítico es el magma más rico en agua aunque al erupcionar se pierde esta agua como vapor. Si el magma andesítico cristaliza en profundidad se forma el equivalente plutónico de la andesita que es la diorita. En este caso el agua pasa a formar parte de anfíboles, mineral que es escaso en la andesita. Tras el basalto,la andesita es la roca volcánica más común de la Tierra. El nombre andesita deriva de su ocurrencia en Andes aunque yace a lo largo del Cinturón de Fuego del Pacífico y en otras localidades como Trondheim en Noruega y en Islandia, así como las formaciones del Cabo de Gata, en Almería, España. Junto con el basalto es una de las rocas más comunes de corteza de Marte. La palabra andesita fue usada por primerva vez en 1836 por Leopold von Buch para referirse a «traquitas» andinas que en vez de contener sanidina y hornblenda poseían albita y hornblenda.</dbo:abstract>
+    <dbp:caption rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Photomicrograph of andesite in thin section</dbp:caption>
+    <dbp:composition rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Intermediate</dbp:composition>
+    <dbp:composition rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Accessory minerals: magnetites, biotite, sphene, quartz</dbp:composition>
+    <dbp:composition rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Major minerals: plagioclase  and pyroxene or hornblende</dbp:composition>
+    <dbp:type rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Igneous</dbp:type>
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Rock" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hopfenberg_(Waltershausen)">
+    <dbo:type rdf:resource="http://dbpedia.org/resource/Andesite" />
+    <dbp:rock rdf:resource="http://dbpedia.org/resource/Andesite" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Skystone">
+    <dbp:composition rdf:resource="http://dbpedia.org/resource/Andesite" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Western_Carpathians">
+    <dbp:geology rdf:resource="http://dbpedia.org/resource/Andesite" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Andesitic">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Andesite" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Açores_VR">
+    <dbp:soil rdf:resource="http://dbpedia.org/resource/Andesite" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Moraga_Formation">
+    <dbp:prilithology rdf:resource="http://dbpedia.org/resource/Andesite" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Christian_Leopold_von_Buch">
+    <dbo:knownFor rdf:resource="http://dbpedia.org/resource/Andesite" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Pico_IPR">
+    <dbp:soil rdf:resource="http://dbpedia.org/resource/Andesite" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ancud_Volcanic_Complex">
+    <dbp:prilithology rdf:resource="http://dbpedia.org/resource/Andesite" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Andesite">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Andesite" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Cura-Mallín_Formation">
+    <dbp:prilithology rdf:resource="http://dbpedia.org/resource/Andesite" />
+  </rdf:Description>
+</rdf:RDF>

@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:dbo="http://dbpedia.org/ontology/"
+	xmlns:dct="http://purl.org/dc/terms/"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:prov="http://www.w3.org/ns/prov#"
+	xmlns:georss="http://www.georss.org/georss/"
+	xmlns:dbp="http://dbpedia.org/property/"
+	xmlns:ns10="http://purl.org/linguistics/gold/" >
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Koishikawa_Kōrakuen_Garden">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Koishikawa" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Koishikawa_(disambiguation)">
+    <dbo:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/Koishikawa" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Koishikawa_arsenal">
+    <dbp:location rdf:resource="http://dbpedia.org/resource/Koishikawa" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Koishikawa">
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Region108630985" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Location100027167" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Section108648322" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Vicinity108641113" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoLegalActorGeo" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Object100002684" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PhysicalEntity100001930" />
+    <rdf:type rdf:resource="http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatNeighborhoodsOfTokyo" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Area108497294" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Settlement" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoGeoEntity" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoPermanentlyLocatedEntity" />
+    <rdfs:label xml:lang="fr">Koishikawa</rdfs:label>
+    <rdfs:label xml:lang="en">Koishikawa</rdfs:label>
+    <rdfs:label xml:lang="zh">小石川</rdfs:label>
+    <rdfs:label xml:lang="ru">Коисикава</rdfs:label>
+    <rdfs:label xml:lang="ja">小石川</rdfs:label>
+    <rdfs:comment xml:lang="ja">小石川（こいしかわ）は、東京都文京区の町名。または旧東京市小石川区の範囲を指す地域名である。</rdfs:comment>
+    <rdfs:comment xml:lang="zh">小石川（日语：小石川／こいしかわ Koishikawa */?）是東京都文京區的町名。郵遞區號是112-0002。</rdfs:comment>
+    <rdfs:comment xml:lang="en">Koishikawa (小石川) is a locality within Bunkyo, Tokyo. It consists of five sub-areas, 1-5 chome (1~5丁目). It is located nearby with the same name are two well regarded gardens: the Koishikawa Botanical Garden (related to Tokyo University) in Hakusan, and the Koishikawa Korakuen Garden in Korakuen. Train stations for accessing this locality include Hakusan Station (白山駅 Hakusan-eki), Kōrakuen Station (後楽園駅 Kōrakuen-eki), and Myōgadani Station. The Koishikawa arsenal was an important military installation during the Meiji era.</rdfs:comment>
+    <rdfs:comment xml:lang="fr">Koishikawa (小石川) est l&#39;un des quartiers de l&#39;arrondissement de Bunkyō (文京区, Bunkyō-ku) à Tokyo. Le quartier est essentiellement résidentiel.</rdfs:comment>
+    <rdfs:comment xml:lang="ru">Коисикава (яп. 小石川) — исторический район Токио, существовавший как административная единица с 1889 по 1947 год, название которому дала находившаяся здесь деревня. В настоящее время эта местность включена в район Бункё и состоит из пяти кварталов. Станции метро, расположенные в этом районе: Хакусан, Коракуэн и Мёгадани.</rdfs:comment>
+    <owl:sameAs rdf:resource="http://yago-knowledge.org/resource/Koishikawa" />
+    <owl:sameAs rdf:resource="http://ja.dbpedia.org/resource/小石川" />
+    <owl:sameAs rdf:resource="http://sws.geonames.org/8573193/" />
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Koishikawa" />
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q2666269" />
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q2666269" />
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.03_9xp" />
+    <owl:sameAs rdf:resource="http://fr.dbpedia.org/resource/Koishikawa" />
+    <owl:sameAs rdf:resource="http://yago-knowledge.org/resource/Koishikawa,_Tokyo" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Bunkyō" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Neighborhoods_of_Tokyo" />
+    <dbo:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1024982</dbo:wikiPageID>
+    <dbo:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">664630556</dbo:wikiPageRevisionID>
+    <dbo:wikiPageExternalLink rdf:resource="http://www.koishikawa-h.metro.tokyo.jp/" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.bunkyo-chuko-j.metro.tokyo.jp/" />
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#float">35.715</geo:lat>
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#float">139.746</geo:long>
+    <foaf:depiction rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/東京小石川遠景.jpg" />
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Koishikawa" />
+    <geo:geometry rdf:datatype="http://www.openlinksw.com/schemas/virtrdf#Geometry">POINT(139.74555969238 35.715000152588)</geo:geometry>
+    <dbo:thumbnail rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/東京小石川遠景.jpg?width=300" />
+    <prov:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Koishikawa?oldid=664630556" />
+    <dbo:abstract xml:lang="en">Koishikawa (小石川) is a locality within Bunkyo, Tokyo. It consists of five sub-areas, 1-5 chome (1~5丁目). It is located nearby with the same name are two well regarded gardens: the Koishikawa Botanical Garden (related to Tokyo University) in Hakusan, and the Koishikawa Korakuen Garden in Korakuen. Train stations for accessing this locality include Hakusan Station (白山駅 Hakusan-eki), Kōrakuen Station (後楽園駅 Kōrakuen-eki), and Myōgadani Station. The Koishikawa arsenal was an important military installation during the Meiji era.</dbo:abstract>
+    <dbo:abstract xml:lang="zh">小石川（日语：小石川／こいしかわ Koishikawa */?）是東京都文京區的町名。郵遞區號是112-0002。</dbo:abstract>
+    <dbo:abstract xml:lang="fr">Koishikawa (小石川) est l&#39;un des quartiers de l&#39;arrondissement de Bunkyō (文京区, Bunkyō-ku) à Tokyo. Le quartier est essentiellement résidentiel.</dbo:abstract>
+    <dbo:abstract xml:lang="ja">小石川（こいしかわ）は、東京都文京区の町名。または旧東京市小石川区の範囲を指す地域名である。</dbo:abstract>
+    <dbo:abstract xml:lang="ru">Коисикава (яп. 小石川) — исторический район Токио, существовавший как административная единица с 1889 по 1947 год, название которому дала находившаяся здесь деревня. В настоящее время эта местность включена в район Бункё и состоит из пяти кварталов. Станции метро, расположенные в этом районе: Хакусан, Коракуэн и Мёгадани.</dbo:abstract>
+    <georss:point>35.715 139.74555555555557</georss:point>
+    <ns10:hypernym rdf:resource="http://dbpedia.org/resource/Locality" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Takamasa_Yoshizaka">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Koishikawa" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Koishikawa,_Tokyo">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Koishikawa" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/小石川">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Koishikawa" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Koishikawa">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Koishikawa" />
+  </rdf:Description>
+</rdf:RDF>

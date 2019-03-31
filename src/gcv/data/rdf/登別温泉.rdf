@@ -1,0 +1,511 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:prop-ja="http://ja.dbpedia.org/property/"
+	xmlns:prov="http://www.w3.org/ns/prov#"
+	xmlns:dbpedia-owl="http://dbpedia.org/ontology/"
+	xmlns:dcterms="http://purl.org/dc/terms/" >
+  <rdf:Description rdf:about="http://ja.wikipedia.org/wiki/登別温泉">
+    <foaf:primaryTopic rdf:resource="http://ja.dbpedia.org/resource/登別温泉" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/カントリーサイン">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/登別温泉" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/北海道遺産">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/登別温泉" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/幌別郡">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/登別温泉" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/日本の温泉画像一覧">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/登別温泉" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/日本百名湯">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/登別温泉" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/札幌駅バスターミナル">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/登別温泉" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/源泉">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/登別温泉" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/赤い刺青の男">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/登別温泉" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/クマ牧場">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/登別温泉" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/日本の観光地一覧">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/登別温泉" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/登別温泉軌道">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/登別温泉" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/はるちゃん">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/登別温泉" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/北海道中央バス札幌北営業所">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/登別温泉" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/観楓会">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/登別温泉" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/じゃらん">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/登別温泉" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/カルデラの一覧_(日本)">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/登別温泉" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/北恵庭バスストップ">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/登別温泉" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/高丘バスストップ">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/登別温泉" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/天華園">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/登別温泉" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/登別地獄まつり">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/登別温泉" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/道南バス東町ターミナル">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/登別温泉" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/日本全国縦断ロケ">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/登別温泉" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/水曜どうでしょうの企画_(日本国内)">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/登別温泉" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/登別伊達時代村">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/登別温泉" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/道南バス登別温泉ターミナル">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/登別温泉" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/関東地方のご当地ソング一覧">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/登別温泉" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/にっぽんの温泉100選">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/登別温泉" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/オロフレ峠">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/登別温泉" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/徳川頼韶">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/登別温泉" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/おんナビ">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/登別温泉" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/北海道の観光地">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/登別温泉" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/浜野増次郎">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/登別温泉" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/浜野豊">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/登別温泉" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/カルルス温泉サンライバスキー場">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/登別温泉" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/+チック姉さん">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/登別温泉" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/フランチェスカ_(ハートビット)">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/登別温泉" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/初音ミクのメディア展開">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/登別温泉" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/味の大王">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/登別温泉" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/栗林五朔">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/登別温泉" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/親なるもの_断崖">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/登別温泉" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/地獄谷">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/登別温泉" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/太秦家">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/登別温泉" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/大谷地バスターミナル">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/登別温泉" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/支笏洞爺国立公園">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/登別温泉" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/新千歳空港">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/登別温泉" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/日本の温泉地一覧">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/登別温泉" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/胆振国">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/登別温泉" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/かおり風景100選">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/登別温泉" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/クスリサンベツ川">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/登別温泉" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/ツムラ">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/登別温泉" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/ヒグマ">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/登別温泉" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/南郷18丁目駅">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/登別温泉" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/室蘭市">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/登別温泉" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/新登別大橋">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/登別温泉" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/登別川">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/登別温泉" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/登別市">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/登別温泉" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/道南バス">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/登別温泉" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/間欠泉">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/登別温泉" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/いい湯だな">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/登別温泉" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/倶多楽湖">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/登別温泉" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/北海道道2号洞爺湖登別線">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/登別温泉" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/温泉街">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/登別温泉" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/登別温泉">
+    <rdf:type rdf:resource="http://schema.org/Place" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Place" />
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/NaturalPlace" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Location" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q177380" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/HotSpring" />
+    <rdfs:label xml:lang="ja">登別温泉</rdfs:label>
+    <rdfs:comment xml:lang="ja">登別温泉（のぼりべつおんせん）は、北海道登別市にある温泉。江戸時代から温泉の存在が知られており、明治時代に温泉宿が設けられてからは保養地・観光地となった。「にっぽんの温泉100選・総合ランキング」では毎年上位にランクインしている日本有数の温泉地となっている。地名の語源はアイヌ語の「ヌプル・ペツ」（水色の濃い川）に由来している。</rdfs:comment>
+    <owl:sameAs rdf:resource="http://commons.dbpedia.org/resource/Category:Noboribetsu_Onsen" />
+    <owl:sameAs rdf:resource="http://zh.dbpedia.org/resource/登別溫泉" />
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q3888689" />
+    <owl:sameAs rdf:resource="http://eo.dbpedia.org/resource/Noboribecu-Onsen" />
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q3888689" />
+    <foaf:isPrimaryTopicOf rdf:resource="http://ja.wikipedia.org/wiki/登別温泉" />
+    <prop-ja:宿泊施設数 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">14</prop-ja:宿泊施設数>
+    <prop-ja:湧出量 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</prop-ja:湧出量>
+    <prov:wasDerivedFrom rdf:resource="http://ja.wikipedia.org/wiki/登別温泉?oldid=58593915" />
+    <dbpedia-owl:abstract xml:lang="ja">登別温泉（のぼりべつおんせん）は、北海道登別市にある温泉。江戸時代から温泉の存在が知られており、明治時代に温泉宿が設けられてからは保養地・観光地となった。「にっぽんの温泉100選・総合ランキング」では毎年上位にランクインしている日本有数の温泉地となっている。地名の語源はアイヌ語の「ヌプル・ペツ」（水色の濃い川）に由来している。</dbpedia-owl:abstract>
+    <dbpedia-owl:address xml:lang="ja">北海道登別市</dbpedia-owl:address>
+    <dbpedia-owl:thumbnail rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Noboribetsu_hot_spring_jigokudani.JPG?width=300" />
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://noboribetsufilmcommission.web.fc2.com/" />
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://vivaweb2.bosai.go.jp/v-hazard/L_read/14kuttara/14kuttara_2h01-L.pdf" />
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.noboribetsu-spa.jp/" />
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.city.noboribetsu.lg.jp/docs/2014042800014/" />
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.youtube.com/channel/UCkbVjHhG4HlZ7wR38MhhJsQ" />
+    <dbpedia-owl:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">120735</dbpedia-owl:wikiPageID>
+    <dbpedia-owl:wikiPageLength rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">8565</dbpedia-owl:wikiPageLength>
+    <dbpedia-owl:wikiPageOutDegree rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">161</dbpedia-owl:wikiPageOutDegree>
+    <dbpedia-owl:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">58593915</dbpedia-owl:wikiPageRevisionID>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/松浦武四郎" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/昭和" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/高山植物" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/室蘭本線" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/アイヌ語" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/Wikivoyage:Noboribetsu" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/室蘭市" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/倶多楽湖" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/温泉" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/北海道遺産" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/北海道道2号洞爺湖登別線" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/Category:日本百景" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/北海道道350号倶多楽湖公園線" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/昭和天皇" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/ファイル:Noboribetsu_hot_spring_resort01.JPG" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/活火山" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/かおり風景100選" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/2008年" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/ラジウム泉" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/群馬県" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/日本紅葉の名所100選" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/ウィキボヤージュ" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/白老町" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/2006年" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/にっぽんの温泉100選" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/ファイル:写真_2013-05-03_15_37_27.jpg" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/泉質" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/酸性泉" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/いい湯だな" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/噴気孔" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/道南バス登別温泉ターミナル" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/Category:支笏洞爺国立公園" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/1993年" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/江戸時代" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/放射能泉" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/地獄谷_(登別市)" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/温泉宿" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/1966年" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/1972年" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/含アルミニウム泉" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/2010年" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/今上天皇" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/含鉄泉" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/1964年" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/火口" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/YouTube" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/1961年" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/オロフレ峠" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/登別駅" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/1954年" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/2011年" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/登別地獄まつり" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/Category:登別市" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/間欠泉" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/弘化" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/西部警察_PART-II" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/平成" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/日本の温泉地一覧" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/森林浴" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/登別温泉軌道" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/のぼりべつクマ牧場" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/2001年" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/道央自動車道" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/源泉" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/観光地" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/シークレット部隊" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/赤い刺青の男" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/大正時代" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/北海道の観光地" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/天然記念物" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/1891年" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/札幌市" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/日露戦争" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/Category:北海道の温泉" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/さすらい刑事旅情編" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/日本百名湯" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/北海道旅客鉄道" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/索道" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/大正" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/北海道" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/カルルス温泉" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/クスリサンベツ川" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/苫小牧市" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/1857年" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/1858年" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/草津温泉" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/北海道警事件ファイル_警部補_五条聖子" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/安政" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/登別伊達時代村" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/最上徳内" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/1845年" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/2004年" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/ザ・ドリフターズ" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/日本百景" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/明礬泉" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/遊歩道" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/日本の観光地一覧" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/1949年" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/レイモンド・ベンソン" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/路面電車" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/国民保養温泉地" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/ファイル:Mt.Hiyoriyama.jpg" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/セルシウス度" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/環境省" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/気象庁" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/硫黄" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/名湯百選" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/馬車鉄道" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/明治" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/硫黄泉" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/2015年" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/1933年" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/1927年" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/塩化物泉" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/登別東インターチェンジ" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/硫酸塩泉" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/1924年" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/1925年" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/登別マリンパークニクス" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/カルルス温泉サンライバスキー場" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/爆裂火口" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/新登別大橋" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/明治時代" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/新日本旅行地100選" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/1915年" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/1918年" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/1911年" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/蒸気機関車" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/重曹泉" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/野口観光" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/プラチナタウン" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/支笏洞爺国立公園" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/足湯" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/広域警察" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/はるちゃん" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/1905年" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/道南バス" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/登別市" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/硫化水素泉" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/アイヌ" />
+    <foaf:homepage rdf:resource="http://www.noboribetsu-spa.jp/" />
+    <dcterms:subject rdf:resource="http://ja.dbpedia.org/resource/Category:北海道の温泉" />
+    <dcterms:subject rdf:resource="http://ja.dbpedia.org/resource/Category:支笏洞爺国立公園" />
+    <dcterms:subject rdf:resource="http://ja.dbpedia.org/resource/Category:日本百景" />
+    <dcterms:subject rdf:resource="http://ja.dbpedia.org/resource/Category:登別市" />
+    <prop-ja:wikiPageUsesTemplate rdf:resource="http://ja.dbpedia.org/resource/Template:日本の温泉地" />
+    <prop-ja:wikiPageUsesTemplate rdf:resource="http://ja.dbpedia.org/resource/Template:Facebook" />
+    <prop-ja:wikiPageUsesTemplate rdf:resource="http://ja.dbpedia.org/resource/Template:温泉" />
+    <prop-ja:wikiPageUsesTemplate rdf:resource="http://ja.dbpedia.org/resource/Template:See_also" />
+    <prop-ja:wikiPageUsesTemplate rdf:resource="http://ja.dbpedia.org/resource/Template:En_icon" />
+    <prop-ja:wikiPageUsesTemplate rdf:resource="http://ja.dbpedia.org/resource/Template:ウィキポータルリンク" />
+    <prop-ja:wikiPageUsesTemplate rdf:resource="http://ja.dbpedia.org/resource/Template:Sister" />
+    <prop-ja:wikiPageUsesTemplate rdf:resource="http://ja.dbpedia.org/resource/Template:脚注ヘルプ" />
+    <prop-ja:wikiPageUsesTemplate rdf:resource="http://ja.dbpedia.org/resource/Template:Reflist" />
+    <prop-ja:wikiPageUsesTemplate rdf:resource="http://ja.dbpedia.org/resource/Template:Mapplot" />
+    <prop-ja:wikiPageUsesTemplate rdf:resource="http://ja.dbpedia.org/resource/Template:Main" />
+    <prop-ja:wikiPageUsesTemplate rdf:resource="http://ja.dbpedia.org/resource/Template:Columns-list" />
+    <prop-ja:wikiPageUsesTemplate rdf:resource="http://ja.dbpedia.org/resource/Template:PDF" />
+    <prop-ja:wikiPageUsesTemplate rdf:resource="http://ja.dbpedia.org/resource/Template:Commonscat" />
+    <prop-ja:project xml:lang="ja">voyage</prop-ja:project>
+    <prop-ja:text xml:lang="ja">ウィキボヤージュには、登別（Noboribetsu）に関する情報があります。</prop-ja:text>
+    <prop-ja:コメント xml:lang="ja">地獄谷（2008年5月）</prop-ja:コメント>
+    <prop-ja:交通アクセス xml:lang="ja">鉄道：JR北海道室蘭本線登別駅</prop-ja:交通アクセス>
+    <prop-ja:交通アクセス xml:lang="ja">バス：道南バス登別温泉ターミナル</prop-ja:交通アクセス>
+    <prop-ja:交通アクセス xml:lang="ja">車：道央自動車道登別東IC</prop-ja:交通アクセス>
+    <prop-ja:名称 xml:lang="ja">登別温泉</prop-ja:名称>
+    <prop-ja:外部リンク rdf:resource="http://www.noboribetsu-spa.jp/" />
+    <prop-ja:所在地 xml:lang="ja">北海道登別市</prop-ja:所在地>
+    <prop-ja:泉温 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">45</prop-ja:泉温>
+    <prop-ja:泉質 rdf:resource="http://ja.dbpedia.org/resource/放射能泉" />
+    <prop-ja:泉質 rdf:resource="http://ja.dbpedia.org/resource/明礬泉" />
+    <prop-ja:泉質 rdf:resource="http://ja.dbpedia.org/resource/ラジウム泉" />
+    <prop-ja:泉質 rdf:resource="http://ja.dbpedia.org/resource/含アルミニウム泉" />
+    <prop-ja:泉質 rdf:resource="http://ja.dbpedia.org/resource/含鉄泉" />
+    <prop-ja:泉質 rdf:resource="http://ja.dbpedia.org/resource/酸性泉" />
+    <prop-ja:泉質 rdf:resource="http://ja.dbpedia.org/resource/塩化物泉" />
+    <prop-ja:泉質 rdf:resource="http://ja.dbpedia.org/resource/硫酸塩泉" />
+    <prop-ja:泉質 rdf:resource="http://ja.dbpedia.org/resource/硫黄泉" />
+    <prop-ja:泉質 rdf:resource="http://ja.dbpedia.org/resource/重曹泉" />
+    <prop-ja:画像 xml:lang="ja">Noboribetsu hot spring jigokudani.JPG</prop-ja:画像>
+    <foaf:depiction rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Noboribetsu_hot_spring_jigokudani.JPG" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/白老町">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/登別温泉" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/野湯">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/登別温泉" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/長万部駅">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/登別温泉" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/Dの嵐!">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/登別温泉" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/さすらい刑事旅情編">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/登別温泉" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/カルルス温泉">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/登別温泉" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/恵庭インターチェンジ">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/登別温泉" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/登別駅">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/登別温泉" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/輪厚パーキングエリア">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/登別温泉" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/沿岸バス">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/登別温泉" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/登別東インターチェンジ">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/登別温泉" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/温泉へ行こう!_(BS・CS番組)">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/登別温泉" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/登別市立登別中学校">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/登別温泉" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/登別市立登別小学校">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/登別温泉" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/野口観光">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/登別温泉" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/北海道道350号倶多楽湖公園線">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/登別温泉" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/国際観光バス_(北海道)">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/登別温泉" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/肥土貴美男">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/登別温泉" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/のぼりべつクマ牧場">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/登別温泉" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/地獄谷_(登別市)">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/登別温泉" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/日本の国立公園">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/登別温泉" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/温泉女子">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/登別温泉" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/アニマルアイランド">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/登別温泉" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/オロフレ山">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/登別温泉" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/むかしの国のアリサ">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/登別温泉" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/ミズスギ">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/登別温泉" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/平塚由佳">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/登別温泉" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/第一滝本館">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/登別温泉" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/日本百景">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/登別温泉" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/新日本旅行地100選">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/登別温泉" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/登別温泉町">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://ja.dbpedia.org/resource/登別温泉" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/登別温泉" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/data/登別温泉.rdf">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document" />
+    <foaf:primaryTopic rdf:resource="http://ja.dbpedia.org/resource/登別温泉" />
+  </rdf:Description>
+</rdf:RDF>

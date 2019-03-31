@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:dct="http://purl.org/dc/terms/"
+	xmlns:dbo="http://dbpedia.org/ontology/"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:prov="http://www.w3.org/ns/prov#"
+	xmlns:dbp="http://dbpedia.org/property/"
+	xmlns:ns8="http://purl.org/linguistics/gold/" >
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Aksys_Games">
+    <dbo:type rdf:resource="http://dbpedia.org/resource/Video_game_publisher" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/NDOORS_Corporation">
+    <dbo:industry rdf:resource="http://dbpedia.org/resource/Video_game_publisher" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/SBS_Contents_Hub">
+    <dbo:industry rdf:resource="http://dbpedia.org/resource/Video_game_publisher" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Video_game_publishers">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Video_game_publisher" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Suba_Games">
+    <dbp:websiteType rdf:resource="http://dbpedia.org/resource/Video_game_publisher" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Video_game_publisher">
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatSoftwareCompanies" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Institution108053576" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatVideoGamePublishers" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Company" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Enterprise108056231" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Business108061042" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Company108058098" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Firm108059870" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Publisher108062623" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoLegalActor" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoLegalActorGeo" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoPermanentlyLocatedEntity" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Abstraction100002137" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/SocialGroup107950920" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Group100031264" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Organization108008335" />
+    <rdfs:label xml:lang="pl">Wydawca gier komputerowych</rdfs:label>
+    <rdfs:label xml:lang="zh">電子遊戲發行商</rdfs:label>
+    <rdfs:label xml:lang="es">Distribuidora de videojuegos</rdfs:label>
+    <rdfs:label xml:lang="it">Editore di videogiochi</rdfs:label>
+    <rdfs:label xml:lang="ar">ناشر لعبة فيديو</rdfs:label>
+    <rdfs:label xml:lang="en">Video game publisher</rdfs:label>
+    <rdfs:label xml:lang="fr">Éditeur de jeux vidéo</rdfs:label>
+    <rdfs:label xml:lang="pt">Distribuidora de jogos eletrônicos</rdfs:label>
+    <rdfs:label xml:lang="ru">Издатель компьютерных игр</rdfs:label>
+    <rdfs:label xml:lang="de">Publisher</rdfs:label>
+    <rdfs:comment xml:lang="pl">Wydawca gier komputerowych – firma publikująca gry komputerowe, tworzone przez własne bądź wybrane studia producentów gier komputerowych.</rdfs:comment>
+    <rdfs:comment xml:lang="en">A video game publisher is a company that publishes video games that they have either developed internally or have had developed by a video game developer. As with book publishers or publishers of DVD movies, video game publishers are responsible for their product&#39;s manufacturing and marketing, including market research and all aspects of advertising. Large publishers may also attempt to boost efficiency across all internal and external development teams by providing services such as sound design and code packages for commonly needed functionality.</rdfs:comment>
+    <rdfs:comment xml:lang="ru">Издатель компьютерных игр — компания издающая компьютерные игры разработанные внутри компании или отдельными компаниями занимающимися разработкой компьютерных игр. Как например и в случае с книжными издательствами, издатель компьютерных игр несёт ответственность за разработку, издание, продвижение и рекламу игры. Часто издатель финансирует разработку игры, оплачивает труд разработчиков. В другие функции издателя как правило входит печать руководства к игре и оформление дизайна коробки с игрой.</rdfs:comment>
+    <rdfs:comment xml:lang="fr">L&#39;éditeur de jeux vidéo est l&#39;entreprise qui assure la publication et la diffusion des jeux vidéo. Elle prend en charge le financement, la communication, la fabrication et la commercialisation de l&#39;œuvre. Elle fait le lien entre l&#39;entreprise développeur de jeu vidéo et les entreprises de distribution commerciale (ex. : commerce de gros). La plupart des éditeurs de jeux vidéo possèdent des équipes de développement internes. Les jeux vidéo qui sont diffusés sans éditeur par leur auteur sont qualifiés d&#39;indépendants.</rdfs:comment>
+    <rdfs:comment xml:lang="it">Un editore di videogiochi o una casa editrice di videogiochi o anche casa videoludica è un&#39;azienda che pubblica videogiochi: questi possono essere sviluppati internamente all&#39;azienda stessa, la quale, in questo caso, oltre che essere una casa editrice è anche una casa sviluppatrice di videogiochi, oppure da un&#39;altra azienda. I maggiori editori di videogiochi si incaricano anche della loro distribuzione, mentre quelli più piccoli si rivolgono ad apposite aziende di distribuzione (o agli editori maggiori) per distribuire i giochi da essi pubblicati.</rdfs:comment>
+    <rdfs:comment xml:lang="ar">25بك المحتوى هنا ينقصه الاستشهاد بمصادر. يرجى إيراد مصادر موثوق بها. أي معلومات غير موثقة يمكن التشكيك بها وإزالتها. (مارس 2016) {{gtaBzbnzvsGraصناعة ألعاب فيديو}}ناشر لعبة فيديو هي شركة تختص بنشر ألعاب الفيديو وتسويقها وتوزيعها وتمويل فريق المطورين. بعض شركات النشر تملك مطورين خاصين بها والبعض الآخر يوكل المهمة لمطورين خارجيين.</rdfs:comment>
+    <rdfs:comment xml:lang="pt">Uma distribuidora de jogos eletrônicos é uma companhia que distribui jogos eletrônicos que elas produziram inicialmente ou que foram produzidos por uma desenvolvedora de jogos eletrônicos. Tal como acontece com as editoras de livros e distribuidoras de filmes em DVD, as distribuidoras de jogos eletrônicos são responsáveis pela sua produção e comercialização, incluindo estudos de mercado e todos os aspectos da publicidade. Elas geralmente financiam o desenvolvimento, por vezes pagando uma desenvolvedora externa ou utilizando a equipe de um de seus próprios estúdios. Assim, uma empresa como a Nintendo publica jogos desenvolvidos por empresas first-party, como Super Mario Galaxy, desenvolvido pela própria Nintendo e Metroid Prime desenvolvida pela Retro Studios; second-party, como Golden Sun,</rdfs:comment>
+    <rdfs:comment xml:lang="de">Publisher (engl. to publish „publizieren“ oder „veröffentlichen“) ist die englische Bezeichnung für Verlag oder Verleger. Während der Begriff für jede Form des Verlagswesens verwendet werden kann, wird er als Fremdwort im deutschen Sprachgebrauch im Speziellen häufig für Unternehmen gebraucht, die Computerspiele oder Computerprogramme veröffentlichen und vertreiben.</rdfs:comment>
+    <rdfs:comment xml:lang="zh">游戏发行商（或称游戏出版商）是出版和发行电子游戏的公司，有的由游戏开发商发展而来，也有的在其下面设立游戏开发商。 与图书出版商或DVD电影发行商一样，电子游戏发行商负责其产品的制造和市场营销，包括市场研究和广告的各个方面。他们通常投资开发，有时投资给游戏开发者（发行商称之为“外部开发”），有时候投资给内部“工作室”开发人员。大型电子游戏发行商还分配他们要发布的游戏，而一些较小的发行商却是租用分配方公司（或较大的电子游戏发行商）分配他们要发布的游戏。发行商决定是否授予许可和支付报酬取决于开发者的其他职能，通常包括游戏所利用到的：本地化；排版，印刷，还可能有用户手册的编写；和产品的平面设计要素，如包装盒设计。大型发行商也尝试着提高开发团队内外的效率，通过提供音效设计服务，常用功能的代码包。 由于发行商通常投资开发，所以经常试着管理生产者或项目经理人员的开发风险，以监测开发者的进展情况，评论正在进行的开发，和提供必要的协助。外部电子游戏开发商制作了大多数电子游戏并定期收取版税。当开发达到一定的阶段时，开发商收取版税，这一阶段称为里程碑。</rdfs:comment>
+    <rdfs:comment xml:lang="es">Una distribuidora de videojuegos es una empresa que distribuye videojuegos que han sido desarrollados, bien internamente, bien por un desarrollador de videojuegos. Normalmente una distribuidora de videojuegos ejerce también las funciones de editora, de modo que, de manera similar a las editoriales de libros o las editoras de películas en DVD, se ocupa de manufacturar y comercializar los videojuegos, incluyendo investigación de mercados y todos los aspectos de la publicidad.</rdfs:comment>
+    <owl:sameAs rdf:resource="http://pt.dbpedia.org/resource/Distribuidora_de_jogos_eletrônicos" />
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q1137109" />
+    <owl:sameAs rdf:resource="http://ko.dbpedia.org/resource/비디오_게임_배급사" />
+    <owl:sameAs rdf:resource="http://it.dbpedia.org/resource/Editore_di_videogiochi" />
+    <owl:sameAs rdf:resource="http://pl.dbpedia.org/resource/Wydawca_gier_komputerowych" />
+    <owl:sameAs rdf:resource="http://es.dbpedia.org/resource/Distribuidora_de_videojuegos" />
+    <owl:sameAs rdf:resource="http://fr.dbpedia.org/resource/Éditeur_de_jeux_vidéo" />
+    <owl:sameAs rdf:resource="http://yago-knowledge.org/resource/Video_game_publisher" />
+    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/Publisher" />
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q1137109" />
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.0ptdk" />
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Video_game_publisher" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Video_game_development" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Video_game_publishers" />
+    <dbo:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">101812</dbo:wikiPageID>
+    <dbo:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">733796297</dbo:wikiPageRevisionID>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Video_game_publisher" />
+    <prov:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Video_game_publisher?oldid=733796297" />
+    <dbo:abstract xml:lang="fr">L&#39;éditeur de jeux vidéo est l&#39;entreprise qui assure la publication et la diffusion des jeux vidéo. Elle prend en charge le financement, la communication, la fabrication et la commercialisation de l&#39;œuvre. Elle fait le lien entre l&#39;entreprise développeur de jeu vidéo et les entreprises de distribution commerciale (ex. : commerce de gros). La plupart des éditeurs de jeux vidéo possèdent des équipes de développement internes. Les jeux vidéo qui sont diffusés sans éditeur par leur auteur sont qualifiés d&#39;indépendants.</dbo:abstract>
+    <dbo:abstract xml:lang="de">Publisher (engl. to publish „publizieren“ oder „veröffentlichen“) ist die englische Bezeichnung für Verlag oder Verleger. Während der Begriff für jede Form des Verlagswesens verwendet werden kann, wird er als Fremdwort im deutschen Sprachgebrauch im Speziellen häufig für Unternehmen gebraucht, die Computerspiele oder Computerprogramme veröffentlichen und vertreiben.</dbo:abstract>
+    <dbo:abstract xml:lang="pt">Uma distribuidora de jogos eletrônicos é uma companhia que distribui jogos eletrônicos que elas produziram inicialmente ou que foram produzidos por uma desenvolvedora de jogos eletrônicos. Tal como acontece com as editoras de livros e distribuidoras de filmes em DVD, as distribuidoras de jogos eletrônicos são responsáveis pela sua produção e comercialização, incluindo estudos de mercado e todos os aspectos da publicidade. Elas geralmente financiam o desenvolvimento, por vezes pagando uma desenvolvedora externa ou utilizando a equipe de um de seus próprios estúdios. Assim, uma empresa como a Nintendo publica jogos desenvolvidos por empresas first-party, como Super Mario Galaxy, desenvolvido pela própria Nintendo e Metroid Prime desenvolvida pela Retro Studios; second-party, como Golden Sun, desenvolvido pela Camelot; e third-party, como Endless Ocean, desenvolvido pela Arika. Outras funções normalmente exercidas pelas distribuidoras incluem decidir por e pagar qualquer licença que o jogo possa utilizar, cuidar do layout, impressão e, possivelmente, do conteúdo do manual de instruções, além de criação e design gráfico de elementos, como a caixa onde o produto é comercializado. Grandes distribuidoras podem também empreender melhorias por todo o desenvolvimento externo e interno do produto, provendo serviços como sonoplastia. Como as distribuidoras normalmente financiam o desenvolvimento dos jogos, também costumam supervisionar o desenvolvimento, sugerindo e auxiliando o que for necessário.</dbo:abstract>
+    <dbo:abstract xml:lang="zh">游戏发行商（或称游戏出版商）是出版和发行电子游戏的公司，有的由游戏开发商发展而来，也有的在其下面设立游戏开发商。 与图书出版商或DVD电影发行商一样，电子游戏发行商负责其产品的制造和市场营销，包括市场研究和广告的各个方面。他们通常投资开发，有时投资给游戏开发者（发行商称之为“外部开发”），有时候投资给内部“工作室”开发人员。大型电子游戏发行商还分配他们要发布的游戏，而一些较小的发行商却是租用分配方公司（或较大的电子游戏发行商）分配他们要发布的游戏。发行商决定是否授予许可和支付报酬取决于开发者的其他职能，通常包括游戏所利用到的：本地化；排版，印刷，还可能有用户手册的编写；和产品的平面设计要素，如包装盒设计。大型发行商也尝试着提高开发团队内外的效率，通过提供音效设计服务，常用功能的代码包。 由于发行商通常投资开发，所以经常试着管理生产者或项目经理人员的开发风险，以监测开发者的进展情况，评论正在进行的开发，和提供必要的协助。外部电子游戏开发商制作了大多数电子游戏并定期收取版税。当开发达到一定的阶段时，开发商收取版税，这一阶段称为里程碑。</dbo:abstract>
+    <dbo:abstract xml:lang="pl">Wydawca gier komputerowych – firma publikująca gry komputerowe, tworzone przez własne bądź wybrane studia producentów gier komputerowych.</dbo:abstract>
+    <dbo:abstract xml:lang="es">Una distribuidora de videojuegos es una empresa que distribuye videojuegos que han sido desarrollados, bien internamente, bien por un desarrollador de videojuegos. Normalmente una distribuidora de videojuegos ejerce también las funciones de editora, de modo que, de manera similar a las editoriales de libros o las editoras de películas en DVD, se ocupa de manufacturar y comercializar los videojuegos, incluyendo investigación de mercados y todos los aspectos de la publicidad. Las distribuidoras que son a la vez editoras (conocidas también como publishers o publicadores) por lo general financian el desarrollo, unas veces subcontratando a un desarrollador de videojuegos (el distribuidor llama a esto desarrollo externo) y otras veces pagando a un personal interno de desarrolladores llamado estudio. Hay por otro lado distribuidoras menores que se dedican exclusivamente a labores de distribución, trabajando para editoras/productoras que necesitan hacer llegar sus videojuegos a las tiendas y a los consumidores finales. Otras funciones por lo general realizadas por una distribuidora incluyen decidir y pagar cualquier licencia que el juego pueda utilizar, y ocuparse de la localización, presentación, impresión, y posiblemente la escritura del manual de usuario, así como el diseño de caja. Las grandes distribuidoras también pueden intentar incrementar la eficiencia de todos los equipos de desarrollo, sean internos o externos, proporcionando servicios como el diseño del sonido y paquetes de código para funcionalidades necesitadas en común. Como la distribuidora por lo general financia el desarrollo, ésta por lo general intenta controlar el riesgo del desarrollo con un personal de productores o gestores de proyectos para supervisar el progreso de los desarrolladores, valorar el progreso del desarrollo, y colaborar si es necesario. La mayoría de los videojuegos creados por un desarrollador de videojuegos se han pagado con anticipos periódicos sobre las regalías. Estos avances son pagados cuando el desarrollador alcanza ciertas etapas del desarrollo, llamadas &quot;metas&quot;.</dbo:abstract>
+    <dbo:abstract xml:lang="ar">25بك المحتوى هنا ينقصه الاستشهاد بمصادر. يرجى إيراد مصادر موثوق بها. أي معلومات غير موثقة يمكن التشكيك بها وإزالتها. (مارس 2016) {{gtaBzbnzvsGraصناعة ألعاب فيديو}}ناشر لعبة فيديو هي شركة تختص بنشر ألعاب الفيديو وتسويقها وتوزيعها وتمويل فريق المطورين. بعض شركات النشر تملك مطورين خاصين بها والبعض الآخر يوكل المهمة لمطورين خارجيين.</dbo:abstract>
+    <dbo:abstract xml:lang="it">Un editore di videogiochi o una casa editrice di videogiochi o anche casa videoludica è un&#39;azienda che pubblica videogiochi: questi possono essere sviluppati internamente all&#39;azienda stessa, la quale, in questo caso, oltre che essere una casa editrice è anche una casa sviluppatrice di videogiochi, oppure da un&#39;altra azienda. Come succede per gli editori di libri o gli editori di film DVD, gli editori di videogiochi sono responsabili della produzione e commercializzazione dei loro prodotti, compresi aspetti pubblicitari e ricerche di mercato.Normalmente, le case editrici di videogiochi finanziano lo sviluppo del videogioco che esse vogliono pubblicare e commercializzare, pagando l&#39;azienda che lo sviluppa (nel caso di sviluppo esterno) e talvolta pagando un personale interno di sviluppatori chiamato “studio”. I maggiori editori di videogiochi si incaricano anche della loro distribuzione, mentre quelli più piccoli si rivolgono ad apposite aziende di distribuzione (o agli editori maggiori) per distribuire i giochi da essi pubblicati. Altri compiti normalmente a carico degli editori di videogiochi comprendono: la decisione se utilizzare o meno delle licenze per il gioco da pubblicare; il pagamento delle licenze che si decidono di utilizzare; la gestione della localizzazione; l&#39;impaginazione, la stampa e l&#39;eventuale stesura del manuale utente; la creazione di elementi grafici come il disegno della confezione. Gli editori maggiori possono anche cercare di aumentare l&#39;efficienza tra tutti i gruppi di sviluppo interni ed esterni, fornendo servizi come effetti sonori e pacchetti software per le funzionalità più comuni.</dbo:abstract>
+    <dbo:abstract xml:lang="ru">Издатель компьютерных игр — компания издающая компьютерные игры разработанные внутри компании или отдельными компаниями занимающимися разработкой компьютерных игр. Как например и в случае с книжными издательствами, издатель компьютерных игр несёт ответственность за разработку, издание, продвижение и рекламу игры. Часто издатель финансирует разработку игры, оплачивает труд разработчиков. В другие функции издателя как правило входит печать руководства к игре и оформление дизайна коробки с игрой.</dbo:abstract>
+    <dbo:abstract xml:lang="en">A video game publisher is a company that publishes video games that they have either developed internally or have had developed by a video game developer. As with book publishers or publishers of DVD movies, video game publishers are responsible for their product&#39;s manufacturing and marketing, including market research and all aspects of advertising. They often finance the development, sometimes by paying a video game developer (the publisher calls this external development) and sometimes by paying an internal staff of developers called a studio. The large video game publishers also distribute the games they publish, while some smaller publishers instead hire distribution companies (or larger video game publishers) to distribute the games they publish. Other functions usually performed by the publisher include deciding on and paying for any licenses used by the game; paying for localization; layout, printing, and possibly the writing of the user manual; and the creation of graphic design elements such as the box design. Large publishers may also attempt to boost efficiency across all internal and external development teams by providing services such as sound design and code packages for commonly needed functionality. Because the publisher often finances development, it usually tries to manage development risk with a staff of producers or project managers to monitor the progress of the developer, critique ongoing development, and assist as necessary. Most video games created by an external video game developer are paid for with periodic advances on royalties. These advances are paid when the developer reaches certain stages of development, called milestones.</dbo:abstract>
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Company" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Blue_Ribbon_(software_house)">
+    <dbo:genre rdf:resource="http://dbpedia.org/resource/Video_game_publisher" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Fantasy_Software">
+    <dbo:type rdf:resource="http://dbpedia.org/resource/Video_game_publisher" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nexon">
+    <dbo:industry rdf:resource="http://dbpedia.org/resource/Video_game_publisher" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Perfect_World_Entertainment">
+    <dbo:industry rdf:resource="http://dbpedia.org/resource/Video_game_publisher" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Renegade_Software">
+    <dbo:industry rdf:resource="http://dbpedia.org/resource/Video_game_publisher" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/American_Video_Entertainment">
+    <dbo:genre rdf:resource="http://dbpedia.org/resource/Video_game_publisher" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/HeroCraft">
+    <dbo:industry rdf:resource="http://dbpedia.org/resource/Video_game_publisher" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Perfect_World_(company)">
+    <dbo:industry rdf:resource="http://dbpedia.org/resource/Video_game_publisher" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Autumn_Games">
+    <dbo:type rdf:resource="http://dbpedia.org/resource/Video_game_publisher" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/CDC_Games">
+    <dbo:type rdf:resource="http://dbpedia.org/resource/Video_game_publisher" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Redbana_Corporation">
+    <dbo:industry rdf:resource="http://dbpedia.org/resource/Video_game_publisher" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/XS_Software">
+    <dbo:industry rdf:resource="http://dbpedia.org/resource/Video_game_publisher" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ocean_Software">
+    <dbo:type rdf:resource="http://dbpedia.org/resource/Video_game_publisher" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Prism_Leisure_Corporation">
+    <dbo:genre rdf:resource="http://dbpedia.org/resource/Video_game_publisher" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Red_Barrels">
+    <dbo:service rdf:resource="http://dbpedia.org/resource/Video_game_publisher" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Superior_Software">
+    <dbo:genre rdf:resource="http://dbpedia.org/resource/Video_game_publisher" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/CyberStep">
+    <dbo:industry rdf:resource="http://dbpedia.org/resource/Video_game_publisher" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hipster_Whale">
+    <dbo:service rdf:resource="http://dbpedia.org/resource/Video_game_publisher" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/LayaBox">
+    <dbo:genre rdf:resource="http://dbpedia.org/resource/Video_game_publisher" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Night_School_Studio">
+    <dbo:service rdf:resource="http://dbpedia.org/resource/Video_game_publisher" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Umbrella_(company)">
+    <dbo:service rdf:resource="http://dbpedia.org/resource/Video_game_publisher" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Image_Works">
+    <dbo:industry rdf:resource="http://dbpedia.org/resource/Video_game_publisher" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gathering_of_Developers">
+    <dbo:type rdf:resource="http://dbpedia.org/resource/Video_game_publisher" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Computer_game_publisher">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Video_game_publisher" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mochi_Media">
+    <dbo:type rdf:resource="http://dbpedia.org/resource/Video_game_publisher" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Publisher_(disambiguation)">
+    <dbo:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/Video_game_publisher" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Palace_Software">
+    <dbo:service rdf:resource="http://dbpedia.org/resource/Video_game_publisher" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Micro_Power">
+    <dbo:type rdf:resource="http://dbpedia.org/resource/Video_game_publisher" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Game_publisher">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Video_game_publisher" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Agetec">
+    <dbo:type rdf:resource="http://dbpedia.org/resource/Video_game_publisher" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Panic_(company)">
+    <dbo:industry rdf:resource="http://dbpedia.org/resource/Video_game_publisher" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Webzen">
+    <dbo:industry rdf:resource="http://dbpedia.org/resource/Video_game_publisher" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Youzu_Interactive">
+    <dbo:industry rdf:resource="http://dbpedia.org/resource/Video_game_publisher" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tri_Synergy">
+    <dbo:industry rdf:resource="http://dbpedia.org/resource/Video_game_publisher" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Video_game_publishing">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Video_game_publisher" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Videogame_publisher">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Video_game_publisher" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Video_game_publisher">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Video_game_publisher" />
+  </rdf:Description>
+</rdf:RDF>

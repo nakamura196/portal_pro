@@ -1,0 +1,417 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:dbo="http://dbpedia.org/ontology/"
+	xmlns:dct="http://purl.org/dc/terms/"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	xmlns:prov="http://www.w3.org/ns/prov#"
+	xmlns:ns8="http://dbpedia.org/ontology/PopulatedPlace/"
+	xmlns:georss="http://www.georss.org/georss/"
+	xmlns:dbp="http://dbpedia.org/property/" >
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tartessian_language">
+    <dbo:spokenIn rdf:resource="http://dbpedia.org/resource/Iberian_Peninsula" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Extremadurans">
+    <dbo:related rdf:resource="http://dbpedia.org/resource/Iberian_Peninsula" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Punic_language">
+    <dbo:spokenIn rdf:resource="http://dbpedia.org/resource/Iberian_Peninsula" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mulatto">
+    <dbo:related rdf:resource="http://dbpedia.org/resource/Iberian_Peninsula" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hurricane_Joaquin">
+    <dbp:areas rdf:resource="http://dbpedia.org/resource/Iberian_Peninsula" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gallaecian_language">
+    <dbo:spokenIn rdf:resource="http://dbpedia.org/resource/Iberian_Peninsula" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Iberian">
+    <dbo:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/Iberian_Peninsula" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Iberian_language">
+    <dbo:spokenIn rdf:resource="http://dbpedia.org/resource/Iberian_Peninsula" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lusitanian_language">
+    <dbo:spokenIn rdf:resource="http://dbpedia.org/resource/Iberian_Peninsula" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Peninsular_War">
+    <dbo:place rdf:resource="http://dbpedia.org/resource/Iberian_Peninsula" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Geography_of_Spain">
+    <dbp:region rdf:resource="http://dbpedia.org/resource/Iberian_Peninsula" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Iberian_Peninsula">
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Peninsula109388848" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Land109334396" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatPeninsulasOfEurope" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q23442" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Region108630039" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoPermanentlyLocatedEntity" />
+    <rdf:type rdf:resource="http://schema.org/Place" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoGeoEntity" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/PopulatedPlace" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Place" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Location" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Location100027167" />
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PhysicalEntity100001930" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Object100002684" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoLegalActorGeo" />
+    <rdf:type rdf:resource="http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Island" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatPeninsulas" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatRegionsOfEurope" />
+    <rdfs:label xml:lang="pt">Península Ibérica</rdfs:label>
+    <rdfs:label xml:lang="nl">Iberisch Schiereiland</rdfs:label>
+    <rdfs:label xml:lang="es">Península ibérica</rdfs:label>
+    <rdfs:label xml:lang="fr">Péninsule Ibérique</rdfs:label>
+    <rdfs:label xml:lang="ar">شبه الجزيرة الإيبيرية</rdfs:label>
+    <rdfs:label xml:lang="de">Iberische Halbinsel</rdfs:label>
+    <rdfs:label xml:lang="it">Penisola iberica</rdfs:label>
+    <rdfs:label xml:lang="en">Iberian Peninsula</rdfs:label>
+    <rdfs:label xml:lang="zh">伊比利亚半岛</rdfs:label>
+    <rdfs:label xml:lang="pl">Półwysep Iberyjski</rdfs:label>
+    <rdfs:label xml:lang="ja">イベリア半島</rdfs:label>
+    <rdfs:label xml:lang="ru">Пиренейский полуостров</rdfs:label>
+    <rdfs:comment xml:lang="it">La penisola iberica, nota anche come Iberia, è una penisola europea.Politicamente, la penisola iberica è divisa tra Spagna, Portogallo, Gibilterra, Andorra e, per una piccola parte (l&#39;Alta Cerdagna), Francia. La popolazione è composta da 60.121.768 abitanti concentrati maggiormente lungo le coste spagnole e portoghesi e nella regione di Madrid. È collocata all&#39;estremità sud-occidentale del continente europeo.</rdfs:comment>
+    <rdfs:comment xml:lang="es">La península ibérica se encuentra situada en el sudoeste de Europa; está rodeada por el mar Mediterráneo y el océano Atlántico, y unida al resto del continente europeo por el noreste. El istmo (el lugar más estrecho) se ha establecido tradicionalmente a lo largo de la línea divisoria de aguas en el Pirineo, si bien técnicamente, la frontera peninsular estaría situada en la línea recta que une el punto central de los dos golfos de donde parte el istmo, entre Bayona, en el [golfo de Vizcaya]] y la costa de Narbona en el golfo de León, en la zona sur de Francia, al norte de los Pirineos.</rdfs:comment>
+    <rdfs:comment xml:lang="ar">شبه جزيرة إيْبِيرِيَا أو شبه الجزيرة الإيْبِيرِيّة (كانت تسمى شبه جزيرة الأندلس أو شبه الجزيرة الأندلسية أثناء فترة الحكم الإسلامي للأندلس) تقع في الجزء الجنوبي الغربي من قارة أوروبا. تتكون من إسبانيا والبرتغال وأندورا ومنطقة جبل طارق.</rdfs:comment>
+    <rdfs:comment xml:lang="nl">Het Iberisch Schiereiland is een deel van Europa dat zich ten zuiden van de Pyreneeën bevindt.Het schiereiland wordt omgeven door de Middellandse Zee, de Atlantische Oceaan en de Golf van Biskaje. De oppervlakte bedraagt 582.530 km².</rdfs:comment>
+    <rdfs:comment xml:lang="pl">Półwysep Iberyjski (Półwysep Pirenejski, hiszp. i port. Península Ibérica, kat. Península Ibèrica, bask. Iberiar penintsula; w starożytności i średniowieczu Hiszpania) to półwysep znajdujący się w południowo-zachodniej części Europy. Od pozostałej części kontynentu oddzielają go Pireneje na północnym wschodzie, od zachodu i częściowo północy i południa otacza go Ocean Atlantycki, a od wschodu i południowego wschodu Morze Śródziemne. Od Afryki oddziela go Cieśnina Gibraltarska. Powierzchnia półwyspu wynosi 583 254 km².</rdfs:comment>
+    <rdfs:comment xml:lang="de">Die Iberische Halbinsel bzw. Pyrenäenhalbinsel ist der Teil Europas, der südwestlich der Pyrenäen liegt.Spanien, Portugal, das Fürstentum Andorra und Gibraltar sind die heutigen Staaten auf der Halbinsel. Spanien nimmt etwa 85 Prozent der Fläche ein. Portugal liegt an der Westküste. Andorra liegt im Nordosten inmitten der Pyrenäen, dem Grenzgebirge zu Frankreich. Gibraltar an der Südspitze der Halbinsel ist ein Britisches Überseegebiet. Die Straße von Gibraltar, die an der schmalsten Stelle 14 Kilometer breit ist, trennt die Halbinsel von Afrika.</rdfs:comment>
+    <rdfs:comment xml:lang="zh">伊比利亚半岛（西班牙语：la Península Ibérica、葡萄牙語：a Península Ibérica、加泰羅尼亞語：la Península Ibèrica、加利西亚语：a Península Ibérica、巴斯克語：Iberiar penintsula、英语：the Iberian Peninsula），位於欧洲西南角，东面和南面临着地中海，西边是大西洋，北临比斯开湾，在东北部由比利牛斯山脉与欧洲大陆连接。主要包括当今西班牙、葡萄牙、安道尔、法国的一小部分地区、以及直布罗陀。其总面积约 582,000 平方公里。</rdfs:comment>
+    <rdfs:comment xml:lang="pt">A península Ibérica está situada no sudoeste da Europa. É formada por Gibraltar, Portugal, Espanha, Andorra e uma pequena fração do território da França nas vertentes ocidentais e norte dos Pirenéus, até ao local onde o istmo está situado. É a mais ocidental das três grandes penínsulas do sul da Europa, sendo as outras a península Itálica e a península Balcânica. Em área é a segunda maior península da Europa, apenas ultrapassada pela península Escandinava, tendo uma área de cerca de 580 000 km². Formando quase um trapézio, a península liga-se ao resto do continente europeu pelo istmo constituído pela cordilheira dos Pirenéus, sendo rodeada a norte, oeste e parte do sul pelo oceano Atlântico, e a restante costa sul e leste pelo mar Mediterrâneo. Os seus pontos extremos são a ocidente o cabo</rdfs:comment>
+    <rdfs:comment xml:lang="ru">Пирене́йский полуо́стров (также Ибери́йский; исп. , порт. , галис. , астурлеон. Península Ibérica, баск. Iberiar penintsula, араг. Peninsula Iberica, кат. península Ibèrica, эстр. península Ibérica, фр. péninsule Ibérique, англ. Iberian Peninsula, лат. Iberia Paeninsula) расположен на Юго-Западе Европы. Омывается Средиземным морем, Атлантическим океаном и Бискайским заливом. Пиренейский полуостров самый южный и западный из трёх южных полуостровов Европы (Пиренейский, Апеннинский и Балканский). Здесь находятся крайние западная (мыс Рока) и южная (мыс Марроки) точки континентальной Европы.</rdfs:comment>
+    <rdfs:comment xml:lang="ja">イベリア半島（スペイン語・ポルトガル語・ガリシア語:Península Ibérica、カタルーニャ語:Península Ibèrica、バスク語:Iberiar penintsula）は、ヨーロッパの南西に位置する半島である。</rdfs:comment>
+    <rdfs:comment xml:lang="en">The Iberian Peninsula /aɪˈbɪəriən pəˈnᵻnsjᵿlə/, also known as Iberia /aɪˈbɪəriə/, is located in the southwest corner of Europe. The peninsula is principally divided between Portugal and Spain, comprising most of their territory. It also includes Andorra and a small part of France along its northeastern edge, as well as Gibraltar on its south coast, a small peninsula which forms an overseas territory of the United Kingdom. With an area of approximately 582,000 km2 (225,000 sq mi), it is the third largest European peninsula, after the Scandinavian and Balkan peninsulas.</rdfs:comment>
+    <rdfs:comment xml:lang="fr">La péninsule Ibérique est la péninsule à la pointe sud-ouest de l&#39;Europe.</rdfs:comment>
+    <owl:sameAs rdf:resource="http://pt.dbpedia.org/resource/Península_Ibérica" />
+    <owl:sameAs rdf:resource="http://ko.dbpedia.org/resource/이베리아_반도" />
+    <owl:sameAs rdf:resource="http://nl.dbpedia.org/resource/Iberisch_Schiereiland" />
+    <owl:sameAs rdf:resource="http://eu.dbpedia.org/resource/Iberiar_penintsula" />
+    <owl:sameAs rdf:resource="http://el.dbpedia.org/resource/Ιβηρική_χερσόνησος" />
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.03v9w" />
+    <owl:sameAs rdf:resource="http://ja.dbpedia.org/resource/イベリア半島" />
+    <owl:sameAs rdf:resource="http://yago-knowledge.org/resource/Iberian_Peninsula" />
+    <owl:sameAs rdf:resource="http://es.dbpedia.org/resource/Península_ibérica" />
+    <owl:sameAs rdf:resource="http://d-nb.info/gnd/4047912-2" />
+    <owl:sameAs rdf:resource="http://sw.cyc.com/concept/Mx4rvnUtApwpEbGdrcN5Y29ycA" />
+    <owl:sameAs rdf:resource="http://fr.dbpedia.org/resource/Péninsule_Ibérique" />
+    <owl:sameAs rdf:resource="http://cs.dbpedia.org/resource/Pyrenejský_poloostrov" />
+    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/Iberische_Halbinsel" />
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q12837" />
+    <owl:sameAs rdf:resource="http://pl.dbpedia.org/resource/Półwysep_Iberyjski" />
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Iberian_Peninsula" />
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q12837" />
+    <owl:sameAs rdf:resource="http://id.dbpedia.org/resource/Iberia" />
+    <owl:sameAs rdf:resource="http://it.dbpedia.org/resource/Penisola_iberica" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Peninsulas_of_Spain" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Geography_of_Portugal" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Geography_of_Southwestern_Europe" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Peninsulas_of_Portugal" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Geography_of_Gibraltar" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Geography_of_Spain" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Historic_Jewish_communities" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Peninsulas_of_Europe" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Regions_of_Europe" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Al-Andalus" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Iberian_Peninsula" />
+    <dbo:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">14883</dbo:wikiPageID>
+    <dbo:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">745269570</dbo:wikiPageRevisionID>
+    <foaf:name xml:lang="en">Iberian Peninsula</foaf:name>
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#float">40.0</geo:lat>
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-4.0</geo:long>
+    <foaf:depiction rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/España_y_Portugal.jpg" />
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Iberian_Peninsula" />
+    <geo:geometry rdf:datatype="http://www.openlinksw.com/schemas/virtrdf#Geometry">POINT(-4 40)</geo:geometry>
+    <dbo:thumbnail rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/España_y_Portugal.jpg?width=300" />
+    <prov:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Iberian_Peninsula?oldid=745269570" />
+    <ns8:areaTotal rdf:datatype="http://dbpedia.org/datatype/squareKilometre">582000.0</ns8:areaTotal>
+    <dbo:abstract xml:lang="it">La penisola iberica, nota anche come Iberia, è una penisola europea.Politicamente, la penisola iberica è divisa tra Spagna, Portogallo, Gibilterra, Andorra e, per una piccola parte (l&#39;Alta Cerdagna), Francia. La popolazione è composta da 60.121.768 abitanti concentrati maggiormente lungo le coste spagnole e portoghesi e nella regione di Madrid. È collocata all&#39;estremità sud-occidentale del continente europeo. Si presenta come una grande penisola, protesa verso il Mar Mediterraneo nella parte orientale, verso l&#39;Oceano Atlantico nella parte occidentale e delimitata a nord-est dalla catena dei Pirenei. La Penisola Iberica ha una forma tozza, simile a un grande rettangolo: una buona parte del suo territorio è perciò lontana dal mare e ciò determina delle nette differenze climatiche fra le parti costiere e quelle più interne. Il nome della regione deriva dagli Iberi. Erodoto, attribuì la denominazione di Iberi agli antichi abitanti della penisola, forse giunti dall&#39;Africa in tempi remoti.</dbo:abstract>
+    <dbo:abstract xml:lang="en">The Iberian Peninsula /aɪˈbɪəriən pəˈnᵻnsjᵿlə/, also known as Iberia /aɪˈbɪəriə/, is located in the southwest corner of Europe. The peninsula is principally divided between Portugal and Spain, comprising most of their territory. It also includes Andorra and a small part of France along its northeastern edge, as well as Gibraltar on its south coast, a small peninsula which forms an overseas territory of the United Kingdom. With an area of approximately 582,000 km2 (225,000 sq mi), it is the third largest European peninsula, after the Scandinavian and Balkan peninsulas.</dbo:abstract>
+    <dbo:abstract xml:lang="zh">伊比利亚半岛（西班牙语：la Península Ibérica、葡萄牙語：a Península Ibérica、加泰羅尼亞語：la Península Ibèrica、加利西亚语：a Península Ibérica、巴斯克語：Iberiar penintsula、英语：the Iberian Peninsula），位於欧洲西南角，东面和南面临着地中海，西边是大西洋，北临比斯开湾，在东北部由比利牛斯山脉与欧洲大陆连接。主要包括当今西班牙、葡萄牙、安道尔、法国的一小部分地区、以及直布罗陀。其总面积约 582,000 平方公里。</dbo:abstract>
+    <dbo:abstract xml:lang="es">La península ibérica se encuentra situada en el sudoeste de Europa; está rodeada por el mar Mediterráneo y el océano Atlántico, y unida al resto del continente europeo por el noreste. El istmo (el lugar más estrecho) se ha establecido tradicionalmente a lo largo de la línea divisoria de aguas en el Pirineo, si bien técnicamente, la frontera peninsular estaría situada en la línea recta que une el punto central de los dos golfos de donde parte el istmo, entre Bayona, en el [golfo de Vizcaya]] y la costa de Narbona en el golfo de León, en la zona sur de Francia, al norte de los Pirineos. Políticamente, ocupan casi toda su superficie dos países, España y Portugal, además de Andorra, el territorio británico de Gibraltar y los valles pirenaicos de la Alta Cerdaña, en Francia. Históricamente, se ha denominado península ibérica, Iberia, península hispánica o península hespérica al territorio continental situado «más allá» de los Pirineos.</dbo:abstract>
+    <dbo:abstract xml:lang="de">Die Iberische Halbinsel bzw. Pyrenäenhalbinsel ist der Teil Europas, der südwestlich der Pyrenäen liegt.Spanien, Portugal, das Fürstentum Andorra und Gibraltar sind die heutigen Staaten auf der Halbinsel. Spanien nimmt etwa 85 Prozent der Fläche ein. Portugal liegt an der Westküste. Andorra liegt im Nordosten inmitten der Pyrenäen, dem Grenzgebirge zu Frankreich. Gibraltar an der Südspitze der Halbinsel ist ein Britisches Überseegebiet. Die Straße von Gibraltar, die an der schmalsten Stelle 14 Kilometer breit ist, trennt die Halbinsel von Afrika.</dbo:abstract>
+    <dbo:abstract xml:lang="pl">Półwysep Iberyjski (Półwysep Pirenejski, hiszp. i port. Península Ibérica, kat. Península Ibèrica, bask. Iberiar penintsula; w starożytności i średniowieczu Hiszpania) to półwysep znajdujący się w południowo-zachodniej części Europy. Od pozostałej części kontynentu oddzielają go Pireneje na północnym wschodzie, od zachodu i częściowo północy i południa otacza go Ocean Atlantycki, a od wschodu i południowego wschodu Morze Śródziemne. Od Afryki oddziela go Cieśnina Gibraltarska. Powierzchnia półwyspu wynosi 583 254 km². Na obszarze Półwyspu Iberyjskiego położone są Hiszpania, Portugalia, Andora i Gibraltar. Zamieszkany jest przez ponad 57 mln ludzi. Większość półwyspu zajęta jest przez wyżyny i góry (najwyższe są Góry Betyckie, ze szczytem Mulhacén 3478 m n.p.m.).</dbo:abstract>
+    <dbo:abstract xml:lang="ar">شبه جزيرة إيْبِيرِيَا أو شبه الجزيرة الإيْبِيرِيّة (كانت تسمى شبه جزيرة الأندلس أو شبه الجزيرة الأندلسية أثناء فترة الحكم الإسلامي للأندلس) تقع في الجزء الجنوبي الغربي من قارة أوروبا. تتكون من إسبانيا والبرتغال وأندورا ومنطقة جبل طارق. تشكل إسبانيا الجزء الأكبر منها بحوالي 85% قي حين تحتل البرتغال الجزء الغربي فيها بنحو 14.9% من مساحة شبه الجزيرة. يحدها البحر المتوسط من الجنوب والشرق والمحيط الأطلسي من شمالها وغربها وتتصل مع أوروبا من طرفها الشمالي الشرقي. تشكل جبال البرانس الحدود الطبيعية مع أوروبا لشبه الجزيرة الأيبيرية. تزيد مساحتها عن 582 ألف كم مربع في حين ان اندورا المشتركة مع الجمهورية الفرنسية تشكل مساحة 0.76 % اما منطقة جبل طارق فتشكل مساحة 0.5 % .</dbo:abstract>
+    <dbo:abstract xml:lang="ru">Пирене́йский полуо́стров (также Ибери́йский; исп. , порт. , галис. , астурлеон. Península Ibérica, баск. Iberiar penintsula, араг. Peninsula Iberica, кат. península Ibèrica, эстр. península Ibérica, фр. péninsule Ibérique, англ. Iberian Peninsula, лат. Iberia Paeninsula) расположен на Юго-Западе Европы. Омывается Средиземным морем, Атлантическим океаном и Бискайским заливом. Пиренейский полуостров самый южный и западный из трёх южных полуостровов Европы (Пиренейский, Апеннинский и Балканский). Здесь находятся крайние западная (мыс Рока) и южная (мыс Марроки) точки континентальной Европы. Альтернативное название «Иберийский» связано с народом иберов, проживавших на востоке полуострова (территория современной Каталонии) в эпоху, предшествующую приходу римлян.</dbo:abstract>
+    <dbo:abstract xml:lang="pt">A península Ibérica está situada no sudoeste da Europa. É formada por Gibraltar, Portugal, Espanha, Andorra e uma pequena fração do território da França nas vertentes ocidentais e norte dos Pirenéus, até ao local onde o istmo está situado. É a mais ocidental das três grandes penínsulas do sul da Europa, sendo as outras a península Itálica e a península Balcânica. Em área é a segunda maior península da Europa, apenas ultrapassada pela península Escandinava, tendo uma área de cerca de 580 000 km². Formando quase um trapézio, a península liga-se ao resto do continente europeu pelo istmo constituído pela cordilheira dos Pirenéus, sendo rodeada a norte, oeste e parte do sul pelo oceano Atlântico, e a restante costa sul e leste pelo mar Mediterrâneo. Os seus pontos extremos são a ocidente o cabo da Roca, a oriente o cabo de Creus, a sul a ponta de Tarifa e a norte a estaca de Bares. Com uma altitude média bastante elevada, apresenta predomínio de planaltos rodeados por cadeias de montanhas, e que são atravessados pelos principais rios. Os mais importantes são o rio Tejo, o rio Douro, o rio Guadiana e o rio Guadalquivir, que desaguam no oceano Atlântico, e o rio Ebro, que, por sua vez, desagua no mar Mediterrâneo. As elevações mais importantes são a cordilheira Cantábrica, no norte; o sistema Penibético (serra Nevada) e o sistema Bético (serra Morena), no sul; e ainda a cordilheira Central (serra de Guadarrama), de que a serra da Estrela é o prolongamento ocidental. Densamente povoada no litoral, a península Ibérica tem fraca densidade populacional nas regiões interiores. Excepção a esta regra é a região de Madrid, densamente povoada.</dbo:abstract>
+    <dbo:abstract xml:lang="nl">Het Iberisch Schiereiland is een deel van Europa dat zich ten zuiden van de Pyreneeën bevindt.Het schiereiland wordt omgeven door de Middellandse Zee, de Atlantische Oceaan en de Golf van Biskaje. De oppervlakte bedraagt 582.530 km².</dbo:abstract>
+    <dbo:abstract xml:lang="ja">イベリア半島（スペイン語・ポルトガル語・ガリシア語:Península Ibérica、カタルーニャ語:Península Ibèrica、バスク語:Iberiar penintsula）は、ヨーロッパの南西に位置する半島である。</dbo:abstract>
+    <dbo:abstract xml:lang="fr">La péninsule Ibérique est la péninsule à la pointe sud-ouest de l&#39;Europe.</dbo:abstract>
+    <dbo:areaTotal rdf:datatype="http://www.w3.org/2001/XMLSchema#double">5.82e+11</dbo:areaTotal>
+    <dbo:country rdf:resource="http://dbpedia.org/resource/Portugal" />
+    <dbo:country rdf:resource="http://dbpedia.org/resource/Andorra" />
+    <dbo:country rdf:resource="http://dbpedia.org/resource/Spain" />
+    <dbo:elevation rdf:datatype="http://www.w3.org/2001/XMLSchema#double">3478.0</dbo:elevation>
+    <dbo:largestCity rdf:resource="http://dbpedia.org/resource/Andorra_la_Vella" />
+    <dbo:populationTotal rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">53000000</dbo:populationTotal>
+    <georss:point>40.0 -4.0</georss:point>
+    <dbp:citizenships rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Andorran, France, Gibraltarian, Portuguese and Spanish</dbp:citizenships>
+    <dbp:country1AreaKm rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">89000</dbp:country1AreaKm>
+    <dbp:country1LargestCity rdf:resource="http://dbpedia.org/resource/Lisbon" />
+    <dbp:country2AreaKm rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">492000</dbp:country2AreaKm>
+    <dbp:country2LargestCity rdf:resource="http://dbpedia.org/resource/Madrid" />
+    <dbp:country3AreaKm rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">7</dbp:country3AreaKm>
+    <dbp:country3LargestCity rdf:resource="http://dbpedia.org/resource/Gibraltar" />
+    <dbp:country4Area rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Undetermined</dbp:country4Area>
+    <dbp:country4LargestCity rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Font-Romeu-Odeillo-Via  or Perpignan</dbp:country4LargestCity>
+    <dbp:countryAreaKm rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">468</dbp:countryAreaKm>
+    <dbp:demonym rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Iberian</dbp:demonym>
+    <dbp:highestMount rdf:resource="http://dbpedia.org/resource/Mulhacén" />
+    <dbp:imageCaption rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Satellite image of the Iberian Peninsula.</dbp:imageCaption>
+    <dbp:imageName rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">España y Portugal.jpg</dbp:imageName>
+    <dbp:imageSize rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">255</dbp:imageSize>
+    <dbp:location rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Southwest Europe</dbp:location>
+    <dbp:locatorMap rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Iberia .svg</dbp:locatorMap>
+    <dbp:locatorMapSize rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">220</dbp:locatorMapSize>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Celtiberian_language">
+    <dbo:spokenIn rdf:resource="http://dbpedia.org/resource/Iberian_Peninsula" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Eduardo">
+    <dbo:region rdf:resource="http://dbpedia.org/resource/Iberian_Peninsula" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/English_Armada">
+    <dbo:place rdf:resource="http://dbpedia.org/resource/Iberian_Peninsula" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Raul">
+    <dbo:region rdf:resource="http://dbpedia.org/resource/Iberian_Peninsula" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Italo-Western_languages">
+    <dbp:region rdf:resource="http://dbpedia.org/resource/Iberian_Peninsula" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/La_Mujer_Muerta">
+    <dbo:region rdf:resource="http://dbpedia.org/resource/Iberian_Peninsula" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sierra_de_la_Cabrera_(Sistema_Central)">
+    <dbo:region rdf:resource="http://dbpedia.org/resource/Iberian_Peninsula" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2006_Atlantic_hurricane_season">
+    <dbp:areas rdf:resource="http://dbpedia.org/resource/Iberian_Peninsula" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sierra_de_Béjar">
+    <dbo:region rdf:resource="http://dbpedia.org/resource/Iberian_Peninsula" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sierra_del_Ocejón">
+    <dbo:region rdf:resource="http://dbpedia.org/resource/Iberian_Peninsula" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hispanic_peninsula">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Iberian_Peninsula" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ibn_Dihya_al-Kalby">
+    <dbo:region rdf:resource="http://dbpedia.org/resource/Iberian_Peninsula" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Madh&#39;hij">
+    <dbp:region rdf:resource="http://dbpedia.org/resource/Iberian_Peninsula" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mundhir_bin_Sa&#39;īd_al-Ballūṭī">
+    <dbp:region rdf:resource="http://dbpedia.org/resource/Iberian_Peninsula" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lycerius">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Iberian_Peninsula" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gibraltar_South_Mole_Lighthouse">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Iberian_Peninsula" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Flávio_Ataúlfo_de_Coimbra">
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Iberian_Peninsula" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Flávio_Sisebuto_de_Coimbra">
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Iberian_Peninsula" />
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Iberian_Peninsula" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sueiro_Belfaguer">
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Iberian_Peninsula" />
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Iberian_Peninsula" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sierra_de_Gredos">
+    <dbo:region rdf:resource="http://dbpedia.org/resource/Iberian_Peninsula" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sierra_de_Guadarrama">
+    <dbo:region rdf:resource="http://dbpedia.org/resource/Iberian_Peninsula" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/BYU_Television_International">
+    <dbo:broadcastArea rdf:resource="http://dbpedia.org/resource/Iberian_Peninsula" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Macarena_Gómez">
+    <dbo:award rdf:resource="http://dbpedia.org/resource/Iberian_Peninsula" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gibraltar_Detached_Mole_(%22B%22_Head)_Lighthouse">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Iberian_Peninsula" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gibraltar_Detached_Mole_(%22C%22_Head)_Lighthouse">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Iberian_Peninsula" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Iberic">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Iberian_Peninsula" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Geography_of_Portugal">
+    <dbp:region rdf:resource="http://dbpedia.org/resource/Iberian_Peninsula" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Iberia_Parish,_Louisiana">
+    <dbp:namedFor rdf:resource="http://dbpedia.org/resource/Iberian_Peninsula" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Crime_&amp;_Investigation_Network_(Europe)">
+    <dbo:broadcastArea rdf:resource="http://dbpedia.org/resource/Iberian_Peninsula" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Norwegian_Crusade">
+    <dbo:place rdf:resource="http://dbpedia.org/resource/Iberian_Peninsula" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Battle_of_Carmona">
+    <dbo:place rdf:resource="http://dbpedia.org/resource/Iberian_Peninsula" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hurricane_Gordon_(2006)">
+    <dbp:areas rdf:resource="http://dbpedia.org/resource/Iberian_Peninsula" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Iberia">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Iberian_Peninsula" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kingdom_of_Iberia">
+    <owl:differentFrom rdf:resource="http://dbpedia.org/resource/Iberian_Peninsula" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Portuguese_Restoration_War">
+    <dbo:place rdf:resource="http://dbpedia.org/resource/Iberian_Peninsula" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Battle_of_Guadalete">
+    <dbo:place rdf:resource="http://dbpedia.org/resource/Iberian_Peninsula" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mosque–Cathedral_of_Córdoba">
+    <dbp:region rdf:resource="http://dbpedia.org/resource/Iberian_Peninsula" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sierra_de_Gata">
+    <dbo:region rdf:resource="http://dbpedia.org/resource/Iberian_Peninsula" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Black_Iberian_pig">
+    <dbp:country rdf:resource="http://dbpedia.org/resource/Iberian_Peninsula" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Siege_of_Numantia">
+    <dbo:place rdf:resource="http://dbpedia.org/resource/Iberian_Peninsula" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hispanic_Peninsula">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Iberian_Peninsula" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Aboazar_Lovesendes">
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Iberian_Peninsula" />
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Iberian_Peninsula" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Alfonso_Enríquez_de_Castilla,_count_of_Gijón_y_Noreña">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Iberian_Peninsula" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Echigues_Goçoy">
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Iberian_Peninsula" />
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Iberian_Peninsula" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Fernán_Gutiérrez_de_Castro">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Iberian_Peninsula" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Fernão_Jeremias">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Iberian_Peninsula" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gomes_Echigues">
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Iberian_Peninsula" />
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Iberian_Peninsula" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Pedro_Bernaldez_de_Sahagun">
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Iberian_Peninsula" />
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Iberian_Peninsula" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Fernando">
+    <dbp:origin rdf:resource="http://dbpedia.org/resource/Iberian_Peninsula" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Iberian_peninsula">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Iberian_Peninsula" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/MGM_Channel_(Europe)">
+    <dbo:broadcastArea rdf:resource="http://dbpedia.org/resource/Iberian_Peninsula" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sierra_de_la_Cabrera">
+    <dbo:region rdf:resource="http://dbpedia.org/resource/Iberian_Peninsula" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sierra_de_Ávila">
+    <dbo:region rdf:resource="http://dbpedia.org/resource/Iberian_Peninsula" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hungarian_invasions_of_Europe">
+    <dbo:place rdf:resource="http://dbpedia.org/resource/Iberian_Peninsula" />
+    <dbo:territory rdf:resource="http://dbpedia.org/resource/Iberian_Peninsula" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Teixeira">
+    <dbp:region rdf:resource="http://dbpedia.org/resource/Iberian_Peninsula" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Castell_de_la_Fosca">
+    <dbp:region rdf:resource="http://dbpedia.org/resource/Iberian_Peninsula" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hyberian_peninsula">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Iberian_Peninsula" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tornadoes_of_2008">
+    <dbp:areasAffected rdf:resource="http://dbpedia.org/resource/Iberian_Peninsula" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/History_(European_TV_channel)">
+    <dbo:broadcastArea rdf:resource="http://dbpedia.org/resource/Iberian_Peninsula" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/SciELO">
+    <dbp:geospatial rdf:resource="http://dbpedia.org/resource/Iberian_Peninsula" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mozarabic_language">
+    <dbo:spokenIn rdf:resource="http://dbpedia.org/resource/Iberian_Peninsula" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sierra_de_Francia">
+    <dbo:region rdf:resource="http://dbpedia.org/resource/Iberian_Peninsula" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hispanic_Pennisula">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Iberian_Peninsula" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Iberian_Peninsular">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Iberian_Peninsula" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Iberian_pensinular">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Iberian_Peninsula" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/South-West_Europe">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Iberian_Peninsula" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/South-Western_Europe">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Iberian_Peninsula" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Southwest_Europe">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Iberian_Peninsula" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Southwestern_Europe">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Iberian_Peninsula" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Spain_and_portugal">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Iberian_Peninsula" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Pallache_family">
+    <dbp:region rdf:resource="http://dbpedia.org/resource/Iberian_Peninsula" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ibearian_Pensinsular">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Iberian_Peninsula" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Iberian_Pensinsular">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Iberian_Peninsula" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Iberian_Peninsule">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Iberian_Peninsula" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ibérica">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Iberian_Peninsula" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Iberian_Peninsula">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Iberian_Peninsula" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/History_of_the_Iberian_Peninsula">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Iberian_Peninsula" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Pyrenean_Peninsula">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Iberian_Peninsula" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/South_West_Europe">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Iberian_Peninsula" />
+  </rdf:Description>
+</rdf:RDF>

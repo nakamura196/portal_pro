@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:dbo="http://dbpedia.org/ontology/"
+	xmlns:dct="http://purl.org/dc/terms/"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:dbp="http://dbpedia.org/property/"
+	xmlns:prov="http://www.w3.org/ns/prov#"
+	xmlns:ns8="http://purl.org/linguistics/gold/" >
+  <rdf:Description rdf:about="http://dbpedia.org/resource/A_Study_of_History">
+    <dbo:author rdf:resource="http://dbpedia.org/resource/Arnold_J._Toynbee" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Andrew_Godefroy">
+    <dbo:influencedBy rdf:resource="http://dbpedia.org/resource/Arnold_J._Toynbee" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Oswald_Spengler">
+    <dbo:influenced rdf:resource="http://dbpedia.org/resource/Arnold_J._Toynbee" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jane_Caplan">
+    <dbo:academicAdvisor rdf:resource="http://dbpedia.org/resource/Arnold_J._Toynbee" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Polly_Toynbee">
+    <dbo:relative rdf:resource="http://dbpedia.org/resource/Arnold_J._Toynbee" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Arnold_J._Toynbee">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q5" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Worker109632518" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Writer110794014" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatBritishHistorians" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatAlumniOfTheUniversityOfOxford" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatPeopleFromLondon" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatHistorians" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Intellectual109621545" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatWritersFromLondon" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatBritishPhilosophers" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatBritishWriters" />
+    <rdf:type rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Alumnus109786338" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Diplomat110013927" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatPeopleAssociatedWithTheHumanPotentialMovement" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/SkilledWorker110605985" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Communicator109610660" />
+    <rdf:type rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatTheoristsOnWesternCivilization" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Organism100004475" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Person" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Agent" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/CausalAgent100007347" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Professional110480253" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Whole100003553" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/LivingThing100004258" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatPhilosophersOfHistory" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Official110372373" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatBritishPeople" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Scholar110557854" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatAcademicsOfTheLondonSchoolOfEconomics" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatAlumniOfBalliolCollege,Oxford" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Historian110177150" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Educator110045713" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Academician109759069" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatAcademicsOfKing&#39;sCollegeLondon" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Adult109605289" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Person100007846" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Object100002684" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoLegalActor" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoLegalActorGeo" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PhysicalEntity100001930" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Theorist110706812" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatAcademicsOfTheUniversityOfLondon" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Philosopher110423589" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Peer109626238" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Colleague109935990" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatBritishDiplomats" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Associate109816771" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatAcademicsOfTheUniversityOfOxford" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatPeopleEducatedAtWinchesterCollege" />
+    <rdf:type rdf:resource="http://schema.org/Person" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q24229398" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatFellowsOfBalliolCollege,Oxford" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q215627" />
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person" />
+    <rdfs:label xml:lang="es">Arnold J. Toynbee</rdfs:label>
+    <rdfs:label xml:lang="en">Arnold J. Toynbee</rdfs:label>
+    <rdfs:label xml:lang="de">Arnold J. Toynbee</rdfs:label>
+    <rdfs:label xml:lang="ru">Тойнби, Арнольд Джозеф</rdfs:label>
+    <rdfs:label xml:lang="pl">Arnold Joseph Toynbee</rdfs:label>
+    <rdfs:label xml:lang="zh">阿诺尔德·J·汤因比</rdfs:label>
+    <rdfs:label xml:lang="ar">أرنولد توينبي</rdfs:label>
+    <rdfs:label xml:lang="ja">アーノルド・J・トインビー</rdfs:label>
+    <rdfs:label xml:lang="it">Arnold J. Toynbee</rdfs:label>
+    <rdfs:label xml:lang="pt">Arnold J. Toynbee</rdfs:label>
+    <rdfs:label xml:lang="nl">Arnold Joseph Toynbee</rdfs:label>
+    <rdfs:label xml:lang="fr">Arnold Joseph Toynbee</rdfs:label>
+    <rdfs:comment xml:lang="pl">Arnold Joseph Toynbee (ur. 14 kwietnia 1889 w Londynie, zm. 22 października 1975 w Yorku) – brytyjski historiozof, autor dwunastotomowego dzieła Studium historii. Obok Oswada Spenglera, Alfreda Webera, Pitirima Sorokina, Norberta Eliasa i Immanuela Wallersteina zaliczany do najbardziej wpływowych XX-wiecznych „teoretyków cywilizacji”.</rdfs:comment>
+    <rdfs:comment xml:lang="ar">25بك المحتوى هنا ينقصه الاستشهاد بمصادر. يرجى إيراد مصادر موثوق بها. أي معلومات غير موثقة يمكن التشكيك بها وإزالتها. (فبراير 2016) أرنولد جوزف توينبي ولد في 14 أبريل 1889 في لندن وتوفي في 22 أكتوبر 1975. أهم أعماله دراسة للتاريخ ، وهو من أشهر المؤرخين في القرن العشرين .</rdfs:comment>
+    <rdfs:comment xml:lang="zh">阿诺尔德·约瑟夫·汤因比，CH（Arnold Joseph Toynbee，1889年4月14日－1975年10月22日）是英国著名历史学家。他的叔父也是一位历史学家，但专门研究经济发展史，也叫阿诺尔德·汤因比（1852-1883）。为了区分两者，通常都称呼二人的全名，以免混淆。 湯恩比著述頗豐，其中以他十二鉅冊的《歷史研究》為最輝煌。湯恩比治史，一反國家至上的觀念，主張文明才是歷史的單位；他把世界歷史劃分為26種文明，並断言，文明得以崛起的原因在于它在包含精英领袖的少数创造者的领导下成功地应对了环境的挑战。被誉为“现代学者最伟大的成就”。</rdfs:comment>
+    <rdfs:comment xml:lang="es">Arnold Joseph Toynbee, CH (14 de abril de 1889, Londres - 22 de octubre de 1975) fue un historiador británico. Especialista en filosofía de la historia, estableció una teoría cíclica sobre el desarrollo de las civilizaciones. Según Toynbee, las civilizaciones son el resultado de la respuesta de un grupo humano a los desafíos que sufre, ya sean naturales o sociales. De acuerdo con esta teoría, una civilización crece y prospera cuando su respuesta a un desafío no sólo tiene éxito, sino que estimula una nueva serie de desafíos; una civilización decae como resultado de su impotencia para enfrentarse a los desafíos que se le presentan. Dio gran importancia a los factores religiosos en la formulación de las respuestas a los desafíos. Fruto de esta teoría, Toynbee negó el determinismo en la evolu</rdfs:comment>
+    <rdfs:comment xml:lang="nl">Arnold Joseph Toynbee (14 april 1889 – 22 oktober 1975) was een Brits historicus, wiens twaalfdelige analyse van de opkomst en ondergang van beschavingen, A Study of History (Een studie van de geschiedenis), geschreven van 1934 tot 1961, een synthese was van de wereldgeschiedenis, een metahistorie, gebaseerd op universele patronen van opkomst, bloei en verval, die de geschiedenis vanaf een wereldwijd perspectief bestudeerde. Hij was voorts onderzoeksprofessor aan de London School of Economics en aan de Universiteit van Londen.</rdfs:comment>
+    <rdfs:comment xml:lang="en">Arnold Joseph Toynbee CH (/ˈtɔɪnbi/; 14 April 1889 – 22 October 1975) was a British historian, philosopher of history, research professor of International History at the London School of Economics and the University of London and author of numerous books. Toynbee in the 1918–1950 period was a leading specialist on international affairs.</rdfs:comment>
+    <rdfs:comment xml:lang="ru">Арно́льд Джо́зеф То́йнби (англ. Arnold Joseph Toynbee; 14 апреля 1889 года, Лондон — 22 октября 1975 года) — британский историк, философ истории, культуролог и социолог. Один из разработчиков цивилизационной теории, автор двенадцатитомного труда по сравнительной истории цивилизаций «Постижение истории». Исследователь процессов Глобализации, критик концепции европоцентризма. Удостоен Ордена Кавалеров Почёта.</rdfs:comment>
+    <rdfs:comment xml:lang="pt">Arnold Joseph Toynbee, CH (Londres, 14 de abril de 1889 — 22 de outubro de 1975) foi um historiador britânico, cuja obra-prima é Um Estudo de História (A Study of History), em que examina, em doze volumes, o processo de nascimento, crescimento e queda das civilizações sob uma perspectiva global. Em Um Estudo de História sugere que a civilização como um todo é a unidade adequada para o estudo da história, não o estado nacional, que ele entende como apenas uma parte de um todo maior.</rdfs:comment>
+    <rdfs:comment xml:lang="ja">アーノルド・ジョゼフ・トインビー（Arnold Joseph Toynbee、1889年4月14日 - 1975年10月22日）は、イギリスの歴史学者。</rdfs:comment>
+    <rdfs:comment xml:lang="fr">Arnold Joseph Toynbee, né le 14 avril 1889 et mort le 22 octobre 1975, est un historien britannique. Son analyse en douze volumes de l&#39;essor et de la chute des civilisations, Étude de l&#39;histoire (A Study of History), parue entre 1934 et 1961, est une synthèse de l&#39;histoire mondiale, une « métahistoire » basée sur les rythmes universels de la croissance, de l&#39;épanouissement et du déclin. Toynbee a produit une théorie générale de l&#39;histoire et de la civilisation. L&#39;histoire comparée est son domaine de prédilection.</rdfs:comment>
+    <rdfs:comment xml:lang="it">Appartenne alla corrente britannica dello storicismo diffusasi nella seconda metà dell&#39;Ottocento e che vide in Toynbee uno dei suoi massimi esponenti.Con le sue opere si collegò ad uno dei capostipiti della scuola Oswald Spengler, prendendone polemicamente le distanze su vari punti fondamentali.</rdfs:comment>
+    <rdfs:comment xml:lang="de">Arnold Joseph Toynbee (* 14. April 1889 in London; † 22. Oktober 1975 in York (Yorkshire)) war ein britischer Kulturtheoretiker und ein bedeutender Geschichtsphilosoph des 20. Jahrhunderts. Er gilt als letzter großer Universalhistoriker.</rdfs:comment>
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q185381" />
+    <owl:sameAs rdf:resource="http://d-nb.info/gnd/118623532" />
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q185381" />
+    <owl:sameAs rdf:resource="http://viaf.org/viaf/54154945" />
+    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/Arnold_J._Toynbee" />
+    <owl:sameAs rdf:resource="http://eu.dbpedia.org/resource/Arnold_J._Toynbee" />
+    <owl:sameAs rdf:resource="http://www4.wiwiss.fu-berlin.de/gutendata/resource/people/Toynbee_Arnold_Joseph_1889-1975" />
+    <owl:sameAs rdf:resource="http://cs.dbpedia.org/resource/Arnold_Joseph_Toynbee" />
+    <owl:sameAs rdf:resource="http://yago-knowledge.org/resource/Arnold_J._Toynbee" />
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.0hljj" />
+    <owl:sameAs rdf:resource="http://pl.dbpedia.org/resource/Arnold_Joseph_Toynbee" />
+    <owl:sameAs rdf:resource="http://it.dbpedia.org/resource/Arnold_J._Toynbee" />
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Arnold_J._Toynbee" />
+    <owl:sameAs rdf:resource="http://nl.dbpedia.org/resource/Arnold_Joseph_Toynbee" />
+    <owl:sameAs rdf:resource="http://ja.dbpedia.org/resource/アーノルド・J・トインビー" />
+    <owl:sameAs rdf:resource="http://es.dbpedia.org/resource/Arnold_J._Toynbee" />
+    <owl:sameAs rdf:resource="http://fr.dbpedia.org/resource/Arnold_Joseph_Toynbee" />
+    <owl:sameAs rdf:resource="http://pt.dbpedia.org/resource/Arnold_J._Toynbee" />
+    <owl:sameAs rdf:resource="http://ko.dbpedia.org/resource/아널드_J._토인비" />
+    <owl:sameAs rdf:resource="http://id.dbpedia.org/resource/Arnold_Joseph_Toynbee" />
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/United_Kingdom" />
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/England" />
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/York" />
+    <dbo:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1975-10-22</dbo:deathDate>
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/United_Kingdom_of_Great_Britain_and_Ireland" />
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/London" />
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/England" />
+    <dbo:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1889-04-14</dbo:birthDate>
+    <dbo:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1889-4-14</dbo:birthDate>
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Members_of_the_Order_of_the_Companions_of_Honour" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Theories_of_history" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Academics_of_the_London_School_of_Economics" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:20th-century_British_historians" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:People_educated_at_Winchester_College" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:English_Anglicans" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Alumni_of_Balliol_College,_Oxford" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:1975_deaths" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Council_and_directors_of_Chatham_House" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:People_associated_with_the_Human_Potential_Movement" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Theorists_on_Western_civilization" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Fellows_of_Balliol_College,_Oxford" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Academics_of_King&#39;s_College_London" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:1889_births" />
+    <dbo:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">66640</dbo:wikiPageID>
+    <dbo:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">742188857</dbo:wikiPageRevisionID>
+    <dbo:wikiPageExternalLink rdf:resource="http://davidderrick.wordpress.com" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.time.com/time/magazine/article/0,9171,793438,00.html" />
+    <dbo:wikiPageExternalLink rdf:resource="http://davidderrick.wordpress.com/a-toynbee-bibliography/" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.panarchy.org/toynbee/challenge.html" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.questia.com/PM.qst?a=o&amp;d=98819969" />
+    <dbo:wikiPageExternalLink rdf:resource="https://aeon.co/essays/arnold-toynbee-shines-a-light-on-the-humanities-role-today" />
+    <dbo:wikiPageExternalLink rdf:resource="http://diasporiana.org.ua/wp-content/uploads/books/2600/file.pdf" />
+    <dbo:wikiPageExternalLink rdf:resource="http://quod.lib.umich.edu/cgi/t/text/text-idx?c=acls;cc=acls;view=toc;idno=heb03068.0001.001" />
+    <dbo:wikiPageExternalLink rdf:resource="http://nobsword.blogspot.com/1993_10_17_nobsword_archive.html" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.questia.com/read/98819969?title=A%20Study%20of%20History%20-%20Vol.%201" />
+    <dbo:wikiPageExternalLink rdf:resource="http://muse.jhu.edu/journals/journal_of_world_history/v022/22.4.lang.html" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.questia.com/read/5990202?title=Toynbee%20and%20History%3a%20Critical%20Essays%20and%20Reviews" />
+    <foaf:name xml:lang="en">Arnold J. Toynbee</foaf:name>
+    <dbp:name rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Arnold Toynbee</dbp:name>
+    <foaf:depiction rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Arnold_J._Toynbee_Anefo.jpg" />
+    <dct:description xml:lang="en">British historian, author of A Study of History</dct:description>
+    <foaf:givenName xml:lang="en">Arnold</foaf:givenName>
+    <foaf:gender xml:lang="en">male</foaf:gender>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Arnold_J._Toynbee" />
+    <dbo:thumbnail rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Arnold_J._Toynbee_Anefo.jpg?width=300" />
+    <prov:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Arnold_J._Toynbee?oldid=742188857" />
+    <dbo:abstract xml:lang="zh">阿诺尔德·约瑟夫·汤因比，CH（Arnold Joseph Toynbee，1889年4月14日－1975年10月22日）是英国著名历史学家。他的叔父也是一位历史学家，但专门研究经济发展史，也叫阿诺尔德·汤因比（1852-1883）。为了区分两者，通常都称呼二人的全名，以免混淆。 湯恩比著述頗豐，其中以他十二鉅冊的《歷史研究》為最輝煌。湯恩比治史，一反國家至上的觀念，主張文明才是歷史的單位；他把世界歷史劃分為26種文明，並断言，文明得以崛起的原因在于它在包含精英领袖的少数创造者的领导下成功地应对了环境的挑战。被誉为“现代学者最伟大的成就”。</dbo:abstract>
+    <dbo:abstract xml:lang="ja">アーノルド・ジョゼフ・トインビー（Arnold Joseph Toynbee、1889年4月14日 - 1975年10月22日）は、イギリスの歴史学者。</dbo:abstract>
+    <dbo:abstract xml:lang="ru">Арно́льд Джо́зеф То́йнби (англ. Arnold Joseph Toynbee; 14 апреля 1889 года, Лондон — 22 октября 1975 года) — британский историк, философ истории, культуролог и социолог. Один из разработчиков цивилизационной теории, автор двенадцатитомного труда по сравнительной истории цивилизаций «Постижение истории». Исследователь процессов Глобализации, критик концепции европоцентризма. Удостоен Ордена Кавалеров Почёта.</dbo:abstract>
+    <dbo:abstract xml:lang="pl">Arnold Joseph Toynbee (ur. 14 kwietnia 1889 w Londynie, zm. 22 października 1975 w Yorku) – brytyjski historiozof, autor dwunastotomowego dzieła Studium historii. Obok Oswada Spenglera, Alfreda Webera, Pitirima Sorokina, Norberta Eliasa i Immanuela Wallersteina zaliczany do najbardziej wpływowych XX-wiecznych „teoretyków cywilizacji”.</dbo:abstract>
+    <dbo:abstract xml:lang="fr">Arnold Joseph Toynbee, né le 14 avril 1889 et mort le 22 octobre 1975, est un historien britannique. Son analyse en douze volumes de l&#39;essor et de la chute des civilisations, Étude de l&#39;histoire (A Study of History), parue entre 1934 et 1961, est une synthèse de l&#39;histoire mondiale, une « métahistoire » basée sur les rythmes universels de la croissance, de l&#39;épanouissement et du déclin. Toynbee a produit une théorie générale de l&#39;histoire et de la civilisation. L&#39;histoire comparée est son domaine de prédilection.</dbo:abstract>
+    <dbo:abstract xml:lang="en">Arnold Joseph Toynbee CH (/ˈtɔɪnbi/; 14 April 1889 – 22 October 1975) was a British historian, philosopher of history, research professor of International History at the London School of Economics and the University of London and author of numerous books. Toynbee in the 1918–1950 period was a leading specialist on international affairs. He is best known for his 12-volume A Study of History (1934–1961). With his prodigious output of papers, articles, speeches and presentations, and numerous books translated into many languages, Toynbee was a widely read and discussed scholar in the 1940s and 1950s.</dbo:abstract>
+    <dbo:abstract xml:lang="ar">25بك المحتوى هنا ينقصه الاستشهاد بمصادر. يرجى إيراد مصادر موثوق بها. أي معلومات غير موثقة يمكن التشكيك بها وإزالتها. (فبراير 2016) أرنولد جوزف توينبي ولد في 14 أبريل 1889 في لندن وتوفي في 22 أكتوبر 1975. أهم أعماله دراسة للتاريخ ، وهو من أشهر المؤرخين في القرن العشرين .</dbo:abstract>
+    <dbo:abstract xml:lang="es">Arnold Joseph Toynbee, CH (14 de abril de 1889, Londres - 22 de octubre de 1975) fue un historiador británico. Especialista en filosofía de la historia, estableció una teoría cíclica sobre el desarrollo de las civilizaciones. Según Toynbee, las civilizaciones son el resultado de la respuesta de un grupo humano a los desafíos que sufre, ya sean naturales o sociales. De acuerdo con esta teoría, una civilización crece y prospera cuando su respuesta a un desafío no sólo tiene éxito, sino que estimula una nueva serie de desafíos; una civilización decae como resultado de su impotencia para enfrentarse a los desafíos que se le presentan. Dio gran importancia a los factores religiosos en la formulación de las respuestas a los desafíos. Fruto de esta teoría, Toynbee negó el determinismo en la evolución de las civilizaciones, negando que éstas deban perecer finalmente (en abierta oposición a historiógrafos como Oswald Spengler) y defendiendo que podía esperarse que la moderna civilización occidental pudiera escapar a la norma general de decadencia de las civilizaciones. Fue un autor prolífico cuya obra más reconocida e influyente es, sin duda, Estudio de la Historia (A Study of History, doce volúmenes escritos entre 1934 y 1961). En esta obra describe y aplica su concepto de desarrollo de las civilizaciones, al igual que en La civilización puesta a prueba.</dbo:abstract>
+    <dbo:abstract xml:lang="de">Arnold Joseph Toynbee (* 14. April 1889 in London; † 22. Oktober 1975 in York (Yorkshire)) war ein britischer Kulturtheoretiker und ein bedeutender Geschichtsphilosoph des 20. Jahrhunderts. Er gilt als letzter großer Universalhistoriker.</dbo:abstract>
+    <dbo:abstract xml:lang="nl">Arnold Joseph Toynbee (14 april 1889 – 22 oktober 1975) was een Brits historicus, wiens twaalfdelige analyse van de opkomst en ondergang van beschavingen, A Study of History (Een studie van de geschiedenis), geschreven van 1934 tot 1961, een synthese was van de wereldgeschiedenis, een metahistorie, gebaseerd op universele patronen van opkomst, bloei en verval, die de geschiedenis vanaf een wereldwijd perspectief bestudeerde. Hij was voorts onderzoeksprofessor aan de London School of Economics en aan de Universiteit van Londen. Arnold Toynbee, een andere geschiedkundige met wie hij vaak wordt verward, was zijn oom.</dbo:abstract>
+    <dbo:abstract xml:lang="pt">Arnold Joseph Toynbee, CH (Londres, 14 de abril de 1889 — 22 de outubro de 1975) foi um historiador britânico, cuja obra-prima é Um Estudo de História (A Study of History), em que examina, em doze volumes, o processo de nascimento, crescimento e queda das civilizações sob uma perspectiva global. Em Um Estudo de História sugere que a civilização como um todo é a unidade adequada para o estudo da história, não o estado nacional, que ele entende como apenas uma parte de um todo maior. Esta sua Obra, principalmente do Volume I (Gênesis) ao VI, (Decadência), influenciou a partir do final da década de 1980 a administração das grandes corporações, para as quais se avalia que seus conceitos tenham igual valor. Isto motivou um programa conhecido como &quot;Visão de Empresa&quot;, onde se determina a &quot;Visão&quot; (para que existe e onde quer chegar a empresa), reforça-se a &quot;Cultura&quot; organizacional, e a &quot;Motivação&quot; (Spirit of winning), os três parâmetros presentes em todas as civilizações que se tornaram hegemônicas.</dbo:abstract>
+    <dbo:abstract xml:lang="it">Appartenne alla corrente britannica dello storicismo diffusasi nella seconda metà dell&#39;Ottocento e che vide in Toynbee uno dei suoi massimi esponenti.Con le sue opere si collegò ad uno dei capostipiti della scuola Oswald Spengler, prendendone polemicamente le distanze su vari punti fondamentali.</dbo:abstract>
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/Balliol_College,_Oxford" />
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/Winchester_College" />
+    <dbo:birthName xml:lang="en">Arnold Joseph Toynbee</dbo:birthName>
+    <dbo:birthYear rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1889</dbo:birthYear>
+    <dbo:child rdf:resource="http://dbpedia.org/resource/Philip_Toynbee" />
+    <dbo:deathYear rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1975</dbo:deathYear>
+    <dbo:occupation rdf:resource="http://dbpedia.org/resource/Historian" />
+    <dbo:occupation rdf:resource="http://dbpedia.org/resource/Arnold_J._Toynbee__1" />
+    <dbo:relation rdf:resource="http://dbpedia.org/resource/Jocelyn_Toynbee" />
+    <dbo:relation rdf:resource="http://dbpedia.org/resource/Arnold_Toynbee" />
+    <dbp:artikel rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Kircher, Athanasius</dbp:artikel>
+    <dbp:autor rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Klaus-Gunther Wesseling</dbp:autor>
+    <dbp:band rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">13</dbp:band>
+    <dbp:id rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Toynbee,+Arnold</dbp:id>
+    <dbp:institution rdf:resource="http://dbpedia.org/resource/London_School_of_Economics" />
+    <dbp:institution rdf:resource="http://dbpedia.org/resource/King&#39;s_College_London" />
+    <dbp:institution rdf:resource="http://dbpedia.org/resource/Royal_Institute_of_International_Affairs" />
+    <dbp:institution rdf:resource="http://dbpedia.org/resource/Balliol_College" />
+    <dbp:knownFor rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Universal History</dbp:knownFor>
+    <dbp:nationality rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">British</dbp:nationality>
+    <dbp:notableWork rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">A Study of History</dbp:notableWork>
+    <dbp:spalten rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">382</dbp:spalten>
+    <dbp:spouse rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Rosalind Murray</dbp:spouse>
+    <dbp:spouse rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Veronica M. Boulter</dbp:spouse>
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Historian" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Arnold_Joseph_Toynbee">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Arnold_J._Toynbee" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Toynbee">
+    <dbo:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/Arnold_J._Toynbee" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Toynbee&#39;s_law_of_challenge_and_response">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Arnold_J._Toynbee" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ivan_Illich">
+    <dbo:influencedBy rdf:resource="http://dbpedia.org/resource/Arnold_J._Toynbee" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tryambak_Shankar_Shejwalkar">
+    <dbo:influencedBy rdf:resource="http://dbpedia.org/resource/Arnold_J._Toynbee" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Arnold_J._Toynbee_CH">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Arnold_J._Toynbee" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Arnold_Joseph_Toynbee_CH">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Arnold_J._Toynbee" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Arnold_J._Toynbee">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Arnold_J._Toynbee" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Toynbee&#39;s_law_of_challenge_and_response.">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Arnold_J._Toynbee" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Toynbee_Prize_Foundation">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Arnold_J._Toynbee" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Arnold_Toynbee_History_Prize">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Arnold_J._Toynbee" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Toynbee_Foundation">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Arnold_J._Toynbee" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Toynbee_Prize">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Arnold_J._Toynbee" />
+  </rdf:Description>
+</rdf:RDF>

@@ -1,0 +1,343 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:dct="http://purl.org/dc/terms/"
+	xmlns:dbo="http://dbpedia.org/ontology/"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:dbp="http://dbpedia.org/property/"
+	xmlns:prov="http://www.w3.org/ns/prov#"
+	xmlns:ns8="http://purl.org/linguistics/gold/" >
+  <rdf:Description rdf:about="http://dbpedia.org/resource/1956_revolution">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Hungarian_Revolution_of_1956" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/IS_tank_family">
+    <dbo:usedInWar rdf:resource="http://dbpedia.org/resource/Hungarian_Revolution_of_1956" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/ISU-152">
+    <dbo:usedInWar rdf:resource="http://dbpedia.org/resource/Hungarian_Revolution_of_1956" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/PPSh-41">
+    <dbo:usedInWar rdf:resource="http://dbpedia.org/resource/Hungarian_Revolution_of_1956" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/AK-47">
+    <dbo:usedInWar rdf:resource="http://dbpedia.org/resource/Hungarian_Revolution_of_1956" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hungarian_Revolution">
+    <dbo:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/Hungarian_Revolution_of_1956" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hungarian_Revolution_of_1956">
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q1656682" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatSovietMilitaryOccupations" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoPermanentlyLocatedEntity" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PsychologicalFeature100023100" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Abstraction100002137" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Movement108464601" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatProtestsInHungary" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatHungarianRevolutions" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatMassacresInHungary" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/SocialGroup107950920" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Group100031264" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatInvasions" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Invasion100976531" />
+    <rdf:type rdf:resource="http://umbel.org/umbel/rc/Event" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Change100191142" />
+    <rdf:type rdf:resource="http://umbel.org/umbel/rc/ConflictEvent" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/ChangeOfState100199130" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Occupation100582388" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Wikicat20th-centuryRevolutions" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Slaughter100223983" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatMassacres" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/MilitaryAction100952963" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Event" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/SocietalEvent" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Operation100955060" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatCombatIncidents" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Attack100972621" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Penetration100975452" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Action100037396" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Revolution107424109" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatRebellionsInEurope" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatRevolutions" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Rebellion101177327" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Resistance101169317" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Change107296428" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Happening107283608" />
+    <rdf:type rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Event" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Incident107307477" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Act100030358" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Activity100407535" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Protest107210225" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Event100029378" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Objection107208338" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatSocialMovements" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatConflictsIn1956" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatWarsInvolvingHungary" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Termination100209943" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/MilitaryConflict" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Murder100220522" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Homicide100220023" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Killing100219012" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/SpeechAct107160883" />
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/War100973077" />
+    <rdf:type rdf:resource="http://schema.org/Event" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/GroupAction101080366" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Conflict100958896" />
+    <rdfs:label xml:lang="de">Ungarischer Volksaufstand</rdfs:label>
+    <rdfs:label xml:lang="ar">الثورة المجرية 1956</rdfs:label>
+    <rdfs:label xml:lang="zh">匈牙利1956年革命</rdfs:label>
+    <rdfs:label xml:lang="it">Rivoluzione ungherese del 1956</rdfs:label>
+    <rdfs:label xml:lang="es">Revolución húngara de 1956</rdfs:label>
+    <rdfs:label xml:lang="pl">Powstanie węgierskie 1956</rdfs:label>
+    <rdfs:label xml:lang="pt">Revolução Húngara de 1956</rdfs:label>
+    <rdfs:label xml:lang="fr">Insurrection de Budapest</rdfs:label>
+    <rdfs:label xml:lang="ja">ハンガリー動乱</rdfs:label>
+    <rdfs:label xml:lang="nl">Hongaarse Opstand</rdfs:label>
+    <rdfs:label xml:lang="en">Hungarian Revolution of 1956</rdfs:label>
+    <rdfs:label xml:lang="ru">Венгерское восстание 1956 года</rdfs:label>
+    <rdfs:comment xml:lang="en">The Hungarian Revolution of 1956 or the Hungarian Uprising of 1956 (Hungarian: 1956-os forradalom or 1956-os felkelés) was a nationwide revolt against the government of the Hungarian People&#39;s Republic and its Soviet-imposed policies, lasting from 23 October until 10 November 1956. Though leaderless when it first began, it was the first major threat to Soviet control since the USSR&#39;s forces drove out Nazi Germany from its territory at the end of World War II and broke into Central and Eastern Europe.</rdfs:comment>
+    <rdfs:comment xml:lang="zh">匈牙利1956年革命，或稱匈牙利十月事件（匈牙利称为“1956年革命”，匈牙利语：1956-os forradalom）发生于1956年10月23日－1956年11月4日，匈牙利民众对匈牙利人民共和国政府表达不满導致蘇聯入侵的暴力事件。最初以学生运动开始，以苏联军队入驻匈牙利并配合匈牙利国家安全局进行镇压而结束。</rdfs:comment>
+    <rdfs:comment xml:lang="nl">De Hongaarse Opstand was een massale volksopstand die duurde van 23 oktober tot 10 november 1956. De opstand ontstond spontaan en was gericht tegen het stalinistische bewind in de Volksrepubliek Hongarije.</rdfs:comment>
+    <rdfs:comment xml:lang="pt">Revolução Húngara de 1956 (em húngaro: 1956-os forradalom) ou Contra-Revolução foi uma revolta popular espontânea contra as políticas impostas pelo governo da República Popular da Hungria e pela União Soviética. O movimento durou de 23 de outubro até 10 de novembro de 1956. Discussões públicas sobre essa revolução foram reprimidas na Hungria por trinta anos, mas desde os anos 1980 ela tem sido objeto de intenso estudo e debate. Na inauguração da Terceira República da Hungria, em 1989, o dia 23 de outubro foi declarado feriado nacional.</rdfs:comment>
+    <rdfs:comment xml:lang="ar">الثورة المجرية 1956، المعروفة أيضاً بالانتفاضة المجرية، كانت ثورة معادية للسوفيت في المجر دامت من 23 أكتوبر إلى 4 نوفمبر 1956. هيأت التغيرات السياسية بعد الستالينية في الإتحاد السوفيتي، والحركات القومية للأحزاب الاشتراكية في أوروبا الشرقية، والاضطراب الاجتماعي بسبب الأحوال الاقتصادية السيئة لعامة المجريين الظروف لظهور انتفاضة شعبية في أكتوبر/تشرين الأول عام 1956. ولكن وضع القوة الثنائية التي ظهرت في البلاد لم تسمح بأية من التسويات. عندما أعلن ناج تحت الضغط الجماهير في 1 نوفمبر انحلال الحزب الستاليني الحاكم وحياد المجر من حلف وارسو، كان ذلك كثيراً على البيروقراطية السوفيتية.</rdfs:comment>
+    <rdfs:comment xml:lang="fr">L&#39;insurrection de Budapest ou révolution de 1956 (en hongrois : 1956-os forradalom) désigne la révolte nationale spontanée contre la République populaire de Hongrie et ses politiques imposées par l&#39;Union des républiques socialistes soviétiques (URSS) qui dura du 23 octobre au 10 novembre 1956. Le débat public sur cet événement fut interdit en Hongrie durant plus de 30 ans, mais avec le dégel des années 1980, il fit l&#39;objet d&#39;intenses études et débats. Le 23 octobre est devenu un jour de fête nationale en Hongrie.</rdfs:comment>
+    <rdfs:comment xml:lang="it">La Rivoluzione ungherese del 1956, nota anche come insurrezione ungherese o semplicemente rivolta ungherese, fu una sollevazione armata di spirito anti sovietico scaturita nell&#39;allora Ungheria socialista che durò dal 23 ottobre al 10 - 11 novembre 1956. Inizialmente contrastata dall&#39;ÁVH, venne alla fine duramente repressa dall&#39;intervento armato delle truppe sovietiche del maresciallo Ivan Stepanovič Konev. Morirono circa 2.700 Ungheresi di entrambe le parti, ovvero pro e contro la rivoluzione, e 720 soldati sovietici. I feriti furono molte migliaia e circa 250.000 (circa il 3% della popolazione dell&#39;Ungheria) furono gli Ungheresi che lasciarono il proprio Paese rifugiandosi in Occidente. La rivoluzione portò a una significativa caduta del sostegno alle idee del bolscevismo nelle nazioni oc</rdfs:comment>
+    <rdfs:comment xml:lang="pl">Powstanie węgierskie 1956, nazywane dziś często rewolucją 1956 (węg.: 1956-os forradalom). Powstanie wybuchło 23 października 1956 i trwało do 10 listopada 1956, kiedy to zostało ostatecznie stłumione przez zbrojną interwencję Armii Radzieckiej. Naród węgierski próbował tym powstaniem uwolnić się spod dominacji sowieckiej.</rdfs:comment>
+    <rdfs:comment xml:lang="de">Der Ungarische Volksaufstand bezeichnet die bürgerlich-demokratische Revolution (ungarisch forradalom) und den Freiheitskampf (ungarisch szabadságharc) von 1956 in der Volksrepublik Ungarn, bei denen sich breite gesellschaftliche Kräfte gegen die Regierung der kommunistischen Partei und der sowjetischen Besatzungsmacht erhoben. Die Revolution begann am 23. Oktober 1956 mit einer friedlichen Großdemonstration der Studenten der Universitäten in Budapest, die demokratische Veränderungen forderten.Die Regierung ließ am Abend in die schnell wachsende Menge schießen, daraufhin brach der bewaffnete Kampf aus. Binnen weniger Tage wurde die Einparteidiktatur durch eine Regierung unter der Leitung von Imre Nagy abgelöst, in der auch die Bauernpartei und die Kleinlandwirtepartei Ministerien erhielten</rdfs:comment>
+    <rdfs:comment xml:lang="ru">Венге́рское восста́ние 1956 года (23 октября — 9 ноября 1956) (в посткоммунистический период Венгрии известно как Венге́рская револю́ция 1956 года, в советских источниках как Венге́рский контрреволюционный мяте́ж 1956 года) — вооружённое восстание против просоветского режима народной республики в Венгрии в октябре — ноябре 1956 года, подавленное советскими войсками. Венгерское восстание стало одним из важных событий периода холодной войны, продемонстрировавшим, что СССР готов военной силой удерживать коммунистические режимы в странах Варшавского договора.</rdfs:comment>
+    <rdfs:comment xml:lang="ja">ハンガリー動乱（ハンガリーどうらん、ハンガリー語: 1956-os forradalom「1956年革命」）は、1956年にハンガリーで起きたソビエト連邦の権威と支配に対する民衆による全国規模の蜂起を差す。ハンガリー事件、ハンガリー暴動、ハンガリー革命とも。 1956年10月23日、ハンガリーの市民が政府に対して蜂起した。彼らは多くの政府関係施設や区域を占拠し、自分たちで決めた政策や方針を実施しはじめた。ソ連軍は1956年10月23日と停戦をはさんだ1956年11月1日の2回、このような反乱に対して介入した。1957年の1月にはソビエト連邦は新たなハンガリー政府を任命し、ハンガリー人による改革を止めようとした。 蜂起は直ちにソ連軍により鎮圧されたが、その過程で数千人の市民が殺害され、25万人近くの人々が難民となり国外へ逃亡した。ハンガリーでは、この事件について公に議論することは、その後30年間禁止されたが、1980 年代のペレストロイカ政策の頃から再評価が行われた。1989 年に現在のハンガリー第三共和国が樹立された際には、10月23日は祝日に制定された。</rdfs:comment>
+    <rdfs:comment xml:lang="es">La Revolución húngara de 1956 (en húngaro: 1956-os forradalom or felkelés) fue un movimiento revolucionario espontáneo de alcance nacional contra el gobierno de la República Popular de Hungría y sus políticas impuestas desde la Unión Soviética, que duró desde el 23 de octubre hasta el 10 de noviembre de 1956.</rdfs:comment>
+    <owl:sameAs rdf:resource="http://it.dbpedia.org/resource/Rivoluzione_ungherese_del_1956" />
+    <owl:sameAs rdf:resource="http://d-nb.info/gnd/4127049-6" />
+    <owl:sameAs rdf:resource="http://fr.dbpedia.org/resource/Insurrection_de_Budapest" />
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q164348" />
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.01zd7d" />
+    <owl:sameAs rdf:resource="http://yago-knowledge.org/resource/Hungarian_Revolution_of_1956" />
+    <owl:sameAs rdf:resource="http://id.dbpedia.org/resource/Revolusi_Hongaria" />
+    <owl:sameAs rdf:resource="http://nl.dbpedia.org/resource/Hongaarse_Opstand" />
+    <owl:sameAs rdf:resource="http://el.dbpedia.org/resource/Ουγγρική_Επανάσταση_του_1956" />
+    <owl:sameAs rdf:resource="http://eu.dbpedia.org/resource/1956ko_Hungariako_Iraultza" />
+    <owl:sameAs rdf:resource="http://pt.dbpedia.org/resource/Revolução_Húngara_de_1956" />
+    <owl:sameAs rdf:resource="http://cs.dbpedia.org/resource/Maďarské_povstání" />
+    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/Ungarischer_Volksaufstand" />
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q164348" />
+    <owl:sameAs rdf:resource="http://ko.dbpedia.org/resource/1956년_헝가리_혁명" />
+    <owl:sameAs rdf:resource="http://ja.dbpedia.org/resource/ハンガリー動乱" />
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Hungarian_Revolution_of_1956" />
+    <owl:sameAs rdf:resource="http://pl.dbpedia.org/resource/Powstanie_węgierskie_1956" />
+    <owl:sameAs rdf:resource="http://es.dbpedia.org/resource/Revolución_húngara_de_1956" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:1956_in_international_relations" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Hungary–Soviet_Union_relations" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Soviet_military_occupations" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Conflicts_in_1956" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Urban_warfare" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Communism_in_Hungary" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:1950s_conflicts" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Combat_incidents" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Invasions_by_the_Soviet_Union" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Eastern_Bloc" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Wars_involving_Hungary" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Massacres_in_Hungary" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Protests_in_Hungary" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Revolutions_in_Hungary" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Hungarian_People&#39;s_Republic" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Cold_War_military_history_of_the_Soviet_Union" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:20th-century_revolutions" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Articles_containing_video_clips" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Hungarian_Revolution_of_1956" />
+    <dbo:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">351949</dbo:wikiPageID>
+    <dbo:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">742513161</dbo:wikiPageRevisionID>
+    <dbo:wikiPageExternalLink rdf:resource="http://legacy.wilsoncenter.org/va2/index.cfm?topic_id=1409&amp;fuseaction=home.browse&amp;sort=collection&amp;item=1956%20Hungarian%20Revolution" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.rev.hu/" />
+    <dbo:wikiPageExternalLink rdf:resource="https://archive.org/details/1956_Hungarian_Revolution_as_Depicted_in_Newsreels" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.osa.ceu.hu/digitalarchive/av/index.html#" />
+    <dbo:wikiPageExternalLink rdf:resource="http://carlbeckpapers.pitt.edu/ojs/index.php/cbp/article/view/80" />
+    <dbo:wikiPageExternalLink rdf:resource="http://multiculturalcanada.ca/node/1521" />
+    <dbo:wikiPageExternalLink rdf:resource="http://libcom.org/library/hungary-56-andy-anderson" />
+    <dbo:wikiPageExternalLink rdf:resource="http://news.bbc.co.uk/onthisday/hi/dates/stories/november/4/newsid_2739000/2739039.stm" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.rferl.org/featuresarticle/2006/05/0e5164bb-fd53-4562-88c5-9aac69e5845c.html" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.imdb.com/title/tt0468559/" />
+    <dbo:wikiPageExternalLink rdf:resource="http://mek.oszk.hu/01200/01274/01274.pdf" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.hungary1956.com/docs/Urmenyhazi_HungarianRevolution_1956.pdf" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.freedomfighter56.com/en_stories_2all.html" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.hungary1956.com/" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.hungarian-history.hu/lib/dipl/dipl00.htm" />
+    <dbo:wikiPageExternalLink rdf:resource="http://mek.oszk.hu/09400/09426/index.phtml" />
+    <dbo:wikiPageExternalLink rdf:resource="http://mek.oszk.hu/09600/09691/index.phtml" />
+    <foaf:name xml:lang="en">Hungarian Revolution of 1956</foaf:name>
+    <dbp:name rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Hungarian Revolution Aftermath</dbp:name>
+    <dbp:name rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Hungarian Revolution</dbp:name>
+    <dbp:name rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Big Picture: Operation Mercy</dbp:name>
+    <foaf:depiction rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Hole_in_flag_-_Budapest_1956.jpg" />
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Hungarian_Revolution_of_1956" />
+    <dbo:thumbnail rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Hole_in_flag_-_Budapest_1956.jpg?width=300" />
+    <prov:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Hungarian_Revolution_of_1956?oldid=742513161" />
+    <dbo:abstract xml:lang="es">La Revolución húngara de 1956 (en húngaro: 1956-os forradalom or felkelés) fue un movimiento revolucionario espontáneo de alcance nacional contra el gobierno de la República Popular de Hungría y sus políticas impuestas desde la Unión Soviética, que duró desde el 23 de octubre hasta el 10 de noviembre de 1956. Desde el discurso secreto de crítica a los excesos de Stalin realizado por su sucesor al frente de la URSS Nikita Jruschov en el XX Congreso del PCUS, el pueblo húngaro había solicitado continuamente la libertad necesaria para elegir su propio sistema político, alejado del comunismo[cita requerida]. Así, surgieron por toda Hungría movimientos que demandaban que se pusiera coto a las actividades de la policía secreta. La revuelta comenzó como una protesta estudiantil que atrajo a miles de personas a una marcha por el centro de Budapest hacia el edificio del Parlamento húngaro. Una delegación estudiantil fue detenida cuando entraba al edificio de la radio estatal con la intención de transmitir sus demandas. Cuando los manifestantes en las calles exigieron la liberación de la delegación, la policía política húngara (Államvédelmi Hatóság o ÁVH) abrió fuego desde el interior del edificio. Algunos soldados soviéticos dispararon a la ÁVH, debido a que creyeron por equivocación que estaban siendo objeto de un ataque. Algunos manifestantes contestaron los disparos con las armas tomadas de la ÁVH o brindadas por los soldados húngaros que se unieron al levantamiento. La noticia se difundió rápidamente y llevó al estallido de desórdenes y violencia en la capital. La revolución se expandió rápidamente por toda Hungría y el gobierno de András Hegedüs fue derrocado. Miles se organizaron en milicias para combatir a la Policía de seguridad de Estado (ÁVH) y a las tropas soviéticas. Comunistas pro-soviéticos y miembros de la ÁVH fueron a menudo ejecutados o encarcelados, a la vez que antiguos prisioneros políticos fueron liberados y armados. Consejos improvisados arrebataron el control municipal al Partido comunista húngaro y exigieron cambios políticos. El nuevo gobierno encabezado por Imre Nagy disolvió formalmente la ÁVH, declaró su intención de retirarse del Pacto de Varsovia y prometió restablecer las elecciones libres. Para fines de octubre, los combates casi habían cesado y comenzó una sensación de normalidad. A diferencia de lo sucedido con las Protestas de Poznań contra el gobierno de la República Popular de Polonia, la Revolución húngara cuestionaba el estilo de gobierno estalinista y, por tanto, amenazaba la naturaleza misma del régimen pro-soviético de partido único. Así, tras haber anunciado su voluntad de negociar el retiro de las fuerzas soviéticas, el Politburó cambió de idea y se movilizó para aplastar la revolución. Aprovechando que Occidente se encontraba dividido a causa de la crisis de Suez, el ejército soviético movilizó 31 550 soldados y 1130 tanques y el 4 de noviembre de 1956 invadió Budapest y otras regiones del país. La resistencia húngara continuó hasta el 10 de noviembre. Más de 2500 húngaros y 722 soldados soviéticos perecieron en el conflicto y unos 200 000 húngaros huyeron en calidad de refugiados. Los arrestos masivos y las acusaciones continuaron por meses. Para enero de 1957, el nuevo gobierno instalado por los soviéticos y liderado por János Kádár había reprimido toda oposición pública. Tales acciones soviéticas provocaron el rechazo de muchos marxistas occidentales, pero fortalecieron el control soviético sobre Europa central. La discusión pública acerca de la revolución estuvo prohibida en Hungría durante más de treinta años; pero, desde el deshielo de los años 1980, ha sido objeto de intenso estudio y debate. Con la creación de la Tercera República Húngara en 1989, el 23 de octubre fue declarado fiesta nacional en conmemoración de la Revolución de 1956.</dbo:abstract>
+    <dbo:abstract xml:lang="zh">匈牙利1956年革命，或稱匈牙利十月事件（匈牙利称为“1956年革命”，匈牙利语：1956-os forradalom）发生于1956年10月23日－1956年11月4日，匈牙利民众对匈牙利人民共和国政府表达不满導致蘇聯入侵的暴力事件。最初以学生运动开始，以苏联军队入驻匈牙利并配合匈牙利国家安全局进行镇压而结束。</dbo:abstract>
+    <dbo:abstract xml:lang="it">La Rivoluzione ungherese del 1956, nota anche come insurrezione ungherese o semplicemente rivolta ungherese, fu una sollevazione armata di spirito anti sovietico scaturita nell&#39;allora Ungheria socialista che durò dal 23 ottobre al 10 - 11 novembre 1956. Inizialmente contrastata dall&#39;ÁVH, venne alla fine duramente repressa dall&#39;intervento armato delle truppe sovietiche del maresciallo Ivan Stepanovič Konev. Morirono circa 2.700 Ungheresi di entrambe le parti, ovvero pro e contro la rivoluzione, e 720 soldati sovietici. I feriti furono molte migliaia e circa 250.000 (circa il 3% della popolazione dell&#39;Ungheria) furono gli Ungheresi che lasciarono il proprio Paese rifugiandosi in Occidente. La rivoluzione portò a una significativa caduta del sostegno alle idee del bolscevismo nelle nazioni occidentali.</dbo:abstract>
+    <dbo:abstract xml:lang="ar">الثورة المجرية 1956، المعروفة أيضاً بالانتفاضة المجرية، كانت ثورة معادية للسوفيت في المجر دامت من 23 أكتوبر إلى 4 نوفمبر 1956. هيأت التغيرات السياسية بعد الستالينية في الإتحاد السوفيتي، والحركات القومية للأحزاب الاشتراكية في أوروبا الشرقية، والاضطراب الاجتماعي بسبب الأحوال الاقتصادية السيئة لعامة المجريين الظروف لظهور انتفاضة شعبية في أكتوبر/تشرين الأول عام 1956. في عام 1945، أثناء الحرب العالمية الثانية، قدم الروس لتحرير المجر من النازيين، ولكن عندما سيطر الشيوعيون في عام 1949، أصبح التحرير هيمنة، وأصبحت الحكومة المجرية بالكامل تحت السيطرة السوفيتية. توفي القائد السوفيتي جوزيف ستالين قبل ثلاثة سنوات من ذلك؛ وفي مارس/آذار 1956، كان نيكيتا خروشوف ضد ستالين في كونجرس الحزب العشرين. بقيادة الطلاب والعمّال، بدأت الثورة المجرية التلقائية. شعر السوفييت بأنهم قد يفقدون السيطرة في المجر، لذا أرسلوا إليها دباباتهم وقواتهم. قاوم مقاتلو التحرير المجريين بشدة، ولكنهم انهزموا مع حلول 4 نوفمبر. في عام 1989 مع سقوط حائط برلين، انهار الاتحاد السوفيتي أخيراً. كانت الثورة المجرية من أول الأخطار الصريحة للنظام السوفيتي. حينما ذهبت القوات السوفيتية إلى بودابست في 24 أكتوبر، حمل المجريون السلاح للدفاع عن النفس. رد إيمري ناج على النداءات المطالبة بإلقاء الأسلحة واستسلم بوعد من العفو. لكن الجماهير المجرية رفضت الثقة بناج. تظاهروا بأنهم لا يثقون بأحد سوى أنفسهم. في 25 أكتوبر بدأ العمال بإضراب عام. خلال عدة أيام، تحشد كامل البلاد ضد البيروقراطية الحاكمة والقوات السوفيتية. بدأ العمال المجريون بتنظيم أنفسهم للمحافظة على النظام ولتوزيع المأكل والملبس. المجالس، وهي أجزاء من قوى العمال، كانت مشابهة لتلك التي بنيت من قبل العمال الروس في عام 1917. وقد أبدوا إصرارهم لانهاء الانتهاكات البيروقراطية، والامتيازات، وسوء الإدارة. تبنى الدستور مجلس عمال بودابست الأعظم في 31 أكتوبر 1956، وهو يصور عمق هذا الكفاح لديمقراطية العمال. يذكر الدستور بأن &quot;المصانع تعود للعمال&quot;. مهام مجلس العمال، كما اشترط الدستور، تضمنت التالي: &quot;موافقة وتصديق كل المشاريع التي تتعلق بالاستثمار؛ وإقرار مستويات الأجر الأساسية والطرق التي تقام بها؛ وإقرار كل الأمور التي تتعلق بالعقود والائتمان الأجنبي؛ وتوظيف وإقالة العمال المستخدمين في المشروع؛ وفحص الميزانيات وإقرار استعمال الأرباح&quot;. بخلاف مقولات الحركة الستالينية الدولية حول الثورة المجرية 1956، العمال المجريون لم يطلبوا إعادة الرأسماليين وعلاقات الملكية الرأسمالية. من بين آلاف القرارات التي تبنتها مجالس العمال، لا يوجد قرار يدعو إلى تجريد الجنسية للمصانع والمزارع. العمال المجريون رفضوا الستالينية وجميع الرموز البيروقراطية المشابهة. لكنهم لم يرفضوا جوهر البرنامج الاشتراكي: الرقابة السياسية والاقتصادية للطبقة العاملة تبدى خلال منظمتهم الرسمية الخاصة. منذ البداية حاول ناج خدمة البيروقراطية السوفيتية والعمال. ولكن انتهى به الأمر بعدم الرضاء من قبل الطرفين. نداءاته المتواصلة إلى العمال لنزع أسلحتهم لم تحظ بأي رد. ولكن وضع القوة الثنائية التي ظهرت في البلاد لم تسمح بأية من التسويات. عندما أعلن ناج تحت الضغط الجماهير في 1 نوفمبر انحلال الحزب الستاليني الحاكم وحياد المجر من حلف وارسو، كان ذلك كثيراً على البيروقراطية السوفيتية. في 4 نوفمبر، بدأ الهجوم الثاني على بودابست. ولكن هذا الوقت، سحبت البيروقراطية السوفيتية قواتها المستعملة في الهجوم الأول لأنهم أصبحوا &quot;مصابين بروح التمرد&quot; ولذا كانوا &quot;عديمي الثقة&quot;. عوضاً عن ذلك، جلبت قوات سوفيتية جديدة للمواجهة النهائية. حينما اقتربت الدبابات السوفيتية، استقالت معظم حكومة ناج. لجأ ناج ومؤيدوه إلى السفارة اليوغوسلافية. ترك ناج السفارة اليوغوسلافية بعدما أعطي تأمينات للعبور الآمن، ولكنه اعتقل من قبل الشرطة السرية وأعدم بعد سنتين بتهمة الخيانة العظمى. لعدة أسابيع، قاوم العمال المجريون أسلحة القوات السوفيتية. نظمت مجالس العمال المقاومة وقامت بهجوم ناجح في 11 ديسمبر، ولكن قوة الدبابات السوفيتية والشرطة السرية اكتسحتا العمال المجريين في النهاية.</dbo:abstract>
+    <dbo:abstract xml:lang="ru">Венге́рское восста́ние 1956 года (23 октября — 9 ноября 1956) (в посткоммунистический период Венгрии известно как Венге́рская револю́ция 1956 года, в советских источниках как Венге́рский контрреволюционный мяте́ж 1956 года) — вооружённое восстание против просоветского режима народной республики в Венгрии в октябре — ноябре 1956 года, подавленное советскими войсками. Венгерское восстание стало одним из важных событий периода холодной войны, продемонстрировавшим, что СССР готов военной силой удерживать коммунистические режимы в странах Варшавского договора.</dbo:abstract>
+    <dbo:abstract xml:lang="nl">De Hongaarse Opstand was een massale volksopstand die duurde van 23 oktober tot 10 november 1956. De opstand ontstond spontaan en was gericht tegen het stalinistische bewind in de Volksrepubliek Hongarije.</dbo:abstract>
+    <dbo:abstract xml:lang="ja">ハンガリー動乱（ハンガリーどうらん、ハンガリー語: 1956-os forradalom「1956年革命」）は、1956年にハンガリーで起きたソビエト連邦の権威と支配に対する民衆による全国規模の蜂起を差す。ハンガリー事件、ハンガリー暴動、ハンガリー革命とも。 1956年10月23日、ハンガリーの市民が政府に対して蜂起した。彼らは多くの政府関係施設や区域を占拠し、自分たちで決めた政策や方針を実施しはじめた。ソ連軍は1956年10月23日と停戦をはさんだ1956年11月1日の2回、このような反乱に対して介入した。1957年の1月にはソビエト連邦は新たなハンガリー政府を任命し、ハンガリー人による改革を止めようとした。 蜂起は直ちにソ連軍により鎮圧されたが、その過程で数千人の市民が殺害され、25万人近くの人々が難民となり国外へ逃亡した。ハンガリーでは、この事件について公に議論することは、その後30年間禁止されたが、1980 年代のペレストロイカ政策の頃から再評価が行われた。1989 年に現在のハンガリー第三共和国が樹立された際には、10月23日は祝日に制定された。</dbo:abstract>
+    <dbo:abstract xml:lang="en">The Hungarian Revolution of 1956 or the Hungarian Uprising of 1956 (Hungarian: 1956-os forradalom or 1956-os felkelés) was a nationwide revolt against the government of the Hungarian People&#39;s Republic and its Soviet-imposed policies, lasting from 23 October until 10 November 1956. Though leaderless when it first began, it was the first major threat to Soviet control since the USSR&#39;s forces drove out Nazi Germany from its territory at the end of World War II and broke into Central and Eastern Europe. The revolt began as a student demonstration, which attracted thousands as they marched through central Budapest to the Parliament building, calling out on the streets using a van with loudspeakers via Radio Free Europe. A student delegation, entering the radio building to try to broadcast the students&#39; demands, was detained. When the delegation&#39;s release was demanded by the demonstrators outside, they were fired upon by the State Security Police (ÁVH) from within the building. One student died and was wrapped in a flag and held above the crowd. This was the start of the revolution. As the news spread, disorder and violence erupted throughout the capital. The revolt spread quickly across Hungary and the government collapsed. Thousands organised into militias, battling the ÁVH and Soviet troops. Pro-Soviet communists and ÁVH members were often executed or imprisoned and former political prisoners were released and armed. Radical impromptu workers&#39; councils wrested municipal control from the ruling Hungarian Working People&#39;s Party and demanded political changes. A new government formally disbanded the ÁVH, declared its intention to withdraw from the Warsaw Pact, and pledged to re-establish free elections. By the end of October, fighting had almost stopped and a sense of normality began to return. After announcing a willingness to negotiate a withdrawal of Soviet forces, the Politburo changed its mind and moved to crush the revolution. On 4 November, a large Soviet force invaded Budapest and other regions of the country. The Hungarian resistance continued until 10 November. Over 2,500 Hungarians and 700 Soviet troops were killed in the conflict, and 200,000 Hungarians fled as refugees. Mass arrests and denunciations continued for months thereafter. By January 1957, the new Soviet-installed government had suppressed all public opposition. These Soviet actions, while strengthening control over the Eastern Bloc, alienated many Western Marxists, leading to splits and/or considerable losses of membership for Communist Parties in the West. Public discussion about this revolution was suppressed in Hungary for more than 30 years. Since the thaw of the 1980s, it has been a subject of intense study and debate. At the inauguration of the Third Hungarian Republic in 1989, 23 October was declared a national holiday.</dbo:abstract>
+    <dbo:abstract xml:lang="pt">Revolução Húngara de 1956 (em húngaro: 1956-os forradalom) ou Contra-Revolução foi uma revolta popular espontânea contra as políticas impostas pelo governo da República Popular da Hungria e pela União Soviética. O movimento durou de 23 de outubro até 10 de novembro de 1956. A revolta começou como uma manifestação estudantil que atraiu milhares que marcharam pelo centro de Budapeste até o parlamento. Uma delegação de estudantes entrando no prédio da Rádio Free Europe em uma tentativa de transmitir as suas demandas, mas foi detida. Quando a libertação da delegação foi exigida pelos manifestantes do lado de fora, eles foram alvejados pela Autoridade de Proteção de Estado (ÁVH) de dentro do prédio. As notícias espalharam-se rapidamente e desordem e violência irromperam por toda a capital. A revolta espalhou-se rapidamente pela Hungria, e o governo caiu. Milhares organizaram-se em milícias, combatendo a Polícia de Segurança do Estado (ÁVH) e as tropas soviéticas. Comunistas pro-soviéticos e membros da ÁVH eram frequentemente executados ou aprisionados, enquanto os antigos prisioneiros eram libertados e armados. Conselhos improvisados tiraram o controle municipal do Partido dos Trabalhadores Húngaros e exigiram mudanças políticas. O novo governo formalmente dissolveu a ÁVH, declarou a sua intenção de se retirar do Pacto de Varsóvia e prometeu livres eleições restabelecidas. Pelo final de outubro, as lutas tinham quase parado e um senso de normalidade começava a retornar. Depois de anunciar a boa vontade para negociar uma retirada das forças soviéticas, o Politburo mudou de ideia e decidiu suprimir a revolução. Em 4 de novembro, um grande exército soviético invadiu Budapeste e outras regiões do país. A resistência húngara continuou até 10 de novembro. Mais de 2.500 soldados húngaros e cerca de 700 soldados soviéticos foram mortos no conflito, tendo 200.000 húngaros fugido, passando a ser refugiados. Prisões em massa e denúncias continuaram durante meses. Em janeiro de 1957, o novo governo soviético instalado suprimiu toda a oposição pública. Essas ações soviéticas fizeram duvidar das suas convicções muitos marxistas ocidentais, ainda mais pelo brutal reforço do controle soviético na Europa Central. Discussões públicas sobre essa revolução foram reprimidas na Hungria por trinta anos, mas desde os anos 1980 ela tem sido objeto de intenso estudo e debate. Na inauguração da Terceira República da Hungria, em 1989, o dia 23 de outubro foi declarado feriado nacional.</dbo:abstract>
+    <dbo:abstract xml:lang="pl">Powstanie węgierskie 1956, nazywane dziś często rewolucją 1956 (węg.: 1956-os forradalom). Powstanie wybuchło 23 października 1956 i trwało do 10 listopada 1956, kiedy to zostało ostatecznie stłumione przez zbrojną interwencję Armii Radzieckiej. Naród węgierski próbował tym powstaniem uwolnić się spod dominacji sowieckiej.</dbo:abstract>
+    <dbo:abstract xml:lang="fr">L&#39;insurrection de Budapest ou révolution de 1956 (en hongrois : 1956-os forradalom) désigne la révolte nationale spontanée contre la République populaire de Hongrie et ses politiques imposées par l&#39;Union des républiques socialistes soviétiques (URSS) qui dura du 23 octobre au 10 novembre 1956. La révolte commença par une manifestation étudiante qui rassembla des milliers de personnes alors qu&#39;elle progressait dans le centre-ville de Budapest vers le Parlement hongrois. Une délégation étudiante entrée dans le bâtiment de la radio nationale afin de diffuser ses revendications fut arrêtée. Lorsque sa libération fut demandée par la foule, la Államvédelmi Hatóság (ÁVH) ouvrit le feu depuis le bâtiment. Les nouvelles se répandirent rapidement et des émeutes éclatèrent dans toute la capitale. La révolte s&#39;étendit rapidement en Hongrie et entraîna la chute du gouvernement. Des milliers de personnes s&#39;organisèrent en milices pour affronter l&#39;Autorité de protection de l&#39;État (ÁVH) et les troupes soviétiques. Des communistes pro-soviétiques et des membres de l&#39;ÁVH furent souvent exécutés ou emprisonnés tandis que les prisonniers politiques étaient libérés et armés. Des conseils improvisés luttèrent contre le contrôle municipal du Parti des travailleurs hongrois au pouvoir et demandèrent des changements politiques. Le nouveau gouvernement dissolut formellement l&#39;ÁVH, déclara son intention de se retirer du Pacte de Varsovie et promit d&#39;organiser des élections libres. À la fin du mois d&#39;octobre, les combats avaient pratiquement cessé et une certaine normalité était revenue. Après avoir annoncé sa volonté de négocier un retrait des forces soviétiques, le Politburo changea d&#39;avis et décida d&#39;écraser la révolution. Le 4 novembre, une importante armée soviétique envahit Budapest et les autres régions du pays. La résistance hongroise continua jusqu&#39;au 10 novembre. Plus de 2 500 Hongrois et 700 Soviétiques furent tués lors du conflit et 200 000 Hongrois fuirent en tant que réfugiés. Les arrestations se poursuivirent durant plusieurs mois. En janvier 1957, le nouveau gouvernement pro-soviétique avait supprimé toute opposition publique. Les actions soviétiques furent critiquées par les marxistes occidentaux et renforcèrent l&#39;emprise soviétique sur l&#39;Europe centrale. Le débat public sur cet événement fut interdit en Hongrie durant plus de 30 ans, mais avec le dégel des années 1980, il fit l&#39;objet d&#39;intenses études et débats. Le 23 octobre est devenu un jour de fête nationale en Hongrie.</dbo:abstract>
+    <dbo:abstract xml:lang="de">Der Ungarische Volksaufstand bezeichnet die bürgerlich-demokratische Revolution (ungarisch forradalom) und den Freiheitskampf (ungarisch szabadságharc) von 1956 in der Volksrepublik Ungarn, bei denen sich breite gesellschaftliche Kräfte gegen die Regierung der kommunistischen Partei und der sowjetischen Besatzungsmacht erhoben. Die Revolution begann am 23. Oktober 1956 mit einer friedlichen Großdemonstration der Studenten der Universitäten in Budapest, die demokratische Veränderungen forderten.Die Regierung ließ am Abend in die schnell wachsende Menge schießen, daraufhin brach der bewaffnete Kampf aus. Binnen weniger Tage wurde die Einparteidiktatur durch eine Regierung unter der Leitung von Imre Nagy abgelöst, in der auch die Bauernpartei und die Kleinlandwirtepartei Ministerien erhielten. Diese Regierung bildete sich innerhalb von acht Tagen noch zweimal um und beteiligte auch noch die sozialdemokratische Partei. Ungarn trat aus der Warschauer Vertragsorganisation aus, erklärte seine Neutralität und rief die Sowjetarmee zum Verlassen des Landes auf. Der Freiheitskampf endete mit der Invasion der durch Einmarsch verstärkten übermächtigen Sowjetarmee, die am 4. November 1956 eine pro-sowjetische Regierung unter János Kádár installierte. Die Kämpfe gegen sie dauerten in Budapest eine Woche, an einzelnen Orten mehrere Wochen lang, im Gebirge sogar bis Anfang 1957. Der Westen unterstützte die Aufständischen verbal, die NATO hielt sich jedoch von einer militärischen Konfrontation mit dem Ostblock zurück. Nach der Niederschlagung des Freiheitskampfes wurden hunderte Aufständische – unter ihnen Imre Nagy und Pál Maléter – durch die kommunistischen Machthaber hingerichtet, zehntausende wurden eingekerkert oder interniert. Hunderttausende Ungarn flüchteten vor der Diktatur in den Westen. Der Aufstand wurde vom Kádár-Regime stets als „Konterrevolution“ bezeichnet, die öffentliche Nennung als Revolution wurde geahndet. Seit 1989 ist der 23. Oktober ein Nationalfeiertag in Ungarn.</dbo:abstract>
+    <dbo:causalties>Soviet casualties:</dbo:causalties>
+    <dbo:causalties>722 killed or missing</dbo:causalties>
+    <dbo:causalties>1,540 wounded</dbo:causalties>
+    <dbo:combatant>Hungarian revolutionaries</dbo:combatant>
+    <dbo:combatant>*KGB</dbo:combatant>
+    <dbo:combatant>*Soviet Armed Forces</dbo:combatant>
+    <dbo:combatant>Hungary</dbo:combatant>
+    <dbo:combatant>*State Protection Authority</dbo:combatant>
+    <dbo:commander rdf:resource="http://dbpedia.org/resource/Ivan_Konev" />
+    <dbo:commander rdf:resource="http://dbpedia.org/resource/Imre_Nagy" />
+    <dbo:commander rdf:resource="http://dbpedia.org/resource/Pál_Maléter" />
+    <dbo:commander rdf:resource="http://dbpedia.org/resource/Nikita_Khrushchev" />
+    <dbo:commander rdf:resource="http://dbpedia.org/resource/János_Kádár" />
+    <dbo:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1956-11-10</dbo:date>
+    <dbo:isPartOfMilitaryConflict rdf:resource="http://dbpedia.org/resource/Cold_War" />
+    <dbo:place rdf:resource="http://dbpedia.org/resource/Hungarian_People&#39;s_Republic" />
+    <dbo:result>Soviet victory; revolution crushed</dbo:result>
+    <dbo:strength>31,550 troops</dbo:strength>
+    <dbo:strength>1,130 tanks</dbo:strength>
+    <dbo:strength>Unknown number of government loyalists</dbo:strength>
+    <dbo:strength>Unknown number of soldiers, militia, and armed civilians</dbo:strength>
+    <dbp:caption rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Flag of Hungary, with the communist coat of arms cut out. The flag with a hole became the symbol of the revolution.</dbp:caption>
+    <dbp:casualties rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">13000</dbp:casualties>
+    <dbp:casualties rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2500</dbp:casualties>
+    <dbp:casualties rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3000</dbp:casualties>
+    <dbp:id rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">gov.archives.arc.1683326</dbp:id>
+    <dbp:id rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">gov.archives.arc.2569633</dbp:id>
+    <dbp:id rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">gov.archives.arc.2049945</dbp:id>
+    <dbp:wordnet_type rdf:resource="http://www.w3.org/2006/03/wn/wn20/instances/synset-war-noun-1" />
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Revolt" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Russian_Railway_Troops">
+    <dbo:battle rdf:resource="http://dbpedia.org/resource/Hungarian_Revolution_of_1956" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/1956_Uprising_in_Hungary">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Hungarian_Revolution_of_1956" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/8th_Tank_Army">
+    <dbo:battle rdf:resource="http://dbpedia.org/resource/Hungarian_Revolution_of_1956" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Carpathian_Military_District">
+    <dbo:battle rdf:resource="http://dbpedia.org/resource/Hungarian_Revolution_of_1956" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/1956_revolution_in_Hungary">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Hungarian_Revolution_of_1956" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hungarian_Revolt_of_1956">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Hungarian_Revolution_of_1956" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/1956_Hungarian_Revolution">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Hungarian_Revolution_of_1956" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hungarian_Revolution_1956">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Hungarian_Revolution_of_1956" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/22nd_Mechanised_Brigade_(Ukraine)">
+    <dbo:battle rdf:resource="http://dbpedia.org/resource/Hungarian_Revolution_of_1956" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Revolution_in_Hungary,_1956">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Hungarian_Revolution_of_1956" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hamazasp_Babadzhanian">
+    <dbo:battle rdf:resource="http://dbpedia.org/resource/Hungarian_Revolution_of_1956" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Soviet_invasion_of_Hungary">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Hungarian_Revolution_of_1956" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Revolution_in_Hungary_(1956)">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Hungarian_Revolution_of_1956" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ivan_Konev">
+    <dbo:battle rdf:resource="http://dbpedia.org/resource/Hungarian_Revolution_of_1956" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/1956_Hungarian_revolution">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Hungarian_Revolution_of_1956" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/1956_Hungarian_uprising">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Hungarian_Revolution_of_1956" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hungarian_Rising_of_1956">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Hungarian_Revolution_of_1956" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/31st_Guards_Airborne_Division">
+    <dbo:battle rdf:resource="http://dbpedia.org/resource/Hungarian_Revolution_of_1956" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kuzma_Grebennik">
+    <dbo:battle rdf:resource="http://dbpedia.org/resource/Hungarian_Revolution_of_1956" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hungarian_revolution_of_1956">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Hungarian_Revolution_of_1956" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hungarian_People&#39;s_Republic">
+    <dbp:event rdf:resource="http://dbpedia.org/resource/Hungarian_Revolution_of_1956" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hungarian_Revolution,_1956">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Hungarian_Revolution_of_1956" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Russian_invasion_of_Hungary">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Hungarian_Revolution_of_1956" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/1956_Hungarian_Uprising">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Hungarian_Revolution_of_1956" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Battle_of_the_Corvin_Passage">
+    <dbo:isPartOfMilitaryConflict rdf:resource="http://dbpedia.org/resource/Hungarian_Revolution_of_1956" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/35M_rifle">
+    <dbo:usedInWar rdf:resource="http://dbpedia.org/resource/Hungarian_Revolution_of_1956" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hungarian_anti-communist_revolution">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Hungarian_Revolution_of_1956" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hungarian_revolt">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Hungarian_Revolution_of_1956" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/7th_Guards_Mountain_Air_Assault_Division">
+    <dbo:battle rdf:resource="http://dbpedia.org/resource/Hungarian_Revolution_of_1956" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Special_Mechanized_Army">
+    <dbo:battle rdf:resource="http://dbpedia.org/resource/Hungarian_Revolution_of_1956" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Budapest_insurrection">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Hungarian_Revolution_of_1956" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Budapest_uprising">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Hungarian_Revolution_of_1956" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hungary_1956">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Hungarian_Revolution_of_1956" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hungarian_Revolt_(1956)">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Hungarian_Revolution_of_1956" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Russo-Hungarian_War">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Hungarian_Revolution_of_1956" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Hungarian_Revolution_of_1956">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Hungarian_Revolution_of_1956" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hungarian_Revolution_(1956)">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Hungarian_Revolution_of_1956" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hungarian_Soviet_War">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Hungarian_Revolution_of_1956" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hungary-USSR_war">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Hungarian_Revolution_of_1956" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hungary_War">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Hungarian_Revolution_of_1956" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hungarian_Uprising_of_1956">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Hungarian_Revolution_of_1956" />
+  </rdf:Description>
+</rdf:RDF>

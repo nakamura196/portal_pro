@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:dbo="http://dbpedia.org/ontology/"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:prov="http://www.w3.org/ns/prov#"
+	xmlns:dbp="http://dbpedia.org/property/" >
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kuroda_Nagamasa">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Himeji" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Masuiyama_Daishirō_I">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Himeji" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Masuiyama_Daishirō_II">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Himeji" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tetsuro_Watsuji">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Himeji" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Himeji">
+    <rdfs:label xml:lang="en">Himeji</rdfs:label>
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Himeji" />
+    <dbo:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">6792310</dbo:wikiPageID>
+    <dbo:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">127091033</dbo:wikiPageRevisionID>
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Himeji,_Hyōgo" />
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Himeji" />
+    <prov:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Himeji?oldid=127091033" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Himeji_Dokkyo_University">
+    <dbo:city rdf:resource="http://dbpedia.org/resource/Himeji" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Himeji_Castle">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Himeji" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Masahisa_Takenaka">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Himeji" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gentouki">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Himeji" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/San&#39;yō_Expressway">
+    <dbo:city rdf:resource="http://dbpedia.org/resource/Himeji" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2012_Vissel_Kobe_season">
+    <dbp:location rdf:resource="http://dbpedia.org/resource/Himeji" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Shinki_Bus">
+    <dbo:locationCity rdf:resource="http://dbpedia.org/resource/Himeji" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Last_batch_of_Imperial_Japanese_Army_Divisions">
+    <dbo:garrison rdf:resource="http://dbpedia.org/resource/Himeji" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Himeji">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Himeji" />
+  </rdf:Description>
+</rdf:RDF>

@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:dct="http://purl.org/dc/terms/"
+	xmlns:dbo="http://dbpedia.org/ontology/"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	xmlns:prov="http://www.w3.org/ns/prov#"
+	xmlns:georss="http://www.georss.org/georss/" >
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tokyo_National_Science_Museum">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/National_Museum_of_Nature_and_Science" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/National_science_museum_of_japan">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/National_Museum_of_Nature_and_Science" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/National_Museum_of_Nature_and_Science">
+    <rdf:type rdf:resource="http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing" />
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing" />
+    <rdfs:label xml:lang="de">Nationalmuseum der Naturwissenschaften</rdfs:label>
+    <rdfs:label xml:lang="ru">Национальный музей природы и науки</rdfs:label>
+    <rdfs:label xml:lang="ar">المتحف الوطني للطبيعة والعلوم</rdfs:label>
+    <rdfs:label xml:lang="fr">Musée national de la nature et des sciences de Tokyo</rdfs:label>
+    <rdfs:label xml:lang="pl">Narodowe Muzeum Przyrody i Nauki (Tokio)</rdfs:label>
+    <rdfs:label xml:lang="zh">国立科学博物馆</rdfs:label>
+    <rdfs:label xml:lang="pt">Museu Nacional de Ciência do Japão</rdfs:label>
+    <rdfs:label xml:lang="ja">国立科学博物館</rdfs:label>
+    <rdfs:label xml:lang="es">Museo Nacional de Ciencia de Japón</rdfs:label>
+    <rdfs:label xml:lang="en">National Museum of Nature and Science</rdfs:label>
+    <rdfs:comment xml:lang="de">Das Nationalmuseum der Naturwissenschaften (jap. 国立科学博物館, Kokuritsu Kagaku Hakubutsukan; offizieller englischer Name: Museum of Nature and Science, Übersetzung der englischen Übersetzung „Museum für Natur und Wissenschaft“) ist eines der weltweit führenden Institute zur Erforschung von Naturgeschichte sowie der Geschichte von Wissenschaft und Technik. Betrieben wird es von einer eigenen Selbstverwaltungskörperschaft (dokuritsu gyōsei hōjin) des Kultus- und Wissenschaftsministeriums.</rdfs:comment>
+    <rdfs:comment xml:lang="ja">国立科学博物館（こくりつかがくはくぶつかん、英称:National Museum of Nature and Science、略称:かはく、科博）は、独立行政法人国立科学博物館が運営する博物館施設。</rdfs:comment>
+    <rdfs:comment xml:lang="zh">国立科学博物馆是由日本独立行政法人国立科学博物馆运营的博物馆设施。创立于1877年1月。 国立科学博物馆的设立目的，是「通过关于自然史的科学及其他自然科学及其有关应用的调查、研究及有关这方面资料的收集、保管（包括育成）以及公众的公开阅览」等活动，以达到普及自然科学及社会教育之目的（独立行政法人国立科学博物馆法第3条）。</rdfs:comment>
+    <rdfs:comment xml:lang="en">The National Museum of Nature and Science (国立科学博物館 Kokuritsu Kagaku Hakubutsukan) is in the northeast corner of Ueno Park in Tokyo. Opened in 1871, it has had several names, including Ministry of Education Museum, Tokyo Museum, Tokyo Science Museum, the National Science Museum of Japan, and the National Museum of Nature and Science as of 2007. It was renovated in the 1990s and 2000s, and offers a wide variety of natural history exhibitions and interactive scientific experiences. The museum has exhibitions on pre-Meiji science in Japan.</rdfs:comment>
+    <rdfs:comment xml:lang="pt">O Museu Nacional de Ciência do Japão (国立科学博物館, Kokuritsu Kagaku Hakubutsukan?) está localizado na esquina nordeste do Parque Ueno, em Tóquio. Aberto em 1871 e recentemente renovado, oferece uma ampla variedade de exposições e experiências científicas interactivas. O museu tem também exposições sobre a ciência no Japão no período pré-Meiji.</rdfs:comment>
+    <rdfs:comment xml:lang="es">El Museo Nacional de Ciencia de Japón (国立科学博物館 Kokuritsu Kagaku Hakubutsukan?) está localizado en la esquina noreste del Parque Ueno en Tokio. Abierto en 1871 y recientemente remodelado, este ofrece una amplia variedad de exhibiciones y experiencias científicas a sus visitantes, tanto locales como extranjeros. El museo exhibe también piezas científicas del periodo pre-Meiji en Japón.</rdfs:comment>
+    <rdfs:comment xml:lang="pl">Narodowe Muzeum Przyrody i Nauki (jap. 国立科学博物館 Kokuritsu Kagaku Hakubutsukan, w skrócie kahaku - 科博) – japońskie muzeum położone w Tokio w północno-wschodniej części Parku Ueno. Muzeum zostało otwarte w 1871. Jego nazwa zmieniała się kilkukrotnie: Muzeum Ministerstwa Edukacji, Muzeum Tokijskie, Tokijskie Muzeum Nauki, Narodowe Muzeum Nauki Japonii. Obecna nazwa, Narodowe Muzeum Przyrody i Nauki, funkcjonuje od 2007. Placówka została wyremontowana w latach 90. XX w. i na początku XXI w. Prezentuje liczne wystawy z zakresu historii naturalnej oraz interaktywne doświadczenia naukowe, a także wystawy poświęcone nauce japońskiej sprzed okresu Meiji.</rdfs:comment>
+    <rdfs:comment xml:lang="ar">المتحف الوطني للطبيعة والعلوم (باليابانية: 国立科学博物館 بالروماجي: Kokuritsu Kagaku Hakubutsukan) هو متحف علمي يقع في شمال شرق حديقة أوينو في طوكيو في اليابان، افتتح في عام 1871، ويُقدم مجموعة من المعارض عن التاريخ والعلوم والأحافير والطبيعة. مشاريع شقيقة في كومنز صور وملفات عن: المتحف الوطني للطبيعة والعلوم 
+* 32xبوابة اليابان 
+* 32xبوابة علوم 
+* 32xبوابة طوكيو 
+* 32xبوابة متاحف</rdfs:comment>
+    <rdfs:comment xml:lang="ru">Национальный музей природы и науки (яп. 国立科学博物館 Кокурицу кагаку хакубуцукан) — музей, расположенный в северо-восточной части парка Уэно в японской столице Токио. Музей предлагает экспозиции, рассказывающие об эволюции живых организмов на Земле, экосистемах, истории развития научных знаний, о современных технологиях. Также посетители имеют возможность провести интерактивные научные эксперименты.</rdfs:comment>
+    <rdfs:comment xml:lang="fr">Le Musée national de la nature et des sciences de Tōkyō (国立科学博物館, Kokuritsu Kagaku Hakubutsukan) est situé dans au nord-est du parc d&#39;Ueno à Tōkyō.</rdfs:comment>
+    <owl:sameAs rdf:resource="http://ja.dbpedia.org/resource/国立科学博物館" />
+    <owl:sameAs rdf:resource="http://fr.dbpedia.org/resource/Musée_national_de_la_nature_et_des_sciences_de_Tokyo" />
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q74940" />
+    <owl:sameAs rdf:resource="http://ko.dbpedia.org/resource/국립과학박물관" />
+    <owl:sameAs rdf:resource="http://pt.dbpedia.org/resource/Museu_Nacional_de_Ciência_do_Japão" />
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/National_Museum_of_Nature_and_Science" />
+    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/Nationalmuseum_der_Naturwissenschaften" />
+    <owl:sameAs rdf:resource="http://es.dbpedia.org/resource/Museo_Nacional_de_Ciencia_de_Japón" />
+    <owl:sameAs rdf:resource="http://d-nb.info/gnd/1007740-6" />
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.07v3vd" />
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q74940" />
+    <owl:sameAs rdf:resource="http://eu.dbpedia.org/resource/Japoniako_Zientzia_Museo_Nazionala" />
+    <owl:sameAs rdf:resource="http://pl.dbpedia.org/resource/Narodowe_Muzeum_Przyrody_i_Nauki_(Tokio)" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Museums_established_in_1871" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Science_museums_in_Japan" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:1871_establishments_in_Japan" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:National_museums_of_Japan" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Ueno_Park" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Natural_history_museums_in_Japan" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Museums_in_Tokyo" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Buildings_and_structures_in_Taitō" />
+    <dbo:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2646870</dbo:wikiPageID>
+    <dbo:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">729539555</dbo:wikiPageRevisionID>
+    <dbo:wikiPageExternalLink rdf:resource="http://www.kahaku.go.jp/english/" />
+    <foaf:homepage rdf:resource="http://www.kahaku.go.jp/english/" />
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#float">35.7159</geo:lat>
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#float">139.777</geo:long>
+    <foaf:depiction rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/NMNC01s3200.jpg" />
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/National_Museum_of_Nature_and_Science" />
+    <geo:geometry rdf:datatype="http://www.openlinksw.com/schemas/virtrdf#Geometry">POINT(139.77651977539 35.715938568115)</geo:geometry>
+    <dbo:thumbnail rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/NMNC01s3200.jpg?width=300" />
+    <prov:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/National_Museum_of_Nature_and_Science?oldid=729539555" />
+    <dbo:abstract xml:lang="fr">Le Musée national de la nature et des sciences de Tōkyō (国立科学博物館, Kokuritsu Kagaku Hakubutsukan) est situé dans au nord-est du parc d&#39;Ueno à Tōkyō.</dbo:abstract>
+    <dbo:abstract xml:lang="ar">المتحف الوطني للطبيعة والعلوم (باليابانية: 国立科学博物館 بالروماجي: Kokuritsu Kagaku Hakubutsukan) هو متحف علمي يقع في شمال شرق حديقة أوينو في طوكيو في اليابان، افتتح في عام 1871، ويُقدم مجموعة من المعارض عن التاريخ والعلوم والأحافير والطبيعة. مشاريع شقيقة في كومنز صور وملفات عن: المتحف الوطني للطبيعة والعلوم 
+* 32xبوابة اليابان 
+* 32xبوابة علوم 
+* 32xبوابة طوكيو 
+* 32xبوابة متاحف</dbo:abstract>
+    <dbo:abstract xml:lang="pt">O Museu Nacional de Ciência do Japão (国立科学博物館, Kokuritsu Kagaku Hakubutsukan?) está localizado na esquina nordeste do Parque Ueno, em Tóquio. Aberto em 1871 e recentemente renovado, oferece uma ampla variedade de exposições e experiências científicas interactivas. O museu tem também exposições sobre a ciência no Japão no período pré-Meiji.</dbo:abstract>
+    <dbo:abstract xml:lang="zh">国立科学博物馆是由日本独立行政法人国立科学博物馆运营的博物馆设施。创立于1877年1月。 国立科学博物馆的设立目的，是「通过关于自然史的科学及其他自然科学及其有关应用的调查、研究及有关这方面资料的收集、保管（包括育成）以及公众的公开阅览」等活动，以达到普及自然科学及社会教育之目的（独立行政法人国立科学博物馆法第3条）。</dbo:abstract>
+    <dbo:abstract xml:lang="en">The National Museum of Nature and Science (国立科学博物館 Kokuritsu Kagaku Hakubutsukan) is in the northeast corner of Ueno Park in Tokyo. Opened in 1871, it has had several names, including Ministry of Education Museum, Tokyo Museum, Tokyo Science Museum, the National Science Museum of Japan, and the National Museum of Nature and Science as of 2007. It was renovated in the 1990s and 2000s, and offers a wide variety of natural history exhibitions and interactive scientific experiences. The museum has exhibitions on pre-Meiji science in Japan.</dbo:abstract>
+    <dbo:abstract xml:lang="de">Das Nationalmuseum der Naturwissenschaften (jap. 国立科学博物館, Kokuritsu Kagaku Hakubutsukan; offizieller englischer Name: Museum of Nature and Science, Übersetzung der englischen Übersetzung „Museum für Natur und Wissenschaft“) ist eines der weltweit führenden Institute zur Erforschung von Naturgeschichte sowie der Geschichte von Wissenschaft und Technik. Betrieben wird es von einer eigenen Selbstverwaltungskörperschaft (dokuritsu gyōsei hōjin) des Kultus- und Wissenschaftsministeriums. Das Museum rühmt sich des reichhaltigsten Werdegangs aller Museen in Japan und nimmt eine führende Rolle in der Japanischen Museumslandschaft ein. Bereits 1871 wurde eine erste Ausstellung im Yushima Seidō eingerichtet. Im Januar 1877 wurde die erste Abteilung eines Museumsgebäudes im Ueno-Park fertiggestellt. Dieses Datum gilt als das offizielle Jahr der Museumsgründung. Am 1. September 1923 wurden alle Museumseinrichtungen und Exponate durch das Große Kantō-Erdbeben zerstört. Bis Ende 1930 war ein Museumsneubau fertiggestellt, die Eröffnungsfeierlichkeiten fanden am 2. November des darauffolgenden Jahres im Beisein des Showa-Tenno statt. Umfangreiche Renovierungsarbeiten und Umstrukturierungen waren 2007, zum 130. Jahrestag der Gründung, abgeschlossen. Die im April 2007 eröffnete Japan-Galerie, wurde im Juni 2008 als wichtiger nationaler Kulturbesitz ausgewiesen. Zu den Einrichtungen des Museums gehören neben dem Hauptgelände in Ueno im Tokioter Bezirk Taitō das Institute for Nature Study, das Center of the History of Japanese Industrial Technology, eine Zweigstelle in Hyakuninchō im Bezirk Shinjuku sowie der Botanische Garten von Tsukuba. Die Sammlungen des Museums umfassen mehr als 3,5 Millionen Einzelstücke, darunter eine Sammlung zur japanischen Wissenschaft der Vor-Meiji-Zeit.</dbo:abstract>
+    <dbo:abstract xml:lang="ru">Национальный музей природы и науки (яп. 国立科学博物館 Кокурицу кагаку хакубуцукан) — музей, расположенный в северо-восточной части парка Уэно в японской столице Токио. Музей предлагает экспозиции, рассказывающие об эволюции живых организмов на Земле, экосистемах, истории развития научных знаний, о современных технологиях. Также посетители имеют возможность провести интерактивные научные эксперименты.</dbo:abstract>
+    <dbo:abstract xml:lang="es">El Museo Nacional de Ciencia de Japón (国立科学博物館 Kokuritsu Kagaku Hakubutsukan?) está localizado en la esquina noreste del Parque Ueno en Tokio. Abierto en 1871 y recientemente remodelado, este ofrece una amplia variedad de exhibiciones y experiencias científicas a sus visitantes, tanto locales como extranjeros. El museo exhibe también piezas científicas del periodo pre-Meiji en Japón.</dbo:abstract>
+    <dbo:abstract xml:lang="pl">Narodowe Muzeum Przyrody i Nauki (jap. 国立科学博物館 Kokuritsu Kagaku Hakubutsukan, w skrócie kahaku - 科博) – japońskie muzeum położone w Tokio w północno-wschodniej części Parku Ueno. Muzeum zostało otwarte w 1871. Jego nazwa zmieniała się kilkukrotnie: Muzeum Ministerstwa Edukacji, Muzeum Tokijskie, Tokijskie Muzeum Nauki, Narodowe Muzeum Nauki Japonii. Obecna nazwa, Narodowe Muzeum Przyrody i Nauki, funkcjonuje od 2007. Placówka została wyremontowana w latach 90. XX w. i na początku XXI w. Prezentuje liczne wystawy z zakresu historii naturalnej oraz interaktywne doświadczenia naukowe, a także wystawy poświęcone nauce japońskiej sprzed okresu Meiji.</dbo:abstract>
+    <dbo:abstract xml:lang="ja">国立科学博物館（こくりつかがくはくぶつかん、英称:National Museum of Nature and Science、略称:かはく、科博）は、独立行政法人国立科学博物館が運営する博物館施設。</dbo:abstract>
+    <georss:point>35.715939 139.776527</georss:point>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/National_Science_Museum_of_Japan">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/National_Museum_of_Nature_and_Science" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/National_Museum_Of_Nature_and_Science">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/National_Museum_of_Nature_and_Science" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/National_Museum_of_Nature_and_Science">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/National_Museum_of_Nature_and_Science" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/National_Museum_of_Nature_and_Science,_Tokyo">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/National_Museum_of_Nature_and_Science" />
+  </rdf:Description>
+</rdf:RDF>

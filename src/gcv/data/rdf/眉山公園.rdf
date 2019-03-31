@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:prov="http://www.w3.org/ns/prov#"
+	xmlns:dbpedia-owl="http://dbpedia.org/ontology/"
+	xmlns:dcterms="http://purl.org/dc/terms/"
+	xmlns:prop-ja="http://ja.dbpedia.org/property/" >
+  <rdf:Description rdf:about="http://ja.wikipedia.org/wiki/眉山公園">
+    <foaf:primaryTopic rdf:resource="http://ja.dbpedia.org/resource/眉山公園" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/パゴダ">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/眉山公園" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/眉山ドライブウェイ">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/眉山公園" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/眉山パークウェイ">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/眉山公園" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/マチ★アソビ">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/眉山公園" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/勝占村">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/眉山公園" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/徳島県の観光地">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/眉山公園" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/眉山町">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/眉山公園" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/光の八十八ヶ所めぐり">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/眉山公園" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/新町地区_(徳島市)">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/眉山公園" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/徳島県">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/眉山公園" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/眉山_(徳島市)">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/眉山公園" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/徳島市">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/眉山公園" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/眉山公園">
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Location" />
+    <rdf:type rdf:resource="http://schema.org/Park" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Park" />
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing" />
+    <rdf:type rdf:resource="http://schema.org/Place" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Place" />
+    <rdfs:label xml:lang="ja">眉山公園</rdfs:label>
+    <rdfs:comment xml:lang="ja">眉山公園（びざんこうえん、英語：Bizan Park）は、徳島県徳島市の眉山に位置する都市公園（風致公園）である。</rdfs:comment>
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q11582580" />
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q11582580" />
+    <foaf:name xml:lang="ja">眉山公園</foaf:name>
+    <foaf:isPrimaryTopicOf rdf:resource="http://ja.wikipedia.org/wiki/眉山公園" />
+    <prov:wasDerivedFrom rdf:resource="http://ja.wikipedia.org/wiki/眉山公園?oldid=57167948" />
+    <dbpedia-owl:abstract xml:lang="ja">眉山公園（びざんこうえん、英語：Bizan Park）は、徳島県徳島市の眉山に位置する都市公園（風致公園）である。</dbpedia-owl:abstract>
+    <dbpedia-owl:area rdf:datatype="http://www.w3.org/2001/XMLSchema#double">240403.0</dbpedia-owl:area>
+    <dbpedia-owl:category rdf:resource="http://ja.dbpedia.org/resource/都市公園" />
+    <dbpedia-owl:location rdf:resource="http://ja.dbpedia.org/resource/徳島県" />
+    <dbpedia-owl:locationCountry rdf:resource="http://ja.dbpedia.org/resource/日本" />
+    <dbpedia-owl:thumbnail rdf:resource="http://ja.wikipedia.org/wiki/Special:FilePath/Bizan_Park.JPG?width=300" />
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.city.tokushima.tokushima.jp/koen_ryokuchi/sisetu04.html" />
+    <dbpedia-owl:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">802095</dbpedia-owl:wikiPageID>
+    <dbpedia-owl:wikiPageLength rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">1820</dbpedia-owl:wikiPageLength>
+    <dbpedia-owl:wikiPageOutDegree rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">45</dbpedia-owl:wikiPageOutDegree>
+    <dbpedia-owl:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">57167948</dbpedia-owl:wikiPageRevisionID>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/ファイル:Bizan_Park.JPG" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/眉山ロープウェイ" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/平方メートル" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/諭鶴羽山" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/パゴダ平和記念塔" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/眉山パークウェイ" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/鳴門インターチェンジ" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/ヴェンセスラウ・デ・モラエス" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/眉山_(徳島市)" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/西部公園" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/眉山町" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/国道11号" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/観光地" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/徳島県" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/西日本旅客鉄道" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/神戸淡路鳴門自動車道" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/1958年" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/阿波おどり会館" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/徳島駅" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/サクラ" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/指定管理者" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/Category:徳島市の公園" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/英語" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/日本さくら名所100選" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/第二次世界大戦" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/3月31日" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/都市公園" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/Category:眉山" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/和泉山脈" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/徳島市" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/モラエス館" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/徳島縣護國神社" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/夜景" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/昭和" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/佐古山町" />
+    <foaf:homepage rdf:resource="http://www.city.tokushima.tokushima.jp/koen_ryokuchi/sisetu04.html" />
+    <dcterms:subject rdf:resource="http://ja.dbpedia.org/resource/Category:徳島市の公園" />
+    <dcterms:subject rdf:resource="http://ja.dbpedia.org/resource/Category:眉山" />
+    <prop-ja:wikiPageUsesTemplate rdf:resource="http://ja.dbpedia.org/resource/Template:公園" />
+    <prop-ja:wikiPageUsesTemplate rdf:resource="http://ja.dbpedia.org/resource/Template:JPN" />
+    <prop-ja:公式サイト rdf:resource="http://www.city.tokushima.tokushima.jp/koen_ryokuchi/sisetu04.html" />
+    <prop-ja:分類 rdf:resource="http://ja.dbpedia.org/resource/都市公園" />
+    <prop-ja:名称 xml:lang="ja">眉山公園</prop-ja:名称>
+    <prop-ja:画像 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">300</prop-ja:画像>
+    <prop-ja:画像キャプション xml:lang="ja">眉山公園、桜の季節</prop-ja:画像キャプション>
+    <prop-ja:運営者 xml:lang="ja">徳島市（指定管理者：公益財団法人徳島市公園緑地管理公社）</prop-ja:運営者>
+    <prop-ja:都市 xml:lang="ja">徳島県徳島市眉山町・佐古山町諏訪山の一部外</prop-ja:都市>
+    <prop-ja:面積 rdf:datatype="http://dbpedia.org/datatype/squareMetre">240403.0</prop-ja:面積>
+    <foaf:depiction rdf:resource="http://ja.wikipedia.org/wiki/Special:FilePath/Bizan_Park.JPG" />
+    <prop-ja:告示 rdf:datatype="http://www.w3.org/2001/XMLSchema#gMonthDay">--03-31</prop-ja:告示>
+    <prop-ja:設備・遊具 rdf:resource="http://ja.dbpedia.org/resource/パゴダ平和記念塔" />
+    <prop-ja:設備・遊具 rdf:resource="http://ja.dbpedia.org/resource/モラエス館" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/パゴダ平和記念塔">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/眉山公園" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/徳島縣護國神社">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/眉山公園" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/西部公園">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/眉山公園" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/data/眉山公園.rdf">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document" />
+    <foaf:primaryTopic rdf:resource="http://ja.dbpedia.org/resource/眉山公園" />
+  </rdf:Description>
+</rdf:RDF>

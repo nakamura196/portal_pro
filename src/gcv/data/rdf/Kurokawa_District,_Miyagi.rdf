@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:dct="http://purl.org/dc/terms/"
+	xmlns:dbo="http://dbpedia.org/ontology/"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:prov="http://www.w3.org/ns/prov#"
+	xmlns:georss="http://www.georss.org/georss/"
+	xmlns:ns9="http://purl.org/linguistics/gold/" >
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Kurokawa_District,_Miyagi">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Kurokawa_District,_Miyagi" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Taiwa,_Miyagi">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Kurokawa_District,_Miyagi" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tomiya,_Miyagi">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Kurokawa_District,_Miyagi" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ōhira,_Miyagi">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Kurokawa_District,_Miyagi" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ōsato,_Miyagi">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Kurokawa_District,_Miyagi" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kurokawa_District,_Miyagi">
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Object100002684" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoLegalActorGeo" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PhysicalEntity100001930" />
+    <rdf:type rdf:resource="http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoPermanentlyLocatedEntity" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoGeoEntity" />
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatDistrictsInMiyagiPrefecture" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Location100027167" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/District108552138" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Region108630985" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Settlement" />
+    <rdfs:label xml:lang="ja">黒川郡</rdfs:label>
+    <rdfs:label xml:lang="it">Distretto di Kurokawa</rdfs:label>
+    <rdfs:label xml:lang="zh">黑川郡</rdfs:label>
+    <rdfs:label xml:lang="en">Kurokawa District, Miyagi</rdfs:label>
+    <rdfs:label xml:lang="fr">District de Kurokawa</rdfs:label>
+    <rdfs:comment xml:lang="fr">Le district de Kurokawa (黒川郡, Kurokawa-gun) est un district de la préfecture de Miyagi au Japon. Au 1er décembre 2014, sa population était estimée à 92 712 habitants pour une superficie de 416,93 km2.</rdfs:comment>
+    <rdfs:comment xml:lang="it">Il distretto di Kurokawa (黒川郡, Kurokawa-gun?) è uno dei distretti della prefettura di Miyagi, in Giappone. Attualmente fanno parte del distretto i comuni di Ōhira, Ōsato, Taiwa e Tomiya.</rdfs:comment>
+    <rdfs:comment xml:lang="zh">黑川郡（日语：黒川郡／くろかわぐん Kurokawa gun */?）是宮城縣的一郡。人口 81,133人、面積416.93 km²（2005年）。 現轄有以下2町1村。 
+* 大和町 
+* 大鄉町 
+* 大衡村</rdfs:comment>
+    <rdfs:comment xml:lang="ja">黒川郡（くろかわぐん）は、宮城県の郡。令制国下では陸奥国（のち陸前国）に属す。 人口42,617人、面積367.82km²、人口密度116人/km²。（2016年9月1日、推計人口） 以下の2町1村を含む。 
+*  大和町（たいわちょう） 
+*  大郷町（おおさとちょう） 
+*  大衡村（おおひらむら）</rdfs:comment>
+    <rdfs:comment xml:lang="en">Kurokawa (黒川郡 Kurokawa-gun) is a district located in Miyagi Prefecture, Japan. As of 2003, the district has an estimated population of 80,214 and a population density of 192.39 persons per km². The total area is 416.93 km². The district is a home to Miyagi University, and the main campus of the university is called Kurokawa campus after its location.</rdfs:comment>
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.03mxl3" />
+    <owl:sameAs rdf:resource="http://it.dbpedia.org/resource/Distretto_di_Kurokawa" />
+    <owl:sameAs rdf:resource="http://sws.geonames.org/2112074/" />
+    <owl:sameAs rdf:resource="http://id.dbpedia.org/resource/Distrik_Kurokawa,_Miyagi" />
+    <owl:sameAs rdf:resource="http://fr.dbpedia.org/resource/District_de_Kurokawa" />
+    <owl:sameAs rdf:resource="http://yago-knowledge.org/resource/Kurokawa_District,_Miyagi" />
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q1131782" />
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q1131782" />
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Kurokawa_District,_Miyagi" />
+    <owl:sameAs rdf:resource="http://ko.dbpedia.org/resource/구로카와_군" />
+    <owl:sameAs rdf:resource="http://ja.dbpedia.org/resource/黒川郡" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Districts_in_Miyagi_Prefecture" />
+    <dbo:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">898078</dbo:wikiPageID>
+    <dbo:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">662631026</dbo:wikiPageRevisionID>
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#float">38.442</geo:lat>
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#float">140.876</geo:long>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Kurokawa_District,_Miyagi" />
+    <geo:geometry rdf:datatype="http://www.openlinksw.com/schemas/virtrdf#Geometry">POINT(140.87600708008 38.442001342773)</geo:geometry>
+    <prov:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Kurokawa_District,_Miyagi?oldid=662631026" />
+    <dbo:abstract xml:lang="it">Il distretto di Kurokawa (黒川郡, Kurokawa-gun?) è uno dei distretti della prefettura di Miyagi, in Giappone. Attualmente fanno parte del distretto i comuni di Ōhira, Ōsato, Taiwa e Tomiya.</dbo:abstract>
+    <dbo:abstract xml:lang="zh">黑川郡（日语：黒川郡／くろかわぐん Kurokawa gun */?）是宮城縣的一郡。人口 81,133人、面積416.93 km²（2005年）。 現轄有以下2町1村。 
+* 大和町 
+* 大鄉町 
+* 大衡村</dbo:abstract>
+    <dbo:abstract xml:lang="en">Kurokawa (黒川郡 Kurokawa-gun) is a district located in Miyagi Prefecture, Japan. As of 2003, the district has an estimated population of 80,214 and a population density of 192.39 persons per km². The total area is 416.93 km². The district is a home to Miyagi University, and the main campus of the university is called Kurokawa campus after its location.</dbo:abstract>
+    <dbo:abstract xml:lang="ja">黒川郡（くろかわぐん）は、宮城県の郡。令制国下では陸奥国（のち陸前国）に属す。 人口42,617人、面積367.82km²、人口密度116人/km²。（2016年9月1日、推計人口） 以下の2町1村を含む。 
+*  大和町（たいわちょう） 
+*  大郷町（おおさとちょう） 
+*  大衡村（おおひらむら）</dbo:abstract>
+    <dbo:abstract xml:lang="fr">Le district de Kurokawa (黒川郡, Kurokawa-gun) est un district de la préfecture de Miyagi au Japon. Au 1er décembre 2014, sa population était estimée à 92 712 habitants pour une superficie de 416,93 km2.</dbo:abstract>
+    <georss:point>38.442 140.876</georss:point>
+    <ns9:hypernym rdf:resource="http://dbpedia.org/resource/District" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kurokawa">
+    <dbo:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/Kurokawa_District,_Miyagi" />
+  </rdf:Description>
+</rdf:RDF>

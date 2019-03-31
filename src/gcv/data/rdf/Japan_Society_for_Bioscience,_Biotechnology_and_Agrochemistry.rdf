@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:dct="http://purl.org/dc/terms/"
+	xmlns:dbo="http://dbpedia.org/ontology/"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:prov="http://www.w3.org/ns/prov#"
+	xmlns:ns7="http://purl.org/linguistics/gold/" >
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bioscience,_Biotechnology,_and_Biochemistry">
+    <dbo:publisher rdf:resource="http://dbpedia.org/resource/Japan_Society_for_Bioscience,_Biotechnology_and_Agrochemistry" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Japan_Society_for_Bioscience,_Biotechnology_and_Agrochemistry">
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Organisation" />
+    <rdfs:label xml:lang="ja">日本農芸化学会</rdfs:label>
+    <rdfs:label xml:lang="en">Japan Society for Bioscience, Biotechnology and Agrochemistry</rdfs:label>
+    <rdfs:comment xml:lang="en">The Japan Society for Bioscience, Biotechnology, and Agrochemistry (JSBBA) is a scientific society dedicated to bioscience, biotechnology and agrochemistry, originally founded in 1924 as the Agricultural Chemical Society of Japan. The society took its current name in 1989. In 1957, it was officially recognized as a society by the Ministry of Education, Science, Sports, and Culture of Japan. The current membership consists of researchers, technologists, students and private organizations in various fields of bioscience and biotechnology.</rdfs:comment>
+    <rdfs:comment xml:lang="ja">公益社団法人 日本農芸化学会（にほんのうげいかがくかい、英称: Japan Society for Bioscience, Biotechnology, and Agrochemistry、略称: JSBBA）は、農芸化学やバイオサイエンス・バイオテクノロジーの研究者・研究機関・団体などで組織された学術団体。元文部科学省所管の公益法人。</rdfs:comment>
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Japan_Society_for_Bioscience,_Biotechnology_and_Agrochemistry" />
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q6157846" />
+    <owl:sameAs rdf:resource="http://ja.dbpedia.org/resource/日本農芸化学会" />
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q6157846" />
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.0gh8ycv" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Organizations_established_in_1924" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Research_institutes_in_Japan" />
+    <dbo:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">31120748</dbo:wikiPageID>
+    <dbo:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">551449293</dbo:wikiPageRevisionID>
+    <dbo:wikiPageExternalLink rdf:resource="http://www.jsbba.or.jp" />
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Japan_Society_for_Bioscience,_Biotechnology_and_Agrochemistry" />
+    <prov:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Japan_Society_for_Bioscience,_Biotechnology_and_Agrochemistry?oldid=551449293" />
+    <dbo:abstract xml:lang="ja">公益社団法人 日本農芸化学会（にほんのうげいかがくかい、英称: Japan Society for Bioscience, Biotechnology, and Agrochemistry、略称: JSBBA）は、農芸化学やバイオサイエンス・バイオテクノロジーの研究者・研究機関・団体などで組織された学術団体。元文部科学省所管の公益法人。</dbo:abstract>
+    <dbo:abstract xml:lang="en">The Japan Society for Bioscience, Biotechnology, and Agrochemistry (JSBBA) is a scientific society dedicated to bioscience, biotechnology and agrochemistry, originally founded in 1924 as the Agricultural Chemical Society of Japan. The society took its current name in 1989. In 1957, it was officially recognized as a society by the Ministry of Education, Science, Sports, and Culture of Japan. The current membership consists of researchers, technologists, students and private organizations in various fields of bioscience and biotechnology.</dbo:abstract>
+    <ns7:hypernym rdf:resource="http://dbpedia.org/resource/Society" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Japan_Society_for_Bioscience,_Biotechnology_and_Agrochemistry">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Japan_Society_for_Bioscience,_Biotechnology_and_Agrochemistry" />
+  </rdf:Description>
+</rdf:RDF>

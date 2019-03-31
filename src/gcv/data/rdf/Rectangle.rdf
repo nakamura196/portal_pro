@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:dct="http://purl.org/dc/terms/"
+	xmlns:dbo="http://dbpedia.org/ontology/"
+	xmlns:dbp="http://dbpedia.org/property/"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:prov="http://www.w3.org/ns/prov#"
+	xmlns:ns8="http://purl.org/linguistics/gold/" >
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Dance_slot">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Rectangle" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Rhombus">
+    <dbp:dual rdf:resource="http://dbpedia.org/resource/Rectangle" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Napkin">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Rectangle" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Rectangular">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Rectangle" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Rectangle">
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Bone" />
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing" />
+    <rdfs:label xml:lang="ja">長方形</rdfs:label>
+    <rdfs:label xml:lang="zh">矩形</rdfs:label>
+    <rdfs:label xml:lang="fr">Rectangle</rdfs:label>
+    <rdfs:label xml:lang="de">Rechteck</rdfs:label>
+    <rdfs:label xml:lang="es">Rectángulo</rdfs:label>
+    <rdfs:label xml:lang="en">Rectangle</rdfs:label>
+    <rdfs:label xml:lang="it">Rettangolo</rdfs:label>
+    <rdfs:label xml:lang="nl">Rechthoek</rdfs:label>
+    <rdfs:label xml:lang="ru">Прямоугольник</rdfs:label>
+    <rdfs:label xml:lang="pl">Prostokąt</rdfs:label>
+    <rdfs:label xml:lang="pt">Retângulo</rdfs:label>
+    <rdfs:label xml:lang="ar">مستطيل</rdfs:label>
+    <rdfs:comment xml:lang="zh">在几何中，矩形（又稱長方形）定义为有一个角是直角的平行四边形。 从这个定义可以得出矩形两条相对的边等长，也就是说矩形是平行四边形。正方形是四個邊都等長的矩形，它的四个边都是等长的。同时，正方形既是矩形，也是菱形。非正方形的矩形通常称之为oblong。 A 5 by 4 rectangle 对于长方形两对相对的边，我们称横边为长，竖边为宽。长方形的面积是长和宽的乘积；用符号表示就是：A = lw。例如，一个长方形的长是5米，宽是4米，那么面积为20平方米，因为5 × 4 = 20。见上图。 在微积分中，黎曼积分可以被看成是无穷多任意小的长方形面积的和的极限。</rdfs:comment>
+    <rdfs:comment xml:lang="fr">En géométrie, un rectangle est un quadrilatère dont les quatre angles sont droits.</rdfs:comment>
+    <rdfs:comment xml:lang="nl">Een rechthoek is een tweedimensionaal meetkundig figuur met vier zijden en rechte hoeken tussen elk van die zijden. Twee overliggende zijden zijn altijd even lang. Het is een bijzondere vorm van een vierhoek. Het vierkant is een speciale vorm van de rechthoek waarbij alle zijden even lang zijn. Een driedimensionaal lichaam waarvan alle hoeken recht zijn, wordt een balk genoemd, tenzij alle zijden gelijk zijn. In zo&#39;n geval heet het lichaam een kubus. Alle zijvlakken van een balk zijn rechthoeken. Alle zijvlakken van een kubus zijn vierkanten.</rdfs:comment>
+    <rdfs:comment xml:lang="ja">長方形（ちょうほうけい、英: rectangle）とは 1.  
+* 4つの角がすべて等しい四角形であり正方形も含む。本項で詳述する。 2.  
+* 俗語では正方形を含まない長方形や長方形に見える形のこと。 長方形（ちょうほうけい、英: rectangle）は、4つの角がすべて等しい四角形である。 平行四辺形の一種であり、平行四辺形の性質をすべて満たすほか、次の性質を有する。 
+* 4つの内角はすべて直角に等しい。 
+* 2本の対角線は等しい長さを持つ。 これにより、長方形は円に内接する四角形である。 正方形は長方形の特殊な形で、4つの角がすべて等しく、4つの辺がすべて等しい四角形である。つまり、正方形は長方形の一種であり、かつ菱形の一種である。長方形のうち、口語で長四角（ながしかく）、矩形（くけい）といえば正方形を除いた長方形を指すことが多い。 正方形でない長方形の2組の向かい合う辺のうち、長いほうの長さを長方形の長さ、短いほうを長方形の幅と呼ぶ。長方形の面積 は長さ と幅 の積によって求められる。記号で書くと、 である。例えば、長さが5、幅が4の長方形の面積は、5×4=20となる。左の図を参照。 微積分学では、リーマン積分は長方形の幅を極限まで小さくしたときの面積の和として求められる。 2つの連続する自然数の積になるような数を長方形数または矩形数という。</rdfs:comment>
+    <rdfs:comment xml:lang="es">En geometría plana, un rectángulo es un paralelogramo cuyos cuatro lados forman ángulos rectos entre sí. Los lados opuestos tienen la misma longitud. El perímetro de un rectángulo es igual a la suma de todos sus lados. El área de un rectángulo es igual al producto de dos de sus lados contiguos.</rdfs:comment>
+    <rdfs:comment xml:lang="ar">في الهندسة الأقليدية، المستطيل (بالإنجليزية: Rectangle) هو شكل ثنائي الأبعاد، وهو رباعي أضلاع حيث تكون زواياه الأربعة قائمة. ينبع من هذا أنّ للمستطيل زوجين من الضلعين المتقابلين والمتساويين؛ أي أنّ المستطيل هو حالة خاصة من متوازي أضلاع تكون إحدى زواياه قائمة.كما يعتبر المربع حالة خاصة من المستطيل تكون فيها أطوال الأضلاع الأربعة متساوية.</rdfs:comment>
+    <rdfs:comment xml:lang="de">Für jedes Rechteck gilt: 
+*  Die Winkelsumme beträgt 360°. 
+*  Gegenüberliegende Seiten sind gleich lang und parallel. 
+*  Die beiden Diagonalen sind gleich lang und halbieren einander. 
+*  Es besitzt einen Umkreis und ist daher ein Sehnenviereck. Umkreismittelpunkt ist der Schnittpunkt der Diagonalen. 
+*  Es ist achsensymmetrisch bezüglich der Mittelsenkrechten (Seitensymmetralen) der Rechtecksseiten. Die beiden Symmetrieachsen stehen also senkrecht aufeinander. 
+*  Es ist punktsymmetrisch (zweizählig symmetrisch) bezüglich des Diagonalenschnittpunkts.</rdfs:comment>
+    <rdfs:comment xml:lang="pt">Um retângulo (AO 1945: rectângulo) é um paralelogramo, cujos ângulos internos são ângulos retos.  O quadrado é um caso particular de um retângulo em que todos os lados têm o mesmo comprimento. A soma dos ângulos internos de um retângulo é 360°.</rdfs:comment>
+    <rdfs:comment xml:lang="it">In geometria, il rettangolo è un quadrilatero che ha tutti gli angoli interni congruenti tra loro (e, di conseguenza, retti). Da questa definizione si evince che in un rettangolo ciascuna delle due coppie di lati opposti è costituita da lati congruenti; in altre parole i rettangoli sono particolari parallelogrammi. I rettangoli sono anche particolari quadrilateri ciclici: si possono definire come i quadrilateri ciclici aventi come diagonali due diametri del cerchio circoscritto.</rdfs:comment>
+    <rdfs:comment xml:lang="en">In Euclidean plane geometry, a rectangle is a quadrilateral with four right angles. It can also be defined as an equiangular quadrilateral, since equiangular means that all of its angles are equal (360°/4 = 90°). It can also be defined as a parallelogram containing a right angle. A rectangle with four sides of equal length is a square. The term oblong is occasionally used to refer to a non-square rectangle.A rectangle with vertices ABCD would be denoted as  ABCD. The word rectangle comes from the Latin rectangulus, which is a combination of rectus (right) and angulus (angle).</rdfs:comment>
+    <rdfs:comment xml:lang="ru">Прямоугольник — параллелограмм, у которого все углы прямые (равны 90 градусам). В евклидовой геометрии для того, чтобы четырёхугольник был прямоугольником, достаточно, чтобы хотя бы три его угла были прямые, тогда четвёртый угол в силу теоремы о сумме углов многоугольника также будет равен 90°. В неевклидовой геометрии, где сумма углов четырёхугольника не равна 360°, прямоугольников не существует.</rdfs:comment>
+    <rdfs:comment xml:lang="pl">Prostokąt – czworokąt, który ma wszystkie wewnętrzne kąty proste (stąd również jego nazwa). Prostokąt jest szczególnym przypadkiem trapezu prostokątnego oraz równoległoboku. Szczególnym przypadkiem prostokąta (o wszystkich bokach tej samej długości) jest kwadrat. Prostokąt, który nie jest kwadratem, ma dokładnie dwie osie symetrii i środek symetrii. Przekątne prostokąta są równej długości i przecinają się w połowie. Kąt między przekątnymi jest prosty wtedy i tylko wtedy, gdy prostokąt jest kwadratem.</rdfs:comment>
+    <owl:sameAs rdf:resource="http://cs.dbpedia.org/resource/Obdélník" />
+    <owl:sameAs rdf:resource="http://fr.dbpedia.org/resource/Rectangle" />
+    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/Rechteck" />
+    <owl:sameAs rdf:resource="http://eu.dbpedia.org/resource/Laukizuzen" />
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.0j62f" />
+    <owl:sameAs rdf:resource="http://it.dbpedia.org/resource/Rettangolo" />
+    <owl:sameAs rdf:resource="http://ja.dbpedia.org/resource/長方形" />
+    <owl:sameAs rdf:resource="http://nl.dbpedia.org/resource/Rechthoek" />
+    <owl:sameAs rdf:resource="http://el.dbpedia.org/resource/Ορθογώνιο_παραλληλόγραμμο" />
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q209" />
+    <owl:sameAs rdf:resource="http://pl.dbpedia.org/resource/Prostokąt" />
+    <owl:sameAs rdf:resource="http://pt.dbpedia.org/resource/Retângulo" />
+    <owl:sameAs rdf:resource="http://es.dbpedia.org/resource/Rectángulo" />
+    <owl:sameAs rdf:resource="http://d-nb.info/gnd/4240913-5" />
+    <owl:sameAs rdf:resource="http://ko.dbpedia.org/resource/직사각형" />
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q209" />
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Rectangle" />
+    <owl:sameAs rdf:resource="http://id.dbpedia.org/resource/Persegi_panjang" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Elementary_shapes" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Quadrilaterals" />
+    <dbo:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">70048</dbo:wikiPageID>
+    <dbo:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">741531614</dbo:wikiPageRevisionID>
+    <dbo:wikiPageExternalLink rdf:resource="http://www.mathopenref.com/rectangle.html" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.mathopenref.com/rectanglearea.html" />
+    <dbp:name rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Rectangle</dbp:name>
+    <foaf:depiction rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Rectangle_Geometry_Vector.svg" />
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Rectangle" />
+    <dbo:thumbnail rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Rectangle_Geometry_Vector.svg?width=300" />
+    <prov:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Rectangle?oldid=741531614" />
+    <dbo:abstract xml:lang="zh">在几何中，矩形（又稱長方形）定义为有一个角是直角的平行四边形。 从这个定义可以得出矩形两条相对的边等长，也就是说矩形是平行四边形。正方形是四個邊都等長的矩形，它的四个边都是等长的。同时，正方形既是矩形，也是菱形。非正方形的矩形通常称之为oblong。 A 5 by 4 rectangle 对于长方形两对相对的边，我们称横边为长，竖边为宽。长方形的面积是长和宽的乘积；用符号表示就是：A = lw。例如，一个长方形的长是5米，宽是4米，那么面积为20平方米，因为5 × 4 = 20。见上图。 在微积分中，黎曼积分可以被看成是无穷多任意小的长方形面积的和的极限。</dbo:abstract>
+    <dbo:abstract xml:lang="en">In Euclidean plane geometry, a rectangle is a quadrilateral with four right angles. It can also be defined as an equiangular quadrilateral, since equiangular means that all of its angles are equal (360°/4 = 90°). It can also be defined as a parallelogram containing a right angle. A rectangle with four sides of equal length is a square. The term oblong is occasionally used to refer to a non-square rectangle.A rectangle with vertices ABCD would be denoted as  ABCD. The word rectangle comes from the Latin rectangulus, which is a combination of rectus (right) and angulus (angle). A crossed rectangle is a crossed (self-intersecting) quadrilateral which consists of two opposite sides of a rectangle along with the two diagonals.It is a special case of an antiparallelogram, and its angles are not right angles. Other geometries, such as spherical, elliptic, and hyperbolic, have so-called rectangles with opposite sides equal in length and equal angles that are not right angles. Rectangles are involved in many  problems, such as tiling the plane by rectangles or tiling a rectangle by polygons.</dbo:abstract>
+    <dbo:abstract xml:lang="fr">En géométrie, un rectangle est un quadrilatère dont les quatre angles sont droits.</dbo:abstract>
+    <dbo:abstract xml:lang="ar">في الهندسة الأقليدية، المستطيل (بالإنجليزية: Rectangle) هو شكل ثنائي الأبعاد، وهو رباعي أضلاع حيث تكون زواياه الأربعة قائمة. ينبع من هذا أنّ للمستطيل زوجين من الضلعين المتقابلين والمتساويين؛ أي أنّ المستطيل هو حالة خاصة من متوازي أضلاع تكون إحدى زواياه قائمة.كما يعتبر المربع حالة خاصة من المستطيل تكون فيها أطوال الأضلاع الأربعة متساوية.</dbo:abstract>
+    <dbo:abstract xml:lang="es">En geometría plana, un rectángulo es un paralelogramo cuyos cuatro lados forman ángulos rectos entre sí. Los lados opuestos tienen la misma longitud. El perímetro de un rectángulo es igual a la suma de todos sus lados. El área de un rectángulo es igual al producto de dos de sus lados contiguos.</dbo:abstract>
+    <dbo:abstract xml:lang="nl">Een rechthoek is een tweedimensionaal meetkundig figuur met vier zijden en rechte hoeken tussen elk van die zijden. Twee overliggende zijden zijn altijd even lang. Het is een bijzondere vorm van een vierhoek. Het vierkant is een speciale vorm van de rechthoek waarbij alle zijden even lang zijn. Een driedimensionaal lichaam waarvan alle hoeken recht zijn, wordt een balk genoemd, tenzij alle zijden gelijk zijn. In zo&#39;n geval heet het lichaam een kubus. Alle zijvlakken van een balk zijn rechthoeken. Alle zijvlakken van een kubus zijn vierkanten.</dbo:abstract>
+    <dbo:abstract xml:lang="it">In geometria, il rettangolo è un quadrilatero che ha tutti gli angoli interni congruenti tra loro (e, di conseguenza, retti). Da questa definizione si evince che in un rettangolo ciascuna delle due coppie di lati opposti è costituita da lati congruenti; in altre parole i rettangoli sono particolari parallelogrammi. I rettangoli sono anche particolari quadrilateri ciclici: si possono definire come i quadrilateri ciclici aventi come diagonali due diametri del cerchio circoscritto. Il quadrato è un tipo particolare di rettangolo, caratterizzato dall&#39;avere tutti i quattro lati congruenti. Equivalentemente si dice che l&#39;insieme dei quadrati è l&#39;intersezione dell&#39;insieme dei rettangoli con l&#39;insieme dei rombi. Nel parlare colloquiale per sottolineare che un rettangolo non ha tutti i lati congruenti come un quadrato, si dice che un rettangolo è una figura oblunga. Quando si presenta un rettangolo nel piano cartesiano e questo ha due lati sensibilmente più lunghi degli altri due e disposti orizzontalmente, si parla di rettangolo largo; se invece i lati più lunghi sono disposti verticalmente si parla di rettangolo alto o addirittura di rettangolo sottile. La lunghezza dei due lati opposti più lunghi viene chiamata lunghezza o base del rettangolo, mentre la lunghezza dei due lati più corti viene chiamata larghezza o altezza.</dbo:abstract>
+    <dbo:abstract xml:lang="pt">Um retângulo (AO 1945: rectângulo) é um paralelogramo, cujos ângulos internos são ângulos retos.  O quadrado é um caso particular de um retângulo em que todos os lados têm o mesmo comprimento. A soma dos ângulos internos de um retângulo é 360°.</dbo:abstract>
+    <dbo:abstract xml:lang="ru">Прямоугольник — параллелограмм, у которого все углы прямые (равны 90 градусам). В евклидовой геометрии для того, чтобы четырёхугольник был прямоугольником, достаточно, чтобы хотя бы три его угла были прямые, тогда четвёртый угол в силу теоремы о сумме углов многоугольника также будет равен 90°. В неевклидовой геометрии, где сумма углов четырёхугольника не равна 360°, прямоугольников не существует.</dbo:abstract>
+    <dbo:abstract xml:lang="pl">Prostokąt – czworokąt, który ma wszystkie wewnętrzne kąty proste (stąd również jego nazwa). Prostokąt jest szczególnym przypadkiem trapezu prostokątnego oraz równoległoboku. Szczególnym przypadkiem prostokąta (o wszystkich bokach tej samej długości) jest kwadrat. Prostokąt, który nie jest kwadratem, ma dokładnie dwie osie symetrii i środek symetrii. Przekątne prostokąta są równej długości i przecinają się w połowie. Kąt między przekątnymi jest prosty wtedy i tylko wtedy, gdy prostokąt jest kwadratem.</dbo:abstract>
+    <dbo:abstract xml:lang="ja">長方形（ちょうほうけい、英: rectangle）とは 1.  
+* 4つの角がすべて等しい四角形であり正方形も含む。本項で詳述する。 2.  
+* 俗語では正方形を含まない長方形や長方形に見える形のこと。 長方形（ちょうほうけい、英: rectangle）は、4つの角がすべて等しい四角形である。 平行四辺形の一種であり、平行四辺形の性質をすべて満たすほか、次の性質を有する。 
+* 4つの内角はすべて直角に等しい。 
+* 2本の対角線は等しい長さを持つ。 これにより、長方形は円に内接する四角形である。 正方形は長方形の特殊な形で、4つの角がすべて等しく、4つの辺がすべて等しい四角形である。つまり、正方形は長方形の一種であり、かつ菱形の一種である。長方形のうち、口語で長四角（ながしかく）、矩形（くけい）といえば正方形を除いた長方形を指すことが多い。 正方形でない長方形の2組の向かい合う辺のうち、長いほうの長さを長方形の長さ、短いほうを長方形の幅と呼ぶ。長方形の面積 は長さ と幅 の積によって求められる。記号で書くと、 である。例えば、長さが5、幅が4の長方形の面積は、5×4=20となる。左の図を参照。 微積分学では、リーマン積分は長方形の幅を極限まで小さくしたときの面積の和として求められる。 2つの連続する自然数の積になるような数を長方形数または矩形数という。</dbo:abstract>
+    <dbo:abstract xml:lang="de">Für jedes Rechteck gilt: 
+*  Die Winkelsumme beträgt 360°. 
+*  Gegenüberliegende Seiten sind gleich lang und parallel. 
+*  Die beiden Diagonalen sind gleich lang und halbieren einander. 
+*  Es besitzt einen Umkreis und ist daher ein Sehnenviereck. Umkreismittelpunkt ist der Schnittpunkt der Diagonalen. 
+*  Es ist achsensymmetrisch bezüglich der Mittelsenkrechten (Seitensymmetralen) der Rechtecksseiten. Die beiden Symmetrieachsen stehen also senkrecht aufeinander. 
+*  Es ist punktsymmetrisch (zweizählig symmetrisch) bezüglich des Diagonalenschnittpunkts.</dbo:abstract>
+    <dbp:dual rdf:resource="http://dbpedia.org/resource/Rhombus" />
+    <!--
+    <p: xmlns:p="http://dbpedia.org/property/schläfli" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">{ } × { }</p:>
+    -->
+    <dbp:caption rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Rectangle</dbp:caption>
+    <dbp:edges rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</dbp:edges>
+    <dbp:properties rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">convex, isogonal, cyclic Opposite angles and sides are congruent</dbp:properties>
+    <dbp:symmetry rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Dihedral , [2], , order 4</dbp:symmetry>
+    <dbp:title rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Rectangle</dbp:title>
+    <dbp:type rdf:resource="http://dbpedia.org/resource/Quadrilateral" />
+    <dbp:type rdf:resource="http://dbpedia.org/resource/Parallelogram" />
+    <dbp:type rdf:resource="http://dbpedia.org/resource/Orthotope" />
+    <dbp:urlname rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Rectangle</dbp:urlname>
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Quadrilateral" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Flag_of_Chechnya">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Rectangle" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Flag_of_Kaliningrad_Oblast">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Rectangle" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Quadrat_(hieroglyph_block)">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Rectangle" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Rectangles">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Rectangle" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Flag_of_Kemerovo_Oblast">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Rectangle" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Crossed-rectangle">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Rectangle" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Crossed_rectangle">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Rectangle" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Equiangular_quadrilateral">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Rectangle" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Saddle_rectangle">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Rectangle" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Rectangle">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Rectangle" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Oblong_(description)">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Rectangle" />
+  </rdf:Description>
+</rdf:RDF>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:dbo="http://dbpedia.org/ontology/"
+	xmlns:dct="http://purl.org/dc/terms/"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:prov="http://www.w3.org/ns/prov#"
+	xmlns:dbp="http://dbpedia.org/property/"
+	xmlns:ns8="http://purl.org/linguistics/gold/" >
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Katō_Tomosaburō">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Hiroshima_Domain" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Asano_Nagaakira">
+    <dbp:title rdf:resource="http://dbpedia.org/resource/Hiroshima_Domain" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Asano_Nagakoto">
+    <dbp:title rdf:resource="http://dbpedia.org/resource/Hiroshima_Domain" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Asano_clan">
+    <dbp:homeProvince rdf:resource="http://dbpedia.org/resource/Hiroshima_Domain" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hiroshima_Domain">
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Sphere114514039" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Situation113927383" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Environment113934596" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/State100024720" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/TennisPlayer" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Attribute100024264" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Abstraction100002137" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatDomainsOfJapan" />
+    <rdfs:label xml:lang="ja">広島藩</rdfs:label>
+    <rdfs:label xml:lang="ru">Хиросима (княжество)</rdfs:label>
+    <rdfs:label xml:lang="fr">Domaine de Hiroshima</rdfs:label>
+    <rdfs:label xml:lang="en">Hiroshima Domain</rdfs:label>
+    <rdfs:label xml:lang="zh">廣島藩</rdfs:label>
+    <rdfs:comment xml:lang="fr">Le domaine de Hiroshima (広島藩, Hiroshima-han) est un domaine féodal japonais de la période Edo. Centré sur le château de Hiroshima de la ville d&#39;Hiroshima, le domaine englobe la province d&#39;Aki et des parties de la province de Bingo.</rdfs:comment>
+    <rdfs:comment xml:lang="ja">広島藩（ひろしまはん）は、安芸国一国と備後国の半分を領有した大藩で、現在の広島県の大部分にあたる。藩庁は広島城（現在の広島市）に置かれた。芸州藩（または安芸藩）と呼ばれることも多い。</rdfs:comment>
+    <rdfs:comment xml:lang="en">Hiroshima Domain (広島藩 Hiroshima-han) was a han, or feudal domain, of Edo period Japan. Based at Hiroshima castle in the city of Hiroshima, the domain encompassed Aki province and parts of neighboring Bingo province.</rdfs:comment>
+    <rdfs:comment xml:lang="zh">廣島藩是日本江戶時代的一個藩領。位於安藝國全域及備後國一部份，藩廳是廣島城。藩主是福島氏及淺野氏。別稱藝州藩、安藝藩。</rdfs:comment>
+    <rdfs:comment xml:lang="ru">Хиросима-хан (яп. 広島藩, ひろしまはん) — хан периода Эдо в провинции Аки и части провинции Бинго (современная префектура Хиросима). Известен также как Гэйсю-хан (яп. 芸州藩, げいしゅうはん). Владельцы хана — род Асано, статус которого соответствовал тодзама-даймё. Главная резиденция находилась в замке Хиросима, современном городе Хиросима префектуры Хиросима. В XVII—XVIII веках официальный доход хана равнялся около 426 тысячам коку.</rdfs:comment>
+    <owl:sameAs rdf:resource="http://ja.dbpedia.org/resource/広島藩" />
+    <owl:sameAs rdf:resource="http://ko.dbpedia.org/resource/히로시마_번" />
+    <owl:sameAs rdf:resource="http://fr.dbpedia.org/resource/Domaine_de_Hiroshima" />
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q1141203" />
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Hiroshima_Domain" />
+    <owl:sameAs rdf:resource="http://yago-knowledge.org/resource/Hiroshima_Domain" />
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q1141203" />
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.02w97k3" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Domains_of_Japan" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:History_of_Hiroshima_Prefecture" />
+    <dbo:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">12501327</dbo:wikiPageID>
+    <dbo:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">688252367</dbo:wikiPageRevisionID>
+    <foaf:depiction rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Simple_silver_crown.svg" />
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Hiroshima_Domain" />
+    <dbo:thumbnail rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Simple_silver_crown.svg?width=300" />
+    <prov:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Hiroshima_Domain?oldid=688252367" />
+    <dbo:abstract xml:lang="ja">広島藩（ひろしまはん）は、安芸国一国と備後国の半分を領有した大藩で、現在の広島県の大部分にあたる。藩庁は広島城（現在の広島市）に置かれた。芸州藩（または安芸藩）と呼ばれることも多い。</dbo:abstract>
+    <dbo:abstract xml:lang="fr">Le domaine de Hiroshima (広島藩, Hiroshima-han) est un domaine féodal japonais de la période Edo. Centré sur le château de Hiroshima de la ville d&#39;Hiroshima, le domaine englobe la province d&#39;Aki et des parties de la province de Bingo. Après la bataille de Sekigahara en 1600, le domaine est fondé avec Masanori Fukushima pour daimyō (seigneur féodal). Cependant, dix-neuf ans plus tard, le château subit de lourds dommages dus à des inondations et Fukushima le répare en violation des lois du shogunat des Tokugawa sur la construction et la réparation des châteaux (voir buke shohatto). Le shogunat place alors Fukushima au domaine de Kawanakajima et attribue celui de Hiroshima au clan Asano, qui le contrôle pour le reste de la période Edo, le domaine étant dissous avec tous les autres en 1871.</dbo:abstract>
+    <dbo:abstract xml:lang="en">Hiroshima Domain (広島藩 Hiroshima-han) was a han, or feudal domain, of Edo period Japan. Based at Hiroshima castle in the city of Hiroshima, the domain encompassed Aki province and parts of neighboring Bingo province. Following the battle of Sekigahara in 1600, the han was established with Fukushima Masanori as its daimyō (feudal lord). However, nineteen years later, Hiroshima castle suffered extensive flood damage and Fukushima repaired it in violation of the Tokugawa shogunate&#39;s laws on the construction and repair of castles (see buke shohatto). The shogunate then ordered Fukushima to Kawanakajima Domain, and awarded Hiroshima to the Asano clan, who ruled it for the remainder of the Edo period, during which it was the sixth-largest domain in Japan, excepting those held by the Tokugawa-Matsudaira dynasty. The domain was dismantled along with all the others in 1871.</dbo:abstract>
+    <dbo:abstract xml:lang="zh">廣島藩是日本江戶時代的一個藩領。位於安藝國全域及備後國一部份，藩廳是廣島城。藩主是福島氏及淺野氏。別稱藝州藩、安藝藩。</dbo:abstract>
+    <dbo:abstract xml:lang="ru">Хиросима-хан (яп. 広島藩, ひろしまはん) — хан периода Эдо в провинции Аки и части провинции Бинго (современная префектура Хиросима). Известен также как Гэйсю-хан (яп. 芸州藩, げいしゅうはん). Владельцы хана — род Асано, статус которого соответствовал тодзама-даймё. Главная резиденция находилась в замке Хиросима, современном городе Хиросима префектуры Хиросима. В XVII—XVIII веках официальный доход хана равнялся около 426 тысячам коку.</dbo:abstract>
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Han" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hiroshima_han">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Hiroshima_Domain" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Hiroshima_Domain">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Hiroshima_Domain" />
+  </rdf:Description>
+</rdf:RDF>

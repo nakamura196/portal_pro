@@ -1,0 +1,585 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:dbo="http://dbpedia.org/ontology/"
+	xmlns:dbp="http://dbpedia.org/property/"
+	xmlns:dct="http://purl.org/dc/terms/"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	xmlns:prov="http://www.w3.org/ns/prov#"
+	xmlns:georss="http://www.georss.org/georss/"
+	xmlns:ns10="http://purl.org/linguistics/gold/" >
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Chosŏn">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Joseon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Corean_Kingdom">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Joseon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Korean_Kingdom">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Joseon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kim_Hyong-jik">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Joseon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Queen_Jeonghui">
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Joseon" />
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Joseon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Paul_Chong_Hasang">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Joseon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Choson_Dynasty">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Joseon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Choson_Kingdom">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Joseon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Byeon_Yeong-tae">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Joseon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lee_Ki-poong">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Joseon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yi_Jun-yong">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Joseon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Chosŏn_Dynasty">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Joseon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yi_era">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Joseon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yi_period">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Joseon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/General_Sherman_incident">
+    <dbo:place rdf:resource="http://dbpedia.org/resource/Joseon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ryu_Seong-ryong">
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Joseon" />
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Joseon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yujeong">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Joseon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yi_Si-yeong">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Joseon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Chosŏn_Wangjo">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Joseon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Joseon_Wangjo">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Joseon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/朝鮮王朝">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Joseon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Chosun_Dynasty">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Joseon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Joseon_Kingdom">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Joseon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Chosons">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Joseon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Joseon_period">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Joseon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Chōsen">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Joseon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/조선">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Joseon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/조선왕조">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Joseon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Choson_dynasty">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Joseon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Syngman_Rhee">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Joseon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Andrew_Kim_Taegon">
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Joseon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ahn_Changho">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Joseon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yi_Gu">
+    <dbp:line rdf:resource="http://dbpedia.org/resource/Joseon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Park_Yeong-hyo">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Joseon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Queen_Inwon">
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Joseon" />
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Joseon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Joseon">
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatFormerCountriesInKoreanHistory" />
+    <rdf:type rdf:resource="http://schema.org/Country" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Region108630985" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatStatesAndTerritoriesEstablishedIn1392" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Location100027167" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/District108552138" />
+    <rdf:type rdf:resource="http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/AdministrativeDistrict108491826" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/PopulatedPlace" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Place" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Location" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoLegalActorGeo" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatFormerCountriesInAsia" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Object100002684" />
+    <rdf:type rdf:resource="http://schema.org/Place" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PhysicalEntity100001930" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoGeoEntity" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoPermanentlyLocatedEntity" />
+    <rdf:type rdf:resource="http://umbel.org/umbel/rc/Country" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Country108544813" />
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Country" />
+    <rdf:type rdf:resource="http://umbel.org/umbel/rc/PopulatedPlace" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q6256" />
+    <rdf:type rdf:resource="http://umbel.org/umbel/rc/Location_Underspecified" />
+    <rdfs:label xml:lang="ru">Чосон</rdfs:label>
+    <rdfs:label xml:lang="es">Dinastía Joseon</rdfs:label>
+    <rdfs:label xml:lang="en">Joseon</rdfs:label>
+    <rdfs:label xml:lang="it">Joseon</rdfs:label>
+    <rdfs:label xml:lang="nl">Joseondynastie</rdfs:label>
+    <rdfs:label xml:lang="pt">Dinastia Joseon</rdfs:label>
+    <rdfs:label xml:lang="fr">Période Joseon</rdfs:label>
+    <rdfs:label xml:lang="pl">Joseon</rdfs:label>
+    <rdfs:label xml:lang="zh">李氏朝鲜</rdfs:label>
+    <rdfs:label xml:lang="ar">مملكة جوسون</rdfs:label>
+    <rdfs:label xml:lang="ja">李氏朝鮮</rdfs:label>
+    <rdfs:label xml:lang="de">Joseon-Dynastie</rdfs:label>
+    <rdfs:comment xml:lang="zh">朝鮮国（韓語：조선국／朝鮮國 Joseon ?，1392年－1897年），韩国稱為朝鮮王朝（韓語：조선왕조／朝鮮王朝 Joseon Wangjo ?），朝鲜称李王朝（韓語：리왕조／李王朝 Ri Wangjo ?）或朝鮮封建王朝（韓語：조선 봉건왕조／朝鮮封建王朝 Joseon Bonggeon Wangjo ?），又稱李氏朝鮮，是朝鲜半岛历史上的最後一個朝代，由原高丽王朝守門下侍中李成桂建立，君主的本贯是全州李氏。其歷经27代君主共五百馀年，国土大体上涵蓋整個朝鮮半島，早期国都最初在开京（今开城），后定都在汉阳（今漢城汉江以北地区）。</rdfs:comment>
+    <rdfs:comment xml:lang="nl">De Joseondynastie (ook wel Chosondynastie genoemd) is een periode uit de Koreaanse geschiedenis die duurde van 1392 tot 1897. De gehele Joseondynastie bestrijkt een periode van ruim 500 jaar en is daarmee de langst durende dynastie uit de wereldgeschiedenis. De Joseondynastie is zeer bepalend geweest voor alles wat we nu kennen als Koreaans. Ze bepaalt nog steeds grotendeels het gezicht van de hedendaagse Korea’s. Dit is merkbaar in alledaagse zaken zoals normen en waarden, etiquette, taalgebruik en hoe men functioneert in de samenleving.</rdfs:comment>
+    <rdfs:comment xml:lang="es">La dinastía Joseon (hangul: 조선, hanja: 朝鮮, romanización revisada: Joseon, McCune-Reischauer: Chosŏn)? (también conocida como Chosŏn, Choson, Chosun, Cho-sen) fue la última dinastía y una de las más largas de Corea (1392–1910). Al establecerla, Hanyang (actual Seúl) se eligió como la capital, por lo tanto hoy en día el Gyeongbokgung (Palacio Gyeongbok) y el Jongmyo se encuentran en Seúl. La gran parte de cultura que se presenta actualmente como la tradicional de Corea se elaboraba en esta época. Especialmente la letra coreana, Hangeul, fue creada por el cuarto rey de Joseon, Sejong.</rdfs:comment>
+    <rdfs:comment xml:lang="fr">Période Joseon 대조선국 (ko) 1392 – 1897 Fichier:Locator map of Korea.svg La Corée sous les Joseon Entités précédentes : 
+* Goryeo Entités suivantes : 
+* Empire coréen La période Joseon est la période de l&#39;histoire de la Corée au cours de laquelle le pays fut gouverné par la dynastie Joseon (autres romanisations possibles : Choseon, Choson ou Chosŏn), parfois appelée dynastie Yi, une dynastie de rois coréens qui occupa le trône de 1392 à 1910.</rdfs:comment>
+    <rdfs:comment xml:lang="pl">Joseon (także: Korea dynastii Joseon, Chosŏn, Choson, Chosun, Cho-sen, kor. 조선, hanja: 朝鮮) – koreańskie państwo rządzone przez dynastię Yi, zapoczątkowaną przez króla Taejo Yi Seong-gye. Państwo Joseon istniało przez prawie pięć wieków, od 1392 do 1897 roku. Członkowie dynastii Yi rządzili Koreą jako cesarze także od 1897 do 1910 roku, gdy Japonia dokonała aneksji Korei, pozbawiając ją niepodległości.</rdfs:comment>
+    <rdfs:comment xml:lang="ru">Чосон (кор. 조선) — название Кореи с 1392 до 1897 года. В этот период страной правила династия Ли. Официальное название — Государство Великий Чосон (кор. 대조선국 Тэджосон-гук), название с 1897 до 1910 года — Корейская империя (кор. 대한제국 Тэхан чегук).</rdfs:comment>
+    <rdfs:comment xml:lang="pt">A Dinastia Joseon (1392 - 1897) (também Chosŏn, Choson, Chosun), foi um estado coreano fundado por Taejo Yi Seong-gye que durou cerca de cinco séculos. Foi fundado na sequência da derrubada da dinastia Goryeo, no que é atualmente a cidade de Kaesong. Logo no início, a Coreia foi renomeada e a capital foi transferida para a moderna e atual Seul. As fronteiras ao norte do reino foram expandidas para os limites naturais dos rios Amnok e Duman, através da submissão dos Jurchens. Joseon foi a última dinastia da história da Coreia e a mais longa dinastia confucionista no domínio.</rdfs:comment>
+    <rdfs:comment xml:lang="de">Die Joseon-Dynastie, auch Yi-Dynastie genannt und in der Literatur auch unter Chosŏn-Dynastie zu finden, war ein Herrschergeschlecht, das von 1392 mit Beginn Joseons bis zum Ende des Kaiserreichs Korea 1910 über mehr als 500 Jahre Korea regierte. Joseon und die Joseon-Dynastie gingen aus dem Umbruch der Staatsorganisation und -herrschaft Goryeos hervor, welche vom Aufbau und der Entwicklung einer vormodernen Gesellschaft geprägt war.</rdfs:comment>
+    <rdfs:comment xml:lang="en">The Kingdom of Joseon (Chosŏn&#39;gŭl: 대조선국; hancha: 大朝鮮國, literally &quot;Great Joseon State&quot;; also Chosŏn, Choson, Chosun) was a Korean kingdom founded by Yi Seonggye that lasted for approximately five centuries, from July 1392 to October 1897. It was officially renamed the Korean Empire in October 1897. It was founded following the aftermath of the overthrow of Goryeo in what is today the city of Kaesong. Early on, Korea was retitled and the capital was relocated to modern-day Seoul. The kingdom&#39;s northernmost borders were expanded to the natural boundaries at the Yalu and Tumen Rivers through the subjugation of the Jurchens. Joseon was the last dynasty of Korea and its longest-ruling Confucian dynasty.</rdfs:comment>
+    <rdfs:comment xml:lang="ja">李氏朝鮮（りしちょうせん、韓国語ハングル表記：이씨조선）は、1392年から1910年にかけて朝鮮半島に存在した国家。朝鮮王朝とも呼ばれる。朝鮮民族国家の最後の王朝で、現在までのところ朝鮮半島における最後の統一国家でもある。李朝（りちょう）ともいう（「李王朝」の意）。高麗の次の王朝にあたる。 1392年に高麗の武将李成桂太祖（女真族ともいわれる）が恭譲王を廃して、自ら高麗王に即位したことで成立した。李成桂は翌1393年に中国の明から権知朝鮮国事（朝鮮王代理、実質的な朝鮮王の意味）に封ぜられた。朝鮮という国号は李成桂が明の皇帝朱元璋から下賜されたものであり、明から正式に朝鮮国王として冊封を受けたのは太宗の治世の1401年であった。中国の王朝が明から清に変わった17世紀以降も、引き続き李氏朝鮮は中国王朝の冊封体制下にあった。</rdfs:comment>
+    <rdfs:comment xml:lang="ar">جوسون أو تشوسون أو سلالة إي هي مملكة كورية أسسها الجنرال إي سونگ گي المعروف باسم الملك تايجو في سنة 1392 في أعقاب سقوط گوريو واستمرت لخمسة قرون حتى أعلن آخر ملوكها الملك گوجونگ تحويلها إلى إمبراطورية عرفت باسم إمبراطورية كوريا وذلك في سنة 1897. تأسست المملكة بعد أن أطاح تايجو بمملكة گوريو السابقة ونقل العاصمة إلى مدينة هانيانگ.() ساهم ملوك المملكة فيما بعد بتوسيع حدودها حتى وصلت إلى نهر يالو() ونهر تومين وذلك بعد إخضاع شعب الجورشن. مملكة جوسون هي آخر ممالك كوريا والتي اتخذت التعاليم الكونفشيوسية نظاماً للحكم وللمجتمع.</rdfs:comment>
+    <rdfs:comment xml:lang="it">Joseon, Chosŏn, anche Chosun (조선?, 朝鮮?, RR: Joseon, McCune-Reischauer: ChosŏnLR), fu uno stato sovrano fondato da Taejo Yi Seong-gye nella moderna Corea, e guidato per circa cinque secoli dall&#39;omonima dinastia. Venne fondato in seguito alla caduta del regno Goryeo nella moderna città di Kaesong. La capitale venne spostata a Seul e i confini del regno vennero spostati al limite naturale dei fiumi Amnok e Duman. La dinastia Joseon fu l&#39;ultima dinastia imperiale della Corea. Fu il più lungo governo di una dinastia confuciana. Dopo la dichiarazione dell&#39;Impero coreano nel 1897, la dinastia si concluse con l&#39;annessione giapponese nel 1910.</rdfs:comment>
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Joseon_Dynasty_politics" />
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Joseon_white_porcelain" />
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Science" />
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Korea" />
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/List_of_Joseon_monarchs" />
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/First_Manchu_invasion_of_Korea" />
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/House_of_Yi" />
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Technology" />
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.01vz08" />
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Joseon" />
+    <owl:sameAs rdf:resource="http://nl.dbpedia.org/resource/Joseondynastie" />
+    <owl:sameAs rdf:resource="http://es.dbpedia.org/resource/Dinastía_Joseon" />
+    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/Joseon-Dynastie" />
+    <owl:sameAs rdf:resource="http://yago-knowledge.org/resource/Joseon" />
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q28179" />
+    <owl:sameAs rdf:resource="http://ja.dbpedia.org/resource/李氏朝鮮" />
+    <owl:sameAs rdf:resource="http://fr.dbpedia.org/resource/Période_Joseon" />
+    <owl:sameAs rdf:resource="http://pl.dbpedia.org/resource/Joseon" />
+    <owl:sameAs rdf:resource="http://it.dbpedia.org/resource/Joseon" />
+    <owl:sameAs rdf:resource="http://cs.dbpedia.org/resource/Dynastie_Čoson" />
+    <owl:sameAs rdf:resource="http://ko.dbpedia.org/resource/조선" />
+    <owl:sameAs rdf:resource="http://id.dbpedia.org/resource/Dinasti_Joseon" />
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q28179" />
+    <owl:sameAs rdf:resource="http://pt.dbpedia.org/resource/Dinastia_Joseon" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:House_of_Yi" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:1897_disestablishments_in_Asia" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:States_and_territories_disestablished_in_1897" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:States_and_territories_established_in_1392" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:1392_establishments_in_Asia" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Korean_royalty" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Joseon_Dynasty" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Former_countries_in_Korean_history" />
+    <dbo:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">324222</dbo:wikiPageID>
+    <dbo:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">743976335</dbo:wikiPageRevisionID>
+    <dbo:wikiPageExternalLink rdf:resource="http://english.chosun.com/w21data/html/news/200601/200601270013.html" />
+    <dbo:wikiPageExternalLink rdf:resource="https://muse.jhu.edu/article/589236#f12" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.jstor.org/stable/41485331." />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.jstor.org/stable/41490257." />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.bennettsfineart.com/lee%20dynasty.htm" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.royalcity.or.kr/" />
+    <dbo:wikiPageExternalLink rdf:resource="http://myhome.shinbiro.com/~mss1/choson.html" />
+    <dbo:wikiPageExternalLink rdf:resource="http://nongae.gsnu.ac.kr/~mirkoh/ob1.html" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.sungjinyang.com/history/hermit.html" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.jstor.org/stable/23718933." />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.jstor.org/stable/23720024." />
+    <dbo:wikiPageExternalLink rdf:resource="https://muse.jhu.edu/article/589236#f11" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.instrok.org/instrok/lesson1/page01.html?thisChar=4" />
+    <dbo:wikiPageExternalLink rdf:resource="http://english.chosun.com/w21data/html/news/200501/200501120024.html" />
+    <foaf:name xml:lang="en">Kingdom of Joseon</foaf:name>
+    <foaf:name xml:lang="en">Joseon</foaf:name>
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#float">37.5333</geo:lat>
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#float">126.983</geo:long>
+    <foaf:depiction rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Flag_of_Korea_1882.svg" />
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Joseon" />
+    <geo:geometry rdf:datatype="http://www.openlinksw.com/schemas/virtrdf#Geometry">POINT(126.98332977295 37.533332824707)</geo:geometry>
+    <dbo:thumbnail rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Flag_of_Korea_1882.svg?width=300" />
+    <prov:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Joseon?oldid=743976335" />
+    <dbo:abstract xml:lang="en">The Kingdom of Joseon (Chosŏn&#39;gŭl: 대조선국; hancha: 大朝鮮國, literally &quot;Great Joseon State&quot;; also Chosŏn, Choson, Chosun) was a Korean kingdom founded by Yi Seonggye that lasted for approximately five centuries, from July 1392 to October 1897. It was officially renamed the Korean Empire in October 1897. It was founded following the aftermath of the overthrow of Goryeo in what is today the city of Kaesong. Early on, Korea was retitled and the capital was relocated to modern-day Seoul. The kingdom&#39;s northernmost borders were expanded to the natural boundaries at the Yalu and Tumen Rivers through the subjugation of the Jurchens. Joseon was the last dynasty of Korea and its longest-ruling Confucian dynasty. During its reign, Joseon encouraged the entrenchment of Chinese Confucian ideals and doctrines in Korean society. Neo-Confucianism was installed as the new dynasty&#39;s state ideology. Buddhism was accordingly discouraged and occasionally faced persecutions by the dynasty. Joseon consolidated its effective rule over the territory of current Korea and saw the height of classical Korean culture, trade, science, literature, and technology. However, the dynasty was severely weakened during the late 16th and early 17th centuries, when the Japanese invasions of Korea (1592–98) and the first and second Manchu invasions of 1636 nearly overran the Korean Peninsula, leading to an increasingly harsh isolationist policy for which the country became known as the &quot;hermit kingdom&quot;. After the end of invasions from Manchuria, Joseon experienced a nearly 200-year period of peace. However, whatever power the kingdom recovered during its isolation further waned as the 18th century came to a close, and faced with internal strife, power struggles, international pressure and rebellions at home, the Joseon dynasty declined rapidly in the late 19th century. The Joseon period has left a substantial legacy to modern Korea; much of modern Korean culture, etiquette, norms, and societal attitudes towards current issues, and the modern Korean language and its dialects derive from the culture and traditions of Joseon.</dbo:abstract>
+    <dbo:abstract xml:lang="ar">جوسون أو تشوسون أو سلالة إي هي مملكة كورية أسسها الجنرال إي سونگ گي المعروف باسم الملك تايجو في سنة 1392 في أعقاب سقوط گوريو واستمرت لخمسة قرون حتى أعلن آخر ملوكها الملك گوجونگ تحويلها إلى إمبراطورية عرفت باسم إمبراطورية كوريا وذلك في سنة 1897. تأسست المملكة بعد أن أطاح تايجو بمملكة گوريو السابقة ونقل العاصمة إلى مدينة هانيانگ.() ساهم ملوك المملكة فيما بعد بتوسيع حدودها حتى وصلت إلى نهر يالو() ونهر تومين وذلك بعد إخضاع شعب الجورشن. مملكة جوسون هي آخر ممالك كوريا والتي اتخذت التعاليم الكونفشيوسية نظاماً للحكم وللمجتمع. اتخذ ملوك جوسون نظام الملكية المطلقة للحكم، بالإضافة إلى ذلك فقد استوردوا الثقافة الصينية وكيفوها لتناسب مجتمعهم، كما أصبحت الثقافة الكورية الكلاسيكية والتجارة والعلوم والأدبيات والتقنيات في أوجها. تعرضت المملكة لاحقاً في القرنين السادس والسابع عشر إلى عدد من الغزوات من جارتيها اليابان وتشينگ واللتان سيطرتا على أجزاء من شبه الجزيرة أدت في النهاية إلى سياسة انعزالية شديدة لتصبح جوسون تسمى في ذلك الوقت باسم مملكة الراهب.() شهدت الفترة التي تلت الحروب مع تشينگ فترة سلام امتدت لمئتي سنة. رغم كل ما استعادته المملكة من القوة أثناء عزلتها إلا أنها واجهت العديد من الاضطرابات الداخلية والصراعات على السلطة بالإضافة للضغط الدولي والتمردات في أنحاء البلاد. عانت جوسون في نهايات القرن التاسع عشر وكانت في حالة ضعف شديد. تركت مملكة جوسون تراثاً عظيما لكوريا الحديثة مثل: الأدبيات الكورية الحديثة، والأعراف الثقافية، والمواقف الاجتماعية تجاه القضايا الحالية، ونظام كتابة اللغة الكورية المعروف بالهانگل، ولهجات اللغة الكورية المختلفة التي نشأت من ثقافة وتقاليد جوسون.</dbo:abstract>
+    <dbo:abstract xml:lang="ja">李氏朝鮮（りしちょうせん、韓国語ハングル表記：이씨조선）は、1392年から1910年にかけて朝鮮半島に存在した国家。朝鮮王朝とも呼ばれる。朝鮮民族国家の最後の王朝で、現在までのところ朝鮮半島における最後の統一国家でもある。李朝（りちょう）ともいう（「李王朝」の意）。高麗の次の王朝にあたる。 1392年に高麗の武将李成桂太祖（女真族ともいわれる）が恭譲王を廃して、自ら高麗王に即位したことで成立した。李成桂は翌1393年に中国の明から権知朝鮮国事（朝鮮王代理、実質的な朝鮮王の意味）に封ぜられた。朝鮮という国号は李成桂が明の皇帝朱元璋から下賜されたものであり、明から正式に朝鮮国王として冊封を受けたのは太宗の治世の1401年であった。中国の王朝が明から清に変わった17世紀以降も、引き続き李氏朝鮮は中国王朝の冊封体制下にあった。 1894年の日清戦争後に日本と清国との間で結ばれた下関条約は李氏朝鮮に清王朝を中心とした冊封体制からの離脱と近代国家としての独立を形式的かつ実質的にもたらした。これにより李氏朝鮮は1897年に国号を大韓帝国（だいかんていこく）、君主の号を皇帝と改め、以後日本の影響下に置かれた。大韓帝国の国家主権は事実上、冊封体制下における清朝から日本へと影響を受ける主体が変化するものであった。1904年の第一次日韓協約で日本人顧問が政府に置かれ、翌1905年第二次日韓協約によって日本の保護国となり、1907年の第三次日韓協約によって内政権を移管した。こうした過程を経て1910年8月の「韓国併合ニ関スル条約」調印によって大韓帝国は日本に併合され、朝鮮民族の国家は消滅した。</dbo:abstract>
+    <dbo:abstract xml:lang="ru">Чосон (кор. 조선) — название Кореи с 1392 до 1897 года. В этот период страной правила династия Ли. Официальное название — Государство Великий Чосон (кор. 대조선국 Тэджосон-гук), название с 1897 до 1910 года — Корейская империя (кор. 대한제국 Тэхан чегук). Официально была основана Ли Сонге (далее известный как король Тхэджо), воеводой, известным своей борьбой против японских пиратов, совершавших набеги на полуостров. Позднее генерал Ли поднял восстание против последнего короля династии Корё. Название Чосон происходит от Древнего Чосона, корейского государства, основанного по легенде в 2333 году до н. э. Длившееся 518 лет правление династии закончилось после аннексии Кореи Японией в 1910 году.</dbo:abstract>
+    <dbo:abstract xml:lang="pl">Joseon (także: Korea dynastii Joseon, Chosŏn, Choson, Chosun, Cho-sen, kor. 조선, hanja: 朝鮮) – koreańskie państwo rządzone przez dynastię Yi, zapoczątkowaną przez króla Taejo Yi Seong-gye. Państwo Joseon istniało przez prawie pięć wieków, od 1392 do 1897 roku. Członkowie dynastii Yi rządzili Koreą jako cesarze także od 1897 do 1910 roku, gdy Japonia dokonała aneksji Korei, pozbawiając ją niepodległości. Powstanie państwa poprzedził upadek istniejącego od 918 do 1392 państwa Goryeo. Do przejęcia władzy przez dynastię Yi doszło w ówczesnej stolicy państwa koreańskiego, w należącym obecnie do Korei Północnej Kaesŏngu (ówczesny Gaegyeong). Po powstaniu państwa Joseon stolicę przeniesiono w miejsce, gdzie obecnie znajduje się stolica Korei Południowej, Seul (wówczas miasto nosiło nazwę Hanseong). Północna granica królestwa sięgała rzek Amnok oraz Tumen. Tym samym znajdowała się mniej więcej w miejscu współczesnej granicy KRLD i Chin. Dynastia Joseon była ostatnią dynastią rządzącą Koreą i najdłużej w historii rządzącą dynastią o charakterze konfucjańskim. Podczas panowania dynastii Joseon udało jej się skonsolidować władzę na terytorium całego Półwyspu Koreańskiego, dynastia wprowadziła także i utrwalała ideały filozofii konfucjanizmu w koreańskim społeczeństwie, zaadoptowała wiele elementów kultury chińskiej i doprowadziła do rozkwitu klasycznej koreańskiej kultury, nauki, techniki, handlu i literatury. Na przestrzeni dziejów losy państwa dynastii Joseon toczyły się często bardzo dramatycznie, szczególnie w XVI i XVII wieku, gdy Korea padła ofiarą obcych inwazji ze strony Cesarstwa Japońskiego i Mandżurów z dynastii Qing. Wojny z najeźdźcami doprowadziły do wprowadzenia polityki izolacjonizmu Korei na arenie międzynarodowej, co przyczyniło się do określania Korei w opisach zachodnich podróżników i historyków jako „pustelnicze królestwo” (ang. Hermit Kingdom). Mimo uspokojenia konfliktów z sąsiadami, izolowane od otoczenia międzynarodowego państwo koreańskie w XVIII i XIX wieku było nękane wieloma niepokojami wewnętrznymi. Problemem królestwa były szczególnie walki o władzę na dworze królewskim między rządzącymi klanami i koteriami urzędników a także niepokoje społeczne, niekiedy skutkujące powstaniami, które wybuchały w Korei w XIX wieku. Wtedy również obce mocarstwa zaczęły naciskać na Koreę, by otworzyła się na świat zewnętrzny. Wszystkie te zjawiska doprowadziły do osłabienia władzy królewskiej w państwie Joseon i ostatecznie do upadku królestwa, do czego w II połowie XIX i na początku XX wieku doprowadzili Japończycy. Wiele tworzących ówczesną koreańską kulturę elementów, które pojawiły się w Korei w czasach dynastii Joseon, ma duży wpływ na kulturę współczesnej Korei – szczególnie zasady dotyczące etykiety, norm kulturowych i stosunków społecznych.</dbo:abstract>
+    <dbo:abstract xml:lang="de">Die Joseon-Dynastie, auch Yi-Dynastie genannt und in der Literatur auch unter Chosŏn-Dynastie zu finden, war ein Herrschergeschlecht, das von 1392 mit Beginn Joseons bis zum Ende des Kaiserreichs Korea 1910 über mehr als 500 Jahre Korea regierte. Joseon und die Joseon-Dynastie gingen aus dem Umbruch der Staatsorganisation und -herrschaft Goryeos hervor, welche vom Aufbau und der Entwicklung einer vormodernen Gesellschaft geprägt war.</dbo:abstract>
+    <dbo:abstract xml:lang="pt">A Dinastia Joseon (1392 - 1897) (também Chosŏn, Choson, Chosun), foi um estado coreano fundado por Taejo Yi Seong-gye que durou cerca de cinco séculos. Foi fundado na sequência da derrubada da dinastia Goryeo, no que é atualmente a cidade de Kaesong. Logo no início, a Coreia foi renomeada e a capital foi transferida para a moderna e atual Seul. As fronteiras ao norte do reino foram expandidas para os limites naturais dos rios Amnok e Duman, através da submissão dos Jurchens. Joseon foi a última dinastia da história da Coreia e a mais longa dinastia confucionista no domínio. Durante seu reinado, Joseon consolidou o seu domínio absoluto sobre a Coreia, incentivou o fortalecimento dos ideais confucionistas e doutrinas na sociedade coreana, importou e adaptou a cultura chinesa, e viu o tamanho da cultura coreana clássica, comércio, ciência, literatura e tecnologia. No entanto, a dinastia foi severamente enfraquecida durante o final do Século XVI e início do Século XVII, quando as invasões pelos vizinhos Japão e Qing praticamente ultrapassaram a península, levando a uma política cada vez mais dura de isolamento, pelo qual o país se tornou conhecido como o Reino Eremita. Após as invasões da Manchúria, Joseon experimentou um período de aproximadamente 200 anos de paz.</dbo:abstract>
+    <dbo:abstract xml:lang="nl">De Joseondynastie (ook wel Chosondynastie genoemd) is een periode uit de Koreaanse geschiedenis die duurde van 1392 tot 1897. De gehele Joseondynastie bestrijkt een periode van ruim 500 jaar en is daarmee de langst durende dynastie uit de wereldgeschiedenis. De Joseondynastie is zeer bepalend geweest voor alles wat we nu kennen als Koreaans. Ze bepaalt nog steeds grotendeels het gezicht van de hedendaagse Korea’s. Dit is merkbaar in alledaagse zaken zoals normen en waarden, etiquette, taalgebruik en hoe men functioneert in de samenleving. De Koninklijke tombes van de Joseondynastie staan sinds 2009 als cultuurerfgoed op de Werelderfgoedlijst van UNESCO</dbo:abstract>
+    <dbo:abstract xml:lang="es">La dinastía Joseon (hangul: 조선, hanja: 朝鮮, romanización revisada: Joseon, McCune-Reischauer: Chosŏn)? (también conocida como Chosŏn, Choson, Chosun, Cho-sen) fue la última dinastía y una de las más largas de Corea (1392–1910). Al establecerla, Hanyang (actual Seúl) se eligió como la capital, por lo tanto hoy en día el Gyeongbokgung (Palacio Gyeongbok) y el Jongmyo se encuentran en Seúl. La gran parte de cultura que se presenta actualmente como la tradicional de Corea se elaboraba en esta época. Especialmente la letra coreana, Hangeul, fue creada por el cuarto rey de Joseon, Sejong. Las influencias filosóficas chinas aparecieron en esta época de manera que el Neoconfucianismo fue adoptado como la ideología del estado y la sociedad. A finales del siglo XVI y principios del XVII, Corea sufrió invasiones por parte de los japoneses y los manchúes. Muchos capitales culturales se perdieron y le tomó cerca de un siglo al país recuperarse. Antes de finalizar el siglo XIX, las potencias extranjeras de nuevo pusieron en peligro a Corea; siendo anexionada por Japón en 1910. Durante la dinastía Joseon se creó la escritura alfabética coreana Hangul y se estableció la yangban, una nueva aristocracia.</dbo:abstract>
+    <dbo:abstract xml:lang="fr">Période Joseon 대조선국 (ko) 1392 – 1897 Fichier:Locator map of Korea.svg La Corée sous les Joseon Entités précédentes : 
+* Goryeo Entités suivantes : 
+* Empire coréen La période Joseon est la période de l&#39;histoire de la Corée au cours de laquelle le pays fut gouverné par la dynastie Joseon (autres romanisations possibles : Choseon, Choson ou Chosŏn), parfois appelée dynastie Yi, une dynastie de rois coréens qui occupa le trône de 1392 à 1910. La dynastie Joseon fut fondée en 1392 par le général coréen Yi Seonggye, qui renversa le royaume de Goryeo et mit fin du même coup à la période de domination mongole qui durait depuis 1259. Le nom dynastie Yi vient donc du nom de son fondateur, mais l&#39;appellation courante en Corée est période Joseon (조선 시대). Durant la période Joseon, une administration centralisée est mise en place, le confucianisme revient en force (on parle de néo-confucianisme), et avec lui, un nouveau système de valeurs. La dynastie Joseon a également connu deux grandes périodes de prospérité, pendant lesquelles la culture connut un grand essor. Les Coréens firent de nombreuses découvertes à cette époque, comme le premier cadran solaire oriental, et la première horloge hydraulique. La première presse à imprimer utilisant des caractères en métal fut inventée sous la dynastie Joseon. La dynastie construisit plusieurs forteresses, des ports de commerce et de somptueux palais. Elle mit en place une réforme agraire, mais fut victime de troubles de successions et de luttes de factions.</dbo:abstract>
+    <dbo:abstract xml:lang="it">Joseon, Chosŏn, anche Chosun (조선?, 朝鮮?, RR: Joseon, McCune-Reischauer: ChosŏnLR), fu uno stato sovrano fondato da Taejo Yi Seong-gye nella moderna Corea, e guidato per circa cinque secoli dall&#39;omonima dinastia. Venne fondato in seguito alla caduta del regno Goryeo nella moderna città di Kaesong. La capitale venne spostata a Seul e i confini del regno vennero spostati al limite naturale dei fiumi Amnok e Duman. La dinastia Joseon fu l&#39;ultima dinastia imperiale della Corea. Fu il più lungo governo di una dinastia confuciana. Dopo la dichiarazione dell&#39;Impero coreano nel 1897, la dinastia si concluse con l&#39;annessione giapponese nel 1910.</dbo:abstract>
+    <dbo:abstract xml:lang="zh">朝鮮国（韓語：조선국／朝鮮國 Joseon ?，1392年－1897年），韩国稱為朝鮮王朝（韓語：조선왕조／朝鮮王朝 Joseon Wangjo ?），朝鲜称李王朝（韓語：리왕조／李王朝 Ri Wangjo ?）或朝鮮封建王朝（韓語：조선 봉건왕조／朝鮮封建王朝 Joseon Bonggeon Wangjo ?），又稱李氏朝鮮，是朝鲜半岛历史上的最後一個朝代，由原高丽王朝守門下侍中李成桂建立，君主的本贯是全州李氏。其歷经27代君主共五百馀年，国土大体上涵蓋整個朝鮮半島，早期国都最初在开京（今开城），后定都在汉阳（今漢城汉江以北地区）。 1388年，高丽国王王禑派右軍都統使李成桂进攻辽东，欲出兵明朝东北地区。李成桂反对出兵，师至威化岛（云山郡）后回军发动政变，废黜王禑而立其子王昌为王，控制了高麗王朝军政大权。1392年，李成桂废黜恭讓王，在松京（后改名开京，今开城）寿昌宫自立为王，并由明太祖定國號為「朝鲜」（韓語：조선／朝鮮 Joseon ?）。1395年迁都于汉阳，將國都更名為漢城。1398年，第一次王子之乱后再度迁都开京；1400年，第二次王子之乱后最终定都漢城。朝鲜以儒教治國，儒家思想取代佛教成为国家统治理念。世宗大王时期，朝鲜经济、文化、军事、科技等各方面都得到长足发展。谚文的发明也为朝鲜平民的文化普及提供了条件。朝鲜为明朝的不征國之一，被明朝评为“世称恭顺”。16世纪末和17世纪初，朝鲜由于遭到后金和日本的攻击而采取闭关锁国的政策。19世纪开始，朝鲜的内部纷争使国家日益衰落。甲午战争后，朝鲜於1897年結束與清朝的宗藩關係并改国号为大韓帝國。1910年日韩并合後，大韩帝国灭亡，李氏王朝告終。</dbo:abstract>
+    <dbo:capital rdf:resource="http://dbpedia.org/resource/Seoul" />
+    <dbo:currency rdf:resource="http://dbpedia.org/resource/Korean_mun" />
+    <dbo:currency rdf:resource="http://dbpedia.org/resource/Korean_yang" />
+    <dbo:dissolutionDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1897-10-12</dbo:dissolutionDate>
+    <dbo:dissolutionYear rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1897</dbo:dissolutionYear>
+    <dbo:foundingDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1392-07-17</dbo:foundingDate>
+    <dbo:foundingYear rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1392</dbo:foundingYear>
+    <georss:point>37.53333333333333 126.98333333333333</georss:point>
+    <dbp:commonLanguages rdf:resource="http://dbpedia.org/resource/Korean_language" />
+    <dbp:context rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">north</dbp:context>
+    <dbp:continent rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Asia</dbp:continent>
+    <dbp:country rdf:resource="http://dbpedia.org/resource/North_Korea" />
+    <dbp:country rdf:resource="http://dbpedia.org/resource/South_Korea" />
+    <dbp:date rdf:datatype="http://www.w3.org/2001/XMLSchema#gMonthDay">--08-22</dbp:date>
+    <dbp:dateEnd rdf:datatype="http://www.w3.org/2001/XMLSchema#gMonthDay">--10-12</dbp:dateEnd>
+    <dbp:dateEvent rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1446-10-09</dbp:dateEvent>
+    <dbp:dateEvent rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1876-02-27</dbp:dateEvent>
+    <dbp:dateEvent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">16271636</dbp:dateEvent>
+    <dbp:dateEvent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1592</dbp:dateEvent>
+    <dbp:datePre rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1388-05-20</dbp:datePre>
+    <dbp:dateStart rdf:datatype="http://www.w3.org/2001/XMLSchema#gMonthDay">--07-17</dbp:dateStart>
+    <dbp:deputy rdf:resource="http://dbpedia.org/resource/Ryu_Seong-ryong" />
+    <dbp:deputy rdf:resource="http://dbpedia.org/resource/Hwang_Hui" />
+    <dbp:deputy rdf:resource="http://dbpedia.org/resource/Chae_Jegong" />
+    <dbp:deputy rdf:resource="http://dbpedia.org/resource/Jeong_Do-jeon" />
+    <dbp:era rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Early modern period</dbp:era>
+    <dbp:event rdf:resource="http://dbpedia.org/resource/Second_Manchu_invasion_of_Korea" />
+    <dbp:event rdf:resource="http://dbpedia.org/resource/Japan–Korea_Treaty_of_1910" />
+    <dbp:event rdf:resource="http://dbpedia.org/resource/Japan–Korea_Treaty_of_1876" />
+    <dbp:event rdf:resource="http://dbpedia.org/resource/Hangul" />
+    <dbp:event rdf:resource="http://dbpedia.org/resource/Japanese_invasions_of_Korea_(1592–98)" />
+    <dbp:eventEnd rdf:resource="http://dbpedia.org/resource/Korean_Empire" />
+    <dbp:eventPre rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Coup of 1388</dbp:eventPre>
+    <dbp:eventStart rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Coronation of Taejo</dbp:eventStart>
+    <dbp:flag rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">List of Korean flags</dbp:flag>
+    <dbp:flagBorder rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">no</dbp:flagBorder>
+    <dbp:flagS rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Flag of Korea 1882.svg</dbp:flagS>
+    <dbp:flagType rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Royal standard</dbp:flagType>
+    <dbp:footnotes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</dbp:footnotes>
+    <dbp:governmentType rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Monarchy</dbp:governmentType>
+    <dbp:hangul rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">대조선국</dbp:hangul>
+    <dbp:hanja rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">大朝鮮國</dbp:hanja>
+    <dbp:imageCoat rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Coat of Arms of Joseon Korea.png</dbp:imageCoat>
+    <dbp:imageFlag rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Flag of the king of Joseon.svg</dbp:imageFlag>
+    <dbp:imageMap rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Korea .svg</dbp:imageMap>
+    <dbp:imageMapCaption rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Territory of Joseon after Jurchen conquest of King Sejong</dbp:imageMapCaption>
+    <dbp:imageP rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">32</dbp:imageP>
+    <dbp:latd rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">37</dbp:latd>
+    <dbp:latm rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">32</dbp:latm>
+    <dbp:latns rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">N</dbp:latns>
+    <dbp:leader rdf:resource="http://dbpedia.org/resource/Gojong_of_Korea" />
+    <dbp:leader rdf:resource="http://dbpedia.org/resource/Jeongjo_of_Joseon" />
+    <dbp:leader rdf:resource="http://dbpedia.org/resource/Sejong_the_Great" />
+    <dbp:leader rdf:resource="http://dbpedia.org/resource/Taejo_of_Joseon" />
+    <dbp:longd rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">126</dbp:longd>
+    <dbp:longew rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">E</dbp:longew>
+    <dbp:longm rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">59</dbp:longm>
+    <dbp:p rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Goryeo</dbp:p>
+    <dbp:region rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Korean</dbp:region>
+    <dbp:religion rdf:resource="http://dbpedia.org/resource/Korean_Buddhism" />
+    <dbp:religion rdf:resource="http://dbpedia.org/resource/Korean_shamanism" />
+    <dbp:religion rdf:resource="http://dbpedia.org/resource/Neo-Confucianism" />
+    <dbp:religion rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Christianity</dbp:religion>
+    <dbp:s rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Korean Empire</dbp:s>
+    <dbp:statPop rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">est. 18,960,000</dbp:statPop>
+    <dbp:statYear rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1753</dbp:statYear>
+    <dbp:symbolType rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Royal emblem</dbp:symbolType>
+    <dbp:titleDeputy rdf:resource="http://dbpedia.org/resource/Yeonguijeong" />
+    <dbp:yearDeputy rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1793</dbp:yearDeputy>
+    <dbp:yearDeputy rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1392</dbp:yearDeputy>
+    <dbp:yearDeputy rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1592</dbp:yearDeputy>
+    <dbp:yearDeputy rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1431</dbp:yearDeputy>
+    <dbp:yearLeader rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1776</dbp:yearLeader>
+    <dbp:yearLeader rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1392</dbp:yearLeader>
+    <dbp:yearLeader rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1863</dbp:yearLeader>
+    <dbp:yearLeader rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1418</dbp:yearLeader>
+    <ns10:hypernym rdf:resource="http://dbpedia.org/resource/Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lyuh_Woon-hyung">
+    <dbo:nationality rdf:resource="http://dbpedia.org/resource/Joseon" />
+    <dbo:stateOfOrigin rdf:resource="http://dbpedia.org/resource/Joseon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Laurent-Joseph-Marius_Imbert">
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Joseon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Misin_tapa_undong">
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Joseon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hong_Dae-yong">
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Joseon" />
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Joseon" />
+    <dbp:nationality rdf:resource="http://dbpedia.org/resource/Joseon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Joseon_(disambiguation)">
+    <dbo:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/Joseon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Keijō_Imperial_University">
+    <dbo:country rdf:resource="http://dbpedia.org/resource/Joseon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Korean_Seon">
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Joseon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Turtle_ship">
+    <dbp:operators rdf:resource="http://dbpedia.org/resource/Joseon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sunjong_of_Korea">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Joseon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Pak_Chesoon">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Joseon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/United_States_expedition_to_Korea">
+    <dbo:place rdf:resource="http://dbpedia.org/resource/Joseon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ham_Tae-young">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Joseon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Park_Ji-won">
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Joseon" />
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Joseon" />
+    <dbp:nationality rdf:resource="http://dbpedia.org/resource/Joseon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ch&#39;ao-hsien">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Joseon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Chaoxian">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Joseon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Cháoxian">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Joseon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Cosen">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Joseon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tyosen">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Joseon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yun_Posun">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Joseon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Battle_of_Pyongyang_(1894)">
+    <dbo:place rdf:resource="http://dbpedia.org/resource/Joseon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/An_Jung-geun">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Joseon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Danjong_of_Joseon">
+    <dbp:deathPlace rdf:resource="http://dbpedia.org/resource/Joseon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Queen_Munjeong">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Joseon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Choseon">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Joseon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Choseon_Dynasty">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Joseon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Joseon_dynasty">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Joseon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lady_Hyegyeong">
+    <dbp:dynasty rdf:resource="http://dbpedia.org/resource/Joseon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Chosun">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Joseon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Fortress_site_of_Gyeongsang_Jwasuyeong">
+    <dbo:builder rdf:resource="http://dbpedia.org/resource/Joseon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ri_Dynasty">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Joseon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Josun">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Joseon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kingdom_of_Joseon">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Joseon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Chosun_Dinasty">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Joseon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Empress_Sunjeong">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Joseon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jeong_Seon">
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Joseon" />
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Joseon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yi_Kang">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Joseon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yi_Un">
+    <dbp:line rdf:resource="http://dbpedia.org/resource/Joseon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Heo_Jeong">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Joseon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Heungseon_Daewongun">
+    <dbp:house rdf:resource="http://dbpedia.org/resource/Joseon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jang-geum">
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Joseon" />
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Joseon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Joseon_Navy">
+    <dbo:country rdf:resource="http://dbpedia.org/resource/Joseon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yi_Won">
+    <dbp:line rdf:resource="http://dbpedia.org/resource/Joseon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lee_dynasty">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Joseon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Cheonseongjinseong">
+    <dbo:builder rdf:resource="http://dbpedia.org/resource/Joseon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hyujeong">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Joseon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kim_Seong-su">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Joseon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Empress_Myeongseong">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Joseon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Choson">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Joseon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Chunseong">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Joseon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lee_Hoe-yeong">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Joseon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yi_Wi-jong">
+    <dbp:birthPlace rdf:resource="http://dbpedia.org/resource/Joseon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Joseon_Korea">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Joseon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/朝鮮">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Joseon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Memoirs_of_Lady_Hyegyeong">
+    <dbp:placeOfOrigin rdf:resource="http://dbpedia.org/resource/Joseon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Joseon_era">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Joseon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Choseon_dynasty">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Joseon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Chosŏn_dynasty">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Joseon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Chosôn_dynasty">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Joseon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Choson_Wangjo">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Joseon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Joseon_Dynasty">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Joseon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kingdom_of_Corea">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Joseon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Royal_Corea">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Joseon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Royal_Korea">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Joseon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Corea_in_the_19th_century">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Joseon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Corea_in_the_long_19th_century">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Joseon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Corea_in_the_long_nineteenth_century">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Joseon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Corea_in_the_nineteenth_century">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Joseon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Early_modern_Corea">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Joseon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Early_modern_Korea">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Joseon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Korea_in_the_19th_century">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Joseon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Korea_in_the_long_19th_century">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Joseon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Korea_in_the_long_nineteenth_century">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Joseon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Korea_in_the_nineteenth_century">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Joseon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Monarchy_in_Corea">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Joseon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Monarchy_in_Korea">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Joseon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Monarchy_of_Corea">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Joseon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Monarchy_of_Korea">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Joseon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Joseon">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Joseon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kingdom_of_Korea">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Joseon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/朝鮮國">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Joseon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/조선국">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Joseon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kingdom_of_Choson">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Joseon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Great_Joseon_State">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Joseon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/大朝鮮國">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Joseon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/대조선국">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Joseon" />
+  </rdf:Description>
+</rdf:RDF>

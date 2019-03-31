@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:dbo="http://dbpedia.org/ontology/"
+	xmlns:dct="http://purl.org/dc/terms/"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	xmlns:prov="http://www.w3.org/ns/prov#"
+	xmlns:dbp="http://dbpedia.org/property/"
+	xmlns:georss="http://www.georss.org/georss/"
+	xmlns:ns10="http://purl.org/linguistics/gold/" >
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Suez_Crisis">
+    <dbo:place rdf:resource="http://dbpedia.org/resource/Suez_Canal" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yom_Kippur_War">
+    <dbo:place rdf:resource="http://dbpedia.org/resource/Suez_Canal" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/John_Robinson_McClean">
+    <dbo:significantProject rdf:resource="http://dbpedia.org/resource/Suez_Canal" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Operation_Rimon_20">
+    <dbo:place rdf:resource="http://dbpedia.org/resource/Suez_Canal" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Suez_Channel">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Suez_Canal" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Canal_derby">
+    <dbp:cityOrRegion rdf:resource="http://dbpedia.org/resource/Suez_Canal" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/New_Suez_Canal">
+    <dbo:riverBranchOf rdf:resource="http://dbpedia.org/resource/Suez_Canal" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/John_Hawkshaw">
+    <dbp:significantDesign rdf:resource="http://dbpedia.org/resource/Suez_Canal" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sumed_pipeline">
+    <dbp:par rdf:resource="http://dbpedia.org/resource/Suez_Canal" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ahmed_Hamdi">
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Suez_Canal" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Operation_Abirey-Halev">
+    <dbo:place rdf:resource="http://dbpedia.org/resource/Suez_Canal" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/39th_Infantry_Brigade_(United_Kingdom)">
+    <dbo:battle rdf:resource="http://dbpedia.org/resource/Suez_Canal" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nile_Canal">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Suez_Canal" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Battle_of_Ismailia">
+    <dbo:place rdf:resource="http://dbpedia.org/resource/Suez_Canal" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Great_Bitter_Lake">
+    <dbo:inflow rdf:resource="http://dbpedia.org/resource/Suez_Canal" />
+    <dbo:outflow rdf:resource="http://dbpedia.org/resource/Suez_Canal" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Egypt&#39;s_Canal_Zone">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Suez_Canal" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Suez_Canal">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/BodyOfWater" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Place" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Location" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Artifact100021939" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Object100002684" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PhysicalEntity100001930" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatCanalsInEgypt" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatShipCanals" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/ShipCanal104196337" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoPermanentlyLocatedEntity" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoGeoEntity" />
+    <rdf:type rdf:resource="http://schema.org/Canal" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Stream" />
+    <rdf:type rdf:resource="http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing" />
+    <rdf:type rdf:resource="http://schema.org/BodyOfWater" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/NaturalPlace" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatCanals" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Whole100003553" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Canal102947212" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Watercourse104559275" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Canal" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Way104564698" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q47521" />
+    <rdf:type rdf:resource="http://schema.org/Place" />
+    <rdfs:label xml:lang="nl">Suezkanaal</rdfs:label>
+    <rdfs:label xml:lang="ru">Суэцкий канал</rdfs:label>
+    <rdfs:label xml:lang="ja">スエズ運河</rdfs:label>
+    <rdfs:label xml:lang="pt">Canal de Suez</rdfs:label>
+    <rdfs:label xml:lang="de">Sueskanal</rdfs:label>
+    <rdfs:label xml:lang="ar">قناة السويس</rdfs:label>
+    <rdfs:label xml:lang="zh">苏伊士运河</rdfs:label>
+    <rdfs:label xml:lang="fr">Canal de Suez</rdfs:label>
+    <rdfs:label xml:lang="pl">Kanał Sueski</rdfs:label>
+    <rdfs:label xml:lang="es">Canal de Suez</rdfs:label>
+    <rdfs:label xml:lang="it">Canale di Suez</rdfs:label>
+    <rdfs:label xml:lang="en">Suez Canal</rdfs:label>
+    <rdfs:comment xml:lang="zh">蘇伊士運河（阿拉伯语：قناة السويس Qanā al-Suways，又譯蘇彝士運河）处于埃及西奈半岛西侧，横跨在亞洲、非洲交界處的苏伊士地峡，頭尾則在地中海侧的塞德港和红海苏伊士湾侧的苏伊士两座城市之间，全长约163公里，是全球少數具備大型商船通行能力的無船閘運河。 这条运河連結了欧洲与亚洲之间的南北双向水运，船隻不必绕过非洲南端的好望角，大大节省航程。以從英国伦敦港或法国马赛港到印度孟买港的航行為例，穿過苏伊士运河比绕道好望角可缩短至少43%的航程距離(約7000公里)。在苏伊士运河开通之前，有时人们透過从船上卸下货物通过陆运的方法，在地中海和红海之间运输。 运河当前由埃及的苏伊士运河管理局拥有和管理。由於戰略位置極重要，根据国际协定，“运河在战时也可像和平时期一样，可以被任何商用或军用船只使用而无需悬挂区别旗帜。”</rdfs:comment>
+    <rdfs:comment xml:lang="ru">К:Водные объекты по алфавиту Суэ́цкий кана́л (араб.  قناة السويس‎, Канат эс-Сувайс) — бесшлюзовый судоходный канал в Египте, соединяющий Средиземное и Красное моря. Зона канала считается условной границей между двумя материками, Африкой и Евразией. Кратчайший водный путь между Индийским океаном и акваторией Средиземного моря Атлантического океана (альтернативный маршрут протяжённее на 8 тыс. км). Суэцкий канал был открыт для судоходства 17 ноября 1869 года. Главные порты: Порт-Саид и Суэц.</rdfs:comment>
+    <rdfs:comment xml:lang="nl">Het Suezkanaal (Qanâ el Suweis) is een 193 km lang kanaal in de landengte van Suez in Egypte, geopend in 1869. Het verbindt Port Said (Bûr Sa&#39; îd) aan de Middellandse Zee en Suez aan de Rode Zee en begrenst het schiereiland Sinaï, dat ten oosten ervan ligt. Het is tevens de scheiding tussen Afrika en Azië.</rdfs:comment>
+    <rdfs:comment xml:lang="ja">スエズ運河（スエズうんが、アラビア語:قناة السويس）は、エジプトのスエズ地峡（スエズちきょう）に位置し、地中海と紅海（スエズ湾）を結ぶ、海面と水平な人工運河である。船だけではなく、大東電信会社の電信ケーブルも運河を通った。</rdfs:comment>
+    <rdfs:comment xml:lang="de">Der Sueskanal (auch Suezkanal, arabisch قناة السويس‎, Qanāt as-Suwais) ist ein Schifffahrtskanal in Ägypten zwischen den Hafenstädten Port Said und Port Taufiq bei Sues, der das Mittelmeer über den Isthmus von Sues mit dem Roten Meer verbindet und der Seeschifffahrt zwischen Nordatlantik und Indischem Ozean den Weg um Afrika erspart. Der Kanal bildet die Grenze zwischen Afrika und Asien. Er wurde am 17. November 1869 eröffnet. Seine Länge betrug damals 162,25 km. Seit der 2009 fertiggestellten Vertiefung ist er einschließlich der nördlichen und südlichen Zufahrtskanäle 193,3 km lang. 2015 wurde ein neuer, parallel zum existierenden Kanal verlaufender, rund 37 km langer Kanalabschnitt eröffnet, der die bisherige Strecke begradigt und dadurch (für die eine Fahrtrichtung) etwas verkürzt. Im J</rdfs:comment>
+    <rdfs:comment xml:lang="ar">قناة السويس هي ممر مائي اصطناعي ازدواجي المرور في مصر، يبلغ طولها 193 كم وتصل بين البحرين الأبيض والأحمر، وتنقسم طولياً إلى قسمين شمال وجنوب البحيرات المرّة، وعرضياً إلى ممرين في أغلب أجزائها لتسمح بعبور السفن في اتجاهين في نفس الوقت بين كل من أوروبا وآسيا، وتعتبر أسرع ممر بحري بين القارتين وتوفر نحو 15 يوماً في المتوسط من وقت الرحلة عبر طريق رأس الرجاء الصالح. تعد قناة السويس أحد أهم المجاري البحرية في العالم، حيث بلغت إيرادات القناة في العام المالي (2014 - 2015) نحو 39 مليار جنيه مصري. ويمر عبر القناة ما بين‏ 8%‏ إلي‏ 12% من حجم التجارة العالمية‏.‏</rdfs:comment>
+    <rdfs:comment xml:lang="it">Il template {{Coord}} ha riscontrato degli errori (istruzioni):Modulo:Wikidata:398: attempt to index field &#39;wikibase&#39; (a nil value)Il Canale di Suez (in arabo: قناة السويس‎, Qanāt al-Suways), è un canale artificiale navigabile situato in Egitto, a ovest della penisola del Sinai, tra Porto Said (Bûr Sa&#39;îd) sul mar Mediterraneo e Suez (al-Suways) sul Mar Rosso. Il canale consiste di due tratte, a nord e a sud del Grande Lago Amaro. Il canale venne realizzato dal francese Ferdinando de Lesseps su progetto dell&#39;ingegnere austriaco Luigi Negrelli.</rdfs:comment>
+    <rdfs:comment xml:lang="en">The Suez Canal (Arabic: قناة السويس‎‎ Qanāt al-Suways) is an artificial sea-level waterway in Egypt, connecting the Mediterranean Sea to the Red Sea through the Isthmus of Suez. It was constructed by the Suez Canal Company between 1859 and 1869, after 10 years of construction, it was officially opened on November 17, 1869. The canal offers watercraft a shorter journey between the North Atlantic and northern Indian oceans via the Mediterranean and Red seas by avoiding the South Atlantic and southern Indian oceans, in turn reducing the journey by approximately 7,000 kilometres (4,300 mi). It extends from the northern terminus of Port Said to the southern terminus of Port Tewfik at the city of Suez. Its length is 193.30 km (120.11 mi), including its northern and southern access channels. In 2</rdfs:comment>
+    <rdfs:comment xml:lang="fr"> Pour les articles homonymes, voir Suez. Le canal de Suez est un canal situé en Égypte, long de 193,3 km, large de 280 m à 345 m et profond de 22,5 m, qui relie, via trois lacs naturels, la ville portuaire de Port-Saïd sur la mer Méditerranée et la ville de Suez sur le golfe de Suez (partie septentrionale de la mer Rouge), permettant ainsi de relier les deux mers. Avec l&#39;augmentation du trafic, le canal est devenu la troisième source en devises de l&#39;Égypte. Un blocage du canal entraînerait des pertes d&#39;environ 7 millions de dollars par jour.</rdfs:comment>
+    <rdfs:comment xml:lang="pt">O canal de Suez (em árabe: قناة السويس Qanāt al-Suways) é uma via navegável artificial a nível do mar localizada no Egito, entre o Mediterrâneo e o mar Vermelho. Inaugurado em 17 de novembro de 1869, após 10 anos de construção, permite que navios viajem entre a Europa e a Ásia Meridional sem ter de navegar em torno de África, reduzindo assim a distância da viagem marítima entre o continente europeu e a Índia em cerca de 7 mil quilômetros. Na ponta norte do canal está Porto Said, onde existem duas saídas para o mar; no lado sul está a cidade de Suez, onde há uma saída para o mar. Ismaília está em sua margem oeste, a 3 km a partir da metade do canal. Em 2012, 17 225 navios atravessaram a passagem de Suez, uma média de 47 por dia.</rdfs:comment>
+    <rdfs:comment xml:lang="pl">Kanał Sueski (arab. قناة السويس Qanā al-Suways) – kanał głębokowodny dla statków morskich, w Egipcie, łączący Morze Śródziemne z Morzem Czerwonym, wykopany w latach 1859-1869. Jedna z najważniejszych dróg wodnych świata. W południowej części trasa kanału przebiega przez Jezioro Krokodyli, Wielkie Jezioro Gorzkie i Małe Jezioro Gorzkie.</rdfs:comment>
+    <rdfs:comment xml:lang="es">El canal de Suez (en árabe: قناة السويس)? es una vía artificial de navegación situada en Egipto que une el mar Mediterráneo con el mar Rojo. El canal convirtió a la región del Sinaí en una nueva península, constituyendo la frontera entre los continentes de África y Asia. Su longitud es de 163 km entre Puerto Saíd (en la ribera mediterránea) y Suez (en la costa del mar Rojo). Permite acortar la ruta del comercio marítimo entre Europa y el sur de Asia, pues evita tener que rodear el continente africano.</rdfs:comment>
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Suezmax" />
+    <owl:sameAs rdf:resource="http://sws.geonames.org/347712/" />
+    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/Sueskanal" />
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q899" />
+    <owl:sameAs rdf:resource="http://d-nb.info/gnd/4058518-9" />
+    <owl:sameAs rdf:resource="http://el.dbpedia.org/resource/Διώρυγα_Σουέζ" />
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q899" />
+    <owl:sameAs rdf:resource="http://es.dbpedia.org/resource/Canal_de_Suez" />
+    <owl:sameAs rdf:resource="http://yago-knowledge.org/resource/Suez_Canal" />
+    <owl:sameAs rdf:resource="http://it.dbpedia.org/resource/Canale_di_Suez" />
+    <owl:sameAs rdf:resource="http://sw.cyc.com/concept/Mx4rvViMY5wpEbGdrcN5Y29ycA" />
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Suez_Canal" />
+    <owl:sameAs rdf:resource="http://ko.dbpedia.org/resource/수에즈_운하" />
+    <owl:sameAs rdf:resource="http://pl.dbpedia.org/resource/Kanał_Sueski" />
+    <owl:sameAs rdf:resource="http://fr.dbpedia.org/resource/Canal_de_Suez" />
+    <owl:sameAs rdf:resource="http://id.dbpedia.org/resource/Terusan_Suez" />
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.0783n" />
+    <owl:sameAs rdf:resource="http://nl.dbpedia.org/resource/Suezkanaal" />
+    <owl:sameAs rdf:resource="http://pt.dbpedia.org/resource/Canal_de_Suez" />
+    <owl:sameAs rdf:resource="http://ja.dbpedia.org/resource/スエズ運河" />
+    <owl:sameAs rdf:resource="http://cs.dbpedia.org/resource/Suezský_průplav" />
+    <owl:sameAs rdf:resource="http://eu.dbpedia.org/resource/Suezko_kanala" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Egypt–United_Kingdom_relations" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Geography_of_Egypt" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Cuts_(earthmoving)" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Economy_of_Egypt" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Suez_Canal" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Macro-engineering" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Red_Sea" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Ship_canals" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Canals_in_Egypt" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Canals_opened_in_1869" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:1860s_in_Egypt" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:1869_establishments_in_Egypt" />
+    <dbo:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">29323</dbo:wikiPageID>
+    <dbo:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">743664386</dbo:wikiPageRevisionID>
+    <dbo:wikiPageExternalLink rdf:resource="http://www.mfa.gov.eg/MFA_Portal/en-GB/Foreign_Policy/Treaties/CONVENTION+RESPECTING+THE+FREE+NAVIGATION+OF+THE+SUEZ+MARITIME+CANAL.htm" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.panoramio.com/user/760796/tags/Suez" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.scctportsaid.com/" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.suezcanal.gov.eg/" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.arte.tv/fr/connaissance-decouverte/aventure-humaine/Cette_20semaine/1291022.html" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.livius.org/aa-ac/achaemenians/DZ.html" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.londonancestor.com/newspaper/1882/0708/map-suez.htm" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.londonancestor.com/newspaper/1882/0722/port-said.htm" />
+    <dbo:wikiPageExternalLink rdf:resource="http://geography.howstuffworks.com/africa/the-suez-canal.htm" />
+    <dbo:wikiPageExternalLink rdf:resource="http://lexicorient.com/cgi-bin/eo-direct-frame.pl?http://i-cias.com/e.o/suez_can.htm" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.ppl.nl/index.php?option=com_wrapper&amp;view=wrapper&amp;Itemid=82" />
+    <foaf:name xml:lang="en">Suez Canal</foaf:name>
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#float">30.8282</geo:lat>
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#float">32.3176</geo:long>
+    <foaf:depiction rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/SuezCanal-EO.JPG" />
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Suez_Canal" />
+    <geo:geometry rdf:datatype="http://www.openlinksw.com/schemas/virtrdf#Geometry">POINT(32.317573547363 30.828247070312)</geo:geometry>
+    <dbo:thumbnail rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/SuezCanal-EO.JPG?width=300" />
+    <prov:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Suez_Canal?oldid=743664386" />
+    <dbo:abstract xml:lang="pl">Kanał Sueski (arab. قناة السويس Qanā al-Suways) – kanał głębokowodny dla statków morskich, w Egipcie, łączący Morze Śródziemne z Morzem Czerwonym, wykopany w latach 1859-1869. Jedna z najważniejszych dróg wodnych świata. W południowej części trasa kanału przebiega przez Jezioro Krokodyli, Wielkie Jezioro Gorzkie i Małe Jezioro Gorzkie.</dbo:abstract>
+    <dbo:abstract xml:lang="ja">スエズ運河（スエズうんが、アラビア語:قناة السويس）は、エジプトのスエズ地峡（スエズちきょう）に位置し、地中海と紅海（スエズ湾）を結ぶ、海面と水平な人工運河である。船だけではなく、大東電信会社の電信ケーブルも運河を通った。</dbo:abstract>
+    <dbo:abstract xml:lang="de">Der Sueskanal (auch Suezkanal, arabisch قناة السويس‎, Qanāt as-Suwais) ist ein Schifffahrtskanal in Ägypten zwischen den Hafenstädten Port Said und Port Taufiq bei Sues, der das Mittelmeer über den Isthmus von Sues mit dem Roten Meer verbindet und der Seeschifffahrt zwischen Nordatlantik und Indischem Ozean den Weg um Afrika erspart. Der Kanal bildet die Grenze zwischen Afrika und Asien. Er wurde am 17. November 1869 eröffnet. Seine Länge betrug damals 162,25 km. Seit der 2009 fertiggestellten Vertiefung ist er einschließlich der nördlichen und südlichen Zufahrtskanäle 193,3 km lang. 2015 wurde ein neuer, parallel zum existierenden Kanal verlaufender, rund 37 km langer Kanalabschnitt eröffnet, der die bisherige Strecke begradigt und dadurch (für die eine Fahrtrichtung) etwas verkürzt. Im Jahr 2015 passierten 17.483 Schiffe den Kanal. Der Sueskanal ist ein schleusenloser Meerwasserkanal, der – im Gegensatz zu Kanälen wie dem Panamakanal, die einen Höhenunterschied überwinden – keinen ständigen Wassernachschub benötigt. Der Kanal kann von allen Schiffen (Handels- und Kriegsschiffen) aller Nationen zu allen Zeiten (Friedens- und Kriegszeiten) zu gleichen Bedingungen benutzt werden. Für Kriegsschiffe kriegführender Nationen gelten jedoch bestimmte Einschränkungen, zum Beispiel Durchfahrt ohne Halt und keine Versorgung. Dies wurde in der nach wie vor geltenden Konvention von Konstantinopel vom 29. Oktober 1888 vereinbart. Kriegsschiffe sollen ihre Durchfahrt beim ägyptischen Außenministerium, dem Verteidigungsministerium und der Behörde für maritime Sicherheit anmelden. Von Juni 1967 bis Juni 1975 war der Kanal aufgrund des Sechstagekrieges gesperrt. 2003 ist das Bauwerk von der American Society of Civil Engineers in die Liste der geschichtlichen Meilensteine der Ingenieurbaukunst aufgenommen worden.</dbo:abstract>
+    <dbo:abstract xml:lang="it">Il template {{Coord}} ha riscontrato degli errori (istruzioni):Modulo:Wikidata:398: attempt to index field &#39;wikibase&#39; (a nil value)Il Canale di Suez (in arabo: قناة السويس‎, Qanāt al-Suways), è un canale artificiale navigabile situato in Egitto, a ovest della penisola del Sinai, tra Porto Said (Bûr Sa&#39;îd) sul mar Mediterraneo e Suez (al-Suways) sul Mar Rosso. Il canale consiste di due tratte, a nord e a sud del Grande Lago Amaro. Il canale venne realizzato dal francese Ferdinando de Lesseps su progetto dell&#39;ingegnere austriaco Luigi Negrelli.</dbo:abstract>
+    <dbo:abstract xml:lang="fr"> Pour les articles homonymes, voir Suez. Le canal de Suez est un canal situé en Égypte, long de 193,3 km, large de 280 m à 345 m et profond de 22,5 m, qui relie, via trois lacs naturels, la ville portuaire de Port-Saïd sur la mer Méditerranée et la ville de Suez sur le golfe de Suez (partie septentrionale de la mer Rouge), permettant ainsi de relier les deux mers. Percé entre 1859 et 1869, grâce à une levée de fonds géante à la Bourse de Paris, sous la direction du diplomate retraité français Ferdinand de Lesseps, il permet aux navires d&#39;aller d&#39;Europe en Asie sans devoir contourner l&#39;Afrique par le cap de Bonne-Espérance. Avant son ouverture en 1869, les marchandises devaient être transportées par voie terrestre entre la Méditerranée et la mer Rouge. Avec l&#39;augmentation du trafic, le canal est devenu la troisième source en devises de l&#39;Égypte. Un blocage du canal entraînerait des pertes d&#39;environ 7 millions de dollars par jour. Le 6 août 2015, le président égyptien Al-Sissi inaugure le Nouveau canal permettant, après un an de travaux, de doubler la capacité de passage. Les travaux ont abouti sur l&#39;approfondissement et l&#39;élargissement du canal existant sur 35 km, ainsi que le creusement d&#39;un nouveau canal de 37 km sur sa partie orientale. Le canal est la propriété de la Suez Canal Authority, qui est aussi responsable de son administration et de sa gérance.</dbo:abstract>
+    <dbo:abstract xml:lang="nl">Het Suezkanaal (Qanâ el Suweis) is een 193 km lang kanaal in de landengte van Suez in Egypte, geopend in 1869. Het verbindt Port Said (Bûr Sa&#39; îd) aan de Middellandse Zee en Suez aan de Rode Zee en begrenst het schiereiland Sinaï, dat ten oosten ervan ligt. Het is tevens de scheiding tussen Afrika en Azië. Het kanaal heeft geen sluizen omdat geen hoogteverschil overwonnen hoeft te worden daar beide zeeën hetzelfde niveau hebben. Het kanaal bestaat uit een noordelijk deel en een zuidelijk deel die door de Bittermeren met elkaar worden verbonden. Er zijn verschillende passeermogelijkheden en aanlegplaatsen. Ieder jaar ondernemen ongeveer 15.000 schepen de elf tot zestien uur durende tocht door het Suezkanaal. Dat was in 2000 ongeveer 14% van het totale tonnage van de wereldscheepvaart. Het belang van het kanaal is zeer groot. Schepen tussen de noordelijke Atlantische Oceaan en de Indische Oceaan moesten voorheen om het continent Afrika heenvaren, langs Kaap de Goede Hoop. Sinds het Suezkanaal bestaat is dat niet meer nodig, behalve toen het kanaal gesloten was; de langste periode dat dat het geval was, was van 1967 tot 1975.</dbo:abstract>
+    <dbo:abstract xml:lang="pt">O canal de Suez (em árabe: قناة السويس Qanāt al-Suways) é uma via navegável artificial a nível do mar localizada no Egito, entre o Mediterrâneo e o mar Vermelho. Inaugurado em 17 de novembro de 1869, após 10 anos de construção, permite que navios viajem entre a Europa e a Ásia Meridional sem ter de navegar em torno de África, reduzindo assim a distância da viagem marítima entre o continente europeu e a Índia em cerca de 7 mil quilômetros. Na ponta norte do canal está Porto Said, onde existem duas saídas para o mar; no lado sul está a cidade de Suez, onde há uma saída para o mar. Ismaília está em sua margem oeste, a 3 km a partir da metade do canal. Em 2012, 17 225 navios atravessaram a passagem de Suez, uma média de 47 por dia. Quando construído, o canal tinha 164 km de comprimento e 8 metros de profundidade. Depois de vários alargamentos, tem 193,30 km de comprimento, 24 m de profundidade e 205 m de largura. A passagem consiste do canal de acesso norte de 22 km, do próprio canal de 162,25 km e do acesso sul, de 9 km. O canal tem paradas na passagem de Ballah e no Grande Lago Amargo. A via não contém eclusas; a água do mar flui livremente através dela. Em geral, o canal a norte dos lagos amargos fluem para o norte no inverno e para o sul no verão. A sul dos lagos, as seguem a maré em Suez. O canal pertence e é mantido pela Autoridade do Canal do Suez (SCA) do governo do Egito. Nos termos da Convenção de Constantinopla, ele pode ser usado &quot;em tempo de guerra como em tempo de paz, por todos os navios de comércio ou de guerra, sem distinção de bandeira.&quot;.&quot; Em agosto de 2014, foi iniciada a expansão da passagem de Ballah em 35 km, ao custo de 8,4 bilhões de dólares, para aumentar a capacidade do canal. O financiamento foi providenciado através da emissão de certificados de investimento exclusivamente para entidades e indivíduos egípcios. Esta expansão deve dobrar a capacidade do canal de Suez 49 para 97 navios por dia. O &quot;Novo Canal de Suez&quot;, como a expansão foi apelidada, foi inaugurado em uma cerimônia no dia 6 de agosto de 2015.</dbo:abstract>
+    <dbo:abstract xml:lang="ru">К:Водные объекты по алфавиту Суэ́цкий кана́л (араб.  قناة السويس‎, Канат эс-Сувайс) — бесшлюзовый судоходный канал в Египте, соединяющий Средиземное и Красное моря. Зона канала считается условной границей между двумя материками, Африкой и Евразией. Кратчайший водный путь между Индийским океаном и акваторией Средиземного моря Атлантического океана (альтернативный маршрут протяжённее на 8 тыс. км). Суэцкий канал был открыт для судоходства 17 ноября 1869 года. Главные порты: Порт-Саид и Суэц. Находится к западу от Синайского полуострова, имеет длину в 160 километров, ширину по зеркалу воды до 350 м, по дну — 45—60 м, глубину 20 м. Канал расположен в Египте между Порт-Саидом на Средиземном море и Суэцем на Красном море. На восточной стороне канала напротив Порт-Саида находится Порт-Фуад, где размещена Администрация Суэцкого канала. На восточной стороне канала напротив Суэца находится Порт-Тауфик. На канале в районе озера Тимсах расположен крупный промышленный центр — город Исмаилия. Канал позволяет водному транспорту проходить в обе стороны между Европой и Азией без огибания Африки. До открытия канала транспортировка осуществлялась путём разгрузки судов и сухопутной перевозкой между Средиземным и Красным морями. Канал состоит из двух частей — к северу и к югу от Большого Горького озера, соединяя Средиземное море с Суэцким заливом на Красном море. Течение на канале в зимние месяцы происходит из горьких озёр на север, а летом обратно из Средиземного моря. К югу от озёр течение меняется в зависимости от приливов и отливов. По данным Администрации Суэцкого канала, доходы от его эксплуатации в 2010 году составили 4,5 млрд дол. США, что делает его вторым по значимости источником наполнения бюджета Египта после туризма, который принёс 13 млрд долларов США[нет в источнике][[К:Википедия:Статьи без источников (страна: )]][[К:Википедия:Статьи без источников (страна: )]][[К:Википедия:Статьи без источников (страна: )]]Суэцкий каналСуэцкий каналСуэцкий канал. В 2011 году доходы составили уже 5,22 млрд долларов США, при этом через канал прошло 17799 судов, что на 1,1 процента меньше, чем годом ранее.</dbo:abstract>
+    <dbo:abstract xml:lang="zh">蘇伊士運河（阿拉伯语：قناة السويس Qanā al-Suways，又譯蘇彝士運河）处于埃及西奈半岛西侧，横跨在亞洲、非洲交界處的苏伊士地峡，頭尾則在地中海侧的塞德港和红海苏伊士湾侧的苏伊士两座城市之间，全长约163公里，是全球少數具備大型商船通行能力的無船閘運河。 这条运河連結了欧洲与亚洲之间的南北双向水运，船隻不必绕过非洲南端的好望角，大大节省航程。以從英国伦敦港或法国马赛港到印度孟买港的航行為例，穿過苏伊士运河比绕道好望角可缩短至少43%的航程距離(約7000公里)。在苏伊士运河开通之前，有时人们透過从船上卸下货物通过陆运的方法，在地中海和红海之间运输。 运河当前由埃及的苏伊士运河管理局拥有和管理。由於戰略位置極重要，根据国际协定，“运河在战时也可像和平时期一样，可以被任何商用或军用船只使用而无需悬挂区别旗帜。”</dbo:abstract>
+    <dbo:abstract xml:lang="ar">قناة السويس هي ممر مائي اصطناعي ازدواجي المرور في مصر، يبلغ طولها 193 كم وتصل بين البحرين الأبيض والأحمر، وتنقسم طولياً إلى قسمين شمال وجنوب البحيرات المرّة، وعرضياً إلى ممرين في أغلب أجزائها لتسمح بعبور السفن في اتجاهين في نفس الوقت بين كل من أوروبا وآسيا، وتعتبر أسرع ممر بحري بين القارتين وتوفر نحو 15 يوماً في المتوسط من وقت الرحلة عبر طريق رأس الرجاء الصالح. بدأت فكرة إنشاء القناة مع قدوم الحملة الفرنسية على مصر عام 1798، وفكر نابليون في شق القناة إلا أن الفكرة باءت بالفشل، وفي عام 1854 استطاع دي لسبس إقناع الخديوي سعيد بالمشروع وحصل على موافقة الباب العالي، والذي قام الخديوي سعيد بموجبه بمنح الشركة الفرنسية امتياز لمدة 99 عام. استغرق بناء القناة 10 سنوات (1859 - 1869)، وساهم في عملية الحفر ما يقرب من مليون عامل مصري، مات منهم أكثر من 120 ألف أثناء عملية الحفر على إثر الجوع والعطش والأوبئة والمعاملة السيئة. وتم افتتاح القناة في عام 1869 في حفل مهيب وبميزانية ضخمة. وفي عام 1905 حاولت الشركة الفرنسية تمديد حق الامتياز 50 عاماً إضافية إلا أن المحاولة فشلت لاحقاً. وفي يوليو عام 1956 قام الرئيس عبد الناصر بتأميم قناة السويس، والذي تسبب في إعلان بريطانيا وفرنسا بمشاركة إسرائيل الحرب على مصر ضمن العدوان الثلاثي والذي انتهى بإنسحابهم. تسببت حرب 1967 في إغلاق قناة السويس لأكثر من 8 سنوات، حتى قام الرئيس السادات بإعادة افتتاحها في يونيو 1975. وشهدت القناة بعد ذلك محاولات لتوسيعها بدأت عام 1980 وكذلك فكرة تحويلها إلى منطقة خدمات لوجستية. وفي 6 أغسطس 2015 تم افتتاح مشروع قناة موازية للمر الملاحي الحالي بطول 72 كم، لتمكين السفن والناقلات من عبور القناة في كلا الاتجاهين في ذات الوقت، وتلافي المشكلات الحالية من توقف قافلة الشمال لمدة تزيد عن 11 ساعة في منطقة البحيرات المرة، وتقليل زمن رحلة عبور القناة بشكل عام، مما يسهم في زيادة الإيرادات الحالية للقناة. تعد قناة السويس أحد أهم المجاري البحرية في العالم، حيث بلغت إيرادات القناة في العام المالي (2014 - 2015) نحو 39 مليار جنيه مصري. ويمر عبر القناة ما بين‏ 8%‏ إلي‏ 12% من حجم التجارة العالمية‏.‏</dbo:abstract>
+    <dbo:abstract xml:lang="en">The Suez Canal (Arabic: قناة السويس‎‎ Qanāt al-Suways) is an artificial sea-level waterway in Egypt, connecting the Mediterranean Sea to the Red Sea through the Isthmus of Suez. It was constructed by the Suez Canal Company between 1859 and 1869, after 10 years of construction, it was officially opened on November 17, 1869. The canal offers watercraft a shorter journey between the North Atlantic and northern Indian oceans via the Mediterranean and Red seas by avoiding the South Atlantic and southern Indian oceans, in turn reducing the journey by approximately 7,000 kilometres (4,300 mi). It extends from the northern terminus of Port Said to the southern terminus of Port Tewfik at the city of Suez. Its length is 193.30 km (120.11 mi), including its northern and southern access channels. In 2012, 17,225 vessels traversed the canal (47 per day). The canal is a single-lane waterway with passing locations in the Ballah Bypass and the Great Bitter Lake. It contains no locks system, with seawater flowing freely through it. In general, the canal north of the Bitter Lakes flows north in winter and south in summer. South of the lakes, the current changes with the tide at Suez. The canal is owned and maintained by the Suez Canal Authority (SCA) of Egypt. Under the Convention of Constantinople, it may be used &quot;in time of war as in time of peace, by every vessel of commerce or of war, without distinction of flag.&quot; In August 2014, construction was launched to expand and widen the Ballah Bypass for 35 km (22 mi) to speed the canal&#39;s transit time. The expansion was planned to double the capacity of the Suez Canal from 49 to 97 ships a day. At a cost of $8.4 billion, this project was funded with interest-bearing investment certificates issued exclusively to Egyptian entities and individuals. The &quot;New Suez Canal&quot;, as the expansion was dubbed, was opened with great fanfare in a ceremony on 6 August 2015.On 24 February 2016, the Suez Canal Authority officially opened the new side channel. This side channel, located at the northern side of the east extension of the Suez Canal, will serve East Terminal for berthing and unberthing vessels from the terminal anytime of day and night.East Container Terminal is located in the Suez Canal itself; before constructing the new side channel, as long as the Suez Canal convoy was running, there was no chance for vessels to berth or unberth at East Terminal.</dbo:abstract>
+    <dbo:abstract xml:lang="es">El canal de Suez (en árabe: قناة السويس)? es una vía artificial de navegación situada en Egipto que une el mar Mediterráneo con el mar Rojo. El canal convirtió a la región del Sinaí en una nueva península, constituyendo la frontera entre los continentes de África y Asia. Su longitud es de 163 km entre Puerto Saíd (en la ribera mediterránea) y Suez (en la costa del mar Rojo). Permite acortar la ruta del comercio marítimo entre Europa y el sur de Asia, pues evita tener que rodear el continente africano.</dbo:abstract>
+    <dbo:company rdf:resource="http://dbpedia.org/resource/Suez_Canal_Company" />
+    <dbo:dateCompleted rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1869-11-17</dbo:dateCompleted>
+    <dbo:dateConstruction rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1859-09-25</dbo:dateConstruction>
+    <dbo:endPoint rdf:resource="http://dbpedia.org/resource/Suez" />
+    <dbo:endPoint rdf:resource="http://dbpedia.org/resource/Port_Tewfik" />
+    <dbo:startPoint rdf:resource="http://dbpedia.org/resource/Port_Said" />
+    <dbp:beamM rdf:datatype="http://www.w3.org/2001/XMLSchema#double">77.5</dbp:beamM>
+    <dbp:oLengthMi rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">102</dbp:oLengthMi>
+    <georss:point>30.828248 32.317572</georss:point>
+    <dbp:date rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">May 2016</dbp:date>
+    <dbp:imageSize rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">280</dbp:imageSize>
+    <dbp:lengthMi rdf:datatype="http://www.w3.org/2001/XMLSchema#double">120.11</dbp:lengthMi>
+    <dbp:locks rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">None</dbp:locks>
+    <dbp:nav rdf:resource="http://dbpedia.org/resource/Suez_Canal_Authority" />
+    <dbp:reason rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Unclear in article and sources if provided times are in UTC or local time</dbp:reason>
+    <ns10:hypernym rdf:resource="http://dbpedia.org/resource/Waterway" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/1973_raid_on_Egyptian_missile_bases">
+    <dbo:place rdf:resource="http://dbpedia.org/resource/Suez_Canal" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ferdinand_de_Lesseps">
+    <dbo:knownFor rdf:resource="http://dbpedia.org/resource/Suez_Canal" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ahmed_Hamdi_Tunnel">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Suez_Canal" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Raid_on_the_Suez_Canal">
+    <dbo:place rdf:resource="http://dbpedia.org/resource/Suez_Canal" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Battle_of_the_Chinese_Farm">
+    <dbo:place rdf:resource="http://dbpedia.org/resource/Suez_Canal" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Suez_Canal_Zone">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Suez_Canal" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/1974_Suez_Canal_Clearance_Operation">
+    <dbo:place rdf:resource="http://dbpedia.org/resource/Suez_Canal" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Suez_Canal_Bridge">
+    <dbo:crosses rdf:resource="http://dbpedia.org/resource/Suez_Canal" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Suez_Canal_(disambiguation)">
+    <dbo:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/Suez_Canal" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Operation_Boxer">
+    <dbo:place rdf:resource="http://dbpedia.org/resource/Suez_Canal" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Abdul_Munim_Riad">
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Suez_Canal" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/List_of_Modern_Marvels_episodes">
+    <dbp:title rdf:resource="http://dbpedia.org/resource/Suez_Canal" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Suez_canal">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Suez_Canal" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_suez_canal">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Suez_Canal" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Suez_Canal_(Egypt)">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Suez_Canal" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Suez_Canal">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Suez_Canal" />
+  </rdf:Description>
+</rdf:RDF>

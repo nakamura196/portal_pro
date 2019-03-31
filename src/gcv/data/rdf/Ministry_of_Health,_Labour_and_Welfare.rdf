@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:dbo="http://dbpedia.org/ontology/"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:prov="http://www.w3.org/ns/prov#"
+	xmlns:dbp="http://dbpedia.org/property/" >
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ministry_of_Health,_Labour_and_Welfare">
+    <rdfs:label xml:lang="en">Ministry of Health, Labour and Welfare</rdfs:label>
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Ministry_of_Health,_Labour_and_Welfare" />
+    <dbo:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1327957</dbo:wikiPageID>
+    <dbo:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">573748386</dbo:wikiPageRevisionID>
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Ministry_of_Health,_Labour,_and_Welfare" />
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Ministry_of_Health,_Labour_and_Welfare" />
+    <prov:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Ministry_of_Health,_Labour_and_Welfare?oldid=573748386" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kōichi_Kido">
+    <dbp:title rdf:resource="http://dbpedia.org/resource/Ministry_of_Health,_Labour_and_Welfare" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Labor_unions_in_Japan">
+    <dbp:government rdf:resource="http://dbpedia.org/resource/Ministry_of_Health,_Labour_and_Welfare" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yukiko_Sakamoto">
+    <dbo:occupation rdf:resource="http://dbpedia.org/resource/Ministry_of_Health,_Labour_and_Welfare" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Ministry_of_Health,_Labour_and_Welfare">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Ministry_of_Health,_Labour_and_Welfare" />
+  </rdf:Description>
+</rdf:RDF>

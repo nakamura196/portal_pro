@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:dct="http://purl.org/dc/terms/"
+	xmlns:dbo="http://dbpedia.org/ontology/"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:prov="http://www.w3.org/ns/prov#" >
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Blažej_Baláž">
+    <dbo:influenced rdf:resource="http://dbpedia.org/resource/Monochrome_painting" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mino_Argento">
+    <dbo:movement rdf:resource="http://dbpedia.org/resource/Monochrome_painting" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ad_Reinhardt">
+    <dbo:influenced rdf:resource="http://dbpedia.org/resource/Monochrome_painting" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Alan_Ebnother">
+    <dbo:influenced rdf:resource="http://dbpedia.org/resource/Monochrome_painting" />
+    <dbo:movement rdf:resource="http://dbpedia.org/resource/Monochrome_painting" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Monochrome_painting">
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatPaintingsByTheme" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Art102743547" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Object100002684" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PhysicalEntity100001930" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Creation103129123" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Artifact100021939" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/GraphicArt103453809" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Painting103876519" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Whole100003553" />
+    <rdfs:label xml:lang="de">Monochrome Malerei</rdfs:label>
+    <rdfs:label xml:lang="pt">Monocromia</rdfs:label>
+    <rdfs:label xml:lang="en">Monochrome painting</rdfs:label>
+    <rdfs:label xml:lang="fr">Monochrome (peinture)</rdfs:label>
+    <rdfs:label xml:lang="zh">单色画</rdfs:label>
+    <rdfs:label xml:lang="ja">モノクローム</rdfs:label>
+    <rdfs:comment xml:lang="en">Monochromatic painting has been an important component of avant-garde visual art throughout the 20th century and into the 21st century. Painters have created the exploration of one color, the examination of values changing across a surface, the expressivity of texture and nuance, expressing a wide variety of emotions, intentions and meanings in a wide variety of ways and means. From geometric precision to expressionism, the monochrome has proved to be a durable idiom in Contemporary art.</rdfs:comment>
+    <rdfs:comment xml:lang="ja">モノクローム (monochrome) は、直訳すると「1つの色」を意味し、1色で描画・印刷・表示等された図画のことである。略称モノクロ。 ただしここでいう1色とは、背景色に加え1色ということなので合わせれば2色あり、多くの場合はさらにその間のグラデーションがある。 代表的なモノクロームは白黒（しろくろ）で、印刷・写真・映画・テレビなどで多用される（あるいはかつて多用された）。しかし他の色のモノクロームもあり、たとえば単色印刷（黒以外での）や、セピア調写真がそれである。 美術ではモノクロームの絵画を単色画や単彩画と呼ぶ。 対義語はカラー。</rdfs:comment>
+    <rdfs:comment xml:lang="de">Bei der monochromen Malerei beschränkt sich der Künstler auf den Gebrauch einer Farbe oder eine Farbe ist zumindest vorherrschend. Nicht unter diesen Begriff gerechnet werden graphische Werke, wobei aber Lavierung in Tusche als Grenzfall beziehungsweise eigenständige Werkgattung gesehen wird, so etwa Chinesische Tuschmalerei.</rdfs:comment>
+    <rdfs:comment xml:lang="pt">Monocromia (radiação (ou luz) monocromática) é a radiação produzida por apenas uma cor (em rigor, de apenas um comprimento de onda). O termo &quot;monocromático&quot; não é empregado para o preto (ausência de cor/luz) ou o branco (soma de todas as cores). É uma harmonia conseguida por apenas uma cor e seus tons diferentes. Monocromia é o contrário de policromia. Na monocromia, existe a escala monocromática, onde uma cor tem diferentes tons de radiação, como: A cor verde pode se fazer nesta escala a cor verde-claro, verde-escuro, verde-marinho, e assim por diante. A monocromia está muito ligada com a escala monocromática, para sua explicação</rdfs:comment>
+    <rdfs:comment xml:lang="zh">单色画（英语：monochromatic painting），又称为独色画，是20世纪以来先锋派艺术的重要元素，通过单一色彩进行绘画创作，代表人物包括马列维奇、伊夫·克莱因、格哈德·里希特（Gerhard Richter）、阿德·莱因哈特（Ad Reinhardt）等。 从几何精确性到表现主义，单色画被证明是当代艺术的一种持久风格。 
+* 马列维奇《Black Square on a White Field》（1915年） 
+* 马列维奇《White on White》（1918年） 
+* 克莱因《IKB 191》（1962年） 
+* 布赖斯·马登《The Dylan Painting》（1966/1986年）</rdfs:comment>
+    <rdfs:comment xml:lang="fr">Un monochrome en peinture est, par métonymie, une œuvre (sur toile, panneau ou mur) réalisée à partir d&#39;une couleur, d&#39;une nuance et d&#39;une valeur qui sont uniques.</rdfs:comment>
+    <owl:sameAs rdf:resource="http://yago-knowledge.org/resource/Monochrome_painting" />
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Monochrome_painting" />
+    <owl:sameAs rdf:resource="http://ja.dbpedia.org/resource/モノクローム" />
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q846561" />
+    <owl:sameAs rdf:resource="http://pt.dbpedia.org/resource/Monocromia" />
+    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/Monochrome_Malerei" />
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q846561" />
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.02k5yk" />
+    <owl:sameAs rdf:resource="http://fr.dbpedia.org/resource/Monochrome_(peinture)" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Contemporary_art" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Modern_art" />
+    <dbo:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">512487</dbo:wikiPageID>
+    <dbo:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">738670445</dbo:wikiPageRevisionID>
+    <dbo:wikiPageExternalLink rdf:resource="http://www.moma.org/collection/browse_results.php?object_id=80385" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.artnet.com/ag/fulltextsearch.asp?searchstring=monochrome+painting" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.guggenheim.org/new-york/collections/collection-online/artwork/3518" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.artcritical.com/dorfman/images/resnick.jpg" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.charlottejackson.com/" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.abcgallery.com/M/matisse/matisse48.html" />
+    <dbo:wikiPageExternalLink rdf:resource="http://brenthallard.wordpress.com/2009/08/10/suspension-in-blue-alan-ebnother/" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.abcgallery.com/M/matisse/matisse100.html" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.artnet.com/artwork/424390317/74879/sally-hazelet-drummond-presence-of-the-heart.html" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.artcritical.com/dorfman/GDResnick.htm" />
+    <dbo:wikiPageExternalLink rdf:resource="http://pdf.truni.sk/katedry/kpvu/galerie?balaz&amp;12" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.georgetown.edu/faculty/irvinem/CCTP738/Stella-BlackPainting-Marriage-of-Reason-and-Squalor-II-1959-sm-detail.jpg" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.abstract-art.com/abstr_expressionism/re0a_Reinhardt_Painting54-58.htm" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.chrisashley.net/weblog/archives/week_2005_05_01.html" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.charlottejackson.com/images/Mosset/mosoOM14.jpg" />
+    <dbo:wikiPageExternalLink rdf:resource="http://cont3xt.net/blog/?p=3424" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.charlottejackson.com/images/Pierce/gall2grp2.jpg" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.desordre.net/photographie/photographes/robert_frank/jj_target_green.jpg" />
+    <dbo:wikiPageExternalLink rdf:resource="http://pastexhibitions.guggenheim.org/singular_forms/overview.html" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.artsjournal.com/artopia/2006/11/marden_one_and_marden_two.html" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.inglebygallery.com/popup2.php?id=796" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.tate.org.uk/servlet/ViewWork?workid=13058" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.gerhard-richter.com/home/index.php" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.tate.org.uk/stives/exhibitions/ellsworthkelly/intro.shtm" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.tate.org.uk/stives/exhibitions/ellsworthkelly/nature.shtm" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.tate.org.uk/learn/online-resources/glossary/m/monochrome" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.valeriecarberry.com/images/pousettedart/RPD101_lg.jpg" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.findarticles.com/p/articles/mi_m1248/is_7_87/ai_55149257" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.findarticles.com/p/articles/mi_m1248/is_1_93/ai_n8967506" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.ucpress.edu/books/pages/10715.html" />
+    <dbo:wikiPageExternalLink rdf:resource="http://home.att.net/%7Eallanmcnyc/Johannes_Meinhardt.html" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.spencerbrownstonegallery.com/Artists/Olivier_Mosset/mosset_07.html" />
+    <dbo:wikiPageExternalLink rdf:resource="http://pastexhibitions.guggenheim.org/singular_forms/highlights_1a.html" />
+    <foaf:depiction rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/White_on_White_(Malevich,_1918).png" />
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Monochrome_painting" />
+    <dbo:thumbnail rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/White_on_White_(Malevich,_1918).png?width=300" />
+    <prov:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Monochrome_painting?oldid=738670445" />
+    <dbo:abstract xml:lang="pt">Monocromia (radiação (ou luz) monocromática) é a radiação produzida por apenas uma cor (em rigor, de apenas um comprimento de onda). O termo &quot;monocromático&quot; não é empregado para o preto (ausência de cor/luz) ou o branco (soma de todas as cores). É uma harmonia conseguida por apenas uma cor e seus tons diferentes. Monocromia é o contrário de policromia. Na monocromia, existe a escala monocromática, onde uma cor tem diferentes tons de radiação, como: A cor verde pode se fazer nesta escala a cor verde-claro, verde-escuro, verde-marinho, e assim por diante. A monocromia está muito ligada com a escala monocromática, para sua explicação</dbo:abstract>
+    <dbo:abstract xml:lang="de">Bei der monochromen Malerei beschränkt sich der Künstler auf den Gebrauch einer Farbe oder eine Farbe ist zumindest vorherrschend. Nicht unter diesen Begriff gerechnet werden graphische Werke, wobei aber Lavierung in Tusche als Grenzfall beziehungsweise eigenständige Werkgattung gesehen wird, so etwa Chinesische Tuschmalerei.</dbo:abstract>
+    <dbo:abstract xml:lang="zh">单色画（英语：monochromatic painting），又称为独色画，是20世纪以来先锋派艺术的重要元素，通过单一色彩进行绘画创作，代表人物包括马列维奇、伊夫·克莱因、格哈德·里希特（Gerhard Richter）、阿德·莱因哈特（Ad Reinhardt）等。 从几何精确性到表现主义，单色画被证明是当代艺术的一种持久风格。 
+* 马列维奇《Black Square on a White Field》（1915年） 
+* 马列维奇《White on White》（1918年） 
+* 克莱因《IKB 191》（1962年） 
+* 布赖斯·马登《The Dylan Painting》（1966/1986年）</dbo:abstract>
+    <dbo:abstract xml:lang="ja">モノクローム (monochrome) は、直訳すると「1つの色」を意味し、1色で描画・印刷・表示等された図画のことである。略称モノクロ。 ただしここでいう1色とは、背景色に加え1色ということなので合わせれば2色あり、多くの場合はさらにその間のグラデーションがある。 代表的なモノクロームは白黒（しろくろ）で、印刷・写真・映画・テレビなどで多用される（あるいはかつて多用された）。しかし他の色のモノクロームもあり、たとえば単色印刷（黒以外での）や、セピア調写真がそれである。 美術ではモノクロームの絵画を単色画や単彩画と呼ぶ。 対義語はカラー。</dbo:abstract>
+    <dbo:abstract xml:lang="fr">Un monochrome en peinture est, par métonymie, une œuvre (sur toile, panneau ou mur) réalisée à partir d&#39;une couleur, d&#39;une nuance et d&#39;une valeur qui sont uniques.</dbo:abstract>
+    <dbo:abstract xml:lang="en">Monochromatic painting has been an important component of avant-garde visual art throughout the 20th century and into the 21st century. Painters have created the exploration of one color, the examination of values changing across a surface, the expressivity of texture and nuance, expressing a wide variety of emotions, intentions and meanings in a wide variety of ways and means. From geometric precision to expressionism, the monochrome has proved to be a durable idiom in Contemporary art.</dbo:abstract>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Meditative_art">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Monochrome_painting" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Monochrome_Painting">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Monochrome_painting" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/White_painting">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Monochrome_painting" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/White_paintings">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Monochrome_painting" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Meditative_artist">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Monochrome_painting" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Meditative_artists">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Monochrome_painting" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Monochrome_painter">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Monochrome_painting" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Monochrome_painters">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Monochrome_painting" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Monochrome_paintings">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Monochrome_painting" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Monochrome_painting">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Monochrome_painting" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Monochromatic_painting">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Monochrome_painting" />
+  </rdf:Description>
+</rdf:RDF>

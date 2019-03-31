@@ -1,0 +1,1349 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:dct="http://purl.org/dc/terms/"
+	xmlns:dbo="http://dbpedia.org/ontology/"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:prov="http://www.w3.org/ns/prov#"
+	xmlns:dbp="http://dbpedia.org/property/"
+	xmlns:ns8="http://purl.org/linguistics/gold/" >
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ballista">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bomb">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Dirty_bomb">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Fire_balloon">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Halberd">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lance">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mace_(weapon)">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Neutron_bomb">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nunchaku">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Spear">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Squad_automatic_weapon">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Torpedo">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/War_hammer">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Weapon">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing" />
+    <rdfs:label xml:lang="zh">武器</rdfs:label>
+    <rdfs:label xml:lang="pt">Arma</rdfs:label>
+    <rdfs:label xml:lang="it">Arma</rdfs:label>
+    <rdfs:label xml:lang="de">Waffe</rdfs:label>
+    <rdfs:label xml:lang="ja">武器</rdfs:label>
+    <rdfs:label xml:lang="ar">سلاح</rdfs:label>
+    <rdfs:label xml:lang="es">Arma</rdfs:label>
+    <rdfs:label xml:lang="pl">Broń</rdfs:label>
+    <rdfs:label xml:lang="nl">Gevechtswapen</rdfs:label>
+    <rdfs:label xml:lang="ru">Оружие</rdfs:label>
+    <rdfs:label xml:lang="en">Weapon</rdfs:label>
+    <rdfs:label xml:lang="fr">Arme</rdfs:label>
+    <rdfs:comment xml:lang="pl">Broń – termin występuje w dwóch znaczeniach: 
+*  1: Zbiór rzeczy materialnych, stanowiących przedmioty do walki zbrojnej zaczepnej lub obronnej (broń wojskowa), polowania na zwierzynę (broń myśliwska), a także rywalizacji sportowej (broń sportowa). Nie jest możliwe ustalenie precyzyjnej definicji broni w tym znaczeniu. 
+*  2: Termin oznaczający rodzaj wojsk, np. broń pancerna.</rdfs:comment>
+    <rdfs:comment xml:lang="pt">Qualquer objeto pode ser utilizado como uma Arma quando usado para atacar ou ameaçar um ser bem como para autodefesa. A utilização de um objeto como arma, não transforma a natureza desse objeto numa arma por si, mas atribui-lhe essa característica durante a utilização. É o caso da expressão arma do crime, em que o objeto, qualquer que ele seja, utilizado para cometer um crime, foi utilizado como arma . As armas podem ter várias utilidades, passando a ser consideradas como tipos de armas. Neles se incluem as armas de caça, as armas de tiro desportivo, as armas de guerra, as armas de defesa, etc. Alguém que detenha uma arma está armado, do contrário, desarmado. Armas também podem ser usadas não só em seres como também em objetos, para destruí-los ou danificá-los. Armas são muitas vezes causa</rdfs:comment>
+    <rdfs:comment xml:lang="nl">Een gevechtswapen is een stuk gereedschap dat gebruikt wordt om mensen, dieren of voorwerpen te verwonden/beschadigen of te doden. Het kan gebruikt worden als aanvals- of verdedigingsmiddel. Al sinds het begin van de menselijke geschiedenis hebben mensen wapens gebruikt voor de jacht, zelfverdediging en oorlogsvoering. Dieren kunnen ook ingezet worden als wapen. Honden worden speciaal gefokt als &#39;diensthonden&#39; en sommige worden als oorlogshond getraind om zich in de vijand vast te bijten</rdfs:comment>
+    <rdfs:comment xml:lang="de">Als Waffe werden in der Regel alle Gegenstände bezeichnet, die dazu bestimmt und geeignet sind, Lebewesen physisch (meist durch mechanische Einwirkung) infolge Verwundung oder Tod bzw. psychisch in ihrer Handlungsfähigkeit zu beeinträchtigen oder handlungsunfähig zu machen. Dazu zählen auch Mittel, die Gegenstände oder immaterielle Güter beschädigen, zerstören oder gebrauchsunfähig machen können.</rdfs:comment>
+    <rdfs:comment xml:lang="ru">Ору́жие (также вооружение) — общее название устройств, предметов и средств, конструктивно предназначенных для спасения жизни либо убийства, либо обезвреживания людей и животных и/или выведения из строя техники и сооружений военного противника. После изобретения пороха широко стали применяться артиллерия и пороховые ракеты, а также пороховое стрелковое оружие. Но до изобретения и внедрения в массовое боевое применение пороха, основой армий были войска, вооружённые холодным ручным и так называемым метательным оружием.</rdfs:comment>
+    <rdfs:comment xml:lang="ar">25بك المحتوى هنا ينقصه الاستشهاد بمصادر. يرجى إيراد مصادر موثوق بها. أي معلومات غير موثقة يمكن التشكيك بها وإزالتها. (مارس 2016) السلاح هو كل أداة تتيح شل أو جرح أو قتل كائن حي أو التسبب في دمار مادي ويمكن أن يستعمل السلاح لغرض الدفاع، الهجوم، أو التهديد إضافةً إلى إمكانية الاستعمال في الرماية الرياضية أو الصيد.</rdfs:comment>
+    <rdfs:comment xml:lang="it">Un&#39;arma è un qualsiasi dispositivo, strumento meccanico o elemento di natura chimica, nucleare o elettromagnetica che venga utilizzato allo scopo di offendere oppure sia progettato per la difesa personale dell&#39;utilizzatore.</rdfs:comment>
+    <rdfs:comment xml:lang="zh">武器，是用於攻擊的工具，也因此被用来威慑和防御。武器一般會用來傷害或攻擊其他人或設施，当武器被有效利用时，一般會遵循「期望效果最大化、附带伤害最小化」的原则。武器一般是在像狩獵、犯罪、執法、自衛及战争下使用，其目的是為了增加上述活動的效率及效能。 兵器和軍火也是武器，但定義範圍略有不同：兵器是指以非核常规手段杀伤敌有生力量、破坏敌作战设施、保护我方人员及设施的器械，是进行常规战争、应付突发事件、保卫国家安全的武器，也有些定義會將無火藥的冷兵器視為兵器，例如中國的十八般兵器；而軍火是專指戰爭中使用的武器。 任何可造成伤害的事物（甚至可造成心理傷害的）都可称为武器。只要用於攻擊，武器可以是一根简单的木棒，也可是一枚核弹頭。日常可見的石頭、車輛或铅筆都可以作為武器，但許多武器是特別為攻擊的目的而設計，從簡單的棍棒、劍及槍到複雜的洲際彈道飛彈、生物武器及网络武器等。許多先進的武器也有對應的導航系統及通訊系統，後來也衍生出偵測武器用的偵查系統，如雷達。 武器一辭並非全然為軍事領域所用，也可以用於日常生活中，作為競爭工具的代名詞。比如說法庭上之攻防依據、商業競爭之手段，人與人間之較量標的等等。 完整的武器和学说列表参看军事技术与装备。</rdfs:comment>
+    <rdfs:comment xml:lang="fr">Une arme est un outil ou un dispositif autonome (un piège, une mine…) destiné dans sa conception ou dans son utilisation à neutraliser, à blesser ou à tuer un être vivant, ou à causer une destruction matérielle. On dénombre quatre usages principaux des armes : 
+*  la chasse (pour se nourrir ou pour le loisir) ; 
+*  la défense ou la dissuasion (pour se protéger ou se prémunir des agressions) ; 
+*  l’attaque ou la menace (pour agresser autrui) ; 
+*  le sport et le loisir (art martial, tir sportif, jeux).</rdfs:comment>
+    <rdfs:comment xml:lang="ja">武器（ぶき、英: weapon, arms、ラテン語: armaアルマ）は、戦闘や狩猟に用いる道具や器具の総称である。 広義では、戦争や軍隊で用いる兵器や武装、さらには人員・物資までも含めて「武器」とよぶ場合や、人間や動物がもつ社会競争で有効な長所や生き残りの手段を「武器」と比喩表現することまで含める場合もある（例：「逃げ足の速さが武器」「豊富な知識が武器」「コネクションの広さが武器」などなど）。 武器は殺傷、損傷、捕縛、破壊、無力化を元来の目的として攻撃能力を有する道具である。主な用途は戦闘と狩猟だが、それらを模して行われるスポーツ競技や演劇用の模造品・玩具がある。 人が手にして攻撃に用いれば様々な道具や物体が武器となる。握りやすくある程度の重みがあり武器としての使用に適するため、「柄のあるもの」、つまりは斧や銛（もり）、鎌（かま）、鎚（つち）のような農・工具、狩猟道具類は武器としての使用や転用がたやすく、それらから本格的な武器へと発展するものもあった。ダーク（短剣の一種）のように、非常時での武器としての使用を意図した道具もあり、武器と道具の関係は深い。 英語では「ウェポン(weapon) 」「アームズ(arms) 」と呼び、中国語では武器の他「兵器」（へいき）「器械」（きかい）と呼んでいる。それぞれの指す意味は日本語の狭義の「武器」と同一ではない。</rdfs:comment>
+    <rdfs:comment xml:lang="en">A weapon, arm, or armament is any device used with intent to inflict damage or harm to living beings, structures, or systems. Weapons are used to increase the efficacy and efficiency of activities such as hunting, crime, law enforcement, self-defense, and warfare. In a broader context, weapons may be construed to include anything used to gain a strategic, material or mental advantage over an adversary.</rdfs:comment>
+    <rdfs:comment xml:lang="es">Un arma es una herramienta de agresión útil para la caza y la autodefensa, cuando se usa contra animales, y puede ser utilizada contra seres humanos en tareas de ataque, defensa y destrucción de fuerzas o instalaciones enemigas, o simplemente como una efectiva amenaza. Un arma es por tanto un dispositivo que amplía la dirección y la magnitud de una fuerza. Según otra interpretación, podrían definirse como los dispositivos más sencillos que utilizan ventajas mecánicas para multiplicar una fuerza. En ataque, las armas pueden ser utilizadas como un instrumento de coacción, por contacto directo o mediante uso de proyectiles. Estas herramientas, por tanto, van desde algo tan sencillo como un palo afilado a un complejo aglomerado de tecnologías, como un misil balístico intercontinental. En senti</rdfs:comment>
+    <owl:sameAs rdf:resource="http://id.dbpedia.org/resource/Senjata" />
+    <owl:sameAs rdf:resource="http://d-nb.info/gnd/4064228-8" />
+    <owl:sameAs rdf:resource="http://ko.dbpedia.org/resource/무기" />
+    <owl:sameAs rdf:resource="http://el.dbpedia.org/resource/Όπλο" />
+    <owl:sameAs rdf:resource="http://pl.dbpedia.org/resource/Broń" />
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q728" />
+    <owl:sameAs rdf:resource="http://es.dbpedia.org/resource/Arma" />
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Weapon" />
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q728" />
+    <owl:sameAs rdf:resource="http://nl.dbpedia.org/resource/Gevechtswapen" />
+    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/Waffe" />
+    <owl:sameAs rdf:resource="http://it.dbpedia.org/resource/Arma" />
+    <owl:sameAs rdf:resource="http://eu.dbpedia.org/resource/Arma" />
+    <owl:sameAs rdf:resource="http://pt.dbpedia.org/resource/Arma" />
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.083kb" />
+    <owl:sameAs rdf:resource="http://fr.dbpedia.org/resource/Arme" />
+    <owl:sameAs rdf:resource="http://ja.dbpedia.org/resource/武器" />
+    <owl:sameAs rdf:resource="http://cs.dbpedia.org/resource/Zbraň" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Military_equipment" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Security" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Weapons" />
+    <dbo:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">33496</dbo:wikiPageID>
+    <dbo:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">744830279</dbo:wikiPageRevisionID>
+    <foaf:depiction rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Néolithique_0001.jpg" />
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Weapon" />
+    <dbo:thumbnail rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Néolithique_0001.jpg?width=300" />
+    <prov:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Weapon?oldid=744830279" />
+    <dbo:abstract xml:lang="ar">25بك المحتوى هنا ينقصه الاستشهاد بمصادر. يرجى إيراد مصادر موثوق بها. أي معلومات غير موثقة يمكن التشكيك بها وإزالتها. (مارس 2016) السلاح هو كل أداة تتيح شل أو جرح أو قتل كائن حي أو التسبب في دمار مادي ويمكن أن يستعمل السلاح لغرض الدفاع، الهجوم، أو التهديد إضافةً إلى إمكانية الاستعمال في الرماية الرياضية أو الصيد.</dbo:abstract>
+    <dbo:abstract xml:lang="fr">Une arme est un outil ou un dispositif autonome (un piège, une mine…) destiné dans sa conception ou dans son utilisation à neutraliser, à blesser ou à tuer un être vivant, ou à causer une destruction matérielle. On dénombre quatre usages principaux des armes : 
+*  la chasse (pour se nourrir ou pour le loisir) ; 
+*  la défense ou la dissuasion (pour se protéger ou se prémunir des agressions) ; 
+*  l’attaque ou la menace (pour agresser autrui) ; 
+*  le sport et le loisir (art martial, tir sportif, jeux). Elles ont également des finalités dérivées, tels que sports, arts martiaux, cérémonies et fêtes, marques de statut social… Dans les armes de guerre, on distingue deux grandes catégories : les armes non conventionnelles (à savoir les armes nucléaires, chimiques et biologiques) et les armes conventionnelles (toutes les autres armes). Aujourd&#39;hui, les principaux usagers des armes restent les États, qui tout en contrôlant le développement, la production et l&#39;accès, les destinent en premier lieu aux militaires et à la police. Le contrôle des armes est considéré par certains comme primordial dans une société développée, tandis que d&#39;autres affirment que les citoyens devraient toujours disposer d&#39;une arme afin de pouvoir lutter, si nécessaire, contre un agresseur (concitoyen abusif ou envahisseur) ou un pouvoir corrompu. Les militaires étendent la définition du terme arme à tous les dispositifs engagés dans l&#39;activité guerrière même s&#39;ils ne provoquent pas de destructions immédiates. On peut ainsi citer le renseignement ou la logistique. L&#39;ensemble des équipements nécessaires à l&#39;utilisation d&#39;une munition (obus, bombe ou missile) est qualifié de système d&#39;arme. Le mot arme désigne également les cinq composantes traditionnelles de l&#39;armée française.</dbo:abstract>
+    <dbo:abstract xml:lang="ru">Ору́жие (также вооружение) — общее название устройств, предметов и средств, конструктивно предназначенных для спасения жизни либо убийства, либо обезвреживания людей и животных и/или выведения из строя техники и сооружений военного противника. После изобретения пороха широко стали применяться артиллерия и пороховые ракеты, а также пороховое стрелковое оружие. Но до изобретения и внедрения в массовое боевое применение пороха, основой армий были войска, вооружённые холодным ручным и так называемым метательным оружием. К оружию относят устройства и предметы, конструктивно предназначенные для поражения живой или иной цели, предмет для нападения или обороны. Также — совокупность средств для охоты и ведения войны. В переносном значении оружие — какое-либо средство для борьбы с кем-нибудь и с чем-нибудь, для достижения поставленных целей.</dbo:abstract>
+    <dbo:abstract xml:lang="it">Un&#39;arma è un qualsiasi dispositivo, strumento meccanico o elemento di natura chimica, nucleare o elettromagnetica che venga utilizzato allo scopo di offendere oppure sia progettato per la difesa personale dell&#39;utilizzatore. In linea puramente teorica, qualunque oggetto può essere utilizzato come arma, anche se chiaramente alcuni possono risultare più efficaci o idonei allo scopo rispetto ad altri. Da un punto di vista normativo e concettuale si distingue generalmente fra &quot;arma propria&quot; e &quot;arma impropria&quot;, cioè fra oggetti progettati e creati appositamente per essere usati come armi ed oggetti originariamente destinati invece ad altra funzione, che in un determinato frangente vengono usati come armi.</dbo:abstract>
+    <dbo:abstract xml:lang="es">Un arma es una herramienta de agresión útil para la caza y la autodefensa, cuando se usa contra animales, y puede ser utilizada contra seres humanos en tareas de ataque, defensa y destrucción de fuerzas o instalaciones enemigas, o simplemente como una efectiva amenaza. Un arma es por tanto un dispositivo que amplía la dirección y la magnitud de una fuerza. Según otra interpretación, podrían definirse como los dispositivos más sencillos que utilizan ventajas mecánicas para multiplicar una fuerza. En ataque, las armas pueden ser utilizadas como un instrumento de coacción, por contacto directo o mediante uso de proyectiles. Estas herramientas, por tanto, van desde algo tan sencillo como un palo afilado a un complejo aglomerado de tecnologías, como un misil balístico intercontinental. En sentido metafórico, cualquier cosa capaz de causar un daño puede ser entendido como arma, y en este sentido se interpreta el desarrollo de la guerra psicológica durante las guerras del siglo XX. Como ejemplo: Los aviones Junkers Ju 87, conocidos como &quot;Stukas&quot; activaban sus bocinas en los bombardeos en picado para inducir temor a sus enemigos. Más recientemente, se han diseñado armas no letales, diseñadas para ser utilizadas por grupos paramilitares, fuerzas de seguridad o incluso tropas en combate, y cuyo objetivo es provocar daños suficientes para neutralizar a un adversario sin causarle la muerte y minimizando su impacto sobre el medio ambiente. En la práctica, se entiende que cualquier elemento capaz de dañar podría ser considerado un arma (aun cuando esta no fuera su principal función), dependiendo de las circunstancias y fines con que se las utilice. Criterio similar es utilizado en la Ciencia del Derecho, donde el puño, pese a no ser su función inmediata la de dañar, puede llegar a ser considerado un arma.[cita requerida] Sin embargo, según el Derecho penal vigente en muchos países, un objeto no puede ser considerado como arma si no fue creado con las funciones específicas de ataque o defensa. Por ejemplo, la legislación española establece que: En este sentido, para que un objeto pueda ser reputado jurídicamente como &quot;arma&quot;, al momento de su fabricación debe haber tenido como finalidad primordial la de ser utilizado como &quot;arma&quot;, ya sea de ataque o defensa.</dbo:abstract>
+    <dbo:abstract xml:lang="pl">Broń – termin występuje w dwóch znaczeniach: 
+*  1: Zbiór rzeczy materialnych, stanowiących przedmioty do walki zbrojnej zaczepnej lub obronnej (broń wojskowa), polowania na zwierzynę (broń myśliwska), a także rywalizacji sportowej (broń sportowa). Nie jest możliwe ustalenie precyzyjnej definicji broni w tym znaczeniu. 
+*  2: Termin oznaczający rodzaj wojsk, np. broń pancerna. Definicja broni nie została do dziś ustalona i wymyka się jednoznacznym próbom określenia. Łatwiej natomiast definiowalne jest pojęcie &quot;systemu broni&quot;, który tworzy kombinacja broni oraz wyposażenia używanego do dostarczenia jej destrukcyjnej siły do celu. System broni składa się z: 1.  
+*  rzeczy, które wykrywają, lokalizują lub identyfikują cel; 2.  
+*  rzeczy, które nakierowują lub nacelowują obiekt dostarczany do celu; 3.  
+*  rzeczy, które dostarczają lub zapoczątkowują dostarczanie obiektu do jego celu; 4.  
+*  rzeczy, które niszczą cel przy kontakcie z nim lub gdy znajdują się w jego pobliżu</dbo:abstract>
+    <dbo:abstract xml:lang="zh">武器，是用於攻擊的工具，也因此被用来威慑和防御。武器一般會用來傷害或攻擊其他人或設施，当武器被有效利用时，一般會遵循「期望效果最大化、附带伤害最小化」的原则。武器一般是在像狩獵、犯罪、執法、自衛及战争下使用，其目的是為了增加上述活動的效率及效能。 兵器和軍火也是武器，但定義範圍略有不同：兵器是指以非核常规手段杀伤敌有生力量、破坏敌作战设施、保护我方人员及设施的器械，是进行常规战争、应付突发事件、保卫国家安全的武器，也有些定義會將無火藥的冷兵器視為兵器，例如中國的十八般兵器；而軍火是專指戰爭中使用的武器。 任何可造成伤害的事物（甚至可造成心理傷害的）都可称为武器。只要用於攻擊，武器可以是一根简单的木棒，也可是一枚核弹頭。日常可見的石頭、車輛或铅筆都可以作為武器，但許多武器是特別為攻擊的目的而設計，從簡單的棍棒、劍及槍到複雜的洲際彈道飛彈、生物武器及网络武器等。許多先進的武器也有對應的導航系統及通訊系統，後來也衍生出偵測武器用的偵查系統，如雷達。 武器一辭並非全然為軍事領域所用，也可以用於日常生活中，作為競爭工具的代名詞。比如說法庭上之攻防依據、商業競爭之手段，人與人間之較量標的等等。 完整的武器和学说列表参看军事技术与装备。</dbo:abstract>
+    <dbo:abstract xml:lang="en">A weapon, arm, or armament is any device used with intent to inflict damage or harm to living beings, structures, or systems. Weapons are used to increase the efficacy and efficiency of activities such as hunting, crime, law enforcement, self-defense, and warfare. In a broader context, weapons may be construed to include anything used to gain a strategic, material or mental advantage over an adversary. While just about any ordinary objects such as sticks, stones, cars, or pencils can be used as weapons, many are expressly designed for the purpose – ranging from simple implements such as clubs, swords and guns, to complicated modern intercontinental ballistic missiles, biological and cyberweapons. Something that has been re-purposed, converted, or enhanced to become a weapon of war is termed weaponized, such as a weaponized virus or weaponized lasers.</dbo:abstract>
+    <dbo:abstract xml:lang="pt">Qualquer objeto pode ser utilizado como uma Arma quando usado para atacar ou ameaçar um ser bem como para autodefesa. A utilização de um objeto como arma, não transforma a natureza desse objeto numa arma por si, mas atribui-lhe essa característica durante a utilização. É o caso da expressão arma do crime, em que o objeto, qualquer que ele seja, utilizado para cometer um crime, foi utilizado como arma . As armas podem ter várias utilidades, passando a ser consideradas como tipos de armas. Neles se incluem as armas de caça, as armas de tiro desportivo, as armas de guerra, as armas de defesa, etc. Alguém que detenha uma arma está armado, do contrário, desarmado. Armas também podem ser usadas não só em seres como também em objetos, para destruí-los ou danificá-los. Armas são muitas vezes causas de morte: constituem meios para a prática de homicídio e suicídio. São divididas em diferentes tipos, mostrados a seguir: 
+*  Arma branca - Tipo de arma que serve para simples ataque, embora possa causar morte. Não são capazes de disparar projéteis. (exemplos: bastões, facas, espadas) 
+*  Arma de fogo - Arma capaz de lançar projéteis, a partir de explosão interna. (exemplos: revólveres, pistolas, espingardas, metralhadoras) 
+*  Arma não-letal - Arma capaz de ferir uma pessoa, sem provocar morte. (exemplos: eletrochoque, pistola ou revólver com projéteis de borracha) 
+*  Arma de efeito moral - Arma destinada a causar grande incômodo para uma pessoa, dificultando sua a reação. (exemplos: barulhos altos ou luzes fortes) 
+*  Arma química - Arma capaz de irritar ou danificar, por meio de gases e outros elementos, o organismo de uma pessoa. (exemplos: gás de pimenta, gás lacrimogêneo) 
+*  Arma biológica - Arma que libera doenças capazes de impor danos graves a um ser (exemplos: vírus, carbúnculo) 
+*  Arma ocasional - Objetos que não são armas em si mas que podem ser utilizados como armas e são frequentente confundidos com armas, que são hoje ferramentas ou que foram armas em tempos primitivos (exemplos: pau, pedra, machado, arpão de pesca subaquática, arco e flecha, dardo de atletismo)</dbo:abstract>
+    <dbo:abstract xml:lang="nl">Een gevechtswapen is een stuk gereedschap dat gebruikt wordt om mensen, dieren of voorwerpen te verwonden/beschadigen of te doden. Het kan gebruikt worden als aanvals- of verdedigingsmiddel. Al sinds het begin van de menselijke geschiedenis hebben mensen wapens gebruikt voor de jacht, zelfverdediging en oorlogsvoering. Wapens komen voor in allerlei soorten en maten. Ze kunnen zeer eenvoudig en spotgoedkoop zijn, zoals een houten knuppel of een slinger, of hoogtechnologisch en peperduur, zoals een kruisraket. Bijna alle harde, scherpe, stompe en zware voorwerpen kunnen als wapen worden gebruikt. Incidenteel worden dagelijkse voorwerpen omgebouwd tot wapen, zoals een schietbalpen, een schietparaplu of schietsleutelhangers waarmee men een kogel kan afvuren. Sommige voorwerpen, hoewel niet als wapen bedoeld, kunnen wel zo worden gebruikt, zoals eetgerei, selfiesticks, honkbalknuppels, tafelpoten, steelpannen, (gebroken) flessen, etc. Een motorvoertuig kan gebruikt worden om moedwillig te doden, verwonden of beschadigen door aanrijding, en er zijn dan ook gevallen bekend waarin dit voor misdadige of terroristische motieven is geschied. Geimproviseerde zelfgemaakte wapens uit de gevangenis worden aangeduid als chiv of shank en gebruikt door gedetineerden. Bij rellen ziet men vaak een gebruik van alledaagse voorwerpen als geimproviseerde wapens. Zelfs menselijke lichaamsdelen kunnen als wapen worden gebruikt, dit worden natuurlijke wapens genoemd, en het gebruik ervan wordt geoefend bij zelfverdedigingskunsten en vechtsporten. Veel dier- en plantsoorten hebben &#39;ingebouwde&#39; wapens, zoals klauwen, giftanden of al dan niet giftige angels en stekels of doornen, en/of verdedigingswapens, zoals pantsering. Plantaardige, dierlijke en bacteriele vergiffen evenals ziekteverwekkers kunnen bovendien dienen als bron voor biologische wapens, zoals botuline, tetanus, pokken, nicotine, ricine, etc.. Dieren kunnen ook ingezet worden als wapen. Honden worden speciaal gefokt als &#39;diensthonden&#39; en sommige worden als oorlogshond getraind om zich in de vijand vast te bijten Het grootste deel van de wapens ter wereld wordt tegenwoordig in een klein aantal landen geproduceerd. Zo zijn de vijf permanente leden van de VN Veiligheidsraad ook de grootste producenten. Elk jaar wordt voor vele miljarden euro&#39;s in wapens gehandeld.</dbo:abstract>
+    <dbo:abstract xml:lang="de">Als Waffe werden in der Regel alle Gegenstände bezeichnet, die dazu bestimmt und geeignet sind, Lebewesen physisch (meist durch mechanische Einwirkung) infolge Verwundung oder Tod bzw. psychisch in ihrer Handlungsfähigkeit zu beeinträchtigen oder handlungsunfähig zu machen. Dazu zählen auch Mittel, die Gegenstände oder immaterielle Güter beschädigen, zerstören oder gebrauchsunfähig machen können. Der Waffenbesitz und der Waffengebrauch sowie die Waffenwirtschaft (die Waffenherstellung und der Waffenhandel) werden unter anderem durch das Waffenrecht geregelt. Sportwaffen sind wegen ihres Gefährdungspotentials ebenfalls davon betroffen.</dbo:abstract>
+    <dbo:abstract xml:lang="ja">武器（ぶき、英: weapon, arms、ラテン語: armaアルマ）は、戦闘や狩猟に用いる道具や器具の総称である。 広義では、戦争や軍隊で用いる兵器や武装、さらには人員・物資までも含めて「武器」とよぶ場合や、人間や動物がもつ社会競争で有効な長所や生き残りの手段を「武器」と比喩表現することまで含める場合もある（例：「逃げ足の速さが武器」「豊富な知識が武器」「コネクションの広さが武器」などなど）。 武器は殺傷、損傷、捕縛、破壊、無力化を元来の目的として攻撃能力を有する道具である。主な用途は戦闘と狩猟だが、それらを模して行われるスポーツ競技や演劇用の模造品・玩具がある。 人が手にして攻撃に用いれば様々な道具や物体が武器となる。握りやすくある程度の重みがあり武器としての使用に適するため、「柄のあるもの」、つまりは斧や銛（もり）、鎌（かま）、鎚（つち）のような農・工具、狩猟道具類は武器としての使用や転用がたやすく、それらから本格的な武器へと発展するものもあった。ダーク（短剣の一種）のように、非常時での武器としての使用を意図した道具もあり、武器と道具の関係は深い。 英語では「ウェポン(weapon) 」「アームズ(arms) 」と呼び、中国語では武器の他「兵器」（へいき）「器械」（きかい）と呼んでいる。それぞれの指す意味は日本語の狭義の「武器」と同一ではない。 武器の強弱はしばしば話題になるが、状況の変化によって長所が短所となりえるため「全てにおいて優れる」武器は存在しない。例えば槍の長所である「長さ」は、閉所には持ち込みすらできない、持ち込めたとしても十分には振り回せずに「短所」となる。破壊力の高い銃も弾薬の補給が滞れば本来の能力を発揮できず、またこのような銃は近距離では使えないものも多い。また複合武器の欠点は、複雑なため使いこなすには長期間の訓練が必要なこと、多目的武器は、どの用途に使っても専門の武器には及ばないことが上げられる。 そういった武器の構成要素として長さ・射程、重量、威力、速度・連射力、操作性などが問題となり、さらに軍での運用視点から見ると、操作に必要な熟練度、調達コスト、生産性、信頼度、耐久性、携帯性といった要素も問われる。隠密性を求める特殊な武器も存在する。それら長所や短所は、他の武器や兵科との組み合わせ、操法や戦術の工夫によってある程度補われる。 武器はその能力以外に民族や権力の象徴のような特別な意味を持つ場合がある。儀礼に用いる武器のほか、職権を示す職杖や魔よけなどがある。高度な技術を利用した武器は多く、財産的価値を持つものも多い。また装飾とは別に武器が持つ一種の機能美に美術的価値が見出される。</dbo:abstract>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mjolnir_(comics)">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Aerial_torpedo">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Claw_of_Archimedes">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lasso_of_Truth">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/GİRSAN">
+    <dbo:product rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/TİSAŞ">
+    <dbo:product rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Heat-Ray">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/McGlashan_Air_Machine_Gun">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ranken_dart">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Guandao">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tambō">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Haskins_Rifle">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Big_Joe_5_crossbow">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Fábrica_de_Armas_Halcón">
+    <dbo:product rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/MAHEM">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Russian_12_inch_40_caliber_naval_gun">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Cherry_gun">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Defense_systems">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Knight&#39;s_Armament_Company_PDW">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Caltrop">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Electrified_water_cannon">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tonfa">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Personal_weapon">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Proton_pack">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Anti-submarine_missile">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Shooting_sticks_(weapon_mount)">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Wahaika">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Narayanastra">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Varunastra">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/C12A1">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Next_Generation_Multiple_Warhead_System">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/12_cm/45_10th_Year_Type_naval_gun">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bailey_machine_gun">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Smartgun">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Military_Antiques">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Weapons_systems">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Leonardo&#39;s_crossbow">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/BC-41">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Close_range_weapon">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Blacker_Bombard">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Eku">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Phased_plasma_gun">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Congreve_rocket">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gerald_Bull">
+    <dbo:knownFor rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lightsaber">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/MGM-5_Corporal">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Green_Dragon_Crescent_Blade">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Military_asset">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kusarigama">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Red_Beard_(nuclear_weapon)">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Suitcase_nuclear_device">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Taiaha">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Salted_bomb">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2.8_cm_sPzB_41">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Chigiriki">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Maduvu">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ridill">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tewhatewha">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Two-section_staff">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hurlbat">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Millwall_brick">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ngaw">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Chain_whip">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Siangham">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Who_Me">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Orange_Herald">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/PF-89">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/ZZ_Gundam">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Z_Gundam">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vigilant_Eagle">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bowbearer">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Throwing_axe">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Crossbow">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/General-purpose_machine_gun">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/General_Electric">
+    <dbo:product rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Greek_fire">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Heckler_&amp;_Koch">
+    <dbo:product rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Pole_weapon">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sling_(weapon)">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sword">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ares_Shrike_5.56">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bolas">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Corvo_(knife)">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Deutsche_Waffen_und_Munitionsfabriken">
+    <dbo:industry rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Holman_Projector">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Knight&#39;s_Armament_Company">
+    <dbo:product rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Livens_Projector">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/MGM-18_Lacrosse">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/PIAT">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Panzerfaust_3">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Shoulder-launched_Multipurpose_Assault_Weapon">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hedgehog_(weapon)">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Stinkpot_(weapon)">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Type_99_mine">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Chakram">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tabak-Toyok">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mandau_(knife)">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Red_Snow">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yasin_(RPG)">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sagaris">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Waster">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/S-24_rocket">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/S-5_rocket">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/S-8_rocket">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Szabla">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Graphite_bomb">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Brahmastra">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mobility_kill">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Unrotated_projectile">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Armament">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jimpul">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kabeala">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sodegarami">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/ASh-12.7">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Laser_Weapon_System">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Smith_Enterprise,_Inc.">
+    <dbo:product rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Energy_bow">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jedwart_stave">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/MUPSOW">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Higgins_Armory_Museum">
+    <dbo:type rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tarpley_carbine">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Emery_Molyneux">
+    <dbo:occupation rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Horseman&#39;s_pick">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/M141_Bunker_Defeat_Munition">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sudarshana_Chakra">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/ZEUS-HLONS_(HMMWV_Laser_Ordnance_Neutralization_System)">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/FB_%22Łucznik%22_Radom">
+    <dbo:product rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Korth">
+    <dbo:product rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Assegai">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lance-grenade_individuel_Mle_F1_(LGI_Mle_F1)">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Chuí_(Chinese_weapon)">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nzappa_zap">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Denel_FT5">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/55_S_55">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Chainlock">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Electromagnetic_Personnel_Interdiction_Control">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Röhm_Gesellschaft">
+    <dbo:product rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Naval_ram">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/RB-79_Ball">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Main_battery">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/This_Pen_Is_a_Weapon">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gun-howitzer">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Goedendag">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sponge_grenade">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Violet_Club">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lithobolos">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tekkan">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Emeici">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sword_of_Attila">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Zakłady_Mechaniczne_Tarnów">
+    <dbo:product rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Suntetsu">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Good_Samaritan_(comics)">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Noisy_Cricket">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Active_Denial_System">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Advanced_Armament_Corporation">
+    <dbo:product rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/BFG_(weapon)">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Blaster_(Star_Wars)">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Cooper_Firearms_of_Montana">
+    <dbo:product rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/FN_CAL">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Grenade_launcher">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Israel_Military_Industries">
+    <dbo:product rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/LAW_80">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mere_(weapon)">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Military_fork">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Squid_(weapon)">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tear_gas">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Stormbringer">
+    <dbp:type rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yawara">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bersa">
+    <dbo:product rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Udar_revolver">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Heckler_&amp;_Koch_MP7">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Glaive">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Shobo">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Aerial_bomb">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Shinai">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kabutowari">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Rhomphaia">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Toggling_harpoon">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/M16_Multiple_Gun_Motor_Carriage">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Three-section_staff">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Modular_weapon">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Anti-fortification_weapon">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vortex_ring_gun">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Type_98_50_mm_Mortar">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/U-5TS">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Couillard">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Plasma-powered_cannon">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ampulomet">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Armaments">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bill_(weapon)">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Izhevsk_Mechanical_Plant">
+    <dbo:product rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/MEDUSA_(weapon)">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Pike_(weapon)">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Quarterstaff">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/RPC_Fort">
+    <dbo:product rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/RPG-2">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/ST_Kinetics">
+    <dbo:product rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sai_(weapon)">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bat_bomb">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Double-barreled_cannon">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/MIRACL">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Astra_(weapon)">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Pyros_(bomb)">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Rencong">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Energy_sword">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Knightly_sword">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gichang">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jangchang">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jukjangchang">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Pyeongon">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/PzF_44">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Shuckra">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Singing_Sword">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Odinsword">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sasumata">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Leather_cannon">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Cold_weapon">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ra-4">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Brahmashirsha_astra">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Beretta">
+    <dbo:product rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/FN_P90">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Israel_Weapon_Industries">
+    <dbo:product rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Shuriken">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kimber_Manufacturing">
+    <dbo:product rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Depth_charge">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Side_arm">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Blowgun">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Amadeo_Rossi">
+    <dbo:product rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Caracal_International">
+    <dbo:product rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kuwa">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bardiche">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Foam_weapon">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Garrote">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jitte">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Battle_Arena_Toshinden_2">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Plançon_a_picot">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Siege_hook">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2K22_Tunguska">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/M30_mortar">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bagh_naka">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/HELRAM">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/U.S._Fire_Arms_Manufacturing_Company">
+    <dbo:product rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Oxybeles">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Monk&#39;s_spade">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Slapjack_(weapon)">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/StunStrike">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/American_Samoa_national_rugby_union_team">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Minié_rifle">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/French_school_of_fencing">
+    <dbp:focus rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/M45_Quadmount">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Medium_Atomic_Demolition_Munition">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tepoztopilli">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hook_sword">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tsukubō">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Confederate_Revolving_Cannon">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Curved_saber_of_San_Martín">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/95_S_58-61">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bec_de_corbin">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Blue_Danube_(nuclear_weapon)">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lewis_Machine_and_Tool_Company">
+    <dbo:product rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Melee_weapon">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Meteor_hammer">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/SAKO">
+    <dbo:product rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yellow_Sun_(nuclear_weapon)">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/B41_nuclear_bomb">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Spar_torpedo">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Electrolaser">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Brandt_Mle_27/31">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/FL-boat">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gebirgsflak_38">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/RPG-75">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/WEAPON">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Corseque">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Quauholōlli">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tlaximaltepoztli">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Poison_pen_(weapon)">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Trocano">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/12-inch_coast_defense_mortar">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/AN-52_bomb">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Pneumatic_weapon">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Armbrust">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/B53_nuclear_bomb">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bisento">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Diemaco">
+    <dbo:product rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Fauchard">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Guisarme">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Spetum">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Al-Bana">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Explosive_rat">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nova_bomb_(Andromeda)">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gas_pistol">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Brandt_Mle_1935">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/C11_(rifle)">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/M63_ground_mount">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Woldo">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/WEAPONS">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Colt_Canada">
+    <dbo:product rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Glide_bomb">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Taser">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Close-in_weapon_system">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Dazzler_(weapon)">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Steyr-Daimler-Puch">
+    <dbo:product rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Johnny_Seven_OMA">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kujang_(weapon)">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Parrott_rifle">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Weaponry">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/20_mm_modèle_F2_gun">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/AA_mine_discharger">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Arbir">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Macana">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Rotary_cannon">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Type_87_self-propelled_anti-aircraft_gun">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jason_Walters">
+    <dbp:charge rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/M40_recoilless_rifle">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Net_gun">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nouredine_el_Fahtni">
+    <dbp:charge rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Thermonuclear_weapon">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Dagger-axe">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Punjab_lasso">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Suicide_weapon">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Handflammpatrone">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Weighted-knuckle_glove">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jet_Li_filmography">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/M3_tripod">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Model_1817_common_rifle">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Model_1968_Recoilless_Gun">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Springfield_Model_1847">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/TRW_Low_Maintenance_Rifle">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Type_98_320_mm_mortar">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lævateinn">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Chain_weapon">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Batar">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Designated_marksman_rifle">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gunstock_war_club">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/John_Lee_(inventor)">
+    <dbo:occupation rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/M27_Infantry_Automatic_Rifle">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Corner_Shot_Holdings">
+    <dbo:product rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Pasha_(Hinduism)">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Feinwerkbau">
+    <dbo:product rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Robinson_Armament_Co.">
+    <dbo:product rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Weapon_(disambiguation)">
+    <dbo:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lawgiver_(Judge_Dredd)">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Korean_fighting_fan">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Electroshock_weapon">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/B57_nuclear_bomb">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ion_cannon">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Swiss_arrow">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Combination_weapons">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Daniel_Falconer">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Buntot_Pagi">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sword_of_Saints_Cosmas_and_Damian">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sun_gun">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Type_67_mortar">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/M30_Luftwaffe_drilling">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Operational_history_of_the_Luftwaffe_(1939–45)">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hoeroa">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kotiate">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/14_cm/50_3rd_Year_Type_naval_gun">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Palmer_BB_Machine_Gun">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Soviet_laser_pistol">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Makeshift_weapon">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/LED_Incapacitator">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Meson_bomb">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mobile_Artillery_Monitoring_Battlefield_Radar">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Māripi">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Medieval_weaponry">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Combustion_light-gas_gun">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ancillary_weapon">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/List_of_sunken_battleships">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Werfer-Granate_21">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Weteye_bomb">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Elephant_sword">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Rising_breech_carbine">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_evolution_of_weapons">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Weapon_systems">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Weapons_System">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Weapons_Systems">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Weapons_system">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Model_1924/1929D_machine_gun">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/ET.317">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/ČZW-438">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Oxborough_Dirk">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/M55_(rocket)">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sharur_(mythological_weapon)">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Boulet_Asphyxiant">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Seilbomb">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mecar">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Floating_arm_trebuchet">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lego_gun">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Wand_of_Orcus">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Chili_grenade">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ex_officio_oath">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tonfa_in_popular_culture">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Husa_Knife">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Weapon">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Weaponary">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Weapons">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/STK_SSW_(firearm)">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/RGB-60">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Weapons_and_munitions">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/M1_Frangible_Grenade">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Weopan">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Weaponized">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Weapon" />
+  </rdf:Description>
+</rdf:RDF>

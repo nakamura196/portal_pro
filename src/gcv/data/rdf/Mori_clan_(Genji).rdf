@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:dct="http://purl.org/dc/terms/"
+	xmlns:dbo="http://dbpedia.org/ontology/"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:prov="http://www.w3.org/ns/prov#"
+	xmlns:dbp="http://dbpedia.org/property/"
+	xmlns:ns8="http://purl.org/linguistics/gold/" >
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tsuyama_Castle">
+    <dbp:controlledby rdf:resource="http://dbpedia.org/resource/Mori_clan_(Genji)" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Iwamura_Castle">
+    <dbp:occupants rdf:resource="http://dbpedia.org/resource/Mori_clan_(Genji)" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mori_clan">
+    <dbo:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/Mori_clan_(Genji)" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Seiwa_Genji">
+    <dbp:cadetBranches rdf:resource="http://dbpedia.org/resource/Mori_clan_(Genji)" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mori_clan_(Genji)">
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Abstraction100002137" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Kin107969695" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatJapaneseClans" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/SocialGroup107950920" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Group100031264" />
+    <rdfs:label xml:lang="ja">森氏</rdfs:label>
+    <rdfs:label xml:lang="es">Clan Mori</rdfs:label>
+    <rdfs:label xml:lang="en">Mori clan (Genji)</rdfs:label>
+    <rdfs:label xml:lang="zh">森氏</rdfs:label>
+    <rdfs:label xml:lang="pt">Clã Mori (Genji)</rdfs:label>
+    <rdfs:label xml:lang="fr">Clan Mori (Genji)</rdfs:label>
+    <rdfs:label xml:lang="de">Mori (Klan)</rdfs:label>
+    <rdfs:comment xml:lang="pt">Nota:  Para o clã Mōri da província de Aki, consulte clã Mōri O clã Mori (森氏, Mori-shi?) foi uma família descendente dos Seiwa Genji. Sua linhagem descendeu de Minamoto no Yoshiie (também conhecido como Hachimantaro) por meio do seu sétimo filho, Minamoto no Yoshitaka, proprietário de Mori-no-shō na província de Sagami. Seu filho, Minamoto no Yoritaka, tomou o sobrenome Mori ao se aposentar, e o filho de Yoritaka, Yorisada, continuou a usar o sobrenome. Nagasada, filho de Yoshinari, e conhecido como Mori Ranmaru, morreu com Nobunaga no Incidente de Honnō-ji.</rdfs:comment>
+    <rdfs:comment xml:lang="es">El Clan Mori (森氏, Mori-shi) fue una familia japonesa descendiente de Seiwa Genji. La línea desciende desde Minamoto no Yoshiie (conocido también como Hachimantaro) a través de su séptimo hijo, Minamoto no Yoshitaka, propietario de Mori-no-shō en la Provincia de Sagami. Su hijo, Minamoto no Yoritaka, tomó &quot;Mori&quot; como apellido cuando se retiró, y el hijo de Yoritaka, Yorisada continuó usando dicho apellido. Durante el Período Sengoku el Clan Mori sirvió a Oda Nobunaga, daimyo que propició el final de ese período de guerras allanar el camino para la definitiva unificación de Japón.</rdfs:comment>
+    <rdfs:comment xml:lang="zh">森氏，日語訓讀音為もりし，是日本的一個氏族、苗字。占日本姓氏列表第27位。</rdfs:comment>
+    <rdfs:comment xml:lang="fr">Le clan Mori (Genji) (森氏, Mori-shi) est une famille qui descend de Seiwa Genji. Sa lignée descend de Minamoto no Yoshiie (également connu sous le nom Hachimantaro) par son septième fils, Minamoto no Yoshitaka, propriétaire du Mori-no-shō dans la province de Sagami. Son fils Minamoto no Yoritaka, adopte le nom Mori quand il se retire et Yorisada, le fils de Yoritaka, continue à porter le nom. Nagasada, fils de Mori Yoshinari, connu sous le nom Mori Ranmaru, meurt avec Nobunaga dans l&#39;incident du Honnō-ji.</rdfs:comment>
+    <rdfs:comment xml:lang="ja">森氏（もりし） 
+*  清和源氏河内源氏流の氏族。本項で扱う。 
+*  同じく清和源氏の満季流の小椋氏の一族。 
+*  宇多源氏六角氏一族の鯰江氏の支族。 
+*  桓武平氏秩父氏流の氏族。現在の東京都町田市一帯に勢力を張った一族。 
+*  舎人親王流の清原氏の一族。豊後国玖珠郡を拠点とした。 
+*  藤原秀郷の系統の一族。 
+*  肥後国の菊池氏の一族。 
+*  山城国の賀茂氏の一族。 
+*  阿波水軍の森氏。阿波水軍を率いた森氏については森甚五兵衛の項目を参照。 
+*  清和源氏河内源氏の氏族。源義隆流の氏族については毛利氏 (源氏)を参照。 森氏（もりし）は清和源氏の一流、河内源氏の流れを汲む武家である。八幡太郎源義家の七男源義隆が相模国愛甲郡毛利庄の領主となって、森冠者と名乗った。その三男、源頼隆は後に若槻を号するが、出家の後は森蔵人入道西阿と称した。本格的に森を名字としたのは、宝治合戦後に頼隆の次男であるとされる森頼定が森姓を称したことによるとされる。遠祖陸奥七郎義隆の長男・義広（頼定の伯父）にはじまる源姓毛利氏とは、名字に多少の差異はあるものの、「名字の地」即ち名字発祥の地を同じくするされる。森忠政を祖とする近世大名の家系はこの子孫である（ただし、仮冒という説もある）。</rdfs:comment>
+    <rdfs:comment xml:lang="en">The Mori clan (森氏 Mori-shi) was a family of Japanese people descended from the Seiwa Genji. Their line descended from Minamoto no Yoshiie (also known as Hachimantaro) through his seventh son, Minamoto no Yoshitaka, proprietor of Mōri-no-shō in Sagami Province. His son, Minamoto no Yoritaka, took Mori as his surname when he retired, and Yoritaka&#39;s son Yorisada continued to use the surname. Yoshinari&#39;s son Nagasada, known as Mori Ranmaru, died with Nobunaga in the Incident at Honnō-ji.</rdfs:comment>
+    <rdfs:comment xml:lang="de">Die Mori (jap. 森氏, Mori-shi) waren eine Familie des japanischen Schwertadels (Buke), die von Minamoto no Yoshitaka († 1150), abstammten, dem siebten Sohn von Yoshiie (Seiwa-Genji). Mit einem Einkommen von zuletzt 20.000 Koku gehörten die in Akō (Präfektur Hyōgo) residierenden Mori zu den kleineren Tozama-Daimyō der Edo-Zeit.</rdfs:comment>
+    <owl:sameAs rdf:resource="http://yago-knowledge.org/resource/Mori_clan_(Genji)" />
+    <owl:sameAs rdf:resource="http://es.dbpedia.org/resource/Clan_Mori" />
+    <owl:sameAs rdf:resource="http://fr.dbpedia.org/resource/Clan_Mori_(Genji)" />
+    <owl:sameAs rdf:resource="http://ja.dbpedia.org/resource/森氏" />
+    <owl:sameAs rdf:resource="http://pt.dbpedia.org/resource/Clã_Mori_(Genji)" />
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q2975327" />
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Mori_clan_(Genji)" />
+    <owl:sameAs rdf:resource="http://ko.dbpedia.org/resource/모리_씨_(와카쓰키_씨)" />
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q2975327" />
+    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/Mori_(Klan)" />
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.03d4fjs" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Japanese_clans" />
+    <dbo:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">14466511</dbo:wikiPageID>
+    <dbo:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">732228391</dbo:wikiPageRevisionID>
+    <foaf:depiction rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Japanese_crest_Turu_no_maru(White_background).svg" />
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Mori_clan_(Genji)" />
+    <dbo:thumbnail rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Japanese_crest_Turu_no_maru(White_background).svg?width=300" />
+    <prov:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Mori_clan_(Genji)?oldid=732228391" />
+    <dbo:abstract xml:lang="fr">Le clan Mori (Genji) (森氏, Mori-shi) est une famille qui descend de Seiwa Genji. Sa lignée descend de Minamoto no Yoshiie (également connu sous le nom Hachimantaro) par son septième fils, Minamoto no Yoshitaka, propriétaire du Mori-no-shō dans la province de Sagami. Son fils Minamoto no Yoritaka, adopte le nom Mori quand il se retire et Yorisada, le fils de Yoritaka, continue à porter le nom. À l&#39;époque Sengoku, le clan sert sous Oda Nobunaga. Mori Yoshinari se bat contre Nobunaga pour le château de Kiyosu et se joint avec son fils, Yoshitaka mori, aux campagnes contre les clans Saitō, Azai et Asakura. Père et fils meurent dans la bataille contre les armées Azai-Asakura et Mori Nagayoshi, deuxième fils de Yoshinari, devient chef de la famille. Nagasada, fils de Mori Yoshinari, connu sous le nom Mori Ranmaru, meurt avec Nobunaga dans l&#39;incident du Honnō-ji. La famille obtient le statut de daimyo sous Toyotomi Hideyoshi et pendant cinq générations gouverne le domaine de Tsuyama dans la province de Mimasaka en tant que tozama daimyo. Nagayoshi perd la vie à la bataille de Komaki et Nagakute. Les descendants du clan sont faits vicomtes dans le nouveau système nobiliaire de l&#39;ère Meiji.</dbo:abstract>
+    <dbo:abstract xml:lang="ja">森氏（もりし） 
+*  清和源氏河内源氏流の氏族。本項で扱う。 
+*  同じく清和源氏の満季流の小椋氏の一族。 
+*  宇多源氏六角氏一族の鯰江氏の支族。 
+*  桓武平氏秩父氏流の氏族。現在の東京都町田市一帯に勢力を張った一族。 
+*  舎人親王流の清原氏の一族。豊後国玖珠郡を拠点とした。 
+*  藤原秀郷の系統の一族。 
+*  肥後国の菊池氏の一族。 
+*  山城国の賀茂氏の一族。 
+*  阿波水軍の森氏。阿波水軍を率いた森氏については森甚五兵衛の項目を参照。 
+*  清和源氏河内源氏の氏族。源義隆流の氏族については毛利氏 (源氏)を参照。 森氏（もりし）は清和源氏の一流、河内源氏の流れを汲む武家である。八幡太郎源義家の七男源義隆が相模国愛甲郡毛利庄の領主となって、森冠者と名乗った。その三男、源頼隆は後に若槻を号するが、出家の後は森蔵人入道西阿と称した。本格的に森を名字としたのは、宝治合戦後に頼隆の次男であるとされる森頼定が森姓を称したことによるとされる。遠祖陸奥七郎義隆の長男・義広（頼定の伯父）にはじまる源姓毛利氏とは、名字に多少の差異はあるものの、「名字の地」即ち名字発祥の地を同じくするされる。森忠政を祖とする近世大名の家系はこの子孫である（ただし、仮冒という説もある）。</dbo:abstract>
+    <dbo:abstract xml:lang="de">Die Mori (jap. 森氏, Mori-shi) waren eine Familie des japanischen Schwertadels (Buke), die von Minamoto no Yoshitaka († 1150), abstammten, dem siebten Sohn von Yoshiie (Seiwa-Genji). Mit einem Einkommen von zuletzt 20.000 Koku gehörten die in Akō (Präfektur Hyōgo) residierenden Mori zu den kleineren Tozama-Daimyō der Edo-Zeit.</dbo:abstract>
+    <dbo:abstract xml:lang="pt">Nota:  Para o clã Mōri da província de Aki, consulte clã Mōri O clã Mori (森氏, Mori-shi?) foi uma família descendente dos Seiwa Genji. Sua linhagem descendeu de Minamoto no Yoshiie (também conhecido como Hachimantaro) por meio do seu sétimo filho, Minamoto no Yoshitaka, proprietário de Mori-no-shō na província de Sagami. Seu filho, Minamoto no Yoritaka, tomou o sobrenome Mori ao se aposentar, e o filho de Yoritaka, Yorisada, continuou a usar o sobrenome. Durante o Período Sengoku, os Mori serviram a Oda Nobunaga. Mori Yoshinari lutou com Nobunaga pelo Castelo de Kiyosu, e, junto com seu filho Mori Yoshitaka, se juntou às campanhas contra os Saitō, Azai e Asakura. Pai e filho morreram na batalha contra as forças Azai-Asakura, Mori Nagayoshi, segundo filho de Yoshinari, se tornou chefe da casa. Nagasada, filho de Yoshinari, e conhecido como Mori Ranmaru, morreu com Nobunaga no Incidente de Honnō-ji. A família se tornou daimyo sob Toyotomi Hideyoshi, e por cinco gerações chefiou o domínio de Tsuyama na província de Mimasaka como tozama daimyo. Nagayoshi perdeu sua vida na batalha de Komaki Nagakute. Seus descendentes se tornaram viscondes na nobreza Meiji.</dbo:abstract>
+    <dbo:abstract xml:lang="es">El Clan Mori (森氏, Mori-shi) fue una familia japonesa descendiente de Seiwa Genji. La línea desciende desde Minamoto no Yoshiie (conocido también como Hachimantaro) a través de su séptimo hijo, Minamoto no Yoshitaka, propietario de Mori-no-shō en la Provincia de Sagami. Su hijo, Minamoto no Yoritaka, tomó &quot;Mori&quot; como apellido cuando se retiró, y el hijo de Yoritaka, Yorisada continuó usando dicho apellido. Durante el Período Sengoku el Clan Mori sirvió a Oda Nobunaga, daimyo que propició el final de ese período de guerras allanar el camino para la definitiva unificación de Japón. Bajo Toyotomi Hideyoshi la familia se convirtió en daimyo, y durante cinco generaciones encabezó el dominio de Tsuyama en la Provincia de Mimasaka como daimyo tozama. Mori Nagayoshi había perdido la vida en la Batalla de Komaki y Nagakute. Sus descendientes se convirtieron en vizcondes de la nobleza Meiji.</dbo:abstract>
+    <dbo:abstract xml:lang="zh">森氏，日語訓讀音為もりし，是日本的一個氏族、苗字。占日本姓氏列表第27位。</dbo:abstract>
+    <dbo:abstract xml:lang="en">The Mori clan (森氏 Mori-shi) was a family of Japanese people descended from the Seiwa Genji. Their line descended from Minamoto no Yoshiie (also known as Hachimantaro) through his seventh son, Minamoto no Yoshitaka, proprietor of Mōri-no-shō in Sagami Province. His son, Minamoto no Yoritaka, took Mori as his surname when he retired, and Yoritaka&#39;s son Yorisada continued to use the surname. During the Sengoku period, the Mori served under Oda Nobunaga. Mori Yoshinari fought with Nobunaga for Kiyosu Castle, and with his son Mori Yoshitaka joined the campaigns against the Saitō, Azai, and Asakura. Father and son died in the battle against the Azai-Asakura armies, and Mori Nagayoshi, second son of Yoshinari, became head of the house. Yoshinari&#39;s son Nagasada, known as Mori Ranmaru, died with Nobunaga in the Incident at Honnō-ji. The family became daimyo under Toyotomi Hideyoshi, and for five generations headed the Tsuyama Domain in Mimasaka Province as tozama daimyo. Nagayoshi had lost his life in the Battle of Komaki and Nagakute. Their descendants became viscounts in the Meiji peerage.</dbo:abstract>
+    <dbp:founder rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Mori Yorisada</dbp:founder>
+    <dbp:imageCaption rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Mon:</dbp:imageCaption>
+    <dbp:parentHouse rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Seiwa Genji</dbp:parentHouse>
+    <dbp:surnameNihongo rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">森氏</dbp:surnameNihongo>
+    <dbp:homeProvince rdf:resource="http://dbpedia.org/resource/Aikō_District,_Kanagawa" />
+    <dbp:homeProvince rdf:resource="http://dbpedia.org/resource/Sagami_Province" />
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Family" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mori_(disambiguation)">
+    <dbo:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/Mori_clan_(Genji)" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Mori_clan_(Genji)">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Mori_clan_(Genji)" />
+  </rdf:Description>
+</rdf:RDF>

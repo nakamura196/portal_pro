@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:dbo="http://dbpedia.org/ontology/"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:prov="http://www.w3.org/ns/prov#"
+	xmlns:ns6="http://purl.org/linguistics/gold/" >
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tadashi_Mihara">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Takasaki" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tatsunosuke_Takasaki">
+    <ns6:hypernym rdf:resource="http://dbpedia.org/resource/Takasaki" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Takasaki">
+    <rdfs:label xml:lang="en">Takasaki</rdfs:label>
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Takasaki" />
+    <dbo:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">29340327</dbo:wikiPageID>
+    <dbo:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">392714433</dbo:wikiPageRevisionID>
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Takasaki,_Gunma" />
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Takasaki" />
+    <prov:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Takasaki?oldid=392714433" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Takasaki">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Takasaki" />
+  </rdf:Description>
+</rdf:RDF>

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:dbo="http://dbpedia.org/ontology/"
+	xmlns:dct="http://purl.org/dc/terms/"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:prov="http://www.w3.org/ns/prov#"
+	xmlns:georss="http://www.georss.org/georss/"
+	xmlns:ns9="http://purl.org/linguistics/gold/" >
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nishikanbara_District">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Nishikanbara_District,_Niigata" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yahiko,_Niigata">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Nishikanbara_District,_Niigata" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Fujisawa_Shu">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Nishikanbara_District,_Niigata" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nishikanbara_District,_Niigata">
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Object100002684" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/District108552138" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Location100027167" />
+    <rdf:type rdf:resource="http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Region108630985" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoGeoEntity" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoPermanentlyLocatedEntity" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Settlement" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatDistrictsInNiigataPrefecture" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PhysicalEntity100001930" />
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoLegalActorGeo" />
+    <rdfs:label xml:lang="zh">西蒲原郡</rdfs:label>
+    <rdfs:label xml:lang="fr">District de Nishikanbara</rdfs:label>
+    <rdfs:label xml:lang="it">Distretto di Nishikanbara</rdfs:label>
+    <rdfs:label xml:lang="en">Nishikanbara District, Niigata</rdfs:label>
+    <rdfs:label xml:lang="ru">Нисикамбара</rdfs:label>
+    <rdfs:label xml:lang="ja">西蒲原郡</rdfs:label>
+    <rdfs:comment xml:lang="it">Il distretto di Nishikanbara (西蒲原郡, Nishikanbara-gun?) è uno dei distretti della prefettura di Niigata, in Giappone. Attualmente fa parte del distretto solo il comune di Yahiko.</rdfs:comment>
+    <rdfs:comment xml:lang="zh">西蒲原郡（日语：西蒲原郡／にしかんばらぐん Nishikanbara gun */?）為新潟縣的一個郡。 截止2006年3月20日，有人口人口8,537人、面積25.22平方公里。 管轄有以下一村。 
+*  彌彦村（やひこむら） 1878年（明治11年）郡區町村編制法成立、旧蒲原郡分割為北蒲原郡、中蒲原郡、東蒲原郡、新潟區、西蒲原郡和南蒲原郡6個部分。在經過數次市町村合併后，該郡面積大幅縮小。</rdfs:comment>
+    <rdfs:comment xml:lang="fr">Le district de Nishikanbara (西蒲原郡, Nishikanbara-gun) est un district de la préfecture de Niigata au Japon.Au 1er mai 2014, sa population était de 8 307 habitants pour une superficie de 25,16 km².</rdfs:comment>
+    <rdfs:comment xml:lang="ru">Нисикамбара (яп. 西蒲原郡 Нисикамбара-гун) — уезд в Японии, расположенный в центральной части префектуры Ниигата. Площадь 25,22 км². Население 8 537 чел. (на 1 мая 2008 года). Плотность населения 338,14 чел./км².</rdfs:comment>
+    <rdfs:comment xml:lang="ja">西蒲原郡（にしかんばらぐん）は、新潟県の郡。 人口8,144人、面積25.17km²、人口密度324人/km²。（2016年6月1日、推計人口） 以下の1村を含む。 
+*  弥彦村（やひこむら）</rdfs:comment>
+    <rdfs:comment xml:lang="en">Nishikanbara (西蒲原郡 Nishikanbara-gun) is a district located in Niigata Prefecture, Japan. As of March 20, 2006, the district has an estimated population of 8,537. The total area is 25.22 km².</rdfs:comment>
+    <owl:sameAs rdf:resource="http://ja.dbpedia.org/resource/西蒲原郡" />
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q1155139" />
+    <owl:sameAs rdf:resource="http://ko.dbpedia.org/resource/니시칸바라_군" />
+    <owl:sameAs rdf:resource="http://yago-knowledge.org/resource/Nishikanbara_District,_Niigata" />
+    <owl:sameAs rdf:resource="http://sws.geonames.org/1855274/" />
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q1155139" />
+    <owl:sameAs rdf:resource="http://it.dbpedia.org/resource/Distretto_di_Nishikanbara" />
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Nishikanbara_District,_Niigata" />
+    <owl:sameAs rdf:resource="http://fr.dbpedia.org/resource/District_de_Nishikanbara" />
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.03j58y" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Districts_in_Niigata_Prefecture" />
+    <dbo:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">860816</dbo:wikiPageID>
+    <dbo:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">662641537</dbo:wikiPageRevisionID>
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#float">37.6939</geo:lat>
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#float">138.836</geo:long>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Nishikanbara_District,_Niigata" />
+    <geo:geometry rdf:datatype="http://www.openlinksw.com/schemas/virtrdf#Geometry">POINT(138.83599853516 37.693901062012)</geo:geometry>
+    <prov:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Nishikanbara_District,_Niigata?oldid=662641537" />
+    <dbo:abstract xml:lang="fr">Le district de Nishikanbara (西蒲原郡, Nishikanbara-gun) est un district de la préfecture de Niigata au Japon.Au 1er mai 2014, sa population était de 8 307 habitants pour une superficie de 25,16 km².</dbo:abstract>
+    <dbo:abstract xml:lang="ja">西蒲原郡（にしかんばらぐん）は、新潟県の郡。 人口8,144人、面積25.17km²、人口密度324人/km²。（2016年6月1日、推計人口） 以下の1村を含む。 
+*  弥彦村（やひこむら）</dbo:abstract>
+    <dbo:abstract xml:lang="it">Il distretto di Nishikanbara (西蒲原郡, Nishikanbara-gun?) è uno dei distretti della prefettura di Niigata, in Giappone. Attualmente fa parte del distretto solo il comune di Yahiko.</dbo:abstract>
+    <dbo:abstract xml:lang="ru">Нисикамбара (яп. 西蒲原郡 Нисикамбара-гун) — уезд в Японии, расположенный в центральной части префектуры Ниигата. Площадь 25,22 км². Население 8 537 чел. (на 1 мая 2008 года). Плотность населения 338,14 чел./км².</dbo:abstract>
+    <dbo:abstract xml:lang="zh">西蒲原郡（日语：西蒲原郡／にしかんばらぐん Nishikanbara gun */?）為新潟縣的一個郡。 截止2006年3月20日，有人口人口8,537人、面積25.22平方公里。 管轄有以下一村。 
+*  彌彦村（やひこむら） 1878年（明治11年）郡區町村編制法成立、旧蒲原郡分割為北蒲原郡、中蒲原郡、東蒲原郡、新潟區、西蒲原郡和南蒲原郡6個部分。在經過數次市町村合併后，該郡面積大幅縮小。</dbo:abstract>
+    <dbo:abstract xml:lang="en">Nishikanbara (西蒲原郡 Nishikanbara-gun) is a district located in Niigata Prefecture, Japan. As of March 20, 2006, the district has an estimated population of 8,537. The total area is 25.22 km².</dbo:abstract>
+    <georss:point>37.6939 138.836</georss:point>
+    <ns9:hypernym rdf:resource="http://dbpedia.org/resource/District" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Nishikanbara_District,_Niigata">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Nishikanbara_District,_Niigata" />
+  </rdf:Description>
+</rdf:RDF>

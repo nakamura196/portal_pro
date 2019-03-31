@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:dbo="http://dbpedia.org/ontology/"
+	xmlns:dct="http://purl.org/dc/terms/"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:prov="http://www.w3.org/ns/prov#"
+	xmlns:georss="http://www.georss.org/georss/"
+	xmlns:ns9="http://purl.org/linguistics/gold/" >
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Sōma_District,_Fukushima">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Sōma_District,_Fukushima" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Iitate,_Fukushima">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Sōma_District,_Fukushima" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Shinchi,_Fukushima">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Sōma_District,_Fukushima" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Keishu_Tanaka">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Sōma_District,_Fukushima" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sōma_(disambiguation)">
+    <dbo:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/Sōma_District,_Fukushima" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sōma_District,_Fukushima">
+    <rdf:type rdf:resource="http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoGeoEntity" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoPermanentlyLocatedEntity" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Region108630985" />
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Location100027167" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/District108552138" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Object100002684" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoLegalActorGeo" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Settlement" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatDistrictsInFukushimaPrefecture" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PhysicalEntity100001930" />
+    <rdfs:label xml:lang="it">Distretto di Sōma</rdfs:label>
+    <rdfs:label xml:lang="ja">相馬郡</rdfs:label>
+    <rdfs:label xml:lang="nl">Soma (district in Japan)</rdfs:label>
+    <rdfs:label xml:lang="en">Sōma District, Fukushima</rdfs:label>
+    <rdfs:label xml:lang="zh">相馬郡 (福島縣)</rdfs:label>
+    <rdfs:label xml:lang="fr">District de Sōma</rdfs:label>
+    <rdfs:comment xml:lang="nl">Soma (相馬郡,  Sōma-gun) is een district van de prefectuur Fukushima  in Japan. Op 1 april 2009 had het district een geschatte bevolking van 14529 inwoners en een bevolkingsdichtheid van 52,5 inwoners per km². De totale oppervlakte bedraagt 276,48 km².</rdfs:comment>
+    <rdfs:comment xml:lang="zh">相馬郡（日语：相馬郡／そうまぐん Sōma gun */?）是福島縣的一郡。人口41,540人、面積476.49 km²（2003年）。設立于明治29年（1896年），由宇多郡與行方郡合併成立。 現轄有以下1町1村。 
+* 新地町 
+* 飯館村</rdfs:comment>
+    <rdfs:comment xml:lang="it">Il distretto di Sōma (相馬郡, Sōma-gun?) è uno dei distretti della prefettura di Fukushima, in Giappone. Attualmente fanno parte del distretto i comuni di Iitate e Shinchi.</rdfs:comment>
+    <rdfs:comment xml:lang="fr">Le district de Sōma (相馬郡, Sōma-gun) est un district de la préfecture de Fukushima au Japon.Au 1er octobre 2014, sa population était de 13 619 habitants pour une superficie de 276,48 km2.</rdfs:comment>
+    <rdfs:comment xml:lang="en">Sōma (相馬郡 Sōma-gun) is a district located in Fukushima Prefecture, Japan. As of 2003, the district has an estimated population of 41,540 and a density of 87.18 persons per km². The total area is 476.49 km².</rdfs:comment>
+    <rdfs:comment xml:lang="ja">相馬郡（そうまぐん）は、福島県浜通り北部の郡。 人口8,257人、面積276.66km²、人口密度29.8人/km²。（2016年6月1日、推計人口） 以下の1町1村を含む。 
+*  新地町（しんちまち） 
+*  飯舘村（いいたてむら） 双葉郡と合わせた地域が相双と呼ばれる場合がある。</rdfs:comment>
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Sōma_District,_Fukushima" />
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q1155850" />
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q1155850" />
+    <owl:sameAs rdf:resource="http://ko.dbpedia.org/resource/소마_군_(후쿠시마_현)" />
+    <owl:sameAs rdf:resource="http://sws.geonames.org/2110976/" />
+    <owl:sameAs rdf:resource="http://yago-knowledge.org/resource/Sōma_District,_Fukushima" />
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.03k_mh" />
+    <owl:sameAs rdf:resource="http://nl.dbpedia.org/resource/Soma_(district_in_Japan)" />
+    <owl:sameAs rdf:resource="http://ja.dbpedia.org/resource/相馬郡" />
+    <owl:sameAs rdf:resource="http://it.dbpedia.org/resource/Distretto_di_Sōma" />
+    <owl:sameAs rdf:resource="http://fr.dbpedia.org/resource/District_de_Sōma" />
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Sōma_District,_Fukushima" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Districts_in_Fukushima_Prefecture" />
+    <dbo:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">877666</dbo:wikiPageID>
+    <dbo:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">662641991</dbo:wikiPageRevisionID>
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#float">37.714</geo:lat>
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#float">140.784</geo:long>
+    <foaf:depiction rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Soma_District_in_Fukushima_Prefecture.svg" />
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Sōma_District,_Fukushima" />
+    <geo:geometry rdf:datatype="http://www.openlinksw.com/schemas/virtrdf#Geometry">POINT(140.78399658203 37.714000701904)</geo:geometry>
+    <dbo:thumbnail rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Soma_District_in_Fukushima_Prefecture.svg?width=300" />
+    <prov:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Sōma_District,_Fukushima?oldid=662641991" />
+    <dbo:abstract xml:lang="nl">Soma (相馬郡,  Sōma-gun) is een district van de prefectuur Fukushima  in Japan. Op 1 april 2009 had het district een geschatte bevolking van 14529 inwoners en een bevolkingsdichtheid van 52,5 inwoners per km². De totale oppervlakte bedraagt 276,48 km².</dbo:abstract>
+    <dbo:abstract xml:lang="zh">相馬郡（日语：相馬郡／そうまぐん Sōma gun */?）是福島縣的一郡。人口41,540人、面積476.49 km²（2003年）。設立于明治29年（1896年），由宇多郡與行方郡合併成立。 現轄有以下1町1村。 
+* 新地町 
+* 飯館村</dbo:abstract>
+    <dbo:abstract xml:lang="it">Il distretto di Sōma (相馬郡, Sōma-gun?) è uno dei distretti della prefettura di Fukushima, in Giappone. Attualmente fanno parte del distretto i comuni di Iitate e Shinchi.</dbo:abstract>
+    <dbo:abstract xml:lang="en">Sōma (相馬郡 Sōma-gun) is a district located in Fukushima Prefecture, Japan. As of 2003, the district has an estimated population of 41,540 and a density of 87.18 persons per km². The total area is 476.49 km².</dbo:abstract>
+    <dbo:abstract xml:lang="fr">Le district de Sōma (相馬郡, Sōma-gun) est un district de la préfecture de Fukushima au Japon.Au 1er octobre 2014, sa population était de 13 619 habitants pour une superficie de 276,48 km2.</dbo:abstract>
+    <dbo:abstract xml:lang="ja">相馬郡（そうまぐん）は、福島県浜通り北部の郡。 人口8,257人、面積276.66km²、人口密度29.8人/km²。（2016年6月1日、推計人口） 以下の1町1村を含む。 
+*  新地町（しんちまち） 
+*  飯舘村（いいたてむら） 双葉郡と合わせた地域が相双と呼ばれる場合がある。</dbo:abstract>
+    <georss:point>37.714 140.784</georss:point>
+    <ns9:hypernym rdf:resource="http://dbpedia.org/resource/District" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Soma_District,_Fukushima">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Sōma_District,_Fukushima" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Souma_District,_Fukushima">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Sōma_District,_Fukushima" />
+  </rdf:Description>
+</rdf:RDF>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:dct="http://purl.org/dc/terms/"
+	xmlns:dbo="http://dbpedia.org/ontology/"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:prov="http://www.w3.org/ns/prov#"
+	xmlns:georss="http://www.georss.org/georss/" >
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Imperial_Library">
+    <dbo:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/Imperial_Library_(Japan)" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Imperial_Library_(Japan)">
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Room104105893" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Object100002684" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PhysicalEntity100001930" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Whole100003553" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Artifact100021939" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoGeoEntity" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoPermanentlyLocatedEntity" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Structure104341686" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatDefunctLibraries" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Library103660909" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Area102735688" />
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing" />
+    <rdf:type rdf:resource="http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatNationalLibraries" />
+    <rdfs:label xml:lang="en">Imperial Library (Japan)</rdfs:label>
+    <rdfs:label xml:lang="ja">帝国図書館</rdfs:label>
+    <rdfs:comment xml:lang="ja">帝国図書館（ていこくとしょかん）は、第二次世界大戦以前の日本における唯一の国立図書館である。1872年設立の書籍館（図書館の古称）を起源として1897年に設置された。戦後の1947年に国立図書館と改称した上、1949年に国立国会図書館に統合されて消滅し、蔵書は現在の国立国会図書館東京本館に受け継がれた。 帝国図書館は上野公園の丘にあることから、「上野図書館」の通称で長く親しまれた。上野図書館に通った経験をもつ文豪、学者は数知れず、近代日本文化の歴史に大きな足跡を残している。 その歴史ある建物は国立国会図書館支部上野図書館を経て、2000年に国立の児童書専門図書館である国立国会図書館国際子ども図書館として再生、現在も国立の図書館として現役である。</rdfs:comment>
+    <rdfs:comment xml:lang="en">The Imperial Library (帝国図書館 Teikoku Toshokan) of the Empire of Japan was established in 1872. Prior to World War II, it was the only national library in Japan. It is one of the predecessors of the current National Diet Library.</rdfs:comment>
+    <owl:sameAs rdf:resource="http://yago-knowledge.org/resource/Imperial_Library_(Japan)" />
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q6006737" />
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q6006737" />
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.0h54p92" />
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Imperial_Library_(Japan)" />
+    <owl:sameAs rdf:resource="http://d-nb.info/gnd/277409-4" />
+    <owl:sameAs rdf:resource="http://ja.dbpedia.org/resource/帝国図書館" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Empire_of_Japan" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:National_libraries" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Defunct_libraries" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Library_buildings_completed_in_1906" />
+    <dbo:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">33062199</dbo:wikiPageID>
+    <dbo:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">687571628</dbo:wikiPageRevisionID>
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#float">35.7196</geo:lat>
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#float">139.774</geo:long>
+    <foaf:depiction rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Imperial_Library,_Ueno,_Tokyo.jpg" />
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Imperial_Library_(Japan)" />
+    <geo:geometry rdf:datatype="http://www.openlinksw.com/schemas/virtrdf#Geometry">POINT(139.77372741699 35.719581604004)</geo:geometry>
+    <dbo:thumbnail rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Imperial_Library,_Ueno,_Tokyo.jpg?width=300" />
+    <prov:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Imperial_Library_(Japan)?oldid=687571628" />
+    <dbo:abstract xml:lang="en">The Imperial Library (帝国図書館 Teikoku Toshokan) of the Empire of Japan was established in 1872. Prior to World War II, it was the only national library in Japan. It is one of the predecessors of the current National Diet Library.</dbo:abstract>
+    <dbo:abstract xml:lang="ja">帝国図書館（ていこくとしょかん）は、第二次世界大戦以前の日本における唯一の国立図書館である。1872年設立の書籍館（図書館の古称）を起源として1897年に設置された。戦後の1947年に国立図書館と改称した上、1949年に国立国会図書館に統合されて消滅し、蔵書は現在の国立国会図書館東京本館に受け継がれた。 帝国図書館は上野公園の丘にあることから、「上野図書館」の通称で長く親しまれた。上野図書館に通った経験をもつ文豪、学者は数知れず、近代日本文化の歴史に大きな足跡を残している。 その歴史ある建物は国立国会図書館支部上野図書館を経て、2000年に国立の児童書専門図書館である国立国会図書館国際子ども図書館として再生、現在も国立の図書館として現役である。</dbo:abstract>
+    <georss:point>35.71958333333333 139.77372222222223</georss:point>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/International_Library_of_Children&#39;s_Literature">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Imperial_Library_(Japan)" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Imperial_Library_(Japan)">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Imperial_Library_(Japan)" />
+  </rdf:Description>
+</rdf:RDF>

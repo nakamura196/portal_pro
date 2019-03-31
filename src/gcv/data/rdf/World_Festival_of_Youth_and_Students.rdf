@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:dct="http://purl.org/dc/terms/"
+	xmlns:dbo="http://dbpedia.org/ontology/"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:prov="http://www.w3.org/ns/prov#"
+	xmlns:ns7="http://purl.org/linguistics/gold/" >
+  <rdf:Description rdf:about="http://dbpedia.org/resource/WFYS">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/World_Festival_of_Youth_and_Students" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/World_Youth_Festival">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/World_Festival_of_Youth_and_Students" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Stadion_der_Weltjugend">
+    <dbo:tenant rdf:resource="http://dbpedia.org/resource/World_Festival_of_Youth_and_Students" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/World_Festival_of_Youth_and_Students">
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/SportsEvent" />
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing" />
+    <rdfs:label xml:lang="nl">Wereldfestival voor jeugd en studenten</rdfs:label>
+    <rdfs:label xml:lang="de">Weltfestspiele der Jugend und Studenten</rdfs:label>
+    <rdfs:label xml:lang="es">Festival Mundial de la Juventud y los Estudiantes</rdfs:label>
+    <rdfs:label xml:lang="ja">世界青年学生祭典</rdfs:label>
+    <rdfs:label xml:lang="ru">Всемирный фестиваль молодёжи и студентов</rdfs:label>
+    <rdfs:label xml:lang="en">World Festival of Youth and Students</rdfs:label>
+    <rdfs:label xml:lang="zh">世界青年與學生聯歡節</rdfs:label>
+    <rdfs:label xml:lang="fr">Festival mondial de la jeunesse et des étudiants</rdfs:label>
+    <rdfs:comment xml:lang="ru">Всемирный фестиваль молодёжи и студентов — нерегулярный фестиваль левых молодёжных организаций, проводящийся с 1947 года. Организаторы — Всемирная федерация демократической молодёжи (ВФДМ) и Международный союз студентов (МСС). С 1947 фестивали проходили под лозунгом «За мир и дружбу», с 1968 — под лозунгом «За солидарность, мир и дружбу»</rdfs:comment>
+    <rdfs:comment xml:lang="ja">世界青年学生祭典（せかいせいねんがくせいさいてん、英語: World Festival of Youth and Students）は、世界民主青年連盟（WFDY、略称世界民青連）と国際学生連盟（IUS、略称国際学連）が不定期に「反帝・反戦・平和・親善・連帯」をスローガンに開催する世界規模の祭典である。 日本では、世界青年学生平和友好祭、平和友好祭（略称平友祭）、世界青年学生フェスティバル、世界青年学生祝典等と訳されることもある。</rdfs:comment>
+    <rdfs:comment xml:lang="zh">世界青年與學生聯歡節（英語：World Festival of Youth and Students）是一項不定期舉辦的左派國際綜合性青年活動。主辦組織是世界民主青年聯盟（World Federation of Democratic Youth，簡稱WFDY），協辦單位是國際學生聯盟（International Union of Students）。 國際青年與學生聯歡節誕生於1947年，被認為是東方集團為了與世界大學生運動會互別苗頭而創立的活動。但除了運動項目外，聯歡節還包括許多文藝、政治活動，且活動進行時間約僅一週，和世界大學生運動會相較之下略短，參加者也多限於左派青年團體。 冷戰時期大部分時候，聯歡節都在東方集團各國舉辦並由其提供經費贊助，因而此聯歡節常被認為是共產主義的宣傳工具。 歷屆聯歡節中規模最大的是1957年在莫斯科舉行的第6屆，有來自131國的三萬四千名青年參加。本屆聯歡節還使得蘇聯名曲《莫斯科郊外的晚上》在全世界流行。參加國家數最多的則是1989年在平壤舉行的第13屆聯歡節，有177國與會。 最近一屆聯歡節於2013年12月7日－12月13日在厄瓜多基多舉行。</rdfs:comment>
+    <rdfs:comment xml:lang="en">The World Festival of Youth and Students is an international event, organized by the World Federation of Democratic Youth (WFDY), a left-wing youth organization, jointly with the International Union of Students since 1947. During the Cold War many festivals were held in capitals of Socialist countries because of the enormous expenditure and coordination required to support a youth festival. As a result, by the 1960s the festivals were accused by the US State Department of being a tool of Communist propaganda.</rdfs:comment>
+    <rdfs:comment xml:lang="nl">Het Wereldfestival voor jeugd en studenten is een internationaal evenement, dat sinds 1947 wordt georganiseerd door de Wereldfederatie van democratische jeugd (WFDY) en de Internationale Studentenunie. Het grootste festival, met 34.000 deelnemers uit 131 landen, werd georganiseerd in Moskou in 1957. In Nederland is het evenement vooral bekend onder haar verkorte naam Wereldjeugdfestival.</rdfs:comment>
+    <rdfs:comment xml:lang="de">Die Weltfestspiele der Jugend und Studenten (kurz: Weltjugendspiele) sind unregelmäßig veranstaltete internationale Jugendtreffen, die 1947 vom Weltbund der demokratischen Jugend (WBDJ) ins Leben gerufen wurden. Die teilnehmenden Jugend- und Studierendenverbände sind überwiegend links, oft kommunistisch ausgerichtet.</rdfs:comment>
+    <rdfs:comment xml:lang="es">El Festival Mundial de la Juventud y los Estudiantes (FMJE) es un evento internacional organizado en forma conjunta por la Federación Mundial de la Juventud Democrática (FMJD) y la Unión Internacional de Estudiantes desde 1947. Orientado al debate político y de marcada tendencia izquierdista, buena parte de su asistencia ha sido tradicionalmente conformada por militantes de organizaciones juveniles de partidos comunistas y grupos relacionados. Los sucesivos festivales se han declarado anti-imperialistas y a favor de la paz.</rdfs:comment>
+    <rdfs:comment xml:lang="fr">Le festival mondial de la jeunesse et des étudiants est un évènement international organisé par la Fédération mondiale de la jeunesse démocratique, en collaboration avec l&#39;Union internationale des étudiants depuis 1947. Le plus grand festival a été le sixième, qui eut lieu à Moscou en juillet 1957, avec 34 000 personnes venues de 131 pays. Le treizième festival, organisé à Pyongyang en 1989, a réuni le plus grand nombre de pays participants : 22 000 jeunes et étudiants venaient de 177 pays.</rdfs:comment>
+    <owl:sameAs rdf:resource="http://cs.dbpedia.org/resource/Světový_festival_mládeže_a_studentstva" />
+    <owl:sameAs rdf:resource="http://nl.dbpedia.org/resource/Wereldfestival_voor_jeugd_en_studenten" />
+    <owl:sameAs rdf:resource="http://d-nb.info/gnd/4065359-6" />
+    <owl:sameAs rdf:resource="http://ja.dbpedia.org/resource/世界青年学生祭典" />
+    <owl:sameAs rdf:resource="http://ko.dbpedia.org/resource/세계청년학생축전" />
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q249093" />
+    <owl:sameAs rdf:resource="http://fr.dbpedia.org/resource/Festival_mondial_de_la_jeunesse_et_des_étudiants" />
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.08517_" />
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q249093" />
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/World_Festival_of_Youth_and_Students" />
+    <owl:sameAs rdf:resource="http://es.dbpedia.org/resource/Festival_Mundial_de_la_Juventud_y_los_Estudiantes" />
+    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/Weltfestspiele_der_Jugend_und_Studenten" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:World_Festival_of_Youth_and_Students" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Youth_wings_of_communist_parties" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Sports_festivals" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Youth_festivals" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Children&#39;s_film_festivals" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Student_film_festivals" />
+    <dbo:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2824490</dbo:wikiPageID>
+    <dbo:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">741691889</dbo:wikiPageRevisionID>
+    <dbo:wikiPageExternalLink rdf:resource="http://www.ameriquebec.net/2006/06/21-video-sur-le-festival-mondial-de-la-jeunesse-a-caracas.html" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.festivalmundial2005.org.ve/" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.youtube.com/watch?v=ZxJ6Ed5h65k" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.wfdy.org/17wfys/" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.chengetheworld.org/fr/index.php?op=page&amp;pid=870" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.wfdy.org/" />
+    <foaf:homepage rdf:resource="http://www.wfdy.org/17wfys/" />
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/World_Festival_of_Youth_and_Students" />
+    <prov:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/World_Festival_of_Youth_and_Students?oldid=741691889" />
+    <dbo:abstract xml:lang="ja">世界青年学生祭典（せかいせいねんがくせいさいてん、英語: World Festival of Youth and Students）は、世界民主青年連盟（WFDY、略称世界民青連）と国際学生連盟（IUS、略称国際学連）が不定期に「反帝・反戦・平和・親善・連帯」をスローガンに開催する世界規模の祭典である。 日本では、世界青年学生平和友好祭、平和友好祭（略称平友祭）、世界青年学生フェスティバル、世界青年学生祝典等と訳されることもある。</dbo:abstract>
+    <dbo:abstract xml:lang="fr">Le festival mondial de la jeunesse et des étudiants est un évènement international organisé par la Fédération mondiale de la jeunesse démocratique, en collaboration avec l&#39;Union internationale des étudiants depuis 1947. Le plus grand festival a été le sixième, qui eut lieu à Moscou en juillet 1957, avec 34 000 personnes venues de 131 pays. Le treizième festival, organisé à Pyongyang en 1989, a réuni le plus grand nombre de pays participants : 22 000 jeunes et étudiants venaient de 177 pays.</dbo:abstract>
+    <dbo:abstract xml:lang="es">El Festival Mundial de la Juventud y los Estudiantes (FMJE) es un evento internacional organizado en forma conjunta por la Federación Mundial de la Juventud Democrática (FMJD) y la Unión Internacional de Estudiantes desde 1947. Orientado al debate político y de marcada tendencia izquierdista, buena parte de su asistencia ha sido tradicionalmente conformada por militantes de organizaciones juveniles de partidos comunistas y grupos relacionados. Los sucesivos festivales se han declarado anti-imperialistas y a favor de la paz. La mayoría de las ediciones del FMJE durante la Guerra Fría se llevaron a cabo en países socialistas, a excepción de las realizadas en Austria en 1959 y Finlandia en 1962 — ambos neutrales —. La edición más concurrida, la de Moscú en 1957, reunió más de 34.000 personas de 131 países de todo el mundo. Con la desintegración del Bloque del Este, la FMJD sufrió un duro revés que llevó a un lapso de 8 años durante el cual no se realizó ningún festival. En 1997, el XIV Festival Mundial de la Juventud y los Estudiantes marcó un punto de inflexión a partir del cual volvieron a celebrarse ediciones a lapsos regulares. Una de los más importantes ediciones de este festival fue la XVI que tuvo lugar en Caracas (Venezuela), en donde se pudo escuchar hasta en dos oportunidades vibrantes discursos de Hugo Chávez de más de 4 horas de duración cada uno, en donde quedaba en claro el rol anti-imperialista del FMJE justo en el marco de la declaración de que Venezuela se encaminaba al socialismo en ese mismo año 2005. El último Festival tuvo lugar en Quito (Ecuador) en diciembre de 2013. La XIX edición del Festival está programada para su celebración en el año 2017 en Sochi (Rusia). Al FMJE han asistido durante su juventud, personalidades que años más tarde se convertirían en refrentes políticos de su país de origen, como por ejemplo: Nicolás Guillén (Cuba), Javier Heraud y Martín Guerra (Perú), entre otros.</dbo:abstract>
+    <dbo:abstract xml:lang="en">The World Festival of Youth and Students is an international event, organized by the World Federation of Democratic Youth (WFDY), a left-wing youth organization, jointly with the International Union of Students since 1947. The largest festival was the 6th, held in 1957 in Moscow, when 34,000 young people from 131 countries attended the event. This festival also marked the international debut of the song &quot;Moscow Nights&quot;, which subsequently went on to become perhaps the most widely recognized Russian song in the world. In terms of the number of the attending countries, the largest festival was the 13th, held in 1989 in Pyongyang, North Korea, when 177 countries attended the event. During the Cold War many festivals were held in capitals of Socialist countries because of the enormous expenditure and coordination required to support a youth festival. As a result, by the 1960s the festivals were accused by the US State Department of being a tool of Communist propaganda. The 17th festival was held in Pretoria, South Africa, on December 13–21, 2010, and the 18th festival was held in Quito, Ecuador, on December 7–13, 2013.</dbo:abstract>
+    <dbo:abstract xml:lang="zh">世界青年與學生聯歡節（英語：World Festival of Youth and Students）是一項不定期舉辦的左派國際綜合性青年活動。主辦組織是世界民主青年聯盟（World Federation of Democratic Youth，簡稱WFDY），協辦單位是國際學生聯盟（International Union of Students）。 國際青年與學生聯歡節誕生於1947年，被認為是東方集團為了與世界大學生運動會互別苗頭而創立的活動。但除了運動項目外，聯歡節還包括許多文藝、政治活動，且活動進行時間約僅一週，和世界大學生運動會相較之下略短，參加者也多限於左派青年團體。 冷戰時期大部分時候，聯歡節都在東方集團各國舉辦並由其提供經費贊助，因而此聯歡節常被認為是共產主義的宣傳工具。 歷屆聯歡節中規模最大的是1957年在莫斯科舉行的第6屆，有來自131國的三萬四千名青年參加。本屆聯歡節還使得蘇聯名曲《莫斯科郊外的晚上》在全世界流行。參加國家數最多的則是1989年在平壤舉行的第13屆聯歡節，有177國與會。 最近一屆聯歡節於2013年12月7日－12月13日在厄瓜多基多舉行。</dbo:abstract>
+    <dbo:abstract xml:lang="de">Die Weltfestspiele der Jugend und Studenten (kurz: Weltjugendspiele) sind unregelmäßig veranstaltete internationale Jugendtreffen, die 1947 vom Weltbund der demokratischen Jugend (WBDJ) ins Leben gerufen wurden. Die teilnehmenden Jugend- und Studierendenverbände sind überwiegend links, oft kommunistisch ausgerichtet.</dbo:abstract>
+    <dbo:abstract xml:lang="ru">Всемирный фестиваль молодёжи и студентов — нерегулярный фестиваль левых молодёжных организаций, проводящийся с 1947 года. Организаторы — Всемирная федерация демократической молодёжи (ВФДМ) и Международный союз студентов (МСС). С 1947 фестивали проходили под лозунгом «За мир и дружбу», с 1968 — под лозунгом «За солидарность, мир и дружбу» Для подготовки к фестивалю создаётся Международный подготовительный комитет и национальные подготовительные комитеты в странах-участницах. В программу фестивалей входят спортивные соревнования по различным видам спорта, политические семинары и дискуссии, концерты, массовые празднества, а также — обязательное красочное шествие делегаций. [[К:Википедия:Статьи без источников (страна: )]][[К:Википедия:Статьи без источников (страна: )]][[К:Википедия:Статьи без источников (страна: )]]Всемирный фестиваль молодёжи и студентовВсемирный фестиваль молодёжи и студентовВсемирный фестиваль молодёжи и студентов</dbo:abstract>
+    <dbo:abstract xml:lang="nl">Het Wereldfestival voor jeugd en studenten is een internationaal evenement, dat sinds 1947 wordt georganiseerd door de Wereldfederatie van democratische jeugd (WFDY) en de Internationale Studentenunie. Het grootste festival, met 34.000 deelnemers uit 131 landen, werd georganiseerd in Moskou in 1957. In Nederland is het evenement vooral bekend onder haar verkorte naam Wereldjeugdfestival.</dbo:abstract>
+    <ns7:hypernym rdf:resource="http://dbpedia.org/resource/Event" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/World_Festivals_of_Youth_and_Students">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/World_Festival_of_Youth_and_Students" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/World_Festival_of_Youth">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/World_Festival_of_Youth_and_Students" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/World_Festival_of_Youth_and_Students">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/World_Festival_of_Youth_and_Students" />
+  </rdf:Description>
+</rdf:RDF>

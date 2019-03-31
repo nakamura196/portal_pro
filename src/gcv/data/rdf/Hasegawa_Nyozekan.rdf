@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:dbo="http://dbpedia.org/ontology/"
+	xmlns:dct="http://purl.org/dc/terms/"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:prov="http://www.w3.org/ns/prov#"
+	xmlns:dbp="http://dbpedia.org/property/" >
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hasegawa">
+    <dbo:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/Hasegawa_Nyozekan" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hasegawa_Nyozekan">
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/LivingThing100004258" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Organism100004475" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Person" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Person100007846" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Object100002684" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoLegalActor" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoLegalActorGeo" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Writer" />
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatPeopleFromTokyo" />
+    <rdf:type rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Communicator109610660" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Writer110794014" />
+    <rdf:type rdf:resource="http://schema.org/Person" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Journalist110224578" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Agent" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatJapaneseJournalists" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q36180" />
+    <rdf:type rdf:resource="http://umbel.org/umbel/rc/Writer" />
+    <rdf:type rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q215627" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatJapaneseEssayists" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q24229398" />
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Essayist110064405" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q5" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/CausalAgent100007347" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PhysicalEntity100001930" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Whole100003553" />
+    <rdfs:label xml:lang="en">Hasegawa Nyozekan</rdfs:label>
+    <rdfs:label xml:lang="ja">長谷川如是閑</rdfs:label>
+    <rdfs:comment xml:lang="en">Hasegawa Nyozekan (長谷川 如是閑, November 30, 1875 -November 11, 1969) was the pen-name of Hasegawa Manjirō, a Japanese social critic, and journalist in the Taishō and Shōwa periods Japan. He was one of the most important and widely read supporters of liberalism and democracy in inter-war Japan.</rdfs:comment>
+    <rdfs:comment xml:lang="ja">長谷川 如是閑（はせがわ にょぜかん、1875年（明治8年）11月30日 - 1969年（昭和44年）11月11日）は、日本のジャーナリスト、文明批評家、評論家、作家。明治・大正・昭和と三代にわたり、新聞記事・評論・エッセイ・戯曲・小説・紀行と約3000本もの作品を著した。大山郁夫らとともに雑誌『我等』（後に『批判』）を創刊し、大正デモクラシー期の代表的論客の一人。「如是閑」は雅号、本名は萬次郎。</rdfs:comment>
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Hasegawa_Nyozekan" />
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q5678773" />
+    <owl:sameAs rdf:resource="http://viaf.org/viaf/260750180" />
+    <owl:sameAs rdf:resource="http://ja.dbpedia.org/resource/長谷川如是閑" />
+    <owl:sameAs rdf:resource="http://yago-knowledge.org/resource/Hasegawa_Nyozekan" />
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.0289sq5" />
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q5678773" />
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Japan" />
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Tokyo" />
+    <dbo:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1969-11-11</dbo:deathDate>
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Japan" />
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Tokyo" />
+    <dbo:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1875-11-30</dbo:birthDate>
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Japanese_essayists" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:1969_deaths" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Social_critics" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:1875_births" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Japanese_journalists" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Members_of_the_House_of_Peers_(Japan)" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:People_from_Tokyo" />
+    <dbo:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">9461353</dbo:wikiPageID>
+    <dbo:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">706242992</dbo:wikiPageRevisionID>
+    <foaf:name xml:lang="en">Hasegawa Nyozekan</foaf:name>
+    <foaf:depiction rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Nyozekan_Hasegawa.JPG" />
+    <dct:description xml:lang="en">Japanese politician</dct:description>
+    <foaf:gender xml:lang="en">male</foaf:gender>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Hasegawa_Nyozekan" />
+    <dbo:thumbnail rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Nyozekan_Hasegawa.JPG?width=300" />
+    <prov:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Hasegawa_Nyozekan?oldid=706242992" />
+    <dbo:abstract xml:lang="en">Hasegawa Nyozekan (長谷川 如是閑, November 30, 1875 -November 11, 1969) was the pen-name of Hasegawa Manjirō, a Japanese social critic, and journalist in the Taishō and Shōwa periods Japan. He was one of the most important and widely read supporters of liberalism and democracy in inter-war Japan.</dbo:abstract>
+    <dbo:abstract xml:lang="ja">長谷川 如是閑（はせがわ にょぜかん、1875年（明治8年）11月30日 - 1969年（昭和44年）11月11日）は、日本のジャーナリスト、文明批評家、評論家、作家。明治・大正・昭和と三代にわたり、新聞記事・評論・エッセイ・戯曲・小説・紀行と約3000本もの作品を著した。大山郁夫らとともに雑誌『我等』（後に『批判』）を創刊し、大正デモクラシー期の代表的論客の一人。「如是閑」は雅号、本名は萬次郎。</dbo:abstract>
+    <dbo:occupation rdf:resource="http://dbpedia.org/resource/Journalist" />
+    <dbp:caption rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Hasegawa Nyozekan</dbp:caption>
+    <dbp:genre rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">literary criticism, essays</dbp:genre>
+    <dbp:wordnet_type rdf:resource="http://www.w3.org/2006/03/wn/wn20/instances/synset-writer-noun-1" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nyozekan">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Hasegawa_Nyozekan" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Hasegawa_Nyozekan">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Hasegawa_Nyozekan" />
+  </rdf:Description>
+</rdf:RDF>

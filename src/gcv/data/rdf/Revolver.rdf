@@ -1,0 +1,754 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:dct="http://purl.org/dc/terms/"
+	xmlns:dbo="http://dbpedia.org/ontology/"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:prov="http://www.w3.org/ns/prov#"
+	xmlns:dbp="http://dbpedia.org/property/"
+	xmlns:ns8="http://purl.org/linguistics/gold/" >
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Smith_&amp;_Wesson_Model_500">
+    <dbo:type rdf:resource="http://dbpedia.org/resource/Revolver" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Freedom_Arms">
+    <dbo:product rdf:resource="http://dbpedia.org/resource/Revolver" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Manurhin_MR_73">
+    <dbo:type rdf:resource="http://dbpedia.org/resource/Revolver" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/.442_Webley">
+    <dbp:type rdf:resource="http://dbpedia.org/resource/Revolver" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/.455_Webley">
+    <dbp:type rdf:resource="http://dbpedia.org/resource/Revolver" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Apache_revolver">
+    <dbp:action rdf:resource="http://dbpedia.org/resource/Revolver" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Webley_&amp;_Scott">
+    <dbo:product rdf:resource="http://dbpedia.org/resource/Revolver" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Webley–Fosbery_Automatic_Revolver">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Revolver" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Smith_&amp;_Wesson_Model_22">
+    <dbo:type rdf:resource="http://dbpedia.org/resource/Revolver" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ruger_SP101">
+    <dbo:type rdf:resource="http://dbpedia.org/resource/Revolver" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bossu_Revolver">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Revolver" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Henrion,_Dassy_&amp;_Heuschen_double-barrel_revolvers">
+    <dbo:type rdf:resource="http://dbpedia.org/resource/Revolver" />
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Revolver" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/JTL-E_.500_S&amp;W_Magnum_12%22">
+    <dbo:type rdf:resource="http://dbpedia.org/resource/Revolver" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Taurus_Model_605">
+    <dbo:type rdf:resource="http://dbpedia.org/resource/Revolver" />
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Revolver" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Taurus_Model_731">
+    <dbo:type rdf:resource="http://dbpedia.org/resource/Revolver" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ultimate_500">
+    <dbo:type rdf:resource="http://dbpedia.org/resource/Revolver" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Wheelgun">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Revolver" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Smith_&amp;_Wesson_Model_29">
+    <dbo:type rdf:resource="http://dbpedia.org/resource/Revolver" />
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Revolver" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/IOF_.32_Revolver">
+    <dbo:type rdf:resource="http://dbpedia.org/resource/Revolver" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Colt_M1878">
+    <dbo:type rdf:resource="http://dbpedia.org/resource/Revolver" />
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Revolver" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ruger_Bowen_.500_Maximum">
+    <dbo:type rdf:resource="http://dbpedia.org/resource/Revolver" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Taurus_Model_617">
+    <dbo:type rdf:resource="http://dbpedia.org/resource/Revolver" />
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Revolver" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/.44_Bull_Dog">
+    <dbp:type rdf:resource="http://dbpedia.org/resource/Revolver" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mauser_Zig-Zag">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Revolver" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Six_Gun">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Revolver" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/FN_Barracuda">
+    <dbo:type rdf:resource="http://dbpedia.org/resource/Revolver" />
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Revolver" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Smith_&amp;_Wesson_Centennial">
+    <dbo:type rdf:resource="http://dbpedia.org/resource/Revolver" />
+    <dbp:feed rdf:resource="http://dbpedia.org/resource/Revolver" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Smith_&amp;_Wesson_Ladysmith">
+    <dbo:type rdf:resource="http://dbpedia.org/resource/Revolver" />
+    <dbp:action rdf:resource="http://dbpedia.org/resource/Revolver" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Starr_revolver">
+    <dbo:type rdf:resource="http://dbpedia.org/resource/Revolver" />
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Revolver" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sturm,_Ruger_&amp;_Co.">
+    <dbo:product rdf:resource="http://dbpedia.org/resource/Revolver" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/.32_H&amp;R_Magnum">
+    <dbp:type rdf:resource="http://dbpedia.org/resource/Revolver" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/.32_S&amp;W_Long">
+    <dbp:type rdf:resource="http://dbpedia.org/resource/Revolver" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Colt_Buntline">
+    <dbo:type rdf:resource="http://dbpedia.org/resource/Revolver" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Colt_M1861_Navy">
+    <dbo:type rdf:resource="http://dbpedia.org/resource/Revolver" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Smith_&amp;_Wesson_Model_28">
+    <dbo:type rdf:resource="http://dbpedia.org/resource/Revolver" />
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Revolver" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Enfield_No._2">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Revolver" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Series_ALFA_Steel_(Revolvers)">
+    <dbo:type rdf:resource="http://dbpedia.org/resource/Revolver" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/British_Bull_Dog_revolver">
+    <dbo:type rdf:resource="http://dbpedia.org/resource/Revolver" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Colt_New_Service">
+    <dbo:type rdf:resource="http://dbpedia.org/resource/Revolver" />
+    <dbp:action rdf:resource="http://dbpedia.org/resource/Revolver" />
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Revolver" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Series_ALFA_(Revolvers)">
+    <dbo:type rdf:resource="http://dbpedia.org/resource/Revolver" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/.45_Black_Powder_Magnum">
+    <dbp:type rdf:resource="http://dbpedia.org/resource/Revolver" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Revolver">
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Weapon" />
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing" />
+    <rdfs:label xml:lang="ja">回転式拳銃</rdfs:label>
+    <rdfs:label xml:lang="de">Revolver</rdfs:label>
+    <rdfs:label xml:lang="fr">Revolver</rdfs:label>
+    <rdfs:label xml:lang="nl">Revolver (wapen)</rdfs:label>
+    <rdfs:label xml:lang="en">Revolver</rdfs:label>
+    <rdfs:label xml:lang="pl">Rewolwer</rdfs:label>
+    <rdfs:label xml:lang="pt">Revólver</rdfs:label>
+    <rdfs:label xml:lang="zh">左轮手枪</rdfs:label>
+    <rdfs:label xml:lang="it">Rivoltella</rdfs:label>
+    <rdfs:label xml:lang="ru">Револьвер</rdfs:label>
+    <rdfs:label xml:lang="ar">مسدس دوار</rdfs:label>
+    <rdfs:label xml:lang="es">Revólver</rdfs:label>
+    <rdfs:comment xml:lang="ar">25بك المحتوى هنا ينقصه الاستشهاد بمصادر. يرجى إيراد مصادر موثوق بها. أي معلومات غير موثقة يمكن التشكيك بها وإزالتها. (يوليو 2016) المسدس الدوار (بالإنجليزية: Revolver) هو سلاح ناري يدوي من فئة المسدسات. ويتميز باحتوائه على قرص دوار يحمل مجموعة من الخراطيش. مشاريع شقيقة في كومنز صور وملفات عن: مسدس دوار 
+* 32xبوابة أسلحة25بك هذه بذرة مقالة عن موضوع له علاقة بسلاح ناري بحاجة للتوسيع. شارك في تحريرها.</rdfs:comment>
+    <rdfs:comment xml:lang="ru">Револьве́р (от лат. revolvere — катить назад, вращаться) — многозарядное огнестрельное оружие ближнего боя, механизм питания патронами которого выполнен в виде вращающегося цилиндра (барабана), в каморах которого находятся патроны, при этом, в момент выстрела, ствол является продолжением очередной каморы.</rdfs:comment>
+    <rdfs:comment xml:lang="es">El revólver (anglicismo de revolver) es un tipo de pistola que se caracteriza por llevar la munición dispuesta en un  o cilindro. Normalmente se utiliza el término pistola para designar a las armas de fuego cortas semiautomáticas, que suelen llevar la munición alojada en un cargador.</rdfs:comment>
+    <rdfs:comment xml:lang="pl">Rewolwer – wielostrzałowa broń powtarzalna (nieautomatyczna, krótka, bardzo rzadkie są konstrukcje rewolwerów samopowtarzalnych), w której funkcję magazynka niewymiennego (magazynu) spełnia obrotowy bęben z kilkoma komorami nabojowymi (zwykle sześcioma). Chociaż rewolwery są znane od XVII wieku, ich rozwój rozpoczął w zasadzie wynalazek Samuela Colta, który w 1831 r. skonstruował pierwszy rewolwer kapiszonowy.</rdfs:comment>
+    <rdfs:comment xml:lang="nl">Een revolver is een vuistvuurwapen waarmee meerdere schoten kunnen worden gelost. Kenmerkend aan de revolver is de cilinder met een aantal kamers (vaak 6) waarin de patronen zich bevinden (dit is anders dan bij een semiautomatisch pistool, daar zitten de patronen in een aparte houder die in de kolf wordt geschoven). De cilinder kan worden uitgeklapt om deze te vullen met patronen of om de verschoten hulzen daaruit te verwijderen. Bij een single-action-uitvoering moet de haan voor ieder schot met de hand worden gespannen, waarbij automatisch de cilinder één positie wordt gedraaid en de patroon wordt afgevuurd die in de positie voor de haan ligt. Als eerst alle kamers gevuld zijn kan men dus zoveel maal schieten als het aantal kamers bedraagt. Bij een double-action-uitvoering kan men kiezen:</rdfs:comment>
+    <rdfs:comment xml:lang="it">La rivoltella (anche nota come pistola a tamburo o, in lingua inglese, revolver), è un tipo di pistola a retrocarica a ripetizione semplice (tecnicamente arma corta a ripetizione multicamera monocanna), caratterizzata da un serbatoio a tamburo capace di compiere illimitate rivoluzioni intorno al proprio asse longitudinale; dal particolare moto del tamburo deriva il nome (revolvere infatti, nella lingua latina, significa girare o rivoltarsi).</rdfs:comment>
+    <rdfs:comment xml:lang="fr">Un revolver, ou révolver, est un système équipant une arme à feu dans lequel les chambres (partie de l&#39;arme contenant la charge propulsive et le projectile) sont amenées tour à tour par rotation devant un canon indépendant, permettant de tirer plusieurs coups sans interruption. Le revolver désigne également, par synecdoque, l&#39;arme à feu portative de poing équipée de ce système rotatif.</rdfs:comment>
+    <rdfs:comment xml:lang="en">A revolver is a repeating handgun that has a revolving cylinder containing multiple chambers and at least one barrel for firing. Revolvers might be regarded as a subset of pistols, or as an equal-ranking subset of handguns, distinct from pistols. Though the term &quot;revolver&quot; usually only refers to handguns, other firearms may also have a revolving chamber. These include some models of grenade launchers, shotguns, and rifles. The first cartridge revolvers were produced around 1854 by Eugene Lefaucheux.</rdfs:comment>
+    <rdfs:comment xml:lang="pt">Um revólver (em inglês: revolver) é uma arma de fogo de repetição, de porte individual, normalmente um só cano e com calibres variados. O depósito de cartuchos do revólver é constituído por um tambor ou cilindro giratório com várias câmaras ou culatras onde ficam os cartuchos (usualmente cinco ou seis, porém variando para mais ou para menos). O mecanismo de alimentação rotaciona este tambor um arco de revolução por disparo, de onde provém seu nome. Sistema moderno descende do projeto desenvolvido por Samuel Colt em 1836, embora o conceito existia a séculos antes da invenção de Colt. Revolveres são comumente armas de mão, porém outros tipos de armas podem ser consideradas revólveres também, como alguns rifles, lança-granadas e espingardas.</rdfs:comment>
+    <rdfs:comment xml:lang="zh">左轮手枪或转轮手枪（Revolver），是一种属手枪类的小型枪械。其转轮一般有6个弹仓，也有少至4个，多达12个弹仓的设计。外擺式彈巢的转轮手槍為了配合多数人使用右手的习惯，多為向左90度转出弹巢以装填弹药，因此中文常称為左轮手枪，其实原名称為转轮手枪，与左右无任何关联。 左轮手枪的子弹安装在轉輪彈倉中，可以连续发射而不用在每次发射后重新装填弹药。左轮手枪在19世纪出现，因其可靠和威力强大而风靡一时。后来装弹量更多、体积更小的半自动手枪逐渐取代了左轮手枪。但左轮手枪因为可靠、便于维护和便宜，目前在一些警用、运动射击和私人防卫的领域仍然有人使用。</rdfs:comment>
+    <rdfs:comment xml:lang="de">Der Revolver gehört zur Kategorie der Handfeuerwaffen und wird durch das deutsche Waffenrecht (WaffG) als Kurzwaffe definiert. Revolver sind eine Unterkategorie von Pistolen und sind mehrschüssige Faustfeuerwaffen, bei der die Munition in einzelnen Kammern in einem als drehbare Trommel ausgelegten Patronenlager kreisförmig angeordnet ist. Die Trommel dient dabei nicht nur als Patronenlager, sondern auch als Magazin.</rdfs:comment>
+    <rdfs:comment xml:lang="ja">回転式拳銃は、拳銃の一種。リボルバー（Revolver）とも呼ばれる。</rdfs:comment>
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Parts" />
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/List_of_3D_printed_weapons" />
+    <owl:sameAs rdf:resource="http://pt.dbpedia.org/resource/Revólver" />
+    <owl:sameAs rdf:resource="http://ko.dbpedia.org/resource/리볼버" />
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q170382" />
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q170382" />
+    <owl:sameAs rdf:resource="http://nl.dbpedia.org/resource/Revolver_(wapen)" />
+    <owl:sameAs rdf:resource="http://pl.dbpedia.org/resource/Rewolwer" />
+    <owl:sameAs rdf:resource="http://es.dbpedia.org/resource/Revólver" />
+    <owl:sameAs rdf:resource="http://it.dbpedia.org/resource/Rivoltella" />
+    <owl:sameAs rdf:resource="http://cs.dbpedia.org/resource/Revolver" />
+    <owl:sameAs rdf:resource="http://id.dbpedia.org/resource/Revolver" />
+    <owl:sameAs rdf:resource="http://fr.dbpedia.org/resource/Revolver" />
+    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/Revolver" />
+    <owl:sameAs rdf:resource="http://el.dbpedia.org/resource/Περίστροφο" />
+    <owl:sameAs rdf:resource="http://ja.dbpedia.org/resource/回転式拳銃" />
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.06fk8" />
+    <owl:sameAs rdf:resource="http://d-nb.info/gnd/4049697-1" />
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Revolver" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Revolvers" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:1836_introductions" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Firearm_actions" />
+    <dbo:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">25794</dbo:wikiPageID>
+    <dbo:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">742629426</dbo:wikiPageRevisionID>
+    <foaf:depiction rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Colt_Autentica.jpg" />
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Revolver" />
+    <dbo:thumbnail rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Colt_Autentica.jpg?width=300" />
+    <prov:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Revolver?oldid=742629426" />
+    <dbo:abstract xml:lang="pl">Rewolwer – wielostrzałowa broń powtarzalna (nieautomatyczna, krótka, bardzo rzadkie są konstrukcje rewolwerów samopowtarzalnych), w której funkcję magazynka niewymiennego (magazynu) spełnia obrotowy bęben z kilkoma komorami nabojowymi (zwykle sześcioma). Większość współcześnie produkowanych konstrukcji to rewolwery z samonapinaniem (ang. double action lub DA), w których ściągnięcie języka spustowego powoduje jednoczesny obrót bębna oraz napięcie kurka, na ogół jednak można też napiąć kurek ręcznie, co powoduje jednocześnie obrót bębna (z wyjątkiem rewolwerów double action only (DAO), w których takiej możliwości nie ma, a kurek jest zazwyczaj zakryty). W najwcześniejszych rewolwerach kurek napinano ręcznie, zarazem obracając bęben. Rewolwery bez samonapinania (single action, SA) są produkowane do dziś, głównie dla potrzeb strzelectwa sportowego. Rewolwer Nagant wz. 1895 produkowany był w wersji oficerskiej z samonapinaniem, wersja podoficerska zaś mechanizmu samonapinania nie miała. Pierwsza udana konstrukcja rewolweru autorstwa Colta umożliwiała obrót i ustalenie bębna we właściwej pozycji poprzez odciągnięcie kurka. W wyniku obrotu bębna wokół osi równoległej do osi lufy, poszczególne komory nabojowe (z nabojami) ustawiają się kolejno na przedłużeniu osi lufy. Po odpaleniu spłonki naboju za pomocą kurka, pocisk opuszcza komorę nabojową w bębnie, przedostając się do lufy i następnie wylatując z niej. Chociaż rewolwery są znane od XVII wieku, ich rozwój rozpoczął w zasadzie wynalazek Samuela Colta, który w 1831 r. skonstruował pierwszy rewolwer kapiszonowy.</dbo:abstract>
+    <dbo:abstract xml:lang="nl">Een revolver is een vuistvuurwapen waarmee meerdere schoten kunnen worden gelost. Kenmerkend aan de revolver is de cilinder met een aantal kamers (vaak 6) waarin de patronen zich bevinden (dit is anders dan bij een semiautomatisch pistool, daar zitten de patronen in een aparte houder die in de kolf wordt geschoven). De cilinder kan worden uitgeklapt om deze te vullen met patronen of om de verschoten hulzen daaruit te verwijderen. Bij een single-action-uitvoering moet de haan voor ieder schot met de hand worden gespannen, waarbij automatisch de cilinder één positie wordt gedraaid en de patroon wordt afgevuurd die in de positie voor de haan ligt. Als eerst alle kamers gevuld zijn kan men dus zoveel maal schieten als het aantal kamers bedraagt. Bij een double-action-uitvoering kan men kiezen: a. de haan spannen en de trekker overhalen zoals bij de single-action-uitvoering, of b. de trekker overhalen, waarbij de haan wordt gespannen, de kamer een patroon verder draait en uiteindelijk de haan wordt losgelaten, waarbij het schot afgaat. De revolver speelt een belangrijke rol in Wild West-verhalen. Cowboys worden meestal afgebeeld met een revolver die, als hij niet wordt gebruikt, in een holster aan de heup hangt. In die verhalen worden revolvers soms six-shooters genoemd, naar het aantal schoten wat met een gangbaar model kon worden gelost zonder te herladen. De cilinder kan, al of niet uitgeklapt, ook met de hand gedraaid worden. Ook kan men een deel van de kamers vullen met patronen, en kan men dan kiezen welke kamers men vult. Deze zaken spelen een rol bij varianten van Russische roulette.</dbo:abstract>
+    <dbo:abstract xml:lang="es">El revólver (anglicismo de revolver) es un tipo de pistola que se caracteriza por llevar la munición dispuesta en un  o cilindro. Normalmente se utiliza el término pistola para designar a las armas de fuego cortas semiautomáticas, que suelen llevar la munición alojada en un cargador.</dbo:abstract>
+    <dbo:abstract xml:lang="ar">25بك المحتوى هنا ينقصه الاستشهاد بمصادر. يرجى إيراد مصادر موثوق بها. أي معلومات غير موثقة يمكن التشكيك بها وإزالتها. (يوليو 2016) المسدس الدوار (بالإنجليزية: Revolver) هو سلاح ناري يدوي من فئة المسدسات. ويتميز باحتوائه على قرص دوار يحمل مجموعة من الخراطيش. مشاريع شقيقة في كومنز صور وملفات عن: مسدس دوار 
+* 32xبوابة أسلحة25بك هذه بذرة مقالة عن موضوع له علاقة بسلاح ناري بحاجة للتوسيع. شارك في تحريرها.</dbo:abstract>
+    <dbo:abstract xml:lang="fr">Un revolver, ou révolver, est un système équipant une arme à feu dans lequel les chambres (partie de l&#39;arme contenant la charge propulsive et le projectile) sont amenées tour à tour par rotation devant un canon indépendant, permettant de tirer plusieurs coups sans interruption. Le revolver désigne également, par synecdoque, l&#39;arme à feu portative de poing équipée de ce système rotatif. Il existe deux formes de cette arme. Dans la première (revolver à tourelle) l&#39;ensemble des chambres est supporté par un disque (voire par un tore), alors que dans la seconde, les chambres sont creusées dans un cylindre (barillet). Ces mécanismes ont équipé tous les types d&#39;armes à feu, depuis l&#39;arme de poing (pistolet) jusqu&#39;au canon en passant par les armes d&#39;épaules (mousquet à mèche, mousquet à fusil (aussi nommé fusil à pierre), fusils). Les revolvers existent depuis au moins le XVIe siècle. Ils sont surtout connus par les pistolets revolver qui se sont développés à partir du XIXe siècle, lorsque l&#39;amorce chimique a remplacé la batterie à pierre comme système de mise à feu.</dbo:abstract>
+    <dbo:abstract xml:lang="ja">回転式拳銃は、拳銃の一種。リボルバー（Revolver）とも呼ばれる。</dbo:abstract>
+    <dbo:abstract xml:lang="zh">左轮手枪或转轮手枪（Revolver），是一种属手枪类的小型枪械。其转轮一般有6个弹仓，也有少至4个，多达12个弹仓的设计。外擺式彈巢的转轮手槍為了配合多数人使用右手的习惯，多為向左90度转出弹巢以装填弹药，因此中文常称為左轮手枪，其实原名称為转轮手枪，与左右无任何关联。 左轮手枪的子弹安装在轉輪彈倉中，可以连续发射而不用在每次发射后重新装填弹药。左轮手枪在19世纪出现，因其可靠和威力强大而风靡一时。后来装弹量更多、体积更小的半自动手枪逐渐取代了左轮手枪。但左轮手枪因为可靠、便于维护和便宜，目前在一些警用、运动射击和私人防卫的领域仍然有人使用。</dbo:abstract>
+    <dbo:abstract xml:lang="it">La rivoltella (anche nota come pistola a tamburo o, in lingua inglese, revolver), è un tipo di pistola a retrocarica a ripetizione semplice (tecnicamente arma corta a ripetizione multicamera monocanna), caratterizzata da un serbatoio a tamburo capace di compiere illimitate rivoluzioni intorno al proprio asse longitudinale; dal particolare moto del tamburo deriva il nome (revolvere infatti, nella lingua latina, significa girare o rivoltarsi).</dbo:abstract>
+    <dbo:abstract xml:lang="ru">Револьве́р (от лат. revolvere — катить назад, вращаться) — многозарядное огнестрельное оружие ближнего боя, механизм питания патронами которого выполнен в виде вращающегося цилиндра (барабана), в каморах которого находятся патроны, при этом, в момент выстрела, ствол является продолжением очередной каморы.</dbo:abstract>
+    <dbo:abstract xml:lang="de">Der Revolver gehört zur Kategorie der Handfeuerwaffen und wird durch das deutsche Waffenrecht (WaffG) als Kurzwaffe definiert. Revolver sind eine Unterkategorie von Pistolen und sind mehrschüssige Faustfeuerwaffen, bei der die Munition in einzelnen Kammern in einem als drehbare Trommel ausgelegten Patronenlager kreisförmig angeordnet ist. Die Trommel dient dabei nicht nur als Patronenlager, sondern auch als Magazin. Revolver werden im Sport, zur Selbstverteidigung und für die Nachsuche bei der Jagd eingesetzt. In der Vergangenheit waren Revolver oft die Standardwaffe im Polizeidienst; im militärischen Bereich wurden sie vor allem von Offizieren, berittenen Truppen und der Militärpolizei verwendet. In beiden Rollen wurden sie weitgehend, in Deutschland sogar vollständig, durch modernere Selbstladepistolen ersetzt. Kompakte (oft 5-schüssige) Revolver werden teilweise in den USA von Polizisten als Zweitwaffe (en.: back-up gun) oder außerhalb des regulären Dienstes (off duty gun) getragen. In einigen Staaten werden Revolver bis heute als Standardwaffen für Angehörige der Polizei eingesetzt.</dbo:abstract>
+    <dbo:abstract xml:lang="pt">Um revólver (em inglês: revolver) é uma arma de fogo de repetição, de porte individual, normalmente um só cano e com calibres variados. O depósito de cartuchos do revólver é constituído por um tambor ou cilindro giratório com várias câmaras ou culatras onde ficam os cartuchos (usualmente cinco ou seis, porém variando para mais ou para menos). O mecanismo de alimentação rotaciona este tambor um arco de revolução por disparo, de onde provém seu nome. Sistema moderno descende do projeto desenvolvido por Samuel Colt em 1836, embora o conceito existia a séculos antes da invenção de Colt. Revolveres são comumente armas de mão, porém outros tipos de armas podem ser consideradas revólveres também, como alguns rifles, lança-granadas e espingardas. Mortagem (em inglês: mortice) é o nome utilizado para o espaço onde fica o tambor do revólver, nome pouco conhecido (utiliza-se esse nome somente professores de cursos de segurança entre outros).</dbo:abstract>
+    <dbo:abstract xml:lang="en">A revolver is a repeating handgun that has a revolving cylinder containing multiple chambers and at least one barrel for firing. Revolvers might be regarded as a subset of pistols, or as an equal-ranking subset of handguns, distinct from pistols. Though the term &quot;revolver&quot; usually only refers to handguns, other firearms may also have a revolving chamber. These include some models of grenade launchers, shotguns, and rifles. Though the original name was revolving gun, the short-hand &quot;revolver&quot; is universally used. (Cannon using this mechanism are known as revolver cannon.) Nearly all early revolvers and many modern ones have six chambers in the cylinder, giving rise to the slang term six-shooter; however, revolvers with a number of different chambers have been made, with most modern revolvers having 5 or 6 chambers. The revolver allows the user to fire multiple rounds without reloading. Each time the user cocks the hammer, the cylinder revolves to align the next chamber and round with the hammer and barrel, which gives this type of firearm its name. In a  revolver, the user pulls the hammer back with his free hand or thumb; the trigger pull only releases the hammer. In a  revolver, pulling the trigger moves the hammer back, then releases it, which requires a longer and heavier trigger pull than single-action. Loading and unloading a double-action revolver requires the operator to swing out the cylinder and insert the proper ammunition, all while keeping the gun pointed in a safe direction. The first guns with multichambered cylinders that revolved to feed one barrel were made in the late 16th century in Europe. They were expensive and rare curiosities. Not until the 19th century would revolvers become common weapons of industrial production. One of the first was a flintlock revolver patented by Elisha Collier in 1814. The first percussion revolver was made by Lenormand of Paris in 1820 and the first percussion cap revolver was invented by the Italian Francesco Antonio Broccu in 1833. He received a prize of 300 francs for his invention; although he did not patent it, his revolver was shown to King Charles Albert of Sardinia. However, in 1835 a similar handgun was patented by Samuel Colt, who would go on to make the first mass-produced revolver. The first cartridge revolvers were produced around 1854 by Eugene Lefaucheux. Revolvers soon became standard for nearly all uses. In the early 20th century, semi-automatic pistols were developed, which can hold more rounds, and are faster to reload. &quot;Automatic&quot; pistols also have a flat profile, more suitable for concealed carry. Semi-auto pistols were not considered reliable enough for serious police work or self-defense until the later half of the century, however, and revolvers were the dominant handgun for police and civilians until modern pistols such as the Beretta 92 and Glock 17 were developed in the 70s and 80s.Automatic pistols have almost completely replaced revolvers in military and law enforcement use (in military use, from 1910-1960; in law enforcement, in the 1980s and 1990s). Revolvers still remain popular as back-up and off-duty handguns among American law enforcement officers and security guards. Also, revolvers are still common in the American private sector as defensive and sporting/hunting firearms. Famous police and military revolvers include the Webley, the Colt Single Action Army, the Colt Police Special, the Smith &amp; Wesson Model 36, the Smith &amp; Wesson Model 10, the Smith &amp; Wesson 1917, the Smith &amp; Wesson Model 3, and the Nagant M1895.</dbo:abstract>
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Firearm" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/AAI_underwater_revolver">
+    <dbo:type rdf:resource="http://dbpedia.org/resource/Revolver" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Colt_Dragoon_Revolver">
+    <dbo:type rdf:resource="http://dbpedia.org/resource/Revolver" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Colt_Trooper">
+    <dbo:type rdf:resource="http://dbpedia.org/resource/Revolver" />
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Revolver" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Charter_Arms_Bulldog">
+    <dbo:type rdf:resource="http://dbpedia.org/resource/Revolver" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Taurus_Raging_Bull">
+    <dbo:type rdf:resource="http://dbpedia.org/resource/Revolver" />
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Revolver" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ruger_Vaquero">
+    <dbo:type rdf:resource="http://dbpedia.org/resource/Revolver" />
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Revolver" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Smith_&amp;_Wesson_Triple_Lock">
+    <dbo:type rdf:resource="http://dbpedia.org/resource/Revolver" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Smith_&amp;_Wesson_Model_19">
+    <dbo:type rdf:resource="http://dbpedia.org/resource/Revolver" />
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Revolver" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Automatic_revolver">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Revolver" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2014_Las_Vegas_shootings">
+    <dbp:weapons rdf:resource="http://dbpedia.org/resource/Revolver" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Remington_Model_1875">
+    <dbo:type rdf:resource="http://dbpedia.org/resource/Revolver" />
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Revolver" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Astra_680">
+    <dbo:type rdf:resource="http://dbpedia.org/resource/Revolver" />
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Revolver" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nirbheek">
+    <dbo:type rdf:resource="http://dbpedia.org/resource/Revolver" />
+    <dbp:specType rdf:resource="http://dbpedia.org/resource/Revolver" />
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Revolver" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Smith_&amp;_Wesson_.38/44">
+    <dbo:type rdf:resource="http://dbpedia.org/resource/Revolver" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Rossi_R46102">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Revolver" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tip-up_barrel">
+    <owl:differentFrom rdf:resource="http://dbpedia.org/resource/Revolver" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ruger_LCR">
+    <dbo:type rdf:resource="http://dbpedia.org/resource/Revolver" />
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Revolver" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Colt_New_Line">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Revolver" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Colt_Paterson">
+    <dbo:type rdf:resource="http://dbpedia.org/resource/Revolver" />
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Revolver" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Beretta_Stampede">
+    <dbo:type rdf:resource="http://dbpedia.org/resource/Revolver" />
+    <dbp:action rdf:resource="http://dbpedia.org/resource/Revolver" />
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Revolver" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Smith_&amp;_Wesson_Model_60">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Revolver" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Smith_&amp;_Wesson_Governor">
+    <dbo:type rdf:resource="http://dbpedia.org/resource/Revolver" />
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Revolver" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Smith_&amp;_Wesson_Model_1">
+    <dbo:type rdf:resource="http://dbpedia.org/resource/Revolver" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Smith_&amp;_Wesson_Model_2">
+    <dbo:type rdf:resource="http://dbpedia.org/resource/Revolver" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Smith_&amp;_Wesson_Model_3">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Revolver" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Meriden_Firearms_Co.">
+    <dbo:product rdf:resource="http://dbpedia.org/resource/Revolver" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Colt_1851_Navy_Revolver">
+    <dbo:type rdf:resource="http://dbpedia.org/resource/Revolver" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Velo-dog">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Revolver" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Colt_M1889">
+    <dbp:action rdf:resource="http://dbpedia.org/resource/Revolver" />
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Revolver" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Halo_of_Blood">
+    <dbp:rev rdf:resource="http://dbpedia.org/resource/Revolver" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Colombo-Ricci_revolver">
+    <dbo:type rdf:resource="http://dbpedia.org/resource/Revolver" />
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Revolver" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Garcia-Reynoso_revolver">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Revolver" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Landstad_revolver">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Revolver" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Remington_Model_1890">
+    <dbo:type rdf:resource="http://dbpedia.org/resource/Revolver" />
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Revolver" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Smith_&amp;_Wesson_Model_1_1/2">
+    <dbo:type rdf:resource="http://dbpedia.org/resource/Revolver" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Zulaica_Automatic_Revolver">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Revolver" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/.45_Auto_Rim">
+    <dbp:type rdf:resource="http://dbpedia.org/resource/Revolver" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Armscor_(Philippines)">
+    <dbo:product rdf:resource="http://dbpedia.org/resource/Revolver" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Chiappa_Rhino">
+    <dbo:type rdf:resource="http://dbpedia.org/resource/Revolver" />
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Revolver" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Colt_Single_Action_Army">
+    <dbo:type rdf:resource="http://dbpedia.org/resource/Revolver" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Magnum_Research_BFR">
+    <dbo:type rdf:resource="http://dbpedia.org/resource/Revolver" />
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Revolver" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ruger_Old_Army">
+    <dbo:type rdf:resource="http://dbpedia.org/resource/Revolver" />
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Revolver" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Death_of_John_Lennon">
+    <dbp:weapon rdf:resource="http://dbpedia.org/resource/Revolver" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Colt_Official_Police">
+    <dbo:type rdf:resource="http://dbpedia.org/resource/Revolver" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/OTs-01_Kobalt">
+    <dbo:type rdf:resource="http://dbpedia.org/resource/Revolver" />
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Revolver" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Udar_revolver">
+    <dbo:type rdf:resource="http://dbpedia.org/resource/Revolver" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/.45_Colt">
+    <dbp:type rdf:resource="http://dbpedia.org/resource/Revolver" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2015_Parramatta_shooting">
+    <dbp:weapons rdf:resource="http://dbpedia.org/resource/Revolver" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ruger_GP100">
+    <dbo:type rdf:resource="http://dbpedia.org/resource/Revolver" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Modèle_1892_revolver">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Revolver" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Rast_&amp;_Gasser_M1898">
+    <dbo:type rdf:resource="http://dbpedia.org/resource/Revolver" />
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Revolver" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Colt_House_Revolver">
+    <dbo:type rdf:resource="http://dbpedia.org/resource/Revolver" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/MP-412_REX">
+    <dbo:type rdf:resource="http://dbpedia.org/resource/Revolver" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ruger_Security-Six">
+    <dbo:type rdf:resource="http://dbpedia.org/resource/Revolver" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Puckle_gun">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Revolver" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Smith_&amp;_Wesson_Model_30">
+    <dbo:type rdf:resource="http://dbpedia.org/resource/Revolver" />
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Revolver" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Smith_&amp;_Wesson_Model_646">
+    <dbo:type rdf:resource="http://dbpedia.org/resource/Revolver" />
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Revolver" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Colt_Open_Top_Pocket_Model_Revolver">
+    <dbo:type rdf:resource="http://dbpedia.org/resource/Revolver" />
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Revolver" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Savage_1861_Navy">
+    <dbo:type rdf:resource="http://dbpedia.org/resource/Revolver" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Smith_&amp;_Wesson_Model_14">
+    <dbo:type rdf:resource="http://dbpedia.org/resource/Revolver" />
+    <dbp:action rdf:resource="http://dbpedia.org/resource/Revolver" />
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Revolver" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sixgun">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Revolver" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Beaumont–Adams_revolver">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Revolver" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Origins_(Eluveitie_album)">
+    <dbp:rev rdf:resource="http://dbpedia.org/resource/Revolver" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Rossi_Model_971">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Revolver" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Smith_&amp;_Wesson_Model_317_kit_gun">
+    <dbo:type rdf:resource="http://dbpedia.org/resource/Revolver" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Smith_&amp;_Wesson_Model_57">
+    <dbo:type rdf:resource="http://dbpedia.org/resource/Revolver" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Astra_Model_44">
+    <dbo:type rdf:resource="http://dbpedia.org/resource/Revolver" />
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Revolver" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lefaucheux_M1858">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Revolver" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/OTs-38_Stechkin_silent_revolver">
+    <dbo:type rdf:resource="http://dbpedia.org/resource/Revolver" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/University_of_Iowa_shooting">
+    <dbp:weapons rdf:resource="http://dbpedia.org/resource/Revolver" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Colt_Python">
+    <dbo:type rdf:resource="http://dbpedia.org/resource/Revolver" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/1984_New_York_City_Subway_shooting">
+    <dbp:weapons rdf:resource="http://dbpedia.org/resource/Revolver" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nagant_M1895">
+    <dbo:type rdf:resource="http://dbpedia.org/resource/Revolver" />
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Revolver" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Smith_&amp;_Wesson_Model_15">
+    <dbo:type rdf:resource="http://dbpedia.org/resource/Revolver" />
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Revolver" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/.44_Magnum">
+    <dbp:type rdf:resource="http://dbpedia.org/resource/Revolver" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Colt_Model_1905_Marine_Corps">
+    <dbo:type rdf:resource="http://dbpedia.org/resource/Revolver" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Smith_&amp;_Wesson_Model_686">
+    <dbo:type rdf:resource="http://dbpedia.org/resource/Revolver" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Colt_Army_Model_1860">
+    <dbo:type rdf:resource="http://dbpedia.org/resource/Revolver" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/M1917_revolver">
+    <dbo:type rdf:resource="http://dbpedia.org/resource/Revolver" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Smith_&amp;_Wesson_Model_12">
+    <dbo:type rdf:resource="http://dbpedia.org/resource/Revolver" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Smith_&amp;_Wesson_Model_17">
+    <dbp:action rdf:resource="http://dbpedia.org/resource/Revolver" />
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Revolver" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Smith_&amp;_Wesson_Model_27">
+    <dbo:type rdf:resource="http://dbpedia.org/resource/Revolver" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Smith_&amp;_Wesson_Model_625">
+    <dbo:type rdf:resource="http://dbpedia.org/resource/Revolver" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ruger_Blackhawk">
+    <dbo:type rdf:resource="http://dbpedia.org/resource/Revolver" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Beretta_Laramie">
+    <dbo:type rdf:resource="http://dbpedia.org/resource/Revolver" />
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Revolver" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Smith_&amp;_Wesson_Model_340PD">
+    <dbo:type rdf:resource="http://dbpedia.org/resource/Revolver" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/M1879_Reichsrevolver">
+    <dbo:type rdf:resource="http://dbpedia.org/resource/Revolver" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Revolvers">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Revolver" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Six-shooter">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Revolver" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Wheel_gun">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Revolver" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Six-Gun">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Revolver" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Fanning_(firearms)">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Revolver" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Taurus_Judge">
+    <dbo:type rdf:resource="http://dbpedia.org/resource/Revolver" />
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Revolver" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gward_revolver">
+    <dbo:type rdf:resource="http://dbpedia.org/resource/Revolver" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/OTs-20_Gnom">
+    <dbo:type rdf:resource="http://dbpedia.org/resource/Revolver" />
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Revolver" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ordnance_Factories_Board_Nidar">
+    <dbo:type rdf:resource="http://dbpedia.org/resource/Revolver" />
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Revolver" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sixshooter">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Revolver" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Colt_Detective_Special">
+    <dbo:type rdf:resource="http://dbpedia.org/resource/Revolver" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Aileen_Wuornos">
+    <dbp:weapons rdf:resource="http://dbpedia.org/resource/Revolver" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Colt_Cobra">
+    <dbo:type rdf:resource="http://dbpedia.org/resource/Revolver" />
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Revolver" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Smith_&amp;_Wesson_Model_586">
+    <dbo:type rdf:resource="http://dbpedia.org/resource/Revolver" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ruger_Redhawk">
+    <dbo:type rdf:resource="http://dbpedia.org/resource/Revolver" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ruger_Super_Redhawk">
+    <dbo:type rdf:resource="http://dbpedia.org/resource/Revolver" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ruger_Alaskan">
+    <dbo:type rdf:resource="http://dbpedia.org/resource/Revolver" />
+    <dbp:action rdf:resource="http://dbpedia.org/resource/Revolver" />
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Revolver" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/New_Nambu_M60">
+    <dbo:type rdf:resource="http://dbpedia.org/resource/Revolver" />
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Revolver" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Type_26_revolver">
+    <dbo:type rdf:resource="http://dbpedia.org/resource/Revolver" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kerr&#39;s_Patent_Revolver">
+    <dbo:type rdf:resource="http://dbpedia.org/resource/Revolver" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/London_Armoury_Company">
+    <dbo:product rdf:resource="http://dbpedia.org/resource/Revolver" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Smith_&amp;_Wesson_Model_36">
+    <dbo:type rdf:resource="http://dbpedia.org/resource/Revolver" />
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Revolver" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Smith_&amp;_Wesson_Model_610">
+    <dbo:type rdf:resource="http://dbpedia.org/resource/Revolver" />
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Revolver" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ruger_Bisley">
+    <dbo:type rdf:resource="http://dbpedia.org/resource/Revolver" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/7.62×38mmR">
+    <dbp:type rdf:resource="http://dbpedia.org/resource/Revolver" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Colt_Model_1871-72_Open_Top">
+    <dbo:type rdf:resource="http://dbpedia.org/resource/Revolver" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ganahl_Revolver">
+    <dbo:type rdf:resource="http://dbpedia.org/resource/Revolver" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Korth_Combat">
+    <dbo:type rdf:resource="http://dbpedia.org/resource/Revolver" />
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Revolver" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Colt_King_Cobra">
+    <dbo:type rdf:resource="http://dbpedia.org/resource/Revolver" />
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Revolver" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Colt_Diamondback">
+    <dbo:type rdf:resource="http://dbpedia.org/resource/Revolver" />
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Revolver" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Revolver_(disambiguation)">
+    <dbo:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/Revolver" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Pfeifer_Zeliska_.600_Nitro_Express_revolver">
+    <dbo:type rdf:resource="http://dbpedia.org/resource/Revolver" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Colt_Anaconda">
+    <dbo:type rdf:resource="http://dbpedia.org/resource/Revolver" />
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Revolver" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/John_List">
+    <dbp:weapons rdf:resource="http://dbpedia.org/resource/Revolver" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Remington_Model_1858">
+    <dbo:type rdf:resource="http://dbpedia.org/resource/Revolver" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ruger_Single-Six">
+    <dbp:action rdf:resource="http://dbpedia.org/resource/Revolver" />
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Revolver" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Smith_&amp;_Wesson_Model_13">
+    <dbo:type rdf:resource="http://dbpedia.org/resource/Revolver" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hollywood_Zen">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Revolver" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Colt_Police_Positive">
+    <dbo:type rdf:resource="http://dbpedia.org/resource/Revolver" />
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Revolver" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Colt_Police_Positive_Special">
+    <dbo:type rdf:resource="http://dbpedia.org/resource/Revolver" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Colt_Walker">
+    <dbo:type rdf:resource="http://dbpedia.org/resource/Revolver" />
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Revolver" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Schmidt_M1882">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Revolver" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Smith_&amp;_Wesson_Model_460">
+    <dbo:type rdf:resource="http://dbpedia.org/resource/Revolver" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Taurus_Model_608">
+    <dbo:type rdf:resource="http://dbpedia.org/resource/Revolver" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Taurus_Model_85">
+    <dbo:type rdf:resource="http://dbpedia.org/resource/Revolver" />
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Revolver" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Smith_&amp;_Wesson_Model_619_&amp;_620">
+    <dbo:type rdf:resource="http://dbpedia.org/resource/Revolver" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bodeo_Model_1889">
+    <dbo:type rdf:resource="http://dbpedia.org/resource/Revolver" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Colt_M1892">
+    <dbo:type rdf:resource="http://dbpedia.org/resource/Revolver" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gasser_M1870">
+    <dbo:type rdf:resource="http://dbpedia.org/resource/Revolver" />
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Revolver" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/MAS_1873_revolver">
+    <dbp:action rdf:resource="http://dbpedia.org/resource/Revolver" />
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Revolver" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Six_Shooter">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Revolver" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Colt_M1877">
+    <dbo:type rdf:resource="http://dbpedia.org/resource/Revolver" />
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Revolver" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Smith_&amp;_Wesson_Safety_Hammerless">
+    <dbo:type rdf:resource="http://dbpedia.org/resource/Revolver" />
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Revolver" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Colt_New_Police_Revolver">
+    <dbo:type rdf:resource="http://dbpedia.org/resource/Revolver" />
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Revolver" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/.41_Long_Colt">
+    <dbp:type rdf:resource="http://dbpedia.org/resource/Revolver" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Cobray_Pocket_Pal">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Revolver" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Belly_gun">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Revolver" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/8mm_Gasser">
+    <dbp:type rdf:resource="http://dbpedia.org/resource/Revolver" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Revolving_gun">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Revolver" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/FitzGerald_Special">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Revolver" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/.320_Revolver">
+    <dbp:type rdf:resource="http://dbpedia.org/resource/Revolver" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/.327_Federal_Magnum">
+    <dbp:type rdf:resource="http://dbpedia.org/resource/Revolver" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Frontier_Bulldog">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Revolver" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/.450_Adams">
+    <dbp:type rdf:resource="http://dbpedia.org/resource/Revolver" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/.357/44_Bain_&amp;_Davis">
+    <dbp:type rdf:resource="http://dbpedia.org/resource/Revolver" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Astra_.44_MAGNUM_CTG.">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Revolver" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Six_shooter">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Revolver" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Treeby_chain_gun">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Revolver" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Romanshorn_shooting">
+    <dbp:weapons rdf:resource="http://dbpedia.org/resource/Revolver" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Revolver">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Revolver" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/NRP9_Police_Revolver">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Revolver" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Revolva">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Revolver" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Double-action_revolver">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Revolver" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Double_action_revolver">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Revolver" />
+  </rdf:Description>
+</rdf:RDF>

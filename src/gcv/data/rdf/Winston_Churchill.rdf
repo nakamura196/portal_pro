@@ -1,0 +1,1250 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:dbo="http://dbpedia.org/ontology/"
+	xmlns:dct="http://purl.org/dc/terms/"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:dbp="http://dbpedia.org/property/"
+	xmlns:prov="http://www.w3.org/ns/prov#" >
+  <rdf:Description rdf:about="http://dbpedia.org/resource/David_Lloyd_George">
+    <dbo:successor rdf:resource="http://dbpedia.org/resource/Winston_Churchill" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/USS_Winston_S._Churchill">
+    <dbp:shipNamesake rdf:resource="http://dbpedia.org/resource/Winston_Churchill" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Winston_Churchill">
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatEnglishPeople" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatBritishWarCorrespondents" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/OfficeHolder" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PhysicalEntity100001930" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoLegalActor" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoLegalActorGeo" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Person100007846" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatCompanionsOfTheLiberation" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Object100002684" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Whole100003553" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/LivingThing100004258" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/CausalAgent100007347" />
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Organism100004475" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Person" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatKnightsOfTheGarter" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Friend110112591" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatBritishPeopleOfWorldWarII" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Companion109945905" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatBritishPrisonersOfWar" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatRoyalScotsFusiliersOfficers" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatWarCorrespondents" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Journalist110224578" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatVictorianWriters" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatGraduatesOfTheRoyalMilitaryAcademySandhurst" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatBritishPeople" />
+    <rdf:type rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Expert109617867" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatPeopleWithASpeechImpediment" />
+    <rdf:type rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Wikicat20th-centuryHistorians" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatEnglishHistorians" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatEnglishBiographers" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Biographer109855433" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatBritishNon-fictionWriters" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Honoree110183757" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Head110162991" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Wikicat20th-centuryBritishPainters" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatConservativeParty(UK)Politicians" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Wikicat19th-centuryBritishWriters" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Recipient109627906" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Acquirer109764201" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Administrator109770949" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatPrimeMinistersOfTheUnitedKingdom" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatSecretariesOfStateForWar(UK)" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatSecretariesOfStateForTheColonies(UK)" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatPeopleEducatedAtHarrowSchool" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatBritishHistorians" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Lieutenant110259348" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Executive110069645" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Secretary110570019" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Painter110391653" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q5" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatGraduatesOfTheRoyalMilitaryCollege,Sandhurst" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatRectorsOfTheUniversityOfAberdeen" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/BadPerson109831962" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatWorldWarIIPoliticalLeaders" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatBritishKnights" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Wrongdoer109633969" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatEnglishPeopleOfAmericanDescent" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatPeopleEducatedAtSt.George&#39;sSchool,Ascot" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Associate109816771" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q215627" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatBritishJournalists" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q24229398" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Artist109812338" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Creator109614315" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatPeopleFromWoodstock,Oxfordshire" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatColdWarLeaders" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatRectorsOfTheUniversityOfEdinburgh" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Laureate110249011" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatCriticsOfIslam" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatPeopleOfTheEdwardianEra" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Correspondent109966710" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Fugitive110114897" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WarCorrespondent110766718" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Escapee110062905" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatFellowsOfTheRoyalSociety" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatEnglishPainters" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatSecretariesOfStateForAir(UK)" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Wikicat4thQueen&#39;sOwnHussarsOfficers" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatRoyalAirForceOfficersHoldingHonoraryCommissions" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Serviceman110582746" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatSecondBoerWarPrisonersOfWar" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/MilitaryOfficer110317007" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/CommissionedOfficer109942970" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/CommissionedMilitaryOfficer109943239" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatLiberalParty(UK)Politicians" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatBritishPeopleOfWorldWarI" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Curate109983572" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Clergyman109927451" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatLeadersOfTheOpposition(UnitedKingdom)" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatLeadersOfTheConservativeParty(UK)" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/SpiritualLeader109505153" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Criminal109977660" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatPeopleOfTheSecondBoerWar" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Principal110474950" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Minister110320863" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatSouthAfricanLightHorseOfficers" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Historian110177150" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatDeputyLieutenantsOfKent" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatBritishNobelLaureates" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Critic109979321" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Evaluator110066732" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Peer109626238" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Authority109824361" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Colleague109935990" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatEnglishWriters" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Wikicat20th-centuryBritishWriters" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatSecretariesOfStateForTheHomeDepartment" />
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatWriters" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PrisonerOfWar110476331" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Prisoner110476086" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Scholar110557854" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatHistorians" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Official110372373" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Officeholder110371450" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Owner110389398" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Holder110180178" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Alumnus109786338" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Intellectual109621545" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Unfortunate109630641" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Writer110794014" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Worker109632518" />
+    <rdf:type rdf:resource="http://schema.org/Person" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Agent" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Communicator109610660" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/SkilledWorker110605985" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatPeopleFromOxfordshire" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Politician110450303" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Leader109623038" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatBritishPoliticians" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/AirForceOfficer109780828" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatBritishEscapees" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/MaleAristocrat110285135" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatKnightsOfTheElephant" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Aristocrat109807754" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatHorrorWriters" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatEnglish-languageWriters" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Knight110238375" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatNobelLaureatesInLiterature" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatLeadersOfTheHouseOfCommons" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatSecretariesOfStateForDefence(UK)" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatQueen&#39;sOwnOxfordshireHussarsOfficers" />
+    <rdfs:label xml:lang="fr">Winston Churchill</rdfs:label>
+    <rdfs:label xml:lang="pl">Winston Churchill</rdfs:label>
+    <rdfs:label xml:lang="ja">ウィンストン・チャーチル</rdfs:label>
+    <rdfs:label xml:lang="pt">Winston Churchill</rdfs:label>
+    <rdfs:label xml:lang="de">Winston Churchill</rdfs:label>
+    <rdfs:label xml:lang="it">Winston Churchill</rdfs:label>
+    <rdfs:label xml:lang="en">Winston Churchill</rdfs:label>
+    <rdfs:label xml:lang="zh">温斯顿·丘吉尔</rdfs:label>
+    <rdfs:label xml:lang="ar">ونستون تشرشل</rdfs:label>
+    <rdfs:label xml:lang="nl">Winston Churchill</rdfs:label>
+    <rdfs:label xml:lang="ru">Черчилль, Уинстон</rdfs:label>
+    <rdfs:label xml:lang="es">Winston Churchill</rdfs:label>
+    <rdfs:comment xml:lang="de">Winston Leonard Spencer-Churchill(* 30. November 1874 in Woodstock, England; † 24. Januar 1965 in London) gilt als bedeutendster britischer Staatsmann des 20. Jahrhunderts. Er war von 1940 bis 1945 und von 1951 bis 1955 Premierminister und führte Großbritannien durch den Zweiten Weltkrieg. Zuvor hatte er bereits mehrere Regierungsämter bekleidet, unter anderem das des Ersten Lords der Admiralität, des Innen- und des Finanzministers. Darüber hinaus trat er als Autor politischer und historischer Werke hervor und erhielt 1953 den Nobelpreis für Literatur. Unterschrift von Winston Churchill</rdfs:comment>
+    <rdfs:comment xml:lang="fr">Winston Leonard Spencer-Churchill, né le 30 novembre 1874 au palais de Blenheim (Woodstock, Oxfordshire, Royaume-Uni) et mort le 24 janvier 1965 à Londres, est un homme d&#39;État britannique. Son action décisive en tant que Premier ministre du Royaume-Uni de 1940 à 1945, son rôle durant la Seconde Guerre mondiale, joints à ses talents d&#39;orateur et à ses bons mots en ont fait un des grands hommes politiques du XXe siècle. Ne disposant pas d&#39;une fortune personnelle, il tire l&#39;essentiel de ses revenus de sa plume. Ses dons d&#39;écriture seront couronnés à la fin de sa vie par le prix Nobel de littérature. Il est également un peintre estimé.</rdfs:comment>
+    <rdfs:comment xml:lang="es">Winston Leonard Spencer Churchill, KG, OM, CH, TD, FRS, PC (Palacio de Blenheim, 30 de noviembre de 1874-Londres, 24 de enero de 1965) fue un político y estadista británico, conocido por su liderazgo del Reino Unido durante la Segunda Guerra Mundial. Es considerado uno de los grandes líderes de tiempos de guerra y fue primer ministro del Reino Unido en dos períodos (1940-45 y 1951-55). Notable estadista y orador, Churchill fue también oficial del Ejército Británico, periodista (entre otros encargos, fue corresponsal de guerra en Cuba para el The Daily Graphic y, durante la Segunda Guerra Anglo-Bóer, del influyente diario conservador, The Morning Post), historiador, escritor y artista. Es el único primer ministro británico galardonado con el Premio Nobel de Literatura, y fue nombrado ciudad</rdfs:comment>
+    <rdfs:comment xml:lang="pt">Winston Leonard Spencer-Churchill KG OM CH TD DL FRS RA (Woodstock, 30 de novembro de 1874 — Londres, 24 de janeiro de 1965) foi um político conservador e estadista britânico, famoso principalmente por sua atuação como primeiro-ministro do Reino Unido durante a Segunda Guerra Mundial. Ele foi primeiro-ministro britânico por duas vezes (1940-45 e 1951-55). Orador e estadista notável, ele também foi oficial no Exército Britânico, historiador, escritor e artista. Ele é o único primeiro-ministro britânico a ter recebido o Prêmio Nobel de Literatura e a cidadania honorária dos Estados Unidos.</rdfs:comment>
+    <rdfs:comment xml:lang="ru">Сэр Уи́нстон Леона́рд Спе́нсер-Че́рчилль (англ. Sir Winston Leonard Spencer-Churchill, МФА [&#39;ʧɜːʧɪl]; 30 ноября 1874, Бленхеймский дворец, Великобритания — 24 января 1965, Лондон) — британский государственный и политический деятель, премьер-министр Великобритании в 1940—1945 и 1951—1955 годах; военный (полковник), журналист, писатель, почётный член Британской академии (1952), лауреат Нобелевской премии по литературе (1953). По данным опроса, проведённого в 2002 году вещательной компанией Би-би-си, был назван величайшим британцем в истории.</rdfs:comment>
+    <rdfs:comment xml:lang="pl">Winston Leonard Spencer Churchill KG, OM (ur. 30 listopada 1874 w Blenheim Palace, zm. 24 stycznia 1965 w Londynie) – brytyjski polityk, mówca, strateg, pisarz i historyk, malarz, dwukrotny premier Zjednoczonego Królestwa, laureat literackiej Nagrody Nobla, honorowy obywatel Stanów Zjednoczonych. W 2002 w plebiscycie organizowanym przez BBC został uznany najwybitniejszym Brytyjczykiem wszech czasów.</rdfs:comment>
+    <rdfs:comment xml:lang="it">Conosciuto principalmente per aver guidato il Regno Unito durante la Seconda guerra mondiale, è stato suo Primo ministro dal 1940 al 1945 e successivamente dal 1951 al 1955. Noto statista, oratore e stratega, Churchill fu inoltre un ufficiale dell&#39;esercito britannico. Autore prolifico, vinse il Premio Nobel per la Letteratura nel 1953 per i suoi scritti storici.</rdfs:comment>
+    <rdfs:comment xml:lang="en">Sir Winston Leonard Spencer-Churchill, KG, OM, CH, TD, PC, DL, FRS, RA (30 November 1874 – 24 January 1965) was a British statesman who was the Prime Minister of the United Kingdom from 1940 to 1945 and again from 1951 to 1955. Churchill was also an officer in the British Army, a non-academic historian, a writer (as Winston S. Churchill), and an artist. He won the Nobel Prize in Literature in 1953 for his overall, lifetime body of work. In 1963, he was the first of only eight people to be made an honorary citizen of the United States.</rdfs:comment>
+    <rdfs:comment xml:lang="nl">Winston Leonard Spencer-Churchill (Woodstock, 30 november 1874 – Londen, 24 januari 1965) was de Britse staatsman die als premier van 1940 tot 1945 Hitler weerstond en daarmee een beslissende rol in diens ondergang en de geallieerde overwinning heeft gespeeld. Het lukte hem de Britse oorlogsinspanning op peil te krijgen en de Verenigde Staten daarbij tot steun te bewegen.</rdfs:comment>
+    <rdfs:comment xml:lang="ar">السير ونستون ليونارد سبنسر تشرشل (30 نوفمبر 1874 - 24 يناير 1965 في لندن)، هو رئيس الوزراء في المملكة المتحدة من عام 1940 وحتى عام 1945 (إبان الحرب العالمية الثانية). وفي عام 1951 تولى تشرشل المنصب ذاته إلى عام 1955. يُعد تشرشل أحد أبرز القادة السياسيين الذين انبلجوا على الساحة السياسية خلال الحروب التي اندلعت في القرن العشرين. قضى تشرشل سنوات حياته الأولى ضابطًا بالجيش البريطاني، ومؤرخًا، وكاتبًا، بل وفنانًا، كلُ في آن واحد. تشرشل هو رئيس الوزراء الوحيد الذي يحصل على جائزة نوبل في الأدب، وكان أول من تمنحه الولايات المتحدة المواطنة الفخرية. ينحدر تشرشل من سلالة عائلات الدوقات الأرستقراطية بمارلبورو؛ وهي أحد فروع عائلة سبنسر الأشهر ببريطانيا. كان والده اللورد راندولف تشرشل، وهو أحد الساسة ذا الشخصية الكاريزمية، الذي تولى منصب وزير الخزانة آنذاك. وكانت جيني جيرودر، والدة تشرشل، عضوًا بارزا ف</rdfs:comment>
+    <rdfs:comment xml:lang="zh">溫斯頓·伦纳德·斯宾塞·邱吉尔爵士，KG，OM，CH，TD，FRS，PC (Can)（Sir Winston Leonard Spencer Churchill，1874年11月30日－1965年1月24日），英國政治家、演說家、軍事家和作家，曾於1940年至1945年出任英国首相，任期內领導英国在第二次世界大战中聯合美國等国家對抗德國，并取得了最终胜利，並自1951年至1955年再度出任英国首相。 邱吉爾被認為是20世紀最重要的政治领袖之一，對英國乃至於世界均影響深遠。此外，他在文学上也有很高的成就，曾於1953年获诺贝尔文学奖。在2002年，BBC舉行了一個名為「最偉大的100名英國人」的調查，結果邱吉爾獲排在第一位。</rdfs:comment>
+    <rdfs:comment xml:lang="ja">ウィンストン・レナード・スペンサー＝チャーチル（英語: Sir Winston Leonard Spencer-Churchill, KG, OM, CH, TD, PC, DL, FRS, Hon. RA、1874年11月30日 - 1965年1月24日）は、イギリスの政治家、軍人、作家。</rdfs:comment>
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Britain" />
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/World_War_II" />
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Simon_Commission" />
+    <owl:sameAs rdf:resource="http://www4.wiwiss.fu-berlin.de/gutendata/resource/people/Churchill_Winston_S_Sir_1874-1965" />
+    <owl:sameAs rdf:resource="http://nl.dbpedia.org/resource/Winston_Churchill" />
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q8016" />
+    <owl:sameAs rdf:resource="http://pl.dbpedia.org/resource/Winston_Churchill" />
+    <owl:sameAs rdf:resource="http://pt.dbpedia.org/resource/Winston_Churchill" />
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.082xp" />
+    <owl:sameAs rdf:resource="http://cs.dbpedia.org/resource/Winston_Churchill" />
+    <owl:sameAs rdf:resource="http://d-nb.info/gnd/118520776" />
+    <owl:sameAs rdf:resource="http://www.bbc.co.uk/things/c1b779fd-f669-4de5-bd69-4770a1797f75#id" />
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Winston_Churchill" />
+    <owl:sameAs rdf:resource="http://fr.dbpedia.org/resource/Winston_Churchill" />
+    <owl:sameAs rdf:resource="http://id.dbpedia.org/resource/Winston_Churchill" />
+    <owl:sameAs rdf:resource="http://data.nytimes.com/N39589975027631193403" />
+    <owl:sameAs rdf:resource="http://ko.dbpedia.org/resource/윈스턴_처칠" />
+    <owl:sameAs rdf:resource="http://el.dbpedia.org/resource/Ουίνστον_Τσώρτσιλ" />
+    <owl:sameAs rdf:resource="http://yago-knowledge.org/resource/Winston_Churchill" />
+    <owl:sameAs rdf:resource="http://eu.dbpedia.org/resource/Winston_Churchill" />
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q8016" />
+    <owl:sameAs rdf:resource="http://es.dbpedia.org/resource/Winston_Churchill" />
+    <owl:sameAs rdf:resource="http://it.dbpedia.org/resource/Winston_Churchill" />
+    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/Winston_Churchill" />
+    <owl:sameAs rdf:resource="http://ja.dbpedia.org/resource/ウィンストン・チャーチル" />
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Hyde_Park_Gate" />
+    <dbo:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1965-1-24</dbo:deathDate>
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Blenheim_Palace" />
+    <dbo:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1874-11-30</dbo:birthDate>
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Knights_of_the_Garter" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Burials_at_St_Martin&#39;s_Church,_Bladon" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Recipients_of_King_Christian_X&#39;s_Liberty_Medal" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:4th_Queen&#39;s_Own_Hussars_officers" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:British_military_personnel_of_the_Malakand_Frontier_War" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:British_escapees" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Second_Boer_War_prisoners_of_war" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Secretaries_of_State_for_Air_(UK)" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Winston_Churchill" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:UK_MPs_1900–06" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Honorary_air_commodores" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:UK_MPs_1906–10" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Members_of_the_Queen&#39;s_Privy_Council_for_Canada" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:British_Empire_in_World_War_II" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:World_War_II_political_leaders" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:English_eugenicists" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Conservative_Party_(UK)_MPs" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:UK_MPs_1910–18" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:UK_MPs_1918–22" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Members_of_the_Parliament_of_the_United_Kingdom_for_English_constituencies" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:British_Army_personnel_of_World_War_I" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:British_war_correspondents" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:20th-century_British_writers" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:British_Army_personnel_of_the_Mahdist_War" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Admiralty_during_World_War_II" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Deputy_Lieutenants_of_Kent" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:UK_MPs_1955–59" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:1874_births" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Secretaries_of_State_for_War_(UK)" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:UK_MPs_1959–64" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Secretaries_of_State_for_the_Home_Department" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Secretaries_of_State_for_the_Colonies" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:British_prisoners_of_war" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:British_Odd_Fellows" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:British_Freemasons" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:First_Lords_of_the_Admiralty" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:English_Anglicans" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Foreign_recipients_of_the_Distinguished_Service_Medal_(United_States)" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:South_African_Light_Horse_officers" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Recipients_of_the_Order_of_the_White_Lion" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Subjects_of_iconic_photographs" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Victorian_writers" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Rectors_of_the_University_of_Aberdeen" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Congressional_Gold_Medal_recipients" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Members_of_the_Order_of_Merit" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:19th-century_British_writers" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:1965_deaths" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Companions_of_the_Liberation" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Chancellors_of_the_University_of_Bristol" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:UK_MPs_1951–55" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:20th-century_English_historians" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Members_of_the_Parliament_of_the_United_Kingdom_for_Dundee_constituencies" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:UK_MPs_1929–31" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Rectors_of_the_University_of_Edinburgh" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:UK_MPs_1935–45" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:UK_MPs_1945–50" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:UK_MPs_1924–29" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Nobel_laureates_in_Literature" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Members_of_the_Privy_Council_of_the_United_Kingdom" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:American_Odd_Fellows" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Leaders_of_the_House_of_Commons" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:UK_MPs_1950–51" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Fellows_of_the_Royal_Society" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Chancellors_of_the_Exchequer_of_the_United_Kingdom" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:English_people_of_American_descent" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Spencer-Churchill_family" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:English_people_of_Huguenot_descent" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:UK_MPs_1910" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Graduates_of_the_Royal_Military_College,_Sandhurst" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Recipients_of_the_Croix_de_guerre_1939–1945_(France)" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:People_from_Woodstock,_Oxfordshire" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Liberal_Party_(UK)_MPs" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Queen&#39;s_Own_Oxfordshire_Hussars_officers" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:20th-century_biographers" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:UK_MPs_1931–35" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:People_educated_at_Harrow_School" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Prime_Ministers_of_the_United_Kingdom" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Chancellors_of_the_Duchy_of_Lancaster" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Admiralty_personnel_of_World_War_II" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Recipients_of_the_Order_of_the_Star_of_Nepal" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Members_of_the_Order_of_the_Companions_of_Honour" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Lords_Warden_of_the_Cinque_Ports" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Conservative_Party_Prime_Ministers_of_the_United_Kingdom" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Grand_Crosses_of_the_Order_of_the_Oak_Crown" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Leaders_of_the_Conservative_Party_(UK)" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Leaders_of_the_Opposition_(United_Kingdom)" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:English_biographers" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Recipients_of_the_Croix_de_guerre_(Belgium)" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:English_anti-communists" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Freemen_of_the_City_of_London" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:People_educated_at_St._George&#39;s_School,_Ascot" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Members_of_Trinity_House" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Royal_Scots_Fusiliers_officers" />
+    <dbo:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">33265</dbo:wikiPageID>
+    <dbo:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">744893657</dbo:wikiPageRevisionID>
+    <dbo:wikiPageExternalLink rdf:resource="http://www.museumsyndicate.com/artist.php?artist=667" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.shapell.org/search/?search=Winston+Churchill" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.loc.gov/exhibits/churchill/interactive" />
+    <dbo:wikiPageExternalLink rdf:resource="http://vault.fbi.gov/Winston%20Churchill" />
+    <dbo:wikiPageExternalLink rdf:resource="http://historicalpodcasts.googlepages.com/winstonchurchill" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.winstonchurchill.org/" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.iwm.org.uk/" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.iwm.org.uk/history/churchills-first-world-war" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.iwm.org.uk/history/fascinating-amateur-colour-footage-of-churchills-funeral" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.chu.cam.ac.uk/archives/churchill_papers/biography/churchill_chronology.php" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.nationalarchives.gov.uk/documents/cab_195_3_transcript.pdf" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.nationalarchives.gov.uk/documents/cab_195_4_transcript.pdf" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.nationalarchives.gov.uk/documents/cab_195_1_transcript.pdf" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.nationalarchives.gov.uk/documents/cab_195_2_transcript.pdf" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.winstonchurchill.org/i4a/pages/index.cfm?pageid=892&amp;textonly=1" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.nationalarchives.gov.uk/nra/searches/subjectView.asp?ID=P5659" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.history.com/topics/winston-churchill" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.churchillmemorial.org/" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.gutenberg.org/etext/3029" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.earthstation1.com/churchil.html" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.bbc.co.uk/programmes/b00tpsvk" />
+    <dbo:wikiPageExternalLink rdf:resource="https://www.mises.org/story/1450" />
+    <foaf:name xml:lang="en">Sir Winston Churchill</foaf:name>
+    <foaf:name xml:lang="en">Winston Churchill</foaf:name>
+    <dbp:name rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Winston Churchill</dbp:name>
+    <foaf:depiction rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Sir_Winston_Churchill_-_19086236948.jpg" />
+    <dct:description xml:lang="en">Prime Minister of the United Kingdom during World War II</dct:description>
+    <foaf:givenName xml:lang="en">Leonard</foaf:givenName>
+    <foaf:gender xml:lang="en">male</foaf:gender>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Winston_Churchill" />
+    <foaf:surname xml:lang="en">Churchill</foaf:surname>
+    <dbo:thumbnail rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Sir_Winston_Churchill_-_19086236948.jpg?width=300" />
+    <prov:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Winston_Churchill?oldid=744893657" />
+    <dbo:abstract xml:lang="it">Conosciuto principalmente per aver guidato il Regno Unito durante la Seconda guerra mondiale, è stato suo Primo ministro dal 1940 al 1945 e successivamente dal 1951 al 1955. Noto statista, oratore e stratega, Churchill fu inoltre un ufficiale dell&#39;esercito britannico. Autore prolifico, vinse il Premio Nobel per la Letteratura nel 1953 per i suoi scritti storici. Durante la sua carriera nell&#39;esercito, Churchill combatté con il corpo di spedizione chiamato Malakand Field Force nella battaglia di Omdurman in Sudan e durante la seconda guerra boera in Sudafrica. In questo periodo riuscì inoltre a raggiungere la fama come corrispondente di guerra. Sulla scena politica per quasi sessant&#39;anni, ricoprì numerose cariche politiche e di governo. Nei primi anni del Novecento, durante i governi liberali, fu a capo del Ministero per il commercio e l&#39;industria (Board of Trade) e Segretario di Stato per gli Affari interni (Home Secretary). Durante la prima guerra mondiale fu Primo Lord dell&#39;Ammiragliato e Ministro delle Munizioni (il ministero che sovrintendeva alla produzione bellica). Combatté anche con l&#39;esercito sul fronte occidentale e comandò il 6th Battalion of the Royal Scots Fusiliers. Nel periodo tra le due guerre fu Ministro della Guerra e dell&#39;Aviazione, Ministro delle Colonie e Cancelliere dello Scacchiere (il Ministro delle Finanze britannico). Con lo scoppio della seconda guerra mondiale, Churchill fu nominato Primo Lord dell&#39;Ammiragliato. Successivamente in seguito alle dimissioni di Neville Chamberlain il 10 maggio 1940, divenne Primo ministro e guidò la Gran Bretagna alla vittoria contro le Potenze dell&#39;Asse. I suoi discorsi furono di grande ispirazione alle forze alleate impegnate in combattimento. Dopo la sconfitta alle elezioni del 1945, Churchill divenne leader dell&#39;opposizione. Nel 1951 divenne nuovamente Primo Ministro fino al ritiro definitivo dalla scena politica nel 1955. Alla sua morte la Regina gli concesse gli onori del funerale di stato, al quale parteciparono un gran numero di statisti.</dbo:abstract>
+    <dbo:abstract xml:lang="nl">Winston Leonard Spencer-Churchill (Woodstock, 30 november 1874 – Londen, 24 januari 1965) was de Britse staatsman die als premier van 1940 tot 1945 Hitler weerstond en daarmee een beslissende rol in diens ondergang en de geallieerde overwinning heeft gespeeld. Het lukte hem de Britse oorlogsinspanning op peil te krijgen en de Verenigde Staten daarbij tot steun te bewegen. Churchill is een van de bekendste staatslieden van de 20e eeuw. Voor zijn aantreden als premier op zijn 64e had hij al een lange en wisselvallige carrière achter de rug, waarin hij twee maal van politieke partij wisselde. In 1901 werd hij voor het eerst verkozen in het Lagerhuis en in 1910 benoemd tot minister van Binnenlandse Zaken. Als minister van Marine en als minister van Munitie was hij betrokken bij de Eerste Wereldoorlog en hij was later ook minister van Financiën. Daarnaast was hij een productief en succesvol schrijver en ontving hij in 1953 de Nobelprijs voor de Literatuur voor zijn geschiedenis van de Tweede Wereldoorlog. Als een van de weinige Europeanen was hij Amerikaans ere-staatsburger.</dbo:abstract>
+    <dbo:abstract xml:lang="de">Winston Leonard Spencer-Churchill(* 30. November 1874 in Woodstock, England; † 24. Januar 1965 in London) gilt als bedeutendster britischer Staatsmann des 20. Jahrhunderts. Er war von 1940 bis 1945 und von 1951 bis 1955 Premierminister und führte Großbritannien durch den Zweiten Weltkrieg. Zuvor hatte er bereits mehrere Regierungsämter bekleidet, unter anderem das des Ersten Lords der Admiralität, des Innen- und des Finanzministers. Darüber hinaus trat er als Autor politischer und historischer Werke hervor und erhielt 1953 den Nobelpreis für Literatur. Unterschrift von Winston Churchill</dbo:abstract>
+    <dbo:abstract xml:lang="es">Winston Leonard Spencer Churchill, KG, OM, CH, TD, FRS, PC (Palacio de Blenheim, 30 de noviembre de 1874-Londres, 24 de enero de 1965) fue un político y estadista británico, conocido por su liderazgo del Reino Unido durante la Segunda Guerra Mundial. Es considerado uno de los grandes líderes de tiempos de guerra y fue primer ministro del Reino Unido en dos períodos (1940-45 y 1951-55). Notable estadista y orador, Churchill fue también oficial del Ejército Británico, periodista (entre otros encargos, fue corresponsal de guerra en Cuba para el The Daily Graphic y, durante la Segunda Guerra Anglo-Bóer, del influyente diario conservador, The Morning Post), historiador, escritor y artista. Es el único primer ministro británico galardonado con el Premio Nobel de Literatura, y fue nombrado ciudadano honorario de los Estados Unidos de América. Nació en el seno de la familia aristocrática de los duques de Marlborough. Su padre, lord Randolph Churchill, fue un político carismático y Ministro de Hacienda del Reino Unido; su madre, Jenny Jerome, era de origen estadounidense. Siendo un joven oficial del ejército, entró en acción en la India Británica, Sudán y en la Segunda Guerra de los Bóeres. Ganó fama como corresponsal de guerra y con los libros que escribió sobre sus campañas. En la primera línea política durante 50 años, ocupó numerosos cargos políticos y de Gabinete. Antes de la Primera Guerra Mundial, fue presidente de la Secretaría de Estado de Comercio, ministro de Interior y Primer Lord del Almirantazgo como parte del gobierno liberal de H. H. Asquith. Durante la guerra continuó como Primer Lord del Almirantazgo hasta la desastrosa batalla de Galípoli, que él había patrocinado y que motivó su salida del gobierno. Después sirvió un breve tiempo en el frente occidental como comandante del 6.º Batallón de los Fusileros Reales Escoceses. Regresó al gobierno como ministro de Armamento, secretario de Estado de Guerra y secretario de Estado del Aire. Tras el conflicto mundial, ocupó el cargo de Ministro de Hacienda en el gobierno conservador de Stanley Baldwin entre 1924 y 1929, donde tomó la controvertida decisión de devolver la libra esterlina en 1925 al patrón oro como en la paridad anterior a la guerra, lo que muchos consideraron una presión deflacionaria sobre la economía del Reino Unido. Igual de polémicas fueron su oposición al incremento de la autonomía de la India y su resistencia a la abdicación de Eduardo VIII en 1936. Aunque permaneció fuera de la política en la década de 1930, lideró la alerta sobre el peligro de Adolf Hitler y la campaña para el rearme. Al estallido de la Segunda Guerra Mundial, fue nombrado de nuevo Primer Lord del Almirantazgo y, tras la dimisión de Neville Chamberlain el 10 de mayo de 1940, se convirtió en primer ministro. Su firme negativa a aceptar la derrota, la rendición o un acuerdo de paz ayudó a inspirar la resistencia británica, en especial durante los difíciles primeros años de la guerra, cuando el Reino Unido se quedó solo en su firme oposición y en la guerra contra la Alemania nazi. Se destacó por sus discursos y programas de radio que ayudaron a inspirar al pueblo británico, al que lideró como primer ministro hasta que fue segura la victoria de los Aliados sobre las Potencias del Eje. Después de que su partido conservador perdiera las elecciones generales de 1945, Churchill lideró la oposición. En 1951 consiguió volver a ser primer ministro, hasta su retiro en 1955. A su muerte en 1965, la reina Isabel II le concedió el honor de un funeral de estado en el que se dio una de las mayores reuniones de jefes de Estado nunca antes vista. Churchill es recordado como uno de los hombres más influyentes en la historia del Reino Unido.</dbo:abstract>
+    <dbo:abstract xml:lang="pl">Winston Leonard Spencer Churchill KG, OM (ur. 30 listopada 1874 w Blenheim Palace, zm. 24 stycznia 1965 w Londynie) – brytyjski polityk, mówca, strateg, pisarz i historyk, malarz, dwukrotny premier Zjednoczonego Królestwa, laureat literackiej Nagrody Nobla, honorowy obywatel Stanów Zjednoczonych. W 2002 w plebiscycie organizowanym przez BBC został uznany najwybitniejszym Brytyjczykiem wszech czasów.</dbo:abstract>
+    <dbo:abstract xml:lang="en">Sir Winston Leonard Spencer-Churchill, KG, OM, CH, TD, PC, DL, FRS, RA (30 November 1874 – 24 January 1965) was a British statesman who was the Prime Minister of the United Kingdom from 1940 to 1945 and again from 1951 to 1955. Churchill was also an officer in the British Army, a non-academic historian, a writer (as Winston S. Churchill), and an artist. He won the Nobel Prize in Literature in 1953 for his overall, lifetime body of work. In 1963, he was the first of only eight people to be made an honorary citizen of the United States. Churchill was born into the family of the Dukes of Marlborough, a branch of the Spencer family. His father, Lord Randolph Churchill, was a charismatic politician who served as Chancellor of the Exchequer; his mother, Jennie Jerome, was an American socialite. As a young army officer, he saw action in British India, the Anglo–Sudan War, and the Second Boer War. He gained fame as a war correspondent and wrote books about his campaigns. At the forefront of politics for fifty years, he held many political and cabinet positions. Before the First World War, he served as President of the Board of Trade, Home Secretary, and First Lord of the Admiralty as part of Asquith&#39;s Liberal government. During the war, he continued as First Lord of the Admiralty until the disastrous Gallipoli Campaign caused his departure from government. He then briefly resumed active army service on the Western Front as commander of the 6th Battalion of the Royal Scots Fusiliers. He returned to government under Lloyd George as Minister of Munitions, Secretary of State for War, Secretary of State for Air, then Secretary of State for the Colonies. After two years out of Parliament, he served as Chancellor of the Exchequer in Baldwin&#39;s Conservative government of 1924–1929, controversially returning the pound sterling in 1925 to the gold standard at its pre-war parity, a move widely seen as creating deflationary pressure on the UK economy. Out of office and politically &quot;in the wilderness&quot; during the 1930s because of his opposition to increased home rule for India and his resistance to the 1936 abdication of Edward VIII, Churchill took the lead in warning about Nazi Germany and in campaigning for rearmament. At the outbreak of the Second World War, he was again appointed First Lord of the Admiralty. Following the resignation of Neville Chamberlain on 10 May 1940, Churchill became Prime Minister. His speeches and radio broadcasts helped inspire British resistance, especially during the difficult days of 1940–41 when the British Commonwealth and Empire stood almost alone in its active opposition to Adolf Hitler. He led Britain as Prime Minister until victory over Nazi Germany had been secured. After the Conservative Party lost the 1945 election, he became Leader of the Opposition to the Labour Government. He publicly warned of an &quot;Iron Curtain&quot; of Soviet influence in Europe and promoted European unity. After winning the 1951 election, Churchill again became Prime Minister. His second term was preoccupied by foreign affairs, including the Malayan Emergency, Mau Mau Uprising, Korean War, and a UK-backed coup d&#39;état in Iran. Domestically his government laid great emphasis on house-building. Churchill suffered a serious stroke in 1953 and retired as Prime Minister in 1955, although he remained a Member of Parliament until 1964. Upon his death aged ninety in 1965, Elizabeth II granted him the honour of a state funeral, which saw one of the largest assemblies of world statesmen in history. Named the Greatest Briton of all time in a 2002 poll, Churchill is widely regarded as being among the most influential people in British history, consistently ranking well in opinion polls of Prime Ministers of the United Kingdom.</dbo:abstract>
+    <dbo:abstract xml:lang="fr">Winston Leonard Spencer-Churchill, né le 30 novembre 1874 au palais de Blenheim (Woodstock, Oxfordshire, Royaume-Uni) et mort le 24 janvier 1965 à Londres, est un homme d&#39;État britannique. Son action décisive en tant que Premier ministre du Royaume-Uni de 1940 à 1945, son rôle durant la Seconde Guerre mondiale, joints à ses talents d&#39;orateur et à ses bons mots en ont fait un des grands hommes politiques du XXe siècle. Ne disposant pas d&#39;une fortune personnelle, il tire l&#39;essentiel de ses revenus de sa plume. Ses dons d&#39;écriture seront couronnés à la fin de sa vie par le prix Nobel de littérature. Il est également un peintre estimé. Winston Leonard Spencer-Churchill appartient à la famille aristocratique Spencer, dont il est la plus brillante figure depuis le fondateur, son ancêtre John Churchill, 1er duc de Marlborough (1650-1722), auquel il a consacré une biographie. Fils d&#39;un homme politique conservateur atypique n&#39;ayant pas connu le succès escompté et mort relativement jeune, il ambitionne très vite de réussir dans ce domaine. De fait, s&#39;il débute dans la carrière militaire et combat en Inde, au Soudan et lors de la seconde guerre des Boers, il y cherche surtout l&#39;occasion de briller et de se faire connaître. Cette recherche de gloire lui vaut parfois un certain nombre d&#39;inimitiés parmi ses pairs. Assez rapidement, en partie pour des questions financières – l&#39;armée paie moins que le journalisme et il a besoin d&#39;argent – il sert en tant que correspondant de guerre, écrivant des livres sur les campagnes auxquelles il participe. Bien plus tard, il sert brièvement sur le front de l&#39;Ouest pendant la Première Guerre mondiale, comme commandant du 6e bataillon des Royal Scots Fusiliers. Il est député durant la majeure partie de sa carrière politique, longue de près de soixante années, et occupe des postes ministériels pendant près de trente ans. Avant la Première Guerre mondiale, il est ministre du Commerce, secrétaire du Home Office et Premier Lord de l&#39;Amirauté du gouvernement libéral d&#39;Herbert Henry Asquith. À ce titre, il participe à la création des premières lois sociales de son pays et à un mouvement visant à restreindre l&#39;importance de la Chambre des lords, deux éléments qui lui valent une forte inimitié de la part des conservateurs. Il reste à cette fonction jusqu&#39;à la défaite britannique lors de la bataille des Dardanelles, dont il est tenu pour responsable, et qui provoque son éviction du gouvernement. Blanchi de ces accusations par une commission d&#39;enquête parlementaire, il est rappelé comme ministre de l&#39;Armement, secrétaire d&#39;État à la Guerre et secrétaire d&#39;État de l&#39;air par David Lloyd George, alors Premier ministre. Durant l&#39;entre-deux-guerres, il quitte le Parti libéral et revient au Parti conservateur, avant de devenir chancelier de l&#39;Échiquier. Son bilan à ce poste est mitigé. L&#39;économie n&#39;est pas son domaine de prédilection, à la différence de la politique étrangère et des affaires de stratégie militaire. Dans les années 1930, il n&#39;est pas en phase avec le milieu politique d&#39;alors. Les conservateurs qui dominent le parti ne l&#39;apprécient pas et lui-même n&#39;est pas un homme d&#39;appareil. Il connaît une dizaine d&#39;années de traversée du désert. Il faut attendre le déclenchement de la Seconde Guerre mondiale pour que Winston Churchill redevienne ministre en tant que Premier Lord de l&#39;Amirauté. Après la démission de Neville Chamberlain, le 10 mai 1940, il devient Premier ministre du Royaume-Uni, plus par défaut que par adhésion. À 65 ans, alors le plus âgé des grands dirigeants alliés, il atteint le sommet de sa carrière politique. Il organise les forces armées britanniques et conduit le pays à la victoire contre les puissances de l&#39;Axe. Ses discours et ses paroles marquent le peuple britannique et les forces alliées. Il permet également aux forces de la France libre, dirigées par Charles de Gaulle, pour lequel il éprouva une tumultueuse mais forte amitié, de s&#39;imposer comme faisant partie des Alliés et comme seules représentantes de la France combattante durant la Seconde Guerre mondiale. Après avoir perdu les élections législatives de 1945, il devient chef de l&#39;opposition conservatrice, dénonçant dès 1946 le rideau de fer. Il occupe à nouveau la fonction de Premier ministre de 1951 à 1955, date de sa démission. Malade, il quitte en 1964 la Chambre des communes, où il siégeait depuis 1900. En 1953, la reine le fait chevalier de l&#39;ordre de la Jarretière. À sa mort, la reine le gratifie d&#39;obsèques nationales qui, avec celles du pape Jean-Paul II en 2005, seront l&#39;occasion de l&#39;un des plus importants rassemblements d&#39;hommes d&#39;État ayant eu lieu dans le monde.</dbo:abstract>
+    <dbo:abstract xml:lang="ar">السير ونستون ليونارد سبنسر تشرشل (30 نوفمبر 1874 - 24 يناير 1965 في لندن)، هو رئيس الوزراء في المملكة المتحدة من عام 1940 وحتى عام 1945 (إبان الحرب العالمية الثانية). وفي عام 1951 تولى تشرشل المنصب ذاته إلى عام 1955. يُعد تشرشل أحد أبرز القادة السياسيين الذين انبلجوا على الساحة السياسية خلال الحروب التي اندلعت في القرن العشرين. قضى تشرشل سنوات حياته الأولى ضابطًا بالجيش البريطاني، ومؤرخًا، وكاتبًا، بل وفنانًا، كلُ في آن واحد. تشرشل هو رئيس الوزراء الوحيد الذي يحصل على جائزة نوبل في الأدب، وكان أول من تمنحه الولايات المتحدة المواطنة الفخرية. ينحدر تشرشل من سلالة عائلات الدوقات الأرستقراطية بمارلبورو؛ وهي أحد فروع عائلة سبنسر الأشهر ببريطانيا. كان والده اللورد راندولف تشرشل، وهو أحد الساسة ذا الشخصية الكاريزمية، الذي تولى منصب وزير الخزانة آنذاك. وكانت جيني جيرودر، والدة تشرشل، عضوًا بارزا في المجتمع الأميركي في تلك الآونة. أُرسل تشرشل في مهام للجيش البريطاني بكل من المستعمرة الهندية والسودانية، كما شارك بحرب البوير الثانية، بصفته ضابطًا بالجيش البريطاني. وفي تلك الفترة، ذاع صيته كأشهر مراسلي الحروب، وألف تشرشل كثيرًا من الكتب، ذكر فيها تجاربه التي شهدها في حملاته وحروبه. وفي أولى سنوات انخراطه في العملية السياسية، تقلد تشرشل العديد من المناصب السياسية والحكومية؛ حيث رأس وزارة الصناعة والتجارة، ووزارة الداخلية، وأصبح أميرًا للبحرية البريطانية عن حزب الأحرار الأسكويثي. احتفظ تشرشل بمنصبه أميرًا للبحرية البريطانية حتى عصفت به معركة هربرت هنري أسكويث جاليبولي العنيفة التي راح ضحيتها عشرات الآلاف من قوات التحالف والقوات العثمانية، مما أدت لرحيله عن الحكومة. استأنف تشرشل بعدها خدمته العسكرية بنشاط على الجبهة الغربية كقائد الكتيبة السادسة من غداري الفوج الملكي الاسكتلندي، ثم عاد أدراجه لعمله الحكومي كوزيرًا للذخائر، حيث خُول إليه مراقبة وتنسيق عملية توزيع الذخائر للمجهود الحربي؛ ووزير الدولة لشئون الحرب، ووزير الطيران.وبعد الحرب عمل تشرشل كوزيرًا للخزانة البريطانية في ظل فترة حكم حكومة المحافظين التي رأسها السياسي ستانلي بلدوين من عام 1924 حتى 1929، عاملًا بدوره على ربط سعر الجنيه الإسترليني عام 1925 بالغطاء الذهبي، كما الحال قبل الحرب. لقي هذا الأمر جدلًا واسعًا، إذ عدها البعض خطوة لخلق ضغوط انكماشية على اقتصاد المملكة المتحدة تسهم في رفع نسبة التضخم. وكان من بين الانتقادات التي وجهت إليه أيضًا سببها معارضته للهيمنة البريطانية على الهند ورفضه القاطع تنازل إدوارد الثامن -ملك المملكة المتحدة- عن العرش في 11 ديسمبر 1936. وبعيدًا عن عمله السياسي، تولى تشرشل قيادة حملة عاتية في ثلاثينيات القرن الماضي خلال حياته &quot;في البرية&quot;، حذر من الخطر النازي واستعدادها لإعادة التسليح. وبعد اندلاع الحرب العالمية الثانية، عُين تشرشل مرة أخرى أميرًا للبحرية البريطانية. وبعد استقالة آرثر نيفيل تشابرلين في العاشر من شهر مايو عام 1940، تولى تشرشل رئاسة الوزراء. ساعد رفضه البات لأي استسلام، أو هزيمة، أو أي حل سلمي على إلهام المقاومة البريطانية، وخصوصًا في الأيام الشرسة الأولى من الحرب العالمية الثانية، عندما وجدت بريطانيا نفسها وحيدة في مواجهتها لهتلر. أثار تشرشل حماس الشعب البريطاني من خلال خطاباته الحماسية والبرامج الإذاعية؛ وظل تشرشل رئيسًا لوزراء بريطانيا حتى أصبح انتصار بلاده على ألمانيا النازية أمرًا مُسلمّاً به.وبعد هزيمة حزب المحافظين في انتخابات عام 1945، أصبح تشرشل زعيمًا للمعارضة بعد فوز حزب العمل البريطاني بالحكومة برئاسة كليمنت أتلي. وبعد وفاة تشرشل، منحته الملكة إليزابيث الثانية شرف أن يحظى بجنازة رسمية، وشهدت تلك الجِنَازَة واحدة من أكبر تجمع لرجال الدولة حول العالم. وفي استطلاع أُجري عام 2002 وُصف تشرشل ب&quot;أعظم بريطاني على مر العصور&quot;. ويُعد تشرشل -على نطاق واسع- أحد أكثر الشخصيات تأثيرًا في التاريخ البريطاني؛ إذ كان يحظى دائمًا بنصيب الأسد في استطلاعات الرأي العام لرؤساء وزارء المملكة المتحدة.</dbo:abstract>
+    <dbo:abstract xml:lang="ja">ウィンストン・レナード・スペンサー＝チャーチル（英語: Sir Winston Leonard Spencer-Churchill, KG, OM, CH, TD, PC, DL, FRS, Hon. RA、1874年11月30日 - 1965年1月24日）は、イギリスの政治家、軍人、作家。</dbo:abstract>
+    <dbo:abstract xml:lang="ru">Сэр Уи́нстон Леона́рд Спе́нсер-Че́рчилль (англ. Sir Winston Leonard Spencer-Churchill, МФА [&#39;ʧɜːʧɪl]; 30 ноября 1874, Бленхеймский дворец, Великобритания — 24 января 1965, Лондон) — британский государственный и политический деятель, премьер-министр Великобритании в 1940—1945 и 1951—1955 годах; военный (полковник), журналист, писатель, почётный член Британской академии (1952), лауреат Нобелевской премии по литературе (1953). По данным опроса, проведённого в 2002 году вещательной компанией Би-би-си, был назван величайшим британцем в истории.</dbo:abstract>
+    <dbo:abstract xml:lang="pt">Winston Leonard Spencer-Churchill KG OM CH TD DL FRS RA (Woodstock, 30 de novembro de 1874 — Londres, 24 de janeiro de 1965) foi um político conservador e estadista britânico, famoso principalmente por sua atuação como primeiro-ministro do Reino Unido durante a Segunda Guerra Mundial. Ele foi primeiro-ministro britânico por duas vezes (1940-45 e 1951-55). Orador e estadista notável, ele também foi oficial no Exército Britânico, historiador, escritor e artista. Ele é o único primeiro-ministro britânico a ter recebido o Prêmio Nobel de Literatura e a cidadania honorária dos Estados Unidos. Durante sua carreira no exército, Churchill pôde assistir à ação militar na Índia britânica, no Sudão e na Segunda Guerra dos Bôeres (1899-1902). Ganhou fama e notoriedade como correspondente de guerra através dos livros que escreveu descrevendo as campanhas militares. Ele serviu brevemente no Exército britânico na Frente Ocidental, durante a Primeira Guerra Mundial (1914-1918), comandando o 6º Batalhão dos Fuzileiros Reais Escoceses. Churchill nasceu em uma família da nobreza britânica, da família do duque de Marlborough. Seu pai, Lorde Randolph Churchill, foi um carismático político, tendo servido como ministro da Fazenda do Reino Unido. Antes de alcançar o cargo de primeiro-ministro britânico, Churchill esteve em cargos proeminentes na política do Reino Unido por quatro décadas. Notavelmente sua eleição para o parlamento em 1900; sua ascensão a secretário para os Assuntos Internos em 1910; e sua estadia no Ministério da Fazenda do Reino Unido entre 1924 e 1929. Em 2002 foi eleito pela BBC o maior britânico de todos os tempos.</dbo:abstract>
+    <dbo:abstract xml:lang="zh">溫斯頓·伦纳德·斯宾塞·邱吉尔爵士，KG，OM，CH，TD，FRS，PC (Can)（Sir Winston Leonard Spencer Churchill，1874年11月30日－1965年1月24日），英國政治家、演說家、軍事家和作家，曾於1940年至1945年出任英国首相，任期內领導英国在第二次世界大战中聯合美國等国家對抗德國，并取得了最终胜利，並自1951年至1955年再度出任英国首相。 邱吉爾被認為是20世紀最重要的政治领袖之一，對英國乃至於世界均影響深遠。此外，他在文学上也有很高的成就，曾於1953年获诺贝尔文学奖。在2002年，BBC舉行了一個名為「最偉大的100名英國人」的調查，結果邱吉爾獲排在第一位。</dbo:abstract>
+    <dbo:deputy rdf:resource="http://dbpedia.org/resource/Anthony_Eden" />
+    <dbo:deputy rdf:resource="http://dbpedia.org/resource/Clement_Attlee" />
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/George_VI" />
+    <dbo:monarch rdf:resource="http://dbpedia.org/resource/Elizabeth_II" />
+    <dbo:office>First Lord of the Admiralty</dbo:office>
+    <dbo:office>Secretary of State for the Colonies</dbo:office>
+    <dbo:office>Chancellor of the Exchequer</dbo:office>
+    <dbo:office>Prime Minister of the United Kingdom</dbo:office>
+    <dbo:office>Leader of the Opposition</dbo:office>
+    <dbo:office>Minister of Defence</dbo:office>
+    <dbo:office>Leader of the Conservative Party</dbo:office>
+    <dbo:predecessor rdf:resource="http://dbpedia.org/resource/Neville_Chamberlain" />
+    <dbo:predecessor rdf:resource="http://dbpedia.org/resource/Reginald_McKenna" />
+    <dbo:predecessor rdf:resource="http://dbpedia.org/resource/James_Stanhope,_7th_Earl_Stanhope" />
+    <dbo:predecessor rdf:resource="http://dbpedia.org/resource/Clement_Attlee" />
+    <dbo:predecessor rdf:resource="http://dbpedia.org/resource/Manny_Shinwell" />
+    <dbo:predecessor rdf:resource="http://dbpedia.org/resource/Philip_Snowden,_1st_Viscount_Snowden" />
+    <dbo:predecessor rdf:resource="http://dbpedia.org/resource/Ernle_Chatfield,_1st_Baron_Chatfield" />
+    <dbo:primeMinister rdf:resource="http://dbpedia.org/resource/Stanley_Baldwin" />
+    <dbo:primeMinister rdf:resource="http://dbpedia.org/resource/David_Lloyd_George" />
+    <dbo:primeMinister rdf:resource="http://dbpedia.org/resource/Clement_Attlee" />
+    <dbo:primeMinister rdf:resource="http://dbpedia.org/resource/H._H._Asquith" />
+    <dbo:primeMinister rdf:resource="http://dbpedia.org/resource/Neville_Chamberlain" />
+    <dbo:successor rdf:resource="http://dbpedia.org/resource/Clement_Attlee" />
+    <dbo:successor rdf:resource="http://dbpedia.org/resource/Arthur_Balfour" />
+    <dbo:successor rdf:resource="http://dbpedia.org/resource/Philip_Snowden,_1st_Viscount_Snowden" />
+    <dbo:successor rdf:resource="http://dbpedia.org/resource/Harold_Alexander,_1st_Earl_Alexander_of_Tunis" />
+    <dbo:successor rdf:resource="http://dbpedia.org/resource/Anthony_Eden" />
+    <dbo:successor rdf:resource="http://dbpedia.org/resource/Victor_Cavendish,_9th_Duke_of_Devonshire" />
+    <dbo:successor rdf:resource="http://dbpedia.org/resource/A._V._Alexander,_1st_Earl_Alexander_of_Hillsborough" />
+    <dbo:termPeriod rdf:resource="http://dbpedia.org/resource/Winston_Churchill__8" />
+    <dbo:termPeriod rdf:resource="http://dbpedia.org/resource/Winston_Churchill__9" />
+    <dbo:termPeriod rdf:resource="http://dbpedia.org/resource/Winston_Churchill__6" />
+    <dbo:termPeriod rdf:resource="http://dbpedia.org/resource/Winston_Churchill__7" />
+    <dbo:termPeriod rdf:resource="http://dbpedia.org/resource/Winston_Churchill__1" />
+    <dbo:termPeriod rdf:resource="http://dbpedia.org/resource/Winston_Churchill__10" />
+    <dbo:termPeriod rdf:resource="http://dbpedia.org/resource/Winston_Churchill__4" />
+    <dbo:termPeriod rdf:resource="http://dbpedia.org/resource/Winston_Churchill__5" />
+    <dbo:termPeriod rdf:resource="http://dbpedia.org/resource/Winston_Churchill__2" />
+    <dbo:termPeriod rdf:resource="http://dbpedia.org/resource/Winston_Churchill__3" />
+    <dbp:after rdf:resource="http://dbpedia.org/resource/Clement_Attlee" />
+    <dbp:alongside rdf:resource="http://dbpedia.org/resource/Alfred_Emmott,_1st_Baron_Emmott" />
+    <dbp:alongside rdf:resource="http://dbpedia.org/resource/Alexander_Wilkie" />
+    <dbp:as rdf:resource="http://dbpedia.org/resource/Minister_for_Co-ordination_of_Defence" />
+    <dbp:b rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">no</dbp:b>
+    <dbp:before rdf:resource="http://dbpedia.org/resource/Clement_Attlee" />
+    <dbp:before rdf:resource="http://dbpedia.org/resource/Alfred_Milner,_1st_Viscount_Milner" />
+    <dbp:before rdf:resource="http://dbpedia.org/resource/Neville_Chamberlain" />
+    <dbp:before rdf:resource="http://dbpedia.org/resource/Ernle_Chatfield,_1st_Baron_Chatfield" />
+    <dbp:date rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">20070912233119</dbp:date>
+    <dbp:date rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">August 2016</dbp:date>
+    <dbp:df rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">yes</dbp:df>
+    <dbp:honorificPrefix rdf:resource="http://dbpedia.org/resource/The_Right_Honourable" />
+    <dbp:id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">879</dbp:id>
+    <dbp:imageSize rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">250</dbp:imageSize>
+    <dbp:m rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">no</dbp:m>
+    <dbp:module rdf:datatype="http://www.w3.org/2001/XMLSchema#gMonthDay">--07-05</dbp:module>
+    <dbp:mw rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">no</dbp:mw>
+    <dbp:n rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">no</dbp:n>
+    <dbp:office rdf:resource="http://dbpedia.org/resource/Minister_of_Munitions" />
+    <dbp:office rdf:resource="http://dbpedia.org/resource/Chancellor_of_the_Duchy_of_Lancaster" />
+    <dbp:office rdf:resource="http://dbpedia.org/resource/Home_Secretary" />
+    <dbp:office rdf:resource="http://dbpedia.org/resource/President_of_the_Board_of_Trade" />
+    <dbp:office rdf:resource="http://dbpedia.org/resource/Secretary_of_State_for_War" />
+    <dbp:office rdf:resource="http://dbpedia.org/resource/Secretary_of_State_for_Air" />
+    <dbp:predecessor rdf:resource="http://dbpedia.org/resource/Edwin_Samuel_Montagu" />
+    <dbp:predecessor rdf:resource="http://dbpedia.org/resource/Alfred_Milner,_1st_Viscount_Milner" />
+    <dbp:predecessor rdf:resource="http://dbpedia.org/resource/Herbert_Gladstone,_1st_Viscount_Gladstone" />
+    <dbp:predecessor rdf:resource="http://dbpedia.org/resource/David_Lloyd_George" />
+    <dbp:predecessor rdf:resource="http://dbpedia.org/resource/William_Weir,_1st_Viscount_Weir" />
+    <dbp:predecessor rdf:resource="http://dbpedia.org/resource/Christopher_Addison,_1st_Viscount_Addison" />
+    <dbp:primeminister rdf:resource="http://dbpedia.org/resource/H._H._Asquith" />
+    <dbp:primeminister rdf:resource="http://dbpedia.org/resource/David_Lloyd_George" />
+    <dbp:reason rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">How did a &quot;responsible government&quot; instead of &quot;representative&quot; relieve British Government from controlling domestic affairs?</dbp:reason>
+    <dbp:rows rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</dbp:rows>
+    <dbp:rows rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</dbp:rows>
+    <dbp:s rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Author:Winston Leonard Spencer Churchill</dbp:s>
+    <dbp:species rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">no</dbp:species>
+    <dbp:successor rdf:resource="http://dbpedia.org/resource/Herbert_Samuel,_1st_Viscount_Samuel" />
+    <dbp:successor rdf:resource="http://dbpedia.org/resource/Laming_Worthington-Evans" />
+    <dbp:successor rdf:resource="http://dbpedia.org/resource/Sydney_Buxton,_1st_Earl_Buxton" />
+    <dbp:successor rdf:resource="http://dbpedia.org/resource/Reginald_McKenna" />
+    <dbp:successor rdf:resource="http://dbpedia.org/resource/Andrew_Weir,_1st_Baron_Inverforth" />
+    <dbp:successor rdf:resource="http://dbpedia.org/resource/Frederick_Guest" />
+    <dbp:termEnd rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1919-01-10</dbp:termEnd>
+    <dbp:termEnd rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1910-02-14</dbp:termEnd>
+    <dbp:termEnd rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1911-10-24</dbp:termEnd>
+    <dbp:termEnd rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1921-02-13</dbp:termEnd>
+    <dbp:termEnd rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1915-11-25</dbp:termEnd>
+    <dbp:termStart rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1908-04-12</dbp:termStart>
+    <dbp:termStart rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1910-02-19</dbp:termStart>
+    <dbp:termStart rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1917-07-17</dbp:termStart>
+    <dbp:termStart rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1915-05-25</dbp:termStart>
+    <dbp:termStart rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1919-01-10</dbp:termStart>
+    <dbp:title rdf:resource="http://dbpedia.org/resource/Rector_of_the_University_of_Aberdeen" />
+    <dbp:title rdf:resource="http://dbpedia.org/resource/Chancellor_of_the_Exchequer" />
+    <dbp:title rdf:resource="http://dbpedia.org/resource/Home_Secretary" />
+    <dbp:title rdf:resource="http://dbpedia.org/resource/Secretary_of_State_for_Defence" />
+    <dbp:title rdf:resource="http://dbpedia.org/resource/President_of_the_Board_of_Trade" />
+    <dbp:title rdf:resource="http://dbpedia.org/resource/Father_of_the_House" />
+    <dbp:title rdf:resource="http://dbpedia.org/resource/Oldest_living_Prime_Minister_of_the_United_Kingdom" />
+    <dbp:title rdf:resource="http://dbpedia.org/resource/Lord_Warden_of_the_Cinque_Ports" />
+    <dbp:title rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Member of Parliament</dbp:title>
+    <dbp:title rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">for Oldham</dbp:title>
+    <dbp:title rdf:resource="http://dbpedia.org/resource/Secretary_of_State_for_Air" />
+    <dbp:title rdf:resource="http://dbpedia.org/resource/Secretary_of_State_for_War" />
+    <dbp:title rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">for Epping</dbp:title>
+    <dbp:title rdf:resource="http://dbpedia.org/resource/Prime_Minister_of_the_United_Kingdom" />
+    <dbp:title rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">for Dundee</dbp:title>
+    <dbp:title rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">A Rebuttal to &#39;The Real Churchill&#39;</dbp:title>
+    <dbp:title rdf:resource="http://dbpedia.org/resource/Under-Secretary_of_State_for_the_Colonies" />
+    <dbp:title rdf:resource="http://dbpedia.org/resource/Secretary_of_State_for_the_Colonies" />
+    <dbp:title rdf:resource="http://dbpedia.org/resource/List_of_the_First_Lords_of_the_Admiralty" />
+    <dbp:title rdf:resource="http://dbpedia.org/resource/Leader_of_the_House_of_Commons" />
+    <dbp:title rdf:resource="http://dbpedia.org/resource/Chancellor_of_the_Duchy_of_Lancaster" />
+    <dbp:title rdf:resource="http://dbpedia.org/resource/List_of_senior_members_of_the_Privy_Council_of_the_United_Kingdom" />
+    <dbp:title rdf:resource="http://dbpedia.org/resource/Records_of_members_of_parliament_of_the_United_Kingdom" />
+    <dbp:title rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">for Manchester North West</dbp:title>
+    <dbp:title rdf:resource="http://dbpedia.org/resource/University_of_Bristol" />
+    <dbp:title rdf:resource="http://dbpedia.org/resource/Rector_of_the_University_of_Edinburgh" />
+    <dbp:title rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">for Woodford</dbp:title>
+    <dbp:title rdf:resource="http://dbpedia.org/resource/Minister_of_Munitions" />
+    <dbp:title rdf:resource="http://dbpedia.org/resource/List_of_Nobel_laureates_in_Literature" />
+    <dbp:title rdf:resource="http://dbpedia.org/resource/Leader_of_the_Opposition_(United_Kingdom)" />
+    <dbp:title rdf:resource="http://dbpedia.org/resource/Leader_of_the_Conservative_Party_(UK)" />
+    <dbp:url rdf:resource="http://www.winstonchurchill.org/i4a/pages/index.cfm?pageid=892&amp;textonly=1" />
+    <dbp:v rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">no</dbp:v>
+    <dbp:voy rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">no</dbp:voy>
+    <dbp:wikt rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">no</dbp:wikt>
+    <dbp:years rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1917</dbp:years>
+    <dbp:years rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1919</dbp:years>
+    <dbp:years rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1914</dbp:years>
+    <dbp:years rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1915</dbp:years>
+    <dbp:years rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1908</dbp:years>
+    <dbp:years rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1910</dbp:years>
+    <dbp:years rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1911</dbp:years>
+    <dbp:years rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1905</dbp:years>
+    <dbp:years rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1906</dbp:years>
+    <dbp:years rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1900</dbp:years>
+    <dbp:years rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1964</dbp:years>
+    <dbp:years rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1959</dbp:years>
+    <dbp:years rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1953</dbp:years>
+    <dbp:years rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1949</dbp:years>
+    <dbp:years rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1951</dbp:years>
+    <dbp:years rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1945</dbp:years>
+    <dbp:years rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1947</dbp:years>
+    <dbp:years rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1940</dbp:years>
+    <dbp:years rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1941</dbp:years>
+    <dbp:years rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1939</dbp:years>
+    <dbp:years rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1929</dbp:years>
+    <dbp:years rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1924</dbp:years>
+    <dbp:years rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1921</dbp:years>
+    <dbp:wordnet_type rdf:resource="http://www.w3.org/2006/03/wn/wn20/instances/synset-incumbent-noun-1" />
+    <dbp:wordnet_type rdf:resource="http://www.w3.org/2006/03/wn/wn20/instances/synset-chancellor-noun-1" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/World_War_II">
+    <dbo:commander rdf:resource="http://dbpedia.org/resource/Winston_Churchill" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/David_Eccles,_1st_Viscount_Eccles">
+    <dbo:primeMinister rdf:resource="http://dbpedia.org/resource/Winston_Churchill" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/David_Maxwell_Fyfe,_1st_Earl_of_Kilmuir">
+    <dbo:primeMinister rdf:resource="http://dbpedia.org/resource/Winston_Churchill" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/George_Lloyd,_1st_Baron_Lloyd">
+    <dbo:primeMinister rdf:resource="http://dbpedia.org/resource/Winston_Churchill" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Thomas_Dugdale,_1st_Baron_Crathorne">
+    <dbo:primeMinister rdf:resource="http://dbpedia.org/resource/Winston_Churchill" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Playing_with_the_Enemy">
+    <dbo:influencedBy rdf:resource="http://dbpedia.org/resource/Winston_Churchill" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/John_Jestyn_Llewellin,_1st_Baron_Llewellin">
+    <dbo:primeMinister rdf:resource="http://dbpedia.org/resource/Winston_Churchill" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Malcolm_MacDonald">
+    <dbo:primeMinister rdf:resource="http://dbpedia.org/resource/Winston_Churchill" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Alfred_Milner,_1st_Viscount_Milner">
+    <dbo:successor rdf:resource="http://dbpedia.org/resource/Winston_Churchill" />
+    <dbp:after rdf:resource="http://dbpedia.org/resource/Winston_Churchill" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kingsley_Wood">
+    <dbo:primeMinister rdf:resource="http://dbpedia.org/resource/Winston_Churchill" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Reginald_McKenna">
+    <dbo:predecessor rdf:resource="http://dbpedia.org/resource/Winston_Churchill" />
+    <dbo:successor rdf:resource="http://dbpedia.org/resource/Winston_Churchill" />
+    <dbp:after rdf:resource="http://dbpedia.org/resource/Winston_Churchill" />
+    <dbp:before rdf:resource="http://dbpedia.org/resource/Winston_Churchill" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Victor_Hope,_2nd_Marquess_of_Linlithgow">
+    <dbo:primeMinister rdf:resource="http://dbpedia.org/resource/Winston_Churchill" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Winston_Churchill_Range">
+    <dbp:etymology rdf:resource="http://dbpedia.org/resource/Winston_Churchill" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Winston_Spencer-Churchill">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Winston_Churchill" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/WINSTON_CHURCHILL">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Winston_Churchill" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/WL_Spencer-Churchill">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Winston_Churchill" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Focus">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Winston_Churchill" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Malayan_Emergency">
+    <dbo:commander rdf:resource="http://dbpedia.org/resource/Winston_Churchill" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Old_Man_and_the_Sea">
+    <dbp:before rdf:resource="http://dbpedia.org/resource/Winston_Churchill" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Peter_Thorneycroft">
+    <dbo:primeMinister rdf:resource="http://dbpedia.org/resource/Winston_Churchill" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/John_Simon,_1st_Viscount_Simon__1">
+    <dbo:primeMinister rdf:resource="http://dbpedia.org/resource/Winston_Churchill" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Westminster_Abbey_by-election,_1924">
+    <dbp:candidate rdf:resource="http://dbpedia.org/resource/Winston_Churchill" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Charles_Wood,_2nd_Earl_of_Halifax">
+    <dbo:primeMinister rdf:resource="http://dbpedia.org/resource/Winston_Churchill" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/John_Simon,_1st_Viscount_Simon">
+    <dbo:primeMinister rdf:resource="http://dbpedia.org/resource/Winston_Churchill" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Leonard_Jerome">
+    <dbo:relative rdf:resource="http://dbpedia.org/resource/Winston_Churchill" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Leicester_West_(UK_Parliament_constituency)">
+    <dbp:candidate rdf:resource="http://dbpedia.org/resource/Winston_Churchill" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Andrew_Weir,_1st_Baron_Inverforth">
+    <dbp:before rdf:resource="http://dbpedia.org/resource/Winston_Churchill" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gavin_Simonds,_1st_Viscount_Simonds">
+    <dbo:primeMinister rdf:resource="http://dbpedia.org/resource/Winston_Churchill" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Peter_Bennett,_1st_Baron_Bennett_of_Edgbaston">
+    <dbo:primeMinister rdf:resource="http://dbpedia.org/resource/Winston_Churchill" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sir_John_Gilmour,_2nd_Baronet">
+    <dbp:after rdf:resource="http://dbpedia.org/resource/Winston_Churchill" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/A._V._Alexander,_1st_Earl_Alexander_of_Hillsborough">
+    <dbo:predecessor rdf:resource="http://dbpedia.org/resource/Winston_Churchill" />
+    <dbo:primeMinister rdf:resource="http://dbpedia.org/resource/Winston_Churchill" />
+    <dbp:before rdf:resource="http://dbpedia.org/resource/Winston_Churchill" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sir_Winston_Churchill_(schooner)">
+    <dbp:shipNamesake rdf:resource="http://dbpedia.org/resource/Winston_Churchill" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Clement_Attlee">
+    <dbo:predecessor rdf:resource="http://dbpedia.org/resource/Winston_Churchill" />
+    <dbo:primeMinister rdf:resource="http://dbpedia.org/resource/Winston_Churchill" />
+    <dbo:successor rdf:resource="http://dbpedia.org/resource/Winston_Churchill" />
+    <dbp:after rdf:resource="http://dbpedia.org/resource/Winston_Churchill" />
+    <dbp:before rdf:resource="http://dbpedia.org/resource/Winston_Churchill" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Edmund_Burke">
+    <dbo:influenced rdf:resource="http://dbpedia.org/resource/Winston_Churchill" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Korean_War">
+    <dbo:commander rdf:resource="http://dbpedia.org/resource/Winston_Churchill" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Neville_Chamberlain">
+    <dbo:primeMinister rdf:resource="http://dbpedia.org/resource/Winston_Churchill" />
+    <dbo:successor rdf:resource="http://dbpedia.org/resource/Winston_Churchill" />
+    <dbp:after rdf:resource="http://dbpedia.org/resource/Winston_Churchill" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ernest_Bevin">
+    <dbo:primeMinister rdf:resource="http://dbpedia.org/resource/Winston_Churchill" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Walter_Runciman,_1st_Viscount_Runciman_of_Doxford">
+    <dbp:after rdf:resource="http://dbpedia.org/resource/Winston_Churchill" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Westminster_Abbey_(UK_Parliament_constituency)">
+    <dbp:candidate rdf:resource="http://dbpedia.org/resource/Winston_Churchill" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Winston_Spencer_Churchill">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Winston_Churchill" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ku-ring-gai_Creative_Arts_High_School">
+    <dbp:houses rdf:resource="http://dbpedia.org/resource/Winston_Churchill" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/David_Logan_(British_politician)">
+    <dbp:after rdf:resource="http://dbpedia.org/resource/Winston_Churchill" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/George_Mathers,_1st_Baron_Mathers">
+    <dbo:primeMinister rdf:resource="http://dbpedia.org/resource/Winston_Churchill" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ivone_Kirkpatrick">
+    <dbo:primeMinister rdf:resource="http://dbpedia.org/resource/Winston_Churchill" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Rab_Butler">
+    <dbo:predecessor rdf:resource="http://dbpedia.org/resource/Winston_Churchill" />
+    <dbo:primeMinister rdf:resource="http://dbpedia.org/resource/Winston_Churchill" />
+    <dbp:leader rdf:resource="http://dbpedia.org/resource/Winston_Churchill" />
+    <dbp:primeminister rdf:resource="http://dbpedia.org/resource/Winston_Churchill" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/John_Buchan,_2nd_Baron_Tweedsmuir">
+    <dbo:primeMinister rdf:resource="http://dbpedia.org/resource/Winston_Churchill" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/John_Maclay,_1st_Viscount_Muirshiel">
+    <dbo:primeMinister rdf:resource="http://dbpedia.org/resource/Winston_Churchill" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Winston_Churchill_(1940–2010)">
+    <dbo:relation rdf:resource="http://dbpedia.org/resource/Winston_Churchill" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Winston_Churchill_(disambiguation)">
+    <dbo:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/Winston_Churchill" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gwilym_Lloyd_George,_1st_Viscount_Tenby">
+    <dbo:primeMinister rdf:resource="http://dbpedia.org/resource/Winston_Churchill" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Philip_Cunliffe-Lister,_1st_Earl_of_Swinton">
+    <dbo:primeMinister rdf:resource="http://dbpedia.org/resource/Winston_Churchill" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hugh_Dalton">
+    <dbo:primeMinister rdf:resource="http://dbpedia.org/resource/Winston_Churchill" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Reginald_Manningham-Buller,_1st_Viscount_Dilhorne">
+    <dbo:primeMinister rdf:resource="http://dbpedia.org/resource/Winston_Churchill" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Christopher_Addison,_1st_Viscount_Addison">
+    <dbp:after rdf:resource="http://dbpedia.org/resource/Winston_Churchill" />
+    <dbp:successor rdf:resource="http://dbpedia.org/resource/Winston_Churchill" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Edwin_Samuel_Montagu">
+    <dbo:successor rdf:resource="http://dbpedia.org/resource/Winston_Churchill" />
+    <dbp:after rdf:resource="http://dbpedia.org/resource/Winston_Churchill" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Frederick_Guest">
+    <dbo:predecessor rdf:resource="http://dbpedia.org/resource/Winston_Churchill" />
+    <dbp:before rdf:resource="http://dbpedia.org/resource/Winston_Churchill" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Laming_Worthington-Evans">
+    <dbo:predecessor rdf:resource="http://dbpedia.org/resource/Winston_Churchill" />
+    <dbp:before rdf:resource="http://dbpedia.org/resource/Winston_Churchill" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sydney_Buxton,_1st_Earl_Buxton">
+    <dbo:predecessor rdf:resource="http://dbpedia.org/resource/Winston_Churchill" />
+    <dbp:before rdf:resource="http://dbpedia.org/resource/Winston_Churchill" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ellen_Wilkinson">
+    <dbo:primeMinister rdf:resource="http://dbpedia.org/resource/Winston_Churchill" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Harry_Crookshank">
+    <dbo:primeMinister rdf:resource="http://dbpedia.org/resource/Winston_Churchill" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Leah_Manning">
+    <dbp:before rdf:resource="http://dbpedia.org/resource/Winston_Churchill" />
+    <dbp:predecessor rdf:resource="http://dbpedia.org/resource/Winston_Churchill" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Philip_Kerr,_11th_Marquess_of_Lothian">
+    <dbo:primeMinister rdf:resource="http://dbpedia.org/resource/Winston_Churchill" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Greek_Civil_War">
+    <dbo:commander rdf:resource="http://dbpedia.org/resource/Winston_Churchill" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Manchester_North_West_(UK_Parliament_constituency)">
+    <dbp:candidate rdf:resource="http://dbpedia.org/resource/Winston_Churchill" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Churchill:_The_End_of_Glory">
+    <dbo:nonFictionSubject rdf:resource="http://dbpedia.org/resource/Winston_Churchill" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/James_Thomas,_1st_Viscount_Cilcennin">
+    <dbo:primeMinister rdf:resource="http://dbpedia.org/resource/Winston_Churchill" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Leo_Amery">
+    <dbo:primeMinister rdf:resource="http://dbpedia.org/resource/Winston_Churchill" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Peter_Carington,_6th_Baron_Carrington">
+    <dbp:primeminister rdf:resource="http://dbpedia.org/resource/Winston_Churchill" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Philip_Snowden,_1st_Viscount_Snowden">
+    <dbo:successor rdf:resource="http://dbpedia.org/resource/Winston_Churchill" />
+    <dbp:after rdf:resource="http://dbpedia.org/resource/Winston_Churchill" />
+    <dbp:before rdf:resource="http://dbpedia.org/resource/Winston_Churchill" />
+    <dbp:predecessor rdf:resource="http://dbpedia.org/resource/Winston_Churchill" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Oldham_by-election,_1899">
+    <dbp:nominee rdf:resource="http://dbpedia.org/resource/Winston_Churchill" />
+    <dbp:candidate rdf:resource="http://dbpedia.org/resource/Winston_Churchill" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Clarissa_Eden">
+    <dbo:relation rdf:resource="http://dbpedia.org/resource/Winston_Churchill" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Story_of_the_Malakand_Field_Force">
+    <dbo:author rdf:resource="http://dbpedia.org/resource/Winston_Churchill" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Dekemvriana">
+    <dbo:commander rdf:resource="http://dbpedia.org/resource/Winston_Churchill" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Churchillian">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Winston_Churchill" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Johnnie_Dodge">
+    <dbo:relation rdf:resource="http://dbpedia.org/resource/Winston_Churchill" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Charles_Spencer-Churchill,_9th_Duke_of_Marlborough">
+    <dbo:successor rdf:resource="http://dbpedia.org/resource/Winston_Churchill" />
+    <dbp:after rdf:resource="http://dbpedia.org/resource/Winston_Churchill" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Churchill_(disambiguation)">
+    <dbo:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/Winston_Churchill" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Churchill_College,_Cambridge">
+    <dbp:namedFor rdf:resource="http://dbpedia.org/resource/Winston_Churchill" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/HMS_Churchill_(S46)">
+    <dbp:shipNamesake rdf:resource="http://dbpedia.org/resource/Winston_Churchill" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ian_Standish_Monteith_Hamilton">
+    <dbp:before rdf:resource="http://dbpedia.org/resource/Winston_Churchill" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/James_Stanhope,_7th_Earl_Stanhope">
+    <dbo:successor rdf:resource="http://dbpedia.org/resource/Winston_Churchill" />
+    <dbp:after rdf:resource="http://dbpedia.org/resource/Winston_Churchill" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/John_Hope,_1st_Baron_Glendevon">
+    <dbo:primeMinister rdf:resource="http://dbpedia.org/resource/Winston_Churchill" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/John_Russell,_1st_Earl_of_Bedford">
+    <dbo:relation rdf:resource="http://dbpedia.org/resource/Winston_Churchill" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tom_Johnston_(Scottish_politician)">
+    <dbo:primeMinister rdf:resource="http://dbpedia.org/resource/Winston_Churchill" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/William_Morrison,_1st_Viscount_Dunrossil">
+    <dbo:primeMinister rdf:resource="http://dbpedia.org/resource/Winston_Churchill" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Harold_Macmillan">
+    <dbo:primeMinister rdf:resource="http://dbpedia.org/resource/Winston_Churchill" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Max_Aitken,_1st_Baron_Beaverbrook">
+    <dbo:primeMinister rdf:resource="http://dbpedia.org/resource/Winston_Churchill" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tehran_Conference">
+    <dbp:participants rdf:resource="http://dbpedia.org/resource/Winston_Churchill" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Queen&#39;s_Own_Oxfordshire_Hussars">
+    <dbp:colonelOfTheRegiment rdf:resource="http://dbpedia.org/resource/Winston_Churchill" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/European_theatre_of_World_War_II">
+    <dbo:commander rdf:resource="http://dbpedia.org/resource/Winston_Churchill" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Reginald_Maudling">
+    <dbp:primeminister rdf:resource="http://dbpedia.org/resource/Winston_Churchill" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/United_Kingdom_general_election,_1945">
+    <dbo:secondLeader rdf:resource="http://dbpedia.org/resource/Winston_Churchill" />
+    <dbp:beforeElection rdf:resource="http://dbpedia.org/resource/Winston_Churchill" />
+    <dbp:leader rdf:resource="http://dbpedia.org/resource/Winston_Churchill" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/William_Sidney,_1st_Viscount_De_L&#39;Isle">
+    <dbo:primeMinister rdf:resource="http://dbpedia.org/resource/Winston_Churchill" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/United_Kingdom_general_election,_1950">
+    <dbo:secondLeader rdf:resource="http://dbpedia.org/resource/Winston_Churchill" />
+    <dbp:leader rdf:resource="http://dbpedia.org/resource/Winston_Churchill" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/United_Kingdom_general_election,_1951">
+    <dbo:firstLeader rdf:resource="http://dbpedia.org/resource/Winston_Churchill" />
+    <dbp:afterElection rdf:resource="http://dbpedia.org/resource/Winston_Churchill" />
+    <dbp:leader rdf:resource="http://dbpedia.org/resource/Winston_Churchill" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/1953_Iranian_coup_d&#39;état">
+    <dbo:commander rdf:resource="http://dbpedia.org/resource/Winston_Churchill" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Clementine_Churchill">
+    <dbo:spouse rdf:resource="http://dbpedia.org/resource/Winston_Churchill" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Settling_Accounts">
+    <dbo:commander rdf:resource="http://dbpedia.org/resource/Winston_Churchill" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/John_Anderson,_1st_Viscount_Waverley__1">
+    <dbo:primeMinister rdf:resource="http://dbpedia.org/resource/Winston_Churchill" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kingsley_Wood__1">
+    <dbo:primeMinister rdf:resource="http://dbpedia.org/resource/Winston_Churchill" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Walter_Guinness,_1st_Baron_Moyne">
+    <dbo:primeMinister rdf:resource="http://dbpedia.org/resource/Winston_Churchill" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sir_Churchill">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Winston_Churchill" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Winston_Leonard_Spencer_Churchill">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Winston_Churchill" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Woodford_(UK_Parliament_constituency)">
+    <dbp:candidate rdf:resource="http://dbpedia.org/resource/Winston_Churchill" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mary_Soames">
+    <dbo:parent rdf:resource="http://dbpedia.org/resource/Winston_Churchill" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Churchill,_Hitler_and_the_Unnecessary_War">
+    <dbo:nonFictionSubject rdf:resource="http://dbpedia.org/resource/Winston_Churchill" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Great_Contemporaries">
+    <dbo:author rdf:resource="http://dbpedia.org/resource/Winston_Churchill" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Rise_of_Neville_Chamberlain">
+    <dbo:primeMinister rdf:resource="http://dbpedia.org/resource/Winston_Churchill" />
+    <dbo:successor rdf:resource="http://dbpedia.org/resource/Winston_Churchill" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/William_Vanderkloot">
+    <dbo:knownFor rdf:resource="http://dbpedia.org/resource/Winston_Churchill" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tango_(cat)">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Winston_Churchill" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Dundee_(UK_Parliament_constituency)">
+    <dbp:candidate rdf:resource="http://dbpedia.org/resource/Winston_Churchill" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Epping_(UK_Parliament_constituency)">
+    <dbp:candidate rdf:resource="http://dbpedia.org/resource/Winston_Churchill" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Herbert_Gladstone,_1st_Viscount_Gladstone">
+    <dbo:successor rdf:resource="http://dbpedia.org/resource/Winston_Churchill" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/John_Anderson,_1st_Viscount_Waverley">
+    <dbo:primeMinister rdf:resource="http://dbpedia.org/resource/Winston_Churchill" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Robert_Gascoyne-Cecil,_5th_Marquess_of_Salisbury">
+    <dbo:primeMinister rdf:resource="http://dbpedia.org/resource/Winston_Churchill" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Stafford_Cripps">
+    <dbo:primeMinister rdf:resource="http://dbpedia.org/resource/Winston_Churchill" />
+    <dbp:before rdf:resource="http://dbpedia.org/resource/Winston_Churchill" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Blitz">
+    <dbo:commander rdf:resource="http://dbpedia.org/resource/Winston_Churchill" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gallipoli_Campaign">
+    <dbo:commander rdf:resource="http://dbpedia.org/resource/Winston_Churchill" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/David_Margesson,_1st_Viscount_Margesson">
+    <dbo:primeMinister rdf:resource="http://dbpedia.org/resource/Winston_Churchill" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Derick_Heathcoat-Amory,_1st_Viscount_Amory">
+    <dbo:primeMinister rdf:resource="http://dbpedia.org/resource/Winston_Churchill" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/P._J._Grigg">
+    <dbo:primeMinister rdf:resource="http://dbpedia.org/resource/Winston_Churchill" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Operation_Long_Jump">
+    <dbo:commander rdf:resource="http://dbpedia.org/resource/Winston_Churchill" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Winston_Leonard_Spencer">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Winston_Churchill" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ernle_Chatfield,_1st_Baron_Chatfield">
+    <dbo:successor rdf:resource="http://dbpedia.org/resource/Winston_Churchill" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Edwin_Scrymgeour">
+    <dbp:before rdf:resource="http://dbpedia.org/resource/Winston_Churchill" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Spencer_family">
+    <dbp:members rdf:resource="http://dbpedia.org/resource/Winston_Churchill" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Iain_Macleod">
+    <dbo:primeMinister rdf:resource="http://dbpedia.org/resource/Winston_Churchill" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lady_Randolph_Churchill">
+    <dbo:child rdf:resource="http://dbpedia.org/resource/Winston_Churchill" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Manny_Shinwell">
+    <dbo:successor rdf:resource="http://dbpedia.org/resource/Winston_Churchill" />
+    <dbp:after rdf:resource="http://dbpedia.org/resource/Winston_Churchill" />
+    <dbp:before rdf:resource="http://dbpedia.org/resource/Winston_Churchill" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Joseph_P._Kennedy_Sr.">
+    <dbo:primeMinister rdf:resource="http://dbpedia.org/resource/Winston_Churchill" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lord_Randolph_Churchill">
+    <dbo:child rdf:resource="http://dbpedia.org/resource/Winston_Churchill" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Martin_Gilbert">
+    <dbo:knownFor rdf:resource="http://dbpedia.org/resource/Winston_Churchill" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Second_World_War_(book_series)">
+    <dbo:author rdf:resource="http://dbpedia.org/resource/Winston_Churchill" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/E._D._Morel">
+    <dbo:predecessor rdf:resource="http://dbpedia.org/resource/Winston_Churchill" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/John_Boyd-Carpenter,_Baron_Boyd-Carpenter">
+    <dbo:primeMinister rdf:resource="http://dbpedia.org/resource/Winston_Churchill" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Henry_Page_Croft,_1st_Baron_Croft">
+    <dbo:primeMinister rdf:resource="http://dbpedia.org/resource/Winston_Churchill" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Savrola">
+    <dbo:author rdf:resource="http://dbpedia.org/resource/Winston_Churchill" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_River_War">
+    <dbo:author rdf:resource="http://dbpedia.org/resource/Winston_Churchill" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/William_Mabane,_1st_Baron_Mabane">
+    <dbo:primeMinister rdf:resource="http://dbpedia.org/resource/Winston_Churchill" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/David_Rhys_Grenfell">
+    <dbp:after rdf:resource="http://dbpedia.org/resource/Winston_Churchill" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Arthur_Balfour">
+    <dbo:predecessor rdf:resource="http://dbpedia.org/resource/Winston_Churchill" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Arabella_Churchill_(charity_founder)">
+    <dbo:relation rdf:resource="http://dbpedia.org/resource/Winston_Churchill" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Duff_Cooper">
+    <dbo:primeMinister rdf:resource="http://dbpedia.org/resource/Winston_Churchill" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/James_Stuart,_1st_Viscount_Stuart_of_Findhorn">
+    <dbo:primeMinister rdf:resource="http://dbpedia.org/resource/Winston_Churchill" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Richard_Haldane,_1st_Viscount_Haldane">
+    <dbp:after rdf:resource="http://dbpedia.org/resource/Winston_Churchill" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Churchill">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Winston_Churchill" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Winston_churchhill">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Winston_Churchill" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sir_Winston_Leonard_Spencer_Churchill">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Winston_Churchill" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/W._Churchill">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Winston_Churchill" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Timeline_of_the_first_prime_ministership_of_Winston_Churchill">
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Winston_Churchill" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/1944_Commonwealth_Prime_Ministers&#39;_Conference">
+    <dbp:chairperson rdf:resource="http://dbpedia.org/resource/Winston_Churchill" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Andrew_Rae_Duncan">
+    <dbo:primeMinister rdf:resource="http://dbpedia.org/resource/Winston_Churchill" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/British_Gazette">
+    <dbo:editor rdf:resource="http://dbpedia.org/resource/Winston_Churchill" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ernest_Brown_(British_politician)">
+    <dbo:primeMinister rdf:resource="http://dbpedia.org/resource/Winston_Churchill" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Frederick_Marquis,_1st_Earl_of_Woolton">
+    <dbo:primeMinister rdf:resource="http://dbpedia.org/resource/Winston_Churchill" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Herbrand_Sackville,_9th_Earl_De_La_Warr">
+    <dbo:primeMinister rdf:resource="http://dbpedia.org/resource/Winston_Churchill" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Live_After_Death">
+    <dbp:writer rdf:resource="http://dbpedia.org/resource/Winston_Churchill" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Maurice_Hankey,_1st_Baron_Hankey">
+    <dbo:primeMinister rdf:resource="http://dbpedia.org/resource/Winston_Churchill" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Oliver_Stanley">
+    <dbo:primeMinister rdf:resource="http://dbpedia.org/resource/Winston_Churchill" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Queen&#39;s_Royal_Irish_Hussars">
+    <dbo:secondCommander rdf:resource="http://dbpedia.org/resource/Winston_Churchill" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Leonard_Lyle,_1st_Baron_Lyle_of_Westbourne">
+    <dbp:after rdf:resource="http://dbpedia.org/resource/Winston_Churchill" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/State_funeral_of_Winston_Churchill">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Winston_Churchill" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Archibald_Wavell,_1st_Earl_Wavell">
+    <dbo:primeMinister rdf:resource="http://dbpedia.org/resource/Winston_Churchill" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Duncan_Sandys">
+    <dbo:primeMinister rdf:resource="http://dbpedia.org/resource/Winston_Churchill" />
+    <dbo:relation rdf:resource="http://dbpedia.org/resource/Winston_Churchill" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Edward_Wood,_1st_Earl_of_Halifax">
+    <dbo:primeMinister rdf:resource="http://dbpedia.org/resource/Winston_Churchill" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Victor_Cavendish,_9th_Duke_of_Devonshire">
+    <dbp:before rdf:resource="http://dbpedia.org/resource/Winston_Churchill" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Arthur_Henderson,_Baron_Rowley">
+    <dbo:primeMinister rdf:resource="http://dbpedia.org/resource/Winston_Churchill" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/J._E._B._Seely,_1st_Baron_Mottistone">
+    <dbp:after rdf:resource="http://dbpedia.org/resource/Winston_Churchill" />
+    <dbp:before rdf:resource="http://dbpedia.org/resource/Winston_Churchill" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Osbert_Peake,_1st_Viscount_Ingleby">
+    <dbo:primeMinister rdf:resource="http://dbpedia.org/resource/Winston_Churchill" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Thomas_Inskip,_1st_Viscount_Caldecote">
+    <dbo:primeMinister rdf:resource="http://dbpedia.org/resource/Winston_Churchill" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/William_Grant,_Lord_Grant">
+    <dbp:nominator rdf:resource="http://dbpedia.org/resource/Winston_Churchill" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Brendan_Bracken">
+    <dbo:primeMinister rdf:resource="http://dbpedia.org/resource/Winston_Churchill" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/David_Jagger">
+    <dbp:works rdf:resource="http://dbpedia.org/resource/Winston_Churchill" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Edmund_Robertson,_1st_Baron_Lochee">
+    <dbp:after rdf:resource="http://dbpedia.org/resource/Winston_Churchill" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Freeman_Freeman-Thomas,_1st_Marquess_of_Willingdon">
+    <dbp:after rdf:resource="http://dbpedia.org/resource/Winston_Churchill" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/George_Henry_Hall,_1st_Viscount_Hall">
+    <dbo:primeMinister rdf:resource="http://dbpedia.org/resource/Winston_Churchill" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Henry_Somerset,_10th_Duke_of_Beaufort">
+    <dbp:before rdf:resource="http://dbpedia.org/resource/Winston_Churchill" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Arcot_Ramasamy_Mudaliar">
+    <dbo:primeMinister rdf:resource="http://dbpedia.org/resource/Winston_Churchill" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Herwald_Ramsbotham,_1st_Viscount_Soulbury">
+    <dbo:primeMinister rdf:resource="http://dbpedia.org/resource/Winston_Churchill" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Victor_Warrender,_1st_Baron_Bruntisfield">
+    <dbo:primeMinister rdf:resource="http://dbpedia.org/resource/Winston_Churchill" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Weetman_Pearson,_1st_Viscount_Cowdray">
+    <dbp:before rdf:resource="http://dbpedia.org/resource/Winston_Churchill" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Alan_Lennox-Boyd,_1st_Viscount_Boyd_of_Merton">
+    <dbo:primeMinister rdf:resource="http://dbpedia.org/resource/Winston_Churchill" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Antony_Head,_1st_Viscount_Head">
+    <dbo:primeMinister rdf:resource="http://dbpedia.org/resource/Winston_Churchill" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Henry_Innes-Ker,_8th_Duke_of_Roxburghe">
+    <dbo:relative rdf:resource="http://dbpedia.org/resource/Winston_Churchill" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/John_Gilbert_Winant">
+    <dbo:primeMinister rdf:resource="http://dbpedia.org/resource/Winston_Churchill" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Peggy_Herbison">
+    <dbo:primeMinister rdf:resource="http://dbpedia.org/resource/Winston_Churchill" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Winston_Churchil">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Winston_Churchill" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Gathering_Storm_(1974_film)">
+    <dbo:writer rdf:resource="http://dbpedia.org/resource/Winston_Churchill" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Finest_Hours_(1964_film)">
+    <dbo:writer rdf:resource="http://dbpedia.org/resource/Winston_Churchill" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Donald_Somervell,_Baron_Somervell_of_Harrow">
+    <dbo:primeMinister rdf:resource="http://dbpedia.org/resource/Winston_Churchill" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Archibald_Sinclair,_1st_Viscount_Thurso">
+    <dbo:primeMinister rdf:resource="http://dbpedia.org/resource/Winston_Churchill" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Arthur_Greenwood">
+    <dbo:primeMinister rdf:resource="http://dbpedia.org/resource/Winston_Churchill" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Herbert_Samuel,_1st_Viscount_Samuel">
+    <dbo:predecessor rdf:resource="http://dbpedia.org/resource/Winston_Churchill" />
+    <dbp:before rdf:resource="http://dbpedia.org/resource/Winston_Churchill" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Anthony_Eden">
+    <dbo:predecessor rdf:resource="http://dbpedia.org/resource/Winston_Churchill" />
+    <dbo:primeMinister rdf:resource="http://dbpedia.org/resource/Winston_Churchill" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Oliver_Lyttelton,_1st_Viscount_Chandos">
+    <dbo:primeMinister rdf:resource="http://dbpedia.org/resource/Winston_Churchill" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sir_Winston_Churchill">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Winston_Churchill" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Herbert_Morrison">
+    <dbo:primeMinister rdf:resource="http://dbpedia.org/resource/Winston_Churchill" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Eddie&#39;s_Head">
+    <dbp:writer rdf:resource="http://dbpedia.org/resource/Winston_Churchill" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/No._615_Squadron_RAF">
+    <dbo:commander rdf:resource="http://dbpedia.org/resource/Winston_Churchill" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Churchill,_Winston">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Winston_Churchill" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Churchill_war_ministry">
+    <dbp:governmentHead rdf:resource="http://dbpedia.org/resource/Winston_Churchill" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Winston_Churchhill">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Winston_Churchill" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gilbert_Granville_Sharp">
+    <dbp:candidate rdf:resource="http://dbpedia.org/resource/Winston_Churchill" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Winston_churchill">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Winston_Churchill" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Dundee_by-election,_1917">
+    <dbp:candidate rdf:resource="http://dbpedia.org/resource/Winston_Churchill" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Marigold_Churchill">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Winston_Churchill" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sir_Winston_Leonard_Spencer-Churchill">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Winston_Churchill" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Honourable_Sir_Winston_Spencer_Churchill">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Winston_Churchill" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Colonel_Warden">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Winston_Churchill" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Winston_Leonard_Churchill">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Winston_Churchill" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Winston_Leonard_Spencer-Churchill">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Winston_Churchill" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Winston_Spencer">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Winston_Churchill" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Marigold_Frances_Churchill">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Winston_Churchill" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Prime_Minister_Churchill">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Winston_Churchill" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bank_of_England_£5_note">
+    <dbp:reverseDesign rdf:resource="http://dbpedia.org/resource/Winston_Churchill" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sir_Winston">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Winston_Churchill" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/List_of_English_Heritage_blue_plaques_in_Kensington_and_Chelsea">
+    <dbp:subject rdf:resource="http://dbpedia.org/resource/Winston_Churchill" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Manchester_North_West_by-election,_1908">
+    <dbp:candidate rdf:resource="http://dbpedia.org/resource/Winston_Churchill" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Winston_Churchill">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Winston_Churchill" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sir_winston_hcurchill">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Winston_Churchill" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Winston_churchilll">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Winston_Churchill" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Death_and_state_funeral_of_Winston_Churchill">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Winston_Churchill" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Winnie_Churchill">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Winston_Churchill" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Churchill,_W._S.">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Winston_Churchill" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Chuurchill">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Winston_Churchill" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Constituency_election_results_in_the_United_Kingdom_general_election,_1929">
+    <dbp:candidate rdf:resource="http://dbpedia.org/resource/Winston_Churchill" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/PM_Churchill">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Winston_Churchill" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Prime_Minister_Winston_Churchill">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Winston_Churchill" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/W._S._Churchill">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Winston_Churchill" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/1952_Commonwealth_Prime_Ministers&#39;_Economic_Conference">
+    <dbp:chairperson rdf:resource="http://dbpedia.org/resource/Winston_Churchill" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Winston_Churchill_MP">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Winston_Churchill" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Churchill_Years_(audio_drama)">
+    <dbp:featuring rdf:resource="http://dbpedia.org/resource/Winston_Churchill" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Constituency_election_results_in_the_United_Kingdom_general_election,_1923">
+    <dbp:candidate rdf:resource="http://dbpedia.org/resource/Winston_Churchill" />
+  </rdf:Description>
+</rdf:RDF>

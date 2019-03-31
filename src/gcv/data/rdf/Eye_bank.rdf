@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:dct="http://purl.org/dc/terms/"
+	xmlns:dbo="http://dbpedia.org/ontology/"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:prov="http://www.w3.org/ns/prov#" >
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hudson_Silva">
+    <dbo:knownFor rdf:resource="http://dbpedia.org/resource/Eye_bank" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Aida_de_Acosta">
+    <dbo:knownFor rdf:resource="http://dbpedia.org/resource/Eye_bank" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Eye_bank">
+    <rdfs:label xml:lang="ja">アイバンク</rdfs:label>
+    <rdfs:label xml:lang="ru">Глазной банк</rdfs:label>
+    <rdfs:label xml:lang="en">Eye bank</rdfs:label>
+    <rdfs:label xml:lang="de">Hornhautbank</rdfs:label>
+    <rdfs:label xml:lang="pt">Banco de olhos</rdfs:label>
+    <rdfs:comment xml:lang="pt">Banco de olhos é uma entidade sem fins lucrativos que recebe doações, prepara e distribui córneas para transplante, ensino e pesquisa.</rdfs:comment>
+    <rdfs:comment xml:lang="ja">アイバンク (Eye bank) とは、角膜移植によってしか視力を回復できない患者のために、死後、眼球を提供することに本人または遺族の同意を得て、移植を待つ患者に斡旋する公的機関のこと。日本でのアイバンクは、厚生労働大臣の許可を受けて運営される「眼球あっせん業」のこと。眼球銀行ともいう。 移植するのは角膜であるが、ドナーが提供するのはあくまで眼球である。</rdfs:comment>
+    <rdfs:comment xml:lang="ru">Глазной банк  — производственное учреждение, которое занимается выработкой консервированных материалов для проведения пластических офтальмологических операций: кератопластики, склеропластических процедур, операций по поводу косоглазия, деформации век и т.д. Помимо этого в функции банка входят логистика консервированного материала, анализ результатов проведенных операций, участие в исследованиях, направленных на оптимизацию процесса консервации тканей и разработку новых видов пластических операций. Кроме того, глазные банки должны решать вопросы, связанные с юридическими аспектами забора и транспортировки донорского материала из моргов в глазной банк.</rdfs:comment>
+    <rdfs:comment xml:lang="de">Eine Hornhautbank ist eine Institution, die menschliche Hornhäute des Auges oder Skleramaterial sowie manchmal auch andere Gewebe des Auges sammelt (Augenbank), in der Regel durch Organkultur konserviert, eine Qualitätssicherung vornimmt, und für vornehmlich eine Keratoplastik zur Verfügung stellt. Weitere Aufgabenbereiche sind die Verwaltung einer Warteliste und die Bereitstellung von Amniontransplantaten.</rdfs:comment>
+    <rdfs:comment xml:lang="en">Eye banks retrieve and store eyes for cornea transplants and research. The first eye bank was founded in 1944. Currently, in the United States, eye banks provide tissue for about 46,000 cornea transplants each year to treat conditions such as keratoconus and corneal scarring. In some cases, the white of the eye (sclera) is used to surgically repair recipient eyes. Unlike other organs and tissues, there is an adequate supply of corneas for transplants in the United States, and excess tissue is exported internationally, however, there is a shortage of corneal tissue internationally.</rdfs:comment>
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Eye_bank" />
+    <owl:sameAs rdf:resource="http://ja.dbpedia.org/resource/アイバンク" />
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.088x0r" />
+    <owl:sameAs rdf:resource="http://pt.dbpedia.org/resource/Banco_de_olhos" />
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q1418182" />
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q1418182" />
+    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/Hornhautbank" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Transplantation_medicine" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Eye" />
+    <dbo:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2882345</dbo:wikiPageID>
+    <dbo:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">738090384</dbo:wikiPageRevisionID>
+    <dbo:wikiPageExternalLink rdf:resource="http://www.paeyebank.org/" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.ijo.in/article.asp?issn=0301-4738;year=1996;volume=44;issue=1;spage=1;epage=2;aulast=Rao" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.ijo.in/article.asp?issn=0301-4738;year=1996;volume=44;issue=1;spage=47;epage=55;aulast=Saini" />
+    <dbo:wikiPageExternalLink rdf:resource="http://eyebankingjournal.org/" />
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Eye_bank" />
+    <prov:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Eye_bank?oldid=738090384" />
+    <dbo:abstract xml:lang="en">Eye banks retrieve and store eyes for cornea transplants and research. The first eye bank was founded in 1944. Currently, in the United States, eye banks provide tissue for about 46,000 cornea transplants each year to treat conditions such as keratoconus and corneal scarring. In some cases, the white of the eye (sclera) is used to surgically repair recipient eyes. Unlike other organs and tissues, there is an adequate supply of corneas for transplants in the United States, and excess tissue is exported internationally, however, there is a shortage of corneal tissue internationally.</dbo:abstract>
+    <dbo:abstract xml:lang="de">Eine Hornhautbank ist eine Institution, die menschliche Hornhäute des Auges oder Skleramaterial sowie manchmal auch andere Gewebe des Auges sammelt (Augenbank), in der Regel durch Organkultur konserviert, eine Qualitätssicherung vornimmt, und für vornehmlich eine Keratoplastik zur Verfügung stellt. Weitere Aufgabenbereiche sind die Verwaltung einer Warteliste und die Bereitstellung von Amniontransplantaten.</dbo:abstract>
+    <dbo:abstract xml:lang="ja">アイバンク (Eye bank) とは、角膜移植によってしか視力を回復できない患者のために、死後、眼球を提供することに本人または遺族の同意を得て、移植を待つ患者に斡旋する公的機関のこと。日本でのアイバンクは、厚生労働大臣の許可を受けて運営される「眼球あっせん業」のこと。眼球銀行ともいう。 移植するのは角膜であるが、ドナーが提供するのはあくまで眼球である。</dbo:abstract>
+    <dbo:abstract xml:lang="ru">Глазной банк  — производственное учреждение, которое занимается выработкой консервированных материалов для проведения пластических офтальмологических операций: кератопластики, склеропластических процедур, операций по поводу косоглазия, деформации век и т.д. Помимо этого в функции банка входят логистика консервированного материала, анализ результатов проведенных операций, участие в исследованиях, направленных на оптимизацию процесса консервации тканей и разработку новых видов пластических операций. Кроме того, глазные банки должны решать вопросы, связанные с юридическими аспектами забора и транспортировки донорского материала из моргов в глазной банк.</dbo:abstract>
+    <dbo:abstract xml:lang="pt">Banco de olhos é uma entidade sem fins lucrativos que recebe doações, prepara e distribui córneas para transplante, ensino e pesquisa.</dbo:abstract>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Eyebank">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Eye_bank" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Eye_banks">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Eye_bank" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Eye_bank">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Eye_bank" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Eye_banking">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Eye_bank" />
+  </rdf:Description>
+</rdf:RDF>

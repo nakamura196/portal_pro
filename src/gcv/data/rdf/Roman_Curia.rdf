@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:dct="http://purl.org/dc/terms/"
+	xmlns:dbo="http://dbpedia.org/ontology/"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:prov="http://www.w3.org/ns/prov#"
+	xmlns:dbp="http://dbpedia.org/property/"
+	xmlns:ns8="http://purl.org/linguistics/gold/" >
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Pope_Leo_XII">
+    <dbp:previousPost rdf:resource="http://dbpedia.org/resource/Roman_Curia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Pontifical_Council_for_Culture">
+    <dbo:parentOrganisation rdf:resource="http://dbpedia.org/resource/Roman_Curia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/St._John&#39;s_Regional_Seminary">
+    <dbo:affiliation rdf:resource="http://dbpedia.org/resource/Roman_Curia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Francesco_Satolli">
+    <dbp:previousPost rdf:resource="http://dbpedia.org/resource/Roman_Curia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Roman_Curia">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing" />
+    <rdfs:label xml:lang="de">Römische Kurie</rdfs:label>
+    <rdfs:label xml:lang="zh">羅馬教廷</rdfs:label>
+    <rdfs:label xml:lang="ja">ローマ教皇庁</rdfs:label>
+    <rdfs:label xml:lang="es">Curia Romana</rdfs:label>
+    <rdfs:label xml:lang="fr">Curie romaine</rdfs:label>
+    <rdfs:label xml:lang="ar">الكوريا الرومانية</rdfs:label>
+    <rdfs:label xml:lang="it">Curia romana</rdfs:label>
+    <rdfs:label xml:lang="nl">Romeinse Curie</rdfs:label>
+    <rdfs:label xml:lang="en">Roman Curia</rdfs:label>
+    <rdfs:label xml:lang="pl">Kuria Rzymska</rdfs:label>
+    <rdfs:label xml:lang="ru">Римская курия</rdfs:label>
+    <rdfs:comment xml:lang="en">The Roman Curia is the administrative apparatus of the Holy See and the central body through which the Roman Pontiff conducts the affairs of the universal Catholic Church. It acts in his name and with his authority for the good and for the service of the particular Churches and provides the necessary central organization for the correct functioning of the Church and the achievement of its goals.</rdfs:comment>
+    <rdfs:comment xml:lang="it">La Curia romana è il complesso di organi ed autorità che costituiscono l&#39;apparato amministrativo della Santa Sede, che coordina e fornisce l&#39;organizzazione necessaria per il corretto funzionamento della Chiesa cattolica e il raggiungimento dei suoi obiettivi. Viene generalmente considerata &quot;il governo della Chiesa&quot;.</rdfs:comment>
+    <rdfs:comment xml:lang="zh">羅馬教廷（拉丁语：Curia Romana；中文常直稱為教廷）是聖座的行政机构。它是輔助教宗處理整個天主教會的事務，也与教宗一起构成了天主教会的中央领导机构。其為天主教會的日常運作與達成目標提供必要的中樞組織。現今多以其所在地「梵蒂冈」代稱。 罗马教宗利用罗马教廷各圣部对整个教会，执行最高、完整及直接的权力，各圣部以教宗之名义及权力尽其职务，为谋教会的益处，并为主教们效劳。——主教在教会内牧灵职务法令, Christus Dominus</rdfs:comment>
+    <rdfs:comment xml:lang="ru">Ри́мская ку́рия (лат. Curia Romana) — главный административный орган Святого Престола и Ватикана и один из основных в Римско-католической церкви. Отдельные ведомства Римской курии от имени и властью папы римского отвечают на вопросы, рассматривают предложения, апелляции, жалобы или просьбы, направленные в адрес Святого Престола, выносят распоряжения, решения или приговоры, выступают с различными инициативами и т. д. В рамках курии (перед Верховным трибуналом Апостольской сигнатуры) можно обжаловать как судебные решения верховного суда по церковным делам, так и отдельные административные акты других ведомств.</rdfs:comment>
+    <rdfs:comment xml:lang="de">Als Römische Kurie wird seit etwa dem 11. Jahrhundert die Gesamtheit der Leitungs- und Verwaltungsorgane des Heiligen Stuhls für die römisch-katholische Kirche bezeichnet.</rdfs:comment>
+    <rdfs:comment xml:lang="ar">الكوريا الرومانية هي الجهاز الإداري والتنفيذي والاستشاري الذي يساعد البابا في الفاتيكان على إدارة مهامه المختلفة، ويعتبر البابا نفسه رئيسًا للكوريا، وهو من يعيّن أعضائها ويعفيهم حسب مصلحة الكنيسة. كانت الكوريّا تتألف من سبعين كاردينالاً فقط غير أنه مع تزايد عدد أتباع الكنيسة الكاثوليكية حول العالم وكذلك اتساع رقعة انتشارهم، قام البابوات يوحنا الثالث والعشرون وبولس السادس ويوحنا بولس الثاني بتوسعة العدد حتى استقر على 120 كاردينالاً ناخبًا، أي أقل من الثمانين من العمر، وحاليًا إلى جانب الكرادلة، هناك عدد من الأساقفة والقسس من ذوي لقب &quot;خور أسقف&quot; يخدمون في بعض أجهزة الكوريا الصغيرة.</rdfs:comment>
+    <rdfs:comment xml:lang="pl">Kuria Rzymska – aparat administracyjny, przez który papież sprawuje swoją władzę. Kuria składa się z dykasterii i innych urzędów, z których każdy ma swój zakres działania, co wiąże się z odpowiedzialnością oraz odpowiednimi kompetencjami. Najważniejszymi dykasteriami Kurii są Sekretariat Stanu oraz kongregacje. Kolejne miejsca w hierarchii zajmują rady i komisje papieskie. Oprócz stałych urzędów papież może zwoływać na konsystorz Kolegium Kardynałów w celu konsultowania szczególnie trudnych kwestii. Powołano w szczególności Komisję Kardynalską ds. Organizacji i Problemów Ekonomicznych Stolicy Apostolskiej, która zajmuje się zarządzaniem finansami Watykanu. Kuria stanowi osobisty personel papieża i jej organizacja zależy całkowicie od niego.</rdfs:comment>
+    <rdfs:comment xml:lang="nl">De Romeinse Curie (Latijn: Curia Romana) is het bestuursapparaat van de paus en wordt gevormd door de organen van de Heilige Stoel die de paus bijstaan in het vervullen van zijn taken als hoofd van de Rooms-katholieke Kerk. Het woord curie is afgeleid van het Latijnse curia, dat verwijst naar de plaats waar in de klassieke oudheid de Romeinse senaat vergaderde. Later werd de term gebruikt om het paleis van de vorst aan te duiden en stilaan ook voor het ‘vorstelijke huis’, de hofhouding die de vorst bijstond in zijn bestuurstaak.</rdfs:comment>
+    <rdfs:comment xml:lang="ja">ローマ教皇庁（ローマきょうこうちょう、Curia Romana）は、使徒ペトロに由来するとされる使徒継承教会の首長としての地位の継承者として存続するカトリック教会の使徒座のこと。また、ローマ教皇の下に全世界のカトリック教会を統率する組織でもある。現在の所在地はローマのバチカンであり、バチカン市国という世界最小の主権国家の中に置かれている。カトリック教会内や国際連合などでは、聖庁、聖座（Holy See, Sancta Sedes）という呼称も用いられる。 かつて教皇は世俗の領主のように自らの領地（教皇領）を持っており、事実上国家と同様に独立した行政権を領地内で行使していたが、19世紀末のイタリア統一運動の中で失っている。ラテラノ条約によって成立したバチカンは、教皇庁が支配する国際法上の主権国家であるが、かつての教皇領のような世俗的支配を行う領地ではなく、国民は教会関係者のみである。 なお、14世紀のいわゆる「アヴィニョン捕囚」の時代、教皇庁は南フランスのアヴィニョンに遷座された（アヴィニョン教皇庁）。</rdfs:comment>
+    <rdfs:comment xml:lang="es">La Curia Romana es el conjunto de órganos de gobierno de la Santa Sede y de la Iglesia católica. Está compuesto por un grupo de instituciones, denominadas dicasterios, bajo la dirección del Papa, que ejercen las funciones legislativas, ejecutivas y judiciales. Coordina y proporciona la necesaria organización central para el correcto funcionamiento de la Iglesia y el logro de sus objetivos. La potestad de la curia romana se considera vicaria del Papa: Decreto sobre la función pastoral de los obispos en la Iglesia, Christus Dominus, 9.</rdfs:comment>
+    <rdfs:comment xml:lang="fr">La curie romaine est l&#39;ensemble des dicastères et autres organismes du Saint-Siège qui assistent le pape dans sa mission de pasteur suprême de l&#39;Église catholique. « La Curie romaine dont le Pontife suprême se sert habituellement pour traiter les affaires de l&#39;Église tout entière, et qui accomplit sa fonction en son nom et sous son autorité pour le bien et le service des Églises, comprend la Secrétairerie d&#39;État ou Secrétariat du Pape, le Conseil pour les affaires publiques de l&#39;Église, les Congrégations, Tribunaux et autres Instituts ; leur constitution et compétence sont définies par la loi particulière. »</rdfs:comment>
+    <owl:sameAs rdf:resource="http://eu.dbpedia.org/resource/Erromako_kuria" />
+    <owl:sameAs rdf:resource="http://pl.dbpedia.org/resource/Kuria_Rzymska" />
+    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/Römische_Kurie" />
+    <owl:sameAs rdf:resource="http://fr.dbpedia.org/resource/Curie_romaine" />
+    <owl:sameAs rdf:resource="http://es.dbpedia.org/resource/Curia_Romana" />
+    <owl:sameAs rdf:resource="http://id.dbpedia.org/resource/Kuria_Roma" />
+    <owl:sameAs rdf:resource="http://d-nb.info/gnd/2034643-8" />
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q108169" />
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q108169" />
+    <owl:sameAs rdf:resource="http://ja.dbpedia.org/resource/ローマ教皇庁" />
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.06m1k" />
+    <owl:sameAs rdf:resource="http://ko.dbpedia.org/resource/로마_교황청" />
+    <owl:sameAs rdf:resource="http://cs.dbpedia.org/resource/Papežská_kurie" />
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Roman_Curia" />
+    <owl:sameAs rdf:resource="http://nl.dbpedia.org/resource/Romeinse_Curie" />
+    <owl:sameAs rdf:resource="http://it.dbpedia.org/resource/Curia_romana" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Roman_Curia" />
+    <dbo:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">26538</dbo:wikiPageID>
+    <dbo:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">740967506</dbo:wikiPageRevisionID>
+    <dbo:wikiPageExternalLink rdf:resource="http://www.gcatholic.org/dioceses/romancuria.htm" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.cattoliciromani.com/forum/showthread.php/curia_romana_thread_costantemente_aggiornato-12370.html" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.vatican.va/roman_curia/index.htm" />
+    <foaf:homepage rdf:resource="http://www.vatican.va/roman_curia/index.htm" />
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Roman_Curia" />
+    <prov:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Roman_Curia?oldid=740967506" />
+    <dbo:abstract xml:lang="fr">La curie romaine est l&#39;ensemble des dicastères et autres organismes du Saint-Siège qui assistent le pape dans sa mission de pasteur suprême de l&#39;Église catholique. « La Curie romaine dont le Pontife suprême se sert habituellement pour traiter les affaires de l&#39;Église tout entière, et qui accomplit sa fonction en son nom et sous son autorité pour le bien et le service des Églises, comprend la Secrétairerie d&#39;État ou Secrétariat du Pape, le Conseil pour les affaires publiques de l&#39;Église, les Congrégations, Tribunaux et autres Instituts ; leur constitution et compétence sont définies par la loi particulière. »</dbo:abstract>
+    <dbo:abstract xml:lang="pl">Kuria Rzymska – aparat administracyjny, przez który papież sprawuje swoją władzę. Kuria składa się z dykasterii i innych urzędów, z których każdy ma swój zakres działania, co wiąże się z odpowiedzialnością oraz odpowiednimi kompetencjami. Najważniejszymi dykasteriami Kurii są Sekretariat Stanu oraz kongregacje. Kolejne miejsca w hierarchii zajmują rady i komisje papieskie. Oprócz stałych urzędów papież może zwoływać na konsystorz Kolegium Kardynałów w celu konsultowania szczególnie trudnych kwestii. Powołano w szczególności Komisję Kardynalską ds. Organizacji i Problemów Ekonomicznych Stolicy Apostolskiej, która zajmuje się zarządzaniem finansami Watykanu. Kuria stanowi osobisty personel papieża i jej organizacja zależy całkowicie od niego.</dbo:abstract>
+    <dbo:abstract xml:lang="de">Als Römische Kurie wird seit etwa dem 11. Jahrhundert die Gesamtheit der Leitungs- und Verwaltungsorgane des Heiligen Stuhls für die römisch-katholische Kirche bezeichnet.</dbo:abstract>
+    <dbo:abstract xml:lang="ar">الكوريا الرومانية هي الجهاز الإداري والتنفيذي والاستشاري الذي يساعد البابا في الفاتيكان على إدارة مهامه المختلفة، ويعتبر البابا نفسه رئيسًا للكوريا، وهو من يعيّن أعضائها ويعفيهم حسب مصلحة الكنيسة. كانت الكوريّا تتألف من سبعين كاردينالاً فقط غير أنه مع تزايد عدد أتباع الكنيسة الكاثوليكية حول العالم وكذلك اتساع رقعة انتشارهم، قام البابوات يوحنا الثالث والعشرون وبولس السادس ويوحنا بولس الثاني بتوسعة العدد حتى استقر على 120 كاردينالاً ناخبًا، أي أقل من الثمانين من العمر، وحاليًا إلى جانب الكرادلة، هناك عدد من الأساقفة والقسس من ذوي لقب &quot;خور أسقف&quot; يخدمون في بعض أجهزة الكوريا الصغيرة. يأتي بعد البابا في الكوريا، رئيس وزراء الفاتيكان، وغالبًا ما كان يتمتع في السابق بلقب &quot;أمير&quot; أو &quot;كونت&quot;، وأيضًا غالبًا ما اختاره البابوات من أصدقائهم أو أقاربهم لكونهم محل ثقة، كما عيّن البعض علمانيين في المنصب، وهو من يشرف على سائر أقسام الكوريا التي ومنذ نشوؤها في القرن السادس عشر وهي تشمل المجامع والمجالس البابوية واللجان الحبرية والمكاتب. أعيد تنظيم شؤون الكوريا مرارًا عديدة في الماضي، سيّما في أعقاب المجمع الفاتيكاني الثاني الذي ختم أعماله عام 1965، وكان أول من بدأ عملية إعادة التنظيم هو البابا بولس السادس عام 1967 وتلاه يوحنا بولس الثاني بدستور الراعي الصالح الذي أصدره العام 1988، غير أن التعديلات في بنية اللجان والمجالس على وجه الخصوص، وهي التي تلي المجامع في الأهمية، لم تتوقف وفق حاجة الكنيسة، بعد إصدار دستور &quot;الراعي الصالح&quot; سواءً في عهد يوحنا بولس الثاني أم بندكت السادس عشر.</dbo:abstract>
+    <dbo:abstract xml:lang="en">The Roman Curia is the administrative apparatus of the Holy See and the central body through which the Roman Pontiff conducts the affairs of the universal Catholic Church. It acts in his name and with his authority for the good and for the service of the particular Churches and provides the necessary central organization for the correct functioning of the Church and the achievement of its goals. The structure and organization of responsibilities within the Curia is at present regulated by the apostolic constitution Pastor bonus issued by Pope John Paul II on 28 June 1988, which Pope Francis has decided to revise. Other bodies that play an administrative or consulting role in Church affairs are sometimes mistakenly identified with the Curia, though they are not in fact part of it, such as the Synod of Bishops and regional conferences of bishops. Cardinal Gerhard Müller, prefect of the Congregation for the Doctrine of the Faith, wrote in 2015 that &quot;the Synod of Bishops is not a part of the Roman Curia in the strict sense: it is the expression of the collegiality of bishops in communion with the Pope and under his direction. The Roman Curia instead aids the Pope in the exercise of his primacy over all the Churches.&quot;</dbo:abstract>
+    <dbo:abstract xml:lang="es">La Curia Romana es el conjunto de órganos de gobierno de la Santa Sede y de la Iglesia católica. Está compuesto por un grupo de instituciones, denominadas dicasterios, bajo la dirección del Papa, que ejercen las funciones legislativas, ejecutivas y judiciales. Coordina y proporciona la necesaria organización central para el correcto funcionamiento de la Iglesia y el logro de sus objetivos. La potestad de la curia romana se considera vicaria del Papa: En el ejercicio supremo, pleno e inmediato de su poder sobre toda la Iglesia, el Romano Pontífice se sirve de los dicasterios de la Curia Romana, que, en consecuencia, realizan su labor en su nombre y bajo su autoridad, para bien de las Iglesias y servicio de los sagrados pastores. Decreto sobre la función pastoral de los obispos en la Iglesia, Christus Dominus, 9.</dbo:abstract>
+    <dbo:abstract xml:lang="ja">ローマ教皇庁（ローマきょうこうちょう、Curia Romana）は、使徒ペトロに由来するとされる使徒継承教会の首長としての地位の継承者として存続するカトリック教会の使徒座のこと。また、ローマ教皇の下に全世界のカトリック教会を統率する組織でもある。現在の所在地はローマのバチカンであり、バチカン市国という世界最小の主権国家の中に置かれている。カトリック教会内や国際連合などでは、聖庁、聖座（Holy See, Sancta Sedes）という呼称も用いられる。 かつて教皇は世俗の領主のように自らの領地（教皇領）を持っており、事実上国家と同様に独立した行政権を領地内で行使していたが、19世紀末のイタリア統一運動の中で失っている。ラテラノ条約によって成立したバチカンは、教皇庁が支配する国際法上の主権国家であるが、かつての教皇領のような世俗的支配を行う領地ではなく、国民は教会関係者のみである。 なお、14世紀のいわゆる「アヴィニョン捕囚」の時代、教皇庁は南フランスのアヴィニョンに遷座された（アヴィニョン教皇庁）。</dbo:abstract>
+    <dbo:abstract xml:lang="zh">羅馬教廷（拉丁语：Curia Romana；中文常直稱為教廷）是聖座的行政机构。它是輔助教宗處理整個天主教會的事務，也与教宗一起构成了天主教会的中央领导机构。其為天主教會的日常運作與達成目標提供必要的中樞組織。現今多以其所在地「梵蒂冈」代稱。 罗马教宗利用罗马教廷各圣部对整个教会，执行最高、完整及直接的权力，各圣部以教宗之名义及权力尽其职务，为谋教会的益处，并为主教们效劳。——主教在教会内牧灵职务法令, Christus Dominus</dbo:abstract>
+    <dbo:abstract xml:lang="nl">De Romeinse Curie (Latijn: Curia Romana) is het bestuursapparaat van de paus en wordt gevormd door de organen van de Heilige Stoel die de paus bijstaan in het vervullen van zijn taken als hoofd van de Rooms-katholieke Kerk. Het woord curie is afgeleid van het Latijnse curia, dat verwijst naar de plaats waar in de klassieke oudheid de Romeinse senaat vergaderde. Later werd de term gebruikt om het paleis van de vorst aan te duiden en stilaan ook voor het ‘vorstelijke huis’, de hofhouding die de vorst bijstond in zijn bestuurstaak. De term curie wordt ook wel gebruikt voor de bestuursorganen van een bisdom. In dat geval gaat het om een diocesane curie.</dbo:abstract>
+    <dbo:abstract xml:lang="it">La Curia romana è il complesso di organi ed autorità che costituiscono l&#39;apparato amministrativo della Santa Sede, che coordina e fornisce l&#39;organizzazione necessaria per il corretto funzionamento della Chiesa cattolica e il raggiungimento dei suoi obiettivi. Viene generalmente considerata &quot;il governo della Chiesa&quot;. Ogni diocesi cattolica ha una curia nella sua amministrazione. Per la Diocesi di Roma, queste funzioni non sono gestite dalla Curia romana, ma dal &quot;Vicariato generale di sua santità per la città di Roma&quot;, come previsto dalla costituzione apostolica Ecclesia in Urbe. Il vicario generale, tradizionalmente un cardinale, e il vicegerente, che detiene il titolo personale di arcivescovo, supervisionano il governo della diocesi facendo occasionale riferimento al papa stesso.</dbo:abstract>
+    <dbo:abstract xml:lang="ru">Ри́мская ку́рия (лат. Curia Romana) — главный административный орган Святого Престола и Ватикана и один из основных в Римско-католической церкви. Отдельные ведомства Римской курии от имени и властью папы римского отвечают на вопросы, рассматривают предложения, апелляции, жалобы или просьбы, направленные в адрес Святого Престола, выносят распоряжения, решения или приговоры, выступают с различными инициативами и т. д. В рамках курии (перед Верховным трибуналом Апостольской сигнатуры) можно обжаловать как судебные решения верховного суда по церковным делам, так и отдельные административные акты других ведомств.</dbo:abstract>
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Apparatus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Curia_(disambiguation)">
+    <dbo:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/Roman_Curia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Curia_Romana">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Roman_Curia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/President_of_the_Pontifical_Commission_for_Vatican_City_State">
+    <dbp:memberOf rdf:resource="http://dbpedia.org/resource/Roman_Curia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Pontifical_Council_for_Social_Communications">
+    <dbo:parentOrganisation rdf:resource="http://dbpedia.org/resource/Roman_Curia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Papal_Curia">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Roman_Curia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Pontifical_Court">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Roman_Curia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/St._John&#39;s_Regional_Seminary_(Philosophate)">
+    <dbo:affiliation rdf:resource="http://dbpedia.org/resource/Roman_Curia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Secretariat_for_Communications">
+    <dbo:parentOrganisation rdf:resource="http://dbpedia.org/resource/Roman_Curia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Politics_of_the_Roman_Curia">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Roman_Curia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Pope_Pius_VIII">
+    <dbp:previousPost rdf:resource="http://dbpedia.org/resource/Roman_Curia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Roman_curia">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Roman_Curia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Romana_Curia">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Roman_Curia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Romana_curia">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Roman_Curia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Giuseppe_Pizzardo">
+    <dbp:previousPost rdf:resource="http://dbpedia.org/resource/Roman_Curia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Roman_Catholic_Curia">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Roman_Curia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Government_of_the_Roman_Catholic_Church_(ecclesiology)">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Roman_Curia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Pontifical_Council_for_Dialogue_with_Non-Believers">
+    <dbo:parentOrganisation rdf:resource="http://dbpedia.org/resource/Roman_Curia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Papal_curia">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Roman_Curia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Congregazione_del_Buon_Governo">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Roman_Curia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Consulta">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Roman_Curia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Government_of_the_Catholic_Church">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Roman_Curia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Curia_romana">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Roman_Curia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vatican_administration">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Roman_Curia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vatican_bureaucracy">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Roman_Curia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Roman_Curia">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Roman_Curia" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vatican_Curia">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Roman_Curia" />
+  </rdf:Description>
+</rdf:RDF>

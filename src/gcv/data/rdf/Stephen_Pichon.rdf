@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:dbo="http://dbpedia.org/ontology/"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:prov="http://www.w3.org/ns/prov#" >
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Stephen_Pichon">
+    <rdfs:label xml:lang="en">Stephen Pichon</rdfs:label>
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Stephen_Pichon" />
+    <dbo:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2208807</dbo:wikiPageID>
+    <dbo:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">346241619</dbo:wikiPageRevisionID>
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Stéphen_Pichon" />
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Stephen_Pichon" />
+    <prov:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Stephen_Pichon?oldid=346241619" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Stephen_Pichon">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Stephen_Pichon" />
+  </rdf:Description>
+</rdf:RDF>

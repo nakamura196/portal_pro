@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:dbo="http://dbpedia.org/ontology/"
+	xmlns:dct="http://purl.org/dc/terms/"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:prov="http://www.w3.org/ns/prov#"
+	xmlns:dbp="http://dbpedia.org/property/"
+	xmlns:ns8="http://purl.org/linguistics/gold/" >
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kokoro">
+    <dbo:author rdf:resource="http://dbpedia.org/resource/Natsume_Sōseki" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Natsume">
+    <dbo:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/Natsume_Sōseki" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Natsume_Sôseki">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Natsume_Sōseki" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sôseki_Natsume">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Natsume_Sōseki" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sōseki_Natsume">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Natsume_Sōseki" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Motojirō_Kajii">
+    <dbo:influencedBy rdf:resource="http://dbpedia.org/resource/Natsume_Sōseki" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Natsume_Sōseki">
+    <rdf:type rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent" />
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person" />
+    <rdf:type rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson" />
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Absentee109757653" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Exile110071332" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q215627" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Whole100003553" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/LivingThing100004258" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q24229398" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/CausalAgent100007347" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatWriters" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatJapaneseExpatriatesInTheUnitedKingdom" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Organism100004475" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Person" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Scholar110557854" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatWritersOfModernArthurianFiction" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatPeopleFromShinjuku,Tokyo" />
+    <rdf:type rdf:resource="http://umbel.org/umbel/rc/Writer" />
+    <rdf:type rdf:resource="http://schema.org/Person" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatJapaneseWriters" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Writer" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q5" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q36180" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatJapanesePoets" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Novelist110363573" />
+    <rdf:type rdf:resource="http://umbel.org/umbel/rc/Artist" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatJapanese-languageWriters" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatPseudonymousWriters" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PhysicalEntity100001930" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoLegalActor" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatAlumniOfUniversityCollegeLondon" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoLegalActorGeo" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Person100007846" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Object100002684" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatJapaneseShortStoryWriters" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatWritersFromTokyo" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatJapanesePeople" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Writer110794014" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Traveler109629752" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatPeopleFromTokyo" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Alumnus109786338" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Intellectual109621545" />
+    <rdf:type rdf:resource="http://umbel.org/umbel/rc/PersonWithOccupation" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatJapaneseNovelists" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatPeopleOfMeiji-periodJapan" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Poet110444194" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Agent" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Communicator109610660" />
+    <rdfs:label xml:lang="en">Natsume Sōseki</rdfs:label>
+    <rdfs:label xml:lang="es">Natsume Sōseki</rdfs:label>
+    <rdfs:label xml:lang="ru">Нацумэ Сосэки</rdfs:label>
+    <rdfs:label xml:lang="fr">Natsume Sōseki</rdfs:label>
+    <rdfs:label xml:lang="ja">夏目漱石</rdfs:label>
+    <rdfs:label xml:lang="pt">Natsume Soseki</rdfs:label>
+    <rdfs:label xml:lang="de">Natsume Sōseki</rdfs:label>
+    <rdfs:label xml:lang="it">Natsume Sōseki</rdfs:label>
+    <rdfs:label xml:lang="ar">ناتسومي سوسيكي</rdfs:label>
+    <rdfs:label xml:lang="zh">夏目漱石</rdfs:label>
+    <rdfs:label xml:lang="nl">Natsume Soseki</rdfs:label>
+    <rdfs:label xml:lang="pl">Sōseki Natsume</rdfs:label>
+    <rdfs:comment xml:lang="zh">夏目漱石（1867年2月9日－1916年12月9日），日本作家、評論家、英文學者。</rdfs:comment>
+    <rdfs:comment xml:lang="pl">Sōseki Natsume (jap. 夏目 漱石 Natsume Sōseki, prawdziwe imię Kinnosuke, 金之助, ur. 9 lutego 1867 w Edo, zm. 9 grudnia 1916 w Tokio) – pisarz japoński okresu Meiji, twórca nowoczesnej powieści japońskiej, autor utworów obyczajowych i psychologicznych, poezji, esejów oraz krytyki literackiej. Jeden z najwybitniejszych pisarzy japońskich XX wieku. Tworzył również w języku chińskim.</rdfs:comment>
+    <rdfs:comment xml:lang="nl">In deze Japanse naam is Natsume de geslachtsnaam. Natsume Sōseki (Japans: 夏目 漱石), pseudoniem voor Natsume Kinnosuke (夏目金之助) (Ushigome (huidig Shinjuku), 9 februari 1867 – Tokio, 9 december 1916) was een Japans romanschrijver. Hij wordt beschouwd als de belangrijkste schrijver van de Meijiperiode. Hij schreef vooral over de problemen die de modernisatie van Japan met zich meebracht. Zijn bekendste roman is &#39;Kokoro&#39; uit 1914. Samen met Mori Ōgai (1862-1922) wordt hij gezien als de vader van het modernisme in de Japanse literatuur.</rdfs:comment>
+    <rdfs:comment xml:lang="fr">Sōseki Natsume (夏目 漱石, Natsume Sōseki, 9 février 1867 à Edo - 9 décembre 1916 à Tokyo) est un auteur japonais de romans et de nouvelles, représentatif de la transition du Japon vers la modernité, pendant l&#39;ère Meiji.</rdfs:comment>
+    <rdfs:comment xml:lang="es">Natsume Sōseki (1867 - 1916) es el seudónimo literario de Natsume Kinnosuke (en japonés, Natsume Kin&#39;nosuke 夏目 金之助 ), fue un novelista japonés, profesor de literatura inglesa, escritor de haikus y de poesía china. Sus obras más conocidas son Kokoro (corazón), Soy un gato, Botchan, El caminante, Las hierbas del camino y Sanshiro.</rdfs:comment>
+    <rdfs:comment xml:lang="de">Natsume Sōseki (jap. 夏目 漱石, eigentlich Natsume Kinnosuke 夏目 金之助; * 9. Februar 1867 in Ushigome, Edo (heute Shinjuku, Tokio); † 9. Dezember 1916 in Tokio) gehört zu den berühmtesten japanischen Schriftstellern der Meiji-Zeit.</rdfs:comment>
+    <rdfs:comment xml:lang="en">Natsume Sōseki (夏目 漱石, February 9, 1867 – December 9, 1916), born Natsume Kinnosuke (夏目 金之助) was a Japanese novelist. He is best known for his novels Kokoro, Botchan, I Am a Cat and his unfinished work Light and Darkness. He was also a scholar of British literature and composer of haiku, kanshi, and fairy tales. From 1984 until 2004, his portrait appeared on the front of the Japanese 1000 yen note. In Japan, he is often considered the greatest writer in modern Japanese history. He has had a profound effect on almost all important Japanese writers since.</rdfs:comment>
+    <rdfs:comment xml:lang="pt">Natsume Soseki (夏目 漱石 Natsume Sōseki, era o pseudônimo de Natsume Kinnosuke (夏目金之助 Natsume Kin&#39;nosuke) (9 de fevereiro de 1867 - 9 de dezembro de 1916); escritor e filósofo japonês da era Meiji. Natsume nasceu numa família de samurais em Edo, atual Tóquio, Japão. Aos dois anos foi entregue pelos pais aos cuidados de outra família, retornando à casa paterna aos nove. Perdeu a mãe aos catorze. Estudioso da literatura tradicional chinesa desde a infância, ingressa na Universidade Imperial (atual Universidade de Tóquio) aos 23 anos para cursar literatura inglesa. Começa, antes mesmo de se formar, a lecionar inglês na Escola Especializada de Tóquio (hoje, Universidade Waseda) e passa a assinar seus escritos com o nome &quot;Soseki&quot; - que, em chinês, significa &quot;incômodo&quot;. Crises nervosas o fazem aban</rdfs:comment>
+    <rdfs:comment xml:lang="ja">夏目 漱石（なつめ そうせき、1867年2月9日（慶応3年1月5日） - 1916年（大正5年）12月9日）は、日本の小説家、評論家、英文学者。本名、夏目 金之助（なつめ きんのすけ）。江戸の牛込馬場下横町（現在の東京都新宿区喜久井町）出身。俳号は愚陀仏。 大学時代に正岡子規と出会い、俳句を学ぶ。帝国大学（後の東京帝国大学、現在の東京大学）英文科卒業後、松山で愛媛県尋常中学校教師、熊本で第五高等学校教授などを務めた後、イギリスへ留学。帰国後、東京帝国大学講師として英文学を講じながら、「吾輩は猫である」を雑誌『ホトトギス』に発表。これが評判になり「坊っちゃん」「倫敦塔」などを書く。 その後朝日新聞社に入社し、「虞美人草」「三四郎」などを掲載。当初は余裕派と呼ばれた。「修善寺の大患」後は、『行人』『こゝろ』『硝子戸の中』などを執筆。「則天去私（そくてんきょし）」の境地に達したといわれる。晩年は胃潰瘍に悩まされ、「明暗」が絶筆となった。</rdfs:comment>
+    <rdfs:comment xml:lang="ar">25بك المحتوى هنا ينقصه الاستشهاد بمصادر. يرجى إيراد مصادر موثوق بها. أي معلومات غير موثقة يمكن التشكيك بها وإزالتها. (مارس 2016) ناتسومي سوساكي (باليابانية: 夏目 漱石) ناتسومي هو اسم العائلة (9 فبراير 1867 - 9 ديسمبر 1916) هو اسم الكتابة للمؤلف ناتسومي كينونوسوكي (夏目金之助) ويعتبر أشهر كاتب روايات يابانية في فترة ميجي (1868 - 1912). من أشهر أعماله هي كوكورو، بوتشان، أنا قط وروايته الغير مكتملة الضوء والظلام. كان أيضا باحثا في الأدب البريطاني، ومؤلف شعر هايكو، شعر صيني، وقصص خيالية. استخدمت صورة سوساكي على ورقة 1000 ين ياباني في الفترة بين عامي 1984 و 2007.</rdfs:comment>
+    <rdfs:comment xml:lang="ru">Нацумэ Кинноскэ (яп. 夏目金之助 Нацумэ Кинносукэ, 9 февраля 1867 года — 9 декабря 1916 года), более известный под псевдонимом Нацумэ Сосэки (яп. 夏目漱石 Нацумэ Со:сэки) — японский писатель, один из основоположников современной японской литературы.</rdfs:comment>
+    <owl:sameAs rdf:resource="http://www4.wiwiss.fu-berlin.de/gutendata/resource/people/Natsume_Soseki_1867-1916" />
+    <owl:sameAs rdf:resource="http://fr.dbpedia.org/resource/Natsume_Sōseki" />
+    <owl:sameAs rdf:resource="http://es.dbpedia.org/resource/Natsume_Sōseki" />
+    <owl:sameAs rdf:resource="http://pt.dbpedia.org/resource/Natsume_Soseki" />
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q180903" />
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.019p4d" />
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q180903" />
+    <owl:sameAs rdf:resource="http://yago-knowledge.org/resource/Natsume_Soseki" />
+    <owl:sameAs rdf:resource="http://yago-knowledge.org/resource/Natsume_Sōseki" />
+    <owl:sameAs rdf:resource="http://id.dbpedia.org/resource/Natsume_Sōseki" />
+    <owl:sameAs rdf:resource="http://d-nb.info/gnd/118785737" />
+    <owl:sameAs rdf:resource="http://cs.dbpedia.org/resource/Sóseki_Nacume" />
+    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/Natsume_Sōseki" />
+    <owl:sameAs rdf:resource="http://viaf.org/viaf/56614190" />
+    <owl:sameAs rdf:resource="http://ja.dbpedia.org/resource/夏目漱石" />
+    <owl:sameAs rdf:resource="http://pl.dbpedia.org/resource/Sōseki_Natsume" />
+    <owl:sameAs rdf:resource="http://nl.dbpedia.org/resource/Natsume_Soseki" />
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Natsume_Sōseki" />
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Natsume_Sōseki" />
+    <owl:sameAs rdf:resource="http://ko.dbpedia.org/resource/나쓰메_소세키" />
+    <owl:sameAs rdf:resource="http://eu.dbpedia.org/resource/Söseki_Natsume" />
+    <owl:sameAs rdf:resource="http://it.dbpedia.org/resource/Natsume_Sōseki" />
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Empire_of_Japan" />
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Tokyo" />
+    <dbo:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1916-12-09</dbo:deathDate>
+    <dbo:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1916-12-9</dbo:deathDate>
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Empire_of_Japan" />
+    <dbo:birthPlace rdf:resource="http://wikidata.dbpedia.org/resource/Q11419038" />
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Tokyo" />
+    <dbo:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1867-02-09</dbo:birthDate>
+    <dbo:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1867-2-9</dbo:birthDate>
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:20th-century_Japanese_novelists" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:1867_births" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:19th-century_Japanese_novelists" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:1916_deaths" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Japanese_expatriates_in_the_United_Kingdom" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:People_of_Meiji-period_Japan" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:20th-century_short_story_writers" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Pseudonymous_writers" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:19th-century_short_story_writers" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:University_of_Tokyo_alumni" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Deaths_from_ulcers" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:People_from_Shinjuku" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Japanese_poets" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:19th-century_Japanese_poets" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Alumni_of_University_College_London" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Writers_from_Tokyo" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Japanese_short_story_writers" />
+    <dbo:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">187688</dbo:wikiPageID>
+    <dbo:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">738536753</dbo:wikiPageRevisionID>
+    <dbo:wikiPageExternalLink rdf:resource="http://www.natsumesoseki.com/" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.aozora.gr.jp/index_pages/person148.html" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.horror-house.jp/e/cat4/soseki-natsume-18671916.html" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.sosekiproject.org" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.ibiblio.org/eldritch/ns/soseki.html" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www008.upp.so-net.ne.jp/hybiblio/index.html" />
+    <foaf:name xml:lang="en">Natsume Sōseki</foaf:name>
+    <foaf:depiction rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Soseki.jpg" />
+    <dct:description xml:lang="en">Japanese novelist of the Meiji period</dct:description>
+    <foaf:gender xml:lang="en">male</foaf:gender>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Natsume_Sōseki" />
+    <foaf:surname xml:lang="en">Natsume</foaf:surname>
+    <dbo:thumbnail rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Soseki.jpg?width=300" />
+    <prov:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Natsume_Sōseki?oldid=738536753" />
+    <dbo:abstract xml:lang="ar">25بك المحتوى هنا ينقصه الاستشهاد بمصادر. يرجى إيراد مصادر موثوق بها. أي معلومات غير موثقة يمكن التشكيك بها وإزالتها. (مارس 2016) ناتسومي سوساكي (باليابانية: 夏目 漱石) ناتسومي هو اسم العائلة (9 فبراير 1867 - 9 ديسمبر 1916) هو اسم الكتابة للمؤلف ناتسومي كينونوسوكي (夏目金之助) ويعتبر أشهر كاتب روايات يابانية في فترة ميجي (1868 - 1912). من أشهر أعماله هي كوكورو، بوتشان، أنا قط وروايته الغير مكتملة الضوء والظلام. كان أيضا باحثا في الأدب البريطاني، ومؤلف شعر هايكو، شعر صيني، وقصص خيالية. استخدمت صورة سوساكي على ورقة 1000 ين ياباني في الفترة بين عامي 1984 و 2007.</dbo:abstract>
+    <dbo:abstract xml:lang="fr">Sōseki Natsume (夏目 漱石, Natsume Sōseki, 9 février 1867 à Edo - 9 décembre 1916 à Tokyo) est un auteur japonais de romans et de nouvelles, représentatif de la transition du Japon vers la modernité, pendant l&#39;ère Meiji.</dbo:abstract>
+    <dbo:abstract xml:lang="ru">Нацумэ Кинноскэ (яп. 夏目金之助 Нацумэ Кинносукэ, 9 февраля 1867 года — 9 декабря 1916 года), более известный под псевдонимом Нацумэ Сосэки (яп. 夏目漱石 Нацумэ Со:сэки) — японский писатель, один из основоположников современной японской литературы.</dbo:abstract>
+    <dbo:abstract xml:lang="ja">夏目 漱石（なつめ そうせき、1867年2月9日（慶応3年1月5日） - 1916年（大正5年）12月9日）は、日本の小説家、評論家、英文学者。本名、夏目 金之助（なつめ きんのすけ）。江戸の牛込馬場下横町（現在の東京都新宿区喜久井町）出身。俳号は愚陀仏。 大学時代に正岡子規と出会い、俳句を学ぶ。帝国大学（後の東京帝国大学、現在の東京大学）英文科卒業後、松山で愛媛県尋常中学校教師、熊本で第五高等学校教授などを務めた後、イギリスへ留学。帰国後、東京帝国大学講師として英文学を講じながら、「吾輩は猫である」を雑誌『ホトトギス』に発表。これが評判になり「坊っちゃん」「倫敦塔」などを書く。 その後朝日新聞社に入社し、「虞美人草」「三四郎」などを掲載。当初は余裕派と呼ばれた。「修善寺の大患」後は、『行人』『こゝろ』『硝子戸の中』などを執筆。「則天去私（そくてんきょし）」の境地に達したといわれる。晩年は胃潰瘍に悩まされ、「明暗」が絶筆となった。</dbo:abstract>
+    <dbo:abstract xml:lang="en">Natsume Sōseki (夏目 漱石, February 9, 1867 – December 9, 1916), born Natsume Kinnosuke (夏目 金之助) was a Japanese novelist. He is best known for his novels Kokoro, Botchan, I Am a Cat and his unfinished work Light and Darkness. He was also a scholar of British literature and composer of haiku, kanshi, and fairy tales. From 1984 until 2004, his portrait appeared on the front of the Japanese 1000 yen note. In Japan, he is often considered the greatest writer in modern Japanese history. He has had a profound effect on almost all important Japanese writers since.</dbo:abstract>
+    <dbo:abstract xml:lang="de">Natsume Sōseki (jap. 夏目 漱石, eigentlich Natsume Kinnosuke 夏目 金之助; * 9. Februar 1867 in Ushigome, Edo (heute Shinjuku, Tokio); † 9. Dezember 1916 in Tokio) gehört zu den berühmtesten japanischen Schriftstellern der Meiji-Zeit.</dbo:abstract>
+    <dbo:abstract xml:lang="zh">夏目漱石（1867年2月9日－1916年12月9日），日本作家、評論家、英文學者。</dbo:abstract>
+    <dbo:abstract xml:lang="es">Natsume Sōseki (1867 - 1916) es el seudónimo literario de Natsume Kinnosuke (en japonés, Natsume Kin&#39;nosuke 夏目 金之助 ), fue un novelista japonés, profesor de literatura inglesa, escritor de haikus y de poesía china. Sus obras más conocidas son Kokoro (corazón), Soy un gato, Botchan, El caminante, Las hierbas del camino y Sanshiro.</dbo:abstract>
+    <dbo:abstract xml:lang="pt">Natsume Soseki (夏目 漱石 Natsume Sōseki, era o pseudônimo de Natsume Kinnosuke (夏目金之助 Natsume Kin&#39;nosuke) (9 de fevereiro de 1867 - 9 de dezembro de 1916); escritor e filósofo japonês da era Meiji. Natsume nasceu numa família de samurais em Edo, atual Tóquio, Japão. Aos dois anos foi entregue pelos pais aos cuidados de outra família, retornando à casa paterna aos nove. Perdeu a mãe aos catorze. Estudioso da literatura tradicional chinesa desde a infância, ingressa na Universidade Imperial (atual Universidade de Tóquio) aos 23 anos para cursar literatura inglesa. Começa, antes mesmo de se formar, a lecionar inglês na Escola Especializada de Tóquio (hoje, Universidade Waseda) e passa a assinar seus escritos com o nome &quot;Soseki&quot; - que, em chinês, significa &quot;incômodo&quot;. Crises nervosas o fazem abandonar Tóquio e o prestigioso cargo que possuía. Estabelece-se em Ehime (Shikoku), numa escola secundária. Em 1900, viaja à Inglaterra como bolsista do Ministério da Educação para estudar literatura e ensino da língua inglesa. Em crise depressiva, regressa ao Japão em 1903, retomando o magistério. Estréia com Wagahai wa neko de aru [Eu sou um gato, São Paulo: Estação Liberdade, 2008] em 1905, obtendo notável recepção de crítica e público. Abandona o ensino dois anos depois, dedicando-se à literatura e tornando-se colaborador exclusivo do diário Asahi Shimbun. Em 1910 é acometido pela primeira crise de úlcera, esta seria uma das complicações que o levariam à morte em 09 de dezembro de 1916, na capital japonesa. Autor de 14 romances, entre os quais se destacam Botchan (1906), Sanshiro [Sanshiro, São Paulo: Estação Liberdade, 2013] (1908), Sorekara [E depois, São Paulo: Estação Liberdade, 2011] (1909), Mon [Portão] (1910), Kokoro [Coração, São Paulo: Globo, 2008] (1914), e Michikusa [O capim ao lado do caminho] (1915).</dbo:abstract>
+    <dbo:abstract xml:lang="nl">In deze Japanse naam is Natsume de geslachtsnaam. Natsume Sōseki (Japans: 夏目 漱石), pseudoniem voor Natsume Kinnosuke (夏目金之助) (Ushigome (huidig Shinjuku), 9 februari 1867 – Tokio, 9 december 1916) was een Japans romanschrijver. Hij wordt beschouwd als de belangrijkste schrijver van de Meijiperiode. Hij schreef vooral over de problemen die de modernisatie van Japan met zich meebracht. Zijn bekendste roman is &#39;Kokoro&#39; uit 1914. Samen met Mori Ōgai (1862-1922) wordt hij gezien als de vader van het modernisme in de Japanse literatuur.</dbo:abstract>
+    <dbo:abstract xml:lang="pl">Sōseki Natsume (jap. 夏目 漱石 Natsume Sōseki, prawdziwe imię Kinnosuke, 金之助, ur. 9 lutego 1867 w Edo, zm. 9 grudnia 1916 w Tokio) – pisarz japoński okresu Meiji, twórca nowoczesnej powieści japońskiej, autor utworów obyczajowych i psychologicznych, poezji, esejów oraz krytyki literackiej. Jeden z najwybitniejszych pisarzy japońskich XX wieku. Tworzył również w języku chińskim. Natsume urodził się w Babashita, w dzielnicy Ushigome, w Edo. Był najmłodszym synem naczelnika Babashity. Po nastaniu okresu Meiji stanowisko naczelnika dzielnicy zostało zlikwidowane i rodzice Kinnosuke popadli w kłopoty finansowe, w wyniku czego oddali syna rodzinie o nazwisku Shiobara. W wieku ośmiu lat został odesłany do domu rodzinnego, ale boleśnie przeżywał samotność niechcianego dziecka. Edukację rozpoczął w szkole podstawowej, gdzie pobierał nauki w tradycji klasyków chińskich. Opanował także japoński martwy język literacki. Po skończeniu szkoły podstawowej uczęszczał do prywatnej szkoły, która również specjalizowała się w nauczaniu klasyków chińskich. Świadomy anachroniczności tego kierunku zainteresował się językiem angielskim. Naukę tego języka rozpoczął w wieku szesnastu lat. Studiował literaturę angielską na Uniwersytecie Cesarskim w Tokio. Po ukończeniu studiów otrzymał posadę nauczyciela w tokijskim liceum (1883 r.). W 1895 r. opuścił Tokio i rozpoczął pracę w szkole średniej w Matsuyama na Sikoku. W 1896 r. przeniósł się do Kumamoto na Kiusiu, gdzie poślubił najstarszą córkę sekretarza Izby Parów – Kyōko. Następnie od 1900 r. kontynuował naukę w Anglii jako stypendysta Ministerstwa Edukacji, po czym w 1903 r. został wykładowcą literatury na macierzystym uniwersytecie (stanowisko to objął po popularnym wówczas Lafcadio Hearnie) oraz nauczycielem w I Liceum Państwowym w Tokio. Pierwszą powieść, Jestem kotem, napisał za namową Kyoshiego Takahamy, poety i redaktora Hototogisu (Kukułka). Pierwsze opowiadanie z cyklu Jestem kotem powstało w 1904 r., ale nie spodobało się ono Takahamie. Po gruntownych zmianach zostało opublikowane na łamach Hototogisu (nazwa magazynu i grupy poetów) w styczniu 1905 r. Natsume nie zamierzał pisać dalszego ciągu, ale Takahama i czytelnicy nakłonili go do kontynuacji. Od 1907 r., po objęciu stanowiska kierownika działu literackiego gazety Asahi Shimbun, poświęcił się wyłącznie twórczości literackiej jako powieściopisarz i eseista, zyskując sławę jednego z najwybitniejszych pisarzy Japonii nowożytnej. Głównym motywem jego dzieł jest samotność człowieka we współczesnym świecie, niemożność znalezienia pełnego zrozumienia nawet u ludzi najbliższych.</dbo:abstract>
+    <dbo:influenced rdf:resource="http://dbpedia.org/resource/Kojin_Karatani" />
+    <dbo:notableWork rdf:resource="http://dbpedia.org/resource/I_Am_a_Cat" />
+    <dbo:notableWork rdf:resource="http://dbpedia.org/resource/Botchan" />
+    <dbo:notableWork rdf:resource="http://dbpedia.org/resource/Kokoro" />
+    <dbp:alt rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Sōseki in 1912</dbp:alt>
+    <dbp:caption rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Sōseki in 1912</dbp:caption>
+    <dbp:genre rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">novels, short stories, poetry</dbp:genre>
+    <dbp:influences rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">stories</dbp:influences>
+    <dbp:nativeName rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">夏目 金之助</dbp:nativeName>
+    <dbp:nativeNameLang rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Japanese</dbp:nativeNameLang>
+    <dbp:occupation rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Writer</dbp:occupation>
+    <dbp:sname rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Natsume Sōseki</dbp:sname>
+    <dbp:sopt rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">w</dbp:sopt>
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Novelist" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Torahiko_Terada">
+    <dbo:influencedBy rdf:resource="http://dbpedia.org/resource/Natsume_Sōseki" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kairo-kō">
+    <dbo:author rdf:resource="http://dbpedia.org/resource/Natsume_Sōseki" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Miner">
+    <dbo:author rdf:resource="http://dbpedia.org/resource/Natsume_Sōseki" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Wayfarer_(novel)">
+    <dbo:author rdf:resource="http://dbpedia.org/resource/Natsume_Sōseki" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nowaki_(novel)">
+    <dbo:author rdf:resource="http://dbpedia.org/resource/Natsume_Sōseki" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tetsuro_Watsuji">
+    <dbo:influencedBy rdf:resource="http://dbpedia.org/resource/Natsume_Sōseki" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Heart_(1955_film)">
+    <dbo:writer rdf:resource="http://dbpedia.org/resource/Natsume_Sōseki" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Souseki_Natsume">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Natsume_Sōseki" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Natume_Soseki">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Natsume_Sōseki" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Soseki_Natume">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Natsume_Sōseki" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Masao_Kume">
+    <dbo:influencedBy rdf:resource="http://dbpedia.org/resource/Natsume_Sōseki" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ten_Nights_of_Dreams">
+    <dbo:author rdf:resource="http://dbpedia.org/resource/Natsume_Sōseki" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kinnosuke_Natsume">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Natsume_Sōseki" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Natsume_Kinnosuke">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Natsume_Sōseki" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Natsume_Souseki">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Natsume_Sōseki" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Natsume_Soseki">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Natsume_Sōseki" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Saneatsu_Mushanokōji">
+    <dbo:influencedBy rdf:resource="http://dbpedia.org/resource/Natsume_Sōseki" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/I_Am_a_Cat">
+    <dbo:author rdf:resource="http://dbpedia.org/resource/Natsume_Sōseki" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Soseki_Natsume">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Natsume_Sōseki" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Morita_Sōhei">
+    <dbo:influencedBy rdf:resource="http://dbpedia.org/resource/Natsume_Sōseki" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Seiichi_Naruse">
+    <dbo:influenced rdf:resource="http://dbpedia.org/resource/Natsume_Sōseki" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/夏目_漱石">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Natsume_Sōseki" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/夏目金之助">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Natsume_Sōseki" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sōseki">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Natsume_Sōseki" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Natume_Sôseki">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Natsume_Sōseki" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/夏目漱石">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Natsume_Sōseki" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Natsume_Sōseki">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Natsume_Sōseki" />
+  </rdf:Description>
+</rdf:RDF>

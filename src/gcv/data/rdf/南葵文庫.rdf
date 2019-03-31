@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:prov="http://www.w3.org/ns/prov#"
+	xmlns:dbpedia-owl="http://dbpedia.org/ontology/"
+	xmlns:dcterms="http://purl.org/dc/terms/"
+	xmlns:prop-ja="http://ja.dbpedia.org/property/"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	xmlns:georss="http://www.georss.org/georss/" >
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/甲州弁">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/南葵文庫" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/南葵文庫">
+    <rdf:type rdf:resource="http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing" />
+    <rdfs:label xml:lang="ja">南葵文庫</rdfs:label>
+    <rdfs:comment xml:lang="ja">南葵文庫（なんきぶんこ）は、紀州徳川家の当主徳川頼倫（日本図書館協会総裁）が設立した私設図書館。</rdfs:comment>
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q10856046" />
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q10856046" />
+    <owl:sameAs rdf:resource="http://ko.dbpedia.org/resource/난키_문고" />
+    <foaf:isPrimaryTopicOf rdf:resource="http://ja.wikipedia.org/wiki/南葵文庫" />
+    <prov:wasDerivedFrom rdf:resource="http://ja.wikipedia.org/wiki/南葵文庫?oldid=52835221" />
+    <dbpedia-owl:abstract xml:lang="ja">南葵文庫（なんきぶんこ）は、紀州徳川家の当主徳川頼倫（日本図書館協会総裁）が設立した私設図書館。</dbpedia-owl:abstract>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://kunishitei.bunka.go.jp/bsys/maindetails.asp?register_id=101&amp;item_id=00007357" />
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.pref.shizuoka.jp/soumu/so-130a/index_019.html" />
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://kenpakunews.blog120.fc2.com/blog-entry-273.html" />
+    <dbpedia-owl:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">554777</dbpedia-owl:wikiPageID>
+    <dbpedia-owl:wikiPageLength rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">915</dbpedia-owl:wikiPageLength>
+    <dbpedia-owl:wikiPageOutDegree rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">23</dbpedia-owl:wikiPageOutDegree>
+    <dbpedia-owl:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">52835221</dbpedia-owl:wikiPageRevisionID>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/2008年" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/大正" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/1923年" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/関東大震災" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/登録有形文化財" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/港区_(東京都)" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/明治" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/熱海市" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/Category:静岡県の登録有形文化財" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/Category:明治時代の建築" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/Category:東京大学" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/紀州徳川家" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/1902年" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/東京大学" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/徳川頼倫" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/平成" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/東京都" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/Category:西洋館" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/日本図書館協会" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/図書館" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/Category:移築された建築物" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/Category:文庫" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/東京大学総合図書館" />
+    <dcterms:subject rdf:resource="http://ja.dbpedia.org/resource/Category:明治時代の建築" />
+    <dcterms:subject rdf:resource="http://ja.dbpedia.org/resource/Category:東京大学" />
+    <dcterms:subject rdf:resource="http://ja.dbpedia.org/resource/Category:移築された建築物" />
+    <dcterms:subject rdf:resource="http://ja.dbpedia.org/resource/Category:静岡県の登録有形文化財" />
+    <dcterms:subject rdf:resource="http://ja.dbpedia.org/resource/Category:西洋館" />
+    <dcterms:subject rdf:resource="http://ja.dbpedia.org/resource/Category:文庫" />
+    <prop-ja:wikiPageUsesTemplate rdf:resource="http://ja.dbpedia.org/resource/Template:Coord" />
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#float">35.1128</geo:lat>
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#float">139.088</geo:long>
+    <georss:point>35.112769444444446 139.087525</georss:point>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/クラシックホテル">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/南葵文庫" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/大島本">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/南葵文庫" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/戸川安宅">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/南葵文庫" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/阿仏尼本源氏物語">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/南葵文庫" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/甲南女子大学本源氏物語">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/南葵文庫" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/東京大学総合図書館">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/南葵文庫" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/鼠璞十種">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/南葵文庫" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/文庫">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/南葵文庫" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/松浦武四郎">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/南葵文庫" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/大和物語">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/南葵文庫" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/小泉信吉">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/南葵文庫" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/徳川頼貞">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/南葵文庫" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/徳川頼倫">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/南葵文庫" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/三宅米吉">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/南葵文庫" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/蔵書印">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/南葵文庫" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/飯塚西湖">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/南葵文庫" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.wikipedia.org/wiki/南葵文庫">
+    <foaf:primaryTopic rdf:resource="http://ja.dbpedia.org/resource/南葵文庫" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/老壮会">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/南葵文庫" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/data/南葵文庫.rdf">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document" />
+    <foaf:primaryTopic rdf:resource="http://ja.dbpedia.org/resource/南葵文庫" />
+  </rdf:Description>
+</rdf:RDF>

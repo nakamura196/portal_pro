@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:dct="http://purl.org/dc/terms/"
+	xmlns:dbo="http://dbpedia.org/ontology/"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:prov="http://www.w3.org/ns/prov#"
+	xmlns:georss="http://www.georss.org/georss/" >
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Waseda_University_Library">
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Whole100003553" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoGeoEntity" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoPermanentlyLocatedEntity" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Structure104341686" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Building102913152" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Artifact100021939" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatLibraryBuildingsCompletedIn1991" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PhysicalEntity100001930" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Object100002684" />
+    <rdf:type rdf:resource="http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing" />
+    <rdfs:label xml:lang="ja">早稲田大学図書館</rdfs:label>
+    <rdfs:label xml:lang="en">Waseda University Library</rdfs:label>
+    <rdfs:comment xml:lang="ja">早稲田大学図書館（わせだだいがくとしょかん）は、早稲田大学が設置している図書館および関連施設の総称。大学図書館としては日本で最大級の規模を誇る。1882年に設立され、現在では508万の蔵書と4万6000の定期刊行物を保有する。</rdfs:comment>
+    <rdfs:comment xml:lang="en">The libraries or library of Waseda University (早稲田大学図書館; Waseda Daigaku Toshokan) are collectively one of the largest libraries in Japan. Established in 1882, they currently hold some 4.5 million volumes and 46,000 serials.</rdfs:comment>
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q7971387" />
+    <owl:sameAs rdf:resource="http://yago-knowledge.org/resource/Waseda_University_Library" />
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q7971387" />
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.0860bs" />
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Waseda_University_Library" />
+    <owl:sameAs rdf:resource="http://ja.dbpedia.org/resource/早稲田大学図書館" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Libraries_established_in_1882" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Academic_libraries_in_Japan" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Waseda_University" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:1882_establishments_in_Japan" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Library_buildings_completed_in_1991" />
+    <dbo:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2839163</dbo:wikiPageID>
+    <dbo:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">687069838</dbo:wikiPageRevisionID>
+    <dbo:wikiPageExternalLink rdf:resource="http://www.wul.waseda.ac.jp/index.html" />
+    <dbo:wikiPageExternalLink rdf:resource="http://wine.wul.waseda.ac.jp/search/" />
+    <dbo:wikiPageExternalLink rdf:resource="http://library.columbia.edu/news/libraries/2002/20020620_waseda.html" />
+    <dbo:wikiPageExternalLink rdf:resource="https://www.academia.edu/2641521/Western_and_Southeast_Asian_Language_Materials_for_the_Study_of_Indonesia_at_Waseda_University" />
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#float">35.709</geo:lat>
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#float">139.719</geo:long>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Waseda_University_Library" />
+    <geo:geometry rdf:datatype="http://www.openlinksw.com/schemas/virtrdf#Geometry">POINT(139.71885681152 35.708995819092)</geo:geometry>
+    <prov:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Waseda_University_Library?oldid=687069838" />
+    <dbo:abstract xml:lang="ja">早稲田大学図書館（わせだだいがくとしょかん）は、早稲田大学が設置している図書館および関連施設の総称。大学図書館としては日本で最大級の規模を誇る。1882年に設立され、現在では508万の蔵書と4万6000の定期刊行物を保有する。</dbo:abstract>
+    <dbo:abstract xml:lang="en">The libraries or library of Waseda University (早稲田大学図書館; Waseda Daigaku Toshokan) are collectively one of the largest libraries in Japan. Established in 1882, they currently hold some 4.5 million volumes and 46,000 serials.</dbo:abstract>
+    <georss:point>35.70899444444444 139.71885555555556</georss:point>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Waseda_University_Library">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Waseda_University_Library" />
+  </rdf:Description>
+</rdf:RDF>

@@ -1,0 +1,504 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:dbo="http://dbpedia.org/ontology/"
+	xmlns:dbp="http://dbpedia.org/property/"
+	xmlns:dct="http://purl.org/dc/terms/"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	xmlns:prov="http://www.w3.org/ns/prov#"
+	xmlns:ns9="http://dbpedia.org/ontology/PopulatedPlace/"
+	xmlns:georss="http://www.georss.org/georss/"
+	xmlns:ns11="http://purl.org/linguistics/gold/" >
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tsutomu_Minakami">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Fukui_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Washi_Dam">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Fukui_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mikuni_Awara_Line">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Fukui_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Katsuyama_Eiheiji_Line">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Fukui_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Echizen_Railway">
+    <dbo:locationCity rdf:resource="http://dbpedia.org/resource/Fukui_Prefecture" />
+    <dbo:regionServed rdf:resource="http://dbpedia.org/resource/Fukui_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Fukui_Prefectural_School_for_the_Deaf">
+    <dbp:freeText rdf:resource="http://dbpedia.org/resource/Fukui_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Fukui_Prefectural_University">
+    <dbo:state rdf:resource="http://dbpedia.org/resource/Fukui_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Fukui_Railway">
+    <dbo:locationCity rdf:resource="http://dbpedia.org/resource/Fukui_Prefecture" />
+    <dbo:regionServed rdf:resource="http://dbpedia.org/resource/Fukui_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Fukui_University_of_Technology">
+    <dbo:state rdf:resource="http://dbpedia.org/resource/Fukui_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jessica_Michibata">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Fukui_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jin-ai_University">
+    <dbo:state rdf:resource="http://dbpedia.org/resource/Fukui_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/University_of_Fukui">
+    <dbo:state rdf:resource="http://dbpedia.org/resource/Fukui_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Fukui_Airport">
+    <dbo:operator rdf:resource="http://dbpedia.org/resource/Fukui_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Wakasa_Wan_Quasi-National_Park">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Fukui_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yasuharu_Nakajima">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Fukui_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/K-Ske_Hasegawa">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Fukui_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Masakazu_Washida">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Fukui_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Fukui">
+    <dbo:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/Fukui_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Fukui,_Fukui">
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Fukui_Prefecture" />
+    <dbp:prefecture rdf:resource="http://dbpedia.org/resource/Fukui_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Wakasa,_Fukui">
+    <dbp:prefecture rdf:resource="http://dbpedia.org/resource/Fukui_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Asuwagawa_Dam">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Fukui_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Futatsuya-Tōshukō_Dam">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Fukui_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Itoshiro_Dam">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Fukui_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Albis_(store)">
+    <dbo:regionServed rdf:resource="http://dbpedia.org/resource/Fukui_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nishizō_Tsukahara">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Fukui_Prefecture" />
+    <dbp:birthPlace rdf:resource="http://dbpedia.org/resource/Fukui_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Etsumi-Hoku_Line">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Fukui_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Makoto_Kimura">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Fukui_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mamiko_Takai">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Fukui_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hiroshi_Itsuki">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Fukui_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Katsuyama,_Fukui">
+    <dbp:prefecture rdf:resource="http://dbpedia.org/resource/Fukui_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mihama,_Fukui">
+    <dbp:prefecture rdf:resource="http://dbpedia.org/resource/Fukui_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mount_Haku">
+    <dbo:locatedInArea rdf:resource="http://dbpedia.org/resource/Fukui_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Obama,_Fukui">
+    <dbp:prefecture rdf:resource="http://dbpedia.org/resource/Fukui_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Obama_Line">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Fukui_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tsutomu_Sakuma">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Fukui_Prefecture" />
+    <dbp:birthPlace rdf:resource="http://dbpedia.org/resource/Fukui_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mount_Kanmuri_(Gifu,_Fukui)">
+    <dbo:locatedInArea rdf:resource="http://dbpedia.org/resource/Fukui_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Aizō_Morikawa">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Fukui_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kumokawa_Dam">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Fukui_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kuzuryu_Dam">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Fukui_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Managawa_Dam">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Fukui_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Masutani_Dam">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Fukui_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sasogawa_Dam">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Fukui_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yanbara_Dam">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Fukui_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mitsuru_Hasegawa">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Fukui_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yuki_Natsume">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Fukui_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Koshiro_Ueki">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Fukui_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Eihei-ji">
+    <dbp:address rdf:resource="http://dbpedia.org/resource/Fukui_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Monju_Nuclear_Power_Plant">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Fukui_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hokuriku_Electric_Power_Company">
+    <dbo:regionServed rdf:resource="http://dbpedia.org/resource/Fukui_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Issei_Nishikawa">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Fukui_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Takahama_Nuclear_Power_Plant">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Fukui_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jun_Takami">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Fukui_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Fukui-ken">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Fukui_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Chikahiko_Koizumi">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Fukui_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Fukui_Railway_Fukubu_Line">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Fukui_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Daitetsu_Tadamitsu">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Fukui_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Echizen,_Fukui">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Fukui_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Echizen,_Fukui_(town)">
+    <dbp:prefecture rdf:resource="http://dbpedia.org/resource/Fukui_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sakai,_Fukui">
+    <dbp:prefecture rdf:resource="http://dbpedia.org/resource/Fukui_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Fukui_Prefectural_Dinosaur_Museum">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Fukui_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Fukui_Fine_Arts_Museum">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Fukui_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mikiyo_Tsuda">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Fukui_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yoshito_Shintani">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Fukui_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Fukui_Prefecture">
+    <rdf:type rdf:resource="http://umbel.org/umbel/rc/PopulatedPlace" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q3455524" />
+    <rdf:type rdf:resource="http://umbel.org/umbel/rc/Location_Underspecified" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoGeoEntity" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Region108630985" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoPermanentlyLocatedEntity" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Location100027167" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/District108552138" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Region" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Prefecture108626947" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/AdministrativeRegion" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/AdministrativeDistrict108491826" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/PopulatedPlace" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Place" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Location" />
+    <rdf:type rdf:resource="http://schema.org/Place" />
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing" />
+    <rdf:type rdf:resource="http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing" />
+    <rdf:type rdf:resource="http://schema.org/AdministrativeArea" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoLegalActorGeo" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Object100002684" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PhysicalEntity100001930" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatPrefecturesOfJapan" />
+    <rdfs:label xml:lang="ja">福井県</rdfs:label>
+    <rdfs:label xml:lang="it">Prefettura di Fukui</rdfs:label>
+    <rdfs:label xml:lang="zh">福井縣</rdfs:label>
+    <rdfs:label xml:lang="pt">Fukui</rdfs:label>
+    <rdfs:label xml:lang="ar">فوكوي (محافظة)</rdfs:label>
+    <rdfs:label xml:lang="nl">Fukui (prefectuur)</rdfs:label>
+    <rdfs:label xml:lang="fr">Préfecture de Fukui</rdfs:label>
+    <rdfs:label xml:lang="ru">Фукуи (префектура)</rdfs:label>
+    <rdfs:label xml:lang="es">Prefectura de Fukui</rdfs:label>
+    <rdfs:label xml:lang="en">Fukui Prefecture</rdfs:label>
+    <rdfs:label xml:lang="pl">Prefektura Fukui</rdfs:label>
+    <rdfs:label xml:lang="de">Präfektur Fukui</rdfs:label>
+    <rdfs:comment xml:lang="en">Fukui Prefecture (福井県 Fukui-ken) is a prefecture of Japan located in the Chūbu region on Honshū island. The capital is the city of Fukui.</rdfs:comment>
+    <rdfs:comment xml:lang="ru">Фукуи (яп. 福井県 Фукуи-кэн) — префектура, расположенная в регионе Тюбу на острове Хонсю, Япония. Административный центр префектуры — город Фукуи. Площадь префектуры составляет 4189,88 км², население — 789 994 человека (1 июля 2014), плотность населения — 188,55 чел./км².</rdfs:comment>
+    <rdfs:comment xml:lang="fr">Fukui (福井県, Fukui-ken) est une préfecture du Japon située au centre de Honshū.</rdfs:comment>
+    <rdfs:comment xml:lang="it">Fukui (福井県 Fukui-ken?) è una prefettura giapponese di 821.589 abitanti (2005) con capoluogo a Fukui. Si trova nella regione di Chubu sull&#39;isola di Honshū.</rdfs:comment>
+    <rdfs:comment xml:lang="pt">Fukui (福井県 ふくいけん, Fukui-ken?) é uma província do Japão localizada na região de Chubu, na ilha de Honshu. A sua capital é a cidade de Fukui.</rdfs:comment>
+    <rdfs:comment xml:lang="ja">福井県（ふくいけん）は、日本海や若狭湾に面する、日本の県の一つである。県庁所在地は福井市。</rdfs:comment>
+    <rdfs:comment xml:lang="es">La prefectura de Fukui (福井県, ふくいけん Fukui-ken?) se encuentra en la región de Chūbu en la isla de Honshū, Japón. Su capital es la ciudad de Fukui.</rdfs:comment>
+    <rdfs:comment xml:lang="pl">Prefektura Fukui (jap. 福井県 Fukui-ken) – prefektura znajdująca się w regionie Chūbu w Japonii. Jej stolicą jest miasto Fukui.</rdfs:comment>
+    <rdfs:comment xml:lang="zh">福井縣（日语：福井県／ふくいけん Fukui ken */?）位處日本中部的北陸地方，面向若狹灣，縣廳所在地為福井市。福井縣可分為嶺北和嶺南兩塊地區。</rdfs:comment>
+    <rdfs:comment xml:lang="nl">De prefectuur Fukui (福井県, Fukui-ken) is een Japanse prefectuur in de regio Chubu op het eiland Honshu in Japan. De hoofdstad is de gelijknamige stad Fukui.</rdfs:comment>
+    <rdfs:comment xml:lang="ar">25بك المحتوى هنا ينقصه الاستشهاد بمصادر. يرجى إيراد مصادر موثوق بها. أي معلومات غير موثقة يمكن التشكيك بها وإزالتها. (مارس 2016) محافظة فوكوي (باليابانية: 福井県, فوكوي-كين) هي إحدى محافظات اليابان تقع في منطقة تشوبو في جزيرة هونشو على ساحل بحر اليابان. عاصمتها مدينة فوكوي.</rdfs:comment>
+    <rdfs:comment xml:lang="de">Die Präfektur Fukui (jap. 福井県, Fukui-ken) ist eine der Präfekturen Japans und liegt am Japanischen Meer in der Mitte der japanischen Hauptinsel Honshū. Sie grenzt an die Präfekturen Ishikawa (Norden), Gifu (Osten), Shiga und Kyōto (Süden). Der berühmteste Tempel und die wahrscheinlich wichtigste Sehenswürdigkeit der Provinz ist der Tempel Eihei-ji, der Haupttempel der Sōtō-shū, einer der drei wichtigsten japanischen Schulen des Zen-Buddhismus.</rdfs:comment>
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Historic_Sites_of_Fukui_Prefecture" />
+    <owl:sameAs rdf:resource="http://ja.dbpedia.org/resource/福井県" />
+    <owl:sameAs rdf:resource="http://eu.dbpedia.org/resource/Fukui_(prefetura)" />
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Fukui_Prefecture" />
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q133879" />
+    <owl:sameAs rdf:resource="http://sws.geonames.org/1863983/" />
+    <owl:sameAs rdf:resource="http://fr.dbpedia.org/resource/Préfecture_de_Fukui" />
+    <owl:sameAs rdf:resource="http://pl.dbpedia.org/resource/Prefektura_Fukui" />
+    <owl:sameAs rdf:resource="http://ko.dbpedia.org/resource/후쿠이_현" />
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q133879" />
+    <owl:sameAs rdf:resource="http://es.dbpedia.org/resource/Prefectura_de_Fukui" />
+    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/Präfektur_Fukui" />
+    <owl:sameAs rdf:resource="http://id.dbpedia.org/resource/Prefektur_Fukui" />
+    <owl:sameAs rdf:resource="http://pt.dbpedia.org/resource/Fukui" />
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.01f0dk" />
+    <owl:sameAs rdf:resource="http://yago-knowledge.org/resource/Fukui_Prefecture" />
+    <owl:sameAs rdf:resource="http://it.dbpedia.org/resource/Prefettura_di_Fukui" />
+    <owl:sameAs rdf:resource="http://cs.dbpedia.org/resource/Prefektura_Fukui" />
+    <owl:sameAs rdf:resource="http://nl.dbpedia.org/resource/Fukui_(prefectuur)" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Fukui_Prefecture" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Hokuriku_region" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Prefectures_of_Japan" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Chūbu_region" />
+    <dbo:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">211611</dbo:wikiPageID>
+    <dbo:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">744119187</dbo:wikiPageRevisionID>
+    <dbo:wikiPageExternalLink rdf:resource="http://www.pref.fukui.jp/english/index.html" />
+    <dbo:wikiPageExternalLink rdf:resource="https://books.google.com/books?id=p2QnPijAEmEC&amp;client=firefox-a" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.kougei.or.jp/english/crafts/1004/f1004.html" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.worldcat.org/oclc/58053128?referer=di&amp;ht=edition" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.pref.fukui.jp/english/" />
+    <foaf:name xml:lang="en">Fukui</foaf:name>
+    <foaf:homepage rdf:resource="http://www.pref.fukui.jp/english/" />
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#float">35.9833</geo:lat>
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#float">136.183</geo:long>
+    <foaf:depiction rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Flag_of_Fukui_Prefecture.svg" />
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Fukui_Prefecture" />
+    <geo:geometry rdf:datatype="http://www.openlinksw.com/schemas/virtrdf#Geometry">POINT(136.18333435059 35.983333587646)</geo:geometry>
+    <dbo:thumbnail rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Flag_of_Fukui_Prefecture.svg?width=300" />
+    <prov:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Fukui_Prefecture?oldid=744119187" />
+    <ns9:areaTotal rdf:datatype="http://dbpedia.org/datatype/squareKilometre">4188.99</ns9:areaTotal>
+    <ns9:populationDensity rdf:datatype="http://dbpedia.org/datatype/inhabitantsPerSquareKilometre">189.93</ns9:populationDensity>
+    <dbo:abstract xml:lang="ja">福井県（ふくいけん）は、日本海や若狭湾に面する、日本の県の一つである。県庁所在地は福井市。</dbo:abstract>
+    <dbo:abstract xml:lang="ar">25بك المحتوى هنا ينقصه الاستشهاد بمصادر. يرجى إيراد مصادر موثوق بها. أي معلومات غير موثقة يمكن التشكيك بها وإزالتها. (مارس 2016) محافظة فوكوي (باليابانية: 福井県, فوكوي-كين) هي إحدى محافظات اليابان تقع في منطقة تشوبو في جزيرة هونشو على ساحل بحر اليابان. عاصمتها مدينة فوكوي.</dbo:abstract>
+    <dbo:abstract xml:lang="fr">Fukui (福井県, Fukui-ken) est une préfecture du Japon située au centre de Honshū.</dbo:abstract>
+    <dbo:abstract xml:lang="en">Fukui Prefecture (福井県 Fukui-ken) is a prefecture of Japan located in the Chūbu region on Honshū island. The capital is the city of Fukui.</dbo:abstract>
+    <dbo:abstract xml:lang="pl">Prefektura Fukui (jap. 福井県 Fukui-ken) – prefektura znajdująca się w regionie Chūbu w Japonii. Jej stolicą jest miasto Fukui.</dbo:abstract>
+    <dbo:abstract xml:lang="de">Die Präfektur Fukui (jap. 福井県, Fukui-ken) ist eine der Präfekturen Japans und liegt am Japanischen Meer in der Mitte der japanischen Hauptinsel Honshū. Sie grenzt an die Präfekturen Ishikawa (Norden), Gifu (Osten), Shiga und Kyōto (Süden). Die Präfektur ist bergig und klimatisch von Regenfällen, hoher Luftfeuchtigkeit und starken Schneefällen geprägt. Wie archäologische Spuren beweisen, gab es in der Fukui schon in der vorgeschichtlichen Zeit Siedlungen. Der Sitz der Präfekturverwaltung, die gleichnamige Stadt Fukui, wurde allerdings erst im 16. Jahrhundert gegründet. Vor der Meiji-Restauration bestand die Provinz aus den beiden Provinzen Echizen und Wakasa. Die beiden Provinzen waren zum größten Teil im Besitz großer Tempel. Der berühmteste Tempel und die wahrscheinlich wichtigste Sehenswürdigkeit der Provinz ist der Tempel Eihei-ji, der Haupttempel der Sōtō-shū, einer der drei wichtigsten japanischen Schulen des Zen-Buddhismus.</dbo:abstract>
+    <dbo:abstract xml:lang="it">Fukui (福井県 Fukui-ken?) è una prefettura giapponese di 821.589 abitanti (2005) con capoluogo a Fukui. Si trova nella regione di Chubu sull&#39;isola di Honshū.</dbo:abstract>
+    <dbo:abstract xml:lang="ru">Фукуи (яп. 福井県 Фукуи-кэн) — префектура, расположенная в регионе Тюбу на острове Хонсю, Япония. Административный центр префектуры — город Фукуи. Площадь префектуры составляет 4189,88 км², население — 789 994 человека (1 июля 2014), плотность населения — 188,55 чел./км².</dbo:abstract>
+    <dbo:abstract xml:lang="es">La prefectura de Fukui (福井県, ふくいけん Fukui-ken?) se encuentra en la región de Chūbu en la isla de Honshū, Japón. Su capital es la ciudad de Fukui.</dbo:abstract>
+    <dbo:abstract xml:lang="zh">福井縣（日语：福井県／ふくいけん Fukui ken */?）位處日本中部的北陸地方，面向若狹灣，縣廳所在地為福井市。福井縣可分為嶺北和嶺南兩塊地區。</dbo:abstract>
+    <dbo:abstract xml:lang="nl">De prefectuur Fukui (福井県, Fukui-ken) is een Japanse prefectuur in de regio Chubu op het eiland Honshu in Japan. De hoofdstad is de gelijknamige stad Fukui.</dbo:abstract>
+    <dbo:abstract xml:lang="pt">Fukui (福井県 ふくいけん, Fukui-ken?) é uma província do Japão localizada na região de Chubu, na ilha de Honshu. A sua capital é a cidade de Fukui.</dbo:abstract>
+    <dbo:areaTotal rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.18899e+09</dbo:areaTotal>
+    <dbo:capital rdf:resource="http://dbpedia.org/resource/Fukui,_Fukui" />
+    <dbo:country rdf:resource="http://dbpedia.org/resource/Japan" />
+    <dbo:populationDensity rdf:datatype="http://www.w3.org/2001/XMLSchema#double">189.93</dbo:populationDensity>
+    <dbo:populationTotal rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">795437</dbo:populationTotal>
+    <dbp:island rdf:resource="http://dbpedia.org/resource/Honshū" />
+    <dbp:municipalities rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">17</dbp:municipalities>
+    <dbp:popdate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2013-06-01</dbp:popdate>
+    <!--
+    <p: xmlns:p="http://dbpedia.org/property/rōmaji" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Fukui-ken</p:>
+    -->
+    <georss:point>35.983333333333334 136.18333333333334</georss:point>
+    <dbp:arearank rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">34</dbp:arearank>
+    <dbp:bird rdf:resource="http://dbpedia.org/resource/Thrush_(bird)" />
+    <dbp:districts rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">7</dbp:districts>
+    <dbp:flag rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Flag of Fukui Prefecture.svg</dbp:flag>
+    <dbp:flower rdf:resource="http://dbpedia.org/resource/Narcissus_(genus)" />
+    <dbp:governor rdf:resource="http://dbpedia.org/resource/Issei_Nishikawa" />
+    <dbp:isocode rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">JP-18</dbp:isocode>
+    <dbp:pcwater rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.2</dbp:pcwater>
+    <dbp:poprank rdf:datatype="http://dbpedia.org/datatype/rod">43.0</dbp:poprank>
+    <dbp:region rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Chūbu</dbp:region>
+    <dbp:seal rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Emblem of Fukui prefecture.svg</dbp:seal>
+    <dbp:tree rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Pine tree</dbp:tree>
+    <dbp:japanesename rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">福井県</dbp:japanesename>
+    <ns11:hypernym rdf:resource="http://dbpedia.org/resource/Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Akinori_Kosaka">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Fukui_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hideaki_Tominaga">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Fukui_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Shimizu_Tsunenori">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Fukui_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Takako_Saito">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Fukui_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Masakazu_Katsura">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Fukui_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sabae,_Fukui">
+    <dbp:prefecture rdf:resource="http://dbpedia.org/resource/Fukui_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ōno,_Fukui">
+    <dbp:prefecture rdf:resource="http://dbpedia.org/resource/Fukui_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Awara,_Fukui">
+    <dbp:prefecture rdf:resource="http://dbpedia.org/resource/Fukui_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Eiheiji,_Fukui">
+    <dbp:prefecture rdf:resource="http://dbpedia.org/resource/Fukui_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kansai_Electric_Power_Company">
+    <dbo:regionServed rdf:resource="http://dbpedia.org/resource/Fukui_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Minamiechizen,_Fukui">
+    <dbp:prefecture rdf:resource="http://dbpedia.org/resource/Fukui_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ōi,_Fukui">
+    <dbp:prefecture rdf:resource="http://dbpedia.org/resource/Fukui_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tsuruga,_Fukui">
+    <dbp:prefecture rdf:resource="http://dbpedia.org/resource/Fukui_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Angelica_Michibata">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Fukui_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hisako_Hibi">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Fukui_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ōno_Castle_(Echizen_Province)">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Fukui_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Fukui_prefecture">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Fukui_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jukichi_Uno">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Fukui_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yasutaro_Koide">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Fukui_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Osamu_Ochiai">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Fukui_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Akane_Yamaguchi">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Fukui_Prefecture" />
+    <dbp:birthPlace rdf:resource="http://dbpedia.org/resource/Fukui_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ikeda,_Fukui">
+    <dbp:prefecture rdf:resource="http://dbpedia.org/resource/Fukui_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kazuhiko_Masada">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Fukui_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sasaki_Kojirō">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Fukui_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Takahama,_Fukui">
+    <dbp:prefecture rdf:resource="http://dbpedia.org/resource/Fukui_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Fukui_Prefectural_Museum_of_Cultural_History">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Fukui_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hukui_prefecture">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Fukui_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mihama_Nuclear_Power_Plant">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Fukui_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ōi_Nuclear_Power_Plant">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Fukui_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Myōtsū-ji">
+    <dbp:address rdf:resource="http://dbpedia.org/resource/Fukui_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mount_Nōgōhaku">
+    <dbo:locatedInArea rdf:resource="http://dbpedia.org/resource/Fukui_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Seiichiro_Okuno">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Fukui_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Komatsu_Airport">
+    <dbo:city rdf:resource="http://dbpedia.org/resource/Fukui_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Harmony_Hall_Fukui">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Fukui_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Chika_Anzai">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Fukui_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Genichiro_Tenryu">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Fukui_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Fukui_Television_Broadcasting__Co.,_Ltd.福井テレビジョン放送__1">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Fukui_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Takeo_Okumura">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Fukui_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Youka_Nitta">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Fukui_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kunihiro_Shimizu">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Fukui_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Shōta_Aoi">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Fukui_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kiyoshi_Hasegawa_(admiral)">
+    <dbp:birthPlace rdf:resource="http://dbpedia.org/resource/Fukui_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hokuriku_Main_Line">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Fukui_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Echizen-Kaga_Kaigan_Quasi-National_Park">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Fukui_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Fukui_Prefectural_Stadium">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Fukui_Prefecture" />
+    <dbo:operator rdf:resource="http://dbpedia.org/resource/Fukui_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Okuetsu_Kōgen_Prefectural_Natural_Park">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Fukui_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ōtarō_Maijō">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Fukui_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Fukui_Broadcasting__Corporation福井放送株式会社__1">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Fukui_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jun_Naito">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Fukui_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Masaru_Hirayama">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Fukui_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Masashi_Kitamura">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Fukui_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/JP-18">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Fukui_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/福井県">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Fukui_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hukui_Prefecture">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Fukui_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Fukui_Prefecture">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Fukui_Prefecture" />
+  </rdf:Description>
+</rdf:RDF>

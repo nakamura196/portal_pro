@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:dbpedia-owl="http://dbpedia.org/ontology/" >
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Cité_internationale_universitaire_de_Paris">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Maison_du_Japon" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Maison_du_Japon">
+    <owl:sameAs rdf:resource="http://fr.dbpedia.org/resource/Maison_du_Japon" />
+  </rdf:Description>
+</rdf:RDF>

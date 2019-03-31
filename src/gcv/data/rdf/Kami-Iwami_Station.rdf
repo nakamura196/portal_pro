@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:dct="http://purl.org/dc/terms/"
+	xmlns:dbo="http://dbpedia.org/ontology/"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:prov="http://www.w3.org/ns/prov#"
+	xmlns:georss="http://www.georss.org/georss/"
+	xmlns:dbp="http://dbpedia.org/property/"
+	xmlns:ns10="http://purl.org/linguistics/gold/" >
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kami-Iwami_Station">
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Terminal104412901" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/RailwayStation104049098" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatRailwayStationsInTottoriPrefecture" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Facility103315023" />
+    <rdf:type rdf:resource="http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Whole100003553" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Object100002684" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Station104306080" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PhysicalEntity100001930" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Station" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Artifact100021939" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoGeoEntity" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoPermanentlyLocatedEntity" />
+    <rdfs:label xml:lang="en">Kami-Iwami Station</rdfs:label>
+    <rdfs:label xml:lang="ja">上石見駅</rdfs:label>
+    <rdfs:comment xml:lang="en">Kami-Iwami Station (上石見駅 Kami-Iwami-eki) is a train station in Nichinan, Tottori Prefecture, Japan.</rdfs:comment>
+    <rdfs:comment xml:lang="ja">上石見駅（かみいわみえき）は、鳥取県日野郡日南町中石見字寺ノ前にある西日本旅客鉄道（JR西日本）伯備線の駅である。伯備線の駅の中で最も標高が高いことから、「にちなん高原の駅」との愛称を持つ。 伯備線において最も南にある米子支社管内の駅であり、隣の新郷駅からは岡山支社の管轄に変わる（営業キロ上の境界は新郷駅）。ただし、新郷駅を跨ぐ列車については米子支社側の乗務員が新見駅まで運行を担当する。</rdfs:comment>
+    <owl:sameAs rdf:resource="http://ko.dbpedia.org/resource/가미이와미_역" />
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.04gqr2s" />
+    <owl:sameAs rdf:resource="http://yago-knowledge.org/resource/Kami-Iwami_Station" />
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q6357148" />
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Kami-Iwami_Station" />
+    <owl:sameAs rdf:resource="http://ja.dbpedia.org/resource/上石見駅" />
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q6357148" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Railway_stations_in_Tottori_Prefecture" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Hakubi_Line" />
+    <dbo:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">18740482</dbo:wikiPageID>
+    <dbo:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">545389100</dbo:wikiPageRevisionID>
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#float">35.1128</geo:lat>
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#float">133.351</geo:long>
+    <foaf:depiction rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/JRW_kamiiwami_sta.jpg" />
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Kami-Iwami_Station" />
+    <geo:geometry rdf:datatype="http://www.openlinksw.com/schemas/virtrdf#Geometry">POINT(133.35119628906 35.112800598145)</geo:geometry>
+    <dbo:thumbnail rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/JRW_kamiiwami_sta.jpg?width=300" />
+    <prov:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Kami-Iwami_Station?oldid=545389100" />
+    <dbo:abstract xml:lang="ja">上石見駅（かみいわみえき）は、鳥取県日野郡日南町中石見字寺ノ前にある西日本旅客鉄道（JR西日本）伯備線の駅である。伯備線の駅の中で最も標高が高いことから、「にちなん高原の駅」との愛称を持つ。 伯備線において最も南にある米子支社管内の駅であり、隣の新郷駅からは岡山支社の管轄に変わる（営業キロ上の境界は新郷駅）。ただし、新郷駅を跨ぐ列車については米子支社側の乗務員が新見駅まで運行を担当する。</dbo:abstract>
+    <dbo:abstract xml:lang="en">Kami-Iwami Station (上石見駅 Kami-Iwami-eki) is a train station in Nichinan, Tottori Prefecture, Japan.</dbo:abstract>
+    <georss:point>35.1128 133.3512</georss:point>
+    <dbp:col rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">#F15A22</dbp:col>
+    <dbp:f rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">b</dbp:f>
+    <dbp:f rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">w</dbp:f>
+    <dbp:service rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">-</dbp:service>
+    <dbp:route rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Hakubi Line</dbp:route>
+    <ns10:hypernym rdf:resource="http://dbpedia.org/resource/Station" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Kami-Iwami_Station">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Kami-Iwami_Station" />
+  </rdf:Description>
+</rdf:RDF>

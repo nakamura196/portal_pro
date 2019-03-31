@@ -1,0 +1,410 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:prov="http://www.w3.org/ns/prov#"
+	xmlns:dbpedia-owl="http://dbpedia.org/ontology/"
+	xmlns:dcterms="http://purl.org/dc/terms/"
+	xmlns:prop-ja="http://ja.dbpedia.org/property/" >
+  <rdf:Description rdf:about="http://ja.dbpedia.org/data/日本医学会.rdf">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document" />
+    <foaf:primaryTopic rdf:resource="http://ja.dbpedia.org/resource/日本医学会" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/日本医史学会">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/日本医学会" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.wikipedia.org/wiki/日本医学会">
+    <foaf:primaryTopic rdf:resource="http://ja.dbpedia.org/resource/日本医学会" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/御用学者">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/日本医学会" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/日本ウイルス学会">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/日本医学会" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/日本医真菌学会">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/日本医学会" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/日本癌治療学会">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/日本医学会" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/飯島宗一">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/日本医学会" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/田宮猛雄">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/日本医学会" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/筑波大学附属小学校">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/日本医学会" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/松本信一">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/日本医学会" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/日本口腔科学会">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/日本医学会" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/日本東洋医学会">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/日本医学会" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/日本の記念切手一覧">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/日本医学会" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/日本コンベンションサービス">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/日本医学会" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/日本精神神経学会">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/日本医学会" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/日本臨床細胞学会">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/日本医学会" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/栄養学">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/日本医学会" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/日本医学会">
+    <rdfs:label xml:lang="ja">日本医学会</rdfs:label>
+    <rdfs:comment xml:lang="ja">日本医学会（にほんいがっかい）は、日本医師会の下に設置された学会。「医学に関する科学および技術の研究促進を図り、医学および医療の水準の向上に寄与する」ことを目的とし、総会やシンポジウムの開催等を行っている。下部学会でありながら、非常に古い歴史をもっている。1902年（明治35年）、16分科に約1,700名が参加して開催された「第1回日本聯合医学会」を起源とする。第3回以降「日本医学会」と改称し、以後、終戦直後を除いて4年毎に開催されている。現在、常設化され日本医師会の一部としての位置づけがなされ、122分科会を擁しているが、今後のあり方について協議されている。</rdfs:comment>
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q11507437" />
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q11507437" />
+    <foaf:isPrimaryTopicOf rdf:resource="http://ja.wikipedia.org/wiki/日本医学会" />
+    <prov:wasDerivedFrom rdf:resource="http://ja.wikipedia.org/wiki/日本医学会?oldid=54217513" />
+    <dbpedia-owl:abstract xml:lang="ja">日本医学会（にほんいがっかい）は、日本医師会の下に設置された学会。「医学に関する科学および技術の研究促進を図り、医学および医療の水準の向上に寄与する」ことを目的とし、総会やシンポジウムの開催等を行っている。下部学会でありながら、非常に古い歴史をもっている。1902年（明治35年）、16分科に約1,700名が参加して開催された「第1回日本聯合医学会」を起源とする。第3回以降「日本医学会」と改称し、以後、終戦直後を除いて4年毎に開催されている。現在、常設化され日本医師会の一部としての位置づけがなされ、122分科会を擁しているが、今後のあり方について協議されている。</dbpedia-owl:abstract>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://jams.med.or.jp/index.html" />
+    <dbpedia-owl:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1955985</dbpedia-owl:wikiPageID>
+    <dbpedia-owl:wikiPageLength rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">2281</dbpedia-owl:wikiPageLength>
+    <dbpedia-owl:wikiPageOutDegree rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">129</dbpedia-owl:wikiPageOutDegree>
+    <dbpedia-owl:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">54217513</dbpedia-owl:wikiPageRevisionID>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/日本職業・災害医学会" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/日本脈管学会" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/日本睡眠学会" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/日本小児神経学会" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/日本リウマチ学会" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/学会" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/日本リハビリテーション医学会" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/日本アレルギー学会" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/日本肥満学会" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/日本乳癌学会" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/日本内分泌学会" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/日本人類遺伝学会" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/日本化学療法学会" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/日本医学放射線学会" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/日本熱傷学会" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/日本生殖医学会" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/日本周産期・新生児医学会" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/日本臨床検査医学会" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/日本病理学会" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/日本血管外科学会" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/日本矯正医学会" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/Category:日本学術会議協力学術研究団体" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/日本臨床スポーツ医学会" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/日本生化学会" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/日本超音波医学会" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/日本透析医学会" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/日本体力医学会" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/日本集中治療医学会" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/日本寄生虫学会" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/日本口腔科学会" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/日本医療機器学会" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/日本ハンセン病学会" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/日本消化器外科学会" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/日本輸血・細胞治療学会" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/日本大腸肛門病学会" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/日本脊椎脊髄病学会" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/日本形成外科学会" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/日本臨床薬理学会" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/日本皮膚科学会" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/日本自律神経学会" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/日本泌尿器科学会" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/日本糖尿病学会" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/日本東洋医学会" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/日本消化器内視鏡学会" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/日本プライマリ・ケア連合学会" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/日本保険医学会" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/日本放射線腫瘍学会" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/日本民族衛生学会" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/1902年" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/日本産科婦人科学会" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/日本内科学会" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/日本人工臓器学会" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/日本法医学会" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/日本心臓血管外科学会" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/日本移植学会" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/日本外科学会" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/日本小児循環器学会" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/日本生理学会" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/日本疫学会" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/日本腎臓学会" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/日本薬理学会" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/日本神経学会" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/日本免疫学会" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/日本細菌学会" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/日本神経病理学会" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/日本小児科学会" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/日本胃癌学会" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/日本臨床腫瘍学会" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/日本栄養・食糧学会" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/日本整形外科学会" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/明治" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/シンポジウム" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/日本癌治療学会" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/日本癌学会" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/日本麻酔科学会" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/日本血液学会" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/日本緩和医療学会" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/日本内視鏡外科学会" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/日本高血圧学会" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/日本先天異常学会" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/日本医学教育学会" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/日本医史学会" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/日本肺癌学会" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/日本呼吸器学会" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/日本医師会" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/日本動脈硬化学会" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/日本熱帯医学会" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/日本ウイルス学会" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/日本医療情報学会" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/日本解剖学会" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/日本生体医工学会" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/日本胸部外科学会" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/日本脳神経外科学会" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/日本公衆衛生学会" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/日本救急医学会" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/日本臨床細胞学会" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/日本医真菌学会" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/日本核医学会" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/日本耳鼻咽喉科学会" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/日本気管食道科学会" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/日本消化器病学会" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/日本温泉気候物理医学会" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/日本ペインクリニック学会" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/日本レーザー医学会" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/日本衛生動物学会" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/日本眼科学会" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/日本心身医学会" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/日本呼吸器内視鏡学会" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/日本呼吸器外科学会" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/日本農村医学会" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/日本精神神経学会" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/日本血栓止血学会" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/日本小児外科学会" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/日本産業衛生学会" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/日本造血細胞移植学会" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/日本リンパ網内系学会" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/日本循環器学会" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/日本交通医学会" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/日本感染症学会" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/日本結核病学会" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/日本老年医学会" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/日本医療・病院管理学会" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/日本衛生学会" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/日本平滑筋学会" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/Category:日本医学会" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/日本手外科学会" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/日本肝臓学会" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/日本磁気共鳴医学会" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/日本脳卒中学会" />
+    <foaf:homepage rdf:resource="http://jams.med.or.jp/index.html" />
+    <dcterms:subject rdf:resource="http://ja.dbpedia.org/resource/Category:日本学術会議協力学術研究団体" />
+    <dcterms:subject rdf:resource="http://ja.dbpedia.org/resource/Category:日本医学会" />
+    <prop-ja:wikiPageUsesTemplate rdf:resource="http://ja.dbpedia.org/resource/Template:Medical-stub" />
+    <prop-ja:wikiPageUsesTemplate rdf:resource="http://ja.dbpedia.org/resource/Template:Official" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/日本学術会議協力学術研究団体">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/日本医学会" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/日本矯正医学会">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/日本医学会" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/日本医学教育学会">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/日本医学会" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/日本更年期医学会">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/日本医学会" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/日本核医学会">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/日本医学会" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/日本気管食道科学会">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/日本医学会" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/日本肝臓学会">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/日本医学会" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/イレッサ訴訟">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/日本医学会" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/日本神経学会">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/日本医学会" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/東日本大震災のイベント等への影響">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/日本医学会" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/福島県立会津高等学校人物一覧">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/日本医学会" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/今井浩三">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/日本医学会" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/日本生体医工学会">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/日本医学会" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/入沢達吉">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/日本医学会" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/新型出生前診断">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/日本医学会" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/日本癌学会">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/日本医学会" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/大浦清">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/日本医学会" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/島原政司">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/日本医学会" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/早川太郎">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/日本医学会" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/清水典佳">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/日本医学会" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/日本皮膚科学会">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/日本医学会" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/小川秀興">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/日本医学会" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/日本消化器内視鏡学会">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/日本医学会" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/渡邊力">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/日本医学会" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/三好和夫">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/日本医学会" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/陳明裕">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/日本医学会" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/丹沢秀樹">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/日本医学会" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/日本免疫学会">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/日本医学会" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/金子明寛">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/日本医学会" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/佐多愛彦">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/日本医学会" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/ウイルス">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/日本医学会" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/ホメオパシー">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/日本医学会" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/日本の学会一覧">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/日本医学会" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/福澤諭吉">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/日本医学会" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/精神障害の診断と統計マニュアル">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/日本医学会" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/精神障害">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/日本医学会" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/国立がん研究センター">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/日本医学会" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/福島県出身の人物一覧">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/日本医学会" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/日本医師会">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/日本医学会" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/聖徳記念絵画館">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/日本医学会" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/バニラビーンズ">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/日本医学会" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/盗用">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/日本医学会" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/福岡県立小倉高等学校">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/日本医学会" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/日本口腔外科学会">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/日本医学会" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/日本生化学会">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/日本医学会" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/高久史麿">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/日本医学会" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/うつ病">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/日本医学会" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/日本うつ病学会">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/日本医学会" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/葛西一貴">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/日本医学会" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/天野修">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/日本医学会" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/岡田国太郎">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/日本医学会" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/岩井一成">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/日本医学会" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/新谷悟">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/日本医学会" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/日本消化器外科学会">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/日本医学会" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/梅田正博">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/日本医学会" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/森山啓司">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/日本医学会" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/牧村正治">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/日本医学会" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/日本医療情報学会">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/日本医学会" />
+    <prop-ja:上位組織 rdf:resource="http://ja.dbpedia.org/resource/日本医学会" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/末高武彦">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/日本医学会" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/米山隆之">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/日本医学会" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/草間幹夫">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/日本医学会" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/高久晃">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/日本医学会" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/筑波大学附属中学校・高等学校の人物一覧">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/日本医学会" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/日本製薬医学会">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/日本医学会" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/門田守人">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/日本医学会" />
+  </rdf:Description>
+</rdf:RDF>

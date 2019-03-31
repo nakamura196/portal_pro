@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:dct="http://purl.org/dc/terms/"
+	xmlns:dbo="http://dbpedia.org/ontology/"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:prov="http://www.w3.org/ns/prov#"
+	xmlns:dbp="http://dbpedia.org/property/"
+	xmlns:ns8="http://purl.org/linguistics/gold/" >
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Masajuro_Shiokawa">
+    <dbp:title rdf:resource="http://dbpedia.org/resource/Minister_of_Education,_Culture,_Sports,_Science_and_Technology" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Minister_of_Education,_Culture,_Sports,_Science_and_Technology">
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Person" />
+    <rdfs:label xml:lang="en">Minister of Education, Culture, Sports, Science and Technology</rdfs:label>
+    <rdfs:label xml:lang="ja">文部科学大臣</rdfs:label>
+    <rdfs:label xml:lang="zh">文部科學大臣</rdfs:label>
+    <rdfs:comment xml:lang="zh">文部科學大臣（日语：文部科学大臣）是日本的國務大臣，掌管文部科學省。現任文部科學大臣是松野博一，2016年8月3日就任。</rdfs:comment>
+    <rdfs:comment xml:lang="en">The Minister of Education, Culture, Sports, Science and Technology (文部科学大臣 Monbu-kagaku Daijin) is the member of the Cabinet of Japan in charge of the Ministry of Education, Culture, Sports, Science and Technology.</rdfs:comment>
+    <rdfs:comment xml:lang="ja">文部科学大臣（もんぶかがくだいじん、英: Minister of Education, Culture, Sports, Science and Technology）は、日本においては、文部科学省を担当する国務大臣であり、文部科学省の長である。略称は文科相（もんかしょう）。</rdfs:comment>
+    <owl:sameAs rdf:resource="http://ja.dbpedia.org/resource/文部科学大臣" />
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q842359" />
+    <owl:sameAs rdf:resource="http://ko.dbpedia.org/resource/일본의_문부과학대신" />
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.0gh8kb7" />
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Minister_of_Education,_Culture,_Sports,_Science_and_Technology" />
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q842359" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Education_ministers_of_Japan" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Science_ministers" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Culture_ministers" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Sports_ministers" />
+    <dbo:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">31130223</dbo:wikiPageID>
+    <dbo:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">684597328</dbo:wikiPageRevisionID>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Minister_of_Education,_Culture,_Sports,_Science_and_Technology" />
+    <prov:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Minister_of_Education,_Culture,_Sports,_Science_and_Technology?oldid=684597328" />
+    <dbo:abstract xml:lang="ja">文部科学大臣（もんぶかがくだいじん、英: Minister of Education, Culture, Sports, Science and Technology）は、日本においては、文部科学省を担当する国務大臣であり、文部科学省の長である。略称は文科相（もんかしょう）。</dbo:abstract>
+    <dbo:abstract xml:lang="en">The Minister of Education, Culture, Sports, Science and Technology (文部科学大臣 Monbu-kagaku Daijin) is the member of the Cabinet of Japan in charge of the Ministry of Education, Culture, Sports, Science and Technology.</dbo:abstract>
+    <dbo:abstract xml:lang="zh">文部科學大臣（日语：文部科学大臣）是日本的國務大臣，掌管文部科學省。現任文部科學大臣是松野博一，2016年8月3日就任。</dbo:abstract>
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Member" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ministry_of_Education,_Culture,_Sports,_Science_and_Technology">
+    <dbo:leader rdf:resource="http://dbpedia.org/resource/Minister_of_Education,_Culture,_Sports,_Science_and_Technology" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hideyuki_Arata">
+    <dbo:award rdf:resource="http://dbpedia.org/resource/Minister_of_Education,_Culture,_Sports,_Science_and_Technology" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Minister_of_Education,_Culture,_Sports,_Science_and_Technology_(Japan)">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Minister_of_Education,_Culture,_Sports,_Science_and_Technology" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Minister_of_Education,_Culture,_Sports,_Science_and_Technology">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Minister_of_Education,_Culture,_Sports,_Science_and_Technology" />
+  </rdf:Description>
+</rdf:RDF>

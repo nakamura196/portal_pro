@@ -1,0 +1,367 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:dct="http://purl.org/dc/terms/"
+	xmlns:dbo="http://dbpedia.org/ontology/"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:prov="http://www.w3.org/ns/prov#"
+	xmlns:dbp="http://dbpedia.org/property/"
+	xmlns:ns8="http://purl.org/linguistics/gold/" >
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Diary">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Album" />
+    <rdfs:label xml:lang="ru">Дневник</rdfs:label>
+    <rdfs:label xml:lang="pt">Diário (agenda)</rdfs:label>
+    <rdfs:label xml:lang="ar">يوميات</rdfs:label>
+    <rdfs:label xml:lang="nl">Dagboek (persoonlijk)</rdfs:label>
+    <rdfs:label xml:lang="es">Diario personal</rdfs:label>
+    <rdfs:label xml:lang="ja">日記</rdfs:label>
+    <rdfs:label xml:lang="fr">Journal intime</rdfs:label>
+    <rdfs:label xml:lang="pl">Dziennik (literatura)</rdfs:label>
+    <rdfs:label xml:lang="en">Diary</rdfs:label>
+    <rdfs:label xml:lang="de">Tagebuch</rdfs:label>
+    <rdfs:label xml:lang="it">Diario</rdfs:label>
+    <rdfs:label xml:lang="zh">日记</rdfs:label>
+    <rdfs:comment xml:lang="en">A diary (sometimes referred to as journal or notebook) is a record (originally in handwritten format) with discrete entries arranged by date reporting on what has happened over the course of a day or other period. A personal diary may include a person&#39;s experiences, and/or thoughts or feelings, including comments on current events outside the writer&#39;s direct experience. Someone who keeps a diary is known as a diarist. Diaries undertaken for institutional purposes play a role in many aspects of human civilization, including government records (e.g. Hansard), business ledgers and military records. In British English, the word may also denote a preprinted journal format.</rdfs:comment>
+    <rdfs:comment xml:lang="ru">Дневни́к — совокупность фрагментарных записей, которые делаются для себя, ведутся регулярно и чаще всего сопровождаются указанием даты. Такие записи («записки») организуют индивидуальный опыт и как письменный жанр сопровождают становление индивидуальности в культуре, формирование «я» — параллельно с ними развиваются формы мемуаристики и автобиографии.</rdfs:comment>
+    <rdfs:comment xml:lang="zh">日记是一种供个人使用的、以日期为排列顺序的笔记。一开始的日记是生意的记录本，后来人们用日记来记录天气、事件一直到个人的心理感受、思想深处。日记可以是记录将要做的事情的，也可以记录已经发生的事情和心情。 中国的日记源远流长（亦称日誌）：经学家俞樾认为日记起源于东汉（如马笃伯《封禅仪记》，就已逐日记叙登泰山之事），两宋成了日记的繁兴期（如南宋陆游和范成大的日记，日本、美国分别有译注本或研究论著出版），清代李慈铭日记逾百万字，薛福成《出使四国日记》（1890年）、梁启超访美《新大陆游记》（1903年）对近代中国产生过巨大影响。</rdfs:comment>
+    <rdfs:comment xml:lang="ja">日記（にっき）とは、日々の出来事を、ある程度連続的に紙などに記録したものである。単なる記録として扱われるものから、文学として扱われるものまで、その内容は様々である。ある人物の生涯にわたって記されるような長期にわたるものから、ある旅、ある職務、ある事件などの間だけ記された短期のものまで、期間・分量も様々であり、西洋・東洋を問わず、世界的に存在する。</rdfs:comment>
+    <rdfs:comment xml:lang="nl">Een dagboek is een autobiografisch geschrift, waarin, vaak van dag tot dag, in chronologische volgorde, wordt opgetekend wat de schrijver meemaakt, denkt, waarneemt of overweegt. Dit in tegenstelling tot de autobiografie, die gebeurtenissen achteraf beschrijft. Vaak is het dagboek iets intiems en persoonlijks, wordt het zelfs voorzien van een slot en komt het in principe nooit onder ogen van iemand anders dan de auteur. Een uitzondering is het logboek dat meestal juist wordt bijgehouden zodat informatie later weer kan worden teruggezocht, ook door andere personen.</rdfs:comment>
+    <rdfs:comment xml:lang="es">El diario personal (o simplemente diario) es un subgénero de la biografía y en concreto de la autobiografía. Se trata de un texto que, de manera fragmentaria y con el registro de la fecha, suele destinarse a una lectura ulterior y privada de quien lo confeccionó. Se llama también diario el libro que lo contiene.</rdfs:comment>
+    <rdfs:comment xml:lang="de">Ein Tagebuch, auch Diarium (lat. diarium) oder Memoire (frz. mémoire „schriftliche Darlegung“, „Denkschrift“), ist eine autobiografische Aufzeichnung, also ein Selbstzeugnis in chronologischer Form. Es wird oft nicht mit dem Ziel einer Veröffentlichung geschrieben. Publizierte Tagebücher, oft für diesen Zweck verfasst, sowie literarische oder fiktionale Werke in dieser Form bilden das Genre der Tagebuchliteratur.</rdfs:comment>
+    <rdfs:comment xml:lang="fr">Un journal intime (ou personnel) est un texte rédigé de façon régulière ou intermittente, présentant les actions, les réflexions ou les sentiments de l’auteur. Ses entrées sont habituellement datées. Il peut être tenu de façon plus ou moins régulière au long d’une existence ou seulement sur une période particulière : maladie, guerre, deuil, problèmes familiaux... Comme pratique ordinaire, il est en général destiné à être gardé secret, temporairement ou définitivement. Comme pratique littéraire, il est souvent destiné, à plus ou moins court terme, à une publication partielle ou totale.</rdfs:comment>
+    <rdfs:comment xml:lang="pl">Dziennik (diariusz, dyariusz) – gatunek autobiograficzny, zapiski bieżące, sporządzane dla potrzeb własnych lub w charakterze twórczości literackiej (publikowanej na bieżąco, bądź później w postaci zbiorczej). Składa się z codziennych wpisów, które mogą być opatrzone datą i informacją o miejscu powstania. Termin &quot;dziennik&quot; wywodzi się od łacińskiego wyrazu diarium, oznaczającego początkowo codziennie porcje pokarmu, rozdawane np. żołnierzom. Później słowo to zaczęło oznaczać również zapiski codzienne.</rdfs:comment>
+    <rdfs:comment xml:lang="it">Un diario è una forma narrativa in cui il racconto – reale o di fantasia – è sviluppato cronologicamente, spesso scandito ad intervalli di tempo regolari, solitamente a giorni. Può essere la cronaca della vita o di un periodo di vita di una persona, ma anche la raccolta di annotazioni giornaliere in cui vengono descritti fatti di rilievo, avvenimenti politici, sociali, economici, osservazioni di carattere scientifico o altro.Dal punto di vista della tipologia testuale è la forma che di solito rivela la parte più intima dell&#39;autore. Chi scrive lo fa per puntualizzare a sé stesso ciò che gli sta accadendo in quel periodo, senza pensare troppo al passato ma ponendo l&#39;attenzione sul presente. Solitamente all&#39;inizio di una pagina viene scritta la data in cui si scrive; il destinatario può esser</rdfs:comment>
+    <rdfs:comment xml:lang="pt">Diário é uma agenda, geralmente de caráter íntimo, onde se fazem anotações que contém uma narrativa diária de experiências pessoais que é organizada pela data de entrada das informações. Um diário pessoal pode incluir experiências de uma pessoa e/ou pensamentos, sentimentos e segredos. Alguém que escreve um diário é conhecido como um(a) diarista e ele(a) descreve toda sua vida ali. Existem diários desenvolvidos para fins institucionais que desempenham um papel em muitos aspectos da civilização humana, como por exemplo, registros governamentais, livros empresariais e registos militares.</rdfs:comment>
+    <rdfs:comment xml:lang="ar">لاستخدامات أخرى للمصطلح &#39;يوميات&#39;، انظر يوميات (الغموض). يوميات هي عبارة عن سجل (على هيئة كتاب) حيث يحتوي على مداخل منفصلة مرتبة على حسب تاريخ الإبلاغ عن ما حدث خلال يوم أو أي فترة أخرى فاليوميات من أجل المؤسسات تلعب دورا في العديد من الجوانب الإنسانية, بما فيها السجلات الحكومية على سبيل المثال(هانسارد) والأعمال التجارية ودفاتر الحسابات والسجلات العسكرية.فقد تحتاج المدارس وأولياء الأمور لتعليم أولادهم الحفاظ على اليوميات من أجل تشجيعهم للتعبير عن مشاعرهم, وتعزيز الفكر.</rdfs:comment>
+    <owl:sameAs rdf:resource="http://ja.dbpedia.org/resource/日記" />
+    <owl:sameAs rdf:resource="http://d-nb.info/gnd/4058900-6" />
+    <owl:sameAs rdf:resource="http://cs.dbpedia.org/resource/Deník_(literatura)" />
+    <owl:sameAs rdf:resource="http://ko.dbpedia.org/resource/일기" />
+    <owl:sameAs rdf:resource="http://it.dbpedia.org/resource/Diario" />
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q185598" />
+    <owl:sameAs rdf:resource="http://eu.dbpedia.org/resource/Egunkari_(testu_pertsonala)" />
+    <owl:sameAs rdf:resource="http://pt.dbpedia.org/resource/Diário_(agenda)" />
+    <owl:sameAs rdf:resource="http://id.dbpedia.org/resource/Buku_harian" />
+    <owl:sameAs rdf:resource="http://fr.dbpedia.org/resource/Journal_intime" />
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q185598" />
+    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/Tagebuch" />
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.02gsv" />
+    <owl:sameAs rdf:resource="http://es.dbpedia.org/resource/Diario_personal" />
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.0f3kl" />
+    <owl:sameAs rdf:resource="http://nl.dbpedia.org/resource/Dagboek_(persoonlijk)" />
+    <owl:sameAs rdf:resource="http://pl.dbpedia.org/resource/Dziennik_(literatura)" />
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Diary" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Diaries" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Works_about_history" />
+    <dbo:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">25498357</dbo:wikiPageID>
+    <dbo:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">743159579</dbo:wikiPageRevisionID>
+    <dbo:wikiPageExternalLink rdf:resource="https://doodlecollection.com/" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.makeuseof.com/tag/the-beginners-guide-to-digital-journaling/" />
+    <foaf:depiction rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/The_Diary_of_a_Young_Girl_at_the_Anne_Frank_Zentrum.jpg" />
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Diary" />
+    <dbo:thumbnail rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/The_Diary_of_a_Young_Girl_at_the_Anne_Frank_Zentrum.jpg?width=300" />
+    <prov:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Diary?oldid=743159579" />
+    <dbo:abstract xml:lang="ja">日記（にっき）とは、日々の出来事を、ある程度連続的に紙などに記録したものである。単なる記録として扱われるものから、文学として扱われるものまで、その内容は様々である。ある人物の生涯にわたって記されるような長期にわたるものから、ある旅、ある職務、ある事件などの間だけ記された短期のものまで、期間・分量も様々であり、西洋・東洋を問わず、世界的に存在する。</dbo:abstract>
+    <dbo:abstract xml:lang="it">Un diario è una forma narrativa in cui il racconto – reale o di fantasia – è sviluppato cronologicamente, spesso scandito ad intervalli di tempo regolari, solitamente a giorni. Può essere la cronaca della vita o di un periodo di vita di una persona, ma anche la raccolta di annotazioni giornaliere in cui vengono descritti fatti di rilievo, avvenimenti politici, sociali, economici, osservazioni di carattere scientifico o altro.Dal punto di vista della tipologia testuale è la forma che di solito rivela la parte più intima dell&#39;autore. Chi scrive lo fa per puntualizzare a sé stesso ciò che gli sta accadendo in quel periodo, senza pensare troppo al passato ma ponendo l&#39;attenzione sul presente. Solitamente all&#39;inizio di una pagina viene scritta la data in cui si scrive; il destinatario può essere o il diario stesso o un amico immaginario. Il linguaggio è di solito semplice, esistono anche, oltre ai diari veri, quelli creati da un autore che si inventa un personaggio che parla di sé. Con diario si indica anche il supporto materiale dove questo racconto viene realizzato; una moderna forma di diario, in questo senso, è quella affidata all&#39;informatica attraverso la tenuta di blog personali. Solamente nel Rinascimento il diario si distinse dall&#39;autobiografia e dalla cronaca, assumendo la funzione di annotatore di appunti da ricordare e di eventi spirituali dello scrivente, utili per un miglioramento ed un perfezionamento.In un secondo tempo questa tendenza passò anche nel mondo laico.</dbo:abstract>
+    <dbo:abstract xml:lang="es">El diario personal (o simplemente diario) es un subgénero de la biografía y en concreto de la autobiografía. Se trata de un texto que, de manera fragmentaria y con el registro de la fecha, suele destinarse a una lectura ulterior y privada de quien lo confeccionó. Se llama también diario el libro que lo contiene.</dbo:abstract>
+    <dbo:abstract xml:lang="fr">Un journal intime (ou personnel) est un texte rédigé de façon régulière ou intermittente, présentant les actions, les réflexions ou les sentiments de l’auteur. Ses entrées sont habituellement datées. Il peut être tenu de façon plus ou moins régulière au long d’une existence ou seulement sur une période particulière : maladie, guerre, deuil, problèmes familiaux... Comme pratique ordinaire, il est en général destiné à être gardé secret, temporairement ou définitivement. Comme pratique littéraire, il est souvent destiné, à plus ou moins court terme, à une publication partielle ou totale.</dbo:abstract>
+    <dbo:abstract xml:lang="ar">لاستخدامات أخرى للمصطلح &#39;يوميات&#39;، انظر يوميات (الغموض). يوميات هي عبارة عن سجل (على هيئة كتاب) حيث يحتوي على مداخل منفصلة مرتبة على حسب تاريخ الإبلاغ عن ما حدث خلال يوم أو أي فترة أخرى فاليوميات من أجل المؤسسات تلعب دورا في العديد من الجوانب الإنسانية, بما فيها السجلات الحكومية على سبيل المثال(هانسارد) والأعمال التجارية ودفاتر الحسابات والسجلات العسكرية.فقد تحتاج المدارس وأولياء الأمور لتعليم أولادهم الحفاظ على اليوميات من أجل تشجيعهم للتعبير عن مشاعرهم, وتعزيز الفكر. عموما فاليوم يستخدم المصطلح للدلالة للمذكرات شخصية، والتي يمكن أن الكاتب حيث يذكر بالتفصيل المزيد من المعلومات الشخصية ،بغرض أن تظل خاصة أو أن يتداولها عدد من الأصدقاء أو الأقارب.لفظة &quot;مجلة&quot; قد يكون في بعض الأحيان تستخدم في &quot;يوميات&quot; ولكن بشكل عام واحد يكتب في صحيفة يومية، في حين أن مجلة يمكن كتابة أقل تواترا. فيما يكن اليوميات ممكن أن توفر معلومات حول مذاكرات في السيرة الذتية، فعموما تكتب بغرض النشر ولكن تصبح لاستخدامات الكاتب الخاصة.في السنوات الأخيرة هناك بعض الأدلة عن وجود اليوميات (مثل تلك التي كتبها آلان كلارك، وتوني بن أو سيمون جراي) وحيث كتبت مع مراعاة أن تنشر في نهاية المطاف للدفاع عن أنفسهم قبل أو بعد الوفاة، أو لمجرد الربح. اليوميات متنوعة للغاية من عمل والترميزات لقوائم طقس الأحداث اليومية والشخصية، والاستكشافات الداخلية للإنسان الوجدان، التعبير عن الذات من أعمق لسجلات والأفكار. استطرادا يوميات مصطلح يستخدم أيضا لتعني المطبوعة نشر كتابي اليوميات، ويمكن أيضا أن أشير إلى غير ذلك من حيث الأشكال الإلكترونية بما في مجلة (مثل بلوق).</dbo:abstract>
+    <dbo:abstract xml:lang="de">Ein Tagebuch, auch Diarium (lat. diarium) oder Memoire (frz. mémoire „schriftliche Darlegung“, „Denkschrift“), ist eine autobiografische Aufzeichnung, also ein Selbstzeugnis in chronologischer Form. Es wird oft nicht mit dem Ziel einer Veröffentlichung geschrieben. Publizierte Tagebücher, oft für diesen Zweck verfasst, sowie literarische oder fiktionale Werke in dieser Form bilden das Genre der Tagebuchliteratur.</dbo:abstract>
+    <dbo:abstract xml:lang="pt">Diário é uma agenda, geralmente de caráter íntimo, onde se fazem anotações que contém uma narrativa diária de experiências pessoais que é organizada pela data de entrada das informações. Um diário pessoal pode incluir experiências de uma pessoa e/ou pensamentos, sentimentos e segredos. Alguém que escreve um diário é conhecido como um(a) diarista e ele(a) descreve toda sua vida ali. Existem diários desenvolvidos para fins institucionais que desempenham um papel em muitos aspectos da civilização humana, como por exemplo, registros governamentais, livros empresariais e registos militares.</dbo:abstract>
+    <dbo:abstract xml:lang="ru">Дневни́к — совокупность фрагментарных записей, которые делаются для себя, ведутся регулярно и чаще всего сопровождаются указанием даты. Такие записи («записки») организуют индивидуальный опыт и как письменный жанр сопровождают становление индивидуальности в культуре, формирование «я» — параллельно с ними развиваются формы мемуаристики и автобиографии.</dbo:abstract>
+    <dbo:abstract xml:lang="nl">Een dagboek is een autobiografisch geschrift, waarin, vaak van dag tot dag, in chronologische volgorde, wordt opgetekend wat de schrijver meemaakt, denkt, waarneemt of overweegt. Dit in tegenstelling tot de autobiografie, die gebeurtenissen achteraf beschrijft. Vaak is het dagboek iets intiems en persoonlijks, wordt het zelfs voorzien van een slot en komt het in principe nooit onder ogen van iemand anders dan de auteur. Een uitzondering is het logboek dat meestal juist wordt bijgehouden zodat informatie later weer kan worden teruggezocht, ook door andere personen. Soms wordt het dagboek ook gepubliceerd, bijvoorbeeld de oorlogsdagboeken van Anne Frank, Etty Hillesum en David Koker. Alhoewel de dagboeken van Anne Frank – en zeker de eerste gedeelten daarvan – de indruk van spontaniteit geven, heeft nader onderzoek aangetoond dat de schrijfster ze wel degelijk bedoeld had voor naoorlogse publicatie. Zij was zich dus zeer bewust van een onzichtbare, &#39;meekijkende&#39; lezer. Een apart hoofdstuk in de Nederlandse literatuur is het Geheim Dagboek van Hans Warren. Aangezien het letterlijk een heel mensenleven omspant, geeft het niet alleen een goed beeld van de schrijver maar ook van de Nederlandse samenleving als geheel. Het vermoedelijk omvangrijkste gepubliceerde dagboek zal dat van Frida Vogels zijn; het zal 16 delen tellen waarvan er tot op heden (2013) negen zijn verschenen. Befaamde Engelse dagboeken zijn die van Samuel Pepys en James Woodforde, die beiden een goed beeld geven van de periode waarin zij leefden. Soms is een dagboek ook voor een deel, of zelfs helemaal, gefingeerd (fictie) – zoals bepaalde hoofdstukken in de romans De vrije negerin Elisabeth (2000) en ...die revolutie niet begrepen... (2005) van Cynthia McLeod. Tot deze categorie van fictie behoort ook de sinds 1978 uitgezonden televisieserie Dagboek van een herdershond gebaseerd op boeken van Jacques Schreurs. Tegenwoordig bestaan er ook veel dagboeken (&quot;blogs&quot;) op het internet. In de boekhouding is een dagboek een verzameling van geregistreerde posten, welke van tijd tot tijd in het grootboek worden verwerkt.</dbo:abstract>
+    <dbo:abstract xml:lang="zh">日记是一种供个人使用的、以日期为排列顺序的笔记。一开始的日记是生意的记录本，后来人们用日记来记录天气、事件一直到个人的心理感受、思想深处。日记可以是记录将要做的事情的，也可以记录已经发生的事情和心情。 中国的日记源远流长（亦称日誌）：经学家俞樾认为日记起源于东汉（如马笃伯《封禅仪记》，就已逐日记叙登泰山之事），两宋成了日记的繁兴期（如南宋陆游和范成大的日记，日本、美国分别有译注本或研究论著出版），清代李慈铭日记逾百万字，薛福成《出使四国日记》（1890年）、梁启超访美《新大陆游记》（1903年）对近代中国产生过巨大影响。</dbo:abstract>
+    <dbo:abstract xml:lang="pl">Dziennik (diariusz, dyariusz) – gatunek autobiograficzny, zapiski bieżące, sporządzane dla potrzeb własnych lub w charakterze twórczości literackiej (publikowanej na bieżąco, bądź później w postaci zbiorczej). Składa się z codziennych wpisów, które mogą być opatrzone datą i informacją o miejscu powstania. Termin &quot;dziennik&quot; wywodzi się od łacińskiego wyrazu diarium, oznaczającego początkowo codziennie porcje pokarmu, rozdawane np. żołnierzom. Później słowo to zaczęło oznaczać również zapiski codzienne.</dbo:abstract>
+    <dbo:abstract xml:lang="en">A diary (sometimes referred to as journal or notebook) is a record (originally in handwritten format) with discrete entries arranged by date reporting on what has happened over the course of a day or other period. A personal diary may include a person&#39;s experiences, and/or thoughts or feelings, including comments on current events outside the writer&#39;s direct experience. Someone who keeps a diary is known as a diarist. Diaries undertaken for institutional purposes play a role in many aspects of human civilization, including government records (e.g. Hansard), business ledgers and military records. In British English, the word may also denote a preprinted journal format. Today the term is generally employed for personal diaries, normally intended to remain private or to have a limited circulation amongst friends or relatives. The word &quot;journal&quot; may be sometimes used for &quot;diary,&quot; but generally a diary has (or intends to have) daily entries, whereas journal-writing can be less frequent. Although a diary may provide information for a memoir, autobiography or biography, it is generally written not with the intention of being published as it stands, but for the author&#39;s own use. In recent years, however, there is internal evidence in some diaries (e.g. those of Ned Rorem, Alan Clark, Tony Benn or Simon Gray) that they are written with eventual publication in mind, with the intention of self-vindication (pre- or posthumous) or simply for profit. By extension the term diary is also used to mean a printed publication of a written diary; and may also refer to other terms of journal including electronic formats (e.g. blogs).</dbo:abstract>
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Record" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Diary_(disambiguation)">
+    <dbo:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/Diary" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Venice_for_Lovers">
+    <dbo:literaryGenre rdf:resource="http://dbpedia.org/resource/Diary" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Henry_and_June">
+    <dbo:literaryGenre rdf:resource="http://dbpedia.org/resource/Diary" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Diary_of_a_Girl_in_Changi">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Diary" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Diarium_Vadstenense">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Diary" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tyldesley_Diary">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Diary" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Egyptology:_Search_for_the_Tomb_of_Osiris">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Diary" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nokia_Lifeblog">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Diary" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Miguel_Torga">
+    <dbo:genre rdf:resource="http://dbpedia.org/resource/Diary" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Journal_of_Sir_Walter_Scott">
+    <dbo:literaryGenre rdf:resource="http://dbpedia.org/resource/Diary" />
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Diary" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Pierre_Schaeffer_bibliography">
+    <dbo:genre rdf:resource="http://dbpedia.org/resource/Diary" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/1_Litre_no_Namida">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Diary" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/My_Opposition">
+    <dbo:literaryGenre rdf:resource="http://dbpedia.org/resource/Diary" />
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Diary" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/On_Overgrown_Paths">
+    <dbo:literaryGenre rdf:resource="http://dbpedia.org/resource/Diary" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Via_Veneto_Papers">
+    <dbo:literaryGenre rdf:resource="http://dbpedia.org/resource/Diary" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Last_Days_of_Issa&#39;s_Father">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Diary" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Samuel_Pepys">
+    <dbo:knownFor rdf:resource="http://dbpedia.org/resource/Diary" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Diari">
+    <owl:differentFrom rdf:resource="http://dbpedia.org/resource/Diary" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Pianist_(memoir)">
+    <dbo:literaryGenre rdf:resource="http://dbpedia.org/resource/Diary" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Dirty_Blonde:_The_Diaries_of_Courtney_Love">
+    <dbo:literaryGenre rdf:resource="http://dbpedia.org/resource/Diary" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Diary_of_Ma_Yan">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Diary" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Journals_and_Diaries">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Diary" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Naples_&#39;44">
+    <dbo:literaryGenre rdf:resource="http://dbpedia.org/resource/Diary" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Stanka_Gjurić__The_Diary_of_an_Aquarian__1">
+    <dbo:literaryGenre rdf:resource="http://dbpedia.org/resource/Diary" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/To_War_with_Whitaker">
+    <dbo:literaryGenre rdf:resource="http://dbpedia.org/resource/Diary" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ennio_Flaiano">
+    <dbo:genre rdf:resource="http://dbpedia.org/resource/Diary" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lenin_(novel)">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Diary" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/MacJournal">
+    <dbo:genre rdf:resource="http://dbpedia.org/resource/Diary" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nanjung_Ilgi">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Diary" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Of_Walking_In_Ice">
+    <dbo:literaryGenre rdf:resource="http://dbpedia.org/resource/Diary" />
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Diary" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Reagan_Diaries">
+    <dbo:literaryGenre rdf:resource="http://dbpedia.org/resource/Diary" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Craig_Luebben">
+    <dbo:genre rdf:resource="http://dbpedia.org/resource/Diary" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Journler">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Diary" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tommy&#39;s_War">
+    <dbo:literaryGenre rdf:resource="http://dbpedia.org/resource/Diary" />
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Diary" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ennin&#39;s_Diary:_The_Record_of_a_Pilgrimage_to_China_in_Search_of_the_Law">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Diary" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Frost_King">
+    <dbp:publicationType rdf:resource="http://dbpedia.org/resource/Diary" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Dream_diary">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Diary" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Online_diary">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Diary" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ayu_no_Deji_Deji_Nikki">
+    <dbo:literaryGenre rdf:resource="http://dbpedia.org/resource/Diary" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ant_in_a_Glass_Jar">
+    <dbo:literaryGenre rdf:resource="http://dbpedia.org/resource/Diary" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Cursed_Days">
+    <dbo:literaryGenre rdf:resource="http://dbpedia.org/resource/Diary" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kaigen_Sōzuki">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Diary" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vertigo_(Sebald_novel)">
+    <dbo:literaryGenre rdf:resource="http://dbpedia.org/resource/Diary" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Bolshevik_Myth">
+    <dbo:literaryGenre rdf:resource="http://dbpedia.org/resource/Diary" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Journal_writing">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Diary" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kanpyō_Gyoki">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Diary" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Monument_to_Nicholas_I">
+    <dbp:source rdf:resource="http://dbpedia.org/resource/Diary" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Dominies_log">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Diary" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Krishnamurti&#39;s_Journal">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Diary" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Krishnamurti&#39;s_Notebook">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Diary" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Blood,_Sweat_&amp;_Tea">
+    <dbo:literaryGenre rdf:resource="http://dbpedia.org/resource/Diary" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/In_the_Bathtub_of_the_World">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Diary" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Journals_of_Expeditions_of_Discovery_into_Central_Australia">
+    <dbo:literaryGenre rdf:resource="http://dbpedia.org/resource/Diary" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tosa_Nikki">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Diary" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Diary_of_a_Japanese_Military_Brothel_Manager">
+    <dbo:literaryGenre rdf:resource="http://dbpedia.org/resource/Diary" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Project_Superhero">
+    <dbo:nonFictionSubject rdf:resource="http://dbpedia.org/resource/Diary" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Unbeaten_Tracks_in_Japan">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Diary" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Diarists">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Diary" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Prudence_at_Number_10">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Diary" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Freedom_Writers_Diary">
+    <dbo:nonFictionSubject rdf:resource="http://dbpedia.org/resource/Diary" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ulick_O&#39;Connor">
+    <dbo:genre rdf:resource="http://dbpedia.org/resource/Diary" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Incest:_From_a_Journal_of_Love">
+    <dbo:literaryGenre rdf:resource="http://dbpedia.org/resource/Diary" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Italian_Journey">
+    <dbo:literaryGenre rdf:resource="http://dbpedia.org/resource/Diary" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Diarist">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Diary" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sound_Bites:_Eating_on_Tour_with_Franz_Ferdinand">
+    <dbo:literaryGenre rdf:resource="http://dbpedia.org/resource/Diary" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Etty_Hillesum_and_the_Flow_of_Presence">
+    <dbo:nonFictionSubject rdf:resource="http://dbpedia.org/resource/Diary" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/On_the_Way_Home">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Diary" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/George_Diamandy">
+    <dbo:genre rdf:resource="http://dbpedia.org/resource/Diary" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/In_Search_of_a_Concrete_Music">
+    <dbo:literaryGenre rdf:resource="http://dbpedia.org/resource/Diary" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/A_Year_with_Swollen_Appendices">
+    <dbo:literaryGenre rdf:resource="http://dbpedia.org/resource/Diary" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Journal_of_a_Novel">
+    <dbo:literaryGenre rdf:resource="http://dbpedia.org/resource/Diary" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/My_Boring_Ass_Life">
+    <dbo:literaryGenre rdf:resource="http://dbpedia.org/resource/Diary" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nikolay_Punin">
+    <dbo:notableWork rdf:resource="http://dbpedia.org/resource/Diary" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ananda_Ranga_Pillai">
+    <dbo:knownFor rdf:resource="http://dbpedia.org/resource/Diary" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Cín_Lae_Amhlaoibh">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Diary" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/A_Diary_of_A_Demonstrator">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Diary" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Moortown_Diary">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Diary" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nearer_the_Moon">
+    <dbo:literaryGenre rdf:resource="http://dbpedia.org/resource/Diary" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Diary_entry">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Diary" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Personal_journal_entries">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Diary" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Some_Desperate_Glory">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Diary" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Thraliana">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Diary" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Diaria">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Diary" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Six_Candles_for_India">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Diary" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Private_journal">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Diary" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gratitude_journal">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Diary" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Personal_journal">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Diary" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Pamiętnik_handlowca">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Diary" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Christopher_Columbus&#39;s_journal">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Diary" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Polina_Zherebtsova&#39;s_Journal:_Chechnya_1999-2002">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Diary" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/My_Childhood_Under_Fire">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Diary" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Personal_diary">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Diary" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Diary_entries">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Diary" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Diary">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Diary" />
+  </rdf:Description>
+</rdf:RDF>

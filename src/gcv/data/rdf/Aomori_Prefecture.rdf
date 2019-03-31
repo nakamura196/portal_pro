@@ -1,0 +1,848 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:dbo="http://dbpedia.org/ontology/"
+	xmlns:dbp="http://dbpedia.org/property/"
+	xmlns:dct="http://purl.org/dc/terms/"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	xmlns:prov="http://www.w3.org/ns/prov#"
+	xmlns:ns9="http://dbpedia.org/ontology/PopulatedPlace/"
+	xmlns:georss="http://www.georss.org/georss/"
+	xmlns:ns11="http://purl.org/linguistics/gold/" >
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kuraishi,_Aomori">
+    <dbp:prefecture rdf:resource="http://dbpedia.org/resource/Aomori_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tsugaru_Railway_Company">
+    <dbo:regionServed rdf:resource="http://dbpedia.org/resource/Aomori_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Umineco_Sounds">
+    <dbo:hometown rdf:resource="http://dbpedia.org/resource/Aomori_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mount_Iwaki">
+    <dbo:locatedInArea rdf:resource="http://dbpedia.org/resource/Aomori_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lake_Ogawara">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Aomori_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mutsumi_Tamura">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Aomori_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nozomi_Yamamoto">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Aomori_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Fukuchi,_Aomori">
+    <dbp:prefecture rdf:resource="http://dbpedia.org/resource/Aomori_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ikarigaseki,_Aomori">
+    <dbp:prefecture rdf:resource="http://dbpedia.org/resource/Aomori_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Iwaki,_Aomori">
+    <dbp:prefecture rdf:resource="http://dbpedia.org/resource/Aomori_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kanagi,_Aomori">
+    <dbp:prefecture rdf:resource="http://dbpedia.org/resource/Aomori_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kanita,_Aomori">
+    <dbp:prefecture rdf:resource="http://dbpedia.org/resource/Aomori_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kodomari,_Aomori">
+    <dbp:prefecture rdf:resource="http://dbpedia.org/resource/Aomori_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Minmaya,_Aomori">
+    <dbp:prefecture rdf:resource="http://dbpedia.org/resource/Aomori_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Momoishi,_Aomori">
+    <dbp:prefecture rdf:resource="http://dbpedia.org/resource/Aomori_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nagawa,_Aomori">
+    <dbp:prefecture rdf:resource="http://dbpedia.org/resource/Aomori_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Namioka,_Aomori">
+    <dbp:prefecture rdf:resource="http://dbpedia.org/resource/Aomori_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nangō,_Aomori">
+    <dbp:prefecture rdf:resource="http://dbpedia.org/resource/Aomori_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Onoe,_Aomori">
+    <dbp:prefecture rdf:resource="http://dbpedia.org/resource/Aomori_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Shiura,_Aomori">
+    <dbp:prefecture rdf:resource="http://dbpedia.org/resource/Aomori_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tairadate,_Aomori">
+    <dbp:prefecture rdf:resource="http://dbpedia.org/resource/Aomori_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tenmabayashi,_Aomori">
+    <dbp:prefecture rdf:resource="http://dbpedia.org/resource/Aomori_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Shiriyazaki_Lighthouse">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Aomori_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Masaki_Tamura">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Aomori_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Daisuke_Matsuzaka">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Aomori_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Shimoda,_Aomori">
+    <dbp:prefecture rdf:resource="http://dbpedia.org/resource/Aomori_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ōu_Mountains">
+    <dbo:state rdf:resource="http://dbpedia.org/resource/Aomori_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kōnan_Railway_Kōnan_Line">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Aomori_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Aomori_FM_Broadcasting">
+    <dbo:broadcastArea rdf:resource="http://dbpedia.org/resource/Aomori_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Fumie_Hosokawa">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Aomori_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bushūyama_Takashi">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Aomori_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gonō_Line">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Aomori_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kitakami_Mountains">
+    <dbp:district rdf:resource="http://dbpedia.org/resource/Aomori_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Shigeru_Izumiya">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Aomori_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Wakanohana_Kanji_I">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Aomori_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Wakanohana_Kanji_II">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Aomori_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yoshitomi_Shibata">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Aomori_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hirakawa,_Aomori">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Aomori_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Akimitsu_Takagi">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Aomori_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Aminishiki_Ryūji">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Aomori_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hideo_Oguni">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Aomori_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kawauchi,_Aomori">
+    <dbp:prefecture rdf:resource="http://dbpedia.org/resource/Aomori_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Manabu_Murakami">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Aomori_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Shiori_Mikami">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Aomori_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ayano_Niina">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Aomori_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Issei_Futamata">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Aomori_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hakkōda_Mountains">
+    <dbo:state rdf:resource="http://dbpedia.org/resource/Aomori_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kei_Okami">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Aomori_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Satomi_Okuie">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Aomori_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tesshin_Okada">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Aomori_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yasuo_Hanzaki">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Aomori_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hani_Motoko">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Aomori_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Homarefuji_Yoshiyuki">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Aomori_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Aomori,_Aomori">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Aomori_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Goshogawara,_Aomori">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Aomori_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hachinohe,_Aomori">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Aomori_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hirosaki">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Aomori_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kuroishi,_Aomori">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Aomori_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Misawa,_Aomori">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Aomori_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mutsu,_Aomori">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Aomori_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Shingō,_Aomori">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Aomori_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Towada,_Aomori">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Aomori_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yokohama,_Aomori">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Aomori_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ajigasawa,_Aomori">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Aomori_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Fujisaki,_Aomori">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Aomori_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Fukaura,_Aomori">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Aomori_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gonohe,_Aomori">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Aomori_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hashikami,_Aomori">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Aomori_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Higashidōri,_Aomori">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Aomori_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hiranai,_Aomori">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Aomori_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hirosaki_Castle">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Aomori_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Imabetsu,_Aomori">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Aomori_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Inakadate,_Aomori">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Aomori_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Itayanagi,_Aomori">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Aomori_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kazamaura,_Aomori">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Aomori_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nanbu,_Aomori">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Aomori_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nishimeya,_Aomori">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Aomori_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Noheji,_Aomori">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Aomori_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Rokkasho,_Aomori">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Aomori_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Rokunohe,_Aomori">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Aomori_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sannohe,_Aomori">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Aomori_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Shichinohe,_Aomori">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Aomori_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Takko,_Aomori">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Aomori_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tsugaru,_Aomori">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Aomori_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tsuruta,_Aomori">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Aomori_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tōhoku,_Aomori">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Aomori_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yomogita,_Aomori">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Aomori_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ōma,_Aomori">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Aomori_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ōwani,_Aomori">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Aomori_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Aomori">
+    <dbo:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/Aomori_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Shin_Aomori">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Aomori_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tsugaru_dialect">
+    <dbo:spokenIn rdf:resource="http://dbpedia.org/resource/Aomori_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sotogahama,_Aomori">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Aomori_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hachinohe_Rinkai_Railway_Line">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Aomori_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hirosaki_University">
+    <dbo:state rdf:resource="http://dbpedia.org/resource/Aomori_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kōnan_Railway_Company">
+    <dbo:regionServed rdf:resource="http://dbpedia.org/resource/Aomori_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tadamori_Oshima">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Aomori_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Aomori_Chuo_Junior_College">
+    <dbo:state rdf:resource="http://dbpedia.org/resource/Aomori_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Aomori_Junior_College">
+    <dbo:state rdf:resource="http://dbpedia.org/resource/Aomori_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Koji_Nakamura">
+    <dbo:hometown rdf:resource="http://dbpedia.org/resource/Aomori_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Junji_Ishiwatari">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Aomori_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ningen_Isu">
+    <dbo:hometown rdf:resource="http://dbpedia.org/resource/Aomori_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nakasato,_Aomori">
+    <dbp:prefecture rdf:resource="http://dbpedia.org/resource/Aomori_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sōma,_Aomori">
+    <dbp:prefecture rdf:resource="http://dbpedia.org/resource/Aomori_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Aomori-ken">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Aomori_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Akira_Kubo_(pentathlete)">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Aomori_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Aonosato_Sakari">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Aomori_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Futagodake_Takeshi">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Aomori_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Misugiiso_Takuya">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Aomori_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mutsuarashi_Yukio">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Aomori_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tochiisami_Yoshiharu">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Aomori_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/JS_Suzunami_(DD-114)">
+    <dbo:homeport rdf:resource="http://dbpedia.org/resource/Aomori_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Aomori_Prefecture">
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q3455524" />
+    <rdf:type rdf:resource="http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing" />
+    <rdf:type rdf:resource="http://schema.org/AdministrativeArea" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/AdministrativeDistrict108491826" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/PopulatedPlace" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Place" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Location" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Region108630985" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Location100027167" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/District108552138" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Prefecture108626947" />
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PhysicalEntity100001930" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoLegalActorGeo" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Object100002684" />
+    <rdf:type rdf:resource="http://umbel.org/umbel/rc/Location_Underspecified" />
+    <rdf:type rdf:resource="http://schema.org/Place" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoGeoEntity" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoPermanentlyLocatedEntity" />
+    <rdf:type rdf:resource="http://umbel.org/umbel/rc/PopulatedPlace" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Region" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/AdministrativeRegion" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatPrefecturesOfJapan" />
+    <rdfs:label xml:lang="ru">Аомори (префектура)</rdfs:label>
+    <rdfs:label xml:lang="nl">Aomori (prefectuur)</rdfs:label>
+    <rdfs:label xml:lang="pl">Aomori (prefektura)</rdfs:label>
+    <rdfs:label xml:lang="en">Aomori Prefecture</rdfs:label>
+    <rdfs:label xml:lang="ar">محافظة آوموري</rdfs:label>
+    <rdfs:label xml:lang="de">Präfektur Aomori</rdfs:label>
+    <rdfs:label xml:lang="pt">Aomori</rdfs:label>
+    <rdfs:label xml:lang="it">Prefettura di Aomori</rdfs:label>
+    <rdfs:label xml:lang="zh">青森縣</rdfs:label>
+    <rdfs:label xml:lang="ja">青森県</rdfs:label>
+    <rdfs:label xml:lang="es">Prefectura de Aomori</rdfs:label>
+    <rdfs:label xml:lang="fr">Préfecture d&#39;Aomori</rdfs:label>
+    <rdfs:comment xml:lang="zh">青森县（日语：青森県／あおもりけん Aomori ken */?），為日本本州最北部的一个縣。縣廳位於青森市。在令制國的時代屬於陸奧國。 人口約有130萬，其中54%的人口居住在青森市、八戶市和弘前市。</rdfs:comment>
+    <rdfs:comment xml:lang="de">Die Präfektur Aomori (jap. 青森県, Aomori-ken) ist eine Präfektur Japans. Sie befindet sich in der Region Tōhoku auf der Insel Honshū. Sitz der Präfekturverwaltung ist die gleichnamige Stadt Aomori.</rdfs:comment>
+    <rdfs:comment xml:lang="nl">De prefectuur Aomori (青森県, Aomori-ken) is een Japanse prefectuur in de regio Tohoku in het noorden van het eiland Honshū. Aomori heeft een oppervlakte van 9607,05 km² en een bevolking van ongeveer 1.404.462 (2008) inwoners. De hoofdstad is de gelijknamige stad Aomori.</rdfs:comment>
+    <rdfs:comment xml:lang="ja">青森県（あおもりけん）は、日本の本州最北端に位置する県である。県庁所在地は青森市。県の人口は全国31位、面積は全国8位である。令制国の陸奥国（むつのくに、りくおうのくに）で構成される。</rdfs:comment>
+    <rdfs:comment xml:lang="ru">Ао́мори (яп. 青森県 Аомори-кэн) — префектура Японии, которая находится в регионе Тохоку на севере острова Хонсю. Центр префектуры — город Аомори. Площадь префектуры составляет 9644,55 км², население — 1 353 283 человека (1 августа 2014), плотность населения — 140,32 чел./км². Условно делится на три основные урбанистические зоны: политико-административный центр Аомори, промышленно-хозяйственный район Хатинохе и культурно-исторический район Хиросаки.</rdfs:comment>
+    <rdfs:comment xml:lang="pt">Aomori (青森県, Aomori-ken?) é uma província do Japão localizada na região de Tohoku. A sua capital é a cidade de Aomori.</rdfs:comment>
+    <rdfs:comment xml:lang="pl">Prefektura Aomori (jap. 青森県 Aomori-ken) – terytorialna jednostka administracyjna w regionie Tōhoku, w Japonii. Stolicą jest miasto Aomori.</rdfs:comment>
+    <rdfs:comment xml:lang="it">La prefettura di Aomori (青森県 Aomori-ken?) è una prefettura giapponese di circa 1,4 milioni di abitanti, con capoluogo nell&#39;omonima città Aomori. Si trova nella regione di Tōhoku, sull&#39;isola di Honshū.</rdfs:comment>
+    <rdfs:comment xml:lang="ar">25بك المحتوى هنا ينقصه الاستشهاد بمصادر. يرجى إيراد مصادر موثوق بها. أي معلومات غير موثقة يمكن التشكيك بها وإزالتها. (مارس 2016) محافظة آوموري (باليابانية: 青森県 آوموري-كن) هي إحدى محافظات الـيابان تقع في منطقة توهوكو، وعاصمتها مدينة &quot;آوموري&quot;.</rdfs:comment>
+    <rdfs:comment xml:lang="es">La prefectura de Aomori (青森県 Aomori-ken?) está situada en la región de Tohoku en Japón. La capital es la ciudad de Aomori.</rdfs:comment>
+    <rdfs:comment xml:lang="fr">La préfecture d&#39;Aomori (青森県, Aomori-ken) occupe l&#39;extrême nord de l&#39;île de Honshū, la principale île du Japon. Elle fait face à l&#39;île de Hokkaidō.</rdfs:comment>
+    <rdfs:comment xml:lang="en">Aomori Prefecture (青森県 Aomori-ken) is a prefecture of Japan located in the Tōhoku region. The capital is the city of Aomori.</rdfs:comment>
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Historic_Sites_of_Aomori_Prefecture" />
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q71699" />
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.0gqjd" />
+    <owl:sameAs rdf:resource="http://d-nb.info/gnd/4390420-8" />
+    <owl:sameAs rdf:resource="http://es.dbpedia.org/resource/Prefectura_de_Aomori" />
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Aomori_Prefecture" />
+    <owl:sameAs rdf:resource="http://ja.dbpedia.org/resource/青森県" />
+    <owl:sameAs rdf:resource="http://it.dbpedia.org/resource/Prefettura_di_Aomori" />
+    <owl:sameAs rdf:resource="http://sws.geonames.org/2130656/" />
+    <owl:sameAs rdf:resource="http://pt.dbpedia.org/resource/Aomori" />
+    <owl:sameAs rdf:resource="http://yago-knowledge.org/resource/Aomori_Prefecture" />
+    <owl:sameAs rdf:resource="http://id.dbpedia.org/resource/Prefektur_Aomori" />
+    <owl:sameAs rdf:resource="http://fr.dbpedia.org/resource/Préfecture_d&#39;Aomori" />
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q71699" />
+    <owl:sameAs rdf:resource="http://cs.dbpedia.org/resource/Prefektura_Aomori" />
+    <owl:sameAs rdf:resource="http://nl.dbpedia.org/resource/Aomori_(prefectuur)" />
+    <owl:sameAs rdf:resource="http://eu.dbpedia.org/resource/Aomori_(prefetura)" />
+    <owl:sameAs rdf:resource="http://pl.dbpedia.org/resource/Aomori_(prefektura)" />
+    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/Präfektur_Aomori" />
+    <owl:sameAs rdf:resource="http://ko.dbpedia.org/resource/아오모리_현" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Tōhoku_region" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Aomori_Prefecture" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:1871_establishments_in_Japan" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Prefectures_of_Japan" />
+    <dbo:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">61732</dbo:wikiPageID>
+    <dbo:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">744592717</dbo:wikiPageRevisionID>
+    <dbo:wikiPageExternalLink rdf:resource="http://www.misawajapan.com/festivals/others/towada_winter.asp" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.tofugu.com/2011/07/25/all-you-need-to-know-about-japans-weirdest-dialect-tohoku-ben/" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.worldcat.org/oclc/58053128?referer=di&amp;ht=edition" />
+    <dbo:wikiPageExternalLink rdf:resource="http://gojapan.about.com/cs/cherryblossoms/a/sakurafestival.htm" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.pref.aomori.lg.jp/foreigners/index.html" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.pref.aomori.lg.jp/" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.skyscanner.com/airports/aoj/aomori-airport.html" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.pref.aomori.lg.jp" />
+    <dbo:wikiPageExternalLink rdf:resource="https://books.google.com/books?id=p2QnPijAEmEC&amp;client=firefox-a" />
+    <dbo:wikiPageExternalLink rdf:resource="http://aomorimori.wordpress.com/2009/09/15/tachi-neputa-festival-in-goshogawara-city/" />
+    <dbo:wikiPageExternalLink rdf:resource="http://aomoristory.blogspot.jp/2010/07/seiryu-ji-temple-aka-big-buddha-in.html" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.japan-i.jp/explorejapan/tohoku/aomori/" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.japantimes.co.jp/text/nn20120128b3.html#.UALBjpHAIvk" />
+    <dbo:wikiPageExternalLink rdf:resource="https://web.archive.org/web/20130514222052/http:/www.northern-tohoku.gr.jp/english/e_summer/aomori/1ao_maturi.html" />
+    <dbo:wikiPageExternalLink rdf:resource="https://web.archive.org/web/20130514225609/http:/www.northern-tohoku.gr.jp/english/e_autumn2005/aomori/2ao_maturi.html" />
+    <dbo:wikiPageExternalLink rdf:resource="http://ehis.ebscohost.com/eds/results?sid=b5483f79-ffab-4873-8154-ff20e65e9ab5%40sessionmgr12&amp;vid=29&amp;hid=103&amp;bquery=%28nambu%29+AND+%28dialect%29&amp;bdata=JnR5cGU9MSZzaXRlPWVkcy1saXZlJnNjb3BlPXNpdGU%3d#1" />
+    <dbo:wikiPageExternalLink rdf:resource="http://ehis.ebscohost.com/eds/detail?vid=22&amp;hid=121&amp;sid=14bb5609-06b3-4c74-9f36-08fbd8081863%40sessionmgr13&amp;bdata=JnNpdGU9ZWRzLWxpdmUmc2NvcGU9c2l0ZQ%3d%3d#db=pwh&amp;AN=2W61814492561" />
+    <dbo:wikiPageExternalLink rdf:resource="http://ehis.ebscohost.com/eds/detail?vid=3&amp;hid=124&amp;sid=7f6b09c0-4397-48cc-9acd-6056a8c6fd1b%40sessionmgr112&amp;bdata=JnNpdGU9ZWRzLWxpdmUmc2NvcGU9c2l0ZQ%3d%3d#db=edsnbk&amp;AN=13C84F7D2404B018" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.skyscanner.com/airports/msj/misawa-airport.html" />
+    <foaf:name xml:lang="en">Aomori</foaf:name>
+    <foaf:homepage rdf:resource="http://www.pref.aomori.lg.jp" />
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#float">40.8247</geo:lat>
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#float">140.741</geo:long>
+    <foaf:depiction rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Flag_of_Aomori_Prefecture.svg" />
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Aomori_Prefecture" />
+    <geo:geometry rdf:datatype="http://www.openlinksw.com/schemas/virtrdf#Geometry">POINT(140.7406463623 40.82466506958)</geo:geometry>
+    <dbo:thumbnail rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Flag_of_Aomori_Prefecture.svg?width=300" />
+    <prov:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Aomori_Prefecture?oldid=744592717" />
+    <ns9:areaTotal rdf:datatype="http://dbpedia.org/datatype/squareKilometre">9606.26</ns9:areaTotal>
+    <ns9:populationDensity rdf:datatype="http://dbpedia.org/datatype/inhabitantsPerSquareKilometre">154.0</ns9:populationDensity>
+    <dbo:abstract xml:lang="es">La prefectura de Aomori (青森県 Aomori-ken?) está situada en la región de Tohoku en Japón. La capital es la ciudad de Aomori.</dbo:abstract>
+    <dbo:abstract xml:lang="ar">25بك المحتوى هنا ينقصه الاستشهاد بمصادر. يرجى إيراد مصادر موثوق بها. أي معلومات غير موثقة يمكن التشكيك بها وإزالتها. (مارس 2016) محافظة آوموري (باليابانية: 青森県 آوموري-كن) هي إحدى محافظات الـيابان تقع في منطقة توهوكو، وعاصمتها مدينة &quot;آوموري&quot;.</dbo:abstract>
+    <dbo:abstract xml:lang="en">Aomori Prefecture (青森県 Aomori-ken) is a prefecture of Japan located in the Tōhoku region. The capital is the city of Aomori.</dbo:abstract>
+    <dbo:abstract xml:lang="fr">La préfecture d&#39;Aomori (青森県, Aomori-ken) occupe l&#39;extrême nord de l&#39;île de Honshū, la principale île du Japon. Elle fait face à l&#39;île de Hokkaidō.</dbo:abstract>
+    <dbo:abstract xml:lang="nl">De prefectuur Aomori (青森県, Aomori-ken) is een Japanse prefectuur in de regio Tohoku in het noorden van het eiland Honshū. Aomori heeft een oppervlakte van 9607,05 km² en een bevolking van ongeveer 1.404.462 (2008) inwoners. De hoofdstad is de gelijknamige stad Aomori.</dbo:abstract>
+    <dbo:abstract xml:lang="ru">Ао́мори (яп. 青森県 Аомори-кэн) — префектура Японии, которая находится в регионе Тохоку на севере острова Хонсю. Центр префектуры — город Аомори. Площадь префектуры составляет 9644,55 км², население — 1 353 283 человека (1 августа 2014), плотность населения — 140,32 чел./км². Основой экономики является сельское хозяйство, в частности выращивание яблок. На территории префектуры расположены вулканическое озеро Товада, вулканическая гряда Хаккода, а также горы Сираками — объект Всемирного наследия ЮНЕСКО. Среди культурных памятников — археологическая стоянка Саннай-Маруяма — крупнейшее поселение в Японии эпохи неолита, руины средневекового замка Хиросаки и ночные парады нэбута с огромными фигурными фонарями. Условно делится на три основные урбанистические зоны: политико-административный центр Аомори, промышленно-хозяйственный район Хатинохе и культурно-исторический район Хиросаки.</dbo:abstract>
+    <dbo:abstract xml:lang="pt">Aomori (青森県, Aomori-ken?) é uma província do Japão localizada na região de Tohoku. A sua capital é a cidade de Aomori.</dbo:abstract>
+    <dbo:abstract xml:lang="it">La prefettura di Aomori (青森県 Aomori-ken?) è una prefettura giapponese di circa 1,4 milioni di abitanti, con capoluogo nell&#39;omonima città Aomori. Si trova nella regione di Tōhoku, sull&#39;isola di Honshū.</dbo:abstract>
+    <dbo:abstract xml:lang="de">Die Präfektur Aomori (jap. 青森県, Aomori-ken) ist eine Präfektur Japans. Sie befindet sich in der Region Tōhoku auf der Insel Honshū. Sitz der Präfekturverwaltung ist die gleichnamige Stadt Aomori.</dbo:abstract>
+    <dbo:abstract xml:lang="ja">青森県（あおもりけん）は、日本の本州最北端に位置する県である。県庁所在地は青森市。県の人口は全国31位、面積は全国8位である。令制国の陸奥国（むつのくに、りくおうのくに）で構成される。</dbo:abstract>
+    <dbo:abstract xml:lang="pl">Prefektura Aomori (jap. 青森県 Aomori-ken) – terytorialna jednostka administracyjna w regionie Tōhoku, w Japonii. Stolicą jest miasto Aomori.</dbo:abstract>
+    <dbo:abstract xml:lang="zh">青森县（日语：青森県／あおもりけん Aomori ken */?），為日本本州最北部的一个縣。縣廳位於青森市。在令制國的時代屬於陸奧國。 人口約有130萬，其中54%的人口居住在青森市、八戶市和弘前市。</dbo:abstract>
+    <dbo:areaTotal rdf:datatype="http://www.w3.org/2001/XMLSchema#double">9.60626e+09</dbo:areaTotal>
+    <dbo:capital rdf:resource="http://dbpedia.org/resource/Aomori,_Aomori" />
+    <dbo:country rdf:resource="http://dbpedia.org/resource/Japan" />
+    <dbo:populationDensity rdf:datatype="http://www.w3.org/2001/XMLSchema#double">154.0</dbo:populationDensity>
+    <dbo:populationTotal rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">1373164</dbo:populationTotal>
+    <dbp:island rdf:resource="http://dbpedia.org/resource/Honshu" />
+    <dbp:municipalities rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">40</dbp:municipalities>
+    <dbp:popdate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2010-10-01</dbp:popdate>
+    <!--
+    <p: xmlns:p="http://dbpedia.org/property/rōmaji" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Aomori-ken</p:>
+    -->
+    <georss:point>40.824666666666666 140.7406388888889</georss:point>
+    <dbp:arearank rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">8</dbp:arearank>
+    <dbp:bird rdf:resource="http://dbpedia.org/resource/Bewick&#39;s_swan" />
+    <dbp:districts rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">8</dbp:districts>
+    <dbp:flag rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Flag of Aomori Prefecture.svg</dbp:flag>
+    <dbp:flower rdf:resource="http://dbpedia.org/resource/Blossom" />
+    <dbp:flower rdf:resource="http://dbpedia.org/resource/Apple" />
+    <dbp:governor rdf:resource="http://dbpedia.org/resource/Shingo_Mimura" />
+    <dbp:isocode rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">JP-02</dbp:isocode>
+    <dbp:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">40</dbp:latitude>
+    <dbp:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">139</dbp:longitude>
+    <dbp:pcwater rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.2</dbp:pcwater>
+    <dbp:poprank rdf:datatype="http://dbpedia.org/datatype/stone">31.0</dbp:poprank>
+    <dbp:region rdf:resource="http://dbpedia.org/resource/Tōhoku_region" />
+    <dbp:tree rdf:resource="http://dbpedia.org/resource/Thujopsis" />
+    <dbp:japanesename rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">青森県</dbp:japanesename>
+    <ns11:hypernym rdf:resource="http://dbpedia.org/resource/Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Aomori_Bay_Bridge">
+    <dbo:locatedInArea rdf:resource="http://dbpedia.org/resource/Aomori_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hiroshi_Izumi">
+    <dbp:fightingOutOf rdf:resource="http://dbpedia.org/resource/Aomori_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Aomori_Chuo_Gakuin_University">
+    <dbo:state rdf:resource="http://dbpedia.org/resource/Aomori_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Aomori_High_School">
+    <dbo:state rdf:resource="http://dbpedia.org/resource/Aomori_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Aomori_Public_University">
+    <dbo:state rdf:resource="http://dbpedia.org/resource/Aomori_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Aomori_University">
+    <dbo:state rdf:resource="http://dbpedia.org/resource/Aomori_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Aomori_University_of_Health_and_Welfare">
+    <dbo:state rdf:resource="http://dbpedia.org/resource/Aomori_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hachinohe_Gakuin_University">
+    <dbo:state rdf:resource="http://dbpedia.org/resource/Aomori_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hachinohe_Institute_of_Technology">
+    <dbo:state rdf:resource="http://dbpedia.org/resource/Aomori_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hirosaki_Gakuin_University">
+    <dbo:state rdf:resource="http://dbpedia.org/resource/Aomori_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hirosaki_University_of_Health_and_Welfare">
+    <dbo:state rdf:resource="http://dbpedia.org/resource/Aomori_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nakadomari,_Aomori">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Aomori_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tohoku_Women&#39;s_College">
+    <dbo:state rdf:resource="http://dbpedia.org/resource/Aomori_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Iwaki_River">
+    <dbo:mouthMountain rdf:resource="http://dbpedia.org/resource/Aomori_Prefecture" />
+    <dbo:mouthPlace rdf:resource="http://dbpedia.org/resource/Aomori_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Takayama_Inari_Shrine">
+    <dbp:address rdf:resource="http://dbpedia.org/resource/Aomori_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Takayama_Uichi_Memorial_Museum_of_Art">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Aomori_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mami_Matsuyama">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Aomori_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hachinohe_Line">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Aomori_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Isamu_Masuda">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Aomori_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kyōsuke_Eto">
+    <dbp:birthPlace rdf:resource="http://dbpedia.org/resource/Aomori_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Takahito_Kudo">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Aomori_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ōmazaki_Lighthouse">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Aomori_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Takarafuji_Daisuke">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Aomori_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sai,_Aomori">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Aomori_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yoshitomo_Nara">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Aomori_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Dewanohana_Yoshitaka">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Aomori_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hayateumi_Hidehito">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Aomori_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Henmaru_Machino">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Aomori_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kagamisato_Kiyoji">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Aomori_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kaihō_Ryōji">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Aomori_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Koji_Kumagai">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Aomori_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Masafumi_Kimura">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Aomori_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Masao_Sasakibara">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Aomori_Prefecture" />
+    <dbp:birthPlace rdf:resource="http://dbpedia.org/resource/Aomori_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Masatoshi_Kushibiki">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Aomori_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Naminohana_Kazutaka">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Aomori_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Oiteyama_Hirokuni">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Aomori_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Shikō_Munakata">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Aomori_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Takanosato_Toshihide">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Aomori_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Wakajishi_Shigenori">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Aomori_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Aomori_prefecture">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Aomori_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Takuya_Kawamura">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Aomori_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tetsuya_Takehora">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Aomori_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Saeko_Chiba">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Aomori_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Inagaki,_Aomori">
+    <dbp:prefecture rdf:resource="http://dbpedia.org/resource/Aomori_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Iwasaki,_Aomori">
+    <dbp:prefecture rdf:resource="http://dbpedia.org/resource/Aomori_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kamikita,_Aomori">
+    <dbp:prefecture rdf:resource="http://dbpedia.org/resource/Aomori_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kashiwa,_Aomori">
+    <dbp:prefecture rdf:resource="http://dbpedia.org/resource/Aomori_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kizukuri,_Aomori">
+    <dbp:prefecture rdf:resource="http://dbpedia.org/resource/Aomori_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Morita,_Aomori">
+    <dbp:prefecture rdf:resource="http://dbpedia.org/resource/Aomori_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Shariki,_Aomori">
+    <dbp:prefecture rdf:resource="http://dbpedia.org/resource/Aomori_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tokiwa,_Aomori">
+    <dbp:prefecture rdf:resource="http://dbpedia.org/resource/Aomori_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Towadako,_Aomori">
+    <dbp:prefecture rdf:resource="http://dbpedia.org/resource/Aomori_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Wakinosawa,_Aomori">
+    <dbp:prefecture rdf:resource="http://dbpedia.org/resource/Aomori_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ōhata,_Aomori">
+    <dbp:prefecture rdf:resource="http://dbpedia.org/resource/Aomori_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hachinohe_Castle">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Aomori_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Aomori_Museum_of_Art">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Aomori_Prefecture" />
+    <dbp:owner rdf:resource="http://dbpedia.org/resource/Aomori_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Aomori_Prefectural_Museum">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Aomori_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Towada_Art_Center">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Aomori_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hiraka,_Aomori">
+    <dbp:prefecture rdf:resource="http://dbpedia.org/resource/Aomori_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Act_Yasukawa">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Aomori_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Chū_Kudō">
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Aomori_Prefecture" />
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Aomori_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Aomori_1st_district">
+    <dbp:district rdf:resource="http://dbpedia.org/resource/Aomori_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ōma_Nuclear_Power_Plant">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Aomori_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gaku_Shibasaki">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Aomori_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yomasari_Dam">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Aomori_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hwang_Jang-lee">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Aomori_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Masato_Harasaki">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Aomori_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/List_of_Historic_Sites_of_Japan_(Aomori)">
+    <dbp:prefecture rdf:resource="http://dbpedia.org/resource/Aomori_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kōnan_Bus_Company">
+    <dbo:locationCity rdf:resource="http://dbpedia.org/resource/Aomori_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Oirase,_Aomori">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Aomori_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Aomori_Airport">
+    <dbo:operator rdf:resource="http://dbpedia.org/resource/Aomori_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Asamushi_Aquarium">
+    <dbp:location rdf:resource="http://dbpedia.org/resource/Aomori_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hisashi_(musician)">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Aomori_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Masamichi_Noro">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Aomori_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yoshinori_Fujita">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Aomori_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hiroki_Iikura">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Aomori_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Masataka_Mikami">
+    <dbp:birthPlace rdf:resource="http://dbpedia.org/resource/Aomori_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Noriko_Awaya">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Aomori_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jūmonji_Tomokazu">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Aomori_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mitsuru_Ogata">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Aomori_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kei_Mizutani">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Aomori_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Shūji_Terayama">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Aomori_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Takanohana_Kenshi">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Aomori_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kan_Mikami">
+    <dbo:hometown rdf:resource="http://dbpedia.org/resource/Aomori_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kashiwado_Risuke">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Aomori_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Shimizugawa_Motokichi">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Aomori_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Motome_Takisawa">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Aomori_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Masakatsu_Funaki">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Aomori_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kaiki_Nobuhide">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Aomori_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Supercar_(band)">
+    <dbo:hometown rdf:resource="http://dbpedia.org/resource/Aomori_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Towada_Kankō_Electric_Railway">
+    <dbo:regionServed rdf:resource="http://dbpedia.org/resource/Aomori_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Binbin_Takaoka">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Aomori_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yoshinaga_Arima">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Aomori_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Aoimori_Railway_Line">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Aomori_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Akaishi_Keiryū_Anmon_no_Taki_Prefectural_Natural_Park">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Aomori_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Asamushi-Natsudomari_Prefectural_Natural_Park">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Aomori_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ashino_Chishōgun_Prefectural_Natural_Park">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Aomori_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Iwaki_Kōgen_Prefectural_Natural_Park">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Aomori_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kuroishi_Onsenkyō_Prefectural_Natural_Park">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Aomori_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nakuidake_Prefectural_Natural_Park">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Aomori_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Saruka_Jinja">
+    <dbp:address rdf:resource="http://dbpedia.org/resource/Aomori_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tanesashi_Kaigan_Hashikamidake_Prefectural_Natural_Park">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Aomori_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ōwani_Ikarigaseki_Onsenkyō_Prefectural_Natural_Park">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Aomori_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Aomori,_Japan">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Aomori_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Asōfuji_Seiya">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Aomori_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Takanonami_Sadahiro">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Aomori_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mainoumi_Shūhei">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Aomori_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Takahiro_Shimotaira">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Aomori_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tsuyoshi_Furukawa">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Aomori_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Shokichi_Sato">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Aomori_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/JS_Makinami_(DD-112)">
+    <dbo:homeport rdf:resource="http://dbpedia.org/resource/Aomori_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yuzuki_Muroi">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Aomori_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Daimaou_Kosaka">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Aomori_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/JP-02">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Aomori_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/青森県">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Aomori_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Aomori_Prefecture">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Aomori_Prefecture" />
+  </rdf:Description>
+</rdf:RDF>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:dbo="http://dbpedia.org/ontology/"
+	xmlns:dbp="http://dbpedia.org/property/"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:prov="http://www.w3.org/ns/prov#" >
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Koichi_Kobayashi">
+    <dbp:birthPlace rdf:resource="http://dbpedia.org/resource/Asahikawa" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hokkaido_University_of_Education">
+    <dbo:campus rdf:resource="http://dbpedia.org/resource/Asahikawa" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Keigo_Yamashita">
+    <dbp:birthPlace rdf:resource="http://dbpedia.org/resource/Asahikawa" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Asahikawa_Airport">
+    <dbo:city rdf:resource="http://dbpedia.org/resource/Asahikawa" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Asahiyama_Zoo">
+    <dbp:location rdf:resource="http://dbpedia.org/resource/Asahikawa" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/P._C._Sorcar">
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Asahikawa" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Asahikawa">
+    <rdfs:label xml:lang="en">Asahikawa</rdfs:label>
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Asahikawa" />
+    <dbo:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">6792302</dbo:wikiPageID>
+    <dbo:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">535602611</dbo:wikiPageRevisionID>
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Asahikawa,_Hokkaido" />
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Asahikawa" />
+    <prov:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Asahikawa?oldid=535602611" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tomoka_Takeuchi">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Asahikawa" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Anzen_Chitai">
+    <dbo:hometown rdf:resource="http://dbpedia.org/resource/Asahikawa" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ikumi_Narita">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Asahikawa" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hiroshi_Tadano">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Asahikawa" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yumiko_Igarashi">
+    <dbp:birthPlace rdf:resource="http://dbpedia.org/resource/Asahikawa" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Asahikawa">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Asahikawa" />
+  </rdf:Description>
+</rdf:RDF>

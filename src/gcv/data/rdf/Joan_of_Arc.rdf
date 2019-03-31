@@ -1,0 +1,511 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:dbo="http://dbpedia.org/ontology/"
+	xmlns:dct="http://purl.org/dc/terms/"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:prov="http://www.w3.org/ns/prov#"
+	xmlns:dbp="http://dbpedia.org/property/" >
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Joan_arc">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Joan_of_Arc" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ramona_Convent_Secondary_School">
+    <dbo:schoolPatron rdf:resource="http://dbpedia.org/resource/Joan_of_Arc" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Joan_d&#39;arc">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Joan_of_Arc" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jean_d&#39;Arc">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Joan_of_Arc" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Loire_Campaign_(1429)">
+    <dbo:commander rdf:resource="http://dbpedia.org/resource/Joan_of_Arc" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Johanne_of_Arc">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Joan_of_Arc" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Joan_of_Arc_bibliography">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Joan_of_Arc" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Joan_off_arc">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Joan_of_Arc" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Joan_d&#39;_Arc">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Joan_of_Arc" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Joan_of_Arc">
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatPeopleExecutedByBurning" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatPeopleExecutedByFrance" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatPeopleExecutedForHeresy" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Saint" />
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatMedievalFrenchSaints" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatPeopleExecutedByTheKingdomOfEnglandByBurning" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Saint110546850" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Victim110752093" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatRomanCatholicSaints" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatChristianSaints" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatChristianMartyrs" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatMartyrs" />
+    <rdf:type rdf:resource="http://schema.org/Person" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Abstraction100002137" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Prophet110483530" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Diviner110020031" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q215627" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatExecutedPeopleFromLorraine" />
+    <rdf:type rdf:resource="http://umbel.org/umbel/rc/Saint" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q24229398" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Martyr110296618" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatCatholicMartyrs" />
+    <rdf:type rdf:resource="http://umbel.org/umbel/rc/PersonWithOccupation" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatAnglicanSaints" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q43115" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatFrenchWomen" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatPeopleOfTheHundredYears&#39;War" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Agent" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatWomenInMedievalWarfare" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Cleric" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/ReligiousPerson109628382" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Whole100003553" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/LivingThing100004258" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/CausalAgent100007347" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q5" />
+    <rdf:type rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Leader109623038" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Organism100004475" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Person" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatPeopleExecutedUnderTheLancastrians" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatPatronSaintsOfFrance" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatFrenchRomanCatholicSaints" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Wikicat15th-centuryChristianFemaleSaints" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Wikicat15th-centuryChristianMartyrs" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Wikicat15th-centuryChristianSaints" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Female109619168" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatSaints" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PatronSaint110408552" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Saint110547145" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatProphetsInChristianity" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatFrenchPeople" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Intellectual109621545" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatExecutedFrenchWomen" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatRomanCatholicMystics" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatPeopleFromVosges" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatVictimsOfTheInquisition" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatWomenInWarInFrance" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Unfortunate109630641" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Wikicat15th-centuryRomanCatholicMartyrs" />
+    <rdf:type rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Mystic110343554" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Believer109847727" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatNationalHeroes" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatPeopleFromOrléans" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatFrenchSaints" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PhysicalEntity100001930" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoLegalActor" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoLegalActorGeo" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatExecutedFrenchPeople" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Adult109605289" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatFrenchPeopleExecutedByBurning" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Person100007846" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatChristianMystics" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Object100002684" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/GoodPerson110138767" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatWomen" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Woman110787470" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Preserver110466918" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Defender109614684" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PsychologicalFeature100023100" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Content105809192" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Cognition100023271" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatFemaleSaints" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Belief105941423" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/SpiritualBeing109504135" />
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Visionary110756433" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Deity109505418" />
+    <rdf:type rdf:resource="http://umbel.org/umbel/rc/Cleric" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Hero110325013" />
+    <rdfs:label xml:lang="it">Giovanna d&#39;Arco</rdfs:label>
+    <rdfs:label xml:lang="fr">Jeanne d&#39;Arc</rdfs:label>
+    <rdfs:label xml:lang="zh">聖女貞德</rdfs:label>
+    <rdfs:label xml:lang="nl">Jeanne d&#39;Arc</rdfs:label>
+    <rdfs:label xml:lang="de">Jeanne d’Arc</rdfs:label>
+    <rdfs:label xml:lang="ja">ジャンヌ・ダルク</rdfs:label>
+    <rdfs:label xml:lang="ru">Жанна д’Арк</rdfs:label>
+    <rdfs:label xml:lang="es">Juana de Arco</rdfs:label>
+    <rdfs:label xml:lang="en">Joan of Arc</rdfs:label>
+    <rdfs:label xml:lang="pt">Joana d&#39;Arc</rdfs:label>
+    <rdfs:label xml:lang="ar">جان دارك</rdfs:label>
+    <rdfs:label xml:lang="pl">Joanna d’Arc</rdfs:label>
+    <rdfs:comment xml:lang="ru">Жа́нна д’Арк, Орлеанская дева (совр. фр. Jeanne d&#39;Arc; 6 января 1412 — 30 мая 1431) — национальная героиня Франции, одна из командующих французскими войсками в Столетней войне. Попав в плен к бургундцам, была передана англичанам, осуждена как еретичка и сожжена на костре. Впоследствии была реабилитирована и канонизирована — причислена католической церковью к лику святых.</rdfs:comment>
+    <rdfs:comment xml:lang="es">Juana de Arco (en francés: Jeanne d&#39;Arc), también conocida como la Doncella de Orleans (en francés: la Pucelle; Domrémy, 6 de enero de 1412-Ruan, 30 de mayo de 1431), fue una heroína, militar y santa francesa. Su festividad se conmemora el día del aniversario de su muerte, el 30 de mayo, como es tradición en la Iglesia católica.</rdfs:comment>
+    <rdfs:comment xml:lang="en">Joan of Arc (French: Jeanne d&#39;Arc, IPA: [ʒan daʁk]; 6 January c. 1412 – 30 May 1431), nicknamed &quot;The Maid of Orléans&quot; (French: La Pucelle d&#39;Orléans), is considered a heroine of France for her role during the Lancastrian phase of the Hundred Years&#39; War, and was canonized as a Roman Catholic saint. Joan of Arc was born to Jacques d&#39;Arc and Isabelle Romée, a peasant family, at Domrémy in north-east France. Joan said she received visions of the Archangel Michael, Saint Margaret, and Saint Catherine of Alexandria instructing her to support Charles VII and recover France from English domination late in the Hundred Years&#39; War. The uncrowned King Charles VII sent Joan to the siege of Orléans as part of a relief mission. She gained prominence after the siege was lifted only nine days later. Several</rdfs:comment>
+    <rdfs:comment xml:lang="pl">Joanna d’Arc (fr. Jeanne d’Arc, IPA: /ʒan daʁk/), znana także jako Dziewica Orleańska (ur. prawdopodobnie 6 stycznia 1412 w Domrémy-la-Pucelle, zm. 30 maja 1431 w Rouen) – francuska bohaterka narodowa, święta Kościoła katolickiego, patronka Francji. Podczas wojny stuletniej poprowadziła armię francuską do kilku ważnych zwycięstw, twierdząc, że działa kierowana przez Boga. Pośrednio przyczyniła się do koronacji Karola VII. Została schwytana przez Burgundczyków i przekazana Anglikom, osądzona przez sąd kościelny i spalona na stosie w wieku 19 lat. 24 lata później papież Kalikst III dokonał rewizji decyzji sądu kościelnego. Uniewinnił ją i określił przeprowadzony w Rouen proces jako sprzeczny z prawem. Została beatyfikowana w 1909 roku i kanonizowana w 1920.</rdfs:comment>
+    <rdfs:comment xml:lang="ja">ジャンヌ・ダルク（フランス語: Jeanne d&#39;Arc、古綴：Jehanne Darc、IPA: [ʒan daʁk]、英: Joan of Arc、ユリウス暦 1412年頃1月6日 - 1431年5月30日）は、15世紀のフランス王国の軍人。フランスの国民的ヒロインで、カトリック教会における聖人でもある。「オルレアンの乙女」（フランス語: la Pucelle d&#39;Orléans/英: The Maid of Orléans）とも呼ばれる。</rdfs:comment>
+    <rdfs:comment xml:lang="it">Riunì al proprio Paese parte del territorio caduto in mano agli inglesi, contribuendo a risollevarne le sorti durante la guerra dei cent&#39;anni, guidando vittoriosamente le armate francesi contro quelle inglesi. Catturata dai Borgognoni davanti a Compiègne, Giovanna fu venduta agli inglesi che la sottoposero a un processo per eresia, al termine del quale, il 30 maggio 1431, fu condannata al rogo e arsa viva. Nel 1456 papa Callisto III, al termine di una seconda inchiesta, dichiarò la nullità di tale processo.</rdfs:comment>
+    <rdfs:comment xml:lang="de">Jeanne d’Arc [ʒanˈdaʁk] (* vermutlich 6. Januar 1412 in Domrémy, Lothringen; † 30. Mai 1431 in Rouen), im deutschen Sprachraum auch Johanna von Orléans oder die Jungfrau von Orléans genannt, ist eine französische Nationalheldin. Sie wird in der römisch-katholischen Kirche als Jungfrau und Heilige verehrt.</rdfs:comment>
+    <rdfs:comment xml:lang="zh">聖女貞德（法语：Jeanne d&#39;Arc或Jeanne la Pucelle，1412年1月6日－1431年5月30日）是法國的军事家，天主教聖人，被法国人视为民族英雄。在英法百年戰爭（1337年－1453年）中她帶領法國軍隊對抗英軍的入侵，最後被捕並被處決。 貞德原本是一位法国农村少女，她聲稱在十六歲時的一日，在村後的大樹下遇見天使聖彌額爾、聖瑪加利大和聖加大肋納，從而得到「上帝的啟示」，要求她帶兵收復當時由英格兰人佔領的法國失地。後來她幾番轉折，得到兵權，于1429年解奥尔良之围，成為了聞名法國的女英雄，后帶兵多次打敗英格兰的侵略者，更促使擁有王位承繼權的查理七世于同年7月16日得以加冕。然而聖女貞德于1430年在贡比涅一次小衝突中為勃艮第公國所俘，不久為英格兰人以重金購去，由英格兰当局控制下的宗教裁判所以异端和女巫罪判處她火刑，于1431年5月30日在法國鲁昂當眾處死。20年後英格兰军队被徹底逐出法國時，貞德年老的母親說服教宗卡利克斯特三世重新審判貞德的案子，最終於1456年為她平反。500年後被梵蒂冈封聖。</rdfs:comment>
+    <rdfs:comment xml:lang="ar">جان دارك  (بالفرنسية: Jeanne d&#39;Arc) الملقبة بعذراء أورليان (بالفرنسية: La Pucelle d&#39;Orléans)، ولدت لعائلة من الفلاحين في الوسط الشرقي من فرنسا عام 1412، وتوفيت في 30 مايو 1431، وتُعدّ بطلة قومية فرنسية وقديسة في الكنيسة الرومانية الكاثوليكية. ادّعت جان دارك الإلهام الإلهي، وقادت الجيش الفرنسي إلى عدة انتصارات مهمّة خلال حرب المئة عام، ممهدةً بذلك الطريق لتتويج شارل السابع ملكاً على البلاد. قُبض عليها بعد ذلك وأُرسلت إلى الإنجليز مقابل المال، وحوكمت بتهمة &quot;العصيان والزندقة&quot;، ثم أُعدمت حرقاً بتهمة الهرطقة عندما كانت تبلغ 19 عاماً.</rdfs:comment>
+    <rdfs:comment xml:lang="nl">Jeanne d&#39;Arc (Domrémy, Lotharingen, ca. 1412 – Rouen, Normandië, 30 mei 1431), bijgenaamd de Maagd van Orléans, is een nationale heldin van Frankrijk. Als jong meisje van eenvoudige afkomst speelde ze een beslissende rol in de Honderdjarige Oorlog tussen Engeland en Frankrijk, wat in het tijdskader een opmerkelijke prestatie was. Op negentienjarige leeftijd werd ze door een partijdige kerkelijke rechtbank veroordeeld en stierf ze op de brandstapel in Rouen. Vijfentwintig jaar na haar dood liet paus Calixtus III het proces herzien, ze werd onschuldig bevonden en kreeg bij de plechtige uitspraak van het proces op 7 juli 1456 de titel van martelares. In 1909 werd ze uiteindelijk zalig verklaard door de Katholieke Kerk en in 1920 volgde de heiligverklaring. Ondertussen wordt ze gerekend tot de</rdfs:comment>
+    <rdfs:comment xml:lang="fr">Jeanne d&#39;Arc, née vers 1412 à Domrémy village du duché de Bar dont une partie relevait du royaume de France pour le temporel et de l&#39;évêché de Toul pour le spirituel (actuellement dans le département des Vosges en Lorraine), et morte sur le bûcher le 30 mai 1431 à Rouen, capitale du duché de Normandie alors possession du royaume d&#39;Angleterre, est une héroïne de l&#39;histoire de France, chef de guerre et sainte de l&#39;Église catholique, surnommée depuis le XVIe siècle « la Pucelle d&#39;Orléans » et, depuis le XIXe siècle, « mère de la nation française ».</rdfs:comment>
+    <rdfs:comment xml:lang="pt">Joana d&#39;Arc (em francês: Jeanne d&#39;Arc, IPA: [ʒan daʁk]; em italiano: Giovanna D&#39;Arco; ca. 1412  – 30 de maio de 1431), cognominada &quot;A Donzela de Orléans&quot; (em francês: La Pucelle d&#39;Orléans) e também conhecida como Joana d&#39;Arc, a ruiva (em francês: Jeanne d&#39;Arc, la rousse) é uma heroína francesa e santa da Igreja Católica. É a santa padroeira da França e foi uma chefe militar da Guerra dos Cem Anos, durante a qual tomou partido pelos armagnacs, na longa luta contra os borguinhões e seus aliados ingleses. Foi executada pelos borguinhões em 1431. Camponesa, modesta e analfabeta, foi uma mártir francesa e também heroína de seu povo, canonizada em 1920, quase cinco séculos depois de ter sido queimada viva em um auto de fé.</rdfs:comment>
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Cultural_depictions_of_Joan_of_Arc" />
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Siege_of_Orléans" />
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Trial_of_Joan_of_Arc" />
+    <owl:sameAs rdf:resource="http://yago-knowledge.org/resource/Joan_of_Arc" />
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q7226" />
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.046mm" />
+    <owl:sameAs rdf:resource="http://viaf.org/viaf/97108273" />
+    <owl:sameAs rdf:resource="http://nl.dbpedia.org/resource/Jeanne_d&#39;Arc" />
+    <owl:sameAs rdf:resource="http://data.europa.eu/euodp/jrc-names/Jeanne_d%27Arc" />
+    <owl:sameAs rdf:resource="http://eu.dbpedia.org/resource/Joana_Arc-ekoa" />
+    <owl:sameAs rdf:resource="http://el.dbpedia.org/resource/Ιωάννα_της_Λωραίνης" />
+    <owl:sameAs rdf:resource="http://cs.dbpedia.org/resource/Jana_z_Arku" />
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q7226" />
+    <owl:sameAs rdf:resource="http://pt.dbpedia.org/resource/Joana_d&#39;Arc" />
+    <owl:sameAs rdf:resource="http://ja.dbpedia.org/resource/ジャンヌ・ダルク" />
+    <owl:sameAs rdf:resource="http://es.dbpedia.org/resource/Juana_de_Arco" />
+    <owl:sameAs rdf:resource="http://pl.dbpedia.org/resource/Joanna_d’Arc" />
+    <owl:sameAs rdf:resource="http://id.dbpedia.org/resource/Jeanne_d&#39;Arc" />
+    <owl:sameAs rdf:resource="http://it.dbpedia.org/resource/Giovanna_d&#39;Arco" />
+    <owl:sameAs rdf:resource="http://d-nb.info/gnd/118557238" />
+    <owl:sameAs rdf:resource="http://ko.dbpedia.org/resource/잔_다르크" />
+    <owl:sameAs rdf:resource="http://www.bbc.co.uk/things/1a5051cb-2680-4b49-82fa-f17dc9951225#id" />
+    <owl:sameAs rdf:resource="http://sw.cyc.com/concept/Mx4rvtUySZwpEbGdrcN5Y29ycA" />
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Joan_of_Arc" />
+    <owl:sameAs rdf:resource="http://fr.dbpedia.org/resource/Jeanne_d&#39;Arc" />
+    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/Jeanne_d’Arc" />
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Normandy" />
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/The_Dual-Monarchy_of_England_and_France" />
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Rouen" />
+    <dbo:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1431-5-30</dbo:deathDate>
+    <dbo:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1431-05-30</dbo:deathDate>
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Domrémy-la-Pucelle" />
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Duchy_of_Bar" />
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/France_in_the_Middle_Ages" />
+    <dbo:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1412-1-6</dbo:birthDate>
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Beatifications_by_Pope_Pius_X" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:French_Roman_Catholic_saints" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Executed_people_from_Lorraine" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:15th-century_Roman_Catholic_martyrs" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:History_of_Rouen" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Women_in_15th-century_warfare" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:15th-century_Christian_saints" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Female_wartime_cross-dressers" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Christian_mystics" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Armagnac_faction" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:French_prisoners_of_war_in_the_Hundred_Years&#39;_War" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Joan_of_Arc" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:History_of_Catholicism_in_France" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:15th-century_women" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Medieval_French_saints" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:1412_births" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Christian_female_saints_of_the_Middle_Ages" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Patron_saints_of_France" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:People_of_the_Hundred_Years&#39;_War" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:People_executed_for_heresy" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:People_from_Vosges_(department)" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Executed_French_people" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Angelic_visionaries" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:People_executed_by_the_Kingdom_of_England_by_burning" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Roman_Catholic_mystics" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:People_executed_under_the_Lancastrians" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Women_in_medieval_European_warfare" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Prophets_in_Christianity" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Canonizations_by_Pope_Benedict_XV" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:1431_deaths" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Military_saints" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Women_in_war_in_France" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Executed_French_women" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Michael_(archangel)" />
+    <dbo:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">16509</dbo:wikiPageID>
+    <dbo:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">744400602</dbo:wikiPageRevisionID>
+    <dbo:wikiPageExternalLink rdf:resource="http://www.stjoan-center.com/Trials/#condemnation" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.jeanne-darc.info/p_multimedia_movie/0_movies.html" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.jeannedarc.com.fr/centre/centre.htm" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.amazon.com/dp/0312214421/#reader-link" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.authorama.com/book/jeanne-d-arc.html" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.authorama.com/history-of-england-1.html" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.joan-of-arc-studies.org/" />
+    <dbo:wikiPageExternalLink rdf:resource="http://catholicsaints.info/saint-joan-of-arc/" />
+    <dbo:wikiPageExternalLink rdf:resource="http://jean-claude.colrat.pagesperso-orange.fr/index-angl.htm" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.inrap.fr/archeologie-preventive/Ressources/Reportages-videos/Derniers-reportages/p-10444-Le-systeme-de-defense-medieval-a-Orleans.htm" />
+    <dbo:wikiPageExternalLink rdf:resource="http://archive.joan-of-arc.org/" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.gutenberg.org/files/16933/16933.txt" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.smu.edu/IJAS/movielis.html" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.1000questions.net/en/jeanne/index.html" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.catholic.org/saints/saint.php?saint_id=295" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.gutenberg.org/files/10940/10940.txt" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.stjoan-center.com/Trials/#nullification" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.authorama.com/famous-men-of-the-middle-ages-1.html" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.gutenberg.org/files/11953/11953.txt" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.gutenberg.org/files/13144/13144.txt" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.newadvent.org/cathen/08409c.htm" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.gutenberg.org/dirs/etext04/hstng10.txt" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.gutenberg.org/dirs/etext04/mdvlp10.txt" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.gutenberg.org/dirs/etext04/7mjnc10.txt" />
+    <dbo:wikiPageExternalLink rdf:resource="http://maps.google.com/maps/ms?ie=UTF8&amp;oe=UTF8&amp;msa=0&amp;msid=206255119095185724769.0004afaa377f3a076ba2f" />
+    <dbo:wikiPageExternalLink rdf:resource="http://virtualglobetrotting.com/map/a-cross-on-the-site-of-joan-of-arc-execution/view/?service=0" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.filmrezension.de/dossier/index_johanna_von_orleans.shtml" />
+    <dbo:wikiPageExternalLink rdf:resource="http://perso.wanadoo.fr/musee.jeannedarc/indexanglais.htm" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.jehanne-darc.com/" />
+    <foaf:name xml:lang="en">Saint Joan of Arc</foaf:name>
+    <foaf:name xml:lang="en">Joan of Arc</foaf:name>
+    <foaf:depiction rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Joan_of_arc_miniature_graded.jpg" />
+    <dct:description xml:lang="en">folk heroine and Roman Catholic saint</dct:description>
+    <foaf:givenName xml:lang="en">Jeanne</foaf:givenName>
+    <foaf:gender xml:lang="en">female</foaf:gender>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Joan_of_Arc" />
+    <dbo:thumbnail rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Joan_of_arc_miniature_graded.jpg?width=300" />
+    <prov:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Joan_of_Arc?oldid=744400602" />
+    <dbo:abstract xml:lang="ja">ジャンヌ・ダルク（フランス語: Jeanne d&#39;Arc、古綴：Jehanne Darc、IPA: [ʒan daʁk]、英: Joan of Arc、ユリウス暦 1412年頃1月6日 - 1431年5月30日）は、15世紀のフランス王国の軍人。フランスの国民的ヒロインで、カトリック教会における聖人でもある。「オルレアンの乙女」（フランス語: la Pucelle d&#39;Orléans/英: The Maid of Orléans）とも呼ばれる。</dbo:abstract>
+    <dbo:abstract xml:lang="zh">聖女貞德（法语：Jeanne d&#39;Arc或Jeanne la Pucelle，1412年1月6日－1431年5月30日）是法國的军事家，天主教聖人，被法国人视为民族英雄。在英法百年戰爭（1337年－1453年）中她帶領法國軍隊對抗英軍的入侵，最後被捕並被處決。 貞德原本是一位法国农村少女，她聲稱在十六歲時的一日，在村後的大樹下遇見天使聖彌額爾、聖瑪加利大和聖加大肋納，從而得到「上帝的啟示」，要求她帶兵收復當時由英格兰人佔領的法國失地。後來她幾番轉折，得到兵權，于1429年解奥尔良之围，成為了聞名法國的女英雄，后帶兵多次打敗英格兰的侵略者，更促使擁有王位承繼權的查理七世于同年7月16日得以加冕。然而聖女貞德于1430年在贡比涅一次小衝突中為勃艮第公國所俘，不久為英格兰人以重金購去，由英格兰当局控制下的宗教裁判所以异端和女巫罪判處她火刑，于1431年5月30日在法國鲁昂當眾處死。20年後英格兰军队被徹底逐出法國時，貞德年老的母親說服教宗卡利克斯特三世重新審判貞德的案子，最終於1456年為她平反。500年後被梵蒂冈封聖。 貞德死後成為了西方文化的一個重要角色。從拿破崙時代到現在，法國的政治人物常以她的偉大形象進行宣傳。眾多的作家和作曲家，包括莎士比亞、伏爾泰、席勒、威爾第、馬克吐溫、柴可夫斯基、蕭伯納與布萊希特都創作過有關她的作品，而大量以她為題材的電影、戲劇、和音樂也一直持續發展直到今天。</dbo:abstract>
+    <dbo:abstract xml:lang="de">Jeanne d’Arc [ʒanˈdaʁk] (* vermutlich 6. Januar 1412 in Domrémy, Lothringen; † 30. Mai 1431 in Rouen), im deutschen Sprachraum auch Johanna von Orléans oder die Jungfrau von Orléans genannt, ist eine französische Nationalheldin. Sie wird in der römisch-katholischen Kirche als Jungfrau und Heilige verehrt. Während des Hundertjährigen Krieges verhalf sie bei Orléans den Truppen des Dauphins (Thronerben) zu einem Sieg über Engländer und Burgunder und geleitete anschließend Karl VII. von Frankreich zu seiner Krönung nach Reims. Nach ihrer Gefangennahme am 23. Mai 1430 in Compiègne wurde sie von den mit ihnen verbündeten Burgundern den Engländern übergeben und in einem kirchlichen Verfahren des Bischofs von Beauvais, Pierre Cauchon, der pro-englisch eingestellt war, aufgrund verschiedener Anklagen verurteilt. Am 30. Mai 1431 wurde Jeanne d’Arc im Alter von 19 Jahren auf dem Marktplatz von Rouen auf dem Scheiterhaufen verbrannt. 24 Jahre später strengte die Kurie einen Revisionsprozess an, in dem das Urteil aufgehoben und Jeanne zur Märtyrin erklärt wurde. Im Jahr 1909 wurde sie von Papst Pius X. selig- und 1920 von Papst Benedikt XV. heiliggesprochen. Ihr Gedenktag ist der 30. Mai. An diesem Tag gedenkt man ihrer auch in der Church of England.</dbo:abstract>
+    <dbo:abstract xml:lang="es">Juana de Arco (en francés: Jeanne d&#39;Arc), también conocida como la Doncella de Orleans (en francés: la Pucelle; Domrémy, 6 de enero de 1412-Ruan, 30 de mayo de 1431), fue una heroína, militar y santa francesa. Su festividad se conmemora el día del aniversario de su muerte, el 30 de mayo, como es tradición en la Iglesia católica. Nacida en Domrémy, un pequeño poblado situado en el departamento de los Vosgos en la región de la Lorena, Francia, ya con 17 años encabezó el ejército real francés. Convenció al rey Carlos VII de que expulsara a los ingleses de Francia, y éste le dio autoridad sobre su ejército en el sitio de Orleans, la batalla de Patay y otros enfrentamientos en 1429 y 1430. Estas campañas revitalizaron la facción de Carlos VII durante la guerra de los Cien Años y permitieron la coronación del monarca. Como recompensa, el rey eximió a Dòmremy del impuesto anual a la corona. Esta ley se mantuvo en vigor hasta hace aproximadamente cien años. Posteriormente, Juana fue capturada por los borgoñones y entregada a los ingleses. Los clérigos la condenaron por herejía y el duque Juan de Bedford la quemó viva en Ruan, el 30 de mayo de 1431.</dbo:abstract>
+    <dbo:abstract xml:lang="en">Joan of Arc (French: Jeanne d&#39;Arc, IPA: [ʒan daʁk]; 6 January c. 1412 – 30 May 1431), nicknamed &quot;The Maid of Orléans&quot; (French: La Pucelle d&#39;Orléans), is considered a heroine of France for her role during the Lancastrian phase of the Hundred Years&#39; War, and was canonized as a Roman Catholic saint. Joan of Arc was born to Jacques d&#39;Arc and Isabelle Romée, a peasant family, at Domrémy in north-east France. Joan said she received visions of the Archangel Michael, Saint Margaret, and Saint Catherine of Alexandria instructing her to support Charles VII and recover France from English domination late in the Hundred Years&#39; War. The uncrowned King Charles VII sent Joan to the siege of Orléans as part of a relief mission. She gained prominence after the siege was lifted only nine days later. Several additional swift victories led to Charles VII&#39;s coronation at Reims. This long-awaited event boosted French morale and paved the way for the final French victory. On 23 May 1430, she was captured at Compiègne by the Burgundian faction, which was allied with the English. She was later handed over to the English and put on trial by the pro-English Bishop of Beauvais Pierre Cauchon on a variety of charges. After Cauchon declared her guilty she was burned at the stake on 30 May 1431, dying at about nineteen years of age. In 1456, an inquisitorial court authorized by Pope Callixtus III examined the trial, debunked the charges against her, pronounced her innocent, and declared her a martyr. In the 16th century she became a symbol of the Catholic League, and in 1803 she was declared a national symbol of France by the decision of Napoleon Bonaparte. She was beatified in 1909 and canonized in 1920. Joan of Arc is one of the nine secondary patron saints of France, along with St. Denis, St. Martin of Tours, St. Louis, St. Michael, St. Rémi, St. Petronilla, St. Radegund and Ste. Thérèse of Lisieux. Joan of Arc has remained a popular figure in literature, painting, sculpture, and other cultural works since the time of her death, and many famous writers, filmmakers and composers have created works about her. Cultural depictions of her have continued in films, theater, television, video games, music, and performances to this day.</dbo:abstract>
+    <dbo:abstract xml:lang="fr">Jeanne d&#39;Arc, née vers 1412 à Domrémy village du duché de Bar dont une partie relevait du royaume de France pour le temporel et de l&#39;évêché de Toul pour le spirituel (actuellement dans le département des Vosges en Lorraine), et morte sur le bûcher le 30 mai 1431 à Rouen, capitale du duché de Normandie alors possession du royaume d&#39;Angleterre, est une héroïne de l&#39;histoire de France, chef de guerre et sainte de l&#39;Église catholique, surnommée depuis le XVIe siècle « la Pucelle d&#39;Orléans » et, depuis le XIXe siècle, « mère de la nation française ». Au début du XVe siècle, cette jeune fille de dix-sept ans d&#39;origine paysanne affirme avoir reçu de la part des saints Michel, Marguerite d&#39;Antioche et Catherine la mission de délivrer la France de l&#39;occupation anglaise. Elle parvient à rencontrer Charles VII, à conduire victorieusement les troupes françaises contre les armées anglaises, à lever le siège d&#39;Orléans et à conduire le roi au sacre à Reims, contribuant ainsi à inverser le cours de la guerre de Cent Ans. Capturée par les Bourguignons à Compiègne en 1430, elle est vendue aux Anglais par Jean de Luxembourg, comte de Ligny, pour la somme de dix mille livres. Elle est condamnée à être brûlée vive en 1431 après un procès en hérésie conduit par Pierre Cauchon, évêque de Beauvais et ancien recteur de l&#39;université de Paris. Entaché de nombreuses irrégularités, ce procès voit sa révision ordonnée par le pape Calixte III en 1455. Un second procès est instruit qui conclut, en 1456, à l&#39;innocence de Jeanne et la réhabilite entièrement. Grâce à ces deux procès dont les minutes ont été conservées, elle est l&#39;une des personnalités les mieux connues du Moyen Âge. Béatifiée en 1909 puis canonisée en 1920, Jeanne d&#39;Arc est devenue une des quatre saintes patronnes secondaires de la France. Sa fête nationale est instituée par la loi en 1920 et fixée au 2e dimanche de mai. Elle est dans le monde entier une personnalité mythique qui a inspiré une multitude d’œuvres littéraires, historiques, musicales, dramatiques et cinématographiques.</dbo:abstract>
+    <dbo:abstract xml:lang="ru">Жа́нна д’Арк, Орлеанская дева (совр. фр. Jeanne d&#39;Arc; 6 января 1412 — 30 мая 1431) — национальная героиня Франции, одна из командующих французскими войсками в Столетней войне. Попав в плен к бургундцам, была передана англичанам, осуждена как еретичка и сожжена на костре. Впоследствии была реабилитирована и канонизирована — причислена католической церковью к лику святых.</dbo:abstract>
+    <dbo:abstract xml:lang="pt">Joana d&#39;Arc (em francês: Jeanne d&#39;Arc, IPA: [ʒan daʁk]; em italiano: Giovanna D&#39;Arco; ca. 1412  – 30 de maio de 1431), cognominada &quot;A Donzela de Orléans&quot; (em francês: La Pucelle d&#39;Orléans) e também conhecida como Joana d&#39;Arc, a ruiva (em francês: Jeanne d&#39;Arc, la rousse) é uma heroína francesa e santa da Igreja Católica. É a santa padroeira da França e foi uma chefe militar da Guerra dos Cem Anos, durante a qual tomou partido pelos armagnacs, na longa luta contra os borguinhões e seus aliados ingleses. Foi executada pelos borguinhões em 1431. Camponesa, modesta e analfabeta, foi uma mártir francesa e também heroína de seu povo, canonizada em 1920, quase cinco séculos depois de ter sido queimada viva em um auto de fé. Segundo a escritora Irène Kuhn, Joana d&#39;Arc foi esquecida pela história até o século XIX, conhecido como o século do nacionalismo, o que pode confirmar as teorias de Ernest Gellner. Irène Kuhn escreveu que foi apenas no século XIX que a França redescobriu esta personagem trágica. François Villon, nascido em 1431, no ano de sua morte, evoca sua lembrança na Ballade des dames du temps jadis ou seja, Balada das damas do tempo passado: Shakespeare retratou-a como uma bruxa; Voltaire escreveu um poema satírico, ou pseudo-ensaio histórico, em que a ridicularizava, intitulado La Pucelle d´Orléans ou &quot;A Donzela de Orléans&quot;. Depois da Revolução Francesa, o partido monárquico reavivou a lembrança da boa lorena, que jamais desistiu do seu rei. Joana foi recuperada pelos profetas da &quot;França eterna&quot;, em primeiro lugar pelo grande historiador romântico Jules Michelet. Com o romantismo, o alemão Schiller fez dela a heroína da sua peça de teatro Die Jungfrau von Orléans, publicada em 1801. Em 1870, quando a França foi derrotada pela Alemanha, evento que leva à ocupação da Alsácia e da Lorena pelas tropas alemãs, &quot;Jeanne, a pequena pastora de Domrémy, um pouco ingênua&quot;, tornou-se a heroína do sentimento patriótico francês. Republicanos e nacionalistas exaltaram aquela que deu a sua vida pela pátria. Durante a primeira fase da Terceira República, no entanto, o culto a Joana d&#39;Arc esteve associado à direita monarquista, da qual era um dos símbolos, como o rei Henrique IV, sendo todavia mal vista pelos republicanos. A Igreja Católica francesa propôs ao Papa Pio X a sua beatificação, que se realizou em 1909, num período dominado pela exaltação do nacionalismo e pelo repúdio ao não nacional, principalmente ao que provinha de Inglaterra ou da Alemanha. O gesto do Papa teve como propósito político fazer a Igreja de França entrar em sintonia política com os dirigentes anticlericais da III República, e só com a Primeira Guerra Mundial, de 1914 a 1918, Joana deixa de ser uma heroína exclusiva da direita. Segundo Irène Kuhn, a partir desse período os &quot;postais patrióticos&quot; mostram Jeanne à cabeça dos exércitos e monumentos seus aparecem como cogumelos por toda a França. O Parlamento francês estabelece uma festa nacional em sua honra no 2º domingo de maio. Em 9 de maio de 1920, cerca de 500 anos depois de sua morte, Joana d&#39;Arc foi definitivamente reabilitada, sendo canonizada pelo Papa Bento XV, como Santa Joana d&#39;Arc. A canonização traduzia o desejo da Santa Sé de estabelecer laços com a França republicana, laica e nacionalista. Em 1922 foi declarada padroeira de França.</dbo:abstract>
+    <dbo:abstract xml:lang="pl">Joanna d’Arc (fr. Jeanne d’Arc, IPA: /ʒan daʁk/), znana także jako Dziewica Orleańska (ur. prawdopodobnie 6 stycznia 1412 w Domrémy-la-Pucelle, zm. 30 maja 1431 w Rouen) – francuska bohaterka narodowa, święta Kościoła katolickiego, patronka Francji. Podczas wojny stuletniej poprowadziła armię francuską do kilku ważnych zwycięstw, twierdząc, że działa kierowana przez Boga. Pośrednio przyczyniła się do koronacji Karola VII. Została schwytana przez Burgundczyków i przekazana Anglikom, osądzona przez sąd kościelny i spalona na stosie w wieku 19 lat. 24 lata później papież Kalikst III dokonał rewizji decyzji sądu kościelnego. Uniewinnił ją i określił przeprowadzony w Rouen proces jako sprzeczny z prawem. Została beatyfikowana w 1909 roku i kanonizowana w 1920. Joanna twierdziła, że otrzymała widzenie od Boga, podczas którego dostała polecenie wyzwolenia ojczyzny spod panowania angielskiego. Chcąc wypróbować jej prawdomówność, niekoronowany król Karol VII wysłał ją do oblężonego Orleanu. Po doprowadzeniu do zniesienia oblężenia miasta w ciągu zaledwie dziewięciu dni uzyskała powszechny szacunek i przezwyciężyła lekceważącą postawę weteranów. Kilka kolejnych zwycięstw doprowadziło do koronacji Karola VII w Reims i rozstrzygnęło spór o sukcesję tronu Francji.</dbo:abstract>
+    <dbo:abstract xml:lang="nl">Jeanne d&#39;Arc (Domrémy, Lotharingen, ca. 1412 – Rouen, Normandië, 30 mei 1431), bijgenaamd de Maagd van Orléans, is een nationale heldin van Frankrijk. Als jong meisje van eenvoudige afkomst speelde ze een beslissende rol in de Honderdjarige Oorlog tussen Engeland en Frankrijk, wat in het tijdskader een opmerkelijke prestatie was. Op negentienjarige leeftijd werd ze door een partijdige kerkelijke rechtbank veroordeeld en stierf ze op de brandstapel in Rouen. Vijfentwintig jaar na haar dood liet paus Calixtus III het proces herzien, ze werd onschuldig bevonden en kreeg bij de plechtige uitspraak van het proces op 7 juli 1456 de titel van martelares. In 1909 werd ze uiteindelijk zalig verklaard door de Katholieke Kerk en in 1920 volgde de heiligverklaring. Ondertussen wordt ze gerekend tot de patroonheiligen van Frankrijk samen met Dionysius van Parijs, Martinus van Tours, de heilige Lodewijk en Theresia van Lisieux.</dbo:abstract>
+    <dbo:abstract xml:lang="it">Riunì al proprio Paese parte del territorio caduto in mano agli inglesi, contribuendo a risollevarne le sorti durante la guerra dei cent&#39;anni, guidando vittoriosamente le armate francesi contro quelle inglesi. Catturata dai Borgognoni davanti a Compiègne, Giovanna fu venduta agli inglesi che la sottoposero a un processo per eresia, al termine del quale, il 30 maggio 1431, fu condannata al rogo e arsa viva. Nel 1456 papa Callisto III, al termine di una seconda inchiesta, dichiarò la nullità di tale processo. Beatificata nel 1909 da Pio X e canonizzata nel 1920 da Benedetto XV, Giovanna fu proclamata patrona di Francia.</dbo:abstract>
+    <dbo:abstract xml:lang="ar">جان دارك  (بالفرنسية: Jeanne d&#39;Arc) الملقبة بعذراء أورليان (بالفرنسية: La Pucelle d&#39;Orléans)، ولدت لعائلة من الفلاحين في الوسط الشرقي من فرنسا عام 1412، وتوفيت في 30 مايو 1431، وتُعدّ بطلة قومية فرنسية وقديسة في الكنيسة الرومانية الكاثوليكية. ادّعت جان دارك الإلهام الإلهي، وقادت الجيش الفرنسي إلى عدة انتصارات مهمّة خلال حرب المئة عام، ممهدةً بذلك الطريق لتتويج شارل السابع ملكاً على البلاد. قُبض عليها بعد ذلك وأُرسلت إلى الإنجليز مقابل المال، وحوكمت بتهمة &quot;العصيان والزندقة&quot;، ثم أُعدمت حرقاً بتهمة الهرطقة عندما كانت تبلغ 19 عاماً. أذن البابا كاليستوس الثالث بعد خمس وعشرين سنة من إعدامها بإعادة النظر في محاكمتها من قِبل لجنة مختصة، التي قضت ببراءتها من التهم التي وُجّهت إليها وأعلنتها بناءً على ذلك شهيدة. تم تطويب جان دارك عام 1909، أعقب ذلك إعلانها قديسة عام 1920. جان دارك هي إحدى القديسين الشفعاء لفرنسا إلى جانب القديس مارتين، ولويس التاسع، وغيرهم. ادّعت جان دارك بأنها رأت الله في رؤيا يأمرها بدعم شارل السابع واستعادة فرنسا من السيطرة الإنجليزية في أواخر حرب المئة عام. بعثها الملك غير المتوّج شارل السابع إلى حصار أورليان، حيث حققت هناك أولى انتصاراتها العسكرية الكبيرة، تبعها عدة انتصارات سريعة أخرى أدّت في نهاية المطاف إلى تتويج شارل السابع في ريمس. أنشأ الكتاب والسينيمائيون والملحنون العديد من الأعمال عن جان دارك منذ وفاتها باعتبارها إحدى أكثر الشخصيات شعبيةً، وما زالت تظهر في السينما، والمسرح، والتلفزيون، وألعاب الفيديو إلى يومنا هذا.</dbo:abstract>
+    <dbo:beatifiedBy rdf:resource="http://dbpedia.org/resource/Pope_Pius_X" />
+    <dbo:beatifiedDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1909-04-18</dbo:beatifiedDate>
+    <dbo:beatifiedPlace rdf:resource="http://dbpedia.org/resource/Notre_Dame_de_Paris" />
+    <dbo:birthYear rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">0006</dbo:birthYear>
+    <dbo:canonizedBy rdf:resource="http://dbpedia.org/resource/Pope_Benedict_XV" />
+    <dbo:canonizedDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1920-05-16</dbo:canonizedDate>
+    <dbo:canonizedPlace rdf:resource="http://dbpedia.org/resource/St._Peter&#39;s_Basilica" />
+    <dbo:deathYear rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1431</dbo:deathYear>
+    <dbo:title xml:lang="en">Saint</dbo:title>
+    <dbo:veneratedIn rdf:resource="http://dbpedia.org/resource/Catholic_Church" />
+    <dbo:veneratedIn rdf:resource="http://dbpedia.org/resource/Anglican_Communion" />
+    <dbp:attributes rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">armor, banner, sword</dbp:attributes>
+    <dbp:caption rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Miniature</dbp:caption>
+    <dbp:feastDay rdf:datatype="http://www.w3.org/2001/XMLSchema#gMonthDay">--05-30</dbp:feastDay>
+    <dbp:imagesize rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">200</dbp:imagesize>
+    <dbp:nativeName rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Jeanne d&#39;Arc</dbp:nativeName>
+    <dbp:nativeNameLang rdf:resource="http://dbpedia.org/resource/French" />
+    <dbp:parents rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Jacques d&#39;Arc</dbp:parents>
+    <dbp:parents rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Isabelle de Vouthon</dbp:parents>
+    <dbp:patronage rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">France; martyrs; captives; military personnel; people ridiculed for their piety; prisoners; soldiers, women who have served in the WAVES ; and Women&#39;s Army Corps</dbp:patronage>
+    <dbp:signature rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Joandearc-signature.svg</dbp:signature>
+    <dbp:wordnet_type rdf:resource="http://www.w3.org/2006/03/wn/wn20/instances/synset-saint-noun-2" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/French_cruiser_Jeanne_d&#39;Arc_(1899)">
+    <dbp:shipNamesake rdf:resource="http://dbpedia.org/resource/Joan_of_Arc" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/French_cruiser_Jeanne_d&#39;Arc_(1930)">
+    <dbp:shipNamesake rdf:resource="http://dbpedia.org/resource/Joan_of_Arc" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Geoffroy_Therage">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Joan_of_Arc" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/127_Johanna">
+    <dbp:namedAfter rdf:resource="http://dbpedia.org/resource/Joan_of_Arc" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sainte-Jeanne-d&#39;Arc,_Saguenay–Lac-Saint-Jean,_Quebec">
+    <dbp:namedFor rdf:resource="http://dbpedia.org/resource/Joan_of_Arc" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/St_Joan_of_Arc&#39;s_Church,_Farnham">
+    <dbp:dedication rdf:resource="http://dbpedia.org/resource/Joan_of_Arc" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jeanne_D&#39;arc">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Joan_of_Arc" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Pucelle_d&#39;Orléans">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Joan_of_Arc" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Witness_to_Yesterday">
+    <dbp:title rdf:resource="http://dbpedia.org/resource/Joan_of_Arc" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Siege_of_Orléans">
+    <dbo:commander rdf:resource="http://dbpedia.org/resource/Joan_of_Arc" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Monstrous_Regiment_(novel)">
+    <dbo:nonFictionSubject rdf:resource="http://dbpedia.org/resource/Joan_of_Arc" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Battle_of_Beaugency_(1429)">
+    <dbo:commander rdf:resource="http://dbpedia.org/resource/Joan_of_Arc" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Battle_of_Jargeau">
+    <dbo:commander rdf:resource="http://dbpedia.org/resource/Joan_of_Arc" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Battle_of_Meung-sur-Loire">
+    <dbo:commander rdf:resource="http://dbpedia.org/resource/Joan_of_Arc" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jeanne_D&#39;Arc">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Joan_of_Arc" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jehanne_la_Pucelle">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Joan_of_Arc" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Saint_Joan_of_Arc">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Joan_of_Arc" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Arc">
+    <dbo:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/Joan_of_Arc" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Siege_of_Paris_(1429)">
+    <dbo:commander rdf:resource="http://dbpedia.org/resource/Joan_of_Arc" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Joan_Of_Arc">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Joan_of_Arc" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Joan_Arc">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Joan_of_Arc" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Maid_of_France">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Joan_of_Arc" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/French_cruiser_Jeanne_d&#39;Arc_(R97)">
+    <dbp:shipNamesake rdf:resource="http://dbpedia.org/resource/Joan_of_Arc" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Siege_of_Compiègne">
+    <dbo:commander rdf:resource="http://dbpedia.org/resource/Joan_of_Arc" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/St._Joan_of_Arc">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Joan_of_Arc" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Joan_of_Arc_(disambiguation)">
+    <dbo:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/Joan_of_Arc" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/La_Pucelle_(saint)">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Joan_of_Arc" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jeanne_d&#39;Arc">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Joan_of_Arc" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jeanne_of_Arc">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Joan_of_Arc" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jeanne_d’Arc">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Joan_of_Arc" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Joan_of_Ark">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Joan_of_Arc" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Joan_of_Arc_(Portland,_Oregon)">
+    <dbp:subject rdf:resource="http://dbpedia.org/resource/Joan_of_Arc" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jeanne_de_Arc">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Joan_of_Arc" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jeanne_de_arc">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Joan_of_Arc" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Johanna_d&#39;Arc">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Joan_of_Arc" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Johanna_of_Arc">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Joan_of_Arc" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jehanne">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Joan_of_Arc" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jehanne_d&#39;Arc">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Joan_of_Arc" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Cross-dressing_sexuality_and_gender_identity_of_Joan_of_Arc">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Joan_of_Arc" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Joan_of_Acre">
+    <owl:differentFrom rdf:resource="http://dbpedia.org/resource/Joan_of_Arc" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Joan_of_arc">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Joan_of_Arc" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/French_ironclad_Jeanne_d&#39;Arc">
+    <dbp:shipNamesake rdf:resource="http://dbpedia.org/resource/Joan_of_Arc" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Joan_of_Arc,_Saint">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Joan_of_Arc" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Church_of_St_Joan_of_Arc">
+    <dbp:dedication rdf:resource="http://dbpedia.org/resource/Joan_of_Arc" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Siege_of_La_Charité">
+    <dbo:commander rdf:resource="http://dbpedia.org/resource/Joan_of_Arc" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Siege_of_Saint-Pierre-le-Moûtier">
+    <dbo:commander rdf:resource="http://dbpedia.org/resource/Joan_of_Arc" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jean_D&#39;Ark">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Joan_of_Arc" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jean_D&#39;arc">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Joan_of_Arc" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jean_Dark">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Joan_of_Arc" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jean_d&#39;Ark">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Joan_of_Arc" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jeanne_Dark">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Joan_of_Arc" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/March_to_Reims">
+    <dbo:commander rdf:resource="http://dbpedia.org/resource/Joan_of_Arc" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Joan_de_Arc">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Joan_of_Arc" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Joan_d&#39;Arc">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Joan_of_Arc" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jean_of_Arc">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Joan_of_Arc" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jean_of_arc">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Joan_of_Arc" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/John_of_arc">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Joan_of_Arc" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Pucelle_d&#39;Orleans">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Joan_of_Arc" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jeanne_d&#39;_Arc">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Joan_of_Arc" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Saint_Jeanne_d&#39;Arc">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Joan_of_Arc" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Joan_of_Arc">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Joan_of_Arc" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sainte_Jehanne">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Joan_of_Arc" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sainte_Jehanne_d&#39;Arc_La_Pucelle">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Joan_of_Arc" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sainte_Jehanne_la_Pucelle">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Joan_of_Arc" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/St._Jehanne">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Joan_of_Arc" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/St._Jehanne_d&#39;Arc_La_Pucelle">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Joan_of_Arc" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/St._Jehanne_la_Pucelle">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Joan_of_Arc" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/St_Jehanne">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Joan_of_Arc" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/St_Jehanne_la_Pucelle">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Joan_of_Arc" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jeanne_darc">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Joan_of_Arc" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Juana_de_Arco">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Joan_of_Arc" />
+  </rdf:Description>
+</rdf:RDF>

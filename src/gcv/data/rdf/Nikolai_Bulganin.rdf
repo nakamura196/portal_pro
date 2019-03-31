@@ -1,0 +1,371 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:dbo="http://dbpedia.org/ontology/"
+	xmlns:dct="http://purl.org/dc/terms/"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:prov="http://www.w3.org/ns/prov#"
+	xmlns:dbp="http://dbpedia.org/property/"
+	xmlns:ns8="http://purl.org/linguistics/gold/" >
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Georgy_Zhukov">
+    <dbo:predecessor rdf:resource="http://dbpedia.org/resource/Nikolai_Bulganin" />
+    <!--
+    <p: xmlns:p="http://dbpedia.org/property/1namedata" rdf:resource="http://dbpedia.org/resource/Nikolai_Bulganin" />
+    -->
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nikita_Khrushchev">
+    <dbo:predecessor rdf:resource="http://dbpedia.org/resource/Nikolai_Bulganin" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Maksim_Saburov">
+    <dbp:premier rdf:resource="http://dbpedia.org/resource/Nikolai_Bulganin" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nikolai_Baibakov">
+    <dbp:premier rdf:resource="http://dbpedia.org/resource/Nikolai_Bulganin" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Avraami_Zavenyagin">
+    <dbp:premier rdf:resource="http://dbpedia.org/resource/Nikolai_Bulganin" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lazar_Kaganovich">
+    <dbp:premier rdf:resource="http://dbpedia.org/resource/Nikolai_Bulganin" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Varvara_Yakovleva_(politician)">
+    <dbp:premier rdf:resource="http://dbpedia.org/resource/Nikolai_Bulganin" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mikhail_Pervukhin">
+    <dbp:premier rdf:resource="http://dbpedia.org/resource/Nikolai_Bulganin" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Joseph_Stalin">
+    <!--
+    <p: xmlns:p="http://dbpedia.org/property/1namedata" rdf:resource="http://dbpedia.org/resource/Nikolai_Bulganin" />
+    -->
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nikolay_Kuznetsov_(officer)">
+    <dbp:after rdf:resource="http://dbpedia.org/resource/Nikolai_Bulganin" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Daniil_Sulimov">
+    <dbo:successor rdf:resource="http://dbpedia.org/resource/Nikolai_Bulganin" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nikolai_Alexandrovich_Bulganin">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Nikolai_Bulganin" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vyacheslav_Molotov">
+    <dbo:successor rdf:resource="http://dbpedia.org/resource/Nikolai_Bulganin" />
+    <dbp:premier rdf:resource="http://dbpedia.org/resource/Nikolai_Bulganin" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Andrei_Gromyko">
+    <dbp:premier rdf:resource="http://dbpedia.org/resource/Nikolai_Bulganin" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nikolai_Aleksandrovich_Bulganin">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Nikolai_Bulganin" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Anastas_Mikoyan">
+    <dbp:predecessor rdf:resource="http://dbpedia.org/resource/Nikolai_Bulganin" />
+    <dbp:premier rdf:resource="http://dbpedia.org/resource/Nikolai_Bulganin" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Roman_Rudenko">
+    <dbp:premier rdf:resource="http://dbpedia.org/resource/Nikolai_Bulganin" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Pyotr_Lomako">
+    <dbp:premier rdf:resource="http://dbpedia.org/resource/Nikolai_Bulganin" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Georgy_Aleksandrov">
+    <dbp:premier rdf:resource="http://dbpedia.org/resource/Nikolai_Bulganin" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nikolay_Bulganin">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Nikolai_Bulganin" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Georgy_Malenkov">
+    <dbo:successor rdf:resource="http://dbpedia.org/resource/Nikolai_Bulganin" />
+    <!--
+    <p: xmlns:p="http://dbpedia.org/property/1namedata" rdf:resource="http://dbpedia.org/resource/Nikolai_Bulganin" />
+    -->
+    <dbp:after rdf:resource="http://dbpedia.org/resource/Nikolai_Bulganin" />
+    <dbp:premier rdf:resource="http://dbpedia.org/resource/Nikolai_Bulganin" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nikolai_Bulganin">
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Official110372373" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoLegalActor" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoLegalActorGeo" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Person100007846" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Object100002684" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Defender109614684" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PhysicalEntity100001930" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Worker109632518" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Mayor110303814" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Authority109824609" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/CivilAuthority110541833" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Politician110451263" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatHeadsOfStateOfTheSovietUnion" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Hero110325013" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/OfficeHolder" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Commissar109942697" />
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q24229398" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Communicator109610660" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/SkilledWorker110605985" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatPeople&#39;sCommissarsAndMinistersOfTheSovietUnion" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Representative110522035" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Agent" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q215627" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Politician110450303" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Executive110069645" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Leader109623038" />
+    <rdf:type rdf:resource="http://schema.org/Person" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatPeopleFromMoscow" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Negotiator110351874" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/HeadOfState110164747" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Organism100004475" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Person" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Whole100003553" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/LivingThing100004258" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatRussianPeople" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/CausalAgent100007347" />
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Administrator109770949" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatHeadsOfGovernmentOfTheRussianSovietFederativeSocialistRepublic" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatHeroesOfSocialistLabour" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatPeopleFromNizhnyNovgorod" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatMayorsOfMoscow" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatMarshalsOfTheSovietUnion" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatHeadsOfGovernmentOfTheSovietUnion" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatSovietPoliticians" />
+    <rdf:type rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q5" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Marshal110295951" />
+    <rdf:type rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Head110162991" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatPeopleFromNizhnyNovgorodGovernorate" />
+    <rdf:type rdf:resource="http://umbel.org/umbel/rc/PersonWithOccupation" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Lawman110249459" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Minister110320863" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Officeholder110371450" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Owner110389398" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Holder110180178" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Preserver110466918" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatSovietMinistersOfDefence" />
+    <rdfs:label xml:lang="ru">Булганин, Николай Александрович</rdfs:label>
+    <rdfs:label xml:lang="en">Nikolai Bulganin</rdfs:label>
+    <rdfs:label xml:lang="de">Nikolai Alexandrowitsch Bulganin</rdfs:label>
+    <rdfs:label xml:lang="zh">尼古拉·亞歷山德羅維奇·布爾加寧</rdfs:label>
+    <rdfs:label xml:lang="pl">Nikołaj Bułganin</rdfs:label>
+    <rdfs:label xml:lang="fr">Nikolaï Boulganine</rdfs:label>
+    <rdfs:label xml:lang="ar">نيكولاي بولكانين</rdfs:label>
+    <rdfs:label xml:lang="es">Nikolái Bulganin</rdfs:label>
+    <rdfs:label xml:lang="nl">Nikolaj Boelganin</rdfs:label>
+    <rdfs:label xml:lang="it">Nikolaj Aleksandrovič Bulganin</rdfs:label>
+    <rdfs:label xml:lang="ja">ニコライ・ブルガーニン</rdfs:label>
+    <rdfs:label xml:lang="pt">Nikolai Bulganin</rdfs:label>
+    <rdfs:comment xml:lang="de">Nikolai Alexandrowitsch Bulganin (russisch Никола́й Алекса́ндрович Булга́нин, wiss. Transliteration Nikolaj Alexandrovič Bulganin; * 30. Maijul./ 11. Juni 1895greg. in Nischni Nowgorod; † 24. Februar 1975 in Moskau) war ein sowjetischer Politiker. Der Marschall der Sowjetunion war u. a. 1947–1949 und 1953–1955 Verteidigungsminister sowie von 1955 bis 1958 als Vorsitzender des Ministerrats Regierungschef (Ministerpräsident) der UdSSR.</rdfs:comment>
+    <rdfs:comment xml:lang="ar">25بك المحتوى هنا ينقصه الاستشهاد بمصادر. يرجى إيراد مصادر موثوق بها. أي معلومات غير موثقة يمكن التشكيك بها وإزالتها. (مارس 2016) نيكولاي الكسندروفيتش سياسي روسي بارز و رئيس مجلس وزراء الاتحاد السوفيتي وشغل منصب وزير الدفاع لقد عاصر فترة حكم ستالين واعتبر من ابرز اتباعه ولد في مدينة نيجي نوفغورود الروسية في مارس 1885 وتوفي في موسكو في فبراير 1975 عن العمر ( 79 ) .</rdfs:comment>
+    <rdfs:comment xml:lang="en">Nikolai Alexandrovich Bulganin (Russian: Никола́й Алекса́ндрович Булга́нин, [nʲɪkɐˈlaj ɐlʲɪˈksandrəvʲɪtɕ bʊlˈɡanʲɪn]; 11 June [O.S. 30 May] 1895 – 24 February 1975) was a Soviet politician who served as Minister of Defense (1953–55) and Premier of the Soviet Union (1955–58) under Nikita Khrushchev, following service in the Red Army and as defense minister under Joseph Stalin.</rdfs:comment>
+    <rdfs:comment xml:lang="pt">Nikolai Alexandrovitch Bulganin (Николай Алекса́ндрович Булганин, transliteração: Nikolaj Alexandrovič Bulganin; Níjni Novgorod, 30 de maiojul./ 11 de junho de 1895greg. — Moscou, 24 de fevereiro de 1975) foi um militar e político soviético.</rdfs:comment>
+    <rdfs:comment xml:lang="nl">Nikolaj Aleksandrovitsj Boelganin (Russisch: Николай Александрович Булганин) (Nizjni Novgorod, 30 maart 1895 – Moskou, 24 februari 1975) was een prominente Sovjetpoliticus, die zowel het ambt van Minister van Defensie (1953-55) als dat van Premier (1955-58) heeft bekleed.</rdfs:comment>
+    <rdfs:comment xml:lang="zh">尼古拉·亚历山德罗维奇·布尔加宁（俄语：Николай Александрович Булганин，1895年6月11日（儒略曆5月30日）1895年6月11日－1975年2月24日）苏联政治家、国务活动家，曾任苏联部长会议主席（名义上的政府首脑，1955年2月8日~1958年3月27日）。</rdfs:comment>
+    <rdfs:comment xml:lang="fr">Nikolaï Aleksandrovitch Boulganine (en russe : Николай Александрович Булганин), né à Nijni Novgorod le 11 juin (30 mai) 1895 et mort à Moscou le 24 février 1975, est un militaire et homme politique soviétique.</rdfs:comment>
+    <rdfs:comment xml:lang="pl">Nikołaj Aleksandrowicz Bułganin ros. Николай Александрович Булганин (ur. 11 czerwca 1895 w Niżnym Nowgorodzie, zm. 24 lutego 1975 w Moskwie) – radziecki wojskowy, działacz partyjny i polityk, uczestnik rewolucji październikowej, marszałek Związku Radzieckiego (26 listopada 1958 zdegradowany do stopnia generała pułkownika), minister sił zbrojnych ZSRR (1947–1949), minister obrony ZSRR (1953–1955), prezes Banku Państwowego ZSRR (1938–1940), członek Komitetu Centralnego KPZR i Biura Politycznego KC KPZR, premier RFSRR (1937–1938), wicepremier (1938–1940) i premier ZSRR (1955–1958).</rdfs:comment>
+    <rdfs:comment xml:lang="ja">ニコライ・アレクサンドロヴィチ・ブルガーニン（Николай Александрович Булганин、Nikolai Aleksandrovich Bulganin、1895年6月11日 - 1975年2月24日）は、ソビエト連邦の政治家。フルシチョフ時代前期の1955年から1958年にかけてソ連閣僚会議議長（首相）を務めた。</rdfs:comment>
+    <rdfs:comment xml:lang="ru">Никола́й Алекса́ндрович Булга́нин (30 мая (11 июня) 1895 года, Нижний Новгород — 24 февраля 1975 года, Москва) — советский государственный деятель. Член Президиума (Политбюро) ЦК КПСС (1948—1958, кандидат в члены с 1946 года), член ЦК партии (1937—1961, кандидат с 1934). Маршал Советского Союза (1947, лишён этого звания в 1958 году), генерал-полковник. Входил в ближайшее окружение И. В. Сталина. Герой Социалистического Труда (1955).</rdfs:comment>
+    <rdfs:comment xml:lang="es">Nikolái Aleksándrovich Bulganin (en ruso Никола́й Алекса́ндрович Булга́нин (nótese que su apellido es grave y no agudo); (Nizni Nóvgorod, 30 de mayojul./ 11 de junio de 1895greg. - Moscú 24 de febrero de 1975) fue un militar y político soviético.</rdfs:comment>
+    <owl:sameAs rdf:resource="http://id.dbpedia.org/resource/Nikolay_Bulganin" />
+    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/Nikolai_Alexandrowitsch_Bulganin" />
+    <owl:sameAs rdf:resource="http://ja.dbpedia.org/resource/ニコライ・ブルガーニン" />
+    <owl:sameAs rdf:resource="http://yago-knowledge.org/resource/Nikolai_Bulganin" />
+    <owl:sameAs rdf:resource="http://viaf.org/viaf/97709372" />
+    <owl:sameAs rdf:resource="http://pl.dbpedia.org/resource/Nikołaj_Bułganin" />
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.02dpy1" />
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q48093" />
+    <owl:sameAs rdf:resource="http://d-nb.info/gnd/118664875" />
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Nikolai_Bulganin" />
+    <owl:sameAs rdf:resource="http://ko.dbpedia.org/resource/니콜라이_불가닌" />
+    <owl:sameAs rdf:resource="http://pt.dbpedia.org/resource/Nikolai_Bulganin" />
+    <owl:sameAs rdf:resource="http://nl.dbpedia.org/resource/Nikolaj_Boelganin" />
+    <owl:sameAs rdf:resource="http://fr.dbpedia.org/resource/Nikolaï_Boulganine" />
+    <owl:sameAs rdf:resource="http://it.dbpedia.org/resource/Nikolaj_Aleksandrovič_Bulganin" />
+    <owl:sameAs rdf:resource="http://es.dbpedia.org/resource/Nikolái_Bulganin" />
+    <owl:sameAs rdf:resource="http://cs.dbpedia.org/resource/Nikolaj_Alexandrovič_Bulganin" />
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q48093" />
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Moscow" />
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Russian_SFSR" />
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Soviet_Union" />
+    <dbo:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1975-2-24</dbo:deathDate>
+    <dbo:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1975-02-24</dbo:deathDate>
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Russian_Empire" />
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Nizhny_Novgorod" />
+    <dbo:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1895-06-11</dbo:birthDate>
+    <dbo:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1895-5-30</dbo:birthDate>
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Burials_at_Novodevichy_Cemetery" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Central_Committee_of_the_Communist_Party_of_the_Soviet_Union_members" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Russian_Social_Democratic_Labour_Party_members" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Marshals_of_the_Soviet_Union" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:1895_births" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Old_Bolsheviks" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:1975_deaths" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Cheka" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Heads_of_government_of_the_Russian_Soviet_Federative_Socialist_Republic" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:People_from_Nizhny_Novgorod_Governorate" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Soviet_Ministers_of_Defence" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Heads_of_government_of_the_Soviet_Union" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:People_from_Nizhny_Novgorod" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Anti-Revisionists" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Recipients_of_the_Order_of_Kutuzov,_1st_class" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Politburo_of_the_Central_Committee_of_the_Communist_Party_of_the_Soviet_Union_members" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Recipients_of_the_Order_of_the_Red_Banner" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Recipients_of_the_Order_of_Lenin" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Recipients_of_the_Order_of_the_Red_Star" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:People&#39;s_Commissars_and_Ministers_of_the_Soviet_Union" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Grand_Crosses_of_the_Virtuti_Militari" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Recipients_of_the_Virtuti_Militari_(1943–89)" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Recipients_of_the_Order_of_Suvorov,_1st_class" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Heroes_of_Socialist_Labour" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Mayors_of_Moscow" />
+    <dbo:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">38584604</dbo:wikiPageID>
+    <dbo:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">744307225</dbo:wikiPageRevisionID>
+    <foaf:name xml:lang="en">Nikolai Bulganin</foaf:name>
+    <foaf:depiction rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Nikolai_Bulganin_1955.jpg" />
+    <dct:description xml:lang="en">Soviet politician</dct:description>
+    <foaf:givenName xml:lang="en">Nicholas</foaf:givenName>
+    <foaf:gender xml:lang="en">male</foaf:gender>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Nikolai_Bulganin" />
+    <dbo:thumbnail rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Nikolai_Bulganin_1955.jpg?width=300" />
+    <prov:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Nikolai_Bulganin?oldid=744307225" />
+    <dbo:abstract xml:lang="es">Nikolái Aleksándrovich Bulganin (en ruso Никола́й Алекса́ндрович Булга́нин (nótese que su apellido es grave y no agudo); (Nizni Nóvgorod, 30 de mayojul./ 11 de junio de 1895greg. - Moscú 24 de febrero de 1975) fue un militar y político soviético.</dbo:abstract>
+    <dbo:abstract xml:lang="en">Nikolai Alexandrovich Bulganin (Russian: Никола́й Алекса́ндрович Булга́нин, [nʲɪkɐˈlaj ɐlʲɪˈksandrəvʲɪtɕ bʊlˈɡanʲɪn]; 11 June [O.S. 30 May] 1895 – 24 February 1975) was a Soviet politician who served as Minister of Defense (1953–55) and Premier of the Soviet Union (1955–58) under Nikita Khrushchev, following service in the Red Army and as defense minister under Joseph Stalin.</dbo:abstract>
+    <dbo:abstract xml:lang="de">Nikolai Alexandrowitsch Bulganin (russisch Никола́й Алекса́ндрович Булга́нин, wiss. Transliteration Nikolaj Alexandrovič Bulganin; * 30. Maijul./ 11. Juni 1895greg. in Nischni Nowgorod; † 24. Februar 1975 in Moskau) war ein sowjetischer Politiker. Der Marschall der Sowjetunion war u. a. 1947–1949 und 1953–1955 Verteidigungsminister sowie von 1955 bis 1958 als Vorsitzender des Ministerrats Regierungschef (Ministerpräsident) der UdSSR. Als er 1957 mit Malenkow und Molotow versucht hatte, den Parteichef Nikita Chruschtschow zu stürzen, wurde er aus dem Politbüro der KPdSU abgewählt, blieb aber noch ein Jahr lang Ministerpräsident.</dbo:abstract>
+    <dbo:abstract xml:lang="ar">25بك المحتوى هنا ينقصه الاستشهاد بمصادر. يرجى إيراد مصادر موثوق بها. أي معلومات غير موثقة يمكن التشكيك بها وإزالتها. (مارس 2016) نيكولاي الكسندروفيتش سياسي روسي بارز و رئيس مجلس وزراء الاتحاد السوفيتي وشغل منصب وزير الدفاع لقد عاصر فترة حكم ستالين واعتبر من ابرز اتباعه ولد في مدينة نيجي نوفغورود الروسية في مارس 1885 وتوفي في موسكو في فبراير 1975 عن العمر ( 79 ) .</dbo:abstract>
+    <dbo:abstract xml:lang="fr">Nikolaï Aleksandrovitch Boulganine (en russe : Николай Александрович Булганин), né à Nijni Novgorod le 11 juin (30 mai) 1895 et mort à Moscou le 24 février 1975, est un militaire et homme politique soviétique.</dbo:abstract>
+    <dbo:abstract xml:lang="zh">尼古拉·亚历山德罗维奇·布尔加宁（俄语：Николай Александрович Булганин，1895年6月11日（儒略曆5月30日）1895年6月11日－1975年2月24日）苏联政治家、国务活动家，曾任苏联部长会议主席（名义上的政府首脑，1955年2月8日~1958年3月27日）。</dbo:abstract>
+    <dbo:abstract xml:lang="ja">ニコライ・アレクサンドロヴィチ・ブルガーニン（Николай Александрович Булганин、Nikolai Aleksandrovich Bulganin、1895年6月11日 - 1975年2月24日）は、ソビエト連邦の政治家。フルシチョフ時代前期の1955年から1958年にかけてソ連閣僚会議議長（首相）を務めた。</dbo:abstract>
+    <dbo:abstract xml:lang="pt">Nikolai Alexandrovitch Bulganin (Николай Алекса́ндрович Булганин, transliteração: Nikolaj Alexandrovič Bulganin; Níjni Novgorod, 30 de maiojul./ 11 de junho de 1895greg. — Moscou, 24 de fevereiro de 1975) foi um militar e político soviético.</dbo:abstract>
+    <dbo:abstract xml:lang="pl">Nikołaj Aleksandrowicz Bułganin ros. Николай Александрович Булганин (ur. 11 czerwca 1895 w Niżnym Nowgorodzie, zm. 24 lutego 1975 w Moskwie) – radziecki wojskowy, działacz partyjny i polityk, uczestnik rewolucji październikowej, marszałek Związku Radzieckiego (26 listopada 1958 zdegradowany do stopnia generała pułkownika), minister sił zbrojnych ZSRR (1947–1949), minister obrony ZSRR (1953–1955), prezes Banku Państwowego ZSRR (1938–1940), członek Komitetu Centralnego KPZR i Biura Politycznego KC KPZR, premier RFSRR (1937–1938), wicepremier (1938–1940) i premier ZSRR (1955–1958).</dbo:abstract>
+    <dbo:abstract xml:lang="nl">Nikolaj Aleksandrovitsj Boelganin (Russisch: Николай Александрович Булганин) (Nizjni Novgorod, 30 maart 1895 – Moskou, 24 februari 1975) was een prominente Sovjetpoliticus, die zowel het ambt van Minister van Defensie (1953-55) als dat van Premier (1955-58) heeft bekleed.</dbo:abstract>
+    <dbo:abstract xml:lang="ru">Никола́й Алекса́ндрович Булга́нин (30 мая (11 июня) 1895 года, Нижний Новгород — 24 февраля 1975 года, Москва) — советский государственный деятель. Член Президиума (Политбюро) ЦК КПСС (1948—1958, кандидат в члены с 1946 года), член ЦК партии (1937—1961, кандидат с 1934). Маршал Советского Союза (1947, лишён этого звания в 1958 году), генерал-полковник. Входил в ближайшее окружение И. В. Сталина. Председатель Совета Министров СССР (1955—1958), 1-й заместитель с 1950 года, заместитель с 1947 года, а в 1938-44 гг. заместитель председателя СНК СССР. Трижды глава Госбанка СССР (1938—1940, 1940—1945, 1958). В 1953-55 гг. министр обороны, в 1947-49 гг. министр вооружённых сил СССР. В 1937—1938 гг. председатель СНК РСФСР. Депутат Верховного Совета СССР 1—5 созывов (1937-62). Герой Социалистического Труда (1955).</dbo:abstract>
+    <dbo:battle rdf:resource="http://dbpedia.org/resource/World_War_II" />
+    <dbo:country rdf:resource="http://dbpedia.org/resource/Soviet_Union" />
+    <dbo:militaryBranch rdf:resource="http://dbpedia.org/resource/Red_Army" />
+    <dbo:militaryCommand>Soviet Armed Forces</dbo:militaryCommand>
+    <dbo:militaryRank rdf:resource="http://dbpedia.org/resource/Marshal_of_the_Soviet_Union" />
+    <dbo:nationality rdf:resource="http://dbpedia.org/resource/Russian_people" />
+    <dbo:office>Chairmanof theCouncil of Ministers</dbo:office>
+    <dbo:office>Chairmanof theCouncil of People&#39;s Commissarsof theRussian SFSR</dbo:office>
+    <dbo:office>Candidate member of the18thPolitburo</dbo:office>
+    <dbo:office>Minister of Defence</dbo:office>
+    <dbo:office>Member of theOrgburo</dbo:office>
+    <dbo:office>Minister of the Armed Forces</dbo:office>
+    <dbo:office>Full member of the18th,19th,20thPolitburo</dbo:office>
+    <dbo:office>First Deputy Chairmanof theCouncil of Ministers</dbo:office>
+    <dbo:party rdf:resource="http://dbpedia.org/resource/Communist_Party_of_the_Soviet_Union" />
+    <dbo:predecessor rdf:resource="http://dbpedia.org/resource/Daniil_Sulimov" />
+    <dbo:predecessor rdf:resource="http://dbpedia.org/resource/Vyacheslav_Molotov" />
+    <dbo:predecessor rdf:resource="http://dbpedia.org/resource/Nikolai_Gerasimovich_Kuznetsov" />
+    <dbo:predecessor rdf:resource="http://dbpedia.org/resource/Joseph_Stalin" />
+    <dbo:predecessor rdf:resource="http://dbpedia.org/resource/Aleksandr_Vasilevsky" />
+    <dbo:predecessor rdf:resource="http://dbpedia.org/resource/Georgy_Malenkov" />
+    <dbo:serviceEndYear rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1949</dbo:serviceEndYear>
+    <dbo:serviceStartYear rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1941</dbo:serviceStartYear>
+    <dbo:successor rdf:resource="http://dbpedia.org/resource/Aleksandr_Vasilevsky" />
+    <dbo:successor rdf:resource="http://dbpedia.org/resource/Georgy_Zhukov" />
+    <dbo:successor rdf:resource="http://dbpedia.org/resource/Vasiliy_Vakhrushev" />
+    <dbo:successor rdf:resource="http://dbpedia.org/resource/Anastas_Mikoyan" />
+    <dbo:successor rdf:resource="http://dbpedia.org/resource/Nikita_Khrushchev" />
+    <dbo:termPeriod rdf:resource="http://dbpedia.org/resource/Nikolai_Bulganin__7" />
+    <dbo:termPeriod rdf:resource="http://dbpedia.org/resource/Nikolai_Bulganin__1" />
+    <dbo:termPeriod rdf:resource="http://dbpedia.org/resource/Nikolai_Bulganin__8" />
+    <dbo:termPeriod rdf:resource="http://dbpedia.org/resource/Nikolai_Bulganin__6" />
+    <dbo:termPeriod rdf:resource="http://dbpedia.org/resource/Nikolai_Bulganin__2" />
+    <dbo:termPeriod rdf:resource="http://dbpedia.org/resource/Nikolai_Bulganin__4" />
+    <dbo:termPeriod rdf:resource="http://dbpedia.org/resource/Nikolai_Bulganin__5" />
+    <dbo:termPeriod rdf:resource="http://dbpedia.org/resource/Nikolai_Bulganin__3" />
+    <!--
+    <p: xmlns:p="http://dbpedia.org/property/1blankname" rdf:resource="http://dbpedia.org/resource/First_Deputy_Premier_of_the_Soviet_Union" />
+    -->
+    <!--
+    <p: xmlns:p="http://dbpedia.org/property/1namedata" rdf:resource="http://dbpedia.org/resource/Joseph_Kuzmin" />
+    -->
+    <!--
+    <p: xmlns:p="http://dbpedia.org/property/1namedata" rdf:resource="http://dbpedia.org/resource/Lazar_Kaganovich" />
+    -->
+    <!--
+    <p: xmlns:p="http://dbpedia.org/property/1namedata" rdf:resource="http://dbpedia.org/resource/Mikhail_Pervukhin" />
+    -->
+    <!--
+    <p: xmlns:p="http://dbpedia.org/property/1namedata" rdf:resource="http://dbpedia.org/resource/Anastas_Mikoyan" />
+    -->
+    <!--
+    <p: xmlns:p="http://dbpedia.org/property/1namedata" rdf:resource="http://dbpedia.org/resource/Maksim_Saburov" />
+    -->
+    <dbp:after rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">A. K. Korovushkin</dbp:after>
+    <dbp:after rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">N. K. Sokolov</dbp:after>
+    <dbp:after rdf:resource="http://dbpedia.org/resource/Nikita_Khrushchev" />
+    <dbp:after rdf:resource="http://dbpedia.org/resource/Aleksandr_Vasilevsky" />
+    <dbp:after rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Ya. I. Golev</dbp:after>
+    <dbp:after rdf:resource="http://dbpedia.org/resource/Georgy_Zhukov" />
+    <dbp:awards rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">20</dbp:awards>
+    <dbp:before rdf:resource="http://dbpedia.org/resource/Joseph_Stalin" />
+    <dbp:before rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">N. K. Sokolov</dbp:before>
+    <dbp:before rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">A. P. Grichmanov</dbp:before>
+    <dbp:before rdf:resource="http://dbpedia.org/resource/Aleksandr_Vasilevsky" />
+    <dbp:before rdf:resource="http://dbpedia.org/resource/Nikolai_Gerasimovich_Kuznetsov" />
+    <dbp:before rdf:resource="http://dbpedia.org/resource/Vasili_Popov_(politician)" />
+    <dbp:before rdf:resource="http://dbpedia.org/resource/Georgy_Malenkov" />
+    <dbp:birthName rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Nikolai Alexandrovich Bulganin</dbp:birthName>
+    <dbp:caption rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Bulganin at the Geneva Summit on reunification and disarmament of Germany, July 1955</dbp:caption>
+    <dbp:citizenship rdf:resource="http://dbpedia.org/resource/Soviet_people" />
+    <dbp:imagesize rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">235</dbp:imagesize>
+    <dbp:nativeNameLang rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">ru</dbp:nativeNameLang>
+    <dbp:premier rdf:resource="http://dbpedia.org/resource/Joseph_Stalin" />
+    <dbp:premier rdf:resource="http://dbpedia.org/resource/Vyacheslav_Molotov" />
+    <dbp:premier rdf:resource="http://dbpedia.org/resource/Georgy_Malenkov" />
+    <dbp:rows rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</dbp:rows>
+    <dbp:rows rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</dbp:rows>
+    <dbp:title rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Chairman of Board of the Soviet State Bank</dbp:title>
+    <dbp:title rdf:resource="http://dbpedia.org/resource/Minister_of_Defence_of_the_Soviet_Union" />
+    <dbp:title rdf:resource="http://dbpedia.org/resource/Premier_of_the_Soviet_Union" />
+    <dbp:title rdf:resource="http://dbpedia.org/resource/Minister_of_Defense_of_the_Soviet_Union" />
+    <dbp:years rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1958</dbp:years>
+    <dbp:years rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1940</dbp:years>
+    <dbp:years rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1938</dbp:years>
+    <dbp:years rdf:datatype="http://www.w3.org/2001/XMLSchema#gMonthDay">--03-03</dbp:years>
+    <dbp:years rdf:datatype="http://www.w3.org/2001/XMLSchema#gMonthDay">--03-15</dbp:years>
+    <dbp:years rdf:datatype="http://www.w3.org/2001/XMLSchema#gMonthDay">--02-08</dbp:years>
+    <dbp:wordnet_type rdf:resource="http://www.w3.org/2006/03/wn/wn20/instances/synset-incumbent-noun-1" />
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Politician" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bulganin">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Nikolai_Bulganin" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nikolay_Aleksandrovich_Bulganin">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Nikolai_Bulganin" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ivan_Tevosian">
+    <dbp:premier rdf:resource="http://dbpedia.org/resource/Nikolai_Bulganin" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mikhail_Yasnov">
+    <dbp:premier rdf:resource="http://dbpedia.org/resource/Nikolai_Bulganin" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Aleksandr_Vasilevsky">
+    <dbp:after rdf:resource="http://dbpedia.org/resource/Nikolai_Bulganin" />
+    <dbp:before rdf:resource="http://dbpedia.org/resource/Nikolai_Bulganin" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Rodion_Malinovsky">
+    <!--
+    <p: xmlns:p="http://dbpedia.org/property/1namedata" rdf:resource="http://dbpedia.org/resource/Nikolai_Bulganin" />
+    -->
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Alexander_Puzanov">
+    <dbp:premier rdf:resource="http://dbpedia.org/resource/Nikolai_Bulganin" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vasily_Vakhrushev">
+    <dbo:predecessor rdf:resource="http://dbpedia.org/resource/Nikolai_Bulganin" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Dmitri_Shepilov">
+    <dbp:premier rdf:resource="http://dbpedia.org/resource/Nikolai_Bulganin" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nikolay_Alexandrovich_Bulganin">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Nikolai_Bulganin" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Nikolai_Bulganin">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Nikolai_Bulganin" />
+  </rdf:Description>
+</rdf:RDF>

@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:dct="http://purl.org/dc/terms/"
+	xmlns:dbo="http://dbpedia.org/ontology/"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:prov="http://www.w3.org/ns/prov#"
+	xmlns:dbp="http://dbpedia.org/property/"
+	xmlns:ns8="http://purl.org/linguistics/gold/" >
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Millennium_Tower_(Tokyo)">
+    <dbp:developer rdf:resource="http://dbpedia.org/resource/Obayashi_Corporation" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nakano_Sun_Plaza">
+    <dbp:mainContractor rdf:resource="http://dbpedia.org/resource/Obayashi_Corporation" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sanno_Park_Tower">
+    <dbp:mainContractor rdf:resource="http://dbpedia.org/resource/Obayashi_Corporation" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tosu_Stadium">
+    <dbp:mainContractors rdf:resource="http://dbpedia.org/resource/Obayashi_Corporation" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Dentsu_Building">
+    <dbo:architect rdf:resource="http://dbpedia.org/resource/Obayashi_Corporation" />
+    <dbp:mainContractor rdf:resource="http://dbpedia.org/resource/Obayashi_Corporation" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Obayashi">
+    <dbo:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/Obayashi_Corporation" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ark_Hills_Sengokuyama_Mori_Tower">
+    <dbp:mainContractor rdf:resource="http://dbpedia.org/resource/Obayashi_Corporation" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kobe_Port_Tower">
+    <dbp:mainContractor rdf:resource="http://dbpedia.org/resource/Obayashi_Corporation" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Toranomon_Hills">
+    <dbp:mainContractor rdf:resource="http://dbpedia.org/resource/Obayashi_Corporation" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ocean_Financial_Centre">
+    <dbp:mainContractor rdf:resource="http://dbpedia.org/resource/Obayashi_Corporation" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sài_Gòn_River_Tunnel">
+    <dbp:mainContractor rdf:resource="http://dbpedia.org/resource/Obayashi_Corporation" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Obayashi_Corporation">
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Organization108008335" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Abstraction100002137" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q43229" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatEngineeringCompaniesOfJapan" />
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatCompaniesEstablishedIn1892" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Institution108053576" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoLegalActor" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoLegalActorGeo" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatCompaniesListedOnTheFukuokaStockExchange" />
+    <rdf:type rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#SocialPerson" />
+    <rdf:type rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Agent" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q24229398" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatCompaniesListedOnTheTokyoStockExchange" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Company108058098" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Company" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoPermanentlyLocatedEntity" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatCompaniesBasedInTokyo" />
+    <rdf:type rdf:resource="http://schema.org/Organization" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Organisation" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/SocialGroup107950920" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Group100031264" />
+    <rdfs:label xml:lang="en">Obayashi Corporation</rdfs:label>
+    <rdfs:label xml:lang="ja">大林組</rdfs:label>
+    <rdfs:label xml:lang="zh">大林組</rdfs:label>
+    <rdfs:label xml:lang="fr">Obayashi Corporation</rdfs:label>
+    <rdfs:label xml:lang="de">Ōbayashi-gumi</rdfs:label>
+    <rdfs:comment xml:lang="en">Obayashi Corporation (株式会社大林組 Kabushiki-gaisha Ōbayashi Gumi) is one of five major Japanese construction companies along with Shimizu Corporation, Takenaka Corporation, Kajima Corporation, and Taisei Corporation. It is listed on the Tokyo Stock Exchange and is one of the Nikkei 225 corporations. Its headquarters are in Minato, Tokyo. Obayashi has 86 subsidiaries and 26 affiliated companies in Japan, Europe, the Middle East, Asia, Australia and North America. In February 2012 it announced plans to build a space elevator by 2050.</rdfs:comment>
+    <rdfs:comment xml:lang="ja">株式会社大林組（おおばやしぐみ）は、1892年（明治25年）創業の大手総合建設会社。</rdfs:comment>
+    <rdfs:comment xml:lang="de">K.K. Ōbayashi-gumi (jap. 株式会社大林組, Kabushiki kaisha Ōbayashi-gumi, dt. „Ōbayashi-Gruppe“, engl. Obayashi Corporation), gelistet im Nikkei 225, ist eines von den fünf größten Bauunternehmen (Super-Zenekon) neben Shimizu, Takenaka, Kajima und Taisei in Japan. Der Hauptsitz der Firma ist in Minato, Präfektur Tokio. Der Konzern wurde 1892 in Ōsaka gegründet. Das Unternehmen ist in Japan und einigen anderen Ländern, insbesondere in Südostasien und Australien, aber auch in den Vereinigten Staaten und Europa tätig. Das Unternehmen plant, bis 2050 einen Weltraumlift zu bauen.</rdfs:comment>
+    <rdfs:comment xml:lang="zh">大林組是日本一家大型建設公司，總部位於東京都港區。其與清水建設、竹中工務店、鹿島建設、大成建設並列為日本五大綜合建設公司，總資產與營收居於日本國內第一位。</rdfs:comment>
+    <rdfs:comment xml:lang="fr">Obayashi est une entreprise japonaise de construction. Elle est avec Takenaka Corporation, Kajima Corporation, Shimizu Corporation et Taisei Corporation, l&#39;une des cinq principales entreprises japonaises dans ce secteur. Elle a réalisé en 2014 un chiffre d&#39;affaires de 15,7 milliards de $.Elle a une importante activité de conception architecturale. Quelques immeubles conçus par Obayashi :</rdfs:comment>
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.05c0sh" />
+    <owl:sameAs rdf:resource="http://yago-knowledge.org/resource/Obayashi_Corporation" />
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q384730" />
+    <owl:sameAs rdf:resource="http://ja.dbpedia.org/resource/大林組" />
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Obayashi_Corporation" />
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q384730" />
+    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/Ōbayashi-gumi" />
+    <owl:sameAs rdf:resource="http://ko.dbpedia.org/resource/오바야시구미" />
+    <owl:sameAs rdf:resource="http://fr.dbpedia.org/resource/Obayashi_Corporation" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Midori-kai" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Companies_listed_on_the_Fukuoka_Stock_Exchange" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Companies_listed_on_the_Tokyo_Stock_Exchange" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Engineering_companies_of_Japan" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Companies_established_in_1892" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:1892_establishments_in_Japan" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Companies_based_in_Tokyo" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Japanese_brands" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Construction_and_civil_engineering_companies_of_Japan" />
+    <dbo:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1567678</dbo:wikiPageID>
+    <dbo:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">707680299</dbo:wikiPageRevisionID>
+    <dbo:wikiPageExternalLink rdf:resource="http://www.obayashiusa.com/" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.obayashi.co.jp/english/" />
+    <foaf:name xml:lang="en">Obayashi Corporation</foaf:name>
+    <foaf:homepage rdf:resource="http://www.obayashi.co.jp/english/" />
+    <foaf:depiction rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Osaka-Obayashi-bldg-01.jpg" />
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Obayashi_Corporation" />
+    <dbo:thumbnail rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Osaka-Obayashi-bldg-01.jpg?width=300" />
+    <prov:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Obayashi_Corporation?oldid=707680299" />
+    <dbo:abstract xml:lang="fr">Obayashi est une entreprise japonaise de construction. Elle est avec Takenaka Corporation, Kajima Corporation, Shimizu Corporation et Taisei Corporation, l&#39;une des cinq principales entreprises japonaises dans ce secteur. Elle a réalisé en 2014 un chiffre d&#39;affaires de 15,7 milliards de $.Elle a une importante activité de conception architecturale. Quelques immeubles conçus par Obayashi : 
+*  City Front Tower, Tokyo, 1991 ; 
+*  Hyatt Regency Osaka, Osaka, 1994 ; 
+*  Taiyo Life Shinagawa Building, Tokyo, 2003 ; 
+*  Uehonmachi Hills Mark, Osaka, 2007 ; 
+*  Canal First Tower, Tokyo, 2008 ; 
+*  City Tower Osaka Tenma The River and Parks, Osaka, 2009 ; 
+*  Lions Tower Kotodai, Sendai, (Japon), 2009 ; 
+*  Kachidoki View Tower, Tokyo, 2010 ; 
+*  Grand Front Osaka Owners Tower, Osaka, 2013.</dbo:abstract>
+    <dbo:abstract xml:lang="en">Obayashi Corporation (株式会社大林組 Kabushiki-gaisha Ōbayashi Gumi) is one of five major Japanese construction companies along with Shimizu Corporation, Takenaka Corporation, Kajima Corporation, and Taisei Corporation. It is listed on the Tokyo Stock Exchange and is one of the Nikkei 225 corporations. Its headquarters are in Minato, Tokyo. Established in 1892 in Osaka, Obayashi operates in Japan and other countries, especially Southeast Asia and Australia, as well as the United States and Europe. Major landmarks in Japan include the Kyoto Station Building and Tokyo Broadcasting System (TBS) Center in Tokyo, as well as the Tokyo Skytree. Obayashi has 86 subsidiaries and 26 affiliated companies in Japan, Europe, the Middle East, Asia, Australia and North America. In February 2012 it announced plans to build a space elevator by 2050.</dbo:abstract>
+    <dbo:abstract xml:lang="ja">株式会社大林組（おおばやしぐみ）は、1892年（明治25年）創業の大手総合建設会社。</dbo:abstract>
+    <dbo:abstract xml:lang="zh">大林組是日本一家大型建設公司，總部位於東京都港區。其與清水建設、竹中工務店、鹿島建設、大成建設並列為日本五大綜合建設公司，總資產與營收居於日本國內第一位。</dbo:abstract>
+    <dbo:abstract xml:lang="de">K.K. Ōbayashi-gumi (jap. 株式会社大林組, Kabushiki kaisha Ōbayashi-gumi, dt. „Ōbayashi-Gruppe“, engl. Obayashi Corporation), gelistet im Nikkei 225, ist eines von den fünf größten Bauunternehmen (Super-Zenekon) neben Shimizu, Takenaka, Kajima und Taisei in Japan. Der Hauptsitz der Firma ist in Minato, Präfektur Tokio. Der Konzern wurde 1892 in Ōsaka gegründet. Das Unternehmen ist in Japan und einigen anderen Ländern, insbesondere in Südostasien und Australien, aber auch in den Vereinigten Staaten und Europa tätig. Bedeutende große Bauprojekte sind der Bahnhof Kyōto, das Koshien-Stadium, das Tokyo Broadcasting System (TBS) Center und der Tokyo Sky Tree in Tokio. Das Unternehmen plant, bis 2050 einen Weltraumlift zu bauen.</dbo:abstract>
+    <dbo:foundationPlace rdf:resource="http://dbpedia.org/resource/Japan" />
+    <dbo:foundationPlace rdf:resource="http://dbpedia.org/resource/Osaka" />
+    <dbo:keyPerson rdf:resource="http://dbpedia.org/resource/CEO" />
+    <dbo:keyPerson rdf:resource="http://dbpedia.org/resource/President_(corporate_title)" />
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Japan" />
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Minato,_Tokyo" />
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Tokyo" />
+    <dbo:numberOfEmployees rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">12838</dbo:numberOfEmployees>
+    <dbo:revenue rdf:datatype="http://dbpedia.org/datatype/usDollar">1.5399E10</dbo:revenue>
+    <dbo:revenue rdf:datatype="http://dbpedia.org/datatype/japaneseYen">1448.0</dbo:revenue>
+    <dbo:type rdf:resource="http://dbpedia.org/resource/Public_company" />
+    <dbp:areaServed rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Worldwide</dbp:areaServed>
+    <dbp:founder rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Yoshigoro Obayashi</dbp:founder>
+    <dbp:logo rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Obayashi company logo.png</dbp:logo>
+    <dbp:netIncome rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">$ 140.302 million USD</dbp:netIncome>
+    <dbp:tradedAs rdf:resource="http://dbpedia.org/resource/Nikkei_225" />
+    <dbp:tradedAs rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">FSE: 1802</dbp:tradedAs>
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Companies" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Esplanade_Bridge">
+    <dbo:builder rdf:resource="http://dbpedia.org/resource/Obayashi_Corporation" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Taipei_Dome">
+    <dbp:mainContractors rdf:resource="http://dbpedia.org/resource/Obayashi_Corporation" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Roppongi_3-chome_East_Side_Project">
+    <dbp:mainContractor rdf:resource="http://dbpedia.org/resource/Obayashi_Corporation" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sarinah">
+    <dbp:mainContractor rdf:resource="http://dbpedia.org/resource/Obayashi_Corporation" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sumitomo_Fudosan_Roppongi_Grand_Tower">
+    <dbp:mainContractor rdf:resource="http://dbpedia.org/resource/Obayashi_Corporation" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Webcor_Builders">
+    <dbo:parentCompany rdf:resource="http://dbpedia.org/resource/Obayashi_Corporation" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mode_Gakuen_Spiral_Towers">
+    <dbp:mainContractor rdf:resource="http://dbpedia.org/resource/Obayashi_Corporation" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Obayashi_Corp.">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Obayashi_Corporation" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Obayashi_Corporation">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Obayashi_Corporation" />
+  </rdf:Description>
+</rdf:RDF>

@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:dbo="http://dbpedia.org/ontology/"
+	xmlns:dct="http://purl.org/dc/terms/"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:prov="http://www.w3.org/ns/prov#"
+	xmlns:ns7="http://dbpedia.org/ontology/Infrastructure/"
+	xmlns:dbp="http://dbpedia.org/property/"
+	xmlns:ns9="http://purl.org/linguistics/gold/" >
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Wall_Street">
+    <dbo:routeStart rdf:resource="http://dbpedia.org/resource/Broadway_(Manhattan)" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Equitable_Life_Building_(New_York_City)">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Broadway_(Manhattan)" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Canyon_of_heroes">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Broadway_(Manhattan)" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Beacon_Theatre_(New_York_City)">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Broadway_(Manhattan)" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Grace_Church_(Manhattan)">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Broadway_(Manhattan)" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Museum_of_Comic_and_Cartoon_Art">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Broadway_(Manhattan)" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Fleischer_Studios">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Broadway_(Manhattan)" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Broadway,_Manhattan">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Broadway_(Manhattan)" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/African_Burial_Ground_National_Monument">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Broadway_(Manhattan)" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Beach_Pneumatic_Transit">
+    <dbo:routeEnd rdf:resource="http://dbpedia.org/resource/Broadway_(Manhattan)" />
+    <dbo:routeStart rdf:resource="http://dbpedia.org/resource/Broadway_(Manhattan)" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Palace_Theatre_(New_York_City)">
+    <dbo:type rdf:resource="http://dbpedia.org/resource/Broadway_(Manhattan)" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Eleventh_Avenue_(Manhattan)">
+    <dbo:routeEnd rdf:resource="http://dbpedia.org/resource/Broadway_(Manhattan)" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Fifth_Avenue">
+    <dbp:east rdf:resource="http://dbpedia.org/resource/Broadway_(Manhattan)" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Broadway_(Bronx)">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Broadway_(Manhattan)" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Broadway_(The_Bronx)">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Broadway_(Manhattan)" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Broadway_(Manhattan)">
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/RouteOfTransportation" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Road104096066" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Artifact100021939" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Way104564698" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoGeoEntity" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoPermanentlyLocatedEntity" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Street104334599" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Thoroughfare104426618" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q34442" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Location" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Place" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/ArchitecturalStructure" />
+    <rdf:type rdf:resource="http://schema.org/Place" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Object100002684" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PhysicalEntity100001930" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatStreetsInTheBronx" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Road" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatStreetsInManhattan" />
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Whole100003553" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Infrastructure" />
+    <rdfs:label xml:lang="nl">Broadway (Manhattan)</rdfs:label>
+    <rdfs:label xml:lang="de">Broadway (Manhattan)</rdfs:label>
+    <rdfs:label xml:lang="ru">Бродвей (Нью-Йорк)</rdfs:label>
+    <rdfs:label xml:lang="fr">Broadway</rdfs:label>
+    <rdfs:label xml:lang="pt">Broadway</rdfs:label>
+    <rdfs:label xml:lang="zh">百老匯</rdfs:label>
+    <rdfs:label xml:lang="it">Broadway</rdfs:label>
+    <rdfs:label xml:lang="pl">Broadway (Manhattan)</rdfs:label>
+    <rdfs:label xml:lang="en">Broadway (Manhattan)</rdfs:label>
+    <rdfs:label xml:lang="es">Broadway</rdfs:label>
+    <rdfs:label xml:lang="ja">ブロードウェイ (ニューヨーク)</rdfs:label>
+    <rdfs:label xml:lang="ar">برودواي</rdfs:label>
+    <rdfs:comment xml:lang="nl">Broadway is een van de grote straten op Manhattan, New York. De straat loopt van zuid naar noord over de hele lengte van Manhattan tot Tarrytown, ten noorden van New York. Broadway kruist de belangrijkste straten van het eiland en er staan vele bezienswaardigheden langs de straat. Op de kruising met 42nd Street ligt Times Square.</rdfs:comment>
+    <rdfs:comment xml:lang="zh">百老匯大道（Broadway）為纽约市重要的南北向道路，南起巴特里公园（Battery Park），由南向北纵贯曼哈顿岛。紐約地鐵百老匯線（18x、18x、18x、18x）及紐約地鐵第七大道線（18x、18x、18x）均通過此路底下。由於此路两旁分佈著為數眾多的劇院，是美國戲劇和音樂劇的重要發揚地，因此成為了及音樂劇的代名詞。 關於百老匯大道的長度，說法不一。通常認為只有曼哈頓島內25公里的路段才可算是真正的百老匯大道，但另有一说称應該把位於布朗克斯區（Bronx）內的6公里也算進去。 百老匯的英文原意為「寬闊的街」，但另一種說法認為這個名字是從荷蘭文Brede weg翻譯過來的，这和把Wall Street翻成华尔街是相同的道理。</rdfs:comment>
+    <rdfs:comment xml:lang="pl">Broadway /ˈbrɔːdweɪ/ – ulica w Nowym Jorku, w dzielnicy Manhattan. W jej środkowej części (Times Square) mieszczą się liczne teatry (rozrywkowe i musicalowe) stanowiące centrum kulturalno-rozrywkowe USA, przyciągające wielu turystów z całego świata. Jest to także jedna z głównych ulic dzielnicy Manhattanu i jedno z najbardziej rozpoznawalnych miejsc Nowego Jorku i Stanów Zjednoczonych.</rdfs:comment>
+    <rdfs:comment xml:lang="es">Broadway [ˈbroːdweɪ] (&quot;Camino ancho&quot; en español) es una avenida, y junto con la Quinta Avenida es la calle más famosa de Manhattan. Se caracteriza por atravesar la plaza Times Square, y por ser punto de referencia para 19 teatros que conforman el «Circuito de Broadway». De los diecinueve, solamente dos de ellos se encuentran físicamente sobre la avenida Broadway, y el resto se encuentra a dos o tres manzanas de la misma. Actualmente es la avenida con mayor costo en el mundo para alquilar o comprar propiedades. La mayoría de las obras de teatro que se presentan son musicales y óperas.</rdfs:comment>
+    <rdfs:comment xml:lang="en">Broadway /ˈbrɔːdweɪ/ is a road in the U.S. state of New York. Broadway runs 13 mi (21 km) through the borough of Manhattan and 2 mi (3.2 km) through the Bronx, exiting north from the city to run an additional 18 mi (29 km) through the municipalities of Yonkers, Hastings-On-Hudson, Dobbs Ferry, Irvington, and Tarrytown, and terminating north of Sleepy Hollow in Westchester County.</rdfs:comment>
+    <rdfs:comment xml:lang="ru">Бродве́й (англ. Broadway) — название самой длинной улицы Нью-Йорка (более 25 км), протянувшейся через весь Манхэттен, Бронкс и далее на север через небольшие городки до столицы штата Нью-Йорк г. Олбани. Самая старая из крупных улиц города, берёт своё начало от первого поселения, называвшегося Новый Амстердам.</rdfs:comment>
+    <rdfs:comment xml:lang="pt">Broadway,  via larga em inglês, é uma avenida da cidade de Nova Iorque, Estados Unidos que atravessa o condado de Manhattan e do Bronx. A Broadway já existia antes do Commissioner&#39;s Plan de 1811, e portanto não obedece à malha viária ortogonal característica de Nova Iorque. A Broadway é muito famosa pelos seus teatros que exibem superproduções de musicais, que muitas vezes ficam em cartaz durante vários anos. Atravessa a Times Square e é ponto de referência para 43 teatros que conformam o Circuito Broadway.</rdfs:comment>
+    <rdfs:comment xml:lang="ar">شارع برودواي (بالإنكليزية: Broadway) ومعناها &quot;الشارع العريض&quot;. في مدينة نيويورك الأمريكية، وهو أحد أشهر مناطق الثقافة والترفيه في العالم، وأشهر شوارع العروض المسرحية والسينما والنشاطات الثقافية. بناه مهاجرون من هولندا قبل نحو 100 عام من استقلال أمريكا. وحاليا يقسم الشارع إلى ثلاثة أجزاء: الجزء الأسفل في منطقة مبنى بلدية نيويورك وهو الذي يشهد المواكب والمهرجانات الاحتفالية الضخمة، الجزء الأعلى والذي يخترق شمال المدينة ويصل لحي هارلم، والجزء الأوسط وهو القلب الرئيسي لمدينة نيويورك وبه ماديسون سكوير غاردن وتايمز سكوير. في 2005 زار شارع برودواي وتفرعاته 10 ملايين زائر.</rdfs:comment>
+    <rdfs:comment xml:lang="fr">Broadway est un des principaux axes nord-sud de l&#39;arrondissement de Manhattan, le quartier central de New York. C&#39;est le seul axe qui s&#39;étend du sud (de Bowling Green) au nord de l&#39;île et la seule avenue de Manhattan qui traverse l&#39;île en diagonale et ne respecte donc pas le plan de quadrillage qui a été établi en 1881. De ce fait, elle a conduit à la construction de curiosités architecturales comme le Flatiron Building (« le fer à repasser »).</rdfs:comment>
+    <rdfs:comment xml:lang="ja">ブロードウェイ (Broadway, [ˈbrɔːdweɪ]) は、アメリカ合衆国ニューヨーク州を南北に走る目抜き通りである。中でも、ニューヨーク市マンハッタンを走る区間が特に有名である。 マンハッタンの繁華街を南北に貫き、タイムズスクエア付近ではその周辺に劇場街が広がっているため、「ブロードウェイ」という単語は「ミュージカル」の代名詞ともなっている（ブロードウェイ・ミュージカル参照）。</rdfs:comment>
+    <rdfs:comment xml:lang="de">Der Broadway [ˈbɹɑːdweɪ] ist eine Haupt- und Geschäftsstraße im New Yorker Stadtteil Manhattan und gleichzeitig die älteste und mit mehr als 25 km Länge längste Nord-Süd-Durchquerung der Insel. Diese Straße stammt zu Teilen noch aus einem alten Indianerpfad, den die ersten holländischen Siedler übernommen und zu einer Straße ausgebaut hatten. Das südliche Ende des Broadways liegt am Bowling Green nahe der Südspitze Manhattans. Er führt quer durch die Insel zur nördlichsten Spitze, wo er den Harlem River mittels der Broadway Bridge überquert, geht weiter durch die Bronx und ins Westchester County, entlang des Hudson River, bis er schließlich in Sleepy Hollow zur Albany Post Road wird und im Zuge des U.S. Highway 9 bis nach Albany, der Hauptstadt des Staates New York, führt.</rdfs:comment>
+    <rdfs:comment xml:lang="it">Broadway (letteralmente via larga) è un&#39;ampia avenue di New York ed è una delle più antiche direttrici nord-sud della città, nata sul Wickquasgeck Trail, un sentiero tracciato dai nativi americani nella boscaglia e negli acquitrini dell&#39;isola di Manhattan. Con l&#39;arrivo degli olandesi, l&#39;antico percorso divenne la principale via di comunicazione di New Amsterdam, il nucleo originario della città di New York.</rdfs:comment>
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/List_of_ticker-tape_parades" />
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/New_York_City" />
+    <owl:sameAs rdf:resource="http://nl.dbpedia.org/resource/Broadway_(Manhattan)" />
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.01gx3" />
+    <owl:sameAs rdf:resource="http://cs.dbpedia.org/resource/Broadway" />
+    <owl:sameAs rdf:resource="http://d-nb.info/gnd/4075359-1" />
+    <owl:sameAs rdf:resource="http://yago-knowledge.org/resource/Broadway_(Manhattan)" />
+    <owl:sameAs rdf:resource="http://it.dbpedia.org/resource/Broadway" />
+    <owl:sameAs rdf:resource="http://id.dbpedia.org/resource/Broadway_(Kota_New_York)" />
+    <owl:sameAs rdf:resource="http://fr.dbpedia.org/resource/Broadway" />
+    <owl:sameAs rdf:resource="http://ja.dbpedia.org/resource/ブロードウェイ_(ニューヨーク)" />
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q11260" />
+    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/Broadway_(Manhattan)" />
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q11260" />
+    <owl:sameAs rdf:resource="http://pt.dbpedia.org/resource/Broadway" />
+    <owl:sameAs rdf:resource="http://es.dbpedia.org/resource/Broadway" />
+    <owl:sameAs rdf:resource="http://eu.dbpedia.org/resource/Broadway" />
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Broadway_(Manhattan)" />
+    <owl:sameAs rdf:resource="http://ko.dbpedia.org/resource/브로드웨이" />
+    <owl:sameAs rdf:resource="http://pl.dbpedia.org/resource/Broadway_(Manhattan)" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Broadway_theatre" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:U.S._Route_9" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Streets_in_Manhattan" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Broadway_(Manhattan)" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Streets_in_the_Bronx" />
+    <dbo:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4626</dbo:wikiPageID>
+    <dbo:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">741267283</dbo:wikiPageRevisionID>
+    <dbo:wikiPageExternalLink rdf:resource="http://www.nyc.gov/html/dot/html/about/broadway.shtml" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.nomadicnotes.com/travel-blog/walking-the-length-of-broadway-new-york/" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.barrypopik.com/article/17/great-white-way" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.nysonglines.com/broadway.htm" />
+    <foaf:name xml:lang="en">Broadway</foaf:name>
+    <foaf:depiction rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Broadway_Crowds_(5896264776)_crop.jpg" />
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Broadway_(Manhattan)" />
+    <dbo:thumbnail rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Broadway_Crowds_(5896264776)_crop.jpg?width=300" />
+    <prov:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Broadway_(Manhattan)?oldid=741267283" />
+    <ns7:length rdf:datatype="http://dbpedia.org/datatype/kilometre">53.108352</ns7:length>
+    <dbo:abstract xml:lang="fr">Broadway est un des principaux axes nord-sud de l&#39;arrondissement de Manhattan, le quartier central de New York. C&#39;est le seul axe qui s&#39;étend du sud (de Bowling Green) au nord de l&#39;île et la seule avenue de Manhattan qui traverse l&#39;île en diagonale et ne respecte donc pas le plan de quadrillage qui a été établi en 1881. De ce fait, elle a conduit à la construction de curiosités architecturales comme le Flatiron Building (« le fer à repasser »).</dbo:abstract>
+    <dbo:abstract xml:lang="es">Broadway [ˈbroːdweɪ] (&quot;Camino ancho&quot; en español) es una avenida, y junto con la Quinta Avenida es la calle más famosa de Manhattan. Se caracteriza por atravesar la plaza Times Square, y por ser punto de referencia para 19 teatros que conforman el «Circuito de Broadway». De los diecinueve, solamente dos de ellos se encuentran físicamente sobre la avenida Broadway, y el resto se encuentra a dos o tres manzanas de la misma. Actualmente es la avenida con mayor costo en el mundo para alquilar o comprar propiedades. La mayoría de las obras de teatro que se presentan son musicales y óperas. Destacadas figuras del cine y del mundo del espectáculo han hecho actuaciones en Broadway, tal es el caso de Glenn Close, Ricky Martin, Groucho Marx, Charlton Heston, Audrey Hepburn, Robert Redford, Orson Welles, Katharine Hepburn, Burt Lancaster, James Dean, Maggie Smith, Woody Allen, Daniel Radcliffe, Marlon Brando, Gene Hackman, Grace Kelly, Lauren Bacall, David Copperfield, Antonio Banderas, Lisa Edelstein, Barbara Streisand o Bianca Marroquín, entre otros. Merece especial mención el actor Jerry Orbach porque al día siguiente de su muerte, las marquesinas de todo Broadway fueron amortiguadas en señal de luto, siendo ello uno de los más altos honores en el mundo estadounidense del teatro. Algunas celebridades viven en esta calle como Nat Wolff. Algunos de ellos incluso han pasado por Broadway antes que por Hollywood. En Manhattan existen otros circuitos de teatro con menor prestigio, llamados Off-Broadway (fuera de Broadway) y Off-off-Broadway (fuera de fuera de Broadway).</dbo:abstract>
+    <dbo:abstract xml:lang="it">Broadway (letteralmente via larga) è un&#39;ampia avenue di New York ed è una delle più antiche direttrici nord-sud della città, nata sul Wickquasgeck Trail, un sentiero tracciato dai nativi americani nella boscaglia e negli acquitrini dell&#39;isola di Manhattan. Con l&#39;arrivo degli olandesi, l&#39;antico percorso divenne la principale via di comunicazione di New Amsterdam, il nucleo originario della città di New York.</dbo:abstract>
+    <dbo:abstract xml:lang="pl">Broadway /ˈbrɔːdweɪ/ – ulica w Nowym Jorku, w dzielnicy Manhattan. W jej środkowej części (Times Square) mieszczą się liczne teatry (rozrywkowe i musicalowe) stanowiące centrum kulturalno-rozrywkowe USA, przyciągające wielu turystów z całego świata. Jest to także jedna z głównych ulic dzielnicy Manhattanu i jedno z najbardziej rozpoznawalnych miejsc Nowego Jorku i Stanów Zjednoczonych.</dbo:abstract>
+    <dbo:abstract xml:lang="nl">Broadway is een van de grote straten op Manhattan, New York. De straat loopt van zuid naar noord over de hele lengte van Manhattan tot Tarrytown, ten noorden van New York. Broadway kruist de belangrijkste straten van het eiland en er staan vele bezienswaardigheden langs de straat. Op de kruising met 42nd Street ligt Times Square.</dbo:abstract>
+    <dbo:abstract xml:lang="pt">Broadway,  via larga em inglês, é uma avenida da cidade de Nova Iorque, Estados Unidos que atravessa o condado de Manhattan e do Bronx. A Broadway já existia antes do Commissioner&#39;s Plan de 1811, e portanto não obedece à malha viária ortogonal característica de Nova Iorque. A Broadway é muito famosa pelos seus teatros que exibem superproduções de musicais, que muitas vezes ficam em cartaz durante vários anos. Atravessa a Times Square e é ponto de referência para 43 teatros que conformam o Circuito Broadway.</dbo:abstract>
+    <dbo:abstract xml:lang="ja">ブロードウェイ (Broadway, [ˈbrɔːdweɪ]) は、アメリカ合衆国ニューヨーク州を南北に走る目抜き通りである。中でも、ニューヨーク市マンハッタンを走る区間が特に有名である。 マンハッタンの繁華街を南北に貫き、タイムズスクエア付近ではその周辺に劇場街が広がっているため、「ブロードウェイ」という単語は「ミュージカル」の代名詞ともなっている（ブロードウェイ・ミュージカル参照）。</dbo:abstract>
+    <dbo:abstract xml:lang="en">Broadway /ˈbrɔːdweɪ/ is a road in the U.S. state of New York. Broadway runs 13 mi (21 km) through the borough of Manhattan and 2 mi (3.2 km) through the Bronx, exiting north from the city to run an additional 18 mi (29 km) through the municipalities of Yonkers, Hastings-On-Hudson, Dobbs Ferry, Irvington, and Tarrytown, and terminating north of Sleepy Hollow in Westchester County. It is the oldest north–south main thoroughfare in New York City, dating to the first New Amsterdam settlement, although most of it did not bear its current name until the late 19th century. The name Broadway is the English language literal translation of the Dutch name, Brede weg. Broadway is known widely as the heart of the American theatre industry.</dbo:abstract>
+    <dbo:abstract xml:lang="ar">شارع برودواي (بالإنكليزية: Broadway) ومعناها &quot;الشارع العريض&quot;. في مدينة نيويورك الأمريكية، وهو أحد أشهر مناطق الثقافة والترفيه في العالم، وأشهر شوارع العروض المسرحية والسينما والنشاطات الثقافية. بناه مهاجرون من هولندا قبل نحو 100 عام من استقلال أمريكا. وحاليا يقسم الشارع إلى ثلاثة أجزاء: الجزء الأسفل في منطقة مبنى بلدية نيويورك وهو الذي يشهد المواكب والمهرجانات الاحتفالية الضخمة، الجزء الأعلى والذي يخترق شمال المدينة ويصل لحي هارلم، والجزء الأوسط وهو القلب الرئيسي لمدينة نيويورك وبه ماديسون سكوير غاردن وتايمز سكوير. في 2005 زار شارع برودواي وتفرعاته 10 ملايين زائر.</dbo:abstract>
+    <dbo:abstract xml:lang="ru">Бродве́й (англ. Broadway) — название самой длинной улицы Нью-Йорка (более 25 км), протянувшейся через весь Манхэттен, Бронкс и далее на север через небольшие городки до столицы штата Нью-Йорк г. Олбани. Самая старая из крупных улиц города, берёт своё начало от первого поселения, называвшегося Новый Амстердам.</dbo:abstract>
+    <dbo:abstract xml:lang="zh">百老匯大道（Broadway）為纽约市重要的南北向道路，南起巴特里公园（Battery Park），由南向北纵贯曼哈顿岛。紐約地鐵百老匯線（18x、18x、18x、18x）及紐約地鐵第七大道線（18x、18x、18x）均通過此路底下。由於此路两旁分佈著為數眾多的劇院，是美國戲劇和音樂劇的重要發揚地，因此成為了及音樂劇的代名詞。 關於百老匯大道的長度，說法不一。通常認為只有曼哈頓島內25公里的路段才可算是真正的百老匯大道，但另有一说称應該把位於布朗克斯區（Bronx）內的6公里也算進去。 百老匯的英文原意為「寬闊的街」，但另一種說法認為這個名字是從荷蘭文Brede weg翻譯過來的，这和把Wall Street翻成华尔街是相同的道理。</dbo:abstract>
+    <dbo:abstract xml:lang="de">Der Broadway [ˈbɹɑːdweɪ] ist eine Haupt- und Geschäftsstraße im New Yorker Stadtteil Manhattan und gleichzeitig die älteste und mit mehr als 25 km Länge längste Nord-Süd-Durchquerung der Insel. Diese Straße stammt zu Teilen noch aus einem alten Indianerpfad, den die ersten holländischen Siedler übernommen und zu einer Straße ausgebaut hatten. Das südliche Ende des Broadways liegt am Bowling Green nahe der Südspitze Manhattans. Er führt quer durch die Insel zur nördlichsten Spitze, wo er den Harlem River mittels der Broadway Bridge überquert, geht weiter durch die Bronx und ins Westchester County, entlang des Hudson River, bis er schließlich in Sleepy Hollow zur Albany Post Road wird und im Zuge des U.S. Highway 9 bis nach Albany, der Hauptstadt des Staates New York, führt. Als die ersten holländischen Siedler sich auf der Insel ansiedelten und Neu Amsterdam gründeten, übernahmen sie – im Gegensatz zu den Engländern, die beim Bau ihrer Siedlungen eher auf ihr bisheriges Prinzip englischer Städtebauweise zurückgriffen – diesen bereits bestehenden Indianerpfad, um von Neu Amsterdam, im Süden der Insel, zu anderen Orten im Norden zu gelangen. Er weicht mit seiner Wegführung stark vom später entworfenen gleichförmigen Straßenraster des Randel-Plans ab, der die Inselentwicklung, wie andere amerikanische Großstädte, als eine Planstadt fortführte.</dbo:abstract>
+    <dbo:length rdf:datatype="http://www.w3.org/2001/XMLSchema#double">53108.4</dbo:length>
+    <dbo:location rdf:resource="http://dbpedia.org/resource/The_Bronx" />
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Westchester_County,_New_York" />
+    <dbo:location rdf:resource="http://dbpedia.org/resource/New_York_(state)" />
+    <dbo:location rdf:resource="http://dbpedia.org/resource/New_York_City" />
+    <dbo:routeEnd rdf:resource="http://dbpedia.org/resource/New_York_(state)" />
+    <dbo:routeEnd rdf:resource="http://dbpedia.org/resource/Sleepy_Hollow,_New_York" />
+    <dbo:routeEnd rdf:resource="http://dbpedia.org/resource/Westchester_County,_New_York" />
+    <dbo:routeEndDirection>North</dbo:routeEndDirection>
+    <dbo:routeJunction rdf:resource="http://dbpedia.org/resource/Manhattan" />
+    <dbo:routeJunction rdf:resource="http://dbpedia.org/resource/Sleepy_Hollow,_New_York" />
+    <dbo:routeJunction rdf:resource="http://dbpedia.org/resource/Bronx" />
+    <dbo:routeJunction rdf:resource="http://dbpedia.org/resource/Tarrytown,_New_York" />
+    <dbo:routeJunction rdf:resource="http://dbpedia.org/resource/Yonkers,_New_York" />
+    <dbo:routeJunction rdf:resource="http://dbpedia.org/resource/Riverdale,_Bronx" />
+    <dbo:routeStart rdf:resource="http://dbpedia.org/resource/New_York_(state)" />
+    <dbo:routeStart rdf:resource="http://dbpedia.org/resource/Financial_District,_Manhattan" />
+    <dbo:routeStartDirection>South</dbo:routeStartDirection>
+    <dbp:caption rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">175</dbp:caption>
+    <dbp:caption rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">A daytime scene on Broadway</dbp:caption>
+    <dbp:caption rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Broadway through Manhattan, the Bronx and lower Westchester County is highlighted in red</dbp:caption>
+    <dbp:imageSize rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">325</dbp:imageSize>
+    <ns9:hypernym rdf:resource="http://dbpedia.org/resource/Road" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Broadway">
+    <dbo:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/Broadway_(Manhattan)" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/West_Broadway">
+    <owl:differentFrom rdf:resource="http://dbpedia.org/resource/Broadway_(Manhattan)" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/One_Liberty_Plaza">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Broadway_(Manhattan)" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Damon_Runyon_Cancer_Research_Foundation">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Broadway_(Manhattan)" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Great_White_Way">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Broadway_(Manhattan)" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Empire_Building_(Manhattan)">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Broadway_(Manhattan)" />
+    <dbo:picture rdf:resource="http://dbpedia.org/resource/Broadway_(Manhattan)" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Singer_Building">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Broadway_(Manhattan)" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Winter_Garden_Theatre">
+    <dbo:type rdf:resource="http://dbpedia.org/resource/Broadway_(Manhattan)" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Equitable_Building_(Manhattan)">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Broadway_(Manhattan)" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Fort_Tryon_Park">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Broadway_(Manhattan)" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Park_Row_(Manhattan)">
+    <dbo:routeStart rdf:resource="http://dbpedia.org/resource/Broadway_(Manhattan)" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Alfred_Lerner_Hall">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Broadway_(Manhattan)" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Times_Square">
+    <dbp:blankInfoSec rdf:resource="http://dbpedia.org/resource/Broadway_(Manhattan)" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Harper&#39;s_Magazine">
+    <dbo:city rdf:resource="http://dbpedia.org/resource/Broadway_(Manhattan)" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Woolworth_Building">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Broadway_(Manhattan)" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jesse_L._Lasky_Jr.">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Broadway_(Manhattan)" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/U.S._Route_9_in_New_York">
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Broadway_(Manhattan)" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/De_Heere">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Broadway_(Manhattan)" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bowling_Green_(New_York_City)">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Broadway_(Manhattan)" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lafayette_Street">
+    <dbp:west rdf:resource="http://dbpedia.org/resource/Broadway_(Manhattan)" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Brill_Building">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Broadway_(Manhattan)" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/New_York_City_Hall">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Broadway_(Manhattan)" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/116th_Street_(Manhattan)">
+    <dbo:routeJunction rdf:resource="http://dbpedia.org/resource/Broadway_(Manhattan)" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Canyon_of_Heroes">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Broadway_(Manhattan)" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Audubon_Terrace">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Broadway_(Manhattan)" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/770_Broadway">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Broadway_(Manhattan)" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Artis_(non-profit_company)">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Broadway_(Manhattan)" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Pomander_Walk">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Broadway_(Manhattan)" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/133rd_Street_(Manhattan)">
+    <dbo:routeJunction rdf:resource="http://dbpedia.org/resource/Broadway_(Manhattan)" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/26_Broadway">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Broadway_(Manhattan)" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Great_White_Way">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Broadway_(Manhattan)" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Heerestraat">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Broadway_(Manhattan)" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Broadway_(New_York,_N.Y.)">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Broadway_(Manhattan)" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Canyon_of_Heroines">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Broadway_(Manhattan)" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Broadway_(NYC)">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Broadway_(Manhattan)" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Broadway_(Manhattan)">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Broadway_(Manhattan)" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bloomingdale_Road_(Manhattan)">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Broadway_(Manhattan)" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bloomingdale_Road_(New_York_City)">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Broadway_(Manhattan)" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Broadway_(Manhattan,_the_Bronx_and_Westchester)">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Broadway_(Manhattan)" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Broadway_(Manhattan_and_Bronx)">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Broadway_(Manhattan)" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Broadway_(Manhattan_and_the_Bronx)">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Broadway_(Manhattan)" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Broadway_(New_York_Route_9A)">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Broadway_(Manhattan)" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Broadway_(New_York_State_Route_9A)">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Broadway_(Manhattan)" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Broadway_(Westchester_County)">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Broadway_(Manhattan)" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Broadway_(Westchester_County,_New_York)">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Broadway_(Manhattan)" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Broadway_(New_York,_NY)">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Broadway_(Manhattan)" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Brodaway">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Broadway_(Manhattan)" />
+  </rdf:Description>
+</rdf:RDF>

@@ -1,0 +1,883 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:dbo="http://dbpedia.org/ontology/"
+	xmlns:dbp="http://dbpedia.org/property/"
+	xmlns:dct="http://purl.org/dc/terms/"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	xmlns:prov="http://www.w3.org/ns/prov#"
+	xmlns:ns9="http://dbpedia.org/ontology/PopulatedPlace/"
+	xmlns:georss="http://www.georss.org/georss/"
+	xmlns:ns11="http://purl.org/linguistics/gold/" >
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Duncan_McNaughton">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Cornwall,_Ontario" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Newsy_Lalonde">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Cornwall,_Ontario" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Quebec_Autoroute_20">
+    <dbo:routeStart rdf:resource="http://dbpedia.org/resource/Cornwall,_Ontario" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Derek_Grant_(ice_hockey,_born_1974)">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Cornwall,_Ontario" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Owen_McCourt">
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Cornwall,_Ontario" />
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Cornwall,_Ontario" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Stormont—Dundas—South_Glengarry_(provincial_electoral_district)">
+    <dbp:demoCsd rdf:resource="http://dbpedia.org/resource/Cornwall,_Ontario" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Malcolm_Burn">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Cornwall,_Ontario" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/St._Joseph&#39;s_Secondary_School_(Cornwall,_Ontario)">
+    <dbo:city rdf:resource="http://dbpedia.org/resource/Cornwall,_Ontario" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Melanie_Banville">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Cornwall,_Ontario" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Moses-Saunders_Power_Dam">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Cornwall,_Ontario" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ray_Miron">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Cornwall,_Ontario" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jean_Payette">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Cornwall,_Ontario" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/John_Markell">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Cornwall,_Ontario" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Cornwall,_ON">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Cornwall,_Ontario" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Luc-André_Bouchard">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Cornwall,_Ontario" />
+    <dbp:birthPlace rdf:resource="http://dbpedia.org/resource/Cornwall,_Ontario" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mario_Viens">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Cornwall,_Ontario" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Noble_Villeneuve">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Cornwall,_Ontario" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/CBO-FM">
+    <dbp:city rdf:resource="http://dbpedia.org/resource/Cornwall,_Ontario" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/CBOF-FM">
+    <dbp:city rdf:resource="http://dbpedia.org/resource/Cornwall,_Ontario" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/CHOD-FM">
+    <dbo:city rdf:resource="http://dbpedia.org/resource/Cornwall,_Ontario" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Don_Smith_(ice_hockey,_born_1887)">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Cornwall,_Ontario" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Cornwall_Motor_Speedway">
+    <dbp:location rdf:resource="http://dbpedia.org/resource/Cornwall,_Ontario" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Cornwall_Standard_Freeholder">
+    <dbo:headquarter rdf:resource="http://dbpedia.org/resource/Cornwall,_Ontario" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Peter_Gatien">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Cornwall,_Ontario" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Michael_Cram">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Cornwall,_Ontario" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Autoroutes_of_Quebec">
+    <dbo:routeStart rdf:resource="http://dbpedia.org/resource/Cornwall,_Ontario" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Cornwall_Aces">
+    <dbp:city rdf:resource="http://dbpedia.org/resource/Cornwall,_Ontario" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ontario_Highway_401">
+    <dbo:city rdf:resource="http://dbpedia.org/resource/Cornwall,_Ontario" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bob_Charlebois">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Cornwall,_Ontario" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Orval_Tessier">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Cornwall,_Ontario" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lionel_Chevrier">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Cornwall,_Ontario" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Cornwall_(Ontario)">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Cornwall,_Ontario" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jason_Lepine">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Cornwall,_Ontario" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Reddy_McMillan">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Cornwall,_Ontario" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/South_Glengarry,_Ontario">
+    <dbp:west rdf:resource="http://dbpedia.org/resource/Cornwall,_Ontario" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/United_Counties_of_Stormont,_Dundas_and_Glengarry">
+    <dbo:part rdf:resource="http://dbpedia.org/resource/Cornwall,_Ontario" />
+    <dbp:seat rdf:resource="http://dbpedia.org/resource/Cornwall,_Ontario" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Cornwall_Regional_Airport">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Cornwall,_Ontario" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/CJSS-TV">
+    <dbo:locationCity rdf:resource="http://dbpedia.org/resource/Cornwall,_Ontario" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2010–11_Toledo_Walleye_season">
+    <dbp:birthplace rdf:resource="http://dbpedia.org/resource/Cornwall,_Ontario" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Cornwall_Seaway_News">
+    <dbo:headquarter rdf:resource="http://dbpedia.org/resource/Cornwall,_Ontario" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Seela_Misra">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Cornwall,_Ontario" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Al-Rashid_Islamic_Institute">
+    <dbo:city rdf:resource="http://dbpedia.org/resource/Cornwall,_Ontario" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Cornwall_River_Kings">
+    <dbp:city rdf:resource="http://dbpedia.org/resource/Cornwall,_Ontario" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Iohahi:io_Akwesasne_Adult_Education_Centre">
+    <dbo:city rdf:resource="http://dbpedia.org/resource/Cornwall,_Ontario" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Doug_Carpenter">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Cornwall,_Ontario" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Barstool_Prophets">
+    <dbo:hometown rdf:resource="http://dbpedia.org/resource/Cornwall,_Ontario" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/John_Goodall_Snetsinger">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Cornwall,_Ontario" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lori_Dupuis">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Cornwall,_Ontario" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Alexander_Peter_Ross">
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Cornwall,_Ontario" />
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Cornwall,_Ontario" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Arnold_Neilson_Smith">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Cornwall,_Ontario" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Frank_Thomas_Shaver">
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Cornwall,_Ontario" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Marc_Dupuis">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Cornwall,_Ontario" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Cornwall_Colts">
+    <dbo:city rdf:resource="http://dbpedia.org/resource/Cornwall,_Ontario" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jesse_Winchester_(ice_hockey)">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Cornwall,_Ontario" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Simon_Fraser_(explorer)">
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Cornwall,_Ontario" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/St._Lawrence_College,_Ontario">
+    <dbo:campus rdf:resource="http://dbpedia.org/resource/Cornwall,_Ontario" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/CFLG-FM">
+    <dbo:city rdf:resource="http://dbpedia.org/resource/Cornwall,_Ontario" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/CJSS-FM">
+    <dbo:city rdf:resource="http://dbpedia.org/resource/Cornwall,_Ontario" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Cornwall_Transit">
+    <dbp:operator rdf:resource="http://dbpedia.org/resource/Cornwall,_Ontario" />
+    <dbp:serviceArea rdf:resource="http://dbpedia.org/resource/Cornwall,_Ontario" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/WVNV">
+    <dbo:broadcastArea rdf:resource="http://dbpedia.org/resource/Cornwall,_Ontario" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/WYUL">
+    <dbo:broadcastArea rdf:resource="http://dbpedia.org/resource/Cornwall,_Ontario" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Carson_Cooper">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Cornwall,_Ontario" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Alexander_Francis_Macdonald">
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Cornwall,_Ontario" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Cornwall_(ON)">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Cornwall,_Ontario" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/A._U._Wyman">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Cornwall,_Ontario" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jeff_Legue">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Cornwall,_Ontario" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Cornwall,_Ontario">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/County108546183" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Region108630039" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatPopulatedPlacesInOntario" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatUnitedCountiesOfStormont,DundasAndGlengarry" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Site108651247" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Tract108673395" />
+    <rdf:type rdf:resource="http://schema.org/Place" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoPermanentlyLocatedEntity" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoGeoEntity" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/City" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Object100002684" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoLegalActorGeo" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PhysicalEntity100001930" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatPopulatedPlacesOnTheSaintLawrenceRiver" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q515" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q486972" />
+    <rdf:type rdf:resource="http://schema.org/City" />
+    <rdf:type rdf:resource="http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatCanadianBorderCities" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/GeographicalArea108574314" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Location100027167" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/District108552138" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/UrbanArea108675967" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Municipality108626283" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Region108630985" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/PopulatedPlace" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Settlement" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Place" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Location" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/City108524735" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/AdministrativeDistrict108491826" />
+    <rdfs:label xml:lang="ar">كورنوال (أونتاريو)</rdfs:label>
+    <rdfs:label xml:lang="pl">Cornwall (Ontario)</rdfs:label>
+    <rdfs:label xml:lang="pt">Cornwall (Ontário)</rdfs:label>
+    <rdfs:label xml:lang="it">Cornwall (Ontario)</rdfs:label>
+    <rdfs:label xml:lang="fr">Cornwall (Ontario)</rdfs:label>
+    <rdfs:label xml:lang="nl">Cornwall (Ontario)</rdfs:label>
+    <rdfs:label xml:lang="ja">コーンウォール (オンタリオ州)</rdfs:label>
+    <rdfs:label xml:lang="en">Cornwall, Ontario</rdfs:label>
+    <rdfs:label xml:lang="de">Cornwall (Ontario)</rdfs:label>
+    <rdfs:label xml:lang="ru">Корнуолл (город, Онтарио)</rdfs:label>
+    <rdfs:label xml:lang="zh">康沃尔 (安大略省)</rdfs:label>
+    <rdfs:comment xml:lang="en">Cornwall is a city in Eastern Ontario, Canada, and the seat of the United Counties of Stormont, Dundas and Glengarry. Cornwall is Ontario&#39;s easternmost city, located on the Saint Lawrence River in the Quebec City–Windsor Corridor along Ontario Highway 401, and is the urban centre for surrounding communities, including Long Sault and Ingleside to the west, Mohawk Territory of Akwesasne to the south, St. Andrew&#39;s and Avonmore to the north, and Glen Walter, Martintown, Apple Hill, Williamstown, and Lancaster to the east. Its largest industries include logistics distribution and call centres.</rdfs:comment>
+    <rdfs:comment xml:lang="ru">Корнуолл, англ. Cornwall — город в округе Стормонт, Дандас и Гленгарри канадской провинции Онтарио. Был назван в честь Георга IV, носившего титул герцога Корнуольского. Согласно переписи 2006 г., численность жителей составила 45 965 человек, из которых английский язык был родным для 64,2 %, французский для 27,2 %.</rdfs:comment>
+    <rdfs:comment xml:lang="pl">Cornwall to miasto (city / cité) w Kanadzie, w prowincji Ontario, w hrabstwie Stormont, Dundas i Glengarry. Nazwa została nadana miastu na cześć Jerzego IV Hanowerskiego, księcia Kornwalii (ang. Cornwall). Liczba mieszkańców Cornwall wynosi 45 965. Język angielski jest językiem ojczystym dla 64,2%, francuski dla 27,2% mieszkańców (2006).</rdfs:comment>
+    <rdfs:comment xml:lang="de">Cornwall ist eine Stadt in Ost-Ontario, Kanada und zugleich der Sitz der Stormont, Dundas and Glengarry United Counties. Es ist die östlichste Stadt Ontarios gelegen am Sankt-Lorenz-Strom, dem Québec-Windsor-Korridor und dem Highway 401. Die Stadt wurde nach der englischen Grafschaft Cornwall benannt.</rdfs:comment>
+    <rdfs:comment xml:lang="nl">Cornwall is een stad in Canada in de provincie Ontario.Cornwall telde in 2006 bij de volkstelling 48.792 inwoners.</rdfs:comment>
+    <rdfs:comment xml:lang="ar">كورنوال، أونتاريو (بالإنجليزية: Cornwall) هي مدينة كندية تقع في مقاطعة أونتاريو. تبلغ مساحة هذه المدينة 61.524 (كم²)، ويبلغ عدد سكانها 45965 نسمة حسب إحصاء سنة 2006 م، بينما كان يسكنها 45640 نسمة في سنة 2001 م. تحتل هذه المدينة المرتبة رقم 100 بين مدن كندا حسب عدد السكان والمرتبة رقم 43 في المقاطعة. نما عدد السكان في هذه المدينة بنسبة (0.7) بين العامين المذكورين.</rdfs:comment>
+    <rdfs:comment xml:lang="fr">Cornwall est une ville canadienne, située dans l&#39;est de la province de l&#39;Ontario. Lors du recensement de 2006, sa population s&#39;élevait à 45 965 habitants.</rdfs:comment>
+    <rdfs:comment xml:lang="ja">コーンウォール（英: Cornwall）は、カナダのオンタリオ州ストーモント・ダンダス・グレンゲリー連合郡にある市である。人口は約46.3千人。セントローレンス川に面し、オンタリオ州最東端の市。オンタリオ・ハイウェイ401号線沿いのケベック＝ウィンザー回廊にある都市の一つ。オタワから南東約100km、モントリオールから南西に約120km、トロントから北東に約440kmの位置にある。 コーンウォール公にちなみ1834年にニュージョンズタウン（New Johnstown）から改称された。</rdfs:comment>
+    <rdfs:comment xml:lang="zh">康沃尔（英语：Cornwall）是一座位于加拿大安大略省东南部圣劳伦斯河畔的城市，也是該省史托蒙特、鄧達斯和葛蘭蓋瑞聯合縣的縣治，但行政上獨立於該縣。康和是安大略省最東的市級行政區，坐落魁北克市-温莎走廊之上，離渥太華東南約100公里（62英里），蒙特婁西南約120公里（75英里），多倫多東北約440公里（270英里）。據2011年加拿大人口普查所示，康和共有人口46,340。</rdfs:comment>
+    <rdfs:comment xml:lang="pt">Cornwall é uma cidade do Canadá, no sudeste da província de Ontário. Sua população é de 45 640 habitantes, com 57 581 habitantes na sua região metropolitana (do censo nacional de 2001). Está localizado a aproximadamente 100 km a oeste de Ottawa (capital do país) e de Montreal (a maior cidade da província canadiana de Quebec).</rdfs:comment>
+    <rdfs:comment xml:lang="it">Cornwall è una città del Canada, capoluogo delle contee unite di Stormont, Dundas e Glengarry, nella provincia dell&#39;Ontario.</rdfs:comment>
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.018dck" />
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Cornwall,_Ontario" />
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q956690" />
+    <owl:sameAs rdf:resource="http://pt.dbpedia.org/resource/Cornwall_(Ontário)" />
+    <owl:sameAs rdf:resource="http://ja.dbpedia.org/resource/コーンウォール_(オンタリオ州)" />
+    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/Cornwall_(Ontario)" />
+    <owl:sameAs rdf:resource="http://it.dbpedia.org/resource/Cornwall_(Ontario)" />
+    <owl:sameAs rdf:resource="http://fr.dbpedia.org/resource/Cornwall_(Ontario)" />
+    <owl:sameAs rdf:resource="http://yago-knowledge.org/resource/Cornwall,_Ontario" />
+    <owl:sameAs rdf:resource="http://yago-knowledge.org/resource/Cornwall_(Ontario)" />
+    <owl:sameAs rdf:resource="http://pl.dbpedia.org/resource/Cornwall_(Ontario)" />
+    <owl:sameAs rdf:resource="http://sws.geonames.org/5928065/" />
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q956690" />
+    <owl:sameAs rdf:resource="http://nl.dbpedia.org/resource/Cornwall_(Ontario)" />
+    <owl:sameAs rdf:resource="http://ko.dbpedia.org/resource/콘월_(온타리오_주)" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Ontario_communities_with_large_francophone_populations" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Canada–United_States_border_towns" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Populated_places_on_the_Saint_Lawrence_River" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Cornwall,_Ontario" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Canadian_border_cities" />
+    <dbo:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">178831</dbo:wikiPageID>
+    <dbo:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">745109284</dbo:wikiPageRevisionID>
+    <dbo:wikiPageExternalLink rdf:resource="http://www.trainweb.org/elso/csr-elec.htm" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.cornwall.ca" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.cornwallsquare.com" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.cornwall.ca/" />
+    <foaf:name xml:lang="en">City of Cornwall</foaf:name>
+    <foaf:name xml:lang="en">Cornwall</foaf:name>
+    <foaf:homepage rdf:resource="http://www.cornwall.ca/" />
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#float">45.0275</geo:lat>
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-74.74</geo:long>
+    <foaf:depiction rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Cornwall_ON_1.JPG" />
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Cornwall,_Ontario" />
+    <geo:geometry rdf:datatype="http://www.openlinksw.com/schemas/virtrdf#Geometry">POINT(-74.73999786377 45.027500152588)</geo:geometry>
+    <dbo:thumbnail rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Cornwall_ON_1.JPG?width=300" />
+    <prov:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Cornwall,_Ontario?oldid=745109284" />
+    <ns9:areaMetro rdf:datatype="http://dbpedia.org/datatype/squareKilometre">509.03</ns9:areaMetro>
+    <ns9:populationDensity rdf:datatype="http://dbpedia.org/datatype/inhabitantsPerSquareKilometre">753.2</ns9:populationDensity>
+    <ns9:populationMetroDensity rdf:datatype="http://dbpedia.org/datatype/inhabitantsPerSquareKilometre">115.8</ns9:populationMetroDensity>
+    <dbo:abstract xml:lang="de">Cornwall ist eine Stadt in Ost-Ontario, Kanada und zugleich der Sitz der Stormont, Dundas and Glengarry United Counties. Es ist die östlichste Stadt Ontarios gelegen am Sankt-Lorenz-Strom, dem Québec-Windsor-Korridor und dem Highway 401. Cornwall liegt etwa 100 km südöstlich von Ottawa, Kanadas Hauptstadt, 100 km südwestlich von Montréal und 450 km nordöstlich von Toronto. Es grenzt im Westen an South Stormont, im Norden an South Dundas, im Osten an South Glengarry Südwesten an die USA (New York). Die der Stadt vorgelagerte Insel Cornwall Island ist Teil eines Reservats der Akwesasne Mohawk Nation, welches ansonsten vollständig in New York bzw. Québec liegt. Der Grenzübergang auf der Insel sorgte 2009 für Spannungen zwischen den Akwesasne und den Kanadischen Behörden. Die Stadt wurde nach der englischen Grafschaft Cornwall benannt.</dbo:abstract>
+    <dbo:abstract xml:lang="fr">Cornwall est une ville canadienne, située dans l&#39;est de la province de l&#39;Ontario. Lors du recensement de 2006, sa population s&#39;élevait à 45 965 habitants.</dbo:abstract>
+    <dbo:abstract xml:lang="zh">康沃尔（英语：Cornwall）是一座位于加拿大安大略省东南部圣劳伦斯河畔的城市，也是該省史托蒙特、鄧達斯和葛蘭蓋瑞聯合縣的縣治，但行政上獨立於該縣。康和是安大略省最東的市級行政區，坐落魁北克市-温莎走廊之上，離渥太華東南約100公里（62英里），蒙特婁西南約120公里（75英里），多倫多東北約440公里（270英里）。據2011年加拿大人口普查所示，康和共有人口46,340。</dbo:abstract>
+    <dbo:abstract xml:lang="ar">كورنوال، أونتاريو (بالإنجليزية: Cornwall) هي مدينة كندية تقع في مقاطعة أونتاريو. تبلغ مساحة هذه المدينة 61.524 (كم²)، ويبلغ عدد سكانها 45965 نسمة حسب إحصاء سنة 2006 م، بينما كان يسكنها 45640 نسمة في سنة 2001 م. تحتل هذه المدينة المرتبة رقم 100 بين مدن كندا حسب عدد السكان والمرتبة رقم 43 في المقاطعة. نما عدد السكان في هذه المدينة بنسبة (0.7) بين العامين المذكورين.</dbo:abstract>
+    <dbo:abstract xml:lang="pl">Cornwall to miasto (city / cité) w Kanadzie, w prowincji Ontario, w hrabstwie Stormont, Dundas i Glengarry. Nazwa została nadana miastu na cześć Jerzego IV Hanowerskiego, księcia Kornwalii (ang. Cornwall). Liczba mieszkańców Cornwall wynosi 45 965. Język angielski jest językiem ojczystym dla 64,2%, francuski dla 27,2% mieszkańców (2006).</dbo:abstract>
+    <dbo:abstract xml:lang="ru">Корнуолл, англ. Cornwall — город в округе Стормонт, Дандас и Гленгарри канадской провинции Онтарио. Был назван в честь Георга IV, носившего титул герцога Корнуольского. Согласно переписи 2006 г., численность жителей составила 45 965 человек, из которых английский язык был родным для 64,2 %, французский для 27,2 %.</dbo:abstract>
+    <dbo:abstract xml:lang="ja">コーンウォール（英: Cornwall）は、カナダのオンタリオ州ストーモント・ダンダス・グレンゲリー連合郡にある市である。人口は約46.3千人。セントローレンス川に面し、オンタリオ州最東端の市。オンタリオ・ハイウェイ401号線沿いのケベック＝ウィンザー回廊にある都市の一つ。オタワから南東約100km、モントリオールから南西に約120km、トロントから北東に約440kmの位置にある。 コーンウォール公にちなみ1834年にニュージョンズタウン（New Johnstown）から改称された。</dbo:abstract>
+    <dbo:abstract xml:lang="it">Cornwall è una città del Canada, capoluogo delle contee unite di Stormont, Dundas e Glengarry, nella provincia dell&#39;Ontario.</dbo:abstract>
+    <dbo:abstract xml:lang="pt">Cornwall é uma cidade do Canadá, no sudeste da província de Ontário. Sua população é de 45 640 habitantes, com 57 581 habitantes na sua região metropolitana (do censo nacional de 2001). Está localizado a aproximadamente 100 km a oeste de Ottawa (capital do país) e de Montreal (a maior cidade da província canadiana de Quebec).</dbo:abstract>
+    <dbo:abstract xml:lang="en">Cornwall is a city in Eastern Ontario, Canada, and the seat of the United Counties of Stormont, Dundas and Glengarry. Cornwall is Ontario&#39;s easternmost city, located on the Saint Lawrence River in the Quebec City–Windsor Corridor along Ontario Highway 401, and is the urban centre for surrounding communities, including Long Sault and Ingleside to the west, Mohawk Territory of Akwesasne to the south, St. Andrew&#39;s and Avonmore to the north, and Glen Walter, Martintown, Apple Hill, Williamstown, and Lancaster to the east. Cornwall lies on the 45th parallel, approximately 100 kilometres (62 mi) southeast of Ottawa, the national capital, 120 kilometres (75 mi) southwest of Montreal, Quebec&#39;s largest city, and 440 kilometres (270 mi) northeast of Toronto, the provincial capital and Canada&#39;s largest city. It is named after the English Duchy of Cornwall; the City&#39;s coat of arms is based on that of the duchy with its colours reversed and the addition of a &quot;royal tressure&quot;, a Scottish symbol of royalty. Its largest industries include logistics distribution and call centres.</dbo:abstract>
+    <dbo:abstract xml:lang="nl">Cornwall is een stad in Canada in de provincie Ontario.Cornwall telde in 2006 bij de volkstelling 48.792 inwoners.</dbo:abstract>
+    <dbo:areaCode>613 and 343</dbo:areaCode>
+    <dbo:areaLand rdf:datatype="http://www.w3.org/2001/XMLSchema#double">6.152e+07</dbo:areaLand>
+    <dbo:areaMetro rdf:datatype="http://www.w3.org/2001/XMLSchema#double">5.0903e+08</dbo:areaMetro>
+    <dbo:country rdf:resource="http://dbpedia.org/resource/Canada" />
+    <dbo:elevation rdf:datatype="http://www.w3.org/2001/XMLSchema#double">64.0</dbo:elevation>
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/United_Counties_of_Stormont,_Dundas_and_Glengarry" />
+    <dbo:leaderName rdf:resource="http://dbpedia.org/resource/Cornwall_City_Council" />
+    <dbo:leaderName rdf:resource="http://dbpedia.org/resource/Guy_Lauzon" />
+    <dbo:leaderName rdf:resource="http://dbpedia.org/resource/Jim_McDonell" />
+    <dbo:leaderName rdf:resource="http://dbpedia.org/resource/Leslie_O&#39;Shaughnessy" />
+    <dbo:leaderTitle xml:lang="en">Governing Body</dbo:leaderTitle>
+    <dbo:leaderTitle xml:lang="en">MP</dbo:leaderTitle>
+    <dbo:leaderTitle xml:lang="en">Mayor</dbo:leaderTitle>
+    <dbo:leaderTitle xml:lang="en">MPP</dbo:leaderTitle>
+    <dbo:motto>Pro Patria</dbo:motto>
+    <dbo:populationDensity rdf:datatype="http://www.w3.org/2001/XMLSchema#double">753.2</dbo:populationDensity>
+    <dbo:populationMetro rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">58957</dbo:populationMetro>
+    <dbo:populationMetroDensity rdf:datatype="http://www.w3.org/2001/XMLSchema#double">115.8</dbo:populationMetroDensity>
+    <dbo:populationTotal rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">46340</dbo:populationTotal>
+    <dbo:postalCode>K6H, K6J</dbo:postalCode>
+    <dbo:timeZone rdf:resource="http://dbpedia.org/resource/Eastern_Time_Zone" />
+    <dbo:type rdf:resource="http://dbpedia.org/resource/List_of_cities_in_Ontario" />
+    <dbo:utcOffset>−4</dbo:utcOffset>
+    <dbo:utcOffset>−5</dbo:utcOffset>
+    <!--
+    <p: xmlns:p="http://dbpedia.org/property/2006AccessDate" rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2012-03-21</p:>
+    -->
+    <!--
+    <p: xmlns:p="http://dbpedia.org/property/2006LandArea" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">61.52</p:>
+    -->
+    <!--
+    <p: xmlns:p="http://dbpedia.org/property/2006MeanHhIncome" rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">39411</p:>
+    -->
+    <!--
+    <p: xmlns:p="http://dbpedia.org/property/2006MedianAge" rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">43</p:>
+    -->
+    <!--
+    <p: xmlns:p="http://dbpedia.org/property/2006MedianAgeF" rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">44</p:>
+    -->
+    <!--
+    <p: xmlns:p="http://dbpedia.org/property/2006MedianAgeM" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">41.9</p:>
+    -->
+    <!--
+    <p: xmlns:p="http://dbpedia.org/property/2006PopDelta" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.7</p:>
+    -->
+    <!--
+    <p: xmlns:p="http://dbpedia.org/property/2006PopDensity" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">747.1</p:>
+    -->
+    <!--
+    <p: xmlns:p="http://dbpedia.org/property/2006Population" rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">45965</p:>
+    -->
+    <!--
+    <p: xmlns:p="http://dbpedia.org/property/2006TotalPvtDwell" rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">20534</p:>
+    -->
+    <!--
+    <p: xmlns:p="http://dbpedia.org/property/2011AccessDate" rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2012-03-21</p:>
+    -->
+    <!--
+    <p: xmlns:p="http://dbpedia.org/property/2011LandArea" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">61.52</p:>
+    -->
+    <!--
+    <p: xmlns:p="http://dbpedia.org/property/2011PopDelta" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.8</p:>
+    -->
+    <!--
+    <p: xmlns:p="http://dbpedia.org/property/2011PopDensity" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">753.2</p:>
+    -->
+    <!--
+    <p: xmlns:p="http://dbpedia.org/property/2011Population" rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">46340</p:>
+    -->
+    <!--
+    <p: xmlns:p="http://dbpedia.org/property/2011TotalPvtDwell" rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">21272</p:>
+    -->
+    <dbp:floors rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</dbp:floors>
+    <dbp:numberOfAnchors rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</dbp:numberOfAnchors>
+    <dbp:numberOfStores rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">60</dbp:numberOfStores>
+    <dbp:openingDate rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1979</dbp:openingDate>
+    <georss:point>45.0275 -74.74</georss:point>
+    <dbp:aprHighC rdf:datatype="http://www.w3.org/2001/XMLSchema#double">11.9</dbp:aprHighC>
+    <dbp:aprLowC rdf:datatype="http://www.w3.org/2001/XMLSchema#double">2.1</dbp:aprLowC>
+    <dbp:aprMeanC rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">7</dbp:aprMeanC>
+    <dbp:aprPercentsun rdf:datatype="http://www.w3.org/2001/XMLSchema#double">41.1</dbp:aprPercentsun>
+    <dbp:aprPrecipitationDays rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">12</dbp:aprPrecipitationDays>
+    <dbp:aprPrecipitationMm rdf:datatype="http://www.w3.org/2001/XMLSchema#double">81.4</dbp:aprPrecipitationMm>
+    <dbp:aprRainDays rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">11</dbp:aprRainDays>
+    <dbp:aprRainMm rdf:datatype="http://www.w3.org/2001/XMLSchema#double">71.2</dbp:aprRainMm>
+    <dbp:aprRecordHighC rdf:datatype="http://www.w3.org/2001/XMLSchema#double">30.5</dbp:aprRecordHighC>
+    <dbp:aprRecordLowC rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">−18.3</dbp:aprRecordLowC>
+    <dbp:aprSnowCm rdf:datatype="http://www.w3.org/2001/XMLSchema#double">10.2</dbp:aprSnowCm>
+    <dbp:aprSnowDays rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.9</dbp:aprSnowDays>
+    <dbp:aprSun rdf:datatype="http://www.w3.org/2001/XMLSchema#double">166.2</dbp:aprSun>
+    <dbp:augHighC rdf:datatype="http://www.w3.org/2001/XMLSchema#double">25.7</dbp:augHighC>
+    <dbp:augLowC rdf:datatype="http://www.w3.org/2001/XMLSchema#double">15.7</dbp:augLowC>
+    <dbp:augMeanC rdf:datatype="http://www.w3.org/2001/XMLSchema#double">20.7</dbp:augMeanC>
+    <dbp:augPercentsun rdf:datatype="http://www.w3.org/2001/XMLSchema#double">52.7</dbp:augPercentsun>
+    <dbp:augPrecipitationDays rdf:datatype="http://www.w3.org/2001/XMLSchema#double">11.1</dbp:augPrecipitationDays>
+    <dbp:augPrecipitationMm rdf:datatype="http://www.w3.org/2001/XMLSchema#double">89.1</dbp:augPrecipitationMm>
+    <dbp:augRainDays rdf:datatype="http://www.w3.org/2001/XMLSchema#double">11.1</dbp:augRainDays>
+    <dbp:augRainMm rdf:datatype="http://www.w3.org/2001/XMLSchema#double">89.1</dbp:augRainMm>
+    <dbp:augRecordHighC rdf:datatype="http://www.w3.org/2001/XMLSchema#double">36.5</dbp:augRecordHighC>
+    <dbp:augRecordLowC rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.7</dbp:augRecordLowC>
+    <dbp:augSnowCm rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">0</dbp:augSnowCm>
+    <dbp:augSnowDays rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">0</dbp:augSnowDays>
+    <dbp:augSun rdf:datatype="http://www.w3.org/2001/XMLSchema#double">229.7</dbp:augSun>
+    <dbp:caption rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">The Cornwall Square</dbp:caption>
+    <dbp:centre rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Cornwall</dbp:centre>
+    <dbp:coordinatesDisplay rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">inline,title</dbp:coordinatesDisplay>
+    <dbp:coordinatesRegion rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">CA-ON</dbp:coordinatesRegion>
+    <dbp:date rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">August 2010</dbp:date>
+    <dbp:decHighC rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">−0.5</dbp:decHighC>
+    <dbp:decLowC rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">−7.5</dbp:decLowC>
+    <dbp:decMeanC rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">−4.0</dbp:decMeanC>
+    <dbp:decPercentsun rdf:datatype="http://www.w3.org/2001/XMLSchema#double">22.3</dbp:decPercentsun>
+    <dbp:decPrecipitationDays rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">14</dbp:decPrecipitationDays>
+    <dbp:decPrecipitationMm rdf:datatype="http://www.w3.org/2001/XMLSchema#double">75.8</dbp:decPrecipitationMm>
+    <dbp:decRainDays rdf:datatype="http://www.w3.org/2001/XMLSchema#double">5.7</dbp:decRainDays>
+    <dbp:decRainMm rdf:datatype="http://www.w3.org/2001/XMLSchema#double">38.8</dbp:decRainMm>
+    <dbp:decRecordHighC rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">20</dbp:decRecordHighC>
+    <dbp:decRecordLowC rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">−34.4</dbp:decRecordLowC>
+    <dbp:decSnowCm rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">37</dbp:decSnowCm>
+    <dbp:decSnowDays rdf:datatype="http://www.w3.org/2001/XMLSchema#double">9.5</dbp:decSnowDays>
+    <dbp:decSun rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">61</dbp:decSun>
+    <dbp:east rdf:resource="http://dbpedia.org/resource/South_Glengarry,_Ontario" />
+    <dbp:establishedDate rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1784</dbp:establishedDate>
+    <dbp:establishedTitle rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Founded</dbp:establishedTitle>
+    <dbp:febHighC rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">−2.2</dbp:febHighC>
+    <dbp:febLowC rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">−10.7</dbp:febLowC>
+    <dbp:febMeanC rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">−6.5</dbp:febMeanC>
+    <dbp:febPercentsun rdf:datatype="http://www.w3.org/2001/XMLSchema#double">39.1</dbp:febPercentsun>
+    <dbp:febPrecipitationDays rdf:datatype="http://www.w3.org/2001/XMLSchema#double">11.3</dbp:febPrecipitationDays>
+    <dbp:febPrecipitationMm rdf:datatype="http://www.w3.org/2001/XMLSchema#double">60.2</dbp:febPrecipitationMm>
+    <dbp:febRainDays rdf:datatype="http://www.w3.org/2001/XMLSchema#double">3.8</dbp:febRainDays>
+    <dbp:febRainMm rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">22</dbp:febRainMm>
+    <dbp:febRecordHighC rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">18</dbp:febRecordHighC>
+    <dbp:febRecordLowC rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">−36.1</dbp:febRecordLowC>
+    <dbp:febSnowCm rdf:datatype="http://www.w3.org/2001/XMLSchema#double">38.2</dbp:febSnowCm>
+    <dbp:febSnowDays rdf:datatype="http://www.w3.org/2001/XMLSchema#double">8.5</dbp:febSnowDays>
+    <dbp:febSun rdf:datatype="http://www.w3.org/2001/XMLSchema#double">114.8</dbp:febSun>
+    <dbp:flagSize rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">120</dbp:flagSize>
+    <dbp:imageBlankEmblem rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Logo of Cornwall, Ontario.svg</dbp:imageBlankEmblem>
+    <dbp:imageCaption rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Pitt Street, downtown Cornwall</dbp:imageCaption>
+    <dbp:imageFlag rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Flag of Cornwall, Ontario.svg</dbp:imageFlag>
+    <dbp:imageShield rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Cornwall, Ontario Coat of Arms.png</dbp:imageShield>
+    <dbp:imageSkyline rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Cornwall ON 1.JPG</dbp:imageSkyline>
+    <dbp:janHighC rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">−4.4</dbp:janHighC>
+    <dbp:janLowC rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">−12.6</dbp:janLowC>
+    <dbp:janMeanC rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">−8.5</dbp:janMeanC>
+    <dbp:janPercentsun rdf:datatype="http://www.w3.org/2001/XMLSchema#double">29.9</dbp:janPercentsun>
+    <dbp:janPrecipitationDays rdf:datatype="http://www.w3.org/2001/XMLSchema#double">14.2</dbp:janPrecipitationDays>
+    <dbp:janPrecipitationMm rdf:datatype="http://www.w3.org/2001/XMLSchema#double">76.2</dbp:janPrecipitationMm>
+    <dbp:janRainDays rdf:datatype="http://www.w3.org/2001/XMLSchema#double">3.9</dbp:janRainDays>
+    <dbp:janRainMm rdf:datatype="http://www.w3.org/2001/XMLSchema#double">29.1</dbp:janRainMm>
+    <dbp:janRecordHighC rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">18</dbp:janRecordHighC>
+    <dbp:janRecordLowC rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">−43.3</dbp:janRecordLowC>
+    <dbp:janSnowCm rdf:datatype="http://www.w3.org/2001/XMLSchema#double">47.2</dbp:janSnowCm>
+    <dbp:janSnowDays rdf:datatype="http://www.w3.org/2001/XMLSchema#double">11.5</dbp:janSnowDays>
+    <dbp:janSun rdf:datatype="http://www.w3.org/2001/XMLSchema#double">85.3</dbp:janSun>
+    <dbp:julHighC rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">27</dbp:julHighC>
+    <dbp:julLowC rdf:datatype="http://www.w3.org/2001/XMLSchema#double">16.6</dbp:julLowC>
+    <dbp:julMeanC rdf:datatype="http://www.w3.org/2001/XMLSchema#double">21.8</dbp:julMeanC>
+    <dbp:julPercentsun rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">58</dbp:julPercentsun>
+    <dbp:julPrecipitationDays rdf:datatype="http://www.w3.org/2001/XMLSchema#double">11.4</dbp:julPrecipitationDays>
+    <dbp:julPrecipitationMm rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">99</dbp:julPrecipitationMm>
+    <dbp:julRainDays rdf:datatype="http://www.w3.org/2001/XMLSchema#double">11.4</dbp:julRainDays>
+    <dbp:julRainMm rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">99</dbp:julRainMm>
+    <dbp:julRecordHighC rdf:datatype="http://www.w3.org/2001/XMLSchema#double">37.8</dbp:julRecordHighC>
+    <dbp:julRecordLowC rdf:datatype="http://www.w3.org/2001/XMLSchema#double">3.3</dbp:julRecordLowC>
+    <dbp:julSnowCm rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">0</dbp:julSnowCm>
+    <dbp:julSnowDays rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">0</dbp:julSnowDays>
+    <dbp:julSun rdf:datatype="http://www.w3.org/2001/XMLSchema#double">274.1</dbp:julSun>
+    <dbp:junHighC rdf:datatype="http://www.w3.org/2001/XMLSchema#double">24.3</dbp:junHighC>
+    <dbp:junLowC rdf:datatype="http://www.w3.org/2001/XMLSchema#double">13.7</dbp:junLowC>
+    <dbp:junMeanC rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">19</dbp:junMeanC>
+    <dbp:junPercentsun rdf:datatype="http://www.w3.org/2001/XMLSchema#double">51.7</dbp:junPercentsun>
+    <dbp:junPrecipitationDays rdf:datatype="http://www.w3.org/2001/XMLSchema#double">11.9</dbp:junPrecipitationDays>
+    <dbp:junPrecipitationMm rdf:datatype="http://www.w3.org/2001/XMLSchema#double">97.3</dbp:junPrecipitationMm>
+    <dbp:junRainDays rdf:datatype="http://www.w3.org/2001/XMLSchema#double">11.9</dbp:junRainDays>
+    <dbp:junRainMm rdf:datatype="http://www.w3.org/2001/XMLSchema#double">97.3</dbp:junRainMm>
+    <dbp:junRecordHighC rdf:datatype="http://www.w3.org/2001/XMLSchema#double">35.6</dbp:junRecordHighC>
+    <dbp:junRecordLowC rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.6</dbp:junRecordLowC>
+    <dbp:junSnowCm rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">0</dbp:junSnowCm>
+    <dbp:junSnowDays rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">0</dbp:junSnowDays>
+    <dbp:junSun rdf:datatype="http://www.w3.org/2001/XMLSchema#double">241.2</dbp:junSun>
+    <dbp:latd rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">45</dbp:latd>
+    <dbp:latm rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</dbp:latm>
+    <dbp:latns rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">N</dbp:latns>
+    <dbp:lats rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">39</dbp:lats>
+    <dbp:location rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Cornwall, 1981–2010 normals, extremes 1867–present</dbp:location>
+    <dbp:longd rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">74</dbp:longd>
+    <dbp:longew rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">W</dbp:longew>
+    <dbp:longm rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">44</dbp:longm>
+    <dbp:longs rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">24</dbp:longs>
+    <dbp:marHighC rdf:datatype="http://www.w3.org/2001/XMLSchema#double">3.4</dbp:marHighC>
+    <dbp:marLowC rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">−5.4</dbp:marLowC>
+    <dbp:marMeanC rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">−1.0</dbp:marMeanC>
+    <dbp:marPercentsun rdf:datatype="http://www.w3.org/2001/XMLSchema#double">41.5</dbp:marPercentsun>
+    <dbp:marPrecipitationDays rdf:datatype="http://www.w3.org/2001/XMLSchema#double">11.2</dbp:marPrecipitationDays>
+    <dbp:marPrecipitationMm rdf:datatype="http://www.w3.org/2001/XMLSchema#double">61.5</dbp:marPrecipitationMm>
+    <dbp:marRainDays rdf:datatype="http://www.w3.org/2001/XMLSchema#double">5.7</dbp:marRainDays>
+    <dbp:marRainMm rdf:datatype="http://www.w3.org/2001/XMLSchema#double">29.5</dbp:marRainMm>
+    <dbp:marRecordHighC rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">26</dbp:marRecordHighC>
+    <dbp:marRecordLowC rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">−32.2</dbp:marRecordLowC>
+    <dbp:marSnowCm rdf:datatype="http://www.w3.org/2001/XMLSchema#double">31.8</dbp:marSnowCm>
+    <dbp:marSnowDays rdf:datatype="http://www.w3.org/2001/XMLSchema#double">6.6</dbp:marSnowDays>
+    <dbp:marSun rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">153</dbp:marSun>
+    <dbp:mayHighC rdf:datatype="http://www.w3.org/2001/XMLSchema#double">19.3</dbp:mayHighC>
+    <dbp:mayLowC rdf:datatype="http://www.w3.org/2001/XMLSchema#double">8.5</dbp:mayLowC>
+    <dbp:mayMeanC rdf:datatype="http://www.w3.org/2001/XMLSchema#double">13.9</dbp:mayMeanC>
+    <dbp:mayPercentsun rdf:datatype="http://www.w3.org/2001/XMLSchema#double">45.6</dbp:mayPercentsun>
+    <dbp:mayPrecipitationDays rdf:datatype="http://www.w3.org/2001/XMLSchema#double">13.8</dbp:mayPrecipitationDays>
+    <dbp:mayPrecipitationMm rdf:datatype="http://www.w3.org/2001/XMLSchema#double">87.6</dbp:mayPrecipitationMm>
+    <dbp:mayRainDays rdf:datatype="http://www.w3.org/2001/XMLSchema#double">13.8</dbp:mayRainDays>
+    <dbp:mayRainMm rdf:datatype="http://www.w3.org/2001/XMLSchema#double">87.6</dbp:mayRainMm>
+    <dbp:mayRecordHighC rdf:datatype="http://www.w3.org/2001/XMLSchema#double">35.6</dbp:mayRecordHighC>
+    <dbp:mayRecordLowC rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">−6.1</dbp:mayRecordLowC>
+    <dbp:maySnowCm rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.04</dbp:maySnowCm>
+    <dbp:maySnowDays rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.04</dbp:maySnowDays>
+    <dbp:maySun rdf:datatype="http://www.w3.org/2001/XMLSchema#double">209.9</dbp:maySun>
+    <dbp:metricFirst rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Y</dbp:metricFirst>
+    <dbp:north rdf:resource="http://dbpedia.org/resource/South_Stormont" />
+    <dbp:novHighC rdf:datatype="http://www.w3.org/2001/XMLSchema#double">6.6</dbp:novHighC>
+    <dbp:novLowC rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">−0.4</dbp:novLowC>
+    <dbp:novMeanC rdf:datatype="http://www.w3.org/2001/XMLSchema#double">3.1</dbp:novMeanC>
+    <dbp:novPercentsun rdf:datatype="http://www.w3.org/2001/XMLSchema#double">26.3</dbp:novPercentsun>
+    <dbp:novPrecipitationDays rdf:datatype="http://www.w3.org/2001/XMLSchema#double">14.6</dbp:novPrecipitationDays>
+    <dbp:novPrecipitationMm rdf:datatype="http://www.w3.org/2001/XMLSchema#double">92.1</dbp:novPrecipitationMm>
+    <dbp:novRainDays rdf:datatype="http://www.w3.org/2001/XMLSchema#double">12.1</dbp:novRainDays>
+    <dbp:novRainMm rdf:datatype="http://www.w3.org/2001/XMLSchema#double">77.8</dbp:novRainMm>
+    <dbp:novRecordHighC rdf:datatype="http://www.w3.org/2001/XMLSchema#double">23.9</dbp:novRecordHighC>
+    <dbp:novRecordLowC rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">−21.7</dbp:novRecordLowC>
+    <dbp:novSnowCm rdf:datatype="http://www.w3.org/2001/XMLSchema#double">14.3</dbp:novSnowCm>
+    <dbp:novSnowDays rdf:datatype="http://www.w3.org/2001/XMLSchema#double">3.4</dbp:novSnowDays>
+    <dbp:novSun rdf:datatype="http://www.w3.org/2001/XMLSchema#double">75.6</dbp:novSun>
+    <dbp:octHighC rdf:datatype="http://www.w3.org/2001/XMLSchema#double">13.6</dbp:octHighC>
+    <dbp:octLowC rdf:datatype="http://www.w3.org/2001/XMLSchema#double">5.2</dbp:octLowC>
+    <dbp:octMeanC rdf:datatype="http://www.w3.org/2001/XMLSchema#double">9.4</dbp:octMeanC>
+    <dbp:octPercentsun rdf:datatype="http://www.w3.org/2001/XMLSchema#double">38.1</dbp:octPercentsun>
+    <dbp:octPrecipitationDays rdf:datatype="http://www.w3.org/2001/XMLSchema#double">12.8</dbp:octPrecipitationDays>
+    <dbp:octPrecipitationMm rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">93</dbp:octPrecipitationMm>
+    <dbp:octRainDays rdf:datatype="http://www.w3.org/2001/XMLSchema#double">12.6</dbp:octRainDays>
+    <dbp:octRainMm rdf:datatype="http://www.w3.org/2001/XMLSchema#double">91.7</dbp:octRainMm>
+    <dbp:octRecordHighC rdf:datatype="http://www.w3.org/2001/XMLSchema#double">28.5</dbp:octRecordHighC>
+    <dbp:octRecordLowC rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">−9.4</dbp:octRecordLowC>
+    <dbp:octSnowCm rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.2</dbp:octSnowCm>
+    <dbp:octSnowDays rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.31</dbp:octSnowDays>
+    <dbp:octSun rdf:datatype="http://www.w3.org/2001/XMLSchema#double">129.9</dbp:octSun>
+    <dbp:owner rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Partners REI</dbp:owner>
+    <dbp:populationAsOf rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2011</dbp:populationAsOf>
+    <dbp:postalCodeType rdf:resource="http://dbpedia.org/resource/Postal_codes_in_Canada" />
+    <dbp:precipitationColour rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">green</dbp:precipitationColour>
+    <dbp:pushpinMap rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Canada Southern Ontario</dbp:pushpinMap>
+    <dbp:rainColour rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">green</dbp:rainColour>
+    <dbp:sepHighC rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">21</dbp:sepHighC>
+    <dbp:sepLowC rdf:datatype="http://www.w3.org/2001/XMLSchema#double">11.3</dbp:sepLowC>
+    <dbp:sepMeanC rdf:datatype="http://www.w3.org/2001/XMLSchema#double">16.2</dbp:sepMeanC>
+    <dbp:sepPercentsun rdf:datatype="http://www.w3.org/2001/XMLSchema#double">43.4</dbp:sepPercentsun>
+    <dbp:sepPrecipitationDays rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">12</dbp:sepPrecipitationDays>
+    <dbp:sepPrecipitationMm rdf:datatype="http://www.w3.org/2001/XMLSchema#double">98.3</dbp:sepPrecipitationMm>
+    <dbp:sepRainDays rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">12</dbp:sepRainDays>
+    <dbp:sepRainMm rdf:datatype="http://www.w3.org/2001/XMLSchema#double">98.3</dbp:sepRainMm>
+    <dbp:sepRecordHighC rdf:datatype="http://www.w3.org/2001/XMLSchema#double">34.5</dbp:sepRecordHighC>
+    <dbp:sepRecordLowC rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">−6.1</dbp:sepRecordLowC>
+    <dbp:sepSnowCm rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">0</dbp:sepSnowCm>
+    <dbp:sepSnowDays rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">0</dbp:sepSnowDays>
+    <dbp:sepSun rdf:datatype="http://www.w3.org/2001/XMLSchema#double">163.7</dbp:sepSun>
+    <dbp:shieldSize rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">100</dbp:shieldSize>
+    <dbp:singleLine rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Y</dbp:singleLine>
+    <dbp:source rdf:resource="http://dbpedia.org/resource/Environment_Canada" />
+    <dbp:south rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Saint Lawrence River</dbp:south>
+    <dbp:south rdf:resource="http://dbpedia.org/resource/Akwesasne_59,_Ontario" />
+    <dbp:southeast rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Saint Lawrence River</dbp:southeast>
+    <dbp:southeast rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Dundee</dbp:southeast>
+    <dbp:southwest rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Saint Lawrence River</dbp:southwest>
+    <dbp:southwest rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Massena</dbp:southwest>
+    <dbp:subdivisionType rdf:resource="http://dbpedia.org/resource/Provinces_and_territories_of_Canada" />
+    <dbp:subdivisionType rdf:resource="http://dbpedia.org/resource/Countries_of_the_world" />
+    <dbp:subdivisionType rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">County</dbp:subdivisionType>
+    <dbp:unitPrecipitationDays rdf:datatype="http://dbpedia.org/datatype/millimetre">0.2</dbp:unitPrecipitationDays>
+    <dbp:unitRainDays rdf:datatype="http://dbpedia.org/datatype/millimetre">0.2</dbp:unitRainDays>
+    <dbp:unitSnowDays rdf:datatype="http://dbpedia.org/datatype/centimetre">0.2</dbp:unitSnowDays>
+    <dbp:west rdf:resource="http://dbpedia.org/resource/South_Stormont,_Ontario" />
+    <dbp:yearHighC rdf:datatype="http://www.w3.org/2001/XMLSchema#double">12.1</dbp:yearHighC>
+    <dbp:yearLowC rdf:datatype="http://www.w3.org/2001/XMLSchema#double">3.1</dbp:yearLowC>
+    <dbp:yearMeanC rdf:datatype="http://www.w3.org/2001/XMLSchema#double">7.6</dbp:yearMeanC>
+    <dbp:yearPercentsun rdf:datatype="http://www.w3.org/2001/XMLSchema#double">40.8</dbp:yearPercentsun>
+    <dbp:yearPrecipitationDays rdf:datatype="http://www.w3.org/2001/XMLSchema#double">150.1</dbp:yearPrecipitationDays>
+    <dbp:yearPrecipitationMm rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1011.5</dbp:yearPrecipitationMm>
+    <dbp:yearRainDays rdf:datatype="http://www.w3.org/2001/XMLSchema#double">114.9</dbp:yearRainDays>
+    <dbp:yearRainMm rdf:datatype="http://www.w3.org/2001/XMLSchema#double">831.3</dbp:yearRainMm>
+    <dbp:yearRecordHighC rdf:datatype="http://www.w3.org/2001/XMLSchema#double">37.8</dbp:yearRecordHighC>
+    <dbp:yearRecordLowC rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">−43.3</dbp:yearRecordLowC>
+    <dbp:yearSnowCm rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">180</dbp:yearSnowCm>
+    <dbp:yearSnowDays rdf:datatype="http://www.w3.org/2001/XMLSchema#double">41.7</dbp:yearSnowDays>
+    <dbp:yearSun rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1904.3</dbp:yearSun>
+    <!--
+    <p: xmlns:p="http://dbpedia.org/property/2001AccessDate" rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2012-03-21</p:>
+    -->
+    <!--
+    <p: xmlns:p="http://dbpedia.org/property/2001LandArea" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">61.83</p:>
+    -->
+    <!--
+    <p: xmlns:p="http://dbpedia.org/property/2001MeanHhIncome" rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">34132</p:>
+    -->
+    <!--
+    <p: xmlns:p="http://dbpedia.org/property/2001MedianAge" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">40.2</p:>
+    -->
+    <!--
+    <p: xmlns:p="http://dbpedia.org/property/2001MedianAgeF" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">41.2</p:>
+    -->
+    <!--
+    <p: xmlns:p="http://dbpedia.org/property/2001MedianAgeM" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">39.1</p:>
+    -->
+    <!--
+    <p: xmlns:p="http://dbpedia.org/property/2001PopDelta" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-3.7</p:>
+    -->
+    <!--
+    <p: xmlns:p="http://dbpedia.org/property/2001PopDensity" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">738.1</p:>
+    -->
+    <!--
+    <p: xmlns:p="http://dbpedia.org/property/2001Population" rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">45640</p:>
+    -->
+    <!--
+    <p: xmlns:p="http://dbpedia.org/property/2001TotalPvtDwell" rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">20129</p:>
+    -->
+    <!--
+    <p: xmlns:p="http://dbpedia.org/property/2011MedianAge" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">45.3</p:>
+    -->
+    <!--
+    <p: xmlns:p="http://dbpedia.org/property/2011MedianAgeF" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">46.2</p:>
+    -->
+    <!--
+    <p: xmlns:p="http://dbpedia.org/property/2011MedianAgeM" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">44.2</p:>
+    -->
+    <dbp:brandingSlogans rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">The Friendly Seaway City, A City With a World of Possibilities</dbp:brandingSlogans>
+    <ns11:hypernym rdf:resource="http://dbpedia.org/resource/City" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Cornwall_(disambiguation)">
+    <dbo:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/Cornwall,_Ontario" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/South_Stormont">
+    <dbp:southeast rdf:resource="http://dbpedia.org/resource/Cornwall,_Ontario" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Battle_of_Crysler&#39;s_Farm">
+    <dbo:place rdf:resource="http://dbpedia.org/resource/Cornwall,_Ontario" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Chris_Richards_(ice_hockey)">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Cornwall,_Ontario" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jacob_Harold_Gallinger">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Cornwall,_Ontario" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Philip_VanKoughnet">
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Cornwall,_Ontario" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Robert_Marleau">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Cornwall,_Ontario" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bones_Allan">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Cornwall,_Ontario" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Albert_Lavigne">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Cornwall,_Ontario" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Christina_Julien">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Cornwall,_Ontario" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2010–11_Mississippi_RiverKings_season">
+    <dbp:birthplace rdf:resource="http://dbpedia.org/resource/Cornwall,_Ontario" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bob_Kilger">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Cornwall,_Ontario" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Cornwall_Nationals">
+    <dbp:city rdf:resource="http://dbpedia.org/resource/Cornwall,_Ontario" />
+    <dbp:birthplace rdf:resource="http://dbpedia.org/resource/Cornwall,_Ontario" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Cornwall_Tool_Library">
+    <dbp:location rdf:resource="http://dbpedia.org/resource/Cornwall,_Ontario" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Chad_Kilger">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Cornwall,_Ontario" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/John_Cleary_(Canadian_politician)">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Cornwall,_Ontario" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/WWF_Light_Heavyweight_Championship">
+    <dbp:rd1Seed rdf:resource="http://dbpedia.org/resource/Cornwall,_Ontario" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Cornwall_Civic_Complex">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Cornwall,_Ontario" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Corrie_D&#39;Alessio">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Cornwall,_Ontario" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Blair_MacDonald">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Cornwall,_Ontario" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Steve_Poapst">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Cornwall,_Ontario" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Akwesasne_59">
+    <dbp:west rdf:resource="http://dbpedia.org/resource/Cornwall,_Ontario" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Corbett_Denneny">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Cornwall,_Ontario" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Michael_V._Smith">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Cornwall,_Ontario" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/John_Wensink">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Cornwall,_Ontario" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bruce_Racine">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Cornwall,_Ontario" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bob_Currier">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Cornwall,_Ontario" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Norman_Warner">
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Cornwall,_Ontario" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Leslie_O&#39;Shaughnessy">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Cornwall,_Ontario" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Cornwall_Royals">
+    <dbo:city rdf:resource="http://dbpedia.org/resource/Cornwall,_Ontario" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Robert_Abercrombie_Pringle">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Cornwall,_Ontario" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Moe_Racine">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Cornwall,_Ontario" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Donald_Alexander_Macdonald_(general)">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Cornwall,_Ontario" />
+    <dbp:birthPlace rdf:resource="http://dbpedia.org/resource/Cornwall,_Ontario" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Scott_Champagne">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Cornwall,_Ontario" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2010–11_South_Carolina_Stingrays_season">
+    <dbp:birthplace rdf:resource="http://dbpedia.org/resource/Cornwall,_Ontario" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/D-Generation_X:_In_Your_House">
+    <dbp:rd1Seed rdf:resource="http://dbpedia.org/resource/Cornwall,_Ontario" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/1989_Skate_Canada_International">
+    <dbp:location rdf:resource="http://dbpedia.org/resource/Cornwall,_Ontario" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Maine_Black_Bears_men&#39;s_ice_hockey">
+    <dbp:hometown rdf:resource="http://dbpedia.org/resource/Cornwall,_Ontario" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jack_Broderick">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Cornwall,_Ontario" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Stormont—Dundas—South_Glengarry">
+    <dbp:demoCsd rdf:resource="http://dbpedia.org/resource/Cornwall,_Ontario" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Grant_Campbell_(politician)">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Cornwall,_Ontario" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ontario_Highway_138">
+    <dbo:routeStart rdf:resource="http://dbpedia.org/resource/Cornwall,_Ontario" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Stormont,_Dundas_and_Glengarry_Highlanders__Regimen__1">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Cornwall,_Ontario" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Steve_Seguin">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Cornwall,_Ontario" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Farrand_Gillie">
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Cornwall,_Ontario" />
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Cornwall,_Ontario" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Newell_Brown">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Cornwall,_Ontario" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/John_Sandfield_Macdonald">
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Cornwall,_Ontario" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Orlando_Aloysius_Battista">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Cornwall,_Ontario" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Seaway_International_Bridge">
+    <dbo:locatedInArea rdf:resource="http://dbpedia.org/resource/Cornwall,_Ontario" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Holy_Trinity_Catholic_Secondary_School_(Cornwall,_Ontario)">
+    <dbo:city rdf:resource="http://dbpedia.org/resource/Cornwall,_Ontario" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Alain_Chevrier">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Cornwall,_Ontario" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Cornwall_Collegiate_and_Vocational_School">
+    <dbo:city rdf:resource="http://dbpedia.org/resource/Cornwall,_Ontario" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/General_Vanier_Intermediate_School">
+    <dbo:city rdf:resource="http://dbpedia.org/resource/Cornwall,_Ontario" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ron_Ward">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Cornwall,_Ontario" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Scott_Pearson">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Cornwall,_Ontario" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Andre_Payette">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Cornwall,_Ontario" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/1978_World_Junior_Ice_Hockey_Championships">
+    <dbp:stadium rdf:resource="http://dbpedia.org/resource/Cornwall,_Ontario" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ecole_Secondaire_La_Citadelle">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Cornwall,_Ontario" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Denis_Brisson">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Cornwall,_Ontario" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Billy_Carter_(ice_hockey)">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Cornwall,_Ontario" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Big_Ben_(Cornwall,_Ontario)">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Cornwall,_Ontario" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/École_secondaire_La_Citadelle">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Cornwall,_Ontario" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gladstone_Public_School">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Cornwall,_Ontario" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/WWE_tournaments">
+    <dbp:rd1Seed rdf:resource="http://dbpedia.org/resource/Cornwall,_Ontario" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ecole_secondaire_La_Citadelle">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Cornwall,_Ontario" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2009–10_Ottawa_Senators_season">
+    <dbp:birthplace rdf:resource="http://dbpedia.org/resource/Cornwall,_Ontario" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2010–11_Ottawa_Senators_season">
+    <dbp:birthplace rdf:resource="http://dbpedia.org/resource/Cornwall,_Ontario" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2011–12_Ottawa_Senators_season">
+    <dbp:birthplace rdf:resource="http://dbpedia.org/resource/Cornwall,_Ontario" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/1973–74_New_England_Whalers_season">
+    <dbp:birthplace rdf:resource="http://dbpedia.org/resource/Cornwall,_Ontario" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/1974–75_New_England_Whalers_season">
+    <dbp:birthplace rdf:resource="http://dbpedia.org/resource/Cornwall,_Ontario" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/1975–76_New_England_Whalers_season">
+    <dbp:birthplace rdf:resource="http://dbpedia.org/resource/Cornwall,_Ontario" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Cornwall,_Ontario,_Canada">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Cornwall,_Ontario" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Cornwall,_Ontario">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Cornwall,_Ontario" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/List_of_historic_places_in_Eastern_Ontario">
+    <dbp:municipality rdf:resource="http://dbpedia.org/resource/Cornwall,_Ontario" />
+  </rdf:Description>
+</rdf:RDF>

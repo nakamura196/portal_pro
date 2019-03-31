@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:dbo="http://dbpedia.org/ontology/"
+	xmlns:dct="http://purl.org/dc/terms/"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:prov="http://www.w3.org/ns/prov#"
+	xmlns:georss="http://www.georss.org/georss/"
+	xmlns:dbp="http://dbpedia.org/property/"
+	xmlns:ns10="http://purl.org/linguistics/gold/" >
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kōhoku,_Saga">
+    <dbp:district rdf:resource="http://dbpedia.org/resource/Kishima_District,_Saga" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kishima_District">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Kishima_District,_Saga" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ōmachi,_Saga">
+    <dbp:district rdf:resource="http://dbpedia.org/resource/Kishima_District,_Saga" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kazuki_Fukuchi">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Kishima_District,_Saga" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kishima_District,_Saga">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoPermanentlyLocatedEntity" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoGeoEntity" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatDistrictsInSagaPrefecture" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Object100002684" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Location100027167" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoLegalActorGeo" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/District108552138" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PhysicalEntity100001930" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Region108630985" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Settlement" />
+    <rdf:type rdf:resource="http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing" />
+    <rdfs:label xml:lang="zh">杵島郡</rdfs:label>
+    <rdfs:label xml:lang="fr">District de Kishima</rdfs:label>
+    <rdfs:label xml:lang="ja">杵島郡</rdfs:label>
+    <rdfs:label xml:lang="en">Kishima District, Saga</rdfs:label>
+    <rdfs:label xml:lang="it">Distretto di Kishima</rdfs:label>
+    <rdfs:comment xml:lang="en">Kishima (杵島郡 Kishima-gun) is a district located in Saga Prefecture, Japan. As of February 1, 2009, the district has an estimated population of 45,085 and a density of 318 persons per km². The total area is 135.40 km².</rdfs:comment>
+    <rdfs:comment xml:lang="fr">Le district de Kishima (杵島郡, Kishima-gun) est un district de la préfecture de Saga au Japon.Au 1er février 2015, sa population était de 40 448 habitants pour une superficie de 135,55 km2 et une densité de population de 298 habitants au km².</rdfs:comment>
+    <rdfs:comment xml:lang="ja">杵島郡（きしまぐん）は、佐賀県（肥前国）の郡。 人口39,952人、面積135.55km²、人口密度295人/km²。（2016年6月1日、推計人口） 以下の3町を含む。 
+*  大町町（おおまちちょう） 
+*  江北町（こうほくまち） 
+*  白石町（しろいしちょう）</rdfs:comment>
+    <rdfs:comment xml:lang="zh">杵島郡是日本佐賀縣轄下的一郡。 現轄有以下3町： 
+* 大町町 
+* 江北町 
+* 白石町 過去的轄區還包含現在的武雄市全部地區。</rdfs:comment>
+    <rdfs:comment xml:lang="it">Il distretto di Kishima (杵島郡, Kishima-gun?) è uno dei distretti della prefettura di Saga, in Giappone. Attualmente fanno parte del distretto i comuni di Kōhoku, Ōmachi e Shiroishi.</rdfs:comment>
+    <owl:sameAs rdf:resource="http://ko.dbpedia.org/resource/기시마_군" />
+    <owl:sameAs rdf:resource="http://it.dbpedia.org/resource/Distretto_di_Kishima" />
+    <owl:sameAs rdf:resource="http://fr.dbpedia.org/resource/District_de_Kishima" />
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q1044239" />
+    <owl:sameAs rdf:resource="http://ja.dbpedia.org/resource/杵島郡" />
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q1044239" />
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Kishima_District,_Saga" />
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.02d8sd" />
+    <owl:sameAs rdf:resource="http://sws.geonames.org/7391358/" />
+    <owl:sameAs rdf:resource="http://yago-knowledge.org/resource/Kishima_District,_Saga" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Districts_in_Saga_Prefecture" />
+    <dbo:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">469455</dbo:wikiPageID>
+    <dbo:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">662600764</dbo:wikiPageRevisionID>
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#float">33.182</geo:lat>
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#float">130.149</geo:long>
+    <foaf:depiction rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Kishima_District_in_Saga_Prefecture.png" />
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Kishima_District,_Saga" />
+    <geo:geometry rdf:datatype="http://www.openlinksw.com/schemas/virtrdf#Geometry">POINT(130.1490020752 33.181999206543)</geo:geometry>
+    <dbo:thumbnail rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Kishima_District_in_Saga_Prefecture.png?width=300" />
+    <prov:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Kishima_District,_Saga?oldid=662600764" />
+    <dbo:abstract xml:lang="ja">杵島郡（きしまぐん）は、佐賀県（肥前国）の郡。 人口39,952人、面積135.55km²、人口密度295人/km²。（2016年6月1日、推計人口） 以下の3町を含む。 
+*  大町町（おおまちちょう） 
+*  江北町（こうほくまち） 
+*  白石町（しろいしちょう）</dbo:abstract>
+    <dbo:abstract xml:lang="it">Il distretto di Kishima (杵島郡, Kishima-gun?) è uno dei distretti della prefettura di Saga, in Giappone. Attualmente fanno parte del distretto i comuni di Kōhoku, Ōmachi e Shiroishi.</dbo:abstract>
+    <dbo:abstract xml:lang="en">Kishima (杵島郡 Kishima-gun) is a district located in Saga Prefecture, Japan. As of February 1, 2009, the district has an estimated population of 45,085 and a density of 318 persons per km². The total area is 135.40 km².</dbo:abstract>
+    <dbo:abstract xml:lang="fr">Le district de Kishima (杵島郡, Kishima-gun) est un district de la préfecture de Saga au Japon.Au 1er février 2015, sa population était de 40 448 habitants pour une superficie de 135,55 km2 et une densité de population de 298 habitants au km².</dbo:abstract>
+    <dbo:abstract xml:lang="zh">杵島郡是日本佐賀縣轄下的一郡。 現轄有以下3町： 
+* 大町町 
+* 江北町 
+* 白石町 過去的轄區還包含現在的武雄市全部地區。</dbo:abstract>
+    <georss:point>33.182 130.149</georss:point>
+    <ns10:hypernym rdf:resource="http://dbpedia.org/resource/District" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kitagata,_Saga">
+    <dbp:district rdf:resource="http://dbpedia.org/resource/Kishima_District,_Saga" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Shiroishi,_Saga">
+    <dbp:district rdf:resource="http://dbpedia.org/resource/Kishima_District,_Saga" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yamauchi,_Saga">
+    <dbp:district rdf:resource="http://dbpedia.org/resource/Kishima_District,_Saga" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ariake,_Saga">
+    <dbp:district rdf:resource="http://dbpedia.org/resource/Kishima_District,_Saga" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Fukudomi,_Saga">
+    <dbp:district rdf:resource="http://dbpedia.org/resource/Kishima_District,_Saga" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Kishima_District,_Saga">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Kishima_District,_Saga" />
+  </rdf:Description>
+</rdf:RDF>

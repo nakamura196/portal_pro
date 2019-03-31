@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:dct="http://purl.org/dc/terms/"
+	xmlns:dbo="http://dbpedia.org/ontology/"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:prov="http://www.w3.org/ns/prov#"
+	xmlns:ns7="http://purl.org/linguistics/gold/" >
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Majority_opinion">
+    <ns7:hypernym rdf:resource="http://dbpedia.org/resource/Opinion" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Yeti_(magazine)">
+    <dbo:genre rdf:resource="http://dbpedia.org/resource/Opinion" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Dissenting_opinion">
+    <ns7:hypernym rdf:resource="http://dbpedia.org/resource/Opinion" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Opinion">
+    <rdfs:label xml:lang="ar">رأي</rdfs:label>
+    <rdfs:label xml:lang="nl">Mening</rdfs:label>
+    <rdfs:label xml:lang="it">Opinione</rdfs:label>
+    <rdfs:label xml:lang="fr">Opinion</rdfs:label>
+    <rdfs:label xml:lang="en">Opinion</rdfs:label>
+    <rdfs:label xml:lang="ja">意見</rdfs:label>
+    <rdfs:label xml:lang="ru">Мнение</rdfs:label>
+    <rdfs:label xml:lang="de">Meinung</rdfs:label>
+    <rdfs:label xml:lang="pt">Opinião</rdfs:label>
+    <rdfs:comment xml:lang="de">Unter einer Meinung wird in der Erkenntnistheorie eine von Wissen und Glauben unterschiedene Form des Fürwahrhaltens verstanden. Nach einer verbreiteten philosophischen Begriffsverwendung ist das Meinen ein Fürwahrhalten, dem sowohl subjektiv als auch objektiv eine hinreichende Begründung fehlt. Dadurch unterscheidet sich das Meinen vom Glauben und vom Wissen. Von Glauben spricht man, wenn jemand eine Aussage für wahr hält, ihre Wahrheit also subjektiv als gesichert erscheint, obwohl der Glaubende keine objektiv zureichende Begründung dafür angeben kann. Der Unterschied zum Wissen besteht darin, dass der Wissende nicht nur von der Wahrheit der Aussage überzeugt ist, sondern auch über eine objektiv zureichende Begründung dafür verfügt. Diese Abgrenzung der drei Begriffe ist allerdings in de</rdfs:comment>
+    <rdfs:comment xml:lang="ar">بوجه عام، يعد الرأي اعتقادًا ذاتيًا ويكون نتيجة لـ مشاعر أو تفسير لـ الحقائق. ويمكن تأييد الرأي عن طريق الحجاج، على الرغم من أنه يمكن عرض آراء معارضة يدعمها مجموعة الحقائق نفسها. ونادرًا ما تتغير الآراء دون تقديم حُجج جديدة. يُمكن أن يكون الرأي مسببًا؛ حيث إن تأييد أحد الآراء عن طريق الحقائق أفضل من تأييد رأي آخر عن طريق تحليل المناقشات المؤيدة له. وفي حالة الاستخدام العرضي، يمكن أن ينشأ مصطلح الرأي نتيجة لـ منظور الفرد وفهمه ومشاعره الخاصة واعتقاداته ورغباته. وقد يشير الرأي إلى معلومات لا تستند إلى دليل، على العكس من المعرفة والواقع القائم على الاعتقادات.</rdfs:comment>
+    <rdfs:comment xml:lang="ru">Мнение — суждение, точка зрения или заявление на тему, в которой невозможно достичь полной объективности, основанное на интерпретации фактов и эмоционального отношения к ним. Мнение не подлежит фактологической проверке в отличие от факта, который может быть проверен и, в результате проверки, подтверждён или опровергнут. Мнение может быть основано на фактах и тогда оно является аргументом (доводом). Разные люди могут на основании одних и тех же фактов иметь разные (вплоть до диаметрально противоположных) мнения. В отличие от фактов, которые являются неизменными, мнения могут изменяться под влиянием дополнительных аргументов. Анализируя аргументы можно прийти к выводу, что одно из мнений лучше опирается на факты, чем альтернативное.</rdfs:comment>
+    <rdfs:comment xml:lang="it">Il termine opinione (dal latino opinio, -onis; in greco δόξα, dòxa) genericamente esprime la convinzione che una o più persone si formano nei confronti di specifici fatti in assenza di precisi elementi di certezza assoluta per stabilirne la sicura verità. Con l&#39;opinione si avanza, spesso in buona fede, una versione personale o collettiva del fatto che si ritiene vero e, pur non escludendo che ci si possa ingannare, tuttavia lo si valuta come autentico sino a prova contraria. In filosofia il concetto di opinione rimanda a due specifici significati:</rdfs:comment>
+    <rdfs:comment xml:lang="pt">Na Filosofia de Parmênides,  opinião (doxa, (do grego δόξα, doxa, « opinião », « conjectura ») é a ideia confusa acerca da realidade e que se opõe ao conhecimento verdadeiro. Assim, as análises baseadas em opiniões são bem distintas das ideias baseadas na observação metódica dos fatos. Em jornalismo, a opinião de um veículo é expressa no seu editorial. O chamado &quot;jornalismo de opinião&quot; é um gênero realizado por colaboradores, geralmente denominados colunistas, que não necessariamente representam a opinião do veículo.</rdfs:comment>
+    <rdfs:comment xml:lang="fr">L’opinion est un jugement que l&#39;on porte sur un individu ou un objet, il peut être considéré comme bon ou mauvais, tout dépend de la nature de l&#39;individu en fonction de son caractère, ses émotions, son comportement. L&#39;opinion peut influencer et peut donner de mauvaises informations sur un sujet étudié au sein d&#39;un groupe, d&#39;une personne, d&#39;un objet. Une opinion (terme issu du verbe latin opinari) est un ensemble de jugements que l’on se fait à propos d’un objet. Selon les Définitions du pseudo-Platon, l’opinion est la « conception que la persuasion peut ébranler ; fluctuation de la pensée par le discours ; pensée que le discours peut mener aussi bien au faux qu’au vrai ». D’après Priscien de Lydie, Théophraste et Aristote définissent l’intelligence comme une faculté différente de la sensib</rdfs:comment>
+    <rdfs:comment xml:lang="en">In general, an opinion is a judgment, viewpoint, or statement that is not conclusive. It may deal with subjective matters in which there is no conclusive finding. What distinguishes fact from opinion is that facts are more likely to be verifiable, i.e. can be agreed to by the consensus of experts. An example is: &quot;United States of America was involved in the Vietnam War&quot; versus &quot;United States of America was right to get involved in the Vietnam War&quot;. An opinion may be supported by facts and principles, in which case it becomes an argument. Different people may draw opposing conclusions (opinions) even if they agree on the same set of facts. Opinions rarely change without new arguments being presented. It can be reasoned that one opinion is better supported by the facts than another by analyz</rdfs:comment>
+    <rdfs:comment xml:lang="nl">Een mening (Indogermaans moino: wissel, ruil) is een in de mens aanwezige subjectieve opvatting, dan wel attitude, ten opzichte van toestanden, gebeurtenissen of andere personen. Zowel een individu als een groep kan een mening bezitten. Een mening heeft betrekking op een onderwerp. Met het uitspreken van een mening maak je kenbaar hoe je ergens over denkt. Een mening kan onder meer gaan over de vraag in hoeverre iets ethisch goed of slecht is. Met name zo&#39;n mening wordt ook wel een waardeoordeel genoemd. Binnen een betoog kan een mening de vorm aannemen van een standpunt dat verdedigd wordt.</rdfs:comment>
+    <owl:sameAs rdf:resource="http://it.dbpedia.org/resource/Opinione" />
+    <owl:sameAs rdf:resource="http://ko.dbpedia.org/resource/의견" />
+    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/Meinung" />
+    <owl:sameAs rdf:resource="http://nl.dbpedia.org/resource/Mening" />
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q3962655" />
+    <owl:sameAs rdf:resource="http://cs.dbpedia.org/resource/Názor" />
+    <owl:sameAs rdf:resource="http://pt.dbpedia.org/resource/Opinião" />
+    <owl:sameAs rdf:resource="http://eu.dbpedia.org/resource/Iritzi" />
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q3962655" />
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.04vpz4" />
+    <owl:sameAs rdf:resource="http://id.dbpedia.org/resource/Opini" />
+    <owl:sameAs rdf:resource="http://fr.dbpedia.org/resource/Opinion" />
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Opinion" />
+    <owl:sameAs rdf:resource="http://ja.dbpedia.org/resource/意見" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Subjective_experience" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Critical_thinking" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Epistemology" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Belief" />
+    <dbo:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1348330</dbo:wikiPageID>
+    <dbo:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">742676082</dbo:wikiPageRevisionID>
+    <foaf:depiction rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/SF_Chinatown_soapboxing_p1060705.jpg" />
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Opinion" />
+    <dbo:thumbnail rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/SF_Chinatown_soapboxing_p1060705.jpg?width=300" />
+    <prov:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Opinion?oldid=742676082" />
+    <dbo:abstract xml:lang="en">In general, an opinion is a judgment, viewpoint, or statement that is not conclusive. It may deal with subjective matters in which there is no conclusive finding. What distinguishes fact from opinion is that facts are more likely to be verifiable, i.e. can be agreed to by the consensus of experts. An example is: &quot;United States of America was involved in the Vietnam War&quot; versus &quot;United States of America was right to get involved in the Vietnam War&quot;. An opinion may be supported by facts and principles, in which case it becomes an argument. Different people may draw opposing conclusions (opinions) even if they agree on the same set of facts. Opinions rarely change without new arguments being presented. It can be reasoned that one opinion is better supported by the facts than another by analyzing the supporting arguments. In casual use, the term opinion may be the result of a person&#39;s perspective, understanding, particular feelings, beliefs, and desires. It may refer to unsubstantiated information, in contrast to knowledge and fact. Collective or professional opinions are defined as meeting a higher standard to substantiate the opinion. (see below)</dbo:abstract>
+    <dbo:abstract xml:lang="fr">L’opinion est un jugement que l&#39;on porte sur un individu ou un objet, il peut être considéré comme bon ou mauvais, tout dépend de la nature de l&#39;individu en fonction de son caractère, ses émotions, son comportement. L&#39;opinion peut influencer et peut donner de mauvaises informations sur un sujet étudié au sein d&#39;un groupe, d&#39;une personne, d&#39;un objet. Une opinion (terme issu du verbe latin opinari) est un ensemble de jugements que l’on se fait à propos d’un objet. Selon les Définitions du pseudo-Platon, l’opinion est la « conception que la persuasion peut ébranler ; fluctuation de la pensée par le discours ; pensée que le discours peut mener aussi bien au faux qu’au vrai ». D’après Priscien de Lydie, Théophraste et Aristote définissent l’intelligence comme une faculté différente de la sensibilité, aussi bien que de l’opinion et de la raison. Selon Théophraste, une opinion est une déclaration concernant ce qu’il faut faire. Les opinions peuvent être paradoxales, consensuelles ou douteuses.</dbo:abstract>
+    <dbo:abstract xml:lang="ru">Мнение — суждение, точка зрения или заявление на тему, в которой невозможно достичь полной объективности, основанное на интерпретации фактов и эмоционального отношения к ним. Мнение не подлежит фактологической проверке в отличие от факта, который может быть проверен и, в результате проверки, подтверждён или опровергнут. Мнение может быть основано на фактах и тогда оно является аргументом (доводом). Разные люди могут на основании одних и тех же фактов иметь разные (вплоть до диаметрально противоположных) мнения. В отличие от фактов, которые являются неизменными, мнения могут изменяться под влиянием дополнительных аргументов. Анализируя аргументы можно прийти к выводу, что одно из мнений лучше опирается на факты, чем альтернативное. Причинно-следственная связь, которая приводит к формулированию мнения, включает в себя эмоции, которые человек испытывает, его чувства, верования, его точку зрения, понимание и желания. Мнение в отличие от знания может основываться на неподтверждённой или ложной информации.</dbo:abstract>
+    <dbo:abstract xml:lang="pt">Na Filosofia de Parmênides,  opinião (doxa, (do grego δόξα, doxa, « opinião », « conjectura ») é a ideia confusa acerca da realidade e que se opõe ao conhecimento verdadeiro. Assim, as análises baseadas em opiniões são bem distintas das ideias baseadas na observação metódica dos fatos. Em jornalismo, a opinião de um veículo é expressa no seu editorial. O chamado &quot;jornalismo de opinião&quot; é um gênero realizado por colaboradores, geralmente denominados colunistas, que não necessariamente representam a opinião do veículo.</dbo:abstract>
+    <dbo:abstract xml:lang="nl">Een mening (Indogermaans moino: wissel, ruil) is een in de mens aanwezige subjectieve opvatting, dan wel attitude, ten opzichte van toestanden, gebeurtenissen of andere personen. Zowel een individu als een groep kan een mening bezitten. Een mening heeft betrekking op een onderwerp. Met het uitspreken van een mening maak je kenbaar hoe je ergens over denkt. Een mening uit zich in een uitspraak en de wezenlijke opdracht van de mening is een waardebepaling of beoordeling. Een mening geeft weer hoe iemand iets ziet. Wanneer twee of meer personen er een andere mening op na houden, dan spreken we van een meningsverschil. Een mening ontstaat op basis van eigen ervaring en kennis binnen de context van eigen sociale omgeving en karakter en is een gevolg van cognitief denken, waardoor het altijd gevormd is door individuele standpunten die beïnvloed zijn door wat er binnen de samenleving geldig is. Meestal komt hier ethiek bij kijken. In de politiek wordt het uitwisselen van verschillende meningen en opvattingen een debat genoemd. Waarbij uiteindelijk geldt dat de mening met de meeste aanhangers wint. Een mening kan onder meer gaan over de vraag in hoeverre iets ethisch goed of slecht is. Met name zo&#39;n mening wordt ook wel een waardeoordeel genoemd. Weten staat sinds de Griekse filosofie in tegenstelling tot mening, waarbij in eerste instantie ook vaak het weten als een mening werd beschouwd. Binnen een betoog kan een mening de vorm aannemen van een standpunt dat verdedigd wordt.</dbo:abstract>
+    <dbo:abstract xml:lang="ar">بوجه عام، يعد الرأي اعتقادًا ذاتيًا ويكون نتيجة لـ مشاعر أو تفسير لـ الحقائق. ويمكن تأييد الرأي عن طريق الحجاج، على الرغم من أنه يمكن عرض آراء معارضة يدعمها مجموعة الحقائق نفسها. ونادرًا ما تتغير الآراء دون تقديم حُجج جديدة. يُمكن أن يكون الرأي مسببًا؛ حيث إن تأييد أحد الآراء عن طريق الحقائق أفضل من تأييد رأي آخر عن طريق تحليل المناقشات المؤيدة له. وفي حالة الاستخدام العرضي، يمكن أن ينشأ مصطلح الرأي نتيجة لـ منظور الفرد وفهمه ومشاعره الخاصة واعتقاداته ورغباته. وقد يشير الرأي إلى معلومات لا تستند إلى دليل، على العكس من المعرفة والواقع القائم على الاعتقادات. وتعرّف الآراء الجماعية أو المهنية على أنها إجماع عالي المستوى لإثبات الرأي. (انظر أدناه)</dbo:abstract>
+    <dbo:abstract xml:lang="de">Unter einer Meinung wird in der Erkenntnistheorie eine von Wissen und Glauben unterschiedene Form des Fürwahrhaltens verstanden. Nach einer verbreiteten philosophischen Begriffsverwendung ist das Meinen ein Fürwahrhalten, dem sowohl subjektiv als auch objektiv eine hinreichende Begründung fehlt. Dadurch unterscheidet sich das Meinen vom Glauben und vom Wissen. Von Glauben spricht man, wenn jemand eine Aussage für wahr hält, ihre Wahrheit also subjektiv als gesichert erscheint, obwohl der Glaubende keine objektiv zureichende Begründung dafür angeben kann. Der Unterschied zum Wissen besteht darin, dass der Wissende nicht nur von der Wahrheit der Aussage überzeugt ist, sondern auch über eine objektiv zureichende Begründung dafür verfügt. Diese Abgrenzung der drei Begriffe ist allerdings in der Philosophie nicht allgemein anerkannt, insbesondere hinsichtlich der Unterscheidung von Meinung und Glauben. In englischen Texten wird diese Unterscheidung nicht vorgenommen; belief kann sowohl mit „Meinung“ als auch mit „Glaube“ übersetzt werden. Hinzu kommt, dass in der Alltagssprache oft nicht zwischen „Meinung“, „Glaube“ und „Überzeugung“ unterschieden wird. Weder alltagssprachlich noch fachsprachlich hat sich eine einheitliche Begriffsverwendung durchgesetzt.</dbo:abstract>
+    <dbo:abstract xml:lang="it">Il termine opinione (dal latino opinio, -onis; in greco δόξα, dòxa) genericamente esprime la convinzione che una o più persone si formano nei confronti di specifici fatti in assenza di precisi elementi di certezza assoluta per stabilirne la sicura verità. Con l&#39;opinione si avanza, spesso in buona fede, una versione personale o collettiva del fatto che si ritiene vero e, pur non escludendo che ci si possa ingannare, tuttavia lo si valuta come autentico sino a prova contraria. In filosofia il concetto di opinione rimanda a due specifici significati: 
+* ogni conoscenza o credenza che non ha in sé una garanzia di verità accertata (questo è il significato più comune che si oppone al concetto di scienza dove la validità conoscitiva è sottoposta al vaglio sperimentale); 
+* qualsiasi asserto basato su una esperienza sensibile, immediata e contingente, che in apparenza si presenti come teoreticamente vera. Se il primo significato si trova già accennato in Parmenide (Frammenti, 1, 29-30), il secondo si trova in Platone (Teeteto, 190 a-c) e in Aristotele (Metafisica, VII, 15, 1039b 31).</dbo:abstract>
+    <ns7:hypernym rdf:resource="http://dbpedia.org/resource/Judgment" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Opinion_(disambiguation)">
+    <dbo:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/Opinion" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Rex_Repass">
+    <ns7:hypernym rdf:resource="http://dbpedia.org/resource/Opinion" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Opinions">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Opinion" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Reference_Re_Anti-Inflation_Act">
+    <ns7:hypernym rdf:resource="http://dbpedia.org/resource/Opinion" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Reference_Re_Public_Service_Employee_Relations_Act_(Alta)">
+    <ns7:hypernym rdf:resource="http://dbpedia.org/resource/Opinion" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Plurality_opinion">
+    <ns7:hypernym rdf:resource="http://dbpedia.org/resource/Opinion" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Second_opinion">
+    <ns7:hypernym rdf:resource="http://dbpedia.org/resource/Opinion" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Reference_Re_Secession_of_Quebec">
+    <ns7:hypernym rdf:resource="http://dbpedia.org/resource/Opinion" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Advisory_opinion">
+    <ns7:hypernym rdf:resource="http://dbpedia.org/resource/Opinion" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Auditor&#39;s_report">
+    <ns7:hypernym rdf:resource="http://dbpedia.org/resource/Opinion" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Reference_Re_Securities_Act">
+    <ns7:hypernym rdf:resource="http://dbpedia.org/resource/Opinion" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Radio_Rampur">
+    <dbo:type rdf:resource="http://dbpedia.org/resource/Opinion" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Oregon_Commentator">
+    <dbo:genre rdf:resource="http://dbpedia.org/resource/Opinion" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Wisdom_of_the_crowd">
+    <ns7:hypernym rdf:resource="http://dbpedia.org/resource/Opinion" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yorke–Talbot_slavery_opinion">
+    <ns7:hypernym rdf:resource="http://dbpedia.org/resource/Opinion" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Decima_Research">
+    <ns7:hypernym rdf:resource="http://dbpedia.org/resource/Opinion" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Opined">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Opinion" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Opining">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Opinion" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Opinioned">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Opinion" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Opinioning">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Opinion" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mareco_Index_Bosnia">
+    <ns7:hypernym rdf:resource="http://dbpedia.org/resource/Opinion" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Title_opinion">
+    <ns7:hypernym rdf:resource="http://dbpedia.org/resource/Opinion" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Pollara">
+    <ns7:hypernym rdf:resource="http://dbpedia.org/resource/Opinion" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Silencing_Dissent">
+    <ns7:hypernym rdf:resource="http://dbpedia.org/resource/Opinion" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Provincial_Judges_Reference">
+    <ns7:hypernym rdf:resource="http://dbpedia.org/resource/Opinion" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Concurring_opinion">
+    <ns7:hypernym rdf:resource="http://dbpedia.org/resource/Opinion" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Scientific_opinion">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Opinion" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nanos_Research">
+    <ns7:hypernym rdf:resource="http://dbpedia.org/resource/Opinion" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Reputation">
+    <ns7:hypernym rdf:resource="http://dbpedia.org/resource/Opinion" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/St._Michael_Report">
+    <ns7:hypernym rdf:resource="http://dbpedia.org/resource/Opinion" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ford_Nation">
+    <ns7:hypernym rdf:resource="http://dbpedia.org/resource/Opinion" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/International_Court_of_Justice_advisory_opinion_on_the_Legality_of_the_Threat_or_Use_of_Nuclear_Weapons">
+    <ns7:hypernym rdf:resource="http://dbpedia.org/resource/Opinion" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Alexander_Görlach">
+    <dbo:genre rdf:resource="http://dbpedia.org/resource/Opinion" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gymnobiblism">
+    <ns7:hypernym rdf:resource="http://dbpedia.org/resource/Opinion" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Justason_Market_Intelligence">
+    <ns7:hypernym rdf:resource="http://dbpedia.org/resource/Opinion" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/XBRL_assurance">
+    <ns7:hypernym rdf:resource="http://dbpedia.org/resource/Opinion" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Oppion">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Opinion" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/In-chambers_opinion">
+    <ns7:hypernym rdf:resource="http://dbpedia.org/resource/Opinion" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Scientific_Opinion">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Opinion" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_African_Executive">
+    <ns7:hypernym rdf:resource="http://dbpedia.org/resource/Opinion" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Government_waste">
+    <ns7:hypernym rdf:resource="http://dbpedia.org/resource/Opinion" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Punch_(Australia)">
+    <ns7:hypernym rdf:resource="http://dbpedia.org/resource/Opinion" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Foreign_legal_opinion">
+    <ns7:hypernym rdf:resource="http://dbpedia.org/resource/Opinion" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Opinion">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Opinion" />
+  </rdf:Description>
+</rdf:RDF>

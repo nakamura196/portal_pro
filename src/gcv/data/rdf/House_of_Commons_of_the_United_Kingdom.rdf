@@ -1,0 +1,434 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:dct="http://purl.org/dc/terms/"
+	xmlns:dbo="http://dbpedia.org/ontology/"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	xmlns:prov="http://www.w3.org/ns/prov#"
+	xmlns:dbp="http://dbpedia.org/property/"
+	xmlns:georss="http://www.georss.org/georss/"
+	xmlns:ns10="http://purl.org/linguistics/gold/" >
+  <rdf:Description rdf:about="http://dbpedia.org/resource/List_of_MPs_elected_in_the_United_Kingdom_general_election,_2010">
+    <dbp:chamber rdf:resource="http://dbpedia.org/resource/House_of_Commons_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/John_Burgoyne">
+    <dbo:occupation rdf:resource="http://dbpedia.org/resource/House_of_Commons_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Solidarity_(Scotland)">
+    <dbp:seats1Title rdf:resource="http://dbpedia.org/resource/House_of_Commons_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Welsh_Labour">
+    <dbp:seats1Title rdf:resource="http://dbpedia.org/resource/House_of_Commons_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Social_Democratic_and_Labour_Party">
+    <dbp:seats1Title rdf:resource="http://dbpedia.org/resource/House_of_Commons_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sugar_Act">
+    <dbp:introducedBy rdf:resource="http://dbpedia.org/resource/House_of_Commons_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tea_Act">
+    <dbp:introducedBy rdf:resource="http://dbpedia.org/resource/House_of_Commons_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Party_Comparison_of_British_House_of_Commons">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/House_of_Commons_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Green_Book:_A_Guide_to_Members&#39;_Allowances">
+    <dbo:publisher rdf:resource="http://dbpedia.org/resource/House_of_Commons_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Molasses_Act">
+    <dbp:introducedBy rdf:resource="http://dbpedia.org/resource/House_of_Commons_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/English_Liberal_Democrats">
+    <dbp:seats1Title rdf:resource="http://dbpedia.org/resource/House_of_Commons_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Democratic_Unionist_Party">
+    <dbp:seats1Title rdf:resource="http://dbpedia.org/resource/House_of_Commons_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Green_Party_of_England_and_Wales">
+    <dbp:seats1Title rdf:resource="http://dbpedia.org/resource/House_of_Commons_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Progressive_Unionist_Party">
+    <dbp:seats1Title rdf:resource="http://dbpedia.org/resource/House_of_Commons_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Scottish_Labour_Party">
+    <dbp:seats1Title rdf:resource="http://dbpedia.org/resource/House_of_Commons_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/UK_Independence_Party">
+    <dbp:seats1Title rdf:resource="http://dbpedia.org/resource/House_of_Commons_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ulster_Unionist_Party">
+    <dbp:seats1Title rdf:resource="http://dbpedia.org/resource/House_of_Commons_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/British_National_Party">
+    <dbp:seats1Title rdf:resource="http://dbpedia.org/resource/House_of_Commons_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/House_of_Commons_of_the_United_Kingdom">
+    <rdf:type rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Legislature108163273" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Legislature" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Assembly108163792" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Gathering107975026" />
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing" />
+    <rdf:type rdf:resource="http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing" />
+    <rdf:type rdf:resource="http://schema.org/Organization" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q24229398" />
+    <rdf:type rdf:resource="http://umbel.org/umbel/rc/GovernmentalOrganization" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/SocialGroup107950920" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Group100031264" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Abstraction100002137" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Organisation" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatLegislatures" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Agent" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q43229" />
+    <rdf:type rdf:resource="http://umbel.org/umbel/rc/Organization" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q11204" />
+    <rdf:type rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#SocialPerson" />
+    <rdfs:label xml:lang="it">Camera dei comuni (Regno Unito)</rdfs:label>
+    <rdfs:label xml:lang="pl">Izba Gmin</rdfs:label>
+    <rdfs:label xml:lang="ja">庶民院 (イギリス)</rdfs:label>
+    <rdfs:label xml:lang="zh">英国下议院</rdfs:label>
+    <rdfs:label xml:lang="pt">Câmara dos Comuns do Reino Unido</rdfs:label>
+    <rdfs:label xml:lang="es">Cámara de los Comunes del Reino Unido</rdfs:label>
+    <rdfs:label xml:lang="ar">مجلس العموم البريطاني</rdfs:label>
+    <rdfs:label xml:lang="fr">Chambre des communes du Royaume-Uni</rdfs:label>
+    <rdfs:label xml:lang="de">House of Commons</rdfs:label>
+    <rdfs:label xml:lang="nl">Lagerhuis (Verenigd Koninkrijk)</rdfs:label>
+    <rdfs:label xml:lang="ru">Палата общин Великобритании</rdfs:label>
+    <rdfs:label xml:lang="en">House of Commons of the United Kingdom</rdfs:label>
+    <rdfs:comment xml:lang="fr">La Chambre des communes (anglais : House of Commons) est la chambre basse du Parlement du Royaume-Uni. Le Parlement comprend également la reine et la chambre haute, la Chambre des lords. La Chambre des communes est élue au suffrage universel direct : elle est composée de 650 députés (Members of Parliament ou MPs), représentant chacun une circonscription et élus au scrutin uninominal majoritaire à un tour. Depuis le Fixed-term Parliaments Act de 2011, le mandat de la chambre est fixé à cinq ans. Auparavant, elle pouvait être dissoute avant la fin de son mandat par la reine sur demande du Premier ministre : le Premier ministre pouvait ainsi fixer lui-même la date des élections générales.</rdfs:comment>
+    <rdfs:comment xml:lang="pl">Izba Gmin (ang. House of Commons) – izba niższa dwuizbowego parlamentu brytyjskiego, odgrywa jednak rolę nadrzędną wobec Izby Lordów. W obecnej kadencji (2015–) w jej skład wchodzi 650 deputowanych (MPs od angielskiego Member of Parliament – &quot;członek parlamentu&quot;), wybieranych przez całość obywateli Zjednoczonego Królestwa w powszechnych, czteroprzymiotnikowych wyborach.</rdfs:comment>
+    <rdfs:comment xml:lang="en">The House of Commons is the lower house of the Parliament of the United Kingdom. Like the upper house, the House of Lords, it meets in the Palace of Westminster. The House is an elected body consisting of 650 members known as Members of Parliament (MPs). Members are elected to represent constituencies by first-past-the-post and hold their seats until Parliament is dissolved.</rdfs:comment>
+    <rdfs:comment xml:lang="es">La Cámara de los Comunes (en inglés: House of Commons)?, oficialmente Los Honorables Comunes del Reino Unido de Gran Bretaña e Irlanda del Norte reunidos en el Parlamento (The Honourable the Commons of the United Kingdom of Great Britain and Northern Ireland in Parliament assembled), es la cámara baja del Parlamento del Reino Unido. Tiene su sede en el Palacio de Westminster. El Parlamento británico tiene una segunda cámara: la cámara alta o Cámara de los Lores. El archivo de la cámara de los comunes se encuentra en su propia biblioteca.</rdfs:comment>
+    <rdfs:comment xml:lang="pt">Câmara dos Comuns do Reino Unido é a câmara baixa do Parlamento do Reino Unido composta por cerca de 650 membros chamados de Members of Parliament , ou seja, o equivalente a Deputado, sendo que um deles deve presidir a casa sendo denominado Speaker (cargo atualmente ocupado por John Bercow). Os membros do parlamento são eleitos através do sistema distrital FPTP do Reino Unido para um mandato de cerca de 5 anos. Cada mandato dura até o Parlamento ser dissolvido para novas eleições.</rdfs:comment>
+    <rdfs:comment xml:lang="ja">庶民院（しょみんいん、英語: House of Commons of the United Kingdom of Great Britain and Northern Ireland）は、イギリスの議会を構成する議院のひとつで、下院に相当する。</rdfs:comment>
+    <rdfs:comment xml:lang="nl">Het Lagerhuis (House of Commons) is de belangrijkste kamer van het Britse parlement dat bestaat uit een tweekamerstelsel. De andere kamer is het Hogerhuis (House of Lords). Het Lagerhuis bestaat uit 650 leden die volgens een enkelvoudig districtenstelsel worden gekozen (een meerderheidsstelsel, waarbij een relatieve meerderheid in een district voldoende is om gekozen te worden). Het Lagerhuis komt bijeen in het Palace of Westminster. 
+* House of Commons (1851) 
+* Illustratie van een debat in 1886</rdfs:comment>
+    <rdfs:comment xml:lang="de">Das House of Commons (HoC) ist das Unterhaus des Parlaments des Vereinigten Königreichs und dessen politisch entscheidende Kammer. Das Parlament besteht außerdem noch aus der Krone und dem Oberhaus, dem House of Lords. Das Unterhaus tagt ebenso wie das Oberhaus im Palace of Westminster.</rdfs:comment>
+    <rdfs:comment xml:lang="ru">Пала́та о́бщин (англ. House of Commons; полное наименование — Почте́нные о́бщины Соединённого короле́вства Великобрита́нии и Се́верной Ирла́ндии, собра́вшиеся в Парла́менте, англ. The Honourable the Commons of the United Kingdom of Great Britain and Northern Ireland in Parliament assembled) — нижняя палата парламента Великобритании.</rdfs:comment>
+    <rdfs:comment xml:lang="it">La Camera dei comuni è la camera bassa del Parlamento del Regno Unito, di cui è il ramo dominante.La Camera dei comuni è un organismo democraticamente eletto, composto da 650 membri che assumono il titolo di &quot;membri del parlamento&quot; (Members of Parliament) abbreviato in MPs. Sede della Camera dei comuni è il Palazzo di Westminster, a Londra.</rdfs:comment>
+    <rdfs:comment xml:lang="ar">مجلس العموم البريطاني (بالإنجليزية: House of Commons of the United Kingdom)، يشغل الغرفة السفلى من برلمان المملكة المتحدة، والغرفة العليا يشغلها مجلس اللوردات . ينتخب مجلس العموم بطريقة الاقتراع السري المباشر لاختيار 650 عضوا - فقد اصبح هذا عددهم منذ الانتخابات العامة لعام 2010 - وتجرى انتخابات المجلس بطريقة الدوائر الانتخابية أو مناطق التصويت، وهم يشغلون مقاعدهم لحين انتخاب أعضاء آخرين بعد خمس سنوات، ويرمز للعضو بالحروف MPS اي اختصار لكلمة عضو البرلمان، ويتم انتخاب أعضاء البرلمان إما عن طريق انتخابات عامة تجرى في جميع الدوائر الانتخابية، أو عن طريق انتخابات تكميلية تحدث عن حدوث حالة وفاة لأحد أعضاء المجلس.</rdfs:comment>
+    <rdfs:comment xml:lang="zh">英國下議院（英语：House of Commons of the United Kingdom），直譯為平民院或庶民院，是英國國會的下議院。 英國國會由三大部份組成，它們分別是君主、作為上院的上議院，以及作為下院的下議院，當中又以下議院最具影響力。下議院是一個透過民主選舉產生的機構，目前內有650名成員，稱為國會議員，常用的英文簡寫則是「MP」（Members of Parliament）。下議院議員是經由多數制選出，國會每屆不可長於5年，5年之內就要宣佈解散，而國會解散之時，也就是下議院議員任期的終結。自2011年來每一位下議院議員都是由一個選區的選民選出，議員當選後，也就在議會代表該選區。現今聯合王國政府的內閣閣臣，絕大部份皆來自下院，而自1902年起，歷任的首相也同樣是下議院議員。惟在1963年的時候，來自上議院的亞歷克·道格拉斯-休姆伯爵獲任命為英國首相，不過，他在任命後不久，即放棄了貴族爵位，並成功以亞歷克·道格拉斯-休姆爵士之身份選入下議院。 下議院的有關資料現存放於下議院圖書館。</rdfs:comment>
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/The_United_Kingdom" />
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Acts_of_Parliament" />
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Palace_of_Westminster" />
+    <owl:sameAs rdf:resource="http://it.dbpedia.org/resource/Camera_dei_comuni_(Regno_Unito)" />
+    <owl:sameAs rdf:resource="http://cs.dbpedia.org/resource/Dolní_sněmovna_Spojeného_království" />
+    <owl:sameAs rdf:resource="http://es.dbpedia.org/resource/Cámara_de_los_Comunes_del_Reino_Unido" />
+    <owl:sameAs rdf:resource="http://ko.dbpedia.org/resource/서민원" />
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q11005" />
+    <owl:sameAs rdf:resource="http://yago-knowledge.org/resource/House_of_Commons_of_the_United_Kingdom" />
+    <owl:sameAs rdf:resource="http://id.dbpedia.org/resource/Dewan_Rakyat_Britania_Raya" />
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/House_of_Commons_of_the_United_Kingdom" />
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.03ljr" />
+    <owl:sameAs rdf:resource="http://el.dbpedia.org/resource/Βουλή_των_Κοινοτήτων_του_Ηνωμένου_Βασιλείου" />
+    <owl:sameAs rdf:resource="http://nl.dbpedia.org/resource/Lagerhuis_(Verenigd_Koninkrijk)" />
+    <owl:sameAs rdf:resource="http://d-nb.info/gnd/146096-1" />
+    <owl:sameAs rdf:resource="http://eu.dbpedia.org/resource/Erresuma_Batuko_Komunen_Ganbera" />
+    <owl:sameAs rdf:resource="http://ja.dbpedia.org/resource/庶民院_(イギリス)" />
+    <owl:sameAs rdf:resource="http://pl.dbpedia.org/resource/Izba_Gmin" />
+    <owl:sameAs rdf:resource="http://pt.dbpedia.org/resource/Câmara_dos_Comuns_do_Reino_Unido" />
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q11005" />
+    <owl:sameAs rdf:resource="http://fr.dbpedia.org/resource/Chambre_des_communes_du_Royaume-Uni" />
+    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/House_of_Commons" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:House_of_Commons_of_the_United_Kingdom" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:National_lower_houses" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Parliament_of_the_United_Kingdom" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Government_of_the_United_Kingdom" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Westminster_system" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:1801_establishments_in_the_United_Kingdom" />
+    <dbo:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">13828</dbo:wikiPageID>
+    <dbo:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">744750077</dbo:wikiPageRevisionID>
+    <dbo:wikiPageExternalLink rdf:resource="http://news.bbc.co.uk/1/hi/uk_politics/6999581.stm" />
+    <dbo:wikiPageExternalLink rdf:resource="http://news.bbc.co.uk/1/hi/magazine/8672770.stm" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.parliament.uk/business/commons/" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.parliament.uk/business/commons" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.parliament.uk/about/podcasts/toursofparliament/tourcommons/" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.parliament.uk/archives" />
+    <dbo:wikiPageExternalLink rdf:resource="http://findyourmp.parliament.uk/" />
+    <dbo:wikiPageExternalLink rdf:resource="http://news.bbc.co.uk/democracylive/hi/house_of_commons/default.stm" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.parliamentlive.tv/" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.timesonline.co.uk/tol/news/politics/article7127775.ece" />
+    <foaf:name xml:lang="en">House of Commons of the United Kingdom of Great Britain and Northern Ireland</foaf:name>
+    <foaf:homepage rdf:resource="http://www.parliament.uk/business/commons/" />
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#float">51.4999</geo:lat>
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-0.124667</geo:long>
+    <foaf:depiction rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/House_of_Commons_of_the_United_Kingdom.svg" />
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/House_of_Commons_of_the_United_Kingdom" />
+    <geo:geometry rdf:datatype="http://www.openlinksw.com/schemas/virtrdf#Geometry">POINT(-0.12466666847467 51.499889373779)</geo:geometry>
+    <dbo:thumbnail rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/House_of_Commons_of_the_United_Kingdom.svg?width=300" />
+    <prov:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/House_of_Commons_of_the_United_Kingdom?oldid=744750077" />
+    <dbo:abstract xml:lang="pl">Izba Gmin (ang. House of Commons) – izba niższa dwuizbowego parlamentu brytyjskiego, odgrywa jednak rolę nadrzędną wobec Izby Lordów. W obecnej kadencji (2015–) w jej skład wchodzi 650 deputowanych (MPs od angielskiego Member of Parliament – &quot;członek parlamentu&quot;), wybieranych przez całość obywateli Zjednoczonego Królestwa w powszechnych, czteroprzymiotnikowych wyborach.</dbo:abstract>
+    <dbo:abstract xml:lang="es">La Cámara de los Comunes (en inglés: House of Commons)?, oficialmente Los Honorables Comunes del Reino Unido de Gran Bretaña e Irlanda del Norte reunidos en el Parlamento (The Honourable the Commons of the United Kingdom of Great Britain and Northern Ireland in Parliament assembled), es la cámara baja del Parlamento del Reino Unido. Tiene su sede en el Palacio de Westminster. El Parlamento británico tiene una segunda cámara: la cámara alta o Cámara de los Lores. La Cámara de los Comunes es elegida democráticamente. Está conformada por 650 representantes elegidos por escrutinio uninominal mayoritario en los diferentes distritos electorales del Reino Unido por un período máximo de cinco años hasta que se disuelve el parlamento. A estos representantes se les denomina miembros del parlamento. Desde 1902 todos los Primeros Ministros, salvo Lord Alec Douglas-Home en 1963 y Gordon Brown en 2007, han sido en algún momento representantes de los comunes. Además todos los ministros de los distintos gobiernos han sido elegidos entre miembros de la Cámara de los Comunes. La Cámara de los Comunes fue establecida en el siglo XIV y ha existido de forma continua desde entonces. La Cámara de los Comunes en sus inicios tenía menos poder que la Cámara de los Lores, pero hoy es la cámara con mayores poderes legislativos del parlamento. Desde 1911 el poder legislativo de la Cámara de los Comunes excede el poder de la Cámara de los Lores, ya que a partir de dicha fecha se les suprimió a los lores el poder de rechazar las leyes conservando sólo la potestad de sugerir modificaciones. Además el Primer Ministro permanece en su cargo solamente mientras conserva el apoyo de los comunes y el gobierno del Reino Unido debe responder ante la Cámara de los Comunes cuando sus miembros lo estimen conveniente. Su nombre formal es La honorable cámara de los honorables comunes del Reino Unido de la Gran Bretaña e Irlanda del Norte. El término comunes deriva de los comunes franceses normandos, refiriéndose a las comunidades geográficas y colectivas de sus representantes. El archivo de la cámara de los comunes se encuentra en su propia biblioteca.</dbo:abstract>
+    <dbo:abstract xml:lang="nl">Het Lagerhuis (House of Commons) is de belangrijkste kamer van het Britse parlement dat bestaat uit een tweekamerstelsel. De andere kamer is het Hogerhuis (House of Lords). Het Lagerhuis bestaat uit 650 leden die volgens een enkelvoudig districtenstelsel worden gekozen (een meerderheidsstelsel, waarbij een relatieve meerderheid in een district voldoende is om gekozen te worden). Het Lagerhuis komt bijeen in het Palace of Westminster. 
+* House of Commons (1851) 
+* Illustratie van een debat in 1886</dbo:abstract>
+    <dbo:abstract xml:lang="pt">Câmara dos Comuns do Reino Unido é a câmara baixa do Parlamento do Reino Unido composta por cerca de 650 membros chamados de Members of Parliament , ou seja, o equivalente a Deputado, sendo que um deles deve presidir a casa sendo denominado Speaker (cargo atualmente ocupado por John Bercow). Os membros do parlamento são eleitos através do sistema distrital FPTP do Reino Unido para um mandato de cerca de 5 anos. Cada mandato dura até o Parlamento ser dissolvido para novas eleições. Originou-se na Câmara dos Comuns da Inglaterra, fundada no século XIV e depois evoluiu para Câmara dos Comuns da Grã-Bretanha até chegar a sua forma atual. Durante séculos a câmara baixa do parlamento britânico alcançou poder maior do que a Câmara dos Lordes, mas atualmente seus membros são considerados menos influentes quando da reunião do Parlamento. Contudo, quase todos os ministros do governo são apontados pela Câmara dos Comuns desde 1902. O Parlamento do Reino Unido, como é atualmente, descende do extinto Parlamento da Inglaterra que foi modificado para Parlamento da Grã-Bretanha pelo Tratado de União de 1707. O Parlamento foi recriado novamente pelo Ato de União de 1800, passando a ser conhecido oficialmente como Parlamento do Reino Unido após a extinção do Parlamento irlandês.</dbo:abstract>
+    <dbo:abstract xml:lang="de">Das House of Commons (HoC) ist das Unterhaus des Parlaments des Vereinigten Königreichs und dessen politisch entscheidende Kammer. Das Parlament besteht außerdem noch aus der Krone und dem Oberhaus, dem House of Lords. Dem Unterhaus gehören 650 Abgeordnete an. Diese werden Parlamentsmitglieder (englisch Members of Parliament, abgekürzt MP) genannt. Die Abgeordneten werden für begrenzte Zeit nach dem Prinzip der Mehrheitswahl gewählt und bekleiden ihr Amt bis zur Auflösung des jeweiligen Parlamentes. Die Auflösung geschieht durch den Monarchen, der allerdings nur auf Vorschlag des Premierministers handelt, und muss spätestens nach fünf Jahren erfolgen. Jeder Abgeordnete wird in „seinem“ Wahlbezirk (d. h. dort wo er kandidiert) („Constituency“) durch die dort gemeldeten Wähler – in relativer Mehrheitswahl – gewählt. Die Minister sind überwiegend gleichzeitig Abgeordnete des Unterhauses. Ebenso ist seit 1963 jeder Premierminister auch Abgeordneter des Unterhauses gewesen. Das De Montfort’s-Parliament gilt als Ursprung des heutigen Unterhaus, da hier erstmals Bürgerliche an einem englischen Parlament teilnahmen. Zu einer eigenständigen Kammer des Parlaments entwickelte es sich maßgeblich im 14. Jahrhundert aus der Versammlung der Vertreter der (meist Handels-)Städte und hat seitdem ununterbrochen existiert. Zu Beginn seiner Geschichte war das Unterhaus weniger bedeutend als das Oberhaus; heute ist es der vorherrschende Parlamentszweig. Es hat die Entscheidung über Gesetzgebung und Staatshaushalt. Die gesetzgeberischen Befugnisse übertreffen diejenigen des Oberhauses. Nach der Parlamentsakte von 1911 wurde die Befugnis des Oberhauses, die meisten Gesetzesentwürfe verwerfen zu dürfen, in eine lediglich suspensive (also aufschiebende) Befugnis umgewandelt. Des Weiteren ist die Regierung des Vereinigten Königreichs dem Unterhaus gegenüber verantwortlich. Der Premierminister bleibt nur so lange im Amt, wie er die Unterstützung des Unterhauses behält. Der offizielle Titel lautet „Die Ehrenwerten Ortschaften des Vereinigten Königreichs von Großbritannien und Nordirland, im Parlament versammelt“ (engl. „The Honourable the Commons of the United Kingdom of Great Britain and Northern Ireland in Parliament assembled“). Sehr oft wird irrtümlich angenommen, dass „Commons“ in seiner häufigsten Bedeutung als Bürgerliche, (oder gar als Abkürzung für „commoners“ = roturiers, Nichtadelige, Gemeine) gemeint ist und damit einen Gegensatz zu den Lords (adelige Herren) im Oberhaus bildet. Der Begriff Commons entstammt dem lateinischen Wort „communis“ für allgemein, und auch der deutsche Begriff Kommunen (im Sinne von kommunalen Ebenen) spiegelt genau das wider. Das Unterhaus tagt ebenso wie das Oberhaus im Palace of Westminster.</dbo:abstract>
+    <dbo:abstract xml:lang="ru">Пала́та о́бщин (англ. House of Commons; полное наименование — Почте́нные о́бщины Соединённого короле́вства Великобрита́нии и Се́верной Ирла́ндии, собра́вшиеся в Парла́менте, англ. The Honourable the Commons of the United Kingdom of Great Britain and Northern Ireland in Parliament assembled) — нижняя палата парламента Великобритании.</dbo:abstract>
+    <dbo:abstract xml:lang="ja">庶民院（しょみんいん、英語: House of Commons of the United Kingdom of Great Britain and Northern Ireland）は、イギリスの議会を構成する議院のひとつで、下院に相当する。</dbo:abstract>
+    <dbo:abstract xml:lang="en">The House of Commons is the lower house of the Parliament of the United Kingdom. Like the upper house, the House of Lords, it meets in the Palace of Westminster. The House is an elected body consisting of 650 members known as Members of Parliament (MPs). Members are elected to represent constituencies by first-past-the-post and hold their seats until Parliament is dissolved. A House of Commons of England evolved in the 13th and 14th centuries, became the House of Commons of Great Britain after the political union with Scotland in 1707, and assumed its current title after the political union with Ireland in the 19th century. The &quot;United Kingdom&quot; referred to was the United Kingdom of Great Britain and Ireland from 1800, and became the United Kingdom of Great Britain and Northern Ireland after the independence of the Irish Free State in 1922. Under the Parliament Act 1911, the Lords&#39; power to reject legislation was reduced to a delaying power. The Government is primarily responsible to the House of Commons and the prime minister stays in office only as long as he or she retains the support of a majority of its members.</dbo:abstract>
+    <dbo:abstract xml:lang="it">La Camera dei comuni è la camera bassa del Parlamento del Regno Unito, di cui è il ramo dominante.La Camera dei comuni è un organismo democraticamente eletto, composto da 650 membri che assumono il titolo di &quot;membri del parlamento&quot; (Members of Parliament) abbreviato in MPs. La Camera dei comuni è eletta a suffragio universale e con il sistema maggioritario.I suoi membri durano in carica fino a che la Camera non viene sciolta per le nuove elezioni, cosa che avviene entro un massimo di cinque anni dall&#39;ultima elezione. Ogni membro è eletto e rappresenta un distretto elettorale chiamato &quot;constituency&quot; (in italiano &quot;Collegio&quot;). Sede della Camera dei comuni è il Palazzo di Westminster, a Londra.</dbo:abstract>
+    <dbo:abstract xml:lang="zh">英國下議院（英语：House of Commons of the United Kingdom），直譯為平民院或庶民院，是英國國會的下議院。 英國國會由三大部份組成，它們分別是君主、作為上院的上議院，以及作為下院的下議院，當中又以下議院最具影響力。下議院是一個透過民主選舉產生的機構，目前內有650名成員，稱為國會議員，常用的英文簡寫則是「MP」（Members of Parliament）。下議院議員是經由多數制選出，國會每屆不可長於5年，5年之內就要宣佈解散，而國會解散之時，也就是下議院議員任期的終結。自2011年來每一位下議院議員都是由一個選區的選民選出，議員當選後，也就在議會代表該選區。現今聯合王國政府的內閣閣臣，絕大部份皆來自下院，而自1902年起，歷任的首相也同樣是下議院議員。惟在1963年的時候，來自上議院的亞歷克·道格拉斯-休姆伯爵獲任命為英國首相，不過，他在任命後不久，即放棄了貴族爵位，並成功以亞歷克·道格拉斯-休姆爵士之身份選入下議院。 下議院大約在14世紀出現，並且一直延續至今。在歷史上，下議院的權力曾遠遜於上議院，時至今日，下議院在兩院中佔主導地位。現時下議院的立法權力能夠超越上議院，而根據《1911年國會法令》（Parliament Act 1911），上院駁回大部份法案的權力被削減為僅僅拖延法案通過。此外，英國政府亦需要向下議院負責，首相如果失去了下議院的支持，就要下野。 下議院之官式全稱為「尊貴的與會大不列顛及北愛爾蘭聯合王國下議院議員」（The Honourable the Commons of the United Kingdom of Great Britain and Northern Ireland in Parliament assembled）。坊間一直以為，下議院的英文「House of Commons」中，「Commons」一字乃來自英文「commoners」（解為庶民），反映下議院議員盡皆庶民出身，以區別由貴族所掌的上議院。不過，這種解釋背後沒有史實支持，其實「Commons」一字語出諾曼法語的「communes」，意指議員們所代表的地區，具地理意味。上、下兩議院皆設於倫敦西敏市西敏宮內，而每次會議時，議事廳內必置有一權杖，以彰顯王權。 下議院的有關資料現存放於下議院圖書館。</dbo:abstract>
+    <dbo:abstract xml:lang="fr">La Chambre des communes (anglais : House of Commons) est la chambre basse du Parlement du Royaume-Uni. Le Parlement comprend également la reine et la chambre haute, la Chambre des lords. La Chambre des communes est élue au suffrage universel direct : elle est composée de 650 députés (Members of Parliament ou MPs), représentant chacun une circonscription et élus au scrutin uninominal majoritaire à un tour. Depuis le Fixed-term Parliaments Act de 2011, le mandat de la chambre est fixé à cinq ans. Auparavant, elle pouvait être dissoute avant la fin de son mandat par la reine sur demande du Premier ministre : le Premier ministre pouvait ainsi fixer lui-même la date des élections générales. Le gouvernement est responsable devant la Chambre des communes : la majorité des membres, et notamment le Premier ministre, sont également membres de la Chambre des communes. Depuis le Parliament Act de 1911, la Chambre des communes peut dans certaines conditions adopter un projet de loi sans le consentement de la Chambre des lords.</dbo:abstract>
+    <dbo:abstract xml:lang="ar">مجلس العموم البريطاني (بالإنجليزية: House of Commons of the United Kingdom)، يشغل الغرفة السفلى من برلمان المملكة المتحدة، والغرفة العليا يشغلها مجلس اللوردات . ينتخب مجلس العموم بطريقة الاقتراع السري المباشر لاختيار 650 عضوا - فقد اصبح هذا عددهم منذ الانتخابات العامة لعام 2010 - وتجرى انتخابات المجلس بطريقة الدوائر الانتخابية أو مناطق التصويت، وهم يشغلون مقاعدهم لحين انتخاب أعضاء آخرين بعد خمس سنوات، ويرمز للعضو بالحروف MPS اي اختصار لكلمة عضو البرلمان، ويتم انتخاب أعضاء البرلمان إما عن طريق انتخابات عامة تجرى في جميع الدوائر الانتخابية، أو عن طريق انتخابات تكميلية تحدث عن حدوث حالة وفاة لأحد أعضاء المجلس. تطور مجلس العموم البريطاني في مرحلة ما كانت بريطانيا تسمى بإنجلترا خلال القرن 14، وقد استمر هذا المجلس حتى صار مجلس العموم لبريطانيا العظمى بحدوث اتحاد سياسي مع اسكتلندا، وأيضا في القرن 19 حدث اتحاد سياسي مع أيرلندا، وأخذ اسمه الحالي بعد استقلال أيرلندا عام 1922. كان مجلس العموم البريطاني أقل قوة من مجلس اللوردات في الأصل، ولكن ازدادت سلطاته التشريعية لتتجاوز إلى حد كبير مجلس اللوردات، فقد خفضت سلطة مجلس اللوردات وفقا لقانون البرلمان عام 1911، وينتمى رئيس الوزراء الى مجلس العموم منذ عام 1902. ومنذ عام 1963، من خلال اتفاقية، اصبح شرطا أن يكون رئيس الوزراء عضوا في مجلس العموم، بعد أن كان يأتي طسابقا من مجلس اللوردات</dbo:abstract>
+    <dbo:electionDateLeader rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2009-06-22</dbo:electionDateLeader>
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Northern_Ireland" />
+    <dbo:lastElectionDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2015-05-07</dbo:lastElectionDate>
+    <dbo:leader rdf:resource="http://dbpedia.org/resource/John_Bercow" />
+    <dbo:legislativePeriodName>56th UK Parliament</dbo:legislativePeriodName>
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Palace_of_Westminster" />
+    <dbo:location rdf:resource="http://dbpedia.org/resource/City_of_Westminster" />
+    <dbo:numberOfMembers rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">650</dbo:numberOfMembers>
+    <dbo:numberOfMembers rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">2</dbo:numberOfMembers>
+    <dbo:type rdf:resource="http://dbpedia.org/resource/Lower_house" />
+    <georss:point>51.49988888888889 -0.12466666666666668</georss:point>
+    <dbp:coaPic rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Green Portcullis of the House of Commons</dbp:coaPic>
+    <dbp:coaPic rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">House of Commons of the United Kingdom.svg</dbp:coaPic>
+    <dbp:coaRes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">320</dbp:coaRes>
+    <dbp:election rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2016-07-04</dbp:election>
+    <dbp:election rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2016-07-14</dbp:election>
+    <dbp:leader rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">David Lidington MP</dbp:leader>
+    <dbp:leader rdf:resource="http://dbpedia.org/resource/Scotish_National_Party" />
+    <dbp:leader rdf:resource="http://dbpedia.org/resource/UK_Independence_Party" />
+    <dbp:leader rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">MP,</dbp:leader>
+    <dbp:leader rdf:resource="http://dbpedia.org/resource/Liberal_Democrats" />
+    <dbp:leader rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Paul Flynn MP</dbp:leader>
+    <dbp:leader rdf:resource="http://dbpedia.org/resource/Pete_Wishart" />
+    <dbp:leader rdf:resource="http://dbpedia.org/resource/Tom_Brake" />
+    <dbp:leader rdf:resource="http://dbpedia.org/resource/Douglas_Carswell" />
+    <dbp:leader rdf:resource="http://dbpedia.org/resource/Nigel_Dodds" />
+    <dbp:leader rdf:resource="http://dbpedia.org/resource/Democratic_Unionist_Party" />
+    <dbp:leader1Type rdf:resource="http://dbpedia.org/resource/Speaker_of_the_British_House_of_Commons" />
+    <dbp:leader2Type rdf:resource="http://dbpedia.org/resource/Leader_of_the_House_of_Commons" />
+    <dbp:leader3Type rdf:resource="http://dbpedia.org/resource/Shadow_Leader_of_the_House_of_Commons" />
+    <dbp:leader4Type rdf:resource="http://dbpedia.org/resource/Shadow_Leader_of_the_House_of_Commons" />
+    <dbp:nextElection rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2015-05-05</dbp:nextElection>
+    <dbp:nextElection rdf:datatype="http://www.w3.org/2001/XMLSchema#gMonthDay">--05-07</dbp:nextElection>
+    <dbp:party rdf:resource="http://dbpedia.org/resource/Conservative_Party_(UK)" />
+    <dbp:party rdf:resource="http://dbpedia.org/resource/Labour_Party_(UK)" />
+    <dbp:redistricting rdf:resource="http://dbpedia.org/resource/Boundary_Commissions_(United_Kingdom)" />
+    <dbp:sessionRoom rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">House of Commons.jpg</dbp:sessionRoom>
+    <dbp:structure rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">House of Commons 2015 elections.svg</dbp:structure>
+    <dbp:structure1Res rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">300</dbp:structure1Res>
+    <dbp:termLength rdf:datatype="http://dbpedia.org/datatype/second">1.57788E8</dbp:termLength>
+    <dbp:votingSystem rdf:resource="http://dbpedia.org/resource/First-past-the-post_voting" />
+    <ns10:hypernym rdf:resource="http://dbpedia.org/resource/Body" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mebyon_Kernow">
+    <dbp:seats2Title rdf:resource="http://dbpedia.org/resource/House_of_Commons_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Parliament_of_the_United_Kingdom">
+    <dbo:house rdf:resource="http://dbpedia.org/resource/House_of_Commons_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sinn_Féin">
+    <dbp:seats4Title rdf:resource="http://dbpedia.org/resource/House_of_Commons_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Speaker_of_the_House_of_Commons_(United_Kingdom)">
+    <dbp:nominator rdf:resource="http://dbpedia.org/resource/House_of_Commons_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Socialist_Party_(England_and_Wales)">
+    <dbp:seats1Title rdf:resource="http://dbpedia.org/resource/House_of_Commons_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Militant_(Trotskyist_group)">
+    <dbp:seats1Title rdf:resource="http://dbpedia.org/resource/House_of_Commons_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Party_Standings_in_the_British_House_of_Commons">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/House_of_Commons_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Plaid_Glyndŵr">
+    <dbp:seats1Title rdf:resource="http://dbpedia.org/resource/House_of_Commons_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/United_Kingdom">
+    <dbp:lowerHouse rdf:resource="http://dbpedia.org/resource/House_of_Commons_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Government_of_the_United_Kingdom">
+    <dbp:responsible rdf:resource="http://dbpedia.org/resource/House_of_Commons_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/NI21">
+    <dbp:seats1Title rdf:resource="http://dbpedia.org/resource/House_of_Commons_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Socialist_Workers_Party_(UK)">
+    <dbp:seats1Title rdf:resource="http://dbpedia.org/resource/House_of_Commons_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/We_Demand_a_Referendum_Now">
+    <dbp:seats1Title rdf:resource="http://dbpedia.org/resource/House_of_Commons_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Welsh_Liberal_Democrats">
+    <dbp:seats1Title rdf:resource="http://dbpedia.org/resource/House_of_Commons_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/British_House_Of_Commons">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/House_of_Commons_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Communist_Party_of_Britain">
+    <dbp:seats1Title rdf:resource="http://dbpedia.org/resource/House_of_Commons_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Term_of_office">
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/House_of_Commons_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Massachusetts_Government_Act">
+    <dbp:introducedBy rdf:resource="http://dbpedia.org/resource/House_of_Commons_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/House_of_Commons_of_the_United_Kingdom_of_Great_Britain_and_Northern_Ireland">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/House_of_Commons_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/British_house_of_commons">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/House_of_Commons_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Britain_First">
+    <dbp:seats1Title rdf:resource="http://dbpedia.org/resource/House_of_Commons_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Conservative_Party_(UK)">
+    <dbp:seats1Title rdf:resource="http://dbpedia.org/resource/House_of_Commons_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Liberal_Democrats">
+    <dbp:seats1Title rdf:resource="http://dbpedia.org/resource/House_of_Commons_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/National_Front_(UK)">
+    <dbp:seats1Title rdf:resource="http://dbpedia.org/resource/House_of_Commons_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Scottish_Liberal_Democrats">
+    <dbp:seats3Title rdf:resource="http://dbpedia.org/resource/House_of_Commons_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Scottish_National_Party">
+    <dbp:seats1Title rdf:resource="http://dbpedia.org/resource/House_of_Commons_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Women&#39;s_Equality_Party">
+    <dbp:seats1Title rdf:resource="http://dbpedia.org/resource/House_of_Commons_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/United_Kingdom_of_Great_Britain_and_Ireland">
+    <dbp:house rdf:resource="http://dbpedia.org/resource/House_of_Commons_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/House_of_Commons_of_the_united_Kingdom">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/House_of_Commons_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Alliance_Party_of_Northern_Ireland">
+    <dbp:seats1Title rdf:resource="http://dbpedia.org/resource/House_of_Commons_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Co-operative_Party">
+    <dbp:seats1Title rdf:resource="http://dbpedia.org/resource/House_of_Commons_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Irish_House_of_Commons">
+    <dbp:succeededBy rdf:resource="http://dbpedia.org/resource/House_of_Commons_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Stamp_Act_1765">
+    <dbp:introducedBy rdf:resource="http://dbpedia.org/resource/House_of_Commons_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Cymru_Sovereign">
+    <dbp:seats1Title rdf:resource="http://dbpedia.org/resource/House_of_Commons_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/London_Green_Party">
+    <dbp:seats1Title rdf:resource="http://dbpedia.org/resource/House_of_Commons_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/London_Liberal_Democrats">
+    <dbp:seats1Title rdf:resource="http://dbpedia.org/resource/House_of_Commons_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Scottish_Libertarian_Party">
+    <dbp:seats3Title rdf:resource="http://dbpedia.org/resource/House_of_Commons_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/London_Conservatives">
+    <dbp:seats1Title rdf:resource="http://dbpedia.org/resource/House_of_Commons_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Restore_the_Family_for_Children&#39;s_Sake">
+    <dbp:seats1Title rdf:resource="http://dbpedia.org/resource/House_of_Commons_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Justice_&amp;_Anti-Corruption_Party">
+    <dbp:seats1Title rdf:resource="http://dbpedia.org/resource/House_of_Commons_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Welsh_Conservative_Party">
+    <dbp:seats1Title rdf:resource="http://dbpedia.org/resource/House_of_Commons_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Edward_Short,_Baron_Glenamara">
+    <dbp:title rdf:resource="http://dbpedia.org/resource/House_of_Commons_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Borders_Party">
+    <dbp:seats1Title rdf:resource="http://dbpedia.org/resource/House_of_Commons_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Robert_Gee">
+    <dbo:occupation rdf:resource="http://dbpedia.org/resource/House_of_Commons_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Labour_Party_(UK)">
+    <dbp:seats1Title rdf:resource="http://dbpedia.org/resource/House_of_Commons_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Labour_Party_in_Northern_Ireland">
+    <dbp:seats1Title rdf:resource="http://dbpedia.org/resource/House_of_Commons_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/UK_House_of_Commons">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/House_of_Commons_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/United_Kingdom_House_of_Commons">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/House_of_Commons_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/List_of_MPs_elected_in_the_United_Kingdom_general_election,_2015">
+    <dbp:chamber rdf:resource="http://dbpedia.org/resource/House_of_Commons_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Scottish_Conservative_Party">
+    <dbp:seats1Title rdf:resource="http://dbpedia.org/resource/House_of_Commons_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Independence_from_Europe">
+    <dbp:seats1Title rdf:resource="http://dbpedia.org/resource/House_of_Commons_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/London_Labour_Party">
+    <dbp:seats1Title rdf:resource="http://dbpedia.org/resource/House_of_Commons_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/House_of_Commons_(disambiguation)">
+    <dbo:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/House_of_Commons_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/House_of_Commons_of_Great_Britain">
+    <dbp:succeededBy rdf:resource="http://dbpedia.org/resource/House_of_Commons_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/House_of_Commons_(UK)">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/House_of_Commons_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/New_British_Union">
+    <dbp:seats1Title rdf:resource="http://dbpedia.org/resource/House_of_Commons_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Honourable_the_Commons_of_the_United_Kingdom_of_Great_Britain_and_Northern_Ireland_in_Parliament_assembled">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/House_of_Commons_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/House_of_Commons_of_the_UK">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/House_of_Commons_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/House_of_Commons_of_the_British_Parliament">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/House_of_Commons_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/House_of_Commons_(Westminster)">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/House_of_Commons_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_House_of_Commons_of_the_United_Kingdom">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/House_of_Commons_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/House_of_Commons_(United_Kingdom)">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/House_of_Commons_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/House_of_Commons_of_United_Kingdom">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/House_of_Commons_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Member_of_the_British_House_of_Commons">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/House_of_Commons_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/House_of_Commons,_Parliament_of_the_United_Kingdom_of_Great_Britain_and_Ireland">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/House_of_Commons_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/House_of_Commons,_Parliament_of_the_United_Kingdom_of_Great_Britain_and_Northern_Ireland">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/House_of_Commons_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/House_of_Commons_of_the_United_Kingdom">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/House_of_Commons_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/British_House_of_Commons">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/House_of_Commons_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/House_of_Commons_Table_Office">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/House_of_Commons_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Member_of_The_British_House_of_Commons">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/House_of_Commons_of_the_United_Kingdom" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Honourable_the_Commons_of_the_United_Kingdom_of_Great_Britain_and_Northern_Ireland_in_Parliament_Assembled">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/House_of_Commons_of_the_United_Kingdom" />
+  </rdf:Description>
+</rdf:RDF>

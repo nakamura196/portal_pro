@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:dct="http://purl.org/dc/terms/"
+	xmlns:dbo="http://dbpedia.org/ontology/"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	xmlns:prov="http://www.w3.org/ns/prov#"
+	xmlns:georss="http://www.georss.org/georss/"
+	xmlns:dbp="http://dbpedia.org/property/"
+	xmlns:ns10="http://purl.org/linguistics/gold/" >
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lake_Suwa">
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Location" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Place" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoGeoEntity" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoPermanentlyLocatedEntity" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Thing100002452" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/BodyOfWater109225146" />
+    <rdf:type rdf:resource="http://umbel.org/umbel/rc/BodyOfWater" />
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/BodyOfWater" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/NaturalPlace" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PhysicalEntity100001930" />
+    <rdf:type rdf:resource="http://schema.org/BodyOfWater" />
+    <rdf:type rdf:resource="http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Lake" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatLakesOfJapan" />
+    <rdf:type rdf:resource="http://umbel.org/umbel/rc/Lake" />
+    <rdf:type rdf:resource="http://schema.org/Place" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Lake109328904" />
+    <rdfs:label xml:lang="de">Suwa-See</rdfs:label>
+    <rdfs:label xml:lang="ja">諏訪湖</rdfs:label>
+    <rdfs:label xml:lang="fr">Lac Suwa</rdfs:label>
+    <rdfs:label xml:lang="ar">بحيرة سوا</rdfs:label>
+    <rdfs:label xml:lang="pl">Suwa (jezioro)</rdfs:label>
+    <rdfs:label xml:lang="zh">諏訪湖</rdfs:label>
+    <rdfs:label xml:lang="en">Lake Suwa</rdfs:label>
+    <rdfs:comment xml:lang="ar">25بك المحتوى هنا ينقصه الاستشهاد بمصادر. يرجى إيراد مصادر موثوق بها. أي معلومات غير موثقة يمكن التشكيك بها وإزالتها. (فبراير 2016) بحيرة سوا (باليابانية: 諏訪湖) هي بحيرة في الجزء الأوسط من محافظة ناغانو، اليابان. وتحتل المرتبة الـ24 من بين البحيرات في اليابان من حيث المساحة السطحية.</rdfs:comment>
+    <rdfs:comment xml:lang="zh">諏訪湖是位于日本長野縣岡谷市、諏訪市、諏訪郡下諏訪町的湖泊。為天龍川的發源地。面積13.3平方公里，平均水深4.7米。是長野縣內最大的湖泊。 1922年2月11日，下諏訪曾舉行日本首次的花式溜冰。 该湖曾在新海誠所監督、製作動畫電影的你的名字中出现，劇中名稱「糸守湖」。</rdfs:comment>
+    <rdfs:comment xml:lang="fr">Le lac Suwa (諏訪湖, Suwa-ko) se trouve au centre de la préfecture de Nagano au Japon. Il est le vingt-quatrième plus grand lac du pays du point de vue de la superficie. Le lac Suwa est l&#39;emplacement des traces des dieux (御神渡り, o-miwatari), un intéressant phénomène naturel. Le lac possède une source chaude naturelle sous la surface de telle sorte que lorsque le lac gèle en hiver, les eaux sous la glace sont chaudes et continuent à circuler. Il en résulte des crêtes de pression de glace qui peuvent atteindre jusqu&#39;à 30 cm ou plus de hauteur. La croyance locale veut que ces crêtes sont formées par les dieux voyageant entre les différents bâtiments du Suwa-taisha.</rdfs:comment>
+    <rdfs:comment xml:lang="pl">Suwa (jap. 諏訪湖 Suwa-ko) – jezioro w środkowej części Prefektury Nagano, w Japonii. Zajmuje 24 miejsce pod względem powierzchni w kraju. Pod powierzchnią jeziora znajdują się źródła termalne.</rdfs:comment>
+    <rdfs:comment xml:lang="de">Der Suwa-See (jap. 諏訪湖, Suwa-ko) ist ein See im zentralen Teil der Präfektur Nagano in Japan. 31 Flüsse führen dem See Wasser zu, der Tenryū ist der einzige Abfluss. An dem See tritt O-miwatari, ein seltenes Naturschauspiel, auf. Der See hat unter seiner Oberfläche eine Thermalquelle, so dass das Tiefenwasser auch bei gefrorener Oberfläche warm ist und zirkuliert. Dies führt wegen der geringen Wassertiefe dazu, dass durch den Druck auf der Eisdecke linienförmige Aufwerfungen von 30 cm oder mehr Höhe entstehen. Die Legende sagt, dass diese Wälle durch die Götter auf dem Weg über den See zwischen den verschiedenen Gebäuden des Suwa-Taisha gebildet werden.</rdfs:comment>
+    <rdfs:comment xml:lang="en">Lake Suwa (諏訪湖 Suwa-ko) is a lake in the Kiso Mountains, in the central region of Nagano Prefecture, Japan.</rdfs:comment>
+    <rdfs:comment xml:lang="ja">諏訪湖（すわこ）は、長野県岡谷市、諏訪市、諏訪郡下諏訪町にまたがる湖。河川法では、天竜川（一級河川）水系の一部として扱われる。湖沼水質保全特別措置法指定湖沼。 1922年（大正11年）2月11日、日本初のフィギュアスケート公式試合が下諏訪リンクで行われた。</rdfs:comment>
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q1206692" />
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Lake_Suwa" />
+    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/Suwa-See" />
+    <owl:sameAs rdf:resource="http://eu.dbpedia.org/resource/Suwa_aintzira" />
+    <owl:sameAs rdf:resource="http://ko.dbpedia.org/resource/스와_호" />
+    <owl:sameAs rdf:resource="http://yago-knowledge.org/resource/Lake_Suwa" />
+    <owl:sameAs rdf:resource="http://fr.dbpedia.org/resource/Lac_Suwa" />
+    <owl:sameAs rdf:resource="http://pl.dbpedia.org/resource/Suwa_(jezioro)" />
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.073_85" />
+    <owl:sameAs rdf:resource="http://ja.dbpedia.org/resource/諏訪湖" />
+    <owl:sameAs rdf:resource="http://sws.geonames.org/1851366/" />
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q1206692" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Kiso_Mountains" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Lakes_of_Japan" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Landforms_of_Nagano_Prefecture" />
+    <dbo:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2326477</dbo:wikiPageID>
+    <dbo:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">741551265</dbo:wikiPageRevisionID>
+    <foaf:name xml:lang="en">Lake Suwa</foaf:name>
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#float">36.0483</geo:lat>
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#float">138.084</geo:long>
+    <foaf:depiction rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Suwako.jpg" />
+    <foaf:depiction rdf:resource="http://en.wikipedia.org/wiki/Special:FilePath/Suwako.jpg" />
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Lake_Suwa" />
+    <geo:geometry rdf:datatype="http://www.openlinksw.com/schemas/virtrdf#Geometry">POINT(138.08416748047 36.048332214355)</geo:geometry>
+    <dbo:thumbnail rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Suwako.jpg?width=300" />
+    <prov:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Lake_Suwa?oldid=741551265" />
+    <dbo:abstract xml:lang="ar">25بك المحتوى هنا ينقصه الاستشهاد بمصادر. يرجى إيراد مصادر موثوق بها. أي معلومات غير موثقة يمكن التشكيك بها وإزالتها. (فبراير 2016) بحيرة سوا (باليابانية: 諏訪湖) هي بحيرة في الجزء الأوسط من محافظة ناغانو، اليابان. وتحتل المرتبة الـ24 من بين البحيرات في اليابان من حيث المساحة السطحية. تعد البحيرة هو موقع لأساطير عبور الكامي (御神渡り)، كما أنه نبع للمياه الساخنة تحت سطح البحيرة بحيث أنه عندما تنخفض درجة حرارة البحيرة في الشتاء وتتجمد يبقى الماء في الأسفل دافئا مؤديا إلى فروقات الضغط مشكلا سطحا سميكا من الجليد. أما الأساطير المحلية فتعزو تلك الظاهرة إلى عبور الكامي عبر البحيرة بين الأضرحة الأربعة الموجودة في زواياها.</dbo:abstract>
+    <dbo:abstract xml:lang="fr">Le lac Suwa (諏訪湖, Suwa-ko) se trouve au centre de la préfecture de Nagano au Japon. Il est le vingt-quatrième plus grand lac du pays du point de vue de la superficie. Le lac Suwa est l&#39;emplacement des traces des dieux (御神渡り, o-miwatari), un intéressant phénomène naturel. Le lac possède une source chaude naturelle sous la surface de telle sorte que lorsque le lac gèle en hiver, les eaux sous la glace sont chaudes et continuent à circuler. Il en résulte des crêtes de pression de glace qui peuvent atteindre jusqu&#39;à 30 cm ou plus de hauteur. La croyance locale veut que ces crêtes sont formées par les dieux voyageant entre les différents bâtiments du Suwa-taisha. Dans le film Kagemusha de Akira Kurosawa, l&#39;urne funéraire de Takeda Shingen est immergé dans le lac.</dbo:abstract>
+    <dbo:abstract xml:lang="de">Der Suwa-See (jap. 諏訪湖, Suwa-ko) ist ein See im zentralen Teil der Präfektur Nagano in Japan. 31 Flüsse führen dem See Wasser zu, der Tenryū ist der einzige Abfluss. An dem See tritt O-miwatari, ein seltenes Naturschauspiel, auf. Der See hat unter seiner Oberfläche eine Thermalquelle, so dass das Tiefenwasser auch bei gefrorener Oberfläche warm ist und zirkuliert. Dies führt wegen der geringen Wassertiefe dazu, dass durch den Druck auf der Eisdecke linienförmige Aufwerfungen von 30 cm oder mehr Höhe entstehen. Die Legende sagt, dass diese Wälle durch die Götter auf dem Weg über den See zwischen den verschiedenen Gebäuden des Suwa-Taisha gebildet werden. Die Seeoberfläche befindet sich auf 759 m. Die Oberfläche des Sees ist 12,8 km² (24. Platz in Japan), der Umfang beträgt 17 km, die maximale Tiefe 7,6 und die mittlere Tiefe 4,7 m. Der See enthält 0,063 km³ Wasser.</dbo:abstract>
+    <dbo:abstract xml:lang="ja">諏訪湖（すわこ）は、長野県岡谷市、諏訪市、諏訪郡下諏訪町にまたがる湖。河川法では、天竜川（一級河川）水系の一部として扱われる。湖沼水質保全特別措置法指定湖沼。 1922年（大正11年）2月11日、日本初のフィギュアスケート公式試合が下諏訪リンクで行われた。</dbo:abstract>
+    <dbo:abstract xml:lang="en">Lake Suwa (諏訪湖 Suwa-ko) is a lake in the Kiso Mountains, in the central region of Nagano Prefecture, Japan.</dbo:abstract>
+    <dbo:abstract xml:lang="zh">諏訪湖是位于日本長野縣岡谷市、諏訪市、諏訪郡下諏訪町的湖泊。為天龍川的發源地。面積13.3平方公里，平均水深4.7米。是長野縣內最大的湖泊。 1922年2月11日，下諏訪曾舉行日本首次的花式溜冰。 该湖曾在新海誠所監督、製作動畫電影的你的名字中出现，劇中名稱「糸守湖」。</dbo:abstract>
+    <dbo:abstract xml:lang="pl">Suwa (jap. 諏訪湖 Suwa-ko) – jezioro w środkowej części Prefektury Nagano, w Japonii. Zajmuje 24 miejsce pod względem powierzchni w kraju. Pod powierzchnią jeziora znajdują się źródła termalne.</dbo:abstract>
+    <dbo:areaTotal rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.33e+07</dbo:areaTotal>
+    <dbo:averageDepth rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.7</dbo:averageDepth>
+    <dbo:country rdf:resource="http://dbpedia.org/resource/Japan" />
+    <dbo:elevation rdf:datatype="http://www.w3.org/2001/XMLSchema#double">759.0</dbo:elevation>
+    <dbo:inflow rdf:resource="http://dbpedia.org/resource/Kiso_Mountains" />
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Nagano_prefecture" />
+    <dbo:maximumDepth rdf:datatype="http://www.w3.org/2001/XMLSchema#double">7.2</dbo:maximumDepth>
+    <dbo:nearestCity rdf:resource="http://dbpedia.org/resource/Suwa,_Nagano" />
+    <dbo:nearestCity rdf:resource="http://dbpedia.org/resource/Okaya,_Nagano" />
+    <dbo:nearestCity rdf:resource="http://dbpedia.org/resource/Shimosuwa,_Nagano" />
+    <dbo:outflow rdf:resource="http://dbpedia.org/resource/Tenryū_River" />
+    <dbo:shoreLength rdf:datatype="http://www.w3.org/2001/XMLSchema#double">15900.0</dbo:shoreLength>
+    <georss:point>36.04833333333333 138.08416666666668</georss:point>
+    <dbp:latd rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">36</dbp:latd>
+    <dbp:latm rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</dbp:latm>
+    <dbp:latns rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">N</dbp:latns>
+    <dbp:lats rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">54</dbp:lats>
+    <dbp:longd rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">138</dbp:longd>
+    <dbp:longew rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">E</dbp:longew>
+    <dbp:longm rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</dbp:longm>
+    <dbp:longs rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</dbp:longs>
+    <dbp:nativeNameLang rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Japanese</dbp:nativeNameLang>
+    <dbp:pushpinMap rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Japan</dbp:pushpinMap>
+    <dbp:pushpinMapCaption rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Location in Japan</dbp:pushpinMapCaption>
+    <dbp:wordnet_type rdf:resource="http://www.w3.org/2006/03/wn/wn20/instances/synset-lake-noun-1" />
+    <ns10:hypernym rdf:resource="http://dbpedia.org/resource/Lake" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Onbashira">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Lake_Suwa" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tenryū_River">
+    <dbp:source1Location rdf:resource="http://dbpedia.org/resource/Lake_Suwa" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Siege_of_Ryūgasaki">
+    <dbo:place rdf:resource="http://dbpedia.org/resource/Lake_Suwa" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Suwa-ko">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Lake_Suwa" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/諏訪湖">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Lake_Suwa" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Suwa_Lake">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Lake_Suwa" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lake_suwa">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Lake_Suwa" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Lake_Suwa">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Lake_Suwa" />
+  </rdf:Description>
+</rdf:RDF>

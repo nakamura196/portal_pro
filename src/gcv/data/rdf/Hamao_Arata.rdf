@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:dbo="http://dbpedia.org/ontology/"
+	xmlns:dct="http://purl.org/dc/terms/"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:prov="http://www.w3.org/ns/prov#"
+	xmlns:dbp="http://dbpedia.org/property/"
+	xmlns:ns8="http://purl.org/linguistics/gold/" >
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kiyoura_Keigo">
+    <dbp:after rdf:resource="http://dbpedia.org/resource/Hamao_Arata" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hachisuka_Mochiaki">
+    <dbo:successor rdf:resource="http://dbpedia.org/resource/Hamao_Arata" />
+    <dbp:after rdf:resource="http://dbpedia.org/resource/Hamao_Arata" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hamao_Arata">
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoLegalActor" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoLegalActorGeo" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Adult109605289" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Person100007846" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Object100002684" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PhysicalEntity100001930" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Educator110045713" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatPeopleFromHyōgoPrefecture" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Organism100004475" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Person" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Whole100003553" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/LivingThing100004258" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/CausalAgent100007347" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Professional110480253" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatJapaneseEducators" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatPeopleOfMeiji-periodJapan" />
+    <rdfs:label xml:lang="en">Hamao Arata</rdfs:label>
+    <rdfs:label xml:lang="fr">Hamao Arata</rdfs:label>
+    <rdfs:label xml:lang="ja">濱尾新</rdfs:label>
+    <rdfs:comment xml:lang="fr">Le vicomte Hamao Arata (濱尾 新) (né le 20 avril 1849, mort le 25 septembre 1925) est un homme politique et éducateur japonais de l&#39;ère Meiji, originaire de Toyooka. Il est actif au sein du Monkasho et comme président d&#39;institutions telles que l&#39;Université impériale de Tokyo. Hamao occupe également, très brièvement, le poste de Lord Gardien du sceau privé du Japon.</rdfs:comment>
+    <rdfs:comment xml:lang="ja">濱尾 新（はまお あらた、1849年5月12日（嘉永2年4月20日） - 1925年（大正14年）9月25日）は日本の教育行政官、政治家。子爵。文部大臣、東京帝国大学総長、内大臣、貴族院議員、東宮御学問所・東宮大夫副総裁、枢密院議長。</rdfs:comment>
+    <rdfs:comment xml:lang="en">Viscount Hamao Arata (濱尾 新, May 12, 1849 - September 25, 1925) was a Japanese politician and educator of the Meiji period, originally hailing from Toyooka, Hyōgo. He was active in the Monbu-shō (present Monka-shō) and as the president of institutions such as Tokyo Imperial University. Hamao was also, very briefly, Lord Keeper of the Privy Seal of Japan. He was ennobled as a baron on 23 September 1907 and advanced to viscount on 25 November 1921.</rdfs:comment>
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Hamao_Arata" />
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.03cq9ft" />
+    <owl:sameAs rdf:resource="http://d-nb.info/gnd/116422033" />
+    <owl:sameAs rdf:resource="http://ja.dbpedia.org/resource/濱尾新" />
+    <owl:sameAs rdf:resource="http://fr.dbpedia.org/resource/Hamao_Arata" />
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q3126340" />
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q3126340" />
+    <owl:sameAs rdf:resource="http://yago-knowledge.org/resource/Hamao_Arata" />
+    <dbo:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1925-9-25</dbo:deathDate>
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Toyooka,_Hyōgo" />
+    <dbo:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1849-4-20</dbo:birthDate>
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:1849_births" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Kazoku" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Japanese_educators" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:People_of_Meiji-period_Japan" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:1925_deaths" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:People_from_Hyōgo_Prefecture" />
+    <dbo:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">13988781</dbo:wikiPageID>
+    <dbo:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">704721917</dbo:wikiPageRevisionID>
+    <foaf:name xml:lang="en">Hamao Arata</foaf:name>
+    <foaf:depiction rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Arata_Hamao.jpg" />
+    <dct:description xml:lang="en">Japanese noble</dct:description>
+    <foaf:givenName xml:lang="en">Arata</foaf:givenName>
+    <foaf:gender xml:lang="en">male</foaf:gender>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Hamao_Arata" />
+    <dbo:thumbnail rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Arata_Hamao.jpg?width=300" />
+    <prov:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Hamao_Arata?oldid=704721917" />
+    <dbo:abstract xml:lang="en">Viscount Hamao Arata (濱尾 新, May 12, 1849 - September 25, 1925) was a Japanese politician and educator of the Meiji period, originally hailing from Toyooka, Hyōgo. He was active in the Monbu-shō (present Monka-shō) and as the president of institutions such as Tokyo Imperial University. Hamao was also, very briefly, Lord Keeper of the Privy Seal of Japan. He was ennobled as a baron on 23 September 1907 and advanced to viscount on 25 November 1921.</dbo:abstract>
+    <dbo:abstract xml:lang="fr">Le vicomte Hamao Arata (濱尾 新) (né le 20 avril 1849, mort le 25 septembre 1925) est un homme politique et éducateur japonais de l&#39;ère Meiji, originaire de Toyooka. Il est actif au sein du Monkasho et comme président d&#39;institutions telles que l&#39;Université impériale de Tokyo. Hamao occupe également, très brièvement, le poste de Lord Gardien du sceau privé du Japon.</dbo:abstract>
+    <dbo:abstract xml:lang="ja">濱尾 新（はまお あらた、1849年5月12日（嘉永2年4月20日） - 1925年（大正14年）9月25日）は日本の教育行政官、政治家。子爵。文部大臣、東京帝国大学総長、内大臣、貴族院議員、東宮御学問所・東宮大夫副総裁、枢密院議長。</dbo:abstract>
+    <dbp:after rdf:resource="http://dbpedia.org/resource/Saionji_Kinmochi" />
+    <dbp:after rdf:resource="http://dbpedia.org/resource/Yamakawa_Kenjirō" />
+    <dbp:before rdf:resource="http://dbpedia.org/resource/Matsui_Naokichi" />
+    <dbp:before rdf:resource="http://dbpedia.org/resource/Hachisuka_Mochiaki" />
+    <dbp:title rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">11</dbp:title>
+    <dbp:title rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">8</dbp:title>
+    <dbp:years rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1897</dbp:years>
+    <dbp:years rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1905</dbp:years>
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Politician" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Orata_Hamao">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Hamao_Arata" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Hamao_Arata">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Hamao_Arata" />
+  </rdf:Description>
+</rdf:RDF>

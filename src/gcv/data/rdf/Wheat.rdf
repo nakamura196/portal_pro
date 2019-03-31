@@ -1,0 +1,424 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:dct="http://purl.org/dc/terms/"
+	xmlns:dbo="http://dbpedia.org/ontology/"
+	xmlns:dbp="http://dbpedia.org/property/"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:prov="http://www.w3.org/ns/prov#"
+	xmlns:ns8="http://purl.org/linguistics/gold/" >
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Economy_of_Uruguay">
+    <dbp:exportGoods rdf:resource="http://dbpedia.org/resource/Wheat" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Frumenty">
+    <dbo:ingredient rdf:resource="http://dbpedia.org/resource/Wheat" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Wheat">
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q756" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Plant" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Species" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Eukaryote" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Content105809192" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Idea105833840" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Cognition100023271" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Genus105845013" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Kind105839024" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Category105838765" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Concept105835747" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatPoaceaeGenera" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PsychologicalFeature100023100" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q19088" />
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Abstraction100002137" />
+    <rdfs:label xml:lang="ar">قمح</rdfs:label>
+    <rdfs:label xml:lang="nl">Tarwe</rdfs:label>
+    <rdfs:label xml:lang="fr">Blé</rdfs:label>
+    <rdfs:label xml:lang="en">Wheat</rdfs:label>
+    <rdfs:label xml:lang="es">Triticum</rdfs:label>
+    <rdfs:label xml:lang="ru">Пшеница</rdfs:label>
+    <rdfs:label xml:lang="it">Triticum</rdfs:label>
+    <rdfs:label xml:lang="pt">Trigo</rdfs:label>
+    <rdfs:label xml:lang="ja">コムギ</rdfs:label>
+    <rdfs:label xml:lang="zh">小麦</rdfs:label>
+    <rdfs:label xml:lang="de">Weizen</rdfs:label>
+    <rdfs:label xml:lang="pl">Pszenica</rdfs:label>
+    <rdfs:comment xml:lang="fr">Triticum  Pour l’article homonyme, voir la couleur blé ; la commune burkinabé Blé (Burkina Faso). TriticumFichier:Wheat field.jpg Plants de blé Genre TriticumL., 1753 Classification APG III (2009) Espèces de rang inférieur « Blé » est un terme générique qui désigne plusieurs céréales appartenant au genre Triticum. Ce sont des plantes annuelles de la famille des graminées ou Poacées, cultivées dans de très nombreux pays. Le mot « blé » désigne également le « grain » (caryopse) produit par ces plantes.</rdfs:comment>
+    <rdfs:comment xml:lang="pl">Pszenica (Triticum L.) – rodzaj zbóż z rodziny wiechlinowatych. Pochodzi z południowo-zachodniej i środkowej Azji. Wyróżnia się około 20 gatunków pszenicy i około 10 mieszańców międzygatunkowych. Oprócz jęczmienia jest najdawniej uprawianym zbożem. Zajmuje trzecie (po kukurydzy i ryżu) miejsce w światowej produkcji zbóż.</rdfs:comment>
+    <rdfs:comment xml:lang="ja">コムギ（小麦、英名: Wheat）は、イネ科コムギ属に属する一年草の植物。一般的にはパンコムギ（学名: Triticum aestivum）を指すが、広義にはT. compactum（クラブコムギ、英: club wheat）や T. durum（デュラムコムギ、英: Durum wheat、マカロニコムギ、英: Macaroni wheat）などコムギ属 (学名: Triticum、英: Wheat) 植物全般を指す。世界三大穀物の一つ。古くから栽培され、世界で最も生産量の多い穀物のひとつである。年間生産量は約7.3億トンであり、これはトウモロコシの約10.4億トンには及ばないが、米の約7.4億トンにほぼ近い（2014年）。 他の三大穀物と同じく基礎食料であり、各国で生産された小麦はまずは国内で消費され、剰余が輸出される。 日本国内において、麦（小麦・大麦・はだか麦）は食糧法により価格統制が存在する。</rdfs:comment>
+    <rdfs:comment xml:lang="ru">Пшени́ца (лат. Tríticum) — род травянистых, в основном однолетних, растений семейства Злаки, или Мятликовые (Poaceae), ведущая зерновая культура во многих странах. Получаемая из зёрен пшеницы мука идёт на выпекание хлеба, изготовление макаронных и кондитерских изделий. Пшеница также используется как кормовая культура, входит в некоторые рецепты приготовления пива и водки.</rdfs:comment>
+    <rdfs:comment xml:lang="pt">O trigo (Triticum spp.) é uma gramínea cultivada em todo o mundo. Globalmente, é a segunda maior cultura de cereais, a seguir ao milho; a terceira é o arroz. O grão de trigo é um alimento básico usado para fazer farinha e, com esta, o pão, na alimentação dos animais domésticos e como ingrediente no fabrico de cerveja. O trigo é também plantado estritamente como forragem para animais domésticos, como o feno.</rdfs:comment>
+    <rdfs:comment xml:lang="en">Wheat (Triticum spp., most commonly T. aestivum) is a cereal grain, (botanically, a type of fruit called a caryopsis) originally from the Levant region but now cultivated worldwide. In 2013, world production of wheat was 713 million tons, making it the third most-produced cereal after maize (1,016 million tons) and rice (745 million tons). Wheat was the second most-produced cereal in 2009; world production in that year was 682 million tons, after maize (817 million tons), and with rice as a close third (679 million tons).</rdfs:comment>
+    <rdfs:comment xml:lang="nl">Tarwe (Triticum) is een geslacht met de voornaamste granen waar de mensheid zich mee voedt, naast rijst en maïs. Het staat met maïs op een gedeelde eerste plaats. In Nederland werd in 2005 116.000 ha wintertarwe en ruim 20.600 ha zomertarwe geteeld. Tarwe is een zelfbestuiver.</rdfs:comment>
+    <rdfs:comment xml:lang="es">Trigo (Triticum spp)es el término que designa al conjunto de cereales, tanto cultivados como silvestres, que pertenecen al género Triticum; son plantas anuales de la familia de las gramíneas, ampliamente cultivadas en todo el mundo.La palabra trigo designa tanto a la planta como a sus semillas comestibles, tal como ocurre con los nombres de otros cereales.</rdfs:comment>
+    <rdfs:comment xml:lang="ar">القمح أو الحنطة جنس نبات حولي من الفصيلة النجيلية، وينتج القمح حبوباً مركبة على شكل سنابل حيث تعتبر هذه الحبوب الغذاء الرئيسي لكثير من شعوب العالم، لا ينافسها في هذا المجال إلا الذرة والأرز، حيث تتقاسم هذه الحبوب غذاء البشر على وجه الأرض. يزرع القمح في أكثر بلاد العالم مرة واحدة في السنة وفي بعض البلدان يزرع مرتين. والقمح له أنواع متعددة جداً، فمنها ما يصلح لعمل الخبز ومنه ما يصلح لعمل المعجنات أو المعكرونة. يزرع القمح في كثير من دول العالم بالاعتماد على ماء المطر في السقي، وفي بلدان أخرى يزرع بالاعتماد على الري بالواسطة.</rdfs:comment>
+    <rdfs:comment xml:lang="it">Il grano o frumento (Triticum L., 1753), detto anche tritico (in genere indica sia la pianta sia le cariossidi di tale pianta), è un genere della famiglia Poaceae (o &quot;graminacee&quot;), tribù Triticeae. È un cereale di antica coltura, l&#39;area localizzata è tra il Mar Mediterraneo, il Mar Nero e il Mar Caspio, meglio conosciuta come Mezzaluna Fertile. Quest&#39;area può essere considerata la culla delle graminacee attuali. Si divide in due tipi (classificazione che avviene in base alla difficoltà di macinazione): Grano tenero (che risulta facilmente frantumabile), da cui si ricava la farina, e grano duro (che oppone una maggiore resistenza allo sbriciolamento), da cui si ricava la semola. Esso cresce ovunque, tranne che nelle fasce tropicali. La pianta produce infiorescenze in spighe composte. I frut</rdfs:comment>
+    <rdfs:comment xml:lang="zh">小麥是小麥屬（Triticum）植物的統稱，是一種在世界各地廣泛種植的禾本科植物，最早起源於中東的新月沃土（Levant）地區。小麥是三大穀物之一，產量幾乎全作為食用，僅約有六分之一作為飼料使用。2013年，小麥是世界上總產量第三的糧食作物（7.13亿吨），僅次於玉米（8.44亿吨）和水稻（7.45亿吨）。</rdfs:comment>
+    <rdfs:comment xml:lang="de">Als Weizen wird eine Reihe von Pflanzenarten der Süßgräser (Poaceae) der Gattung Triticum L. bezeichnet. Als Getreide werden vor allem zwei Arten angebaut: Weichweizen und Hartweizen. Etymologisch leitet sich das Wort Weizen vom „weißen“ (hellen) Mehl und der hellen Farbe der Weizenfrucht ab.</rdfs:comment>
+    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/Weizen" />
+    <owl:sameAs rdf:resource="http://eu.dbpedia.org/resource/Gari" />
+    <owl:sameAs rdf:resource="http://yago-knowledge.org/resource/Triticum" />
+    <owl:sameAs rdf:resource="http://el.dbpedia.org/resource/Σιτάρι" />
+    <owl:sameAs rdf:resource="http://it.dbpedia.org/resource/Triticum" />
+    <owl:sameAs rdf:resource="http://nl.dbpedia.org/resource/Tarwe" />
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q15645384" />
+    <owl:sameAs rdf:resource="http://ko.dbpedia.org/resource/밀" />
+    <owl:sameAs rdf:resource="http://id.dbpedia.org/resource/Gandum" />
+    <owl:sameAs rdf:resource="http://pl.dbpedia.org/resource/Pszenica" />
+    <owl:sameAs rdf:resource="http://d-nb.info/gnd/4065287-7" />
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Wheat" />
+    <owl:sameAs rdf:resource="http://fr.dbpedia.org/resource/Blé" />
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q15645384" />
+    <owl:sameAs rdf:resource="http://ja.dbpedia.org/resource/コムギ" />
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.09696" />
+    <owl:sameAs rdf:resource="http://pt.dbpedia.org/resource/Trigo" />
+    <owl:sameAs rdf:resource="http://es.dbpedia.org/resource/Triticum" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Staple_foods" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Poaceae_genera" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Wheat" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Crops" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Energy_crops" />
+    <dbo:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">36858</dbo:wikiPageID>
+    <dbo:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">745220829</dbo:wikiPageRevisionID>
+    <dbo:wikiPageExternalLink rdf:resource="http://www.hort.purdue.edu/newcrop/crops/wheat.html" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.geochembio.com/biology/organisms/wheat/" />
+    <dbo:wikiPageExternalLink rdf:resource="http://ndb.nal.usda.gov/ndb/foods/show/6536?fgcd=&amp;manu=&amp;lfacet=&amp;format=Full&amp;count=&amp;max=35&amp;offset=&amp;sort=&amp;qlookup=20072Full" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.bioversityinternational.org/Publications/pubfile.asp?ID_PUB=54" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&amp;search_value=42236&amp;print_version=PRT&amp;source=to_print" />
+    <dbp:name rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Wheat, hard red winter</dbp:name>
+    <foaf:depiction rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Wheat_close-up.JPG" />
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Wheat" />
+    <dbo:thumbnail rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Wheat_close-up.JPG?width=300" />
+    <prov:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Wheat?oldid=745220829" />
+    <dbo:abstract xml:lang="ru">Пшени́ца (лат. Tríticum) — род травянистых, в основном однолетних, растений семейства Злаки, или Мятликовые (Poaceae), ведущая зерновая культура во многих странах. Получаемая из зёрен пшеницы мука идёт на выпекание хлеба, изготовление макаронных и кондитерских изделий. Пшеница также используется как кормовая культура, входит в некоторые рецепты приготовления пива и водки.</dbo:abstract>
+    <dbo:abstract xml:lang="fr">Triticum  Pour l’article homonyme, voir la couleur blé ; la commune burkinabé Blé (Burkina Faso). TriticumFichier:Wheat field.jpg Plants de blé Genre TriticumL., 1753 Classification APG III (2009) Espèces de rang inférieur 
+*  Triticum aestivum (blé tendre) 
+*  Triticum aethiopicum 
+*  Triticum araraticum 
+*  Triticum boeoticum 
+*  Triticum carthlicum 
+*  Triticum compactum (blé hérisson) 
+*  Triticum dicoccoides (amidonnier sauvage) 
+*  Triticum dicoccon (amidonnier) 
+*  Triticum durum (blé dur) 
+*  Triticum ispahanicum 
+*  Triticum karamyschevii 
+*  Triticum macha 
+*  Triticum militinae 
+*  Triticum monococcum (engrain ou petit épeautre) 
+*  Triticum polonicum 
+*  Triticum sinskajae (engrain nu) 
+*  Triticum spelta (grand épeautre) 
+*  Triticum sphaerococcum (blé indien) 
+*  Triticum timopheevii 
+*  Triticum turanicum (blé de Khorasan) 
+*  Triticum turgidum (blé poulard ou Kamut) 
+*  Triticum urartu 
+*  Triticum vavilovii 
+*  Triticum zhukovskyi « Blé » est un terme générique qui désigne plusieurs céréales appartenant au genre Triticum. Ce sont des plantes annuelles de la famille des graminées ou Poacées, cultivées dans de très nombreux pays. Le mot « blé » désigne également le « grain » (caryopse) produit par ces plantes. Le blé fait partie des trois grandes céréales avec le maïs et le riz. C&#39;est, avec environ 700 millions de tonnes annuelles, la troisième par l&#39;importance de la récolte mondiale et, avec le riz, la plus consommée par l&#39;homme. Le blé est, dans la civilisation occidentale et au Moyen-Orient, un composant central de l&#39;alimentation humaine. Deux espèces de blé ont été domestiquées au Proche-Orient à partir de deux blés sauvages. Sa consommation remonte à la plus haute Antiquité. Les premières cultures apparaissent au VIIIe millénaire av. J.-C., en Mésopotamie et dans les vallées du Tigre et de l&#39;Euphrate (aujourd&#39;hui l&#39;Irak), dans la région du Croissant fertile.</dbo:abstract>
+    <dbo:abstract xml:lang="nl">Tarwe (Triticum) is een geslacht met de voornaamste granen waar de mensheid zich mee voedt, naast rijst en maïs. Het staat met maïs op een gedeelde eerste plaats. In Nederland werd in 2005 116.000 ha wintertarwe en ruim 20.600 ha zomertarwe geteeld. Tarwe is een zelfbestuiver.</dbo:abstract>
+    <dbo:abstract xml:lang="es">Trigo (Triticum spp)es el término que designa al conjunto de cereales, tanto cultivados como silvestres, que pertenecen al género Triticum; son plantas anuales de la familia de las gramíneas, ampliamente cultivadas en todo el mundo.La palabra trigo designa tanto a la planta como a sus semillas comestibles, tal como ocurre con los nombres de otros cereales. El trigo (de color amarillo) es uno de los tres granos más ampliamente producidos globalmente, junto al maíz y el arroz,y el más ampliamente consumido por la población occidental desde la antigüedad. El grano del trigo es utilizado para hacer harina, harina integral, sémola, cerveza (véase también: Historia de la cerveza) y una gran variedad de productos alimenticios. La palabra «trigo» proviene del vocablo latino triticum, que significa ‘quebrado’, ‘triturado’ o ‘trillado’, haciendo referencia a la actividad que se debe realizar para separar el grano de trigo de la cascarilla que lo recubre. Triticum significa, por lo tanto, el grano que es necesario trillar para poder ser consumido; tal como el mijo deriva del latín milium, que significa &quot;molido, molturado&quot;, o sea, el grano que es necesario moler para poder ser consumido. El trigo (triticum) es, por lo tanto, una de las palabras más ancestrales para denominar a los cereales (las que se referían a su trituración o molturación).</dbo:abstract>
+    <dbo:abstract xml:lang="zh">小麥是小麥屬（Triticum）植物的統稱，是一種在世界各地廣泛種植的禾本科植物，最早起源於中東的新月沃土（Levant）地區。小麥是三大穀物之一，產量幾乎全作為食用，僅約有六分之一作為飼料使用。2013年，小麥是世界上總產量第三的糧食作物（7.13亿吨），僅次於玉米（8.44亿吨）和水稻（7.45亿吨）。</dbo:abstract>
+    <dbo:abstract xml:lang="de">Als Weizen wird eine Reihe von Pflanzenarten der Süßgräser (Poaceae) der Gattung Triticum L. bezeichnet. Als Getreide werden vor allem zwei Arten angebaut: Weichweizen und Hartweizen. Etymologisch leitet sich das Wort Weizen vom „weißen“ (hellen) Mehl und der hellen Farbe der Weizenfrucht ab.</dbo:abstract>
+    <dbo:abstract xml:lang="en">Wheat (Triticum spp., most commonly T. aestivum) is a cereal grain, (botanically, a type of fruit called a caryopsis) originally from the Levant region but now cultivated worldwide. In 2013, world production of wheat was 713 million tons, making it the third most-produced cereal after maize (1,016 million tons) and rice (745 million tons). Wheat was the second most-produced cereal in 2009; world production in that year was 682 million tons, after maize (817 million tons), and with rice as a close third (679 million tons). This grain is grown on more land area than any other commercial food. World trade in wheat is greater than for all other crops combined. Globally, wheat is the leading source of vegetal protein in human food, having a higher protein content than the other major cereals maize (corn) and rice. In terms of total production tonnages used for food, it is currently second to rice as the main human food crop and ahead of maize, after allowing for maize&#39;s more extensive use in animal feeds. The archaeological record suggests that this first occurred in the regions known as the Fertile Crescent.</dbo:abstract>
+    <dbo:abstract xml:lang="pt">O trigo (Triticum spp.) é uma gramínea cultivada em todo o mundo. Globalmente, é a segunda maior cultura de cereais, a seguir ao milho; a terceira é o arroz. O grão de trigo é um alimento básico usado para fazer farinha e, com esta, o pão, na alimentação dos animais domésticos e como ingrediente no fabrico de cerveja. O trigo é também plantado estritamente como forragem para animais domésticos, como o feno.</dbo:abstract>
+    <dbo:abstract xml:lang="ar">القمح أو الحنطة جنس نبات حولي من الفصيلة النجيلية، وينتج القمح حبوباً مركبة على شكل سنابل حيث تعتبر هذه الحبوب الغذاء الرئيسي لكثير من شعوب العالم، لا ينافسها في هذا المجال إلا الذرة والأرز، حيث تتقاسم هذه الحبوب غذاء البشر على وجه الأرض. يزرع القمح في أكثر بلاد العالم مرة واحدة في السنة وفي بعض البلدان يزرع مرتين. والقمح له أنواع متعددة جداً، فمنها ما يصلح لعمل الخبز ومنه ما يصلح لعمل المعجنات أو المعكرونة. يزرع القمح في كثير من دول العالم بالاعتماد على ماء المطر في السقي، وفي بلدان أخرى يزرع بالاعتماد على الري بالواسطة. ويستخدم القمح في صنع الدقيق الذى يمكن من خلاله صنع الخبز والكعك والكثير من الأطعمة الشهية.</dbo:abstract>
+    <dbo:abstract xml:lang="it">Il grano o frumento (Triticum L., 1753), detto anche tritico (in genere indica sia la pianta sia le cariossidi di tale pianta), è un genere della famiglia Poaceae (o &quot;graminacee&quot;), tribù Triticeae. È un cereale di antica coltura, l&#39;area localizzata è tra il Mar Mediterraneo, il Mar Nero e il Mar Caspio, meglio conosciuta come Mezzaluna Fertile. Quest&#39;area può essere considerata la culla delle graminacee attuali. Si divide in due tipi (classificazione che avviene in base alla difficoltà di macinazione): Grano tenero (che risulta facilmente frantumabile), da cui si ricava la farina, e grano duro (che oppone una maggiore resistenza allo sbriciolamento), da cui si ricava la semola. Esso cresce ovunque, tranne che nelle fasce tropicali. La pianta produce infiorescenze in spighe composte. I frutti sono cariossidi o chicchi e, se macinati, producono farina. Il termine &quot;grano&quot; deriva dal latino granum (cfr. tra l&#39;irlandese gràn e l&#39;albanese gruni, e tra il gotico kaurna, l&#39;alto-tedesco antico corn e l&#39;inglese corn), dalla radice indoeuropea gar- (cfr. il sanscrito g&#39;arati) dal significato di &quot;triturare&quot;, &quot;fregare&quot;, &quot;scorticare&quot; da cui il greco antico gŷr-is (γῦρις), &quot;fior di farina&quot; (lett. &quot;il cereale da macinarsi&quot;). È anche possibile che &quot;grano&quot; derivi dalla radice ghar- (&quot;spargere&quot;) e che quindi il sanscrito g&#39;arati significhi &quot;la cosa che si sparge, si dissemina&quot;.</dbo:abstract>
+    <dbo:abstract xml:lang="pl">Pszenica (Triticum L.) – rodzaj zbóż z rodziny wiechlinowatych. Pochodzi z południowo-zachodniej i środkowej Azji. Wyróżnia się około 20 gatunków pszenicy i około 10 mieszańców międzygatunkowych. Oprócz jęczmienia jest najdawniej uprawianym zbożem. Zajmuje trzecie (po kukurydzy i ryżu) miejsce w światowej produkcji zbóż.</dbo:abstract>
+    <dbo:abstract xml:lang="ja">コムギ（小麦、英名: Wheat）は、イネ科コムギ属に属する一年草の植物。一般的にはパンコムギ（学名: Triticum aestivum）を指すが、広義にはT. compactum（クラブコムギ、英: club wheat）や T. durum（デュラムコムギ、英: Durum wheat、マカロニコムギ、英: Macaroni wheat）などコムギ属 (学名: Triticum、英: Wheat) 植物全般を指す。世界三大穀物の一つ。古くから栽培され、世界で最も生産量の多い穀物のひとつである。年間生産量は約7.3億トンであり、これはトウモロコシの約10.4億トンには及ばないが、米の約7.4億トンにほぼ近い（2014年）。 他の三大穀物と同じく基礎食料であり、各国で生産された小麦はまずは国内で消費され、剰余が輸出される。 日本国内において、麦（小麦・大麦・はだか麦）は食糧法により価格統制が存在する。</dbo:abstract>
+    <dbo:class rdf:resource="http://dbpedia.org/resource/Monocots" />
+    <dbo:division rdf:resource="http://dbpedia.org/resource/Angiosperms" />
+    <dbo:family rdf:resource="http://dbpedia.org/resource/Pooideae" />
+    <dbo:family rdf:resource="http://dbpedia.org/resource/Triticeae" />
+    <dbo:family rdf:resource="http://dbpedia.org/resource/Poaceae" />
+    <dbo:kingdom rdf:resource="http://dbpedia.org/resource/Plantae" />
+    <dbo:order rdf:resource="http://dbpedia.org/resource/Poales" />
+    <dbo:order rdf:resource="http://dbpedia.org/resource/Commelinids" />
+    <dbp:calciumMg rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">29</dbp:calciumMg>
+    <dbp:carbs rdf:datatype="http://dbpedia.org/datatype/gram">71.18</dbp:carbs>
+    <dbp:cholineMg rdf:datatype="http://www.w3.org/2001/XMLSchema#double">31.2</dbp:cholineMg>
+    <dbp:fat rdf:datatype="http://dbpedia.org/datatype/gram">1.54</dbp:fat>
+    <dbp:fiber rdf:datatype="http://dbpedia.org/datatype/gram">12.2</dbp:fiber>
+    <dbp:folateUg rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">38</dbp:folateUg>
+    <dbp:genus rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Triticum</dbp:genus>
+    <dbp:genusAuthority rdf:resource="http://dbpedia.org/resource/Carl_Linnaeus" />
+    <dbp:imageWidth rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">250</dbp:imageWidth>
+    <dbp:ironMg rdf:datatype="http://www.w3.org/2001/XMLSchema#double">3.19</dbp:ironMg>
+    <dbp:kj rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1368</dbp:kj>
+    <dbp:magnesiumMg rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">126</dbp:magnesiumMg>
+    <dbp:manganeseMg rdf:datatype="http://www.w3.org/2001/XMLSchema#double">3.985</dbp:manganeseMg>
+    <dbp:niacinMg rdf:datatype="http://www.w3.org/2001/XMLSchema#double">5.464</dbp:niacinMg>
+    <dbp:note rdf:resource="http://ndb.nal.usda.gov/ndb/foods/show/6536?fgcd=&amp;manu=&amp;lfacet=&amp;format=Full&amp;count=&amp;max=35&amp;offset=&amp;sort=&amp;qlookup=20072Full" />
+    <dbp:opt1n rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Selenium</dbp:opt1n>
+    <dbp:opt1v rdf:datatype="http://www.w3.org/2001/XMLSchema#double">70.7</dbp:opt1v>
+    <dbp:pantothenicMg rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.954</dbp:pantothenicMg>
+    <dbp:phosphorusMg rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">288</dbp:phosphorusMg>
+    <dbp:potassiumMg rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">363</dbp:potassiumMg>
+    <dbp:protein rdf:datatype="http://dbpedia.org/datatype/gram">12.61</dbp:protein>
+    <dbp:riboflavinMg rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.115</dbp:riboflavinMg>
+    <dbp:sodiumMg rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</dbp:sodiumMg>
+    <dbp:sourceUsda rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</dbp:sourceUsda>
+    <dbp:subdivision rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Serial No. 42236 ITIS 2002-09-22</dbp:subdivision>
+    <dbp:subdivision rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">References:</dbp:subdivision>
+    <dbp:subdivisionRanks rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Species</dbp:subdivisionRanks>
+    <dbp:sugars rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.41</dbp:sugars>
+    <dbp:thiaminMg rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.383</dbp:thiaminMg>
+    <dbp:vitb6Mg rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.3</dbp:vitb6Mg>
+    <dbp:viteMg rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.01</dbp:viteMg>
+    <dbp:vitkUg rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.9</dbp:vitkUg>
+    <dbp:water rdf:datatype="http://dbpedia.org/datatype/gram">13.1</dbp:water>
+    <dbp:zincMg rdf:datatype="http://www.w3.org/2001/XMLSchema#double">2.65</dbp:zincMg>
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Grain" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bissli">
+    <dbp:type rdf:resource="http://dbpedia.org/resource/Wheat" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Adler_Seeds">
+    <dbo:product rdf:resource="http://dbpedia.org/resource/Wheat" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Shambar">
+    <dbo:ingredient rdf:resource="http://dbpedia.org/resource/Wheat" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Triticum_(genus)">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Wheat" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Cracked_wheat">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Wheat" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Spelt">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Wheat" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kansar">
+    <dbo:ingredient rdf:resource="http://dbpedia.org/resource/Wheat" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/T&#39;anta_wawa">
+    <dbo:ingredient rdf:resource="http://dbpedia.org/resource/Wheat" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vispipuuro">
+    <dbo:ingredient rdf:resource="http://dbpedia.org/resource/Wheat" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Wheats">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Wheat" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kasha">
+    <dbo:ingredient rdf:resource="http://dbpedia.org/resource/Wheat" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ga&#39;at">
+    <dbo:ingredient rdf:resource="http://dbpedia.org/resource/Wheat" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Wheat_allergy">
+    <dbp:caption rdf:resource="http://dbpedia.org/resource/Wheat" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Anadama_bread">
+    <dbo:ingredient rdf:resource="http://dbpedia.org/resource/Wheat" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Salt-rising_bread">
+    <dbo:ingredient rdf:resource="http://dbpedia.org/resource/Wheat" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Thalipeeth">
+    <dbo:ingredient rdf:resource="http://dbpedia.org/resource/Wheat" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Wheatena">
+    <dbo:ingredient rdf:resource="http://dbpedia.org/resource/Wheat" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Genetically_modified_wheat">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Wheat" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Demeter">
+    <dbp:symbol rdf:resource="http://dbpedia.org/resource/Wheat" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mote_con_huesillo">
+    <dbo:ingredient rdf:resource="http://dbpedia.org/resource/Wheat" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Charles_E._Saunders">
+    <dbo:knownFor rdf:resource="http://dbpedia.org/resource/Wheat" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Groat_(grain)">
+    <dbo:ingredient rdf:resource="http://dbpedia.org/resource/Wheat" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Cuccìa">
+    <dbo:ingredient rdf:resource="http://dbpedia.org/resource/Wheat" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Harees">
+    <dbo:ingredient rdf:resource="http://dbpedia.org/resource/Wheat" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Koliva">
+    <dbo:ingredient rdf:resource="http://dbpedia.org/resource/Wheat" />
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Wheat" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Borș_(bran)">
+    <dbo:ingredient rdf:resource="http://dbpedia.org/resource/Wheat" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Triticum_carthlicum">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Wheat" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Toobs">
+    <dbo:ingredient rdf:resource="http://dbpedia.org/resource/Wheat" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Aya_Group">
+    <dbo:product rdf:resource="http://dbpedia.org/resource/Wheat" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Chairo_(stew)">
+    <dbo:ingredient rdf:resource="http://dbpedia.org/resource/Wheat" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Wheat_leaf_rust">
+    <dbp:hosts rdf:resource="http://dbpedia.org/resource/Wheat" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Fusarium_crown_rot_of_wheat">
+    <dbp:hosts rdf:resource="http://dbpedia.org/resource/Wheat" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Croatian_Syrmian_Initiative">
+    <dbo:colour rdf:resource="http://dbpedia.org/resource/Wheat" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Toyga_soup">
+    <dbo:ingredient rdf:resource="http://dbpedia.org/resource/Wheat" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/SLC_Agrícola">
+    <dbo:product rdf:resource="http://dbpedia.org/resource/Wheat" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Emmer">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Wheat" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Triticum">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Wheat" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gruel">
+    <dbo:ingredient rdf:resource="http://dbpedia.org/resource/Wheat" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Upma">
+    <dbo:ingredient rdf:resource="http://dbpedia.org/resource/Wheat" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Burebrot">
+    <dbo:ingredient rdf:resource="http://dbpedia.org/resource/Wheat" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Močnik">
+    <dbo:ingredient rdf:resource="http://dbpedia.org/resource/Wheat" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Exponential_growth">
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Wheat" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Apurímac_Region">
+    <dbp:resources rdf:resource="http://dbpedia.org/resource/Wheat" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Daktyla">
+    <dbo:ingredient rdf:resource="http://dbpedia.org/resource/Wheat" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/ATC_code_A06AC07">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Wheat" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/ATCvet_code_QA06AC07">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Wheat" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Arequipa_Region">
+    <dbp:resources rdf:resource="http://dbpedia.org/resource/Wheat" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Pitepalt">
+    <dbo:ingredient rdf:resource="http://dbpedia.org/resource/Wheat" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tartu_Mill">
+    <dbo:product rdf:resource="http://dbpedia.org/resource/Wheat" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Spot_blotch_(wheat)">
+    <dbp:hosts rdf:resource="http://dbpedia.org/resource/Wheat" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Broa">
+    <dbo:ingredient rdf:resource="http://dbpedia.org/resource/Wheat" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Brown_bread">
+    <dbo:ingredient rdf:resource="http://dbpedia.org/resource/Wheat" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Provisional_Government_of_Oregon">
+    <dbo:currency rdf:resource="http://dbpedia.org/resource/Wheat" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Samanu">
+    <dbo:ingredient rdf:resource="http://dbpedia.org/resource/Wheat" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Triticum_timopheevii">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Wheat" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Creier_pane">
+    <dbo:ingredient rdf:resource="http://dbpedia.org/resource/Wheat" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Triticum_zhukovskyi">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Wheat" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Scone">
+    <dbo:ingredient rdf:resource="http://dbpedia.org/resource/Wheat" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tom_Stout">
+    <dbo:profession rdf:resource="http://dbpedia.org/resource/Wheat" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Triticum_compactum">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Wheat" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mriya_Agro_Holding">
+    <dbo:product rdf:resource="http://dbpedia.org/resource/Wheat" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Haleem">
+    <dbo:ingredient rdf:resource="http://dbpedia.org/resource/Wheat" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Emblem_of_the_Kazakh_Soviet_Socialist_Republic">
+    <dbp:supporters rdf:resource="http://dbpedia.org/resource/Wheat" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Pastiera">
+    <dbo:ingredient rdf:resource="http://dbpedia.org/resource/Wheat" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Emblem_of_the_Latvian_Soviet_Socialist_Republic">
+    <dbp:supporters rdf:resource="http://dbpedia.org/resource/Wheat" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Emblem_of_the_Ukrainian_Soviet_Socialist_Republic">
+    <dbp:supporters rdf:resource="http://dbpedia.org/resource/Wheat" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sutarfeni">
+    <dbo:ingredient rdf:resource="http://dbpedia.org/resource/Wheat" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Elixir_Group">
+    <dbo:product rdf:resource="http://dbpedia.org/resource/Wheat" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Carl_W._Riddick">
+    <dbo:profession rdf:resource="http://dbpedia.org/resource/Wheat" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Churma">
+    <dbo:ingredient rdf:resource="http://dbpedia.org/resource/Wheat" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tunnbröd">
+    <dbo:ingredient rdf:resource="http://dbpedia.org/resource/Wheat" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Wheat_yellow_leaf_virus">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Wheat" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Henry_McKechnie">
+    <dbo:occupation rdf:resource="http://dbpedia.org/resource/Wheat" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jianbing">
+    <dbo:ingredient rdf:resource="http://dbpedia.org/resource/Wheat" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bhalia_Wheat">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Wheat" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Wheat_grain">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Wheat" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Triticum_spp.">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Wheat" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Wheat_grains">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Wheat" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/List_of_Late_Night_with_Conan_O&#39;Brien_episodes_(season_11)">
+    <dbp:guests rdf:resource="http://dbpedia.org/resource/Wheat" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Dwarf_wheat">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Wheat" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Wheat">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Wheat" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Triticum_sphaerococcum">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Wheat" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Triticum_turgidum">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Wheat" />
+  </rdf:Description>
+</rdf:RDF>

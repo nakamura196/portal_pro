@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:dct="http://purl.org/dc/terms/"
+	xmlns:dbo="http://dbpedia.org/ontology/"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:prov="http://www.w3.org/ns/prov#"
+	xmlns:dbp="http://dbpedia.org/property/"
+	xmlns:ns8="http://purl.org/linguistics/gold/" >
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nicole_Grasset">
+    <dbo:knownFor rdf:resource="http://dbpedia.org/resource/Smallpox" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Dryvax">
+    <dbp:target rdf:resource="http://dbpedia.org/resource/Smallpox" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Smallpox_survivors">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Smallpox" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/ACAM2000">
+    <dbp:target rdf:resource="http://dbpedia.org/resource/Smallpox" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Edmund_Quincy_(1681–1737)">
+    <dbo:deathCause rdf:resource="http://dbpedia.org/resource/Smallpox" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nicasius_of_Rheims">
+    <dbp:patronage rdf:resource="http://dbpedia.org/resource/Smallpox" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Frank_Fenner">
+    <dbo:knownFor rdf:resource="http://dbpedia.org/resource/Smallpox" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Variola">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Smallpox" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Variola_vera">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Smallpox" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Donald_Henderson">
+    <dbo:knownFor rdf:resource="http://dbpedia.org/resource/Smallpox" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lagaisse">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Smallpox" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Pacomio">
+    <dbo:deathCause rdf:resource="http://dbpedia.org/resource/Smallpox" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Poxvirus_variolae">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Smallpox" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Smallpox_virus">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Smallpox" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Variola_virus">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Smallpox" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Small_Pox">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Smallpox" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Charles_Boarman_(pioneer)">
+    <dbo:deathCause rdf:resource="http://dbpedia.org/resource/Smallpox" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Smallpocks">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Smallpox" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Chickenpox">
+    <owl:differentFrom rdf:resource="http://dbpedia.org/resource/Smallpox" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Pox">
+    <dbo:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/Smallpox" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Smallpox">
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q12136" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Disease" />
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing" />
+    <rdfs:label xml:lang="ru">Натуральная оспа</rdfs:label>
+    <rdfs:label xml:lang="pl">Ospa prawdziwa</rdfs:label>
+    <rdfs:label xml:lang="ja">天然痘</rdfs:label>
+    <rdfs:label xml:lang="pt">Varíola</rdfs:label>
+    <rdfs:label xml:lang="es">Viruela</rdfs:label>
+    <rdfs:label xml:lang="zh">天花</rdfs:label>
+    <rdfs:label xml:lang="nl">Pokken</rdfs:label>
+    <rdfs:label xml:lang="en">Smallpox</rdfs:label>
+    <rdfs:label xml:lang="ar">جدري</rdfs:label>
+    <rdfs:label xml:lang="it">Vaiolo</rdfs:label>
+    <rdfs:label xml:lang="fr">Variole</rdfs:label>
+    <rdfs:label xml:lang="de">Pocken</rdfs:label>
+    <rdfs:comment xml:lang="pt">A varíola foi uma doença infectocontagiosa. É causada por um Orthopoxvirus, um dos maiores vírus que infectam os seres humanos, com cerca de 300 nanômetros de diâmetro, o que é suficientemente grande para ser visto como um ponto ao microscópio óptico (o único outro vírus que causa doença também visível desta forma é o vírus do molusco contagioso). O vírus tem envelope (membrana lípidica própria). O seu genoma é dos mais complexos existentes. O vírus fabrica as suas proteínas e replica-se numa área localizada do citoplasma da célula hóspede, sendo um dos poucos vírus com essa capacidade de se localizar em corpos de inclusão de Guarnieri, ou fábricas. O seu genoma é de quase 100 000 pares de bases, um dos maiores genomas virais.</rdfs:comment>
+    <rdfs:comment xml:lang="en">Smallpox was an infectious disease caused by either of two virus variants, Variola major and Variola minor. The disease is also known by the Latin names variola or variola vera, derived from varius (&quot;spotted&quot;) or varus (&quot;pimple&quot;). The disease was originally known in English as the &quot;pox&quot; or &quot;red plague&quot;; the term &quot;smallpox&quot; was first used in Britain in the 15th century to distinguish variola from the &quot;great pox&quot; (syphilis). The last naturally occurring case of smallpox (Variola minor) was diagnosed on 26 October 1977.</rdfs:comment>
+    <rdfs:comment xml:lang="it">Il vaiolo è stata una malattia infettiva causata da due varianti del virus Variola, la Variola maior e la Variola minor. La malattia è anche conosciuta con i termini latini variola o variola vera (dal tardo latino variŏla, derivato da varius, a significare vario, chiazzato), mentre il termine inglese smallpox venne coniato nel Regno Unito nel XV secolo per distinguerla dalla sifilide, denominata great pox.</rdfs:comment>
+    <rdfs:comment xml:lang="fr">La variole ou petite vérole est une maladie infectieuse d&#39;origine virale, très contagieuse et épidémique, due à un poxvirus. Le mot variole vient du latin varus, i (qui signifie « pustule ») et de varius, a, um (qui signifie « moucheté »). En effet, la variole se caractérise en quelque sorte par un « mouchetage de pustules ». Elle a été totalement éradiquée le 26 octobre 1977 (date du dernier cas connu en Somalie, un cuisinier hospitalier), grâce à une campagne de l&#39;Organisation mondiale de la santé (OMS) combinant des campagnes de vaccination massive, dès 1958, avec une « stratégie de surveillance et d&#39;endiguement », mise en œuvre à partir de 1967. Au XXIe siècle, seuls des échantillons de ce virus sont conservés à des fins de recherche par des laboratoires habilités par l&#39;OMS. La variole</rdfs:comment>
+    <rdfs:comment xml:lang="ja">天然痘（てんねんとう、smallpox）は、天然痘ウイルス（Variola virus）を病原体とする感染症の一つである。非常に強い感染力を持ち、全身に膿疱を生ずる。仮に治癒しても瘢痕（一般的にあばたと呼ぶ）を残すことから、世界中で不治の病、悪魔の病気と恐れられてきた代表的な感染症。世界で初めて撲滅に成功した感染症でもある。 その大きな感染力、高い致死率（諸説あるが40%前後とみられる）のため、時に国や民族が滅ぶ原因となった事すらある。疱瘡（ほうそう）、痘瘡（とうそう）ともいう。医学界では一般に痘瘡の語が用いられた。</rdfs:comment>
+    <rdfs:comment xml:lang="zh">天花是一種由天花病毒引起之人類傳染病。患者一般在染病後的12天內，出現包括發燒、肌肉疼痛、頭痛等近似普通感冒的症狀。幾天後，其口咽部分的粘膜會長出紅點，身體多處地方亦會長出皮疹（以臉部居多）。天花病毒共有兩類：主天花病毒及次天花病毒。根據患者的病情發展，由前者引發之天花又被劃分為四種形式：典型、惡性、出血型、緩和型。其中，多數未曾接種疫苗的人士均出現典型天花的症狀。次天花病毒引起之病變程度比上述四種的都要溫和，但卻非常罕見。 天花主要透過空氣傳播。患者的呼吸道與皮膚皰疹分泌物均載有病毒，故避免與其近距離接觸可減低患病的風險。多種痘病毒疾病的病癥均與天花的如出一轍。專家需利用絨毛尿囊膜進行病毒培植以確定天花病毒的存在，聚合酶鏈式反應及限制性片段長度多態性測試可提供更多病毒的細節。接種天花疫苗為預防此病的最佳方法。目前並沒有認可的抗天花藥物。一旦出現確診病例，醫護人員會為病人注射疫苗提升免疫保護，有時亦會配以舒緩性療法加大療效。天花病毒不會造成慢性或復發性感染，但會導致各類併發症或後遺症（如失明）。不同類型的天花所引發的病死率有所參差；最為常見的典型天花約奪取了三成病患者的性命。</rdfs:comment>
+    <rdfs:comment xml:lang="pl">Ospa prawdziwa, inaczej czarna ospa (łac. Variola vera) – wirusowa choroba zakaźna o ostrym przebiegu wywoływana przez jedną z dwóch odmian wirusa ospy prawdziwej (variola minor lub variola maior). Okres inkubacji trwa od 7 do 17 dni, średnio 13 dni. Chorobę cechuje śmiertelność u osób szczepionych około 3% (dla najczęściej spotykanej odmiany), a u nieszczepionych średnio 30% (istnieją postacie choroby o śmiertelności szacowanej na 95%). Ostatni przypadek ospy prawdziwej miał miejsce w 1978, a choroba ta została uznana za eradykowaną w 1980.</rdfs:comment>
+    <rdfs:comment xml:lang="ru">Натуральная или чёрная о́спа (лат. Variola, Variola vera) — высокозаразная вирусная инфекция. Её вызывают два вида вирусов: Variola major (летальность 20—40 %, по некоторым данным — до 90 %) и Variola minor (летальность 1—3 %), которые относятся к семейству Poxviridae, подсемейства Chordopoxvirinae, рода Orthopoxvirus. Люди, выживающие после оспы, могут частично или полностью терять зрение, и практически всегда на коже остаются многочисленные рубцы в местах бывших язв. Последний случай заражения оспой был зарегистрирован 26 октября 1977 года в сомалийском городе Марка.</rdfs:comment>
+    <rdfs:comment xml:lang="de">Die Pocken (auch Blattern; lateinisch Variola) waren eine für den Menschen gefährliche Infektionskrankheit, die von Pockenviren verursacht wurde. Seit den letzten Erkrankungen im Jahr 1977 in Somalia sind keine Pockenfälle mehr aufgetreten; der letzte Fall in Deutschland trat im Jahr 1972 in Hannover durch die Rückreise eines jugoslawischen Gastarbeiters aus den betroffenen Gebieten im Kosovo während der grassierenden Pockenepidemie in Jugoslawien auf. Durch ein konsequentes Impf- und Bekämpfungsprogramm der WHO und anderer Gesundheitsorganisationen wurde erreicht, dass im Jahr 1980 die Welt von der WHO für pockenfrei erklärt werden konnte, weil der Erreger nur durch den Menschen weitergegeben werden kann. Dennoch sind weitere Pockeninfektionen nicht völlig ausgeschlossen. Offiziell existi</rdfs:comment>
+    <rdfs:comment xml:lang="es">La viruela fue una enfermedad infecciosa grave, contagiosa, causada por el Variola virus, que en algunos casos podía provocar la muerte. No hubo nunca tratamiento especial para la viruela y las únicas formas de prevención eran la inoculación o la vacunación. El nombre viruela proviene del latín variŭs (variado, variopinto), y se refiere a los abultamientos que se presentan en la cara y en el cuerpo de una persona infectada. Según la OMS, la viruela ha sido completamente erradicada. La viruela y la peste bovina son las dos únicas enfermedades que han sido totalmente erradicadas de la naturaleza por el ser humano.</rdfs:comment>
+    <rdfs:comment xml:lang="ar">جُـدَرِيّ أو جَـدَرِيّ هو أول مرض ينتصر عليه البشر. فتك الجـدَرِيّ وشوه وسبّب العمى لملايين الضحايا عبر تاريخه الطويل. ينشأ الجـدَرِيّ نتيجة للعدوى بفيروس ينتقل من المصابين إلى الأصحاء. ويظهر طفح يشبه البثور علىجلد المريض، ثم تتكون قشرة على البثور ما تلبث أن تسقط تاركة ندبة فيمكانها. وليس للجدري علاج. كما يموت 20% من ضحاياه، ويصاب الباقي بتشوهاتمستديمة، ويصاب البعض بالعمى. وفي سنة 1796، قام الطبيب الإنجليزي إدوارد جينر بتحضير أول لقاح ضد الجدري. وبحلول أربعينيات القرن السابق، اختفىالجدري من أوروبا وأمريكا الشمالية. وفي سنة 1967، بدأت منظمة الصحة العالمية في تنظيم حملة للقضاء عليه. وفي سنة 1977، ظهرت آخر إصابة بالجدري في الصومال؛ وفي سنة 1980، أعلنت المنظمة أنها نجحت في القضاءعلى المرض.</rdfs:comment>
+    <rdfs:comment xml:lang="nl">Pokken of variola was een uiterst besmettelijke en levensbedreigende virusziekte die de mensheid eeuwenlang heeft geteisterd. Zo is in de afgelopen drieduizend jaar één op de tien mensen gestorven aan het pokkenvirus. Diegenen die een epidemie overleefden, beschikten daarna vaak over voldoende afweer, maar contact met nieuwe volken kon daarna desastreus zijn, zoals het geval was in Amerika door de Columbiaanse uitwisseling. 1.  
+*  er een effectief vaccin bestaat; 2.  
+*  er geen symptoomloze dragers van de ziekte zijn en 3.  
+*  er geen dierlijk reservoir bestaat van de ziekteverwekker.</rdfs:comment>
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Smallpox_vaccine" />
+    <owl:sameAs rdf:resource="http://pt.dbpedia.org/resource/Varíola" />
+    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/Pocken" />
+    <owl:sameAs rdf:resource="http://ja.dbpedia.org/resource/天然痘" />
+    <owl:sameAs rdf:resource="http://fr.dbpedia.org/resource/Variole" />
+    <owl:sameAs rdf:resource="http://d-nb.info/gnd/4135714-0" />
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q12214" />
+    <owl:sameAs rdf:resource="http://eu.dbpedia.org/resource/Baztanga" />
+    <owl:sameAs rdf:resource="http://nl.dbpedia.org/resource/Pokken" />
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Smallpox" />
+    <owl:sameAs rdf:resource="http://id.dbpedia.org/resource/Variola" />
+    <owl:sameAs rdf:resource="http://el.dbpedia.org/resource/Ευλογιά" />
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.06vr2" />
+    <owl:sameAs rdf:resource="http://es.dbpedia.org/resource/Viruela" />
+    <owl:sameAs rdf:resource="http://cs.dbpedia.org/resource/Pravé_neštovice" />
+    <owl:sameAs rdf:resource="http://ko.dbpedia.org/resource/천연두" />
+    <owl:sameAs rdf:resource="http://pl.dbpedia.org/resource/Ospa_prawdziwa" />
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q12214" />
+    <owl:sameAs rdf:resource="http://it.dbpedia.org/resource/Vaiolo" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Virus-related_cutaneous_conditions" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Smallpox" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Chordopoxvirinae" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Poxviruses" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Eradicated_diseases" />
+    <dbo:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">16829895</dbo:wikiPageID>
+    <dbo:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">739249310</dbo:wikiPageRevisionID>
+    <dbo:wikiPageExternalLink rdf:resource="http://cherokeeregistry.com/index.php?option=com_content&amp;view=article&amp;id=407&amp;Itemid=617" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.upmc-biosecurity.org/website/focus/agents_diseases/fact_sheets/smallpox.html" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.smallpoxbiosafety.org" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.logicalimages.com/resourcesBTAgentsSmallpox.htm" />
+    <dbo:wikiPageExternalLink rdf:resource="https://books.google.com/?id=MxqIAjXv4ggC&amp;printsec=frontcover&amp;q" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.newyorker.com/magazine/1999/07/12/the-demon-in-the-freezer)" />
+    <dbo:wikiPageExternalLink rdf:resource="http://whqlibdoc.who.int/smallpox/9241561106.pdf" />
+    <dbo:wikiPageExternalLink rdf:resource="http://catalogue.nla.gov.au/Record/4729301/Cite" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.cidrap.umn.edu/cidrap/content/bt/smallpox/biofacts/index.html" />
+    <dbo:wikiPageExternalLink rdf:resource="https://books.google.com/books?id=Kx2919wvrT4C&amp;printsec=frontcover&amp;dq" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.viprbrc.org/brc/home.do?decorator=pox" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.poxvirus.org/query.asp?web_taxonomy=variola%20virus" />
+    <foaf:depiction rdf:resource="http://en.wikipedia.org/wiki/Special:FilePath/Child_with_Smallpox_Bangladesh.jpg" />
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Smallpox" />
+    <dbo:thumbnail rdf:resource="http://en.wikipedia.org/wiki/Special:FilePath/Child_with_Smallpox_Bangladesh.jpg?width=300" />
+    <prov:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Smallpox?oldid=739249310" />
+    <dbo:abstract xml:lang="es">La viruela fue una enfermedad infecciosa grave, contagiosa, causada por el Variola virus, que en algunos casos podía provocar la muerte. No hubo nunca tratamiento especial para la viruela y las únicas formas de prevención eran la inoculación o la vacunación. El nombre viruela proviene del latín variŭs (variado, variopinto), y se refiere a los abultamientos que se presentan en la cara y en el cuerpo de una persona infectada. Según la OMS, la viruela ha sido completamente erradicada. La viruela y la peste bovina son las dos únicas enfermedades que han sido totalmente erradicadas de la naturaleza por el ser humano.</dbo:abstract>
+    <dbo:abstract xml:lang="it">Il vaiolo è stata una malattia infettiva causata da due varianti del virus Variola, la Variola maior e la Variola minor. La malattia è anche conosciuta con i termini latini variola o variola vera (dal tardo latino variŏla, derivato da varius, a significare vario, chiazzato), mentre il termine inglese smallpox venne coniato nel Regno Unito nel XV secolo per distinguerla dalla sifilide, denominata great pox. Il virus del vaiolo si localizza a livello della piccola circolazione della cute, del cavo orale e della faringe. A livello cutaneo si manifesta con un&#39;eruzione maculo-papulare e, successivamente, con vescicole sollevate piene di liquido. La Variola maior è causa di manifestazioni cliniche più rilevanti ed è caratterizzata da una mortalità del 30-35%. Le complicanze a lungo termine includono cicatrici caratteristiche, soprattutto al volto, nel 65–85% di coloro che riescono a sopravvivere; possono inoltre manifestarsi, seppure con una minore prevalenza stimabile nel 2-5% dei casi, cecità, come conseguenza di ulcere corneali e successivi esiti cicatriziali, e deformità degli arti, a causa di episodi di artrite e osteomielite. La Variola minor causa una forma di malattia più lieve, nota anche come alastrim, che può condurre al decesso nell&#39;1% dei casi. Si ritiene che il vaiolo sia emerso nella popolazione umana circa nel X millennio a.C. e la prima prova fisica si può far risalire al rash pustoloso rilevato sulla mummia del faraone Ramses V. Si è stimato che la malattia abbia ucciso circa 400.000 europei ogni anno durante il XVIII secolo e sia stato responsabile di un terzo di tutti i casi di cecità. Di tutte le persone infettate morirono circa il 20-60% degli adulti e l&#39;80% dei bambini. Si ritiene che il vaiolo sia stata la causa di 300-500 milioni di decessi durante il XX secolo. Solo nel 1967, secondo i dati dell&#39;Organizzazione mondiale della sanità, 15 milioni di persone contrassero la malattia e di questi 2 milioni morirono. Dopo una massiccia campagna di vaccinazione portata avanti dal XIX secolo e condotta con un imponente sforzo congiunto tra il 1958 e il 1977, l&#39;OMS ha dichiarato nel 1979 la malattia eradicata, dopo che l&#39;ultimo caso di vaiolo contratto in natura, causato da Variola minor, era stato diagnosticato in Somalia il 26 ottobre 1977. Si è trattato dell&#39;unica malattia eradicata nella storia dell&#39;umanità fino al 2011, quando la peste bovina ha subito lo stesso destino.</dbo:abstract>
+    <dbo:abstract xml:lang="en">Smallpox was an infectious disease caused by either of two virus variants, Variola major and Variola minor. The disease is also known by the Latin names variola or variola vera, derived from varius (&quot;spotted&quot;) or varus (&quot;pimple&quot;). The disease was originally known in English as the &quot;pox&quot; or &quot;red plague&quot;; the term &quot;smallpox&quot; was first used in Britain in the 15th century to distinguish variola from the &quot;great pox&quot; (syphilis). The last naturally occurring case of smallpox (Variola minor) was diagnosed on 26 October 1977. Infection with smallpox is focused in small blood vessels of the skin and in the mouth and throat before disseminating. In the skin it results in a characteristic maculopapular rash and, later, raised fluid-filled blisters. V. major produced a more serious disease and had an overall mortality rate of 30–35 percent. V. minor caused a milder form of disease (also known as alastrim, cottonpox, milkpox, whitepox, and Cuban itch) which killed about 1 percent of its victims. Long-term complications of V. major infection included characteristic scars, commonly on the face, which occur in 65–85 percent of survivors. Blindness resulting from corneal ulceration and scarring, and limb deformities due to arthritis and osteomyelitis were less common complications, seen in about 2–5 percent of cases. Smallpox is believed to have emerged in human populations about 10,000 BC. The earliest physical evidence of it is probably the pustular rash on the mummified body of Pharaoh Ramses V of Egypt. The disease killed an estimated 400,000 Europeans annually during the closing years of the 18th century (including five reigning monarchs), and was responsible for a third of all blindness. Of all those infected, 20–60 percent—and over 80 percent of infected children—died from the disease. Smallpox was responsible for an estimated 300–500 million deaths during the 20th century. As recently as 1967, the World Health Organization (WHO) estimated that 15 million people contracted the disease and that two million died in that year. After vaccination campaigns throughout the 19th and 20th centuries, the WHO certified the global eradication of smallpox in 1979. Smallpox is one of two infectious diseases to have been eradicated, the other being rinderpest, which was declared eradicated in 2011.</dbo:abstract>
+    <dbo:abstract xml:lang="nl">Pokken of variola was een uiterst besmettelijke en levensbedreigende virusziekte die de mensheid eeuwenlang heeft geteisterd. Zo is in de afgelopen drieduizend jaar één op de tien mensen gestorven aan het pokkenvirus. Diegenen die een epidemie overleefden, beschikten daarna vaak over voldoende afweer, maar contact met nieuwe volken kon daarna desastreus zijn, zoals het geval was in Amerika door de Columbiaanse uitwisseling. De ziekte wordt veroorzaakt door het pokkenvirus. Er zijn twee soorten: de minder gevaarlijke Variola minor en de bij niet-ingeënten meestal dodelijke Variola major. Er zijn ook diverse verwante dierlijke virussen, met name het koepokvirus, dat vaccinia (koepokken) veroorzaakt. Het doormaken van koepokken geeft een mens bescherming tegen pokken. Daartegen kon men zich door bewuste besmetting met koepokken dus beschermen; de term vaccineren is dan ook afgeleid van het Latijnse woord vacca (koe). Sinds de tweede helft van de jaren zeventig is de ziekte door een uitgebreide wereldwijde vaccinatiecampagne niet meer voorgekomen. Pokken was het eerste virus dat door de moderne wetenschap is uitgeroeid, en ook het enige, totdat op 14 oktober 2010 de runderpest uitgeroeid verklaard werd.Dit was alleen mogelijk doordat: 1.  
+*  er een effectief vaccin bestaat; 2.  
+*  er geen symptoomloze dragers van de ziekte zijn en 3.  
+*  er geen dierlijk reservoir bestaat van de ziekteverwekker. De genetische structuur van het pokkenvirus is inmiddels geheel bekend en blijkt bij bestudering ook wetenschappelijk zeer interessant te zijn. In enkele laboratoria wordt het virus nog bewaard. Het laatst bekende geval van pokken in de wereld deed zich in Engeland voor in september 1978, toen Janet Parker, een fotografe bij de medische faculteit van de universiteit van Birmingham de ziekte opliep en eraan overleed. Er was op dat moment in dat gebouw een pokken-onderzoeksproject gaande. De exacte besmettingsweg is echter nooit gevonden. Enige jaren daarvoor, in 1972, deed zich in Joegoslavië de laatste epidemie van wilde pokken in Europa voor.</dbo:abstract>
+    <dbo:abstract xml:lang="ar">جُـدَرِيّ أو جَـدَرِيّ هو أول مرض ينتصر عليه البشر. فتك الجـدَرِيّ وشوه وسبّب العمى لملايين الضحايا عبر تاريخه الطويل. ينشأ الجـدَرِيّ نتيجة للعدوى بفيروس ينتقل من المصابين إلى الأصحاء. ويظهر طفح يشبه البثور علىجلد المريض، ثم تتكون قشرة على البثور ما تلبث أن تسقط تاركة ندبة فيمكانها. وليس للجدري علاج. كما يموت 20% من ضحاياه، ويصاب الباقي بتشوهاتمستديمة، ويصاب البعض بالعمى. وفي سنة 1796، قام الطبيب الإنجليزي إدوارد جينر بتحضير أول لقاح ضد الجدري. وبحلول أربعينيات القرن السابق، اختفىالجدري من أوروبا وأمريكا الشمالية. وفي سنة 1967، بدأت منظمة الصحة العالمية في تنظيم حملة للقضاء عليه. وفي سنة 1977، ظهرت آخر إصابة بالجدري في الصومال؛ وفي سنة 1980، أعلنت المنظمة أنها نجحت في القضاءعلى المرض.</dbo:abstract>
+    <dbo:abstract xml:lang="pt">A varíola foi uma doença infectocontagiosa. É causada por um Orthopoxvirus, um dos maiores vírus que infectam os seres humanos, com cerca de 300 nanômetros de diâmetro, o que é suficientemente grande para ser visto como um ponto ao microscópio óptico (o único outro vírus que causa doença também visível desta forma é o vírus do molusco contagioso). O vírus tem envelope (membrana lípidica própria). O seu genoma é dos mais complexos existentes. O vírus fabrica as suas proteínas e replica-se numa área localizada do citoplasma da célula hóspede, sendo um dos poucos vírus com essa capacidade de se localizar em corpos de inclusão de Guarnieri, ou fábricas. O seu genoma é de quase 100 000 pares de bases, um dos maiores genomas virais. Seu genoma é de RNA fita simples de polaridade negativa. Ao contrário dos outros vírus, ele contém dentro de si suficiente quantidade das enzimas necessárias à produção de ácidos nucleicos, e ao seu ciclo de vida, e utiliza apenas a maquinaria de síntese proteica da célula. Daí que é dos poucos vírus de RNA citoplasmáticos. É considerada extinta desde 11 de setembro de 1978, ano em que ocorreu o último caso que vitimou uma médica num laboratório inglês por erro (Janet Parker); o último caso registado fora dos laboratórios foi registado em 1977, na Somália, tendo Ali Maow Maalin (um jovem de 23 anos, residente na cidade de Merca )o último homem a contrair varíola fora dos laboratórios, mas se recuperou. Foi a primeira doença erradicada pelo homem, graças à intensa campanha de vacinação em todo o mundo, a sua erradicação foi anunciada em 1980 pela Organização Mundial da Saúde. O vírus entra na célula por ligação a receptor membranar específico e fusão do seu envelope com a membrana celular. Cada célula infectada é destruída com produção de 10000 novos vírions. O sistema imunitário responde ao vírus com uma reacção TH1 (citotóxica) destruindo as células infectadas antes que o vírus se replique. O vírus espalha-se de ligações que induz entre células vizinhas e portanto não é completamente acessível à neutralização com anticorpos. Produz proteínas que lhe dão resistência à resposta imunitária por interferão e complemento.</dbo:abstract>
+    <dbo:abstract xml:lang="fr">La variole ou petite vérole est une maladie infectieuse d&#39;origine virale, très contagieuse et épidémique, due à un poxvirus. Le mot variole vient du latin varus, i (qui signifie « pustule ») et de varius, a, um (qui signifie « moucheté »). En effet, la variole se caractérise en quelque sorte par un « mouchetage de pustules ». Elle a été totalement éradiquée le 26 octobre 1977 (date du dernier cas connu en Somalie, un cuisinier hospitalier), grâce à une campagne de l&#39;Organisation mondiale de la santé (OMS) combinant des campagnes de vaccination massive, dès 1958, avec une « stratégie de surveillance et d&#39;endiguement », mise en œuvre à partir de 1967. Au XXIe siècle, seuls des échantillons de ce virus sont conservés à des fins de recherche par des laboratoires habilités par l&#39;OMS. La variole a été responsable jusqu&#39;au XVIIIe siècle de dizaines de milliers de morts par an rien qu&#39;en Europe. La descendance de Louis XIV a ainsi été décimée par la variole en 1712. La variole est surnommée abusivement petite vérole par référence avec la syphilis ou grande vérole, avec laquelle elle n&#39;a rien à voir.</dbo:abstract>
+    <dbo:abstract xml:lang="ru">Натуральная или чёрная о́спа (лат. Variola, Variola vera) — высокозаразная вирусная инфекция. Её вызывают два вида вирусов: Variola major (летальность 20—40 %, по некоторым данным — до 90 %) и Variola minor (летальность 1—3 %), которые относятся к семейству Poxviridae, подсемейства Chordopoxvirinae, рода Orthopoxvirus. Люди, выживающие после оспы, могут частично или полностью терять зрение, и практически всегда на коже остаются многочисленные рубцы в местах бывших язв. Последний случай заражения оспой был зарегистрирован 26 октября 1977 года в сомалийском городе Марка.</dbo:abstract>
+    <dbo:abstract xml:lang="pl">Ospa prawdziwa, inaczej czarna ospa (łac. Variola vera) – wirusowa choroba zakaźna o ostrym przebiegu wywoływana przez jedną z dwóch odmian wirusa ospy prawdziwej (variola minor lub variola maior). Okres inkubacji trwa od 7 do 17 dni, średnio 13 dni. Chorobę cechuje śmiertelność u osób szczepionych około 3% (dla najczęściej spotykanej odmiany), a u nieszczepionych średnio 30% (istnieją postacie choroby o śmiertelności szacowanej na 95%). Ostatni przypadek ospy prawdziwej miał miejsce w 1978, a choroba ta została uznana za eradykowaną w 1980.</dbo:abstract>
+    <dbo:abstract xml:lang="ja">天然痘（てんねんとう、smallpox）は、天然痘ウイルス（Variola virus）を病原体とする感染症の一つである。非常に強い感染力を持ち、全身に膿疱を生ずる。仮に治癒しても瘢痕（一般的にあばたと呼ぶ）を残すことから、世界中で不治の病、悪魔の病気と恐れられてきた代表的な感染症。世界で初めて撲滅に成功した感染症でもある。 その大きな感染力、高い致死率（諸説あるが40%前後とみられる）のため、時に国や民族が滅ぶ原因となった事すらある。疱瘡（ほうそう）、痘瘡（とうそう）ともいう。医学界では一般に痘瘡の語が用いられた。</dbo:abstract>
+    <dbo:abstract xml:lang="zh">天花是一種由天花病毒引起之人類傳染病。患者一般在染病後的12天內，出現包括發燒、肌肉疼痛、頭痛等近似普通感冒的症狀。幾天後，其口咽部分的粘膜會長出紅點，身體多處地方亦會長出皮疹（以臉部居多）。天花病毒共有兩類：主天花病毒及次天花病毒。根據患者的病情發展，由前者引發之天花又被劃分為四種形式：典型、惡性、出血型、緩和型。其中，多數未曾接種疫苗的人士均出現典型天花的症狀。次天花病毒引起之病變程度比上述四種的都要溫和，但卻非常罕見。 天花主要透過空氣傳播。患者的呼吸道與皮膚皰疹分泌物均載有病毒，故避免與其近距離接觸可減低患病的風險。多種痘病毒疾病的病癥均與天花的如出一轍。專家需利用絨毛尿囊膜進行病毒培植以確定天花病毒的存在，聚合酶鏈式反應及限制性片段長度多態性測試可提供更多病毒的細節。接種天花疫苗為預防此病的最佳方法。目前並沒有認可的抗天花藥物。一旦出現確診病例，醫護人員會為病人注射疫苗提升免疫保護，有時亦會配以舒緩性療法加大療效。天花病毒不會造成慢性或復發性感染，但會導致各類併發症或後遺症（如失明）。不同類型的天花所引發的病死率有所參差；最為常見的典型天花約奪取了三成病患者的性命。 古埃及或為天花的起源地。已死去逾三千年的法老拉美西斯五世可能是史上首名天花病人，專家在其木乃伊身上找到了明顯的膿皰痕跡。早期的印度及中國文獻亦有記載這種疾病。在隨後的漫長歲月裡，天花於世界多個地方展開大流行，並奪取了無數人類的性命（尤其是兒童）。歷史上，有不少國家的君王及著名人物均染上過天花。19至20世紀期間，多番的防疫行動減低了此病對群眾的威脅。最終，世界衛生組織於1980年正式宣布撲滅天花，使之成為首個於世上絕跡的人類傳染病。</dbo:abstract>
+    <dbo:abstract xml:lang="de">Die Pocken (auch Blattern; lateinisch Variola) waren eine für den Menschen gefährliche Infektionskrankheit, die von Pockenviren verursacht wurde. Seit den letzten Erkrankungen im Jahr 1977 in Somalia sind keine Pockenfälle mehr aufgetreten; der letzte Fall in Deutschland trat im Jahr 1972 in Hannover durch die Rückreise eines jugoslawischen Gastarbeiters aus den betroffenen Gebieten im Kosovo während der grassierenden Pockenepidemie in Jugoslawien auf. Durch ein konsequentes Impf- und Bekämpfungsprogramm der WHO und anderer Gesundheitsorganisationen wurde erreicht, dass im Jahr 1980 die Welt von der WHO für pockenfrei erklärt werden konnte, weil der Erreger nur durch den Menschen weitergegeben werden kann. Dennoch sind weitere Pockeninfektionen nicht völlig ausgeschlossen. Offiziell existiert das Virus noch in zwei Laboratorien der Welt; allerdings ist unklar, ob in einigen Staaten heimlich Virenbestände behalten werden. So könnten Neuinfektionen durch Laborunfälle oder Bioterrorismus auftreten.</dbo:abstract>
+    <dbo:icd10>B03</dbo:icd10>
+    <dbo:icd9>050</dbo:icd9>
+    <dbp:b rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">no</dbp:b>
+    <dbp:caption rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">A child infected with smallpox in Bangladesh, 1973. Patients with ordinary-type smallpox usually had bumps filled with a thick and opaque fluid, often with a depression or dimple in the center. This is a major distinguishing characteristic of the disease.</dbp:caption>
+    <dbp:commons rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Category:Smallpox</dbp:commons>
+    <dbp:d rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">no</dbp:d>
+    <dbp:diseasesdb rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">12219</dbp:diseasesdb>
+    <dbp:emedicinesubj rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">emerg</dbp:emedicinesubj>
+    <dbp:emedicinetopic rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">885</dbp:emedicinetopic>
+    <dbp:field rdf:resource="http://dbpedia.org/resource/Infectious_disease_(medical_specialty)" />
+    <dbp:imageCaption rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">This transmission electron micrograph depicts a number of smallpox virions. The &quot;dumbbell-shaped&quot; structure inside the virion is the viral core, which contains the viral DNA; Mag. = ~370,000x</dbp:imageCaption>
+    <dbp:medlineplus rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1356</dbp:medlineplus>
+    <dbp:meshname rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Smallpox</dbp:meshname>
+    <dbp:meshnumber rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">D012899</dbp:meshnumber>
+    <dbp:n rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">no</dbp:n>
+    <dbp:ordo rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Unassigned</dbp:ordo>
+    <dbp:q rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Smallpox</dbp:q>
+    <dbp:s rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">no</dbp:s>
+    <dbp:species rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">no</dbp:species>
+    <dbp:subdivision rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Variola virus</dbp:subdivision>
+    <dbp:subdivisionRanks rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Species</dbp:subdivisionRanks>
+    <dbp:typeSpecies rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Vaccinia virus</dbp:typeSpecies>
+    <dbp:v rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">no</dbp:v>
+    <dbp:virusGroup rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">i</dbp:virusGroup>
+    <dbp:voy rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">no</dbp:voy>
+    <dbp:wikt rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">no</dbp:wikt>
+    <dbp:wordnet_type rdf:resource="http://www.w3.org/2006/03/wn/wn20/instances/synset-disease-noun-1" />
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Disease" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ali_Maow_Maalin">
+    <dbo:occupation rdf:resource="http://dbpedia.org/resource/Smallpox" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Small_pox">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Smallpox" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Variola_Major">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Smallpox" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Variola_Minor">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Smallpox" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Muhammad_ibn_Zakariya_al-Razi">
+    <dbo:notableIdea rdf:resource="http://dbpedia.org/resource/Smallpox" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Imvanex">
+    <dbp:target rdf:resource="http://dbpedia.org/resource/Smallpox" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Taichō">
+    <dbo:deathCause rdf:resource="http://dbpedia.org/resource/Smallpox" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Eradicate_smallpox">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Smallpox" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Edward_Augustus_Freeman">
+    <dbo:deathCause rdf:resource="http://dbpedia.org/resource/Smallpox" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Esther_Edwards_Burr">
+    <dbo:deathCause rdf:resource="http://dbpedia.org/resource/Smallpox" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Variole">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Smallpox" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Leslie_Collier">
+    <dbo:knownFor rdf:resource="http://dbpedia.org/resource/Smallpox" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Small-pox">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Smallpox" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Isao_Arita">
+    <dbo:knownFor rdf:resource="http://dbpedia.org/resource/Smallpox" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Variola_maior">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Smallpox" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Variola_major">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Smallpox" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Variola_minor">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Smallpox" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Variola_major_virus">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Smallpox" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Variolla">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Smallpox" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Smallpox_eradication">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Smallpox" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Eradication_of_smallpox">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Smallpox" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Smallpox">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Smallpox" />
+  </rdf:Description>
+</rdf:RDF>

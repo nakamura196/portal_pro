@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:prov="http://www.w3.org/ns/prov#"
+	xmlns:dbpedia-owl="http://dbpedia.org/ontology/"
+	xmlns:dcterms="http://purl.org/dc/terms/"
+	xmlns:prop-ja="http://ja.dbpedia.org/property/"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	xmlns:georss="http://www.georss.org/georss/" >
+  <rdf:Description rdf:about="http://ja.wikipedia.org/wiki/文京ふるさと歴史館">
+    <foaf:primaryTopic rdf:resource="http://ja.dbpedia.org/resource/文京ふるさと歴史館" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/狩野安信">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/文京ふるさと歴史館" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/東京都の観光地">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/文京ふるさと歴史館" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/駒込富士神社">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/文京ふるさと歴史館" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/本郷座">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/文京ふるさと歴史館" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/長谷川雪堤">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/文京ふるさと歴史館" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/海津一朗">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/文京ふるさと歴史館" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/文京区">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/文京ふるさと歴史館" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/本郷三丁目駅">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/文京ふるさと歴史館" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/文京ふるさと歴史館">
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Place" />
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Location" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Building" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/ArchitecturalStructure" />
+    <rdf:type rdf:resource="http://schema.org/Place" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q33506" />
+    <rdf:type rdf:resource="http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Museum" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q41176" />
+    <rdfs:label xml:lang="ja">文京ふるさと歴史館</rdfs:label>
+    <rdfs:comment xml:lang="ja">文京ふるさと歴史館（ぶんきょうふるさとれきしかん）は、東京都文京区本郷にある歴史博物館である。1991年（平成3年）に開設された。主に文京区周辺の文化財を公開している。</rdfs:comment>
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q11499743" />
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q11499743" />
+    <foaf:name xml:lang="ja">文京ふるさと歴史館</foaf:name>
+    <foaf:isPrimaryTopicOf rdf:resource="http://ja.wikipedia.org/wiki/文京ふるさと歴史館" />
+    <prov:wasDerivedFrom rdf:resource="http://ja.wikipedia.org/wiki/文京ふるさと歴史館?oldid=58628297" />
+    <dbpedia-owl:abstract xml:lang="ja">文京ふるさと歴史館（ぶんきょうふるさとれきしかん）は、東京都文京区本郷にある歴史博物館である。1991年（平成3年）に開設された。主に文京区周辺の文化財を公開している。</dbpedia-owl:abstract>
+    <dbpedia-owl:director rdf:resource="http://ja.dbpedia.org/resource/文京区" />
+    <dbpedia-owl:location rdf:resource="http://ja.dbpedia.org/resource/東京都" />
+    <dbpedia-owl:operatedBy rdf:resource="http://ja.dbpedia.org/resource/文京区" />
+    <dbpedia-owl:postalCode>113-0033</dbpedia-owl:postalCode>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.city.bunkyo.lg.jp/rekishikan/" />
+    <dbpedia-owl:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2256917</dbpedia-owl:wikiPageID>
+    <dbpedia-owl:wikiPageLength rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">1509</dbpedia-owl:wikiPageLength>
+    <dbpedia-owl:wikiPageOutDegree rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">16</dbpedia-owl:wikiPageOutDegree>
+    <dbpedia-owl:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">58628297</dbpedia-owl:wikiPageRevisionID>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/Category:文京区の建築物" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/Category:文京区の歴史" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/文化財" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/Category:文京区の教育" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/Category:東京都の博物館" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/文京区" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/平成" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/東京都" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/本郷_(文京区)" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/Category:日本の歴史博物館" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/1991年" />
+    <foaf:homepage rdf:resource="http://www.city.bunkyo.lg.jp/rekishikan/" />
+    <dcterms:subject rdf:resource="http://ja.dbpedia.org/resource/Category:文京区の建築物" />
+    <dcterms:subject rdf:resource="http://ja.dbpedia.org/resource/Category:文京区の歴史" />
+    <dcterms:subject rdf:resource="http://ja.dbpedia.org/resource/Category:日本の歴史博物館" />
+    <dcterms:subject rdf:resource="http://ja.dbpedia.org/resource/Category:文京区の教育" />
+    <dcterms:subject rdf:resource="http://ja.dbpedia.org/resource/Category:東京都の博物館" />
+    <prop-ja:wikiPageUsesTemplate rdf:resource="http://ja.dbpedia.org/resource/Template:Pref-substub" />
+    <prop-ja:wikiPageUsesTemplate rdf:resource="http://ja.dbpedia.org/resource/Template:Coord" />
+    <prop-ja:wikiPageUsesTemplate rdf:resource="http://ja.dbpedia.org/resource/Template:Reflist" />
+    <prop-ja:wikiPageUsesTemplate rdf:resource="http://ja.dbpedia.org/resource/Template:JPN" />
+    <prop-ja:wikiPageUsesTemplate rdf:resource="http://ja.dbpedia.org/resource/Template:博物館" />
+    <prop-ja:wikiPageUsesTemplate rdf:resource="http://ja.dbpedia.org/resource/Template:脚注ヘルプ" />
+    <prop-ja:wikiPageUsesTemplate rdf:resource="http://ja.dbpedia.org/resource/Template:Cite_web" />
+    <prop-ja:wikiPageUsesTemplate rdf:resource="http://ja.dbpedia.org/resource/Template:出典の明記" />
+    <prop-ja:imagesize rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">300</prop-ja:imagesize>
+    <prop-ja:mapSize rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">250</prop-ja:mapSize>
+    <prop-ja:url rdf:resource="http://www.city.bunkyo.lg.jp/rekishikan/" />
+    <prop-ja:事業主体 xml:lang="ja">文京区</prop-ja:事業主体>
+    <prop-ja:名称 xml:lang="ja">文京ふるさと歴史館</prop-ja:名称>
+    <prop-ja:所在地 xml:lang="ja">東京都文京区本郷四丁目9-29</prop-ja:所在地>
+    <prop-ja:所在地郵便番号 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">113</prop-ja:所在地郵便番号>
+    <prop-ja:正式名称 xml:lang="ja">文京ふるさと歴史館</prop-ja:正式名称>
+    <prop-ja:管理運営 xml:lang="ja">文京区</prop-ja:管理運営>
+    <prop-ja:開館 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1991</prop-ja:開館>
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#float">35.708</geo:lat>
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#float">139.757</geo:long>
+    <georss:point>35.708 139.7566</georss:point>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/data/文京ふるさと歴史館.rdf">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document" />
+    <foaf:primaryTopic rdf:resource="http://ja.dbpedia.org/resource/文京ふるさと歴史館" />
+  </rdf:Description>
+</rdf:RDF>

@@ -1,0 +1,57 @@
+{
+    "entities": [
+        {
+            "mentions": [
+                {
+                    "text": {
+                        "beginOffset": 0,
+                        "content": "繪本福禄寿"
+                    },
+                    "type": "PROPER"
+                },
+                {
+                    "text": {
+                        "beginOffset": 19,
+                        "content": "福之巻"
+                    },
+                    "type": "COMMON"
+                }
+            ],
+            "metadata": {},
+            "name": "繪本福禄寿",
+            "salience": 0.46519065,
+            "type": "OTHER"
+        },
+        {
+            "mentions": [
+                {
+                    "text": {
+                        "beginOffset": 31,
+                        "content": "出版地"
+                    },
+                    "type": "COMMON"
+                }
+            ],
+            "metadata": {},
+            "name": "出版地",
+            "salience": 0.29645,
+            "type": "LOCATION"
+        },
+        {
+            "mentions": [
+                {
+                    "text": {
+                        "beginOffset": 49,
+                        "content": "出版者"
+                    },
+                    "type": "COMMON"
+                }
+            ],
+            "metadata": {},
+            "name": "出版者",
+            "salience": 0.23835935,
+            "type": "PERSON"
+        }
+    ],
+    "language": "ja"
+}

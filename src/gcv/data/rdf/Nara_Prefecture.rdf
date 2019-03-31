@@ -1,0 +1,909 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:dbo="http://dbpedia.org/ontology/"
+	xmlns:dbp="http://dbpedia.org/property/"
+	xmlns:dct="http://purl.org/dc/terms/"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	xmlns:prov="http://www.w3.org/ns/prov#"
+	xmlns:ns9="http://dbpedia.org/ontology/PopulatedPlace/"
+	xmlns:georss="http://www.georss.org/georss/"
+	xmlns:ns11="http://purl.org/linguistics/gold/" >
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tsutomu_Nishino">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Nara_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yurika_Kubo">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Nara_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hashio_Station">
+    <dbp:borough rdf:resource="http://dbpedia.org/resource/Nara_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ikebe_Station">
+    <dbp:borough rdf:resource="http://dbpedia.org/resource/Nara_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kuroda_Station_(Nara)">
+    <dbp:borough rdf:resource="http://dbpedia.org/resource/Nara_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Samitagawa_Station">
+    <dbp:borough rdf:resource="http://dbpedia.org/resource/Nara_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tajima_Station_(Nara)">
+    <dbp:borough rdf:resource="http://dbpedia.org/resource/Nara_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yoshimizu_Shrine">
+    <dbp:address rdf:resource="http://dbpedia.org/resource/Nara_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ōwada_Station_(Nara)">
+    <dbp:borough rdf:resource="http://dbpedia.org/resource/Nara_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jun_Mizukoshi">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Nara_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mount_Kunimi_(Daikō)">
+    <dbo:locatedInArea rdf:resource="http://dbpedia.org/resource/Nara_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Seigo_Narazaki">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Nara_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mount_Shisuniwa">
+    <dbo:locatedInArea rdf:resource="http://dbpedia.org/resource/Nara_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mount_Ōtenjō">
+    <dbo:locatedInArea rdf:resource="http://dbpedia.org/resource/Nara_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ōminesan-ji">
+    <dbp:address rdf:resource="http://dbpedia.org/resource/Nara_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kasanui_Station">
+    <dbp:borough rdf:resource="http://dbpedia.org/resource/Nara_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kansai_Main_Line">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Nara_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hiroshi_Okamoto">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Nara_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yu_Nakamura">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Nara_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jiro_Yabe">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Nara_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Extermination_of_Evil">
+    <dbp:city rdf:resource="http://dbpedia.org/resource/Nara_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kawakami,_Nara">
+    <dbp:prefecture rdf:resource="http://dbpedia.org/resource/Nara_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Wadaiko_Yamato">
+    <dbo:hometown rdf:resource="http://dbpedia.org/resource/Nara_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mount_Takami">
+    <dbo:locatedInArea rdf:resource="http://dbpedia.org/resource/Nara_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Micheal_Nakamura">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Nara_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Erika_Kurahashi">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Nara_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Shosuke_Katayama">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Nara_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/奈良">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Nara_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kawanishi,_Nara">
+    <dbp:prefecture rdf:resource="http://dbpedia.org/resource/Nara_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yagi-nishiguchi_Station">
+    <dbp:borough rdf:resource="http://dbpedia.org/resource/Nara_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yoshino_Mountain">
+    <dbo:locatedInArea rdf:resource="http://dbpedia.org/resource/Nara_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yutaka_Enatsu">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Nara_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Totsukawa">
+    <dbp:prefecture rdf:resource="http://dbpedia.org/resource/Nara_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ōji,_Nara">
+    <dbp:prefecture rdf:resource="http://dbpedia.org/resource/Nara_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yamato-Aogaki_Quasi-National_Park">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Nara_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Minami_Osaka_Line">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Nara_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kaori_Imabeppu">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Nara_Prefecture" />
+    <dbp:birthPlace rdf:resource="http://dbpedia.org/resource/Nara_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Shota_Kawanishi">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Nara_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tsukigase-Kōnoyama_Prefectural_Natural_Park">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Nara_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yata_Prefectural_Natural_Park">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Nara_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yoshinogawa-Tsuboro_Prefectural_Natural_Park">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Nara_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yutaka_Baba">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Nara_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Asuka_Historical_National_Government_Park">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Nara_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yoshinori_Fujimoto">
+    <dbp:birthPlace rdf:resource="http://dbpedia.org/resource/Nara_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Masahiro_Tanaka_(baseball,_born_1954)">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Nara_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kii_Peninsula">
+    <dbo:state rdf:resource="http://dbpedia.org/resource/Nara_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sakurai,_Nara">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Nara_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Soga_no_Umako">
+    <dbo:restingPlace rdf:resource="http://dbpedia.org/resource/Nara_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mount_Ōmine">
+    <dbo:locatedInArea rdf:resource="http://dbpedia.org/resource/Nara_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Amagatsuji_Station">
+    <dbp:borough rdf:resource="http://dbpedia.org/resource/Nara_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Asuka_Station">
+    <dbp:borough rdf:resource="http://dbpedia.org/resource/Nara_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Family-Kōemmae_Station">
+    <dbp:borough rdf:resource="http://dbpedia.org/resource/Nara_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gose_Station">
+    <dbp:borough rdf:resource="http://dbpedia.org/resource/Nara_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hatakeda_Station">
+    <dbp:borough rdf:resource="http://dbpedia.org/resource/Nara_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hirahata_Station">
+    <dbp:borough rdf:resource="http://dbpedia.org/resource/Nara_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ichinomoto_Station">
+    <dbp:borough rdf:resource="http://dbpedia.org/resource/Nara_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ichio_Station">
+    <dbp:borough rdf:resource="http://dbpedia.org/resource/Nara_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Iwami_Station_(Nara)">
+    <dbp:borough rdf:resource="http://dbpedia.org/resource/Nara_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/JR_Goidō_Station">
+    <dbp:borough rdf:resource="http://dbpedia.org/resource/Nara_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kaguyama_Station">
+    <dbp:borough rdf:resource="http://dbpedia.org/resource/Nara_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kanahashi_Station">
+    <dbp:borough rdf:resource="http://dbpedia.org/resource/Nara_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kashiba_Station">
+    <dbp:borough rdf:resource="http://dbpedia.org/resource/Nara_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Katsuragisan_Ropeway">
+    <dbp:location rdf:resource="http://dbpedia.org/resource/Nara_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kintetsu-Kōriyama_Station">
+    <dbp:borough rdf:resource="http://dbpedia.org/resource/Nara_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kitauchi_Station">
+    <dbp:borough rdf:resource="http://dbpedia.org/resource/Nara_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kyōbate_Station">
+    <dbp:borough rdf:resource="http://dbpedia.org/resource/Nara_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Makimuku_Station">
+    <dbp:borough rdf:resource="http://dbpedia.org/resource/Nara_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Miwa_Station">
+    <dbp:borough rdf:resource="http://dbpedia.org/resource/Nara_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nagara_Station">
+    <dbp:borough rdf:resource="http://dbpedia.org/resource/Nara_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Narayama_Station">
+    <dbp:borough rdf:resource="http://dbpedia.org/resource/Nara_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nikaidō_Station">
+    <dbp:borough rdf:resource="http://dbpedia.org/resource/Nara_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Obitoke_Station">
+    <dbp:borough rdf:resource="http://dbpedia.org/resource/Nara_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Okadera_Station">
+    <dbp:borough rdf:resource="http://dbpedia.org/resource/Nara_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sakurai_Station_(Nara)">
+    <dbp:borough rdf:resource="http://dbpedia.org/resource/Nara_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Senzai_Station">
+    <dbp:borough rdf:resource="http://dbpedia.org/resource/Nara_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Shizumi_Station">
+    <dbp:borough rdf:resource="http://dbpedia.org/resource/Nara_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Takada_Station_(Nara)">
+    <dbp:borough rdf:resource="http://dbpedia.org/resource/Nara_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tamade_Station_(Nara)">
+    <dbp:borough rdf:resource="http://dbpedia.org/resource/Nara_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tawaramoto_Station">
+    <dbp:borough rdf:resource="http://dbpedia.org/resource/Nara_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tenri_Station">
+    <dbp:borough rdf:resource="http://dbpedia.org/resource/Nara_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tsubosakayama_Station">
+    <dbp:borough rdf:resource="http://dbpedia.org/resource/Nara_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tsutsui_Station_(Nara)">
+    <dbp:borough rdf:resource="http://dbpedia.org/resource/Nara_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Unebi_Station">
+    <dbp:borough rdf:resource="http://dbpedia.org/resource/Nara_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Wakigami_Station">
+    <dbp:borough rdf:resource="http://dbpedia.org/resource/Nara_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yamato-Futami_Station">
+    <dbp:borough rdf:resource="http://dbpedia.org/resource/Nara_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yamato-Shinjō_Station">
+    <dbp:borough rdf:resource="http://dbpedia.org/resource/Nara_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yanagimoto_Station">
+    <dbp:borough rdf:resource="http://dbpedia.org/resource/Nara_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yoshinoguchi_Station">
+    <dbp:borough rdf:resource="http://dbpedia.org/resource/Nara_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yūzaki_Station">
+    <dbp:borough rdf:resource="http://dbpedia.org/resource/Nara_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Asuka_Historical_Museum">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Nara_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Fuka_Kakimoto">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Nara_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Daisuke_Miura">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Nara_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tenri_Line">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Nara_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nara-ken">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Nara_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nakayama_Miki">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Nara_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Rie_Yamaguchi">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Nara_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nao_Fujita">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Nara_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Chishō_Takaoka">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Nara_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Uda,_Nara">
+    <dbp:prefecture rdf:resource="http://dbpedia.org/resource/Nara_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nara_National_Research_Institute_for_Cultural_Properties">
+    <dbp:state rdf:resource="http://dbpedia.org/resource/Nara_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Eizo_Yuguchi">
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Nara_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Fukugami_Station">
+    <dbp:borough rdf:resource="http://dbpedia.org/resource/Nara_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kio_University">
+    <dbo:state rdf:resource="http://dbpedia.org/resource/Nara_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Koshibe_Station">
+    <dbp:borough rdf:resource="http://dbpedia.org/resource/Nara_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kusurimizu_Station">
+    <dbp:borough rdf:resource="http://dbpedia.org/resource/Nara_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kuzu_Station">
+    <dbp:borough rdf:resource="http://dbpedia.org/resource/Nara_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Muda_Station">
+    <dbp:borough rdf:resource="http://dbpedia.org/resource/Nara_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nara_Institute_of_Science_and_Technology">
+    <dbo:state rdf:resource="http://dbpedia.org/resource/Nara_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nara_Sangyo_University">
+    <dbo:state rdf:resource="http://dbpedia.org/resource/Nara_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nara_University_of_Education">
+    <dbp:prefecture rdf:resource="http://dbpedia.org/resource/Nara_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nishi-Tawaramoto_Station">
+    <dbp:borough rdf:resource="http://dbpedia.org/resource/Nara_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Shimoichiguchi_Station">
+    <dbp:borough rdf:resource="http://dbpedia.org/resource/Nara_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yamato-Kamiichi_Station">
+    <dbp:borough rdf:resource="http://dbpedia.org/resource/Nara_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yoshino-Jingū_Station">
+    <dbp:borough rdf:resource="http://dbpedia.org/resource/Nara_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yoshino_Station_(Nara)">
+    <dbp:borough rdf:resource="http://dbpedia.org/resource/Nara_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ōada_Station">
+    <dbp:borough rdf:resource="http://dbpedia.org/resource/Nara_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mount_Ōdaigahara">
+    <dbo:locatedInArea rdf:resource="http://dbpedia.org/resource/Nara_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mitsuo_Fuchida">
+    <dbp:birthPlace rdf:resource="http://dbpedia.org/resource/Nara_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yamatoji_Line">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Nara_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Irie_Taikichi_Memorial_Museum_of_Photography_Nara_City">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Nara_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Karako-Kagi_Archaeological_Museum">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Nara_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nakano_Museum_of_Art">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Nara_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nara_City_Historical_Materials_Preservation_House">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Nara_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nara_Municipal_Buried_Cultural_Properties_Research_Centre">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Nara_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nara_Prefectural_Museum_of_Folklore">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Nara_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Shōhaku_Art_Museum">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Nara_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tenri_University_Sankōkan_Museum">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Nara_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Museum,_Archaeological_Institute_of_Kashihara,_Nara_Prefecture">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Nara_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nara">
+    <dbo:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/Nara_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nara,_Nara">
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Nara_Prefecture" />
+    <dbp:prefecture rdf:resource="http://dbpedia.org/resource/Nara_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nara_Prefecture">
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Tract108673395" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/GeographicalArea108574314" />
+    <rdf:type rdf:resource="http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing" />
+    <rdf:type rdf:resource="http://schema.org/AdministrativeArea" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Location" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Place" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatPrefecturesOfJapan" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatSubdivisionsOfJapan" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/PopulatedPlace" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Location100027167" />
+    <rdf:type rdf:resource="http://schema.org/Place" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/AdministrativeDistrict108491826" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Region108630985" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoGeoEntity" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoPermanentlyLocatedEntity" />
+    <rdf:type rdf:resource="http://umbel.org/umbel/rc/PopulatedPlace" />
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/AdministrativeRegion" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Region" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PhysicalEntity100001930" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Object100002684" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoLegalActorGeo" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Prefecture108626947" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Subdivision108674251" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/District108552138" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q3455524" />
+    <rdfs:label xml:lang="es">Prefectura de Nara</rdfs:label>
+    <rdfs:label xml:lang="ja">奈良県</rdfs:label>
+    <rdfs:label xml:lang="en">Nara Prefecture</rdfs:label>
+    <rdfs:label xml:lang="pl">Prefektura Nara</rdfs:label>
+    <rdfs:label xml:lang="de">Präfektur Nara</rdfs:label>
+    <rdfs:label xml:lang="nl">Nara (prefectuur)</rdfs:label>
+    <rdfs:label xml:lang="fr">Préfecture de Nara</rdfs:label>
+    <rdfs:label xml:lang="ru">Нара (префектура)</rdfs:label>
+    <rdfs:label xml:lang="pt">Nara (província)</rdfs:label>
+    <rdfs:label xml:lang="it">Prefettura di Nara</rdfs:label>
+    <rdfs:label xml:lang="ar">نارا (محافظة)</rdfs:label>
+    <rdfs:label xml:lang="zh">奈良县</rdfs:label>
+    <rdfs:comment xml:lang="de">Die Präfektur Nara (jap. 奈良県, Nara-ken) ist eine der Präfekturen Japans. Sie befindet sich in der Region Kinki auf der Insel Honshū. Sitz der Präfekturverwaltung ist die gleichnamige Stadt Nara.</rdfs:comment>
+    <rdfs:comment xml:lang="nl">De prefectuur Nara (奈良県, Nara-ken) is een Japanse prefectuur in de regio Kansai in Honshu. Nara heeft een oppervlakte van 3691,09 km² en had op 1 maart 2008 een bevolking van ongeveer 1.408.524 inwoners. De hoofdstad is de stad Nara.</rdfs:comment>
+    <rdfs:comment xml:lang="pl">Prefektura Nara (jap. 奈良県 Nara-ken) jest częścią regionu Kansai na wyspie Honsiu w Japonii. Stolicą jest miasto Nara.</rdfs:comment>
+    <rdfs:comment xml:lang="pt">Nara (奈良県, Nara-ken?) é uma província do Japão localizada na região de Kansai, ilha de Honshu. Sua capital é a cidade de Nara..</rdfs:comment>
+    <rdfs:comment xml:lang="fr">Nara (奈良県, Nara-ken) est une préfecture du Japon située au milieu de la péninsule de Kii.</rdfs:comment>
+    <rdfs:comment xml:lang="ar">25بك المحتوى هنا ينقصه الاستشهاد بمصادر. يرجى إيراد مصادر موثوق بها. أي معلومات غير موثقة يمكن التشكيك بها وإزالتها. (مارس 2016) محافظة نارا ((باليابانية: 奈良県)) هي محافظة في منطقة كانساي، في جزيرة هونشو، اليابان. عاصمتها هي مدينة نارا.</rdfs:comment>
+    <rdfs:comment xml:lang="en">Nara Prefecture (奈良県 Nara-ken) is a prefecture in the Kansai region of Japan. The capital is the city of Nara. Nara Prefecture has the distinction of having more UNESCO World Heritage Listings than any other prefecture.</rdfs:comment>
+    <rdfs:comment xml:lang="es">La prefectura de Nara (奈良県 Nara-ken?) está ubicada en la región de Kinki, sobre la isla de Honshū en Japón. La capital es Nara.</rdfs:comment>
+    <rdfs:comment xml:lang="zh">奈良县（日语：奈良県／ならけん Nara ken */?）位处日本近畿地方，紀伊半島內陸，首府为奈良市，為八個無海岸線的內陸縣份之一。县域是旧时令制国中大和国。古代日本国家起源于此地。</rdfs:comment>
+    <rdfs:comment xml:lang="ja">奈良県（ならけん）は、日本の都道府県の一つで、本州中西部、紀伊半島内陸部、近畿地方の中南部に位置する県。 令制国の大和国の領域を占める。県庁所在地は奈良市。北西部の盆地部を除き、険しい山々がそびえている。都道府県面積は全国で8番目に狭く、内陸8県では最も狭い（ただし、最小の香川県の約2倍である）。</rdfs:comment>
+    <rdfs:comment xml:lang="it">Nara (奈良県 Nara-ken?) è una prefettura giapponese con circa 1,4 milioni di abitanti, si trova nella regione di Kansai, sull&#39;isola di Honshū. Il suo capoluogo è l&#39;omonima città di Nara. Confina con le prefetture di Kyōto, Mie, Ōsaka e Wakayama.</rdfs:comment>
+    <rdfs:comment xml:lang="ru">Нара (яп. 奈良県 Нара-кэн) — префектура Японии, которая находится в регионе Кинки. Центр префектуры — город Нара. Находится на территории бывшей провинции Ямато. Площадь префектуры составляет 3691,09 км², население — 1 377 583 человека (1 августа 2014), плотность населения — 373,22 чел./км².</rdfs:comment>
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Asuka_period" />
+    <owl:sameAs rdf:resource="http://ko.dbpedia.org/resource/나라_현" />
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Nara_Prefecture" />
+    <owl:sameAs rdf:resource="http://nl.dbpedia.org/resource/Nara_(prefectuur)" />
+    <owl:sameAs rdf:resource="http://pt.dbpedia.org/resource/Nara_(província)" />
+    <owl:sameAs rdf:resource="http://yago-knowledge.org/resource/Nara_(prefecture)" />
+    <owl:sameAs rdf:resource="http://cs.dbpedia.org/resource/Prefektura_Nara" />
+    <owl:sameAs rdf:resource="http://yago-knowledge.org/resource/Nara_Prefecture" />
+    <owl:sameAs rdf:resource="http://es.dbpedia.org/resource/Prefectura_de_Nara" />
+    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/Präfektur_Nara" />
+    <owl:sameAs rdf:resource="http://ja.dbpedia.org/resource/奈良県" />
+    <owl:sameAs rdf:resource="http://pl.dbpedia.org/resource/Prefektura_Nara" />
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q131287" />
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q131287" />
+    <owl:sameAs rdf:resource="http://fr.dbpedia.org/resource/Préfecture_de_Nara" />
+    <owl:sameAs rdf:resource="http://it.dbpedia.org/resource/Prefettura_di_Nara" />
+    <owl:sameAs rdf:resource="http://eu.dbpedia.org/resource/Nara_(prefetura)" />
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.018jfx" />
+    <owl:sameAs rdf:resource="http://sws.geonames.org/1855608/" />
+    <owl:sameAs rdf:resource="http://id.dbpedia.org/resource/Prefektur_Nara" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Kansai_region" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Nara_Prefecture" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Prefectures_of_Japan" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Tenrikyo" />
+    <dbo:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">179765</dbo:wikiPageID>
+    <dbo:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">742056188</dbo:wikiPageRevisionID>
+    <dbo:wikiPageExternalLink rdf:resource="http://www.worldcat.org/oclc/58053128?referer=di&amp;ht=edition" />
+    <dbo:wikiPageExternalLink rdf:resource="https://books.google.com/books?id=p2QnPijAEmEC&amp;client=firefox-a" />
+    <dbo:wikiPageExternalLink rdf:resource="http://narashikanko.jp/english/e_hp.html" />
+    <dbo:wikiPageExternalLink rdf:resource="http://whc.unesco.org/pg.cfm?cid=31&amp;id_site=1142" />
+    <dbo:wikiPageExternalLink rdf:resource="http://whc.unesco.org/pg.cfm?cid=31&amp;id_site=660" />
+    <dbo:wikiPageExternalLink rdf:resource="http://whc.unesco.org/pg.cfm?cid=31&amp;id_site=870" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.1300.jp/foreign/english/index.html" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.aist-nara.ac.jp/~nomurak/apo/MapNara.pdf" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.pref.nara.jp/english/index.html" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.pref.nara.jp/english" />
+    <dbo:wikiPageExternalLink rdf:resource="http://sitereports.nabunken.go.jp/en" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.taleofgenji.org/japanese_temples.html" />
+    <foaf:name xml:lang="en">Nara</foaf:name>
+    <foaf:homepage rdf:resource="http://www.pref.nara.jp/english" />
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#float">34.5667</geo:lat>
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#float">135.767</geo:long>
+    <foaf:depiction rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Flag_of_Nara_Prefecture.svg" />
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Nara_Prefecture" />
+    <geo:geometry rdf:datatype="http://www.openlinksw.com/schemas/virtrdf#Geometry">POINT(135.76666259766 34.566665649414)</geo:geometry>
+    <dbo:thumbnail rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Flag_of_Nara_Prefecture.svg?width=300" />
+    <prov:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Nara_Prefecture?oldid=742056188" />
+    <ns9:areaTotal rdf:datatype="http://dbpedia.org/datatype/squareKilometre">3691.09</ns9:areaTotal>
+    <ns9:populationDensity rdf:datatype="http://dbpedia.org/datatype/inhabitantsPerSquareKilometre">378.43</ns9:populationDensity>
+    <dbo:abstract xml:lang="zh">奈良县（日语：奈良県／ならけん Nara ken */?）位处日本近畿地方，紀伊半島內陸，首府为奈良市，為八個無海岸線的內陸縣份之一。县域是旧时令制国中大和国。古代日本国家起源于此地。</dbo:abstract>
+    <dbo:abstract xml:lang="pt">Nara (奈良県, Nara-ken?) é uma província do Japão localizada na região de Kansai, ilha de Honshu. Sua capital é a cidade de Nara..</dbo:abstract>
+    <dbo:abstract xml:lang="it">Nara (奈良県 Nara-ken?) è una prefettura giapponese con circa 1,4 milioni di abitanti, si trova nella regione di Kansai, sull&#39;isola di Honshū. Il suo capoluogo è l&#39;omonima città di Nara. Confina con le prefetture di Kyōto, Mie, Ōsaka e Wakayama.</dbo:abstract>
+    <dbo:abstract xml:lang="ar">25بك المحتوى هنا ينقصه الاستشهاد بمصادر. يرجى إيراد مصادر موثوق بها. أي معلومات غير موثقة يمكن التشكيك بها وإزالتها. (مارس 2016) محافظة نارا ((باليابانية: 奈良県)) هي محافظة في منطقة كانساي، في جزيرة هونشو، اليابان. عاصمتها هي مدينة نارا.</dbo:abstract>
+    <dbo:abstract xml:lang="ja">奈良県（ならけん）は、日本の都道府県の一つで、本州中西部、紀伊半島内陸部、近畿地方の中南部に位置する県。 令制国の大和国の領域を占める。県庁所在地は奈良市。北西部の盆地部を除き、険しい山々がそびえている。都道府県面積は全国で8番目に狭く、内陸8県では最も狭い（ただし、最小の香川県の約2倍である）。</dbo:abstract>
+    <dbo:abstract xml:lang="pl">Prefektura Nara (jap. 奈良県 Nara-ken) jest częścią regionu Kansai na wyspie Honsiu w Japonii. Stolicą jest miasto Nara.</dbo:abstract>
+    <dbo:abstract xml:lang="es">La prefectura de Nara (奈良県 Nara-ken?) está ubicada en la región de Kinki, sobre la isla de Honshū en Japón. La capital es Nara.</dbo:abstract>
+    <dbo:abstract xml:lang="en">Nara Prefecture (奈良県 Nara-ken) is a prefecture in the Kansai region of Japan. The capital is the city of Nara. Nara Prefecture has the distinction of having more UNESCO World Heritage Listings than any other prefecture.</dbo:abstract>
+    <dbo:abstract xml:lang="nl">De prefectuur Nara (奈良県, Nara-ken) is een Japanse prefectuur in de regio Kansai in Honshu. Nara heeft een oppervlakte van 3691,09 km² en had op 1 maart 2008 een bevolking van ongeveer 1.408.524 inwoners. De hoofdstad is de stad Nara.</dbo:abstract>
+    <dbo:abstract xml:lang="ru">Нара (яп. 奈良県 Нара-кэн) — префектура Японии, которая находится в регионе Кинки. Центр префектуры — город Нара. Находится на территории бывшей провинции Ямато. Площадь префектуры составляет 3691,09 км², население — 1 377 583 человека (1 августа 2014), плотность населения — 373,22 чел./км².</dbo:abstract>
+    <dbo:abstract xml:lang="de">Die Präfektur Nara (jap. 奈良県, Nara-ken) ist eine der Präfekturen Japans. Sie befindet sich in der Region Kinki auf der Insel Honshū. Sitz der Präfekturverwaltung ist die gleichnamige Stadt Nara.</dbo:abstract>
+    <dbo:abstract xml:lang="fr">Nara (奈良県, Nara-ken) est une préfecture du Japon située au milieu de la péninsule de Kii.</dbo:abstract>
+    <dbo:areaTotal rdf:datatype="http://www.w3.org/2001/XMLSchema#double">3.69109e+09</dbo:areaTotal>
+    <dbo:capital rdf:resource="http://dbpedia.org/resource/Nara,_Nara" />
+    <dbo:country rdf:resource="http://dbpedia.org/resource/Japan" />
+    <dbo:populationDensity rdf:datatype="http://www.w3.org/2001/XMLSchema#double">378.43</dbo:populationDensity>
+    <dbo:populationTotal rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">1396849</dbo:populationTotal>
+    <dbp:island rdf:resource="http://dbpedia.org/resource/Honshu" />
+    <dbp:municipalities rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">39</dbp:municipalities>
+    <dbp:popdate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2011-03-01</dbp:popdate>
+    <!--
+    <p: xmlns:p="http://dbpedia.org/property/rōmaji" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Nara-ken</p:>
+    -->
+    <georss:point>34.56666666666667 135.76666666666668</georss:point>
+    <dbp:arearank rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">40</dbp:arearank>
+    <dbp:bird rdf:resource="http://dbpedia.org/resource/Japanese_robin" />
+    <dbp:districts rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">7</dbp:districts>
+    <dbp:fish rdf:resource="http://dbpedia.org/resource/Goldfish" />
+    <dbp:fish rdf:resource="http://dbpedia.org/resource/Satsukimasu_salmon" />
+    <dbp:fish rdf:resource="http://dbpedia.org/resource/Ayu" />
+    <dbp:flag rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Flag of Nara Prefecture.svg</dbp:flag>
+    <dbp:flower rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Nara yae zakura</dbp:flower>
+    <dbp:governor rdf:resource="http://dbpedia.org/resource/Shōgo_Arai" />
+    <dbp:isocode rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">JP-29</dbp:isocode>
+    <dbp:pcwater rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.5</dbp:pcwater>
+    <dbp:poprank rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">29</dbp:poprank>
+    <dbp:region rdf:resource="http://dbpedia.org/resource/Kansai_region" />
+    <dbp:symbol rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Symbol of Nara Prefecture.svg</dbp:symbol>
+    <dbp:tree rdf:resource="http://dbpedia.org/resource/Sugi" />
+    <dbp:japanesename rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">奈良県</dbp:japanesename>
+    <ns11:hypernym rdf:resource="http://dbpedia.org/resource/Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Katsunori_Wakabayashi">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Nara_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kazumasa_Tsujimoto">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Nara_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Machiko_Ono">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Nara_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Michiharu_Sugimoto">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Nara_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Naoki_Kawamae">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Nara_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sachio_Semmoto">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Nara_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Seiji_Takeda">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Nara_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yoshikazu_Kawaguchi">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Nara_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yoshitaka_Mizuo">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Nara_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nara_prefecture">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Nara_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ishibutai_Kofun">
+    <dbp:location rdf:resource="http://dbpedia.org/resource/Nara_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ando,_Nara">
+    <dbp:prefecture rdf:resource="http://dbpedia.org/resource/Nara_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gojō,_Nara">
+    <dbp:prefecture rdf:resource="http://dbpedia.org/resource/Nara_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gose,_Nara">
+    <dbp:prefecture rdf:resource="http://dbpedia.org/resource/Nara_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Heguri,_Nara">
+    <dbp:prefecture rdf:resource="http://dbpedia.org/resource/Nara_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Higashiyoshino,_Nara">
+    <dbp:prefecture rdf:resource="http://dbpedia.org/resource/Nara_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ikaruga,_Nara">
+    <dbp:prefecture rdf:resource="http://dbpedia.org/resource/Nara_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ikoma,_Nara">
+    <dbp:prefecture rdf:resource="http://dbpedia.org/resource/Nara_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kamikitayama,_Nara">
+    <dbp:prefecture rdf:resource="http://dbpedia.org/resource/Nara_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kanmaki,_Nara">
+    <dbp:prefecture rdf:resource="http://dbpedia.org/resource/Nara_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kashiba,_Nara">
+    <dbp:prefecture rdf:resource="http://dbpedia.org/resource/Nara_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kashihara,_Nara">
+    <dbp:prefecture rdf:resource="http://dbpedia.org/resource/Nara_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Katsuragi,_Nara">
+    <dbp:prefecture rdf:resource="http://dbpedia.org/resource/Nara_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kawai,_Nara">
+    <dbp:prefecture rdf:resource="http://dbpedia.org/resource/Nara_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kurotaki,_Nara">
+    <dbp:prefecture rdf:resource="http://dbpedia.org/resource/Nara_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kōryō,_Nara">
+    <dbp:prefecture rdf:resource="http://dbpedia.org/resource/Nara_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mitsue,_Nara">
+    <dbp:prefecture rdf:resource="http://dbpedia.org/resource/Nara_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Miyake,_Nara">
+    <dbp:prefecture rdf:resource="http://dbpedia.org/resource/Nara_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nosegawa,_Nara">
+    <dbp:prefecture rdf:resource="http://dbpedia.org/resource/Nara_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sangō,_Nara">
+    <dbp:prefecture rdf:resource="http://dbpedia.org/resource/Nara_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Shimoichi,_Nara">
+    <dbp:prefecture rdf:resource="http://dbpedia.org/resource/Nara_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Shimokitayama,_Nara">
+    <dbp:prefecture rdf:resource="http://dbpedia.org/resource/Nara_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Soni,_Nara">
+    <dbp:prefecture rdf:resource="http://dbpedia.org/resource/Nara_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Takatori,_Nara">
+    <dbp:prefecture rdf:resource="http://dbpedia.org/resource/Nara_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tawaramoto,_Nara">
+    <dbp:prefecture rdf:resource="http://dbpedia.org/resource/Nara_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tenkawa,_Nara">
+    <dbp:prefecture rdf:resource="http://dbpedia.org/resource/Nara_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tenri,_Nara">
+    <dbp:prefecture rdf:resource="http://dbpedia.org/resource/Nara_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yamatotakada,_Nara">
+    <dbp:prefecture rdf:resource="http://dbpedia.org/resource/Nara_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yamazoe,_Nara">
+    <dbp:prefecture rdf:resource="http://dbpedia.org/resource/Nara_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yoshino,_Nara">
+    <dbp:prefecture rdf:resource="http://dbpedia.org/resource/Nara_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ōuda,_Nara">
+    <dbp:prefecture rdf:resource="http://dbpedia.org/resource/Nara_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ōyodo,_Nara">
+    <dbp:prefecture rdf:resource="http://dbpedia.org/resource/Nara_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ai_Kago">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Nara_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yamatokōriyama">
+    <dbp:prefecture rdf:resource="http://dbpedia.org/resource/Nara_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ryosuke_Yamamoto_(actor)">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Nara_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Shuko_(actress)">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Nara_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ikoma_Line">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Nara_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sakurai_Line">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Nara_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Wakayama_Line">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Nara_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Daimanazuru_Kenji">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Nara_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Rōben">
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Nara_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ichiji_Sugita">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Nara_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tatsuro_Okuda">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Nara_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Naomichi_Nishiura">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Nara_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yoshiko_Sato">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Nara_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kongō_Range">
+    <dbp:region rdf:resource="http://dbpedia.org/resource/Nara_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Asuka,_Nara">
+    <dbp:prefecture rdf:resource="http://dbpedia.org/resource/Nara_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gojō_Station_(Nara)">
+    <dbp:borough rdf:resource="http://dbpedia.org/resource/Nara_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kujō_Station_(Nara)">
+    <dbp:borough rdf:resource="http://dbpedia.org/resource/Nara_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Miyuki_Watanabe">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Nara_Prefecture" />
+    <dbo:hometown rdf:resource="http://dbpedia.org/resource/Nara_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nanto_Bank">
+    <dbo:locationCity rdf:resource="http://dbpedia.org/resource/Nara_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Rinko_Ueda">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Nara_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ikoma_Cable_Line">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Nara_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nara_Prefectural_Museum_of_Art">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Nara_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Daisuke_Inoue_(rugby_union)">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Nara_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mount_Hakkyō">
+    <dbo:locatedInArea rdf:resource="http://dbpedia.org/resource/Nara_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mount_Miwa">
+    <dbo:locatedInArea rdf:resource="http://dbpedia.org/resource/Nara_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nara_Hotel">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Nara_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kōya-Ryūjin_Quasi-National_Park">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Nara_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Murō-Akame-Aoyama_Quasi-National_Park">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Nara_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Naruyuki_Naito">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Nara_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kashiharajingū-mae_Station">
+    <dbp:borough rdf:resource="http://dbpedia.org/resource/Nara_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mount_Ikoma">
+    <dbo:locatedInArea rdf:resource="http://dbpedia.org/resource/Nara_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nara_Women&#39;s_University">
+    <dbo:state rdf:resource="http://dbpedia.org/resource/Nara_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ninokuchi_Station">
+    <dbp:borough rdf:resource="http://dbpedia.org/resource/Nara_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nishinokyō_Station">
+    <dbp:borough rdf:resource="http://dbpedia.org/resource/Nara_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Unebigoryōmae_Station">
+    <dbp:borough rdf:resource="http://dbpedia.org/resource/Nara_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kazuto_Sakamoto">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Nara_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kyoto_Line_(Kintetsu)">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Nara_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kazuyuki_Izutsu">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Nara_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ryōta_Murata">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Nara_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Toru_Taniguchi">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Nara_Prefecture" />
+    <dbp:birthPlace rdf:resource="http://dbpedia.org/resource/Nara_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Shinichi_Kitaoka">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Nara_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Banmei_Takahashi">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Nara_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hinako_Saeki">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Nara_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kiyomi_Tsujimoto">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Nara_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sanae_Takaichi">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Nara_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nara_Prefecture_Complex_of_Man&#39;yo_Culture">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Nara_Prefecture" />
+    <dbp:owner rdf:resource="http://dbpedia.org/resource/Nara_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Rina_Suzuki_(musician)">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Nara_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hell_Scroll_(Nara_National_Museum)">
+    <dbp:city rdf:resource="http://dbpedia.org/resource/Nara_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kanako_Otsuji">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Nara_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mount_Myōjin">
+    <dbo:locatedInArea rdf:resource="http://dbpedia.org/resource/Nara_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mount_Azami">
+    <dbo:locatedInArea rdf:resource="http://dbpedia.org/resource/Nara_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mount_Shakka">
+    <dbo:locatedInArea rdf:resource="http://dbpedia.org/resource/Nara_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mount_Shigi">
+    <dbo:locatedInArea rdf:resource="http://dbpedia.org/resource/Nara_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Naruki_Doi">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Nara_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yoshino_Line">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Nara_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Abe_Monju-in">
+    <dbp:prefecture rdf:resource="http://dbpedia.org/resource/Nara_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Koichi_Higashi">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Nara_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Koichi_Hirono">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Nara_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Masato_Ishida">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Nara_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Masayoshi_Yoshida">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Nara_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kenji_Kawakami">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Nara_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yoshizumi_Takeda">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Nara_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ryosuke_Tamura">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Nara_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Taiki_Kato">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Nara_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yuki_Sato_(footballer)">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Nara_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yū_Nakanishi">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Nara_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kenta_Anraku">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Nara_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Manabu_Minami">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Nara_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ryuji_Sawakami">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Nara_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Shoichiro_Sakamoto">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Nara_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Takeru_Kishimoto">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Nara_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tasuku_Hiraoka">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Nara_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/List_of_Historic_Sites_of_Japan_(Nara)">
+    <dbp:prefecture rdf:resource="http://dbpedia.org/resource/Nara_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/JP-29">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Nara_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/奈良県">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Nara_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Nara_Prefecture">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Nara_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nara_(prefecture)">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Nara_Prefecture" />
+  </rdf:Description>
+</rdf:RDF>

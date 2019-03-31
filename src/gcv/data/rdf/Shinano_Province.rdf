@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:dbo="http://dbpedia.org/ontology/"
+	xmlns:dbp="http://dbpedia.org/property/"
+	xmlns:dct="http://purl.org/dc/terms/"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:prov="http://www.w3.org/ns/prov#"
+	xmlns:ns8="http://purl.org/linguistics/gold/" >
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Katsusaburō_Yamagiwa">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Shinano_Province" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Aoyama_Tadashige">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Shinano_Province" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kobayashi_Issa">
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Shinano_Province" />
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Shinano_Province" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tomono_clan">
+    <dbp:homeProvince rdf:resource="http://dbpedia.org/resource/Shinano_Province" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Siege_of_Takatō_(1545)">
+    <dbo:place rdf:resource="http://dbpedia.org/resource/Shinano_Province" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ogasawara_Nagakuni">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Shinano_Province" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ogasawara_clan">
+    <dbp:homeProvince rdf:resource="http://dbpedia.org/resource/Shinano_Province" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Suwa_clan">
+    <dbp:homeProvince rdf:resource="http://dbpedia.org/resource/Shinano_Province" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kanzan_Egen">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Shinano_Province" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Japanese_aircraft_carrier_Shinano">
+    <dbp:shipNamesake rdf:resource="http://dbpedia.org/resource/Shinano_Province" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Shinano">
+    <dbo:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/Shinano_Province" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Shinano_Province">
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/State108654360" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Settlement" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PhysicalEntity100001930" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoLegalActorGeo" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoGeoEntity" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoPermanentlyLocatedEntity" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Object100002684" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Location100027167" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/AdministrativeDistrict108491826" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Region108630985" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/District108552138" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatFormerProvincesOfJapan" />
+    <rdfs:label xml:lang="zh">信濃國</rdfs:label>
+    <rdfs:label xml:lang="de">Provinz Shinano</rdfs:label>
+    <rdfs:label xml:lang="pt">Província de Shinano</rdfs:label>
+    <rdfs:label xml:lang="nl">Shinano (provincie)</rdfs:label>
+    <rdfs:label xml:lang="it">Shinano (provincia)</rdfs:label>
+    <rdfs:label xml:lang="es">Provincia de Shinano</rdfs:label>
+    <rdfs:label xml:lang="ja">信濃国</rdfs:label>
+    <rdfs:label xml:lang="pl">Prowincja Shinano</rdfs:label>
+    <rdfs:label xml:lang="ru">Синано (провинция)</rdfs:label>
+    <rdfs:label xml:lang="fr">Province de Shinano</rdfs:label>
+    <rdfs:label xml:lang="en">Shinano Province</rdfs:label>
+    <rdfs:comment xml:lang="zh">信濃國（日语：信濃国〔信濃國〕／しなののくに Shinanonokuni */?），日本古代的令制國之一，屬東山道，又稱信州。信濃國的領域大約為現在的長野縣。</rdfs:comment>
+    <rdfs:comment xml:lang="ja">信濃国（しなののくに）は、かつて日本の地方行政区分だった令制国の一つ。東山道に属する。 『万葉集』での枕詞は「水薦苅（みこもかる ）」。</rdfs:comment>
+    <rdfs:comment xml:lang="fr">Shinano (信濃国, Shinano no kuni) est une ancienne province du Japon qui se trouvait dans une région qui est l&#39;actuelle préfecture de Nagano. On abrège parfois le nom de la province en Shinshū (信州).La province de Shinano était entourée par les provinces d&#39;Echigo, Etchu, Hida, Kai, Kozuke, Mikawa, Mino, Musashi, Suruga et Totomi. La province a été le lieu d&#39;un bon nombre de batailles (notamment la Bataille de Shiojiritoge) lorsque Shingen Takeda tenta de prendre le contrôle de la province tenue en partie par le clan Ogasawara.</rdfs:comment>
+    <rdfs:comment xml:lang="pl">Prowincja Shinano (jap. 信濃国  Shinano no kuni) - historyczna prowincja Japonii, stanowiąca współczesną prefekturę Nagano. Historyczna stolica prowincji była zlokalizowana w pobliżu współczesnego miasta Matsumoto.</rdfs:comment>
+    <rdfs:comment xml:lang="de">Shinano (jap. 信濃国, Shinano no kuni) oder Shinshū (信州) war eine der historischen Provinzen Japans.</rdfs:comment>
+    <rdfs:comment xml:lang="en">Shinano Province (信濃国 Shinano no kuni) or Shinshū (信州) is an old province of Japan that is now present-day Nagano Prefecture. Shinano bordered on Echigo, Etchū, Hida, Kai, Kōzuke, Mikawa, Mino, Musashi, Suruga, and Tōtōmi Provinces. The ancient capital was located near modern-day Matsumoto, which became an important city of the province. The World War II–era Japanese aircraft carrier Shinano was named after this old province.</rdfs:comment>
+    <rdfs:comment xml:lang="pt">Shinano (信濃国, Shinano no kuni?) foi uma antiga província do Japão equivalente à atual prefeitura de Nagano. Sua abreviação é Shinshū (信州). Shinano fazia fronteira com as províncias de Echigo, Etchū, Hida, Kai, Kōzuke, Mikawa, Mino, Musashi, Suruga e Tōtōmi. A antiga capital se situava próxima à atual Matsumoto, que se tornou uma importante cidade da província. Na Segunda Guerra Mundial, o porta-aviões japonês Shinano recebeu seu nome a partir da antiga província.</rdfs:comment>
+    <rdfs:comment xml:lang="it">Shinano (giapponese: 信濃国; -no kuni) fu una provincia del Giappone in quella che è oggigiorno la prefettura di Nagano. Viene abbreviato come Shinshu (信州 Shinshū). Shinano confinava con le province di Echigo, Etchu, Hida, Kai, Kozuke, Mikawa, Mino, Musashi, Suruga e Totomi. Nel 1871 con l&#39;abolizione dei resti feudali e la creazione delle prefetture (Haihan Chiken) in seguito alla Restaurazione Meiji, la provincia di Shinano venne divisa nelle prefetture di Nagano e Chikuma. Queste vennero nuovamente combinate nel 1876 per formare l&#39;odierna Nagano</rdfs:comment>
+    <rdfs:comment xml:lang="es">La provincia de Shinano (信濃国 Shinano no kuni) o Shinshū (信州) fue una provincia japonesa que en la actualidad correspondería con la prefectura de Nagano. Shinano bordeaba las provincias de Echigo, Etchū, Hida, Kai, Kōzuke, Mikawa, Mino, Musashi, Suruga y Tōtōmi. Su capital estaba localizada en la actual Matsumoto, la cual se convirtió en una ciudad importante dentro de la provincia.</rdfs:comment>
+    <rdfs:comment xml:lang="nl">Shinano (信濃国,  Shinano no kuni) is een voormalige provincie van Japan, gelegen in de huidige prefectuur Nagano. Shinano lag naast de provincies Echigo, Etchu, Hida, Kai, Kozuke, Mikawa, Mino, Musashi, Suruga en Totomi. Het Japanse vliegdekschip Shinano uit de Tweede Wereldoorlog was naar de provincie vernoemd.</rdfs:comment>
+    <rdfs:comment xml:lang="ru">Синано (яп. 信濃国, «страна Синано») — историческая область Японии в регионе Тюбу в центре острова Хонсю. Соответствует современной префектуре Нагано.</rdfs:comment>
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.01rn9q" />
+    <owl:sameAs rdf:resource="http://nl.dbpedia.org/resource/Shinano_(provincie)" />
+    <owl:sameAs rdf:resource="http://pt.dbpedia.org/resource/Província_de_Shinano" />
+    <owl:sameAs rdf:resource="http://cs.dbpedia.org/resource/Provincie_Šinano" />
+    <owl:sameAs rdf:resource="http://it.dbpedia.org/resource/Shinano_(provincia)" />
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Shinano_Province" />
+    <owl:sameAs rdf:resource="http://id.dbpedia.org/resource/Provinsi_Shinano" />
+    <owl:sameAs rdf:resource="http://fr.dbpedia.org/resource/Province_de_Shinano" />
+    <owl:sameAs rdf:resource="http://es.dbpedia.org/resource/Provincia_de_Shinano" />
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q289250" />
+    <owl:sameAs rdf:resource="http://yago-knowledge.org/resource/Shinano_Province" />
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q289250" />
+    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/Provinz_Shinano" />
+    <owl:sameAs rdf:resource="http://ko.dbpedia.org/resource/시나노_국" />
+    <owl:sameAs rdf:resource="http://pl.dbpedia.org/resource/Prowincja_Shinano" />
+    <owl:sameAs rdf:resource="http://ja.dbpedia.org/resource/信濃国" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Former_provinces_of_Japan" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:History_of_Nagano_Prefecture" />
+    <dbo:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">298938</dbo:wikiPageID>
+    <dbo:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">742847950</dbo:wikiPageRevisionID>
+    <dbo:wikiPageExternalLink rdf:resource="https://books.google.com/books?id=18oNAAAAIAAJ&amp;dq=nipon+o+dai+itsi+ran" />
+    <dbo:wikiPageExternalLink rdf:resource="https://books.google.com/books?id=p2QnPijAEmEC&amp;client=firefox-a" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.maproom.org/00/05/sub1/1.html" />
+    <dbo:wikiPageExternalLink rdf:resource="https://archive.org/details/brooklynmuseum-o53575-a-view-of-mount-fuji-across-lake-suwa" />
+    <foaf:depiction rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Provinces_of_Japan-Shinano.svg" />
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Shinano_Province" />
+    <dbo:thumbnail rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Provinces_of_Japan-Shinano.svg?width=300" />
+    <prov:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Shinano_Province?oldid=742847950" />
+    <dbo:abstract xml:lang="zh">信濃國（日语：信濃国〔信濃國〕／しなののくに Shinanonokuni */?），日本古代的令制國之一，屬東山道，又稱信州。信濃國的領域大約為現在的長野縣。</dbo:abstract>
+    <dbo:abstract xml:lang="de">Shinano (jap. 信濃国, Shinano no kuni) oder Shinshū (信州) war eine der historischen Provinzen Japans.</dbo:abstract>
+    <dbo:abstract xml:lang="it">Shinano (giapponese: 信濃国; -no kuni) fu una provincia del Giappone in quella che è oggigiorno la prefettura di Nagano. Viene abbreviato come Shinshu (信州 Shinshū). Shinano confinava con le province di Echigo, Etchu, Hida, Kai, Kozuke, Mikawa, Mino, Musashi, Suruga e Totomi. L&#39;antica capitale si trovava vicino alla moderna città di Matsumoto che divenne un&#39;importante città della provincia. A causa delle sue grandi dimensioni Shinano venne spesso divisa in più feudi durante il periodo Sengoku e diverse città castello si svilupparono, tra cui Komoro, Ina e Ueda. Shinano fu uno dei centri principali del potere di Takeda Shingen durante le sue guerre contro Uesugi Kenshin ed altri. Nel 1871 con l&#39;abolizione dei resti feudali e la creazione delle prefetture (Haihan Chiken) in seguito alla Restaurazione Meiji, la provincia di Shinano venne divisa nelle prefetture di Nagano e Chikuma. Queste vennero nuovamente combinate nel 1876 per formare l&#39;odierna Nagano La portaerei Shinano della marina imperiale giapponese rimasta operativa per breve tempo durante la seconda guerra mondiale prese nome da questa provincia.</dbo:abstract>
+    <dbo:abstract xml:lang="pl">Prowincja Shinano (jap. 信濃国  Shinano no kuni) - historyczna prowincja Japonii, stanowiąca współczesną prefekturę Nagano. Historyczna stolica prowincji była zlokalizowana w pobliżu współczesnego miasta Matsumoto.</dbo:abstract>
+    <dbo:abstract xml:lang="en">Shinano Province (信濃国 Shinano no kuni) or Shinshū (信州) is an old province of Japan that is now present-day Nagano Prefecture. Shinano bordered on Echigo, Etchū, Hida, Kai, Kōzuke, Mikawa, Mino, Musashi, Suruga, and Tōtōmi Provinces. The ancient capital was located near modern-day Matsumoto, which became an important city of the province. The World War II–era Japanese aircraft carrier Shinano was named after this old province.</dbo:abstract>
+    <dbo:abstract xml:lang="ru">Синано (яп. 信濃国, «страна Синано») — историческая область Японии в регионе Тюбу в центре острова Хонсю. Соответствует современной префектуре Нагано.</dbo:abstract>
+    <dbo:abstract xml:lang="nl">Shinano (信濃国,  Shinano no kuni) is een voormalige provincie van Japan, gelegen in de huidige prefectuur Nagano. Shinano lag naast de provincies Echigo, Etchu, Hida, Kai, Kozuke, Mikawa, Mino, Musashi, Suruga en Totomi. Het Japanse vliegdekschip Shinano uit de Tweede Wereldoorlog was naar de provincie vernoemd.</dbo:abstract>
+    <dbo:abstract xml:lang="fr">Shinano (信濃国, Shinano no kuni) est une ancienne province du Japon qui se trouvait dans une région qui est l&#39;actuelle préfecture de Nagano. On abrège parfois le nom de la province en Shinshū (信州).La province de Shinano était entourée par les provinces d&#39;Echigo, Etchu, Hida, Kai, Kozuke, Mikawa, Mino, Musashi, Suruga et Totomi. L&#39;ancienne capitale provinciale était située près de la ville de Matsumoto qui était elle-même une ville importante de la province. La province étant très grande, elle a été divisée en une multitude de fiefs pendant la période Sengoku. Tant et si bien que d&#39;autres villes se dotèrent d&#39;un château pour se défendre. Ces villes sont Komoro, Ina et Ueda. La province a été le lieu d&#39;un bon nombre de batailles (notamment la Bataille de Shiojiritoge) lorsque Shingen Takeda tenta de prendre le contrôle de la province tenue en partie par le clan Ogasawara. Un autre clan à avoir des possessions dans la province est le clan Sanada.Le clan Suwa est originaire de la province de Shinano. 
+* Portail de l&#39;histoire du Japon Portail de l&#39;histoire du Japon   
+* Portail de la préfecture de Nagano Portail de la préfecture de Nagano</dbo:abstract>
+    <dbo:abstract xml:lang="pt">Shinano (信濃国, Shinano no kuni?) foi uma antiga província do Japão equivalente à atual prefeitura de Nagano. Sua abreviação é Shinshū (信州). Shinano fazia fronteira com as províncias de Echigo, Etchū, Hida, Kai, Kōzuke, Mikawa, Mino, Musashi, Suruga e Tōtōmi. A antiga capital se situava próxima à atual Matsumoto, que se tornou uma importante cidade da província. Na Segunda Guerra Mundial, o porta-aviões japonês Shinano recebeu seu nome a partir da antiga província.</dbo:abstract>
+    <dbo:abstract xml:lang="ja">信濃国（しなののくに）は、かつて日本の地方行政区分だった令制国の一つ。東山道に属する。 『万葉集』での枕詞は「水薦苅（みこもかる ）」。</dbo:abstract>
+    <dbo:abstract xml:lang="es">La provincia de Shinano (信濃国 Shinano no kuni) o Shinshū (信州) fue una provincia japonesa que en la actualidad correspondería con la prefectura de Nagano. Shinano bordeaba las provincias de Echigo, Etchū, Hida, Kai, Kōzuke, Mikawa, Mino, Musashi, Suruga y Tōtōmi. Su capital estaba localizada en la actual Matsumoto, la cual se convirtió en una ciudad importante dentro de la provincia.</dbo:abstract>
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Province" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yamamoto_Kansuke_(general)">
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Shinano_Province" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Battles_of_Kawanakajima">
+    <dbo:place rdf:resource="http://dbpedia.org/resource/Shinano_Province" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Battle_of_Uedahara">
+    <dbo:place rdf:resource="http://dbpedia.org/resource/Shinano_Province" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Shinshuu">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Shinano_Province" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Shinshû">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Shinano_Province" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sinano">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Shinano_Province" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sinano_Province">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Shinano_Province" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sinano_province">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Shinano_Province" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sinsyu">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Shinano_Province" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sinsyuu">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Shinano_Province" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sinsyû">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Shinano_Province" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Aoyama_Tadao">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Shinano_Province" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kamio_Mitsuomi">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Shinano_Province" />
+    <dbp:birthPlace rdf:resource="http://dbpedia.org/resource/Shinano_Province" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Siege_of_Uehara">
+    <dbo:place rdf:resource="http://dbpedia.org/resource/Shinano_Province" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Siege_of_Ryūgasaki">
+    <dbo:place rdf:resource="http://dbpedia.org/resource/Shinano_Province" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Battle_of_Shiojiritoge">
+    <dbo:place rdf:resource="http://dbpedia.org/resource/Shinano_Province" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sieges_of_Toishi">
+    <dbo:place rdf:resource="http://dbpedia.org/resource/Shinano_Province" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Battle_of_Odaihara">
+    <dbo:place rdf:resource="http://dbpedia.org/resource/Shinano_Province" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Siege_of_Shika_Castle">
+    <dbo:place rdf:resource="http://dbpedia.org/resource/Shinano_Province" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Shinshu">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Shinano_Province" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Fukushima_Yasumasa">
+    <dbp:birthPlace rdf:resource="http://dbpedia.org/resource/Shinano_Province" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Isawa_Shūji">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Shinano_Province" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Battle_of_Sezawa">
+    <dbo:place rdf:resource="http://dbpedia.org/resource/Shinano_Province" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Siege_of_Fukuyo">
+    <dbo:place rdf:resource="http://dbpedia.org/resource/Shinano_Province" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Siege_of_Kojinyama">
+    <dbo:place rdf:resource="http://dbpedia.org/resource/Shinano_Province" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Siege_of_Kuwabara">
+    <dbo:place rdf:resource="http://dbpedia.org/resource/Shinano_Province" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Siege_of_Nagakubo">
+    <dbo:place rdf:resource="http://dbpedia.org/resource/Shinano_Province" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Shinano_province">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Shinano_Province" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Siege_of_Uchiyama">
+    <dbo:place rdf:resource="http://dbpedia.org/resource/Shinano_Province" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Shinshū">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Shinano_Province" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Shinano-kuni">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Shinano_Province" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Shinano_Province">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Shinano_Province" />
+  </rdf:Description>
+</rdf:RDF>

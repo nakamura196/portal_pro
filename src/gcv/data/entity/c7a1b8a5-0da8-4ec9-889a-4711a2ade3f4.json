@@ -1,0 +1,112 @@
+{
+    "entities": [
+        {
+            "mentions": [
+                {
+                    "text": {
+                        "beginOffset": 9,
+                        "content": "人"
+                    },
+                    "type": "COMMON"
+                },
+                {
+                    "text": {
+                        "beginOffset": 87,
+                        "content": "人"
+                    },
+                    "type": "COMMON"
+                }
+            ],
+            "metadata": {},
+            "name": "人",
+            "salience": 0.24067317,
+            "type": "PERSON"
+        },
+        {
+            "mentions": [
+                {
+                    "text": {
+                        "beginOffset": 3,
+                        "content": "日本"
+                    },
+                    "type": "PROPER"
+                },
+                {
+                    "text": {
+                        "beginOffset": 81,
+                        "content": "日本"
+                    },
+                    "type": "PROPER"
+                }
+            ],
+            "metadata": {
+                "mid": "/m/03_3d",
+                "wikipedia_url": "https://en.wikipedia.org/wiki/Japan"
+            },
+            "name": "日本",
+            "salience": 0.2378146,
+            "type": "LOCATION"
+        },
+        {
+            "mentions": [
+                {
+                    "text": {
+                        "beginOffset": 125,
+                        "content": "CD-ROM非収録\t コリア"
+                    },
+                    "type": "PROPER"
+                }
+            ],
+            "metadata": {},
+            "name": "CD-ROM非収録 コリア",
+            "salience": 0.14429615,
+            "type": "CONSUMER_GOOD"
+        },
+        {
+            "mentions": [
+                {
+                    "text": {
+                        "beginOffset": 160,
+                        "content": "コリア評論社"
+                    },
+                    "type": "PROPER"
+                }
+            ],
+            "metadata": {},
+            "name": "コリア評論社",
+            "salience": 0.13722298,
+            "type": "OTHER"
+        },
+        {
+            "mentions": [
+                {
+                    "text": {
+                        "beginOffset": 151,
+                        "content": "評論"
+                    },
+                    "type": "COMMON"
+                }
+            ],
+            "metadata": {},
+            "name": "評論",
+            "salience": 0.13117073,
+            "type": "OTHER"
+        },
+        {
+            "mentions": [
+                {
+                    "text": {
+                        "beginOffset": 183,
+                        "content": "ja"
+                    },
+                    "type": "PROPER"
+                }
+            ],
+            "metadata": {},
+            "name": "ja",
+            "salience": 0.10882236,
+            "type": "ORGANIZATION"
+        }
+    ],
+    "language": "ja"
+}

@@ -1,0 +1,876 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:dct="http://purl.org/dc/terms/"
+	xmlns:dbo="http://dbpedia.org/ontology/"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:prov="http://www.w3.org/ns/prov#"
+	xmlns:dbp="http://dbpedia.org/property/"
+	xmlns:ns8="http://purl.org/linguistics/gold/" >
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Echinoderm">
+    <rdf:type rdf:resource="http://umbel.org/umbel/rc/Animal" />
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing" />
+    <rdf:type rdf:resource="http://umbel.org/umbel/rc/BiologicalLivingObject" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Eukaryote" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Species" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q19088" />
+    <rdf:type rdf:resource="http://umbel.org/umbel/rc/EukaryoticCell" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Animal" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q729" />
+    <rdfs:label xml:lang="ru">Иглокожие</rdfs:label>
+    <rdfs:label xml:lang="it">Echinodermata</rdfs:label>
+    <rdfs:label xml:lang="pt">Echinodermata</rdfs:label>
+    <rdfs:label xml:lang="pl">Szkarłupnie</rdfs:label>
+    <rdfs:label xml:lang="ar">شوكيات الجلد</rdfs:label>
+    <rdfs:label xml:lang="ja">棘皮動物</rdfs:label>
+    <rdfs:label xml:lang="nl">Stekelhuidigen</rdfs:label>
+    <rdfs:label xml:lang="de">Stachelhäuter</rdfs:label>
+    <rdfs:label xml:lang="fr">Echinodermata</rdfs:label>
+    <rdfs:label xml:lang="es">Echinodermata</rdfs:label>
+    <rdfs:label xml:lang="zh">棘皮动物</rdfs:label>
+    <rdfs:label xml:lang="en">Echinoderm</rdfs:label>
+    <rdfs:comment xml:lang="pt">Os Echinodermata (do grego echinos, espinho + derma, pele + ata, caracterizado por), também denominados equinodermos, equinodermes ou equinodermas, são animais deuterostômios exclusivamente marinhos e bentônicos. Tais seres são representantes do filo Echinodermata. São animais de vida livre, exceto por alguns crinóides que vivem fixos a um substrato rochoso (sésseis) e de simetria radial que também apresentam sua exceção, os comatulídeos, que se locomovem utilizando os braços. Este filo surgiu no período Cambriano recente e contêm cerca de 7.000 espécies viventes e 13.000 extintas.</rdfs:comment>
+    <rdfs:comment xml:lang="nl">Stekelhuidigen (Echinodermata) is een stam van de Deuterostomia.</rdfs:comment>
+    <rdfs:comment xml:lang="ru">Иглоко́жие (лат. Echinodermata) — тип исключительно морских донных животных, большей частью свободноживущих, реже сидячих, встречающихся на любых глубинах Мирового океана. Насчитывается около 7000 современных видов (в России — 400).Наряду с хордовыми, иглокожие относятся к ветви вторичноротых животных (Deuterostomia). Современными представителями типа являются морские звёзды, морские ежи, офиуры (змеехвостки), голотурии (морские огурцы) и морские лилии. В состав этого типа входят также приблизительно 13 000 вымерших видов, которые процветали в морях, начиная с раннего кембрия.</rdfs:comment>
+    <rdfs:comment xml:lang="it">Gli echinodermi (dal greco antico , ἐχῖνος, echinos – riccio e δέρμα, derma – pelle) sono un phylum di deuterostomi marini. Il nome deriva dal fatto che essi spesso sono ricoperti da piastre calcaree. L&#39;origine del phylum risale al Cambriano inferiore, le specie viventi sono circa 6.000. Questo phylum si compone di cinque principali tipi di animali: stelle marine, ricci di mare, cetrioli di mare, stelle fragili e crinoidi.</rdfs:comment>
+    <rdfs:comment xml:lang="es">Los equinodermos son un filo de animales deuteróstomos exclusivamente marinos y bentónicos. Su nombre alude a su exclusivo esqueleto interno formado por osículos calcáreos. Poseen simetría pentarradial secundaria, caso único en el reino animal, y un sistema vascular acuífero característico. Existen aproximadamente unas 7.000 especies actuales más unas 13.000 que ya se han extinguido, ya que su historia se remonta a principios del Cámbrico, siendo uno de los grupos animales mejor representados en el registro fósil.</rdfs:comment>
+    <rdfs:comment xml:lang="pl">Szkarłupnie (Echinodermata, z gr. echinos – jeż + derma – skóra) – typ halobiontycznych, bezkręgowych zwierząt wtóroustych (Deuterostomia) o wtórnej symetrii pięciopromiennej. Charakteryzują się wapiennym szkieletem wewnętrznym oraz obecnością unikalnego wśród zwierząt układu ambulakralnego, pełniącego funkcję lokomocyjną, dotykową, a częściowo wydalniczą i oddechową. Najstarsze skamieniałości szkarłupni znane są z osadów dolnego kambru. Większość z nich prowadzi osiadły tryb życia, choć niektóre są biernie przenoszone przez wodę. Nie występują wśród nich formy pasożytnicze.</rdfs:comment>
+    <rdfs:comment xml:lang="fr">Les échinodermes (Echinodermata) forment un embranchement d&#39;animaux marins benthiques présents à toutes les profondeurs océaniques, et dont les premières traces fossiles remontent au Cambrien.Ils regroupent actuellement cinq classes : les étoiles de mer (Astérides), les oursins (Echinides), les concombres de mer (Holothuries), les Crinoïdes et les Ophiures.</rdfs:comment>
+    <rdfs:comment xml:lang="ja">棘皮動物（きょくひどうぶつ）とは、棘皮動物門 (Echinodermata) に属する生物の総称である。ウニ、ヒトデ、クモヒトデ、ナマコなどが棘皮動物に属する。 棘皮動物という名称は、echinoderm というギリシャ語由来のラテン語を直訳したもので、echinoderm とは echinos（ハリネズミ）のような derma（皮）を持つものという意味である。その名が示す通り、元来ウニを対象としてつけられた名称であるが、ヒトデ、ナマコなど、ウニと類縁関係にある、トゲをもたない動物も、棘皮動物に含まれる。</rdfs:comment>
+    <rdfs:comment xml:lang="en">Echinoderm is the common name given to any member of the phylum Echinodermata (from Ancient Greek, ἐχῖνος, echinos – &quot;hedgehog&quot; and δέρμα, derma – &quot;skin&quot;) of marine animals. The adults are recognizable by their (usually five-point) radial symmetry, and include such well-known animals as sea stars, sea urchins, sand dollars, and sea cucumbers, as well as the sea lilies or &quot;stone lilies&quot;. Echinoderms are found at every ocean depth, from the intertidal zone to the abyssal zone.The phylum contains about 7000 living species, making it the second-largest grouping of deuterostomes (a superphylum), after the chordates (which include the vertebrates, such as birds, fishes, mammals, and reptiles). Echinoderms are also the largest phylum that has no freshwater or terrestrial (land-based) representati</rdfs:comment>
+    <rdfs:comment xml:lang="ar">25بك المحتوى هنا ينقصه الاستشهاد بمصادر. يرجى إيراد مصادر موثوق بها. أي معلومات غير موثقة يمكن التشكيك بها وإزالتها. (مارس 2016) شوكيات الجلد (بالإنجليزية: Echinoderm) جمیع أفراد هذه الشعبة معیشتها بحریة حرة قریبا من الشواطئ وحركتها بطیئة ویسهل التعرف علیها من صفاتهاالخارجیة مثل جلدها الشوكي.</rdfs:comment>
+    <rdfs:comment xml:lang="zh">棘皮动物门是动物界的一门。这个门从寒武纪出现，总共有20000多种类，现生种约5000余种。除现生5纲外，另有15纲之多，皆為海生動物，無陸生或淡水種類。常見的海膽與海參皆屬於此門。 棘皮动物是后口动物。它们的原肠胚孔形成肛门，而口部是后来形成的。它们有特殊的五体对称步管结构。棘皮动物的次生体腔发达，是由腸體腔（enterocoele）发育形成。 由於棘皮动物在胚胎形成方式及DNA序列上與脊索动物相似，被認為是包括人在内的脊索动物的近亲。 棘皮动物特有的结构是水管系統和管足。 刚出生的棘皮动物是两边对称的。成长期间，左边增大而右边缩小，直到右边被完全吸收了，然后这一边长成五倍辐形对称形状。</rdfs:comment>
+    <rdfs:comment xml:lang="de">Die Stachelhäuter (Echinodermata) (von griech. ἐχῖνος echinos „Igel“ und δέρμα derma „Haut“) sind ein zu den Deuterostomiern gehörender Tierstamm. Weltweit sind etwa 6300 rezente Arten der Stachelhäuter bekannt, womit sie die zweitgrößte Tiergruppe innerhalb der Neumundtiere (Deuterostomia) nach den Chordatieren (Chordata) bilden.</rdfs:comment>
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/List_of_echinodermata_orders" />
+    <owl:sameAs rdf:resource="http://id.dbpedia.org/resource/Echinodermata" />
+    <owl:sameAs rdf:resource="http://it.dbpedia.org/resource/Echinodermata" />
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q44631" />
+    <owl:sameAs rdf:resource="http://fr.dbpedia.org/resource/Echinodermata" />
+    <owl:sameAs rdf:resource="http://pl.dbpedia.org/resource/Szkarłupnie" />
+    <owl:sameAs rdf:resource="http://el.dbpedia.org/resource/Εχινόδερμα" />
+    <owl:sameAs rdf:resource="http://es.dbpedia.org/resource/Echinodermata" />
+    <owl:sameAs rdf:resource="http://pt.dbpedia.org/resource/Echinodermata" />
+    <owl:sameAs rdf:resource="http://ja.dbpedia.org/resource/棘皮動物" />
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q44631" />
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.0bv2v" />
+    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/Stachelhäuter" />
+    <owl:sameAs rdf:resource="http://nl.dbpedia.org/resource/Stekelhuidigen" />
+    <owl:sameAs rdf:resource="http://eu.dbpedia.org/resource/Ekinodermatu" />
+    <owl:sameAs rdf:resource="http://cs.dbpedia.org/resource/Ostnokožci" />
+    <owl:sameAs rdf:resource="http://ko.dbpedia.org/resource/극피동물" />
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Echinoderm" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Extant_Cambrian_first_appearances" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Echinoderms" />
+    <dbo:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">43143</dbo:wikiPageID>
+    <dbo:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">742747484</dbo:wikiPageRevisionID>
+    <dbo:wikiPageExternalLink rdf:resource="http://tolweb.org/tree?group=Echinodermata&amp;contgroup=Deuterostomia" />
+    <dbo:wikiPageExternalLink rdf:resource="http://science.jrank.org/pages/6015/Sea-Lily.html" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.nhm.ac.uk/research-curation/projects/echinoid-directory" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.tafi.org.au/zooplankton/imagekey/echinodermata/index.html" />
+    <dbo:wikiPageExternalLink rdf:resource="http://nlbif.eti.uva.nl/bis/echinodermata.php?menuentry=sleutel" />
+    <foaf:depiction rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Brockhaus_and_Efron_Encyclopedic_Dictionary_b24_782-0.jpg" />
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Echinoderm" />
+    <dbo:thumbnail rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Brockhaus_and_Efron_Encyclopedic_Dictionary_b24_782-0.jpg?width=300" />
+    <prov:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Echinoderm?oldid=742747484" />
+    <dbo:abstract xml:lang="ar">25بك المحتوى هنا ينقصه الاستشهاد بمصادر. يرجى إيراد مصادر موثوق بها. أي معلومات غير موثقة يمكن التشكيك بها وإزالتها. (مارس 2016) شوكيات الجلد (بالإنجليزية: Echinoderm) جمیع أفراد هذه الشعبة معیشتها بحریة حرة قریبا من الشواطئ وحركتها بطیئة ویسهل التعرف علیها من صفاتهاالخارجیة مثل جلدها الشوكي.</dbo:abstract>
+    <dbo:abstract xml:lang="it">Gli echinodermi (dal greco antico , ἐχῖνος, echinos – riccio e δέρμα, derma – pelle) sono un phylum di deuterostomi marini. Il nome deriva dal fatto che essi spesso sono ricoperti da piastre calcaree. L&#39;origine del phylum risale al Cambriano inferiore, le specie viventi sono circa 6.000. Questo phylum si compone di cinque principali tipi di animali: stelle marine, ricci di mare, cetrioli di mare, stelle fragili e crinoidi.</dbo:abstract>
+    <dbo:abstract xml:lang="ja">棘皮動物（きょくひどうぶつ）とは、棘皮動物門 (Echinodermata) に属する生物の総称である。ウニ、ヒトデ、クモヒトデ、ナマコなどが棘皮動物に属する。 棘皮動物という名称は、echinoderm というギリシャ語由来のラテン語を直訳したもので、echinoderm とは echinos（ハリネズミ）のような derma（皮）を持つものという意味である。その名が示す通り、元来ウニを対象としてつけられた名称であるが、ヒトデ、ナマコなど、ウニと類縁関係にある、トゲをもたない動物も、棘皮動物に含まれる。</dbo:abstract>
+    <dbo:abstract xml:lang="fr">Les échinodermes (Echinodermata) forment un embranchement d&#39;animaux marins benthiques présents à toutes les profondeurs océaniques, et dont les premières traces fossiles remontent au Cambrien.Ils regroupent actuellement cinq classes : les étoiles de mer (Astérides), les oursins (Echinides), les concombres de mer (Holothuries), les Crinoïdes et les Ophiures. Plusieurs milliers d&#39;espèces d&#39;échinodermes éteintes sont recensées par les paléontologues, leur squelette très calcifié permettant généralement une bonne fossilisation.Très originaux, les représentants de ce groupe possèdent un certain nombre de caractéristiques uniques dans le monde animal. Les principales sont une symétrie générale pentaradiée (symétrie centrale d&#39;ordre 5, bien qu&#39;ils restent bilatériens), l&#39;existence d&#39;un squelette constitué de plaques de calcite percées de nombreuses canalicules (structure en stéréome) et la présence d&#39;un système aquifère. Ils constituent un groupe proche des chordés au sein des deutérostomiens.</dbo:abstract>
+    <dbo:abstract xml:lang="en">Echinoderm is the common name given to any member of the phylum Echinodermata (from Ancient Greek, ἐχῖνος, echinos – &quot;hedgehog&quot; and δέρμα, derma – &quot;skin&quot;) of marine animals. The adults are recognizable by their (usually five-point) radial symmetry, and include such well-known animals as sea stars, sea urchins, sand dollars, and sea cucumbers, as well as the sea lilies or &quot;stone lilies&quot;. Echinoderms are found at every ocean depth, from the intertidal zone to the abyssal zone.The phylum contains about 7000 living species, making it the second-largest grouping of deuterostomes (a superphylum), after the chordates (which include the vertebrates, such as birds, fishes, mammals, and reptiles). Echinoderms are also the largest phylum that has no freshwater or terrestrial (land-based) representatives. Aside from the hard-to-classify Arkarua (a Precambrian animal with echinoderm-like pentamerous radial symmetry), the first definitive members of the phylum appeared near the start of the Cambrian. The echinoderms are important both biologically and geologically. Biologically, there are few other groupings so abundant in the biotic desert of the deep sea, as well as shallower oceans. Most echinoderms are able to regenerate tissue, organs, limbs, and reproduce asexually; in some cases, they can undergo complete regeneration from a single limb. Geologically, the value of echinoderms is in their ossified skeletons, which are major contributors to many limestone formations, and can provide valuable clues as to the geological environment. They were the most used species in regenerative research in the 19th and 20th centuries. Further, it is held by some scientists that the radiation of echinoderms was responsible for the Mesozoic Marine Revolution.</dbo:abstract>
+    <dbo:abstract xml:lang="nl">Stekelhuidigen (Echinodermata) is een stam van de Deuterostomia.</dbo:abstract>
+    <dbo:abstract xml:lang="pl">Szkarłupnie (Echinodermata, z gr. echinos – jeż + derma – skóra) – typ halobiontycznych, bezkręgowych zwierząt wtóroustych (Deuterostomia) o wtórnej symetrii pięciopromiennej. Charakteryzują się wapiennym szkieletem wewnętrznym oraz obecnością unikalnego wśród zwierząt układu ambulakralnego, pełniącego funkcję lokomocyjną, dotykową, a częściowo wydalniczą i oddechową. Najstarsze skamieniałości szkarłupni znane są z osadów dolnego kambru. Większość z nich prowadzi osiadły tryb życia, choć niektóre są biernie przenoszone przez wodę. Nie występują wśród nich formy pasożytnicze.</dbo:abstract>
+    <dbo:abstract xml:lang="zh">棘皮动物门是动物界的一门。这个门从寒武纪出现，总共有20000多种类，现生种约5000余种。除现生5纲外，另有15纲之多，皆為海生動物，無陸生或淡水種類。常見的海膽與海參皆屬於此門。 棘皮动物是后口动物。它们的原肠胚孔形成肛门，而口部是后来形成的。它们有特殊的五体对称步管结构。棘皮动物的次生体腔发达，是由腸體腔（enterocoele）发育形成。 由於棘皮动物在胚胎形成方式及DNA序列上與脊索动物相似，被認為是包括人在内的脊索动物的近亲。 棘皮动物特有的结构是水管系統和管足。 刚出生的棘皮动物是两边对称的。成长期间，左边增大而右边缩小，直到右边被完全吸收了，然后这一边长成五倍辐形对称形状。</dbo:abstract>
+    <dbo:abstract xml:lang="es">Los equinodermos son un filo de animales deuteróstomos exclusivamente marinos y bentónicos. Su nombre alude a su exclusivo esqueleto interno formado por osículos calcáreos. Poseen simetría pentarradial secundaria, caso único en el reino animal, y un sistema vascular acuífero característico. Existen aproximadamente unas 7.000 especies actuales más unas 13.000 que ya se han extinguido, ya que su historia se remonta a principios del Cámbrico, siendo uno de los grupos animales mejor representados en el registro fósil. Los equinodermos son conocidos desde la antigüedad. Aparecen en frescos cretenses de más de 4.000 años, pero no fueron reconocidos como taxón independiente hasta 1847. La ciencia que los estudia se llama equinodermología y el científico se llama un equinodermólogo.</dbo:abstract>
+    <dbo:abstract xml:lang="pt">Os Echinodermata (do grego echinos, espinho + derma, pele + ata, caracterizado por), também denominados equinodermos, equinodermes ou equinodermas, são animais deuterostômios exclusivamente marinhos e bentônicos. Tais seres são representantes do filo Echinodermata. São animais de vida livre, exceto por alguns crinóides que vivem fixos a um substrato rochoso (sésseis) e de simetria radial que também apresentam sua exceção, os comatulídeos, que se locomovem utilizando os braços. Este filo surgiu no período Cambriano recente e contêm cerca de 7.000 espécies viventes e 13.000 extintas. Estes animais se aproximam muito dos cordados por possuírem celoma verdadeiro (de origem enterocélica) e por serem deuterostômios, ou seja, o orifício embrionário conhecido como blastóporo origina o ânus dos indivíduos. Os sexos normalmente são separados. A reprodução sexual tipicamente consiste de liberação de ovos e espermas na água, com a fecundação acontecendo externamente. Na fase larval os equinodermos possuem simetria bilateral, vindo desenvolver a simetria radial somente no adulto. As larvas são livres natantes e semelhantes a embriões de cordados. Depois, o lado esquerdo do corpo se desenvolve mais que o direito, que é absorvido, e organiza-se numa simetria radial, em que o corpo é arranjado em partes em volta de um eixo central. Esta é basicamente pentâmera, ou seja, os elementos geralmente se dispõem em 5 ou múltiplos de 5. Possuem esqueleto formado por placas calcárias, coberto por fina camada epidérmica. O endoesqueleto mesodérmico é formado de pequenas placas de calcário e espinhos, que formam um rígido suporte que contem em si os tecidos do organismo; alguns grupos têm espinhos modificados chamados pedicelários que possibilitam a vida livre. Os equinodermos tipicamente possuem um sistema hidrovascular ou sistema aquífero (também denominado sistema ambulacral), que funciona na locomoção destes animais. O sistema hidrovascular funciona através de um sistema de canais hidráulicos, nos quais a diferença de pressão produz movimentos físicos. Também existem ventosas nas extremidades dos canais que permitem ao animal fixar-se ao substrato, exceto os representantes da classe Ophiuroidea. Eles têm um sistema nervoso radial simples que consistem em uma rede nervosa modificada (neurônios interconectados sem nenhum órgão central) e composto por anéis nervosos nervos radiais em volta da boca se estendendo por cada braço. Os ramos desses nervos coordenam o movimento do animal. Os equinodermos não têm cérebro, embora alguns possam ter gânglios. Os espinhos estão presentes em diversos formatos nos grupos de equinodermos, e atuam com a função de proteger o animal e para a locomoção. Podem ser recobertos por substâncias de caráter tóxico. Muitos equinodermos têm notável poder de regeneração: uma estrela-do-mar cortada radialmente em várias partes vai, depois de alguns meses, regenerar em tantas estrelas viáveis quantas foram as partes separadas. O corte de um braço (com uma parte proporcional de massa da parte central e de tecido nervoso) vai, em circunstâncias ideais, regenerar do mesmo modo. Formas fósseis incluem os blastóides, edrioasteróides, e vários outros animais do Cambriano conhecidos como Helicoplacus, carpóides, Homalozoa, e eocrinóides como a Gogia. Os Echinodermata são invertebrados exclusivamente marinhos, não possuindo representantes que habitem o meio terrestre ou dulcícola. Os equinodermos apresentam um conjunto de características únicas ausentes nos outros filos, dentre as quais destaca-se a simetria radial pentameral, ou seja, o corpo geralmente é dividido em cinco partes dispostas ao redor do eixo central.</dbo:abstract>
+    <dbo:abstract xml:lang="ru">Иглоко́жие (лат. Echinodermata) — тип исключительно морских донных животных, большей частью свободноживущих, реже сидячих, встречающихся на любых глубинах Мирового океана. Насчитывается около 7000 современных видов (в России — 400).Наряду с хордовыми, иглокожие относятся к ветви вторичноротых животных (Deuterostomia). Современными представителями типа являются морские звёзды, морские ежи, офиуры (змеехвостки), голотурии (морские огурцы) и морские лилии. В состав этого типа входят также приблизительно 13 000 вымерших видов, которые процветали в морях, начиная с раннего кембрия.</dbo:abstract>
+    <dbo:abstract xml:lang="de">Die Stachelhäuter (Echinodermata) (von griech. ἐχῖνος echinos „Igel“ und δέρμα derma „Haut“) sind ein zu den Deuterostomiern gehörender Tierstamm. Weltweit sind etwa 6300 rezente Arten der Stachelhäuter bekannt, womit sie die zweitgrößte Tiergruppe innerhalb der Neumundtiere (Deuterostomia) nach den Chordatieren (Chordata) bilden. Es handelt sich bei ihnen durchweg um Meeresbewohner, die bis auf wenige Tiefseearten reine Bodenbewohner sind – d. h. vorwiegend im Flachmeer leben. Neben ihrer weiten Verbreitung sind sie auch geologisch von Bedeutung, weil ihre abgestorbenen Schalen und Skelettteile wesentlich zur Bildung von Kalkgesteinen beitragen. Bei Vorherrschen einer Skelettart erhalten sie Namen wie Trochiten- oder Crinoidenkalk, die sich unter anderem in den Kalkalpen finden. Mengenmäßig überwiegen aber die Ablagerungen der winzigen, schwebenden Kalkalgen. Die Echinodermata werden traditionell in die meist gestielten Pelmatozoa sowie die freilebenden Eleutherozoa unterteilt. Zu den Pelmatozoa zählen mehrere als „Seelilien“ zusammengefasste Taxa sowie die sekundär freilebenden Haarsterne (Crinoidea). Die Eleutherozoa umfassen die bekannteren Gruppen der Stachelhäuter: die Seesterne (Asteroidea) und die Schlangensterne (Ophiuroidea), die Seeigel (Echinoidea) sowie die Seewalzen (Holothuroidea). Die seit 1986 als eine weitere Klasse identifizierten Seegänseblümchen (Concentricycloidea) werden inzwischen zu den Seesternen gestellt.</dbo:abstract>
+    <dbo:kingdom rdf:resource="http://dbpedia.org/resource/Animal" />
+    <dbo:kingdom rdf:resource="http://dbpedia.org/resource/Eumetazoa" />
+    <dbo:phylum rdf:resource="http://dbpedia.org/resource/Deuterostome" />
+    <dbp:fossilRange rdf:resource="http://dbpedia.org/resource/Holocene" />
+    <dbp:fossilRange rdf:resource="http://dbpedia.org/resource/Cambrian" />
+    <dbp:imageCaption rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Echinoderm</dbp:imageCaption>
+    <dbp:phylum rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Echinodermata</dbp:phylum>
+    <dbp:phylumAuthority rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Klein, 1734</dbp:phylumAuthority>
+    <dbp:subdivision rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Homalozoa † (Gill &amp; Caster, 1960)
+:Homostelea †
+:Homoiostelea †
+:Stylophora †
+:Ctenocystoidea † (Robison &amp; Sprinkle, 1969)
+Crinozoa 
+:Crinoidea
+:Paracrinoidea † (Regnéll, 1945)
+:Edrioasteroidea †
+Asterozoa
+:Ophiuroidea
+:Asteroidea
+
+Echinozoa
+:Echinoidea
+:Holothuroidea
+:Ophiocistioidea †
+:Helicoplacoidea †
+:?Arkarua †
+
+Blastozoa †
+:Blastoidea †
+:Cystoidea † (von Buch, 1846)
+:Eocrinoidea †(Jaekel, 1899)
+† = Extinct</dbp:subdivision>
+    <dbp:subdivisionRanks rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Subphyla and classes</dbp:subdivisionRanks>
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Name" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Luidia_ciliaris">
+    <dbo:division rdf:resource="http://dbpedia.org/resource/Echinoderm" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Australostichopus">
+    <dbo:phylum rdf:resource="http://dbpedia.org/resource/Echinoderm" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bathycrinidae">
+    <dbo:phylum rdf:resource="http://dbpedia.org/resource/Echinoderm" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kailidiscus">
+    <dbo:phylum rdf:resource="http://dbpedia.org/resource/Echinoderm" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Echinodermata">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Echinoderm" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Deltoblastus">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Echinoderm" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Geocoma">
+    <dbo:phylum rdf:resource="http://dbpedia.org/resource/Echinoderm" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hardouinia">
+    <dbo:phylum rdf:resource="http://dbpedia.org/resource/Echinoderm" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hemicidaris">
+    <dbo:phylum rdf:resource="http://dbpedia.org/resource/Echinoderm" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Linthia">
+    <dbo:phylum rdf:resource="http://dbpedia.org/resource/Echinoderm" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Loxechinus_albus">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Echinoderm" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Marsupites">
+    <dbo:phylum rdf:resource="http://dbpedia.org/resource/Echinoderm" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Melonechinus">
+    <dbo:phylum rdf:resource="http://dbpedia.org/resource/Echinoderm" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Metopaster">
+    <dbo:phylum rdf:resource="http://dbpedia.org/resource/Echinoderm" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Micraster">
+    <dbo:phylum rdf:resource="http://dbpedia.org/resource/Echinoderm" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Paleocoma">
+    <dbo:phylum rdf:resource="http://dbpedia.org/resource/Echinoderm" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Parisangulocrinus">
+    <dbo:phylum rdf:resource="http://dbpedia.org/resource/Echinoderm" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Pentacrinites">
+    <dbo:phylum rdf:resource="http://dbpedia.org/resource/Echinoderm" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Pentasteria">
+    <dbo:phylum rdf:resource="http://dbpedia.org/resource/Echinoderm" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Pentremites">
+    <dbo:phylum rdf:resource="http://dbpedia.org/resource/Echinoderm" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Phymosoma">
+    <dbo:phylum rdf:resource="http://dbpedia.org/resource/Echinoderm" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Plegiocidaris">
+    <dbo:phylum rdf:resource="http://dbpedia.org/resource/Echinoderm" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Plesiolampas">
+    <dbo:phylum rdf:resource="http://dbpedia.org/resource/Echinoderm" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Pleurocystites">
+    <dbo:phylum rdf:resource="http://dbpedia.org/resource/Echinoderm" />
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Echinoderm" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Pterocoma">
+    <dbo:phylum rdf:resource="http://dbpedia.org/resource/Echinoderm" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sagenocrinites">
+    <dbo:phylum rdf:resource="http://dbpedia.org/resource/Echinoderm" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Stauranderaster">
+    <dbo:phylum rdf:resource="http://dbpedia.org/resource/Echinoderm" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Stenaster">
+    <dbo:phylum rdf:resource="http://dbpedia.org/resource/Echinoderm" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Temnocidaris">
+    <dbo:phylum rdf:resource="http://dbpedia.org/resource/Echinoderm" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tropidaster">
+    <dbo:phylum rdf:resource="http://dbpedia.org/resource/Echinoderm" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tylocidaris">
+    <dbo:phylum rdf:resource="http://dbpedia.org/resource/Echinoderm" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Uintacrinus">
+    <dbo:phylum rdf:resource="http://dbpedia.org/resource/Echinoderm" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Asterina_(starfish)">
+    <dbo:phylum rdf:resource="http://dbpedia.org/resource/Echinoderm" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hemicentrotus">
+    <dbo:phylum rdf:resource="http://dbpedia.org/resource/Echinoderm" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Astrometis">
+    <dbo:phylum rdf:resource="http://dbpedia.org/resource/Echinoderm" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Pisaster_brevispinus">
+    <dbo:phylum rdf:resource="http://dbpedia.org/resource/Echinoderm" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Acanthotheelia">
+    <dbo:phylum rdf:resource="http://dbpedia.org/resource/Echinoderm" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Achistrum">
+    <dbo:phylum rdf:resource="http://dbpedia.org/resource/Echinoderm" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bolboporites">
+    <dbo:phylum rdf:resource="http://dbpedia.org/resource/Echinoderm" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Eocaudina">
+    <dbo:phylum rdf:resource="http://dbpedia.org/resource/Echinoderm" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Eocystites">
+    <dbo:phylum rdf:resource="http://dbpedia.org/resource/Echinoderm" />
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Echinoderm" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Henricia">
+    <dbo:phylum rdf:resource="http://dbpedia.org/resource/Echinoderm" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Henricia_leviuscula">
+    <dbo:phylum rdf:resource="http://dbpedia.org/resource/Echinoderm" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lyracystis">
+    <dbo:phylum rdf:resource="http://dbpedia.org/resource/Echinoderm" />
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Echinoderm" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Priscopedatus">
+    <dbo:phylum rdf:resource="http://dbpedia.org/resource/Echinoderm" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Rhabdotites">
+    <dbo:phylum rdf:resource="http://dbpedia.org/resource/Echinoderm" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Schlumbergerites">
+    <dbo:phylum rdf:resource="http://dbpedia.org/resource/Echinoderm" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Staurocumites">
+    <dbo:phylum rdf:resource="http://dbpedia.org/resource/Echinoderm" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Walcottidiscus">
+    <dbo:phylum rdf:resource="http://dbpedia.org/resource/Echinoderm" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Dendraster">
+    <dbo:phylum rdf:resource="http://dbpedia.org/resource/Echinoderm" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Psychropotes">
+    <dbo:phylum rdf:resource="http://dbpedia.org/resource/Echinoderm" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Psychropotes_longicauda">
+    <dbo:phylum rdf:resource="http://dbpedia.org/resource/Echinoderm" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Echinus_melo">
+    <dbo:phylum rdf:resource="http://dbpedia.org/resource/Echinoderm" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Coelopleurus_exquisitus">
+    <dbo:phylum rdf:resource="http://dbpedia.org/resource/Echinoderm" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Culcita_coriacea">
+    <dbo:phylum rdf:resource="http://dbpedia.org/resource/Echinoderm" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Luidia">
+    <dbo:division rdf:resource="http://dbpedia.org/resource/Echinoderm" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Poraniopsis">
+    <dbo:phylum rdf:resource="http://dbpedia.org/resource/Echinoderm" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Chelonite">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Echinoderm" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Echinite">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Echinoderm" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Echindonermata">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Echinoderm" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gogia">
+    <dbo:phylum rdf:resource="http://dbpedia.org/resource/Echinoderm" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Heterocentrotus_mamillatus">
+    <dbo:phylum rdf:resource="http://dbpedia.org/resource/Echinoderm" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bohadschia">
+    <dbo:phylum rdf:resource="http://dbpedia.org/resource/Echinoderm" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bohadschia_argus">
+    <dbo:phylum rdf:resource="http://dbpedia.org/resource/Echinoderm" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Holothuria_thomasi">
+    <dbo:phylum rdf:resource="http://dbpedia.org/resource/Echinoderm" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Holothuria_tubulosa">
+    <dbo:phylum rdf:resource="http://dbpedia.org/resource/Echinoderm" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Luidia_superba">
+    <dbo:division rdf:resource="http://dbpedia.org/resource/Echinoderm" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Betelgeusia">
+    <dbo:phylum rdf:resource="http://dbpedia.org/resource/Echinoderm" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Luidia_clathrata">
+    <dbo:phylum rdf:resource="http://dbpedia.org/resource/Echinoderm" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Luidia_magnifica">
+    <dbo:division rdf:resource="http://dbpedia.org/resource/Echinoderm" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Rhenopyrgus">
+    <dbo:phylum rdf:resource="http://dbpedia.org/resource/Echinoderm" />
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Echinoderm" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Calliaster">
+    <dbo:phylum rdf:resource="http://dbpedia.org/resource/Echinoderm" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Evasterias_troscheli">
+    <dbo:phylum rdf:resource="http://dbpedia.org/resource/Echinoderm" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Holothuria_floridana">
+    <dbo:phylum rdf:resource="http://dbpedia.org/resource/Echinoderm" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Luidia_senegalensis">
+    <dbo:division rdf:resource="http://dbpedia.org/resource/Echinoderm" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tripneustes">
+    <dbo:phylum rdf:resource="http://dbpedia.org/resource/Echinoderm" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Parvulastra_parvivipara">
+    <dbo:phylum rdf:resource="http://dbpedia.org/resource/Echinoderm" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ceramaster_arcticus">
+    <dbo:phylum rdf:resource="http://dbpedia.org/resource/Echinoderm" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Cidaris_cidaris">
+    <dbo:phylum rdf:resource="http://dbpedia.org/resource/Echinoderm" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Eucidaris">
+    <dbo:phylum rdf:resource="http://dbpedia.org/resource/Echinoderm" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Eucidaris_metularia">
+    <dbo:phylum rdf:resource="http://dbpedia.org/resource/Echinoderm" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Holothuria_edulis">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Echinoderm" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Holothuria_parvula">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Echinoderm" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Luidia_australiae">
+    <dbo:division rdf:resource="http://dbpedia.org/resource/Echinoderm" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Caymanostellidae">
+    <dbo:phylum rdf:resource="http://dbpedia.org/resource/Echinoderm" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Amperima_rosea">
+    <dbo:phylum rdf:resource="http://dbpedia.org/resource/Echinoderm" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Oneirophanta_mutabilis">
+    <dbo:phylum rdf:resource="http://dbpedia.org/resource/Echinoderm" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Plectaster_decanus">
+    <dbo:phylum rdf:resource="http://dbpedia.org/resource/Echinoderm" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Evoplosoma">
+    <dbo:phylum rdf:resource="http://dbpedia.org/resource/Echinoderm" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Heliocidaris">
+    <dbo:phylum rdf:resource="http://dbpedia.org/resource/Echinoderm" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Myxaster">
+    <dbo:phylum rdf:resource="http://dbpedia.org/resource/Echinoderm" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Myxasteridae">
+    <dbo:phylum rdf:resource="http://dbpedia.org/resource/Echinoderm" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Neognathostomata">
+    <dbo:phylum rdf:resource="http://dbpedia.org/resource/Echinoderm" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Pythonaster">
+    <dbo:phylum rdf:resource="http://dbpedia.org/resource/Echinoderm" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Apollonaster">
+    <dbo:phylum rdf:resource="http://dbpedia.org/resource/Echinoderm" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Astroceramus">
+    <dbo:phylum rdf:resource="http://dbpedia.org/resource/Echinoderm" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Phyllacanthus_imperialis">
+    <dbo:phylum rdf:resource="http://dbpedia.org/resource/Echinoderm" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Pseudoboletia_maculata">
+    <dbo:phylum rdf:resource="http://dbpedia.org/resource/Echinoderm" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Eucidaris_tribuloides">
+    <dbo:phylum rdf:resource="http://dbpedia.org/resource/Echinoderm" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Luidia_sarsi">
+    <dbo:division rdf:resource="http://dbpedia.org/resource/Echinoderm" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Porcellanasteridae">
+    <dbo:phylum rdf:resource="http://dbpedia.org/resource/Echinoderm" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Conoclypus">
+    <dbo:phylum rdf:resource="http://dbpedia.org/resource/Echinoderm" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Echinaster_spinulosus">
+    <dbo:phylum rdf:resource="http://dbpedia.org/resource/Echinoderm" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Euapta_lappa">
+    <dbo:phylum rdf:resource="http://dbpedia.org/resource/Echinoderm" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hippasteria">
+    <dbo:phylum rdf:resource="http://dbpedia.org/resource/Echinoderm" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lytechinus">
+    <dbo:phylum rdf:resource="http://dbpedia.org/resource/Echinoderm" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Orange_knobby_star">
+    <dbo:phylum rdf:resource="http://dbpedia.org/resource/Echinoderm" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Plagiochasma_(echinoderm)">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Echinoderm" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sand_star">
+    <dbo:division rdf:resource="http://dbpedia.org/resource/Echinoderm" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Solaster_spectabilis">
+    <dbo:phylum rdf:resource="http://dbpedia.org/resource/Echinoderm" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Stylasterias">
+    <dbo:phylum rdf:resource="http://dbpedia.org/resource/Echinoderm" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Toxopneustes">
+    <dbo:phylum rdf:resource="http://dbpedia.org/resource/Echinoderm" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Brisingidae">
+    <dbo:phylum rdf:resource="http://dbpedia.org/resource/Echinoderm" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Eucidaris_thouarsii">
+    <dbo:phylum rdf:resource="http://dbpedia.org/resource/Echinoderm" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nudamphiura">
+    <dbo:phylum rdf:resource="http://dbpedia.org/resource/Echinoderm" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Patiria_pectinifera">
+    <dbo:phylum rdf:resource="http://dbpedia.org/resource/Echinoderm" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tripneustes_depressus">
+    <dbo:phylum rdf:resource="http://dbpedia.org/resource/Echinoderm" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Celerina_heffernani">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Echinoderm" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Freyellidae">
+    <dbo:phylum rdf:resource="http://dbpedia.org/resource/Echinoderm" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gymnechinus">
+    <dbo:phylum rdf:resource="http://dbpedia.org/resource/Echinoderm" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Heliasteridae">
+    <dbo:phylum rdf:resource="http://dbpedia.org/resource/Echinoderm" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Porania">
+    <dbo:phylum rdf:resource="http://dbpedia.org/resource/Echinoderm" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Poraniidae">
+    <dbo:phylum rdf:resource="http://dbpedia.org/resource/Echinoderm" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Crinoid">
+    <dbo:phylum rdf:resource="http://dbpedia.org/resource/Echinoderm" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Cidaris">
+    <dbo:phylum rdf:resource="http://dbpedia.org/resource/Echinoderm" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Marsupiocrinus">
+    <dbo:phylum rdf:resource="http://dbpedia.org/resource/Echinoderm" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Platanaster">
+    <dbo:phylum rdf:resource="http://dbpedia.org/resource/Echinoderm" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Echinaster_sepositus">
+    <dbo:phylum rdf:resource="http://dbpedia.org/resource/Echinoderm" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Oreaster_reticulatus">
+    <dbo:phylum rdf:resource="http://dbpedia.org/resource/Echinoderm" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Echinosphaerites">
+    <dbo:phylum rdf:resource="http://dbpedia.org/resource/Echinoderm" />
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Echinoderm" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Equinodermata_taxonomy">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Echinoderm" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Taxonomy_of_Ctenocidarinae">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Echinoderm" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Taxonomy_of_Ctenocystoidea">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Echinoderm" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Taxonomy_of_Homoiostelea">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Echinoderm" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Taxonomy_of_Homostelea">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Echinoderm" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Taxonomy_of_Stereocidarinae">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Echinoderm" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bat_star">
+    <dbo:phylum rdf:resource="http://dbpedia.org/resource/Echinoderm" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Solaster_dawsoni">
+    <dbo:phylum rdf:resource="http://dbpedia.org/resource/Echinoderm" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Solaster_endeca">
+    <dbo:phylum rdf:resource="http://dbpedia.org/resource/Echinoderm" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Solaster_stimpsoni">
+    <dbo:phylum rdf:resource="http://dbpedia.org/resource/Echinoderm" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vizcainoia">
+    <dbo:phylum rdf:resource="http://dbpedia.org/resource/Echinoderm" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Holothuria_scabra">
+    <dbo:phylum rdf:resource="http://dbpedia.org/resource/Echinoderm" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Monachaster">
+    <dbo:phylum rdf:resource="http://dbpedia.org/resource/Echinoderm" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Synaptula_lamperti">
+    <dbo:phylum rdf:resource="http://dbpedia.org/resource/Echinoderm" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Cenocrinus">
+    <dbo:phylum rdf:resource="http://dbpedia.org/resource/Echinoderm" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Centrostephanus_longispinus">
+    <dbo:phylum rdf:resource="http://dbpedia.org/resource/Echinoderm" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Luidia_quinaria">
+    <dbo:division rdf:resource="http://dbpedia.org/resource/Echinoderm" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Pelanechinus">
+    <dbo:phylum rdf:resource="http://dbpedia.org/resource/Echinoderm" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Phylum_echinodermata">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Echinoderm" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Brisingida">
+    <dbo:phylum rdf:resource="http://dbpedia.org/resource/Echinoderm" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Camptostroma">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Echinoderm" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Forcipulatida">
+    <dbo:phylum rdf:resource="http://dbpedia.org/resource/Echinoderm" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Notomyotida">
+    <dbo:phylum rdf:resource="http://dbpedia.org/resource/Echinoderm" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Pisaster_ochraceus">
+    <dbo:phylum rdf:resource="http://dbpedia.org/resource/Echinoderm" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Spinulosida">
+    <dbo:phylum rdf:resource="http://dbpedia.org/resource/Echinoderm" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Velatida">
+    <dbo:phylum rdf:resource="http://dbpedia.org/resource/Echinoderm" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sea_cucumber">
+    <dbo:phylum rdf:resource="http://dbpedia.org/resource/Echinoderm" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Pentagonaster_(starfish)">
+    <dbo:phylum rdf:resource="http://dbpedia.org/resource/Echinoderm" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Zoroasteridae">
+    <dbo:phylum rdf:resource="http://dbpedia.org/resource/Echinoderm" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Echinothrix_calamaris">
+    <dbo:phylum rdf:resource="http://dbpedia.org/resource/Echinoderm" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Plesiocidaris">
+    <dbo:phylum rdf:resource="http://dbpedia.org/resource/Echinoderm" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Arachnoides_zelandiae">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Echinoderm" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Asteriidae">
+    <dbo:phylum rdf:resource="http://dbpedia.org/resource/Echinoderm" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Asterinidae">
+    <dbo:phylum rdf:resource="http://dbpedia.org/resource/Echinoderm" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Astropectinidae">
+    <dbo:phylum rdf:resource="http://dbpedia.org/resource/Echinoderm" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Loveniidae">
+    <dbo:phylum rdf:resource="http://dbpedia.org/resource/Echinoderm" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sunflower_seastar">
+    <dbo:phylum rdf:resource="http://dbpedia.org/resource/Echinoderm" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Crinozoa">
+    <dbo:phylum rdf:resource="http://dbpedia.org/resource/Echinoderm" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Holothuria_spinifera">
+    <dbo:phylum rdf:resource="http://dbpedia.org/resource/Echinoderm" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Homostelea">
+    <dbo:phylum rdf:resource="http://dbpedia.org/resource/Echinoderm" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Circeaster">
+    <dbo:phylum rdf:resource="http://dbpedia.org/resource/Echinoderm" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Labidodemas">
+    <dbo:phylum rdf:resource="http://dbpedia.org/resource/Echinoderm" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tripneustes_parkinsoni">
+    <dbo:phylum rdf:resource="http://dbpedia.org/resource/Echinoderm" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Protremaster">
+    <dbo:phylum rdf:resource="http://dbpedia.org/resource/Echinoderm" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Evoplosoma_claguei">
+    <dbo:phylum rdf:resource="http://dbpedia.org/resource/Echinoderm" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Evoplosoma_voratus">
+    <dbo:phylum rdf:resource="http://dbpedia.org/resource/Echinoderm" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hippasteria_muscipula">
+    <dbo:phylum rdf:resource="http://dbpedia.org/resource/Echinoderm" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Metrodira_subulata">
+    <dbo:phylum rdf:resource="http://dbpedia.org/resource/Echinoderm" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Paxillosida">
+    <dbo:phylum rdf:resource="http://dbpedia.org/resource/Echinoderm" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Scotoplanes">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Echinoderm" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bourgueticrinidae">
+    <dbo:phylum rdf:resource="http://dbpedia.org/resource/Echinoderm" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tripneustes_ventricosus">
+    <dbo:phylum rdf:resource="http://dbpedia.org/resource/Echinoderm" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bothriocidaris">
+    <dbo:phylum rdf:resource="http://dbpedia.org/resource/Echinoderm" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Collector_urchin">
+    <dbo:phylum rdf:resource="http://dbpedia.org/resource/Echinoderm" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Holothuria_mexicana">
+    <dbo:phylum rdf:resource="http://dbpedia.org/resource/Echinoderm" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lichenoides">
+    <dbo:phylum rdf:resource="http://dbpedia.org/resource/Echinoderm" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Pernerocrinus">
+    <dbo:phylum rdf:resource="http://dbpedia.org/resource/Echinoderm" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Helicoplacus">
+    <dbo:phylum rdf:resource="http://dbpedia.org/resource/Echinoderm" />
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Echinoderm" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Astrophyton">
+    <dbo:phylum rdf:resource="http://dbpedia.org/resource/Echinoderm" />
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Echinoderm" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Diadematidae">
+    <dbo:phylum rdf:resource="http://dbpedia.org/resource/Echinoderm" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Echinoderms">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Echinoderm" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Choriaster_granulatus">
+    <dbo:phylum rdf:resource="http://dbpedia.org/resource/Echinoderm" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ceramaster">
+    <dbo:phylum rdf:resource="http://dbpedia.org/resource/Echinoderm" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ceramaster_patagonicus">
+    <dbo:phylum rdf:resource="http://dbpedia.org/resource/Echinoderm" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Culcita_(echinoderm)">
+    <dbo:phylum rdf:resource="http://dbpedia.org/resource/Echinoderm" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Culcita_novaeguineae">
+    <dbo:phylum rdf:resource="http://dbpedia.org/resource/Echinoderm" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Culcita_schmideliana">
+    <dbo:phylum rdf:resource="http://dbpedia.org/resource/Echinoderm" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Leptasterias_aequalis">
+    <dbo:phylum rdf:resource="http://dbpedia.org/resource/Echinoderm" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nidorellia_armata">
+    <dbo:phylum rdf:resource="http://dbpedia.org/resource/Echinoderm" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Reteocrinus">
+    <dbo:phylum rdf:resource="http://dbpedia.org/resource/Echinoderm" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Strongylocentrotus_droebachiensis">
+    <dbo:phylum rdf:resource="http://dbpedia.org/resource/Echinoderm" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Thelenota_ananas">
+    <dbo:phylum rdf:resource="http://dbpedia.org/resource/Echinoderm" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Urasterella">
+    <dbo:phylum rdf:resource="http://dbpedia.org/resource/Echinoderm" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bohadschia_marmorata">
+    <dbo:phylum rdf:resource="http://dbpedia.org/resource/Echinoderm" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Holothuria_forskali">
+    <dbo:phylum rdf:resource="http://dbpedia.org/resource/Echinoderm" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Synaptula">
+    <dbo:phylum rdf:resource="http://dbpedia.org/resource/Echinoderm" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Cassiduloida">
+    <dbo:phylum rdf:resource="http://dbpedia.org/resource/Echinoderm" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Dendraster_excentricus">
+    <dbo:phylum rdf:resource="http://dbpedia.org/resource/Echinoderm" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Heterocentrotus">
+    <dbo:phylum rdf:resource="http://dbpedia.org/resource/Echinoderm" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Dizygocrinus">
+    <dbo:division rdf:resource="http://dbpedia.org/resource/Echinoderm" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Encrinidae">
+    <dbo:phylum rdf:resource="http://dbpedia.org/resource/Echinoderm" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Platycrinites">
+    <dbo:phylum rdf:resource="http://dbpedia.org/resource/Echinoderm" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Platycrinitidae">
+    <dbo:phylum rdf:resource="http://dbpedia.org/resource/Echinoderm" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Aquilonastra">
+    <dbo:phylum rdf:resource="http://dbpedia.org/resource/Echinoderm" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bathyporania">
+    <dbo:phylum rdf:resource="http://dbpedia.org/resource/Echinoderm" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Clavaporania">
+    <dbo:phylum rdf:resource="http://dbpedia.org/resource/Echinoderm" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Dendraster_ashleyi">
+    <dbo:phylum rdf:resource="http://dbpedia.org/resource/Echinoderm" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Dendraster_gibbsii">
+    <dbo:phylum rdf:resource="http://dbpedia.org/resource/Echinoderm" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Echinus_gilchristi">
+    <dbo:phylum rdf:resource="http://dbpedia.org/resource/Echinoderm" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Thelenota">
+    <dbo:phylum rdf:resource="http://dbpedia.org/resource/Echinoderm" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Stephanasterias_albula">
+    <dbo:phylum rdf:resource="http://dbpedia.org/resource/Echinoderm" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Cothurnocystis">
+    <dbo:phylum rdf:resource="http://dbpedia.org/resource/Echinoderm" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Heliaster_solaris">
+    <dbo:phylum rdf:resource="http://dbpedia.org/resource/Echinoderm" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Saccocoma">
+    <dbo:phylum rdf:resource="http://dbpedia.org/resource/Echinoderm" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Calceolispongia">
+    <dbo:phylum rdf:resource="http://dbpedia.org/resource/Echinoderm" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Echinus_esculentus">
+    <dbo:phylum rdf:resource="http://dbpedia.org/resource/Echinoderm" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Solaster_paxillatus">
+    <dbo:phylum rdf:resource="http://dbpedia.org/resource/Echinoderm" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Centrostephanus_coronatus">
+    <dbo:phylum rdf:resource="http://dbpedia.org/resource/Echinoderm" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Heterocentrotus_trigonarius">
+    <dbo:phylum rdf:resource="http://dbpedia.org/resource/Echinoderm" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Pseudarchaster_myobrachius">
+    <dbo:phylum rdf:resource="http://dbpedia.org/resource/Echinoderm" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Reef_starfish">
+    <dbo:phylum rdf:resource="http://dbpedia.org/resource/Echinoderm" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Echinidea">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Echinoderm" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Cothurnocystidae">
+    <dbo:phylum rdf:resource="http://dbpedia.org/resource/Echinoderm" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Calliaster_elegans">
+    <dbo:phylum rdf:resource="http://dbpedia.org/resource/Echinoderm" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Heliaster">
+    <dbo:phylum rdf:resource="http://dbpedia.org/resource/Echinoderm" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Heliaster_microbrachius">
+    <dbo:phylum rdf:resource="http://dbpedia.org/resource/Echinoderm" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Pentagonaster_pulchellus">
+    <dbo:phylum rdf:resource="http://dbpedia.org/resource/Echinoderm" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Priscopedatidae">
+    <dbo:phylum rdf:resource="http://dbpedia.org/resource/Echinoderm" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sthenaster_emmae">
+    <dbo:phylum rdf:resource="http://dbpedia.org/resource/Echinoderm" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Catopygus">
+    <dbo:phylum rdf:resource="http://dbpedia.org/resource/Echinoderm" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Clarkometra_elegans">
+    <dbo:phylum rdf:resource="http://dbpedia.org/resource/Echinoderm" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Stichasteridae">
+    <dbo:phylum rdf:resource="http://dbpedia.org/resource/Echinoderm" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Studeria">
+    <dbo:phylum rdf:resource="http://dbpedia.org/resource/Echinoderm" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Echinderm">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Echinoderm" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Pluteus_larva">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Echinoderm" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Echinodermata.">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Echinoderm" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Echinoderm">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Echinoderm" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Primitive_echinoderms">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Echinoderm" />
+  </rdf:Description>
+</rdf:RDF>
