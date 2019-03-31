@@ -48,7 +48,7 @@ title: Providing Organizations
 
     var query = " PREFIX dcterms: <http://purl.org/dc/terms/> \n";
     query += " PREFIX dcndl: <http://ndl.go.jp/dcndl/terms/> \n";
-    query += " select distinct ?org count(?org) as ?c \n";
+    query += " select distinct ?org count(distinct ?s) as ?c \n";
     query += " WHERE { \n";
     query += " ?s dcndl:digitizedPublisher ?org . \n";
     query += " filter(LANG(?org) = '"+lang+"') . \n";

@@ -49,7 +49,7 @@ title: Collections
 
     var query = " PREFIX dcterms: <http://purl.org/dc/terms/> \n";
     query += " PREFIX dcndl: <http://ndl.go.jp/dcndl/terms/> \n";
-    query += " select distinct ?o count(?o) as ?c ?org \n";
+    query += " select distinct ?o count(distinct ?s) as ?c ?org \n";
     query += " WHERE { \n";
     query += " ?s dcterms:isPartOf ?o . \n";
     query += " filter(LANG(?o) = '"+lang+"') . \n";
