@@ -48,10 +48,10 @@ title: Providing Organizations
 
     var query = " PREFIX dcterms: <http://purl.org/dc/terms/> \n";
     query += " PREFIX dcndl: <http://ndl.go.jp/dcndl/terms/> \n";
-    query += " select distinct ?org count(distinct ?s) as ?c \n";
+    query += " select distinct ?provider count(distinct ?s) as ?c \n";
     query += " WHERE { \n";
-    query += " ?s dcndl:digitizedPublisher ?org . \n";
-    query += " filter(LANG(?org) = '"+lang+"') . \n";
+    query += " ?s dcndl:digitizedPublisher ?provider . \n";
+    query += " filter(LANG(?provider) = '"+lang+"') . \n";
 
     if(q != ""){
       query += " ?s ?p ?q . \n";
@@ -78,7 +78,7 @@ title: Providing Organizations
 
       for(var i = 0; i < result.length; i++){
         var obj = result[i];
-        histgram[obj["org"]["value"]] = Number(obj["c"]["value"])
+        histgram[obj["provider"]["value"]] = Number(obj["c"]["value"])
       }
 
       count = 0
@@ -158,7 +158,34 @@ title: Providing Organizations
                   }
                 },
                 series: {
-                  cursor: 'pointer'
+                  cursor: 'pointer',
+                  point: {
+                    events: {
+                      click: function () {
+
+                        var value = this.category
+
+                        var query2 = " PREFIX dcterms: <http://purl.org/dc/terms/> \n";
+                        query2 += " PREFIX dcndl: <http://ndl.go.jp/dcndl/terms/> \n";
+                        query2 += " select distinct ?s ?title ?image ?provider WHERE { \n";
+                        query2 += " ?s dcterms:title ?title . \n";
+                        query2 += " optional { ?s foaf:thumbnail ?image . } \n";
+                        query2 += " ?s dcndl:digitizedPublisher ?provider . \n";
+                        query2 += " filter(?provider = '"+value+"'@"+lang+") . \n";
+
+                        if(q != ""){
+                          query2 += " ?s ?p ?q . \n";
+                          query2 += " ?q bif:contains '\""+q+"\"' . \n";
+                        }
+
+                        query2 += " } \n";
+
+                        var url = "https://nakamura196.github.io/portal_pro/snorql/?query=" + encodeURIComponent(query2)
+                        open( url, "snorql" ) ;
+
+                      }
+                    }
+                  }
                 }
               },
               legend: {
