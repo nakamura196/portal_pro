@@ -1,0 +1,195 @@
+---
+layout: default
+title: Providing Organizations
+---
+<div class="py-5 bg-light">
+  <div class="container">
+    <h2 class="mb-4">Providing Organizations</h2>
+    <form class="mb-5">
+      <div class="form-group row">
+        <label for="staticEmail" class="col-sm-2 col-form-label">Keyword</label>
+        <div class="col-sm-10">
+          <input type="text" class="form-control" id="q" name="q">
+        </div>
+      </div>
+      <div class="form-group row">
+        <label for="inputPassword" class="col-sm-2 col-form-label">Language</label>
+        <div class="col-sm-10">
+          <select class="form-control" name="lang" id="lang">
+            <option value="ja">日本語</option>
+            <option value="en">English</option>
+          </select>
+        </div>
+      </div>
+      <button type="submit" class="btn btn-primary">Submit</button>
+    </form>
+    <div id="main" class="my-5"></div>
+    <div class="text-center" id="loading"> <img src="assets/images/loading.gif" class="img-fluid" /> </div>
+  </div>
+</div>
+
+<script src="//code.highcharts.com/highcharts.js"></script>
+<script>
+  jQuery(document).ready(function() {
+
+    var arg  = new Object;
+    url = location.search.substring(1).split('&');
+
+    for(i=0; url[i]; i++) {
+      var k = url[i].split('=');
+      arg[k[0]] = decodeURIComponent(k[1]);
+    }
+
+    var q = arg["q"] != null ? arg["q"] : ""
+    $("#q").val(q)
+
+    var lang = arg["lang"] != null ? arg["lang"] : "ja"
+    $("#lang").val(lang)
+
+    var query = " PREFIX dcterms: <http://purl.org/dc/terms/> \n";
+    query += " PREFIX dcndl: <http://ndl.go.jp/dcndl/terms/> \n";
+    query += " select distinct ?org count(?org) as ?c \n";
+    query += " WHERE { \n";
+    query += " ?s dcndl:digitizedPublisher ?org . \n";
+    query += " filter(LANG(?org) = '"+lang+"') . \n";
+
+    if(q != ""){
+      query += " ?s ?p ?q . \n";
+      query += " ?q bif:contains '\""+q+"\"' . \n";
+    }
+
+    query += " } order by desc(?c) \n";
+
+    $.ajax({
+      url:"https://sparql.dl.itc.u-tokyo.ac.jp",
+      type:'GET',
+      data:{
+        query : query,
+        format : "json"
+      }
+    })
+    .then(
+    // 1つめは通信成功時のコールバック
+    function (data) {
+
+      var result = data.results.bindings;
+
+      var histgram = {}
+
+      for(var i = 0; i < result.length; i++){
+        var obj = result[i];
+        histgram[obj["org"]["value"]] = Number(obj["c"]["value"])
+      }
+
+      count = 0
+
+      v = "Providing Organizations"
+
+      var card = $('<div class="card mb-5">');
+
+        $("#main").append(card);
+
+        var body = $('<div class="card-body">');
+
+          card.append(body);
+
+          body.append($("<div id='container_"+count+"'>"));
+
+            keysSorted = Object.keys(histgram).sort(function(a,b){return histgram[b]-histgram[a]})
+            keys = []
+            values = []
+
+            var max = keysSorted.length
+
+            var other = 0
+
+            if(max > 50){
+              for(j = 0; j < max; j++){
+                var c = histgram[keysSorted[j]]
+                if(c > 10){
+                  keys.push(keysSorted[j])
+                  values.push(c)
+                } else {
+                  other += c
+                }
+              }
+
+              keys.push("その他")
+              values.push(other)
+
+            } else {
+              for(j = 0; j < max; j++){
+                var c = histgram[keysSorted[j]]
+                keys.push(keysSorted[j])
+                values.push(c)
+              }
+            }
+
+            Highcharts.chart('container_'+count, {
+              chart: {
+                type: 'bar'
+              },
+              title: {
+                text: v
+              },
+              xAxis: {
+                categories: keys,
+                title: {
+                  text: null
+                }
+              },
+              yAxis: {
+                min: 0,
+                title: {
+                  text: 'Number of items',
+                  align: 'high'
+                },
+                labels: {
+                  overflow: 'justify'
+                }
+              },
+              tooltip: {
+                valueSuffix: ' items'
+              },
+              plotOptions: {
+                bar: {
+                  dataLabels: {
+                    enabled: true
+                  }
+                },
+                series: {
+                  cursor: 'pointer'
+                }
+              },
+              legend: {
+                layout: 'vertical',
+                align: 'right',
+                verticalAlign: 'top',
+                x: -40,
+                y: 80,
+                floating: true,
+                borderWidth: 1,
+                backgroundColor: ((Highcharts.theme && Highcharts.theme.legendBackgroundColor) || '#FFFFFF'),
+                shadow: true
+              },
+              credits: {
+                enabled: false
+              },
+              series: [{
+                name: 'Item',
+                data: values
+              }]
+            });
+
+
+          },
+          // 2つめは通信失敗時のコールバック
+          function () {
+            alert(data.statusText);
+          }
+          ).always(function() {
+            $("#loading").empty()
+          });
+
+        })
+      </script>

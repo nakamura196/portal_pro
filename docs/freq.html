@@ -1,0 +1,353 @@
+---
+layout: default
+title: Frequency
+---
+
+<div class="py-5 bg-light">
+  <div class="container">
+
+    <h2 class="mb-5">Freqency</h2>
+
+    <form class="mb-5">
+      <div class="form-group row">
+        <label for="staticEmail" class="col-sm-2 col-form-label">Keyword</label>
+        <div class="col-sm-10">
+          <input type="text" class="form-control" id="q" name="q">
+        </div>
+      </div>
+
+      <div class="form-group row">
+        <label for="inputPassword" class="col-sm-2 col-form-label">Language</label>
+        <div class="col-sm-10">
+          <select class="form-control" name="lang" id="lang">
+            <option value="ja">日本語</option>
+            <option value="en">English</option>
+          </select>
+        </div>
+      </div>
+      <button type="submit" class="btn btn-primary">Submit</button>
+    </form>
+
+    <div class="text-center" id="loading">
+      <img src="assets/images/loading.gif" class="img-fluid"/>
+    </div>
+
+    <div id="timeline" class="mt-5"></div>
+
+    <div id="visualization" class="my-5"></div>
+
+    <div class="modal" tabindex="-1" role="dialog" id="myModal">
+      <div class="modal-dialog" role="document">
+        <div class="modal-content">
+          <div class="modal-header">
+            <h5 class="modal-title">Confirmation</h5>
+            <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+              <span aria-hidden="true">&times;</span>
+            </button>
+          </div>
+          <div class="modal-body">
+            <p>Do you list <span id="value"></span>?</p>
+          </div>
+          <div class="modal-footer"> <a id="link" target="snorql" class="btn btn-primary">View <i class='fas fa-external-link-alt'></i></a> </div>
+        </div>
+      </div>
+    </div>
+
+  </div>
+</div>
+
+<link href="assets/thirdparty/vis/4.15.1/vis.min.css" rel="stylesheet" type="text/css" />
+<script src="assets/thirdparty/vis/4.15.1/vis.min.js"></script>
+
+<script type="text/javascript">
+
+  var map = {}
+
+  var timeline;
+  var graph2d;
+
+  var arg = getParam()
+
+  var q = arg["q"] != null ? arg["q"] : "";
+  if(q != ""){
+    $("#q").val(q)
+  }
+  var lang = arg["lang"] != null ? arg["lang"] : "ja"
+  $("#lang").val(lang)
+
+  var dateType = arg["dateType"] != null ? arg["dateType"] : "year";
+
+  //var predicateUri = "http://purl.org/dc/terms/date";
+
+  //var groupUri = "http://purl.org/dc/terms/spatial";
+
+  var width = arg["width"] != null ? arg["width"] : 20;
+
+  var dateUrl = "data/timeline.json"
+
+  jQuery(document).ready(function() {
+
+    jQuery.ajaxSetup({
+      cache : true
+    });
+
+    search()
+
+  });
+
+  function getParam(){
+    var arg = new Object;
+    url = location.search.substring(1).split('&');
+
+    for(i=0; url[i]; i++) {
+      var k = url[i].split('=');
+      arg[k[0]] = decodeURIComponent(k[1]);
+    }
+
+    return arg
+  }
+
+  var dcterms = "http://purl.org/dc/terms/"
+
+  function search() {
+
+    var query = "";
+    query += " PREFIX dcterms: <http://purl.org/dc/terms/> \n";
+    query += " PREFIX dcndl: <http://ndl.go.jp/dcndl/terms/> \n";
+    query += " SELECT DISTINCT ?date count(distinct ?s) as ?c ?pub WHERE { \n";
+    query += " ?s dcterms:issued ?date . \n";
+    query += " filter (datatype(?date) = dcterms:W3CDTF) \n";
+    query += " ?s dcndl:digitizedPublisher ?pub . \n";
+    query += " filter(LANG(?pub) = '"+lang+"') . \n";
+
+    if(q != ""){
+      query += " ?s ?p ?o . \n";
+      query += " ?o bif:contains '\""+q+"\"' . \n";
+    }
+
+    query += " } order by desc(?c) \n";
+
+    $.ajax({
+      url:"https://sparql.dl.itc.u-tokyo.ac.jp",
+      type:'POST',
+      data:{
+        query : query,
+        format : "json"
+      }
+    })
+    .then(
+    // 1つめは通信成功時のコールバック
+    function (data) {
+      var result = data.results.bindings;
+
+      var groups = new vis.DataSet();
+      //var group = "Item";
+
+      var items = []
+
+      var arr = []
+
+      for(var i = 0; i < result.length; i++){
+        var obj = result[i];
+
+        if($.isNumeric(obj.date.value)){
+          var date = Number(obj.date.value)
+          if(date > 1000 && date < 3000){
+
+            var group = obj.pub.value
+
+            var tmp = {}
+            tmp.x = date+"-01-01"
+            tmp.y = obj.c.value
+            tmp.group = group
+            items.push(tmp)
+
+            if(arr.indexOf(group) == -1){
+              arr.push(group)
+            }
+          }
+        }
+
+      }
+
+      for(var k = 0; k < arr.length; k++){
+        var group = arr[k]
+        groups.add({
+          id: group,
+          content: group//+"："+total
+        })
+      }
+
+      displayTimeline(items, groups)
+
+
+    },
+    // 2つめは通信失敗時のコールバック
+    function () {
+      alert(data.statusText);
+    }
+    ).always(function() {
+      $("#loading").empty()
+    });
+  }
+
+  function arrangeDate(o){
+    var str = o.split("-")
+
+    if(str[0] == "9999"){
+      return null
+    }
+
+    if(dateType == "year"){
+      var year = str[0]
+      if($.isNumeric(year)){
+        return year
+      } else {
+        return null
+      }
+    } else if(dateType == "month"){
+      if(str.length >= 2){
+        var year = str[0]
+        var month = str[1]
+        if($.isNumeric(year) && $.isNumeric(month)){
+          return year+"-"+('00' + month).slice(-2);
+        } else {
+          return null
+        }
+      } else {
+        return null
+      }
+    }
+  }
+
+  function displayTimeline(items, groups){
+
+    var container = document.getElementById('visualization');
+
+    var dataset = new vis.DataSet(items);
+    var options = {
+      defaultGroup: 'ungrouped',
+      style:'bar',
+      stack : true,
+      barChart: {
+        width: width,
+        align:'right'
+      }, // align: left, center, right
+      drawPoints: false,
+      dataAxis: {
+        icons:true
+      },
+      legend: true,
+      orientation:'top'
+    };
+    graph2d = new vis.Graph2d(container, items, groups, options);
+    graph2d.on('doubleClick', onClick);
+
+    graph2d.on('rangechanged', onChange);
+
+    $("#visualization").append('<p class="text-center grey-text mt-3">Double click for detail</p>')
+
+
+    if(dateUrl != null){
+      getTimeline()
+
+      //move to center
+      range = graph2d.getWindow()
+      center = Math.round(range.start.getFullYear() + (range.end.getFullYear() - range.start.getFullYear()) / 2)
+      graph2d.moveTo(String(center))
+    }
+
+  }
+
+  function onClick(properties) {
+
+    $('#myModal').modal()
+
+    var dd = new Date(properties.time);
+
+    var year = dd.getFullYear();
+
+    var query = " select distinct ?s ?label ?provider ?t ?image where { \n";
+    query += " ?s dcterms:issued ?t . \n";
+    query += " filter (?t = '"+year+"'^^dcterms:W3CDTF) \n";
+    query += " ?s dcterms:title ?label . \n";
+    query += " ?s dcndl:digitizedPublisher ?provider . \n";
+    query += " filter(LANG(?provider) = '"+lang+"') . \n";
+    query += " optional { ?s foaf:thumbnail ?image . } \n";
+    if(q != ""){
+      query += " ?s ?p ?o . \n";
+      query += " ?o bif:contains '\""+q+"\"' . \n";
+    }
+    query += " } "
+
+    var link = "https://nakamura196.github.io/portal_pro/snorql/?query="+encodeURIComponent(query)
+
+
+    $("#link").attr("href", link)
+    $("#value").text("items in "+year)
+
+  }
+
+  function getTimeline() {
+
+    var ical = "http://www.w3.org/2002/12/cal/icaltzd#"
+
+    $.getJSON(dateUrl , function(data) {
+
+      arr = []
+
+      for(i = 0; i < data.length; i++){
+        var obj = data[i]
+
+        var obj2 = {}
+
+        if(!obj[ical+"summary"]){
+          continue
+        }
+
+        obj2.content = obj[ical+"summary"][0]["@value"]
+        obj2.start = obj[ical+"dtstart"][0]["@value"]//+"-01-01"
+        obj2.end = obj[ical+"dtend"][0]["@value"]
+        obj2.group = "1"
+        arr.push(obj2)
+      }
+
+      // Create a DataSet (allows two way data-binding)
+      var items = new vis.DataSet(arr);
+
+      // DOM element where the Timeline will be attached
+      var container = document.getElementById('timeline');
+
+      // Configuration for the Timeline
+      var options = {
+        maxHeight : "400px"
+      };
+
+      // Create a Timeline
+      timeline = new vis.Timeline(container, items, options);
+      var groups = new vis.DataSet();
+      groups.add({
+        id: "1",
+        content: "Timeline"
+      })
+      timeline.setGroups(groups);
+
+      timeline.on('select', function(properties) {
+        var selection = timeline.getSelection();
+        timeline.focus(selection);
+      });
+
+      // add event listener
+      timeline.on('rangechanged', onChange);
+
+    })
+
+  }
+
+  function onChange(properties) {
+    if(dateUrl != null){
+      timeline.setWindow(properties.start, properties.end);
+    }
+    graph2d.setWindow(properties.start, properties.end);
+  }
+</script>

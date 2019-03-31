@@ -1,311 +1,304 @@
 ---
+title: Timeline
 layout: default
-title: 年表で見る
 ---
 
+<!--Main layout-->
+<div class="py-5 bg-light">
+  <div class="container">
 
-<div class="container mt-5">
+    <h2 class="mb-4">Timeline</h2>
 
-  <h3 class="mb-5">年表で見る</h3>
+    <form class="mb-5">
+      <div class="form-group row">
+        <label for="staticEmail" class="col-sm-2 col-form-label">Keyword</label>
+        <div class="col-sm-10">
+          <input type="text" class="form-control" id="q" name="q" placeholder="Wikipediaの概要に含む">
+        </div>
+      </div>
 
-  <div class="text-center" id="loading">
-    <img src="assets/images/loading.gif" class="img-fluid"/>
+      <div class="form-group row">
+        <label for="inputPassword" class="col-sm-2 col-form-label">Type</label>
+        <div class="col-sm-10">
+          <select class="form-control" name="type" id="type">
+          </select>
+        </div>
+      </div>
+
+      <div class="form-group row">
+        <label for="inputPassword" class="col-sm-2 col-form-label">Language</label>
+        <div class="col-sm-10">
+          <select class="form-control" name="lang" id="lang">
+            <option value="ja">日本語</option>
+            <option value="en">English</option>
+          </select>
+        </div>
+      </div>
+      <button type="submit" class="btn btn-primary">Submit</button>
+    </form>
+
+    <div class="text-center" id="loading">
+      <img src="assets/images/loading.gif" class="img-fluid"/>
+    </div>
+
+    <!--Card-->
+    <div class="card">
+      <!--Card content-->
+      <div class="card-body">
+        <div id="my-timeline"></div>
+      </div>
+
+    </div>
+
   </div>
-
-  <div id="timeline" class="mt-5"></div>
-
-  <div id="visualization" class="my-5"></div>
-
 </div>
+<!--Main layout-->
 
-<link href="assets/thirdparty/vis/4.15.1/vis.min.css" rel="stylesheet" type="text/css" />
-<script src="assets/thirdparty/vis/4.15.1/vis.min.js"></script>
 
-<script type="text/javascript">
+<script type="text/javascript"
+src="//diyhistory.org/public/hiraga/wp-content/themes/sasg/myassets/thirdparty/TimelineJS/js/storyjs-embed.js"></script>
 
-  var map = {}
+<script type="text/javascript"
+src="//diyhistory.org/public/hiraga/wp-content/themes/sasg/myassets/thirdparty/TimelineJS/js/site.js"></script>
 
-  var timeline;
-  var graph2d;
+<script>
+  var resourceUri = "${resourceUri}";
 
   var arg = getParam()
+  var q = arg["q"] != null ? arg["q"] : "";
+  if(q != ""){
+    $("#q").val(q)
+  }
+  var lang = arg["lang"] != null ? arg["lang"] : "ja"
+  $("#lang").val(lang)
 
-  var dateType = arg["dateType"] != null ? arg["dateType"] : "year";
+  var type = arg["type"] != null ? arg["type"] : "person"
 
-  var predicateUri = "http://purl.org/dc/terms/date";
-
-  var groupUri = "http://purl.org/dc/terms/spatial";
-
-  var width = arg["width"] != null ? arg["width"] : 20;
-
-  var dateUrl = "data/timeline.json"
-
-  jQuery(document).ready(function() {
-
-    jQuery.ajaxSetup({
-      cache : true
-    });
-
-    search()
-
-  });
-
-  function getParam(){
-    var arg = new Object;
-    url = location.search.substring(1).split('&');
-
-    for(i=0; url[i]; i++) {
-      var k = url[i].split('=');
-      arg[k[0]] = decodeURIComponent(k[1]);
-    }
-
-    return arg
+  var map = {}
+  map["person"] = {
+    label: "Person",
+    type: "http://schema.org/Person",
+    p: "http://schema.org/contributor"
+  }
+  map["event"] = {
+    label: "Event",
+    type: "http://schema.org/Event",
+    p: "http://schema.org/temporal"
   }
 
-  var dcterms = "http://purl.org/dc/terms/"
+  // Select
+  for(var key in map){
+    var option = $("<option>")
+      option.append(map[key]["label"])
+      $("#type").append(option)
+      option.attr("value", key)
 
-  function search() {
-
-    var query = "";
-    query += " PREFIX dcterms: <http://purl.org/dc/terms/> ";
-    query += " PREFIX dcndl: <http://ndl.go.jp/dcndl/terms/> ";
-    query += " SELECT DISTINCT ?date count(?s) as ?c ?pub WHERE { ";
-    query += " ?s dcterms:issued ?date . ";
-    query += " filter (datatype(?date) = dcterms:W3CDTF) ";
-    query += " ?s dcndl:digitizedPublisher ?pub . ";
-    query += " filter(LANG(?pub) = 'ja') . ";
-    query += " } order by desc(?c) ";
-
-    $.ajax({
-      url:"https://sparql.dl.itc.u-tokyo.ac.jp",
-      type:'POST',
-      data:{
-        query : query,
-        format : "json"
+      if(key == type){
+        option.attr("selected", "selected")
       }
-    })
-    .then(
-    // 1つめは通信成功時のコールバック
-    function (data) {
-      var result = data.results.bindings;
+    }
 
-      var groups = new vis.DataSet();
-      //var group = "Item";
+    jQuery(document).ready(function() {
+      jQuery.ajaxSetup({
+        cache : false
+      });
 
-      var items = []
+      getTimeline();
 
-      var arr = []
+    });
 
-      for(var i = 0; i < result.length; i++){
-        var obj = result[i];
+    //タイムライン
+    function getTimeline(flag) {
 
-        if($.isNumeric(obj.date.value)){
-          var date = Number(obj.date.value)
-          if(date > 1000 && date < 3000){
+      $("#my-timeline").empty();
 
-            var group = obj.pub.value
+      var query = " select distinct ?s ?label ?thumb ?bd ?dd ?comment count(distinct ?item) as ?c \n";
+      query += " where { \n";
+      query += " ?s <http://dbpedia.org/ontology/thumbnail> ?thumb . \n";
+      if(type == "person"){
+        query += " ?s <http://dbpedia.org/ontology/birthDate> ?bd . \n";
+        query += " ?s <http://dbpedia.org/ontology/deathDate> ?dd . \n";
+      } else {
+        query += " ?s <http://dbpedia.org/ontology/date> ?bd . \n";
+        query += " ?s <http://dbpedia.org/ontology/date> ?dd . \n";
+      }
+      query += " ?s rdf:type <"+map[type]["type"]+"> . \n";
+      query += " ?item <"+map[type]["p"]+"> ?s . \n";
 
-            var tmp = {}
-            tmp.x = date+"-01-01"
-            tmp.y = obj.c.value
-            tmp.group = group
-            items.push(tmp)
+      query += " ?s rdfs:comment ?comment . \n";
+      query += " filter (lang(?comment) = \""+lang+"\" ) . \n"
+      if(q != ""){
+        query += " ?comment bif:contains '\""+q+"\"' . \n"
+      }
+      query += " ?s rdfs:label ?label . \n";
+      query += " filter (lang(?label) = \""+lang+"\" ) . \n"
 
-            if(arr.indexOf(group) == -1){
-              arr.push(group)
-            }
+      query += " } ";
+
+      var array = new Array();
+
+      $.ajax({
+        url:'https://sparql.dl.itc.u-tokyo.ac.jp',
+        type:'POST',
+        data:{
+          query : query,
+          format : "json"
+        }
+      })
+      // Ajaxリクエストが成功した時発動
+      .done( (data) => {
+
+        var result = data.results.bindings;
+
+        var result2 = new Object()
+        for (var i = 0; i < result.length; i++) {
+          var obj = result[i]
+          var s = obj.s.value;
+          if(!result2[s]){
+            result2[s] = obj
           }
         }
 
-      }
-
-      for(var k = 0; k < arr.length; k++){
-        var group = arr[k]
-        groups.add({
-          id: group,
-          content: group//+"："+total
-        })
-      }
-
-      displayTimeline(items, groups)
-
-
-    },
-    // 2つめは通信失敗時のコールバック
-    function () {
-      alert(data.statusText);
-    }
-    ).always(function() {
-      $("#loading").empty()
-    });
-  }
-
-  function arrangeDate(o){
-    var str = o.split("-")
-
-    if(str[0] == "9999"){
-      return null
-    }
-
-    if(dateType == "year"){
-      var year = str[0]
-      if($.isNumeric(year)){
-        return year
-      } else {
-        return null
-      }
-    } else if(dateType == "month"){
-      if(str.length >= 2){
-        var year = str[0]
-        var month = str[1]
-        if($.isNumeric(year) && $.isNumeric(month)){
-          return year+"-"+('00' + month).slice(-2);
-        } else {
-          return null
-        }
-      } else {
-        return null
-      }
-    }
-  }
-
-  function displayTimeline(items, groups){
-
-    var container = document.getElementById('visualization');
-
-    var dataset = new vis.DataSet(items);
-    var options = {
-      defaultGroup: 'ungrouped',
-      style:'bar',
-      stack : true,
-      barChart: {
-        width: width,
-        align:'right'
-      }, // align: left, center, right
-      drawPoints: false,
-      dataAxis: {
-        icons:true
-      },
-      legend: true,
-      orientation:'top'
-    };
-    graph2d = new vis.Graph2d(container, items, groups, options);
-    //graph2d.on('doubleClick', onClick);
-
-    graph2d.on('rangechanged', onChange);
-
-    //$("#visualization").append('<p class="text-center grey-text mt-3">ヒストグラムをダブルクリックで詳細を表示</p>')
-
-
-    if(dateUrl != null){
-      getTimeline()
-
-      //move to center
-      range = graph2d.getWindow()
-      center = Math.round(range.start.getFullYear() + (range.end.getFullYear() - range.start.getFullYear()) / 2)
-      graph2d.moveTo(String(center))
-    }
-
-
-  }
-
-  function onClick(properties) {
-
-    $('#myModal').modal()
-
-    var dd = new Date(properties.time);
-
-    var year = dd.getFullYear();
-    var month = dd.getMonth() + 1;
-    month = ('00' + month).slice(-2);
-
-    var day = dd.getDay();
-    day = ('00' + day).slice(-2);
-
-    var date;
-
-    if(dateType == "year"){
-      date = year
-    } else if(dateType == "month"){
-      date = year + "-" + month
-    }
-
-    var link = "table.html?property=http://purl.org/dc/terms/date&value="+year
-    $("#portal-link").attr("href", link)
-
-    var total = 0
-
-    for(group in map){
-      tmp = map[group]
-      if(tmp[date]){
-        total += tmp[date]
-      }
-    }
-
-    show_modal(link, date+"年（"+total.toLocaleString()+"件）")
-
-  }
-
-  function getTimeline() {
-
-    var ical = "http://www.w3.org/2002/12/cal/icaltzd#"
-
-    $.getJSON(dateUrl , function(data) {
-
-      arr = []
-
-      for(i = 0; i < data.length; i++){
-        var obj = data[i]
-
-        var obj2 = {}
-
-        if(!obj[ical+"summary"]){
-          continue
+        result = new Array()
+        for(var s in result2){
+          result.push(result2[s])
         }
 
-        obj2.content = obj[ical+"summary"][0]["@value"]
-        obj2.start = obj[ical+"dtstart"][0]["@value"]//+"-01-01"
-        obj2.end = obj[ical+"dtend"][0]["@value"]
-        obj2.group = "1"
-        arr.push(obj2)
-      }
+        var dataObject = arrangeJson4Timeline2(result);
 
-      // Create a DataSet (allows two way data-binding)
-      var items = new vis.DataSet(arr);
-
-      // DOM element where the Timeline will be attached
-      var container = document.getElementById('timeline');
-
-      // Configuration for the Timeline
-      var options = {
-        maxHeight : "400px"
-      };
-
-      // Create a Timeline
-      timeline = new vis.Timeline(container, items, options);
-      var groups = new vis.DataSet();
-      groups.add({
-        id: "1",
-        content: "Timeline"
+        //空じゃなければ
+        if (dataObject.timeline.date.length != 0) {
+          createStoryJS({
+            type : 'timeline',
+            width : '100%',
+            height : '600',
+            source : dataObject,
+            embed_id : 'my-timeline',
+            lang : 'en'
+          });
+        }
       })
-      timeline.setGroups(groups);
-
-      timeline.on('select', function(properties) {
-        var selection = timeline.getSelection();
-        timeline.focus(selection);
+      // Ajaxリクエストが失敗した時発動
+      .fail( (data) => {
+        alert(data.statusText);
+      })
+      // Ajaxリクエストが成功・失敗どちらでも発動
+      .always( (data) => {
+        $("#loading").empty()
       });
 
-      // add event listener
-      timeline.on('rangechanged', onChange);
-
-    })
-
-  }
-
-  function onChange(properties) {
-    if(dateUrl != null){
-      timeline.setWindow(properties.start, properties.end);
     }
-    graph2d.setWindow(properties.start, properties.end);
-  }
-</script>
+
+    function arrangeJson4Timeline2(data) {
+
+      var result = new Object();
+
+      var timeline = new Object();
+      result["timeline"] = timeline;
+
+      timeline["headline"] = "";
+      timeline["type"] = "default";
+      timeline["text"] = "";
+
+      var array = new Array();
+      timeline["date"] = array;
+
+      for (var i = 0; i < data.length; i++) {
+
+        var obj = data[i];
+
+        var s = obj.s.value;
+
+        var title = obj.label.value
+
+        var bd = obj.bd.value;
+        var dd = obj.dd.value;
+
+        var description = obj.s.value;
+
+        var creator = obj.s.value;
+
+        //--------------------------------
+
+        var event = new Object();//一要素
+        array.push(event);
+
+        //--------------------------------
+
+        event["startDate"] = bd.replace(/-/g, ",");
+        event["endDate"] = dd.replace(/-/g, ",");
+
+        //---------------------------------
+
+        event["headline"] = title;
+
+        //----------------------------------
+
+        //表示情報
+        var div = $("<div>");
+
+          var p = $("<p>");
+            div.append(p);
+            p.append(obj.comment.value)
+
+            //----------------------------------
+
+            var thumb = obj.thumb;
+            if (thumb != null) {
+
+              //ASSET
+
+              var thumb = obj.thumb.value;
+
+              var asset = new Object();
+
+
+              asset.media = thumb;
+              asset.thumbnail = thumb;
+
+              event["asset"] = asset;
+
+            }
+
+            var query = " select distinct ?title ?s ?label ?provider ?image where { \n"
+            query += " ?s <"+map[type]["p"]+"> ?entity . \n";
+            query += " ?entity rdf:type <"+map[type]["type"]+"> . \n";
+            query += " filter (?entity = <" +s+ "> ) .  \n"
+            query += " ?entity rdfs:label ?label .  \n"
+            query += " filter (lang(?label) = \""+lang+"\") .  \n"
+            query += " optional { ?s foaf:thumbnail ?image . } \n"
+            query += " ?s dcterms:title ?title. \n"
+            query += " ?s dcndl:digitizedPublisher ?provider . \n"
+            query += " filter (lang(?provider) = \""+lang+"\") . \n"
+            query += " }"
+
+            var a = $("<a>");
+              div.append(a)
+              var url = "https://nakamura196.github.io/portal_pro/snorql/?query="+encodeURIComponent(query)
+
+              a.append('View '+obj.c.value+' items &raquo;')
+              a.attr("href", url)
+              a.attr("target", "snorql");
+
+              //----------------------------------
+
+              var spanStr = $('<div>').append(div.clone()).html();
+                event["text"] = spanStr;
+
+              }
+
+              return result;
+            }
+
+            function getParam(){
+              var arg = new Object;
+              url = location.search.substring(1).split('&');
+
+              for(i=0; url[i]; i++) {
+                var k = url[i].split('=');
+                arg[k[0]] = decodeURIComponent(k[1]);
+              }
+
+              return arg
+            }
+          </script>

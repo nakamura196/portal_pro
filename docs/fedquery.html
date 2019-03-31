@@ -41,6 +41,14 @@
         <input type="text" id="text" name="text" class="form-control">
       </div>
 
+      <div class="form-group">
+        <label>Language</label>
+        <select class="form-control" name="lang" id="lang">
+          <option value="ja">日本語</option>
+          <option value="en">English</option>
+        </select>
+      </div>
+
       <button type="submit" class="btn btn-primary" id="btn">送信</button>
     </form>
 
@@ -81,6 +89,9 @@
     if(text != ""){
       $("#text").val(text)
     }
+
+    var lang = arg["lang"] != null ? arg["lang"] : "ja"
+    $("#lang").val(lang)
 
     jQuery(document).ready(function() {
 
@@ -125,7 +136,7 @@
       query += "      ?s jps:accessInfo ?accessInfo .   \n" +
       "     ?accessInfo schema:provider ?orgUri.   \n" +
       "     ?orgUri schema:name ?org.   \n" +
-      "     filter(lang(?org) = \"ja\")  \n" +
+      "     filter(lang(?org) = \""+lang+"\")  \n" +
       "     optional { ?s schema:image ?image. }  \n" +
       "   }  \n" +
       " } UNION {  \n" +
@@ -137,7 +148,7 @@
         query += "    ?o bif:contains '\""+text+"\"' .   \n"
       }
       query += "    ?s dcndl:digitizedPublisher ?org.  \n" +
-      "   filter(lang(?org) = \"ja\")  \n" +
+      "   filter(lang(?org) = \""+lang+"\")  \n" +
       "   optional { ?s foaf:thumbnail ?image. }  \n" +
       " }  \n" +
       "} order by desc(?c)  "
@@ -206,6 +217,7 @@
                     var query2 = query.replace("count(DISTINCT ?s) as ?c", "?s ?title ?image")
                     query2 = query2.replace("desc(?c)", "?org")
                     query2 = query2.replace(/lang\(\?org\) = "ja"/g, "?org = \""+value+"\"@ja")
+                    query2 = query2.replace(/lang\(\?org\) = "en"/g, "?org = \""+value+"\"@en")
 
                     var url = "https://nakamura196.github.io/portal_pro/snorql/?query=" + encodeURIComponent(query2)
                     open( url, "snorql" ) ;

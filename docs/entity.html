@@ -1,0 +1,360 @@
+---
+title: Entity Search
+layout: default
+---
+
+<!--Main layout-->
+<div class="py-5 bg-light">
+  <div class="container">
+
+    <h2 class="mb-4">Entity Search</h2>
+
+    <form class="mb-5">
+      <div class="form-group row">
+        <label for="staticEmail" class="col-sm-2 col-form-label">Keyword</label>
+        <div class="col-sm-10">
+          <input type="text" class="form-control" id="q" name="q">
+        </div>
+      </div>
+      <div class="form-group row">
+        <label for="inputPassword" class="col-sm-2 col-form-label">Type</label>
+        <div class="col-sm-10">
+          <select class="form-control" name="type" id="type">
+          </select>
+        </div>
+      </div>
+      <div class="form-group row">
+        <label for="inputPassword" class="col-sm-2 col-form-label">Language</label>
+        <div class="col-sm-10">
+          <select class="form-control" name="lang" id="lang">
+            <option value="ja">日本語</option>
+            <option value="en">English</option>
+          </select>
+        </div>
+      </div>
+      <button type="submit" class="btn btn-primary">Submit</button>
+    </form>
+
+    <div class="text-center" id="loading">
+      <img src="assets/images/loading.gif" class="img-fluid"/>
+    </div>
+
+    <p id="total"></p>
+
+    <!--Grid row-->
+    <div class="row mb-4 wow fadeIn" id="row">
+    </div>
+    <!--Grid row-->
+
+    <nav aria-label="Page navigation example">
+      <ul id="pagination-demo" class="pagination justify-content-center"></ul>
+    </nav>
+
+  </div>
+
+  <!-- Modal -->
+  <div class="modal fade" id="exampleModalCenter" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered" role="document">
+      <div class="modal-content">
+        <div class="modal-header">
+          <h5 class="modal-title" id="exampleModalCenterTitle"></h5>
+          <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+            <span aria-hidden="true">&times;</span>
+          </button>
+        </div>
+        <div class="modal-body" id="comment">
+        </div>
+        <div class="modal-footer">
+          <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+          <a class="btn btn-primary" id="btn" target="snorql">View</a>
+        </div>
+      </div>
+    </div>
+  </div>
+
+</div>
+
+<script src="https://cdn.jsdelivr.net/npm/lazyload@2.0.0-beta.2/lazyload.js"></script>
+
+<script src="https://josecebe.github.io/twbs-pagination/js/jquery.twbsPagination.js"></script>
+<script src="https://josecebe.github.io/twbs-pagination/js/jquery.simplePagination.js"></script>
+
+<script>
+
+  var unit = 100
+
+  var arg  = new Object;
+  url = location.search.substring(1).split('&');
+
+  for(i=0; url[i]; i++) {
+    var k = url[i].split('=');
+    arg[k[0]] = decodeURIComponent(k[1]);
+  }
+
+  var q = arg["q"] != null ? arg["q"] : ""
+  $("#q").val(q)
+
+  var lang = arg["lang"] != null ? arg["lang"] : "ja"
+  $("#lang").val(lang)
+
+  var page = arg["page"] != null ? Number(arg["page"]) : 1
+  var type = arg["type"] != null ? arg["type"] : "person"
+
+  var map = {}
+  map["person"] = {
+    label: "Person",
+    type: "http://schema.org/Person",
+    p: "http://schema.org/contributor"
+  }
+  map["organization"] = {
+    label: "Organization",
+    type: "http://schema.org/Organization",
+    p: "http://schema.org/contributor"
+  }
+  map["event"] = {
+    label: "Event",
+    type: "http://schema.org/Event",
+    p: "http://schema.org/temporal"
+  }
+  map["location"] = {
+    label: "Location",
+    type: "http://schema.org/Place",
+    p: "http://schema.org/spatial"
+  }
+  map["other"] = {
+    label: "Other",
+    type: "http://schema.org/Thing",
+    p: "http://schema.org/about"
+  }
+
+  // Select
+  for(var key in map){
+    var option = $("<option>")
+      option.append(map[key]["label"])
+      $("#type").append(option)
+      option.attr("value", key)
+
+      if(key == type){
+        option.attr("selected", "selected")
+      }
+    }
+
+    jQuery(document).ready(function() {
+
+      jQuery.ajaxSetup({
+        cache : false
+      });
+
+      getCollections()
+      getPages()
+
+    });
+
+    function getCollections(){
+
+      var query = " select distinct ?s ?label ?thumb count(distinct ?item) as ?c \n";
+      query += " where { \n";
+      query += " ?s <http://dbpedia.org/ontology/thumbnail> ?thumb . \n";
+
+      query += " ?s rdf:type <"+map[type]["type"]+"> . \n";
+
+      query += " ?s rdfs:label ?label . \n";
+      query += " filter (lang(?label) = \""+lang+"\" ) . \n"
+
+      if(q != ""){
+        query += " ?s rdfs:comment ?comment . \n";
+        query += " ?comment bif:contains '\""+q+"\"' . \n"
+      }
+
+      query += " ?item <"+map[type]["p"]+"> ?s . \n";
+      query += " } order by desc(?c) \n";
+      query += " limit "+unit + " \n";
+      query += " offset "+(page - 1)*unit;
+
+      $.ajax({
+        url:'https://sparql.dl.itc.u-tokyo.ac.jp',
+        type:'POST',
+        data:{
+          query : query,
+          format : "json"
+        }
+      })
+      // Ajaxリクエストが成功した時発動
+      .done( (data) => {
+        var result = data.results.bindings;
+
+        for (var i = 0; i < result.length; i++) {
+          var obj = result[i];
+
+          var s = obj.s.value;
+          var thumb = obj.thumb.value;
+
+          var col = $('<div class="col-lg-2 col-md-6 mb-4">')
+            $("#row").append(col);
+
+            var card = $('<div class="card">');
+              col.append(card)
+
+              var overlay = $('<div class="view overlay">')
+                card.append(overlay)
+
+                var img = $('<img class="card-img-top lazyload" style="max-height: 140px">')
+                card.append(img)
+                img.attr("data-src", obj.thumb.value)
+
+                var mask = $('<div class="mask rgba-white-slight">')
+                  card.append(mask)
+
+                  var body = $('<div class="card-body">')
+                    card.append(body)
+
+                    var h4 = $("<p class='card-title'>");
+                      body.append(h4)
+                      h4.append(obj.label.value+" - "+obj.c.value+" items")
+
+                      var p = $("<p>")
+                        body.append(p)
+
+                        var btn = $('<button type="button" class="btn btn-primary btn-md" data-toggle="modal" data-target="#exampleModalCenter" onclick="search(\''+obj.s.value+'\')">');
+                          p.append(btn)
+                          btn.append("Detail")
+                        }
+
+                        lazyload();
+
+                      })
+                      // Ajaxリクエストが失敗した時発動
+                      .fail( (data) => {
+                        alert(data.statusText);
+                      })
+                      // Ajaxリクエストが成功・失敗どちらでも発動
+                      .always( (data) => {
+                        $("#loading").empty()
+                      });
+                    }
+
+                    function search(uri){
+
+                      var query = " select distinct ?title ?s ?label ?provider ?image where { \n"
+                      query += " ?s <"+map[type]["p"]+"> ?entity .  \n"
+                      query += " filter (?entity = <"+uri+">) .  \n"
+                      query += " ?entity rdfs:label ?label .  \n"
+                      query += " ?entity rdf:type <"+map[type]["type"]+"> .  \n"
+                      query += " filter (lang(?label) = \""+lang+"\") .  \n"
+                      query += " optional { ?s foaf:thumbnail ?image . } \n"
+                      query += " ?s dcterms:title ?title. \n"
+                      query += " ?s dcndl:digitizedPublisher ?provider . \n"
+                      query += " filter (lang(?provider) = \""+lang+"\") . \n"
+                      query += " }"
+
+                      var url = "https://nakamura196.github.io/portal_pro/snorql/?query="+encodeURIComponent(query)
+                      $("#btn").attr("href", url)
+
+                      var query = " select distinct * \n"
+                      query += " where { \n";
+                      query += " ?s rdfs:label ?label . \n"
+                      query += " FILTER (lang(?label) = '"+lang+"') \n"
+                      query += " FILTER ( ?s = <"+uri+"> ).  \n"
+                      query += " optional { ?s rdfs:comment ?comment . \n"
+                      query += " FILTER (lang(?comment) = '"+lang+"') } \n"
+                      query += " } ";
+
+                      $.ajax({
+                        url : "//dbpedia.org/sparql",
+                        type:'POST',
+                        data:{
+                          query : query,
+                          format : "json"
+                        }
+                      })
+                      // Ajaxリクエストが成功した時発動
+                      .done( (data) => {
+                        var result = data.results.bindings;
+                        if(result.length > 0){
+                          var obj = result[0]
+                          var comment = ""
+                          if(obj.comment){
+                            comment = obj.comment.value;
+                          }
+                          $("#comment").text(comment);
+
+                          var label = obj.label.value
+                          $("#exampleModalCenterTitle").text(label)
+                        }
+
+                      })
+                      // Ajaxリクエストが失敗した時発動
+                      .fail( (data) => {
+                        alert(data.statusText);
+                      })
+                      // Ajaxリクエストが成功・失敗どちらでも発動
+                      .always( (data) => {
+                        $("#loading").empty()
+                      });
+
+
+                    }
+
+                    function getPages(){
+                      var query = " select count(distinct ?s) as ?c \n";
+                      query += " where { \n";
+                      query += " ?s <http://dbpedia.org/ontology/thumbnail> ?thumb . \n";
+
+                      query += " ?s rdf:type <"+map[type]["type"]+"> . \n";
+
+                      query += " ?s rdfs:label ?label . \n";
+                      query += " filter (lang(?label) = \""+lang+"\" ) . \n"
+
+                      if(q != ""){
+                        query += " ?s rdfs:comment ?comment . \n";
+                        query += " ?comment bif:contains '\""+q+"\"' . \n"
+                      }
+
+                      query += " ?item <"+map[type]["p"]+"> ?s . \n";
+                      query += " } order by desc(?c) \n";
+                      //query += " limit "+unit + " \n";
+                      //query += " offset "+(page - 1)*unit;
+
+                      $.ajax({
+                        url:'https://sparql.dl.itc.u-tokyo.ac.jp',
+                        type:'POST',
+                        data:{
+                          query : query,
+                          format : "json"
+                        }
+                      })
+                      // Ajaxリクエストが成功した時発動
+                      .done( (data2) => {
+                        var result2 = data2.results.bindings;
+
+                        var len = result2.length > 0 ? Number(result2[0]["c"]["value"]) : 0;
+                        $("#total").text(len+" items")
+
+                        var totalPages = Math.ceil(len / unit)
+
+                        $('#pagination-demo').twbsPagination({
+
+                          totalPages: totalPages,
+                          visiblePages: 7,
+                          itemOnPage: unit,
+                          startPage: page,
+                          onPageClick: function (event, page_) {
+                            if(page_ != page){
+                              move(page_)
+                            }
+                          }
+
+                        });
+                      });
+                    }
+
+                    function move(page_){
+                      type = $("#type").val()
+                      lang = $("#lang").val()
+                      if(page_ == null){
+                        page_ = 1
+                      }
+                      q = $("#q").val()
+                      location.href = "?q="+q+"&type="+type+"&lang="+lang+"&page="+page_
+                    }
+                  </script>
