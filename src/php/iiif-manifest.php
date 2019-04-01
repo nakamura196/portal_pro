@@ -109,7 +109,7 @@ $fed = isset($_GET["fed"]) ? true : false;
                   <!--Navbar-->
                   <nav class="navbar navbar-expand-lg navbar-light scrolling-navbar" style="background-color: white;">
                     <div class="container-fluid">
-                      <a class="navbar-brand" href="https://github.com/nakamura196/portal_pro/wiki">東京大学学術資産等アーカイブズポータル 非公式 サポートページ</a>
+                      <a class="navbar-brand" href="https://github.com/nakamura196/portal_pro">東京大学学術資産等アーカイブズポータル 非公式 サポートページ</a>
                     </div>
                   </nav>
                   <!--/.Navbar-->

@@ -1,65 +1,43 @@
+---
+layout: default2
+title: キーワードの年別出現回数
+---
+<link rel="stylesheet" href="parts/common.css" />
+<style>
+#chartjs-tooltip {
+  background: white;
+  border: gray solid 1px;
+  border-radius: 3px;
+  box-shadow: 1px 1px 1px rgba(0,0,0,0.4);
+  position: absolute;
+  font-size: 80%;
+  padding: 1em;
+}
+div.ready {display:none}
+canvas.ready {
+  border: gray 1px dotted;
+  margin: 1em 0;
+  width: 80%;
+  height: 150px;
+}
+canvas.loading {
+  background: url(qui/transp-spinner-light.gif) center center no-repeat;
+}
+figure a img {
+  width:500px;
+}
+#freqform select, #freqform button {
+  float: right;
+  height: 1.75em;
+  margin-left: 0.2em;
+}
+</style>
+<script src="parts/std.js"></script>
+<script src="parts/common.js"></script>
+<script src="qui/sparql.js"></script>
 
-<!DOCTYPE html>
-<html itemscope="" itemid="" itemtype="http://schema.org/WebPage" xmlns="http://www.w3.org/1999/xhtml" lang="ja">
-<head>
-  <meta charset="UTF-8" />
-  <!-- Required meta tags -->
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-
-  <!-- Bootstrap CSS -->
-  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
-
-  <title itemprop="name">キーワードの年別出現回数</title>
-  <link rel="stylesheet" href="parts/common.css" />
-  <style>
-  #chartjs-tooltip {
-    background: white;
-    border: gray solid 1px;
-    border-radius: 3px;
-    box-shadow: 1px 1px 1px rgba(0,0,0,0.4);
-    position: absolute;
-    font-size: 80%;
-    padding: 1em;
-  }
-  div.ready {display:none}
-  canvas.ready {
-    border: gray 1px dotted;
-    margin: 1em 0;
-    width: 80%;
-    height: 150px;
-  }
-  canvas.loading {
-    background: url(qui/transp-spinner-light.gif) center center no-repeat;
-  }
-  figure a img {
-    width:500px;
-  }
-  #freqform select, #freqform button {
-    float: right;
-    height: 1.75em;
-    margin-left: 0.2em;
-  }
-  </style>
-  <script src="parts/std.js"></script>
-  <script src="parts/common.js"></script>
-  <script src="qui/sparql.js"></script>
-</head>
-
-<body class="bg-light">
-
-  <header>
-    <!--Navbar-->
-    <nav class="navbar navbar-expand-lg navbar-light scrolling-navbar" style="background-color: white;">
-      <div class="container-fluid">
-        <a class="navbar-brand" href="https://github.com/nakamura196/portal_pro/wiki">東京大学学術資産等アーカイブズポータル 非公式 サポートページ</a>
-      </div>
-    </nav>
-    <!--/.Navbar-->
-
-  </header>
-
-  <div class="container my-5">
+<div class="py-5 bg-light">
+  <div class="container">
 
     <h1><span lang="ja">キーワードの年別出現回数</span><span lang="en">Keyword-Item Frequency by Year</span></h1>
 
@@ -92,18 +70,4 @@
 </ul>
 
 </div>
-
-<!--Footer-->
-<footer class="text-center bg-secondary mt-5">
-
-  <!--Copyright-->
-  <div class="py-5" style="color : white;">
-    <a href="https://researchmap.jp/nakamura.satoru/" style="color : white;">Satoru Nakamura</a>.<br/><a href="https://www.kanzaki.com/works/ld/jpsearch/" style="color : white;">Japan Search 非公式サポートページ</a> を参考に作成しています。
-  </div>
-  <!--/.Copyright-->
-
-</footer>
-<!--/.Footer-->
-
-</body>
-</html>
+</div>
