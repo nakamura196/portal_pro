@@ -1,5 +1,6 @@
 import json
 from SPARQLWrapper import SPARQLWrapper
+import hashlib
 
 flg = True
 
@@ -13,10 +14,11 @@ while (flg):
 
     sparql = SPARQLWrapper(endpoint='https://sparql.dl.itc.u-tokyo.ac.jp', returnFormat='json')
     sparql.setQuery("""
-      SELECT DISTINCT ?url ?label ?provider_label WHERE {
+      SELECT DISTINCT ?url ?label ?provider_label ?thumb WHERE {
       ?s <http://purl.org/dc/terms/title> ?label .
-      ?s <http://purl.org/dc/terms/identifier> ?url. ?url rdf:type <file:///home/nakamura/git/portal_pro/src/dcndl_porta:IIIF-URI> .
+      ?s <http://purl.org/dc/terms/identifier> ?url. ?url rdf:type <http://iiif.io/api/presentation/2#Manifest> .
       ?s <http://ndl.go.jp/dcndl/terms/digitizedPublisher> ?provider_label . filter(LANG(?provider_label) = 'ja')
+      optional { ?s <http://xmlns.com/foaf/0.1/thumbnail> ?thumb . } 
     } limit 10000 offset """ + str(10000 * page) + """
     """)
 
@@ -40,6 +42,10 @@ while (flg):
         manifest_obj["@type"] = "sc:Manifest"
         manifest_obj["label"] = label
 
+        if "thumb" in obj:
+            manifest_obj["thumbnail"] = obj["thumb"]["value"]
+
+
         map[attribution].append(manifest_obj)
 
 collection = {}
@@ -55,9 +61,11 @@ collection["collections"] = collections
 for attribution in map:
     all = {}
     all["@context"] = "http://iiif.io/api/presentation/2/context.json"
-    all["@id"] = "https://nakamura196.github.io/portal_pro/data/collections/" + attribution + ".json"
+    all["@id"] = "https://nakamura196.github.io/portal_pro/data/collections/" + \
+        hashlib.md5(attribution.encode('utf-8')).hexdigest() + ".json"
     all["@type"] = "sc:Collection"
     all["manifests"] = map[attribution]
+    all["vhint"] = "use-thumb"
 
     c = {}
     collections.append(c)
@@ -65,7 +73,8 @@ for attribution in map:
     c["@type"] = "sc:Collection"
     c["label"] = attribution
 
-    fw = open("../docs/data/collections/" + attribution + ".json", 'w')
+    fw = open("../docs/data/collections/" +
+              hashlib.md5(attribution.encode('utf-8')).hexdigest() + ".json", 'w')
     json.dump(all, fw, ensure_ascii=False, indent=4, sort_keys=True, separators=(',', ': '))
 
 fw2 = open("../docs/data/collection.json", 'w')
