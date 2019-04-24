@@ -21,6 +21,11 @@
 ## ツールとSPARQLエンドポイントの情報
 * [SPARQLエンドポイント](https://sparql.dl.itc.u-tokyo.ac.jp)
 * [Snorql for UTokyo Academic Archives Portal](https://nakamura196.github.io/portal_pro/snorql/) - ブラウザ用SPARQLインターフェイス
+
+## データセット
+* [IIIF Collection](https://github.com/nakamura196/portal_pro/blob/master/docs/data/collection.json)
+* [IIIF Collectionの閲覧](http://kanzaki.com/works/2016/pub/image-annotator?u=https://raw.githubusercontent.com/nakamura196/portal_pro/master/docs/data/collection.json) - Image Annotator（神崎正英氏作成）を用いてIIIF Collectionを閲覧する
+* [RDFファイル](https://github.com/nakamura196/portal_pro/blob/master/docs/data/data.rdf)
   
 ## License
 
