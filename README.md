@@ -27,10 +27,11 @@
 * [IIIF Collectionの閲覧](http://kanzaki.com/works/2016/pub/image-annotator?u=https://raw.githubusercontent.com/nakamura196/portal_pro/master/docs/data/collection.json) - Image Annotator（神崎正英氏作成）を用いてIIIF Collectionを閲覧する
 * [RDFファイル](https://github.com/nakamura196/portal_pro/blob/master/docs/data/data.rdf)
 
-## その他（Unity）
-* [Obstacle Run](https://nakamura196.github.io/portal_pro/unity/or/)
-* [Breakout](https://nakamura196.github.io/portal_pro/unity/breakout/)
-* [Roll a Ball](https://nakamura196.github.io/portal_pro/unity/rab/)
+## その他
+### Unity
+* [Obstacle Run](https://nakamura196.github.io/portal_pro/unity/or/) - 『田中芳男・博物学コレクション・捃拾帖 四二 p.100』（東京大学総合図書館所蔵）を改変
+* [Breakout](https://nakamura196.github.io/portal_pro/unity/breakout/) - 『田中芳男・博物学コレクション・捃拾帖 四二 p.100』（東京大学総合図書館所蔵）を改変
+* [Roll a Ball](https://nakamura196.github.io/portal_pro/unity/rab/) - 『田中芳男・博物学コレクション・捃拾帖 四二 p.100』（東京大学総合図書館所蔵）を改変
   
 ## License
 
