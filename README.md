@@ -30,7 +30,7 @@
 ## その他
 ### Unity
 * [Obstacle Run](https://nakamura196.github.io/portal_pro/unity/or/) - 『田中芳男・博物学コレクション・捃拾帖 四二 p.100』（東京大学総合図書館所蔵）を改変
-* [Breakout](https://nakamura196.github.io/portal_pro/unity/breakout/) - 『田中芳男・博物学コレクション・捃拾帖 四二 p.100』（東京大学総合図書館所蔵）を改変
+* [Breakout](https://nakamura196.github.io/portal_pro/unity/breakout/) - 『田中芳男・博物学コレクション・捃拾帖 四八 p.174』（東京大学総合図書館所蔵）を改変
 * [Roll a Ball](https://nakamura196.github.io/portal_pro/unity/rab/) - 『田中芳男・博物学コレクション・捃拾帖 四二 p.100』（東京大学総合図書館所蔵）を改変
   
 ## License
