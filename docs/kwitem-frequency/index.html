@@ -41,6 +41,8 @@ figure a img {
 
     <h1><span lang="ja">キーワードの年別出現回数</span><span lang="en">Keyword-Item Frequency by Year</span></h1>
 
+    <p><a href="https://www.kanzaki.com/works/ld/jpsearch/">Japan Search 非公式サポートページ</a>を参考に作成しています。</p>
+
     <p lang="ja"><a href="https://da.dl.itc.u-tokyo.ac.jp/portal/">東京大学学術資産等アーカイブズポータル</a>のアイテムタイトル（<code>dcterms:title</code>）もしくは文字列値に含まれるキーワードを検索し、マッチ数を年別にグラフ化する試みです。年範囲のあるアイテムは、出現数をその範囲年数で割って各年に加算します（点線）。各年のポイントをクリックすると個別の数値を表示し、そこからその年のキーワドマッチ検索クエリを実行できます。キーワードは1つしか受け付けませんが、複数チャートを作成後、合成することができます（最初のチャートと同一年範囲のみ）。</p>
     <p lang="en">This tool searchs a keyword in <a href="https://da.dl.itc.u-tokyo.ac.jp/portal/en/">UTokyo Academic Archives Portal</a> items, and count the occurrences by year. If items have year range, those occurrences are divided by the number of years in the range. Click a point in the graph, then a link to keyword query for the year will be shown. Some interesting words would be <span class="pseudolink" onclick="WF.freq_chart('大相撲', 1926, true);">大相撲</span> (Sumo) or <span class="pseudolink" onclick="WF.freq_chart('パソコン', 1926, true);">パソコン</span> (Personal computer). Although only single keyword allowd, multiple charts can be combined later (as long as the same year range).</p>
 

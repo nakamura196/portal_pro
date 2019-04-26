@@ -109,7 +109,7 @@ $fed = isset($_GET["fed"]) ? true : false;
                   <!--Navbar-->
                   <nav class="navbar navbar-expand-lg navbar-light scrolling-navbar" style="background-color: white;">
                     <div class="container-fluid">
-                      <a class="navbar-brand" href="https://github.com/nakamura196/portal_pro">東京大学学術資産等アーカイブズポータル 非公式 サポートページ</a>
+                      <a class="navbar-brand" href="https://github.com/nakamura196/portal_pro">UTokyo Digital Archives Project Pro</a>
                     </div>
                   </nav>
                   <!--/.Navbar-->
@@ -118,6 +118,7 @@ $fed = isset($_GET["fed"]) ? true : false;
 
                 <div class="container my-5">
                   <h1>IIIF manifest search</h1>
+                  <p><a href="https://www.kanzaki.com/works/ld/jpsearch/">Japan Search 非公式サポートページ</a>を参考に作成しています。</p>
                   <p>東京大学学術資産等アーカイブズポータルに登録されているIIIFマニフェストを検索し、IIIFコレクションを生成</p>
 
                   <div class="mt-5">
@@ -142,11 +143,14 @@ $fed = isset($_GET["fed"]) ? true : false;
                 </div>
 
                 <!--Footer-->
-                <footer class="text-center bg-secondary mt-5">
+                <footer class="text-center bg-secondary py-5">
 
                   <!--Copyright-->
-                  <div class="py-5" style="color : white;">
-                    <a href="https://researchmap.jp/nakamura.satoru/" style="color : white;">Satoru Nakamura</a>.<br/><a href="https://www.kanzaki.com/works/ld/jpsearch/" style="color : white;">Japan Search 非公式サポートページ</a> を参考に作成しています。
+                  <div style="color : white;">
+                    <a>東京大学学術資産等アーカイブズ委員会事務局<br />
+                      （東京大学附属図書館総務課／<br />
+                      学術資産アーカイブ化推進室）<br />
+                      E-mail：digital-archive [at] lib.u-tokyo.ac.jp.</a>
                   </div>
                   <!--/.Copyright-->
 

@@ -13,7 +13,7 @@
   <meta name="twitter:card" content="summary_large_image">
   <meta name="image_src" content="{{ site.image }}">
   <link rel="image_src" href="{{ site.image }}" />
-  <link rel="shortcut icon" href="assets/images/favicon.ico">
+  <link rel="shortcut icon" href="./assets/images/favicon.ico">
   <title>{% if page.title %}{{ page.title }} | {{ site.title }}{% else %}{{ site.title }}{% endif %}</title>
 
   <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.0/css/solid.css" integrity="sha384-r/k8YTFqmlOaqRkZuSiE9trsrDXkh07mRaoGBMoDcmA58OHILZPsk29i2BsFng1B" crossorigin="anonymous">
@@ -40,22 +40,7 @@
 
   {{ content }}
 
-  <p class="pagetop"><a href="#wrap">▲</a></p>
-
-  <!--Footer-->
-  <footer class="text-center bg-secondary py-5">
-
-    <!--Copyright-->
-    <div style="color : white;">
-      <a>東京大学学術資産等アーカイブズ委員会事務局<br/>
-      （東京大学附属図書館総務課／<br />
-      学術資産アーカイブ化推進室）<br />
-      E-mail：digital-archive [at] lib.u-tokyo.ac.jp.</a>
-    </div>
-    <!--/.Copyright-->
-
-  </footer>
-  <!--/.Footer-->
+  {% include footer.html %}
 
 </body>
 </html>
