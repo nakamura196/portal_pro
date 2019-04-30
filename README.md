@@ -32,6 +32,10 @@
 * [Obstacle Run](https://nakamura196.github.io/portal_pro/unity/or/) - 『田中芳男・博物学コレクション・捃拾帖 四二 p.100』（東京大学総合図書館所蔵）を改変
 * [Breakout](https://nakamura196.github.io/portal_pro/unity/breakout/) - 『田中芳男・博物学コレクション・捃拾帖 四八 p.174』（東京大学総合図書館所蔵）を改変
 * [Roll a Ball](https://nakamura196.github.io/portal_pro/unity/rab/) - 『田中芳男・博物学コレクション・捃拾帖 四二 p.100』（東京大学総合図書館所蔵）を改変
+
+### AR
+* スマートフォンで[こちら](https://nakamura196.github.io/portal_pro/js/ar/)のページを開き、以下のマーカーにカメラをかざしてください。 - 『平賀譲デジタルアーカイブ・軍艦“比叡”進水式記念品（ハンマーと笛）』を改変（[https://iiif.dl.itc.u-tokyo.ac.jp/repo/s/hiraga/document/f26b84cb-cde2-4c8f-aaa8-b990af890c2e#?cv=4](https://iiif.dl.itc.u-tokyo.ac.jp/repo/s/hiraga/document/f26b84cb-cde2-4c8f-aaa8-b990af890c2e#?cv=4)）
+![HIRO](https://jeromeetienne.github.io/AR.js/data/images/HIRO.jpg)
   
 ## License
 
