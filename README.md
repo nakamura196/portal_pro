@@ -35,8 +35,13 @@
 
 ### AR
 * スマートフォンで[こちら](https://nakamura196.github.io/portal_pro/js/ar/)のページを開き、以下のマーカーにカメラをかざしてください。 - 『平賀譲デジタルアーカイブ・軍艦“比叡”進水式記念品（ハンマーと笛）』を改変（[https://iiif.dl.itc.u-tokyo.ac.jp/repo/s/hiraga/document/f26b84cb-cde2-4c8f-aaa8-b990af890c2e#?cv=4](https://iiif.dl.itc.u-tokyo.ac.jp/repo/s/hiraga/document/f26b84cb-cde2-4c8f-aaa8-b990af890c2e#?cv=4)）
-![HIRO](https://jeromeetienne.github.io/AR.js/data/images/HIRO.jpg)
-  
+
+* マーカー
+<img src="https://jeromeetienne.github.io/AR.js/data/images/HIRO.jpg" width="300px"/>
+
+* デモ
+<img src="https://nakamura196.github.io/portal_pro/js/ar/demo.png" width="300px"/>
+
 ## License
 
 [![CC BY](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/by.svg)](https://creativecommons.org/licenses/by/4.0/)
