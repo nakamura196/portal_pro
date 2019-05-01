@@ -29,7 +29,7 @@
 
 ## その他
 
-* [Unity・3D・AR](https://github.com/nakamura196/portal_pro/wiki/%E3%81%9D%E3%81%AE%E4%BB%96%EF%BC%88Unity%E3%83%BB3D%E3%83%BBVR-AR%EF%BC%89)
+* [Unity・3D・AR](https://github.com/nakamura196/portal_pro/wiki/Unity%E3%83%BB3D%E3%83%BBAR)
 
 ## License
 
