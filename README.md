@@ -37,7 +37,7 @@
 * スマートフォン等で以下のQRコードからアプリにアクセスし、以下のマーカーにカメラをかざしてください。 - 『平賀譲デジタルアーカイブ・軍艦“比叡”進水式記念品（ハンマーと笛）』を改変（[https://iiif.dl.itc.u-tokyo.ac.jp/repo/s/hiraga/document/f26b84cb-cde2-4c8f-aaa8-b990af890c2e#?cv=4](https://iiif.dl.itc.u-tokyo.ac.jp/repo/s/hiraga/document/f26b84cb-cde2-4c8f-aaa8-b990af890c2e#?cv=4)）
 
 * QRコード
-<img src="https://jeromeetienne.github.io/AR.js/data/images/qr.jpg" width="300px"/>
+<img src="https://nakamura196.github.io/portal_pro/js/ar/qr.png" width="300px"/>
 
 * マーカー
 <img src="https://jeromeetienne.github.io/AR.js/data/images/HIRO.jpg" width="300px"/>
