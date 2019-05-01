@@ -42,6 +42,8 @@
 * デモ
 <img src="https://nakamura196.github.io/portal_pro/js/ar/demo.png" width="300px"/>
 
+* 参考：3DモデルをUniversal Viewerで閲覧する。 [こちら](http://universalviewer.io/uv.html?manifest=https://nakamura196.github.io/portal_pro/js/3d/manifest.json)
+
 ## License
 
 [![CC BY](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/by.svg)](https://creativecommons.org/licenses/by/4.0/)
