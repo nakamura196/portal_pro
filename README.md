@@ -28,24 +28,8 @@
 * [RDFファイル](https://github.com/nakamura196/portal_pro/blob/master/docs/data/data.rdf)
 
 ## その他
-### Unity
-* [Obstacle Run](https://nakamura196.github.io/portal_pro/unity/or/) - 『田中芳男・博物学コレクション・捃拾帖 四二 p.100』（東京大学総合図書館所蔵）を改変
-* [Breakout](https://nakamura196.github.io/portal_pro/unity/breakout/) - 『田中芳男・博物学コレクション・捃拾帖 四八 p.174』（東京大学総合図書館所蔵）を改変
-* [Roll a Ball](https://nakamura196.github.io/portal_pro/unity/rab/) - 『田中芳男・博物学コレクション・捃拾帖 四二 p.100』（東京大学総合図書館所蔵）を改変
 
-### AR
-* スマートフォン等で以下のQRコードからアプリにアクセスし、以下のマーカーにカメラをかざしてください。 - 『平賀譲デジタルアーカイブ・軍艦“比叡”進水式記念品（ハンマーと笛）』を改変（[https://iiif.dl.itc.u-tokyo.ac.jp/repo/s/hiraga/document/f26b84cb-cde2-4c8f-aaa8-b990af890c2e#?cv=4](https://iiif.dl.itc.u-tokyo.ac.jp/repo/s/hiraga/document/f26b84cb-cde2-4c8f-aaa8-b990af890c2e#?cv=4)）
-
-* QRコード
-<img src="https://nakamura196.github.io/portal_pro/js/ar/qr.png" width="300px"/>
-
-* マーカー
-<img src="https://jeromeetienne.github.io/AR.js/data/images/HIRO.jpg" width="300px"/>
-
-* デモ
-<img src="https://nakamura196.github.io/portal_pro/js/ar/demo.png" width="300px"/>
-
-* 参考：3DモデルをUniversal Viewerで閲覧する。 [こちら](http://universalviewer.io/uv.html?manifest=https://nakamura196.github.io/portal_pro/js/3d/manifest.json)
+* [Unity・3D・AR](https://github.com/nakamura196/portal_pro/wiki/%E3%81%9D%E3%81%AE%E4%BB%96%EF%BC%88Unity%E3%83%BB3D%E3%83%BBVR-AR%EF%BC%89)
 
 ## License
 
