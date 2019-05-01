@@ -1,0 +1,29 @@
+{
+	"@context": [
+		"http://iiif.io/api/presentation/2/context.json",
+		"http://files.universalviewer.io/ld/ixif/0/context.json"
+	],
+	"@id": "https://nakamura196.github.io/portal_pro/js/3d/manifest.json",
+	"@type": "sc:Manifest",
+	"label": "平賀譲デジタルアーカイブ・軍艦“比叡”進水式記念品（ハンマーと笛）",
+	"thumbnail": {
+		"@id": "https://nakamura196.github.io/portal_pro/js/3d/thumb.jpg"
+	},
+	"license": "http://creativecommons.org/licenses/by/4.0/",
+	"mediaSequences": [
+		{
+			"@id": "https://nakamura196.github.io/portal_pro/js/3d/sequence/s0",
+			"@type": "ixif:MediaSequence",
+			"label": "XSequence 0",
+			"elements": [
+				{
+					"@id": "https://nakamura196.github.io/portal_pro/js/3d/obj.json",
+					"@type": "dctypes:PhysicalObject",
+					"format": "application/vnd.threejs+json",
+					"label": "百鬼夜行絵巻",
+					"thumbnail": "https://nakamura196.github.io/portal_pro/js/3d/thumb.jpg"
+				}
+			]
+		}
+	]
+}
