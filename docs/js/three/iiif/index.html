@@ -104,7 +104,10 @@
 		var image_index = 0
 		var image_urls = [];
 
-		get_image_urls("https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/d230f1f8-5929-4138-bb28-1108d77fd32a/manifest");
+		var vars = getUrlVars();
+		var manifest = vars["manifest"] ? vars["manifest"] : "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/d230f1f8-5929-4138-bb28-1108d77fd32a/manifest";
+
+		get_image_urls(manifest);
 		init();
 		animate();
 
@@ -117,6 +120,25 @@
 					image_urls.push(image)
 				}
 			})
+		}
+
+		/**
+		 *  GETパラメータを配列にして返す
+		 *
+		 *  @return     パラメータのObject
+		 *
+		 */
+		function getUrlVars() {
+			var vars = {};
+			var param = location.search.substring(1).split('&');
+			for (var i = 0; i < param.length; i++) {
+				var keySearch = param[i].search(/=/);
+				var key = '';
+				if (keySearch != -1) key = param[i].slice(0, keySearch);
+				var val = param[i].slice(param[i].indexOf('=', 0) + 1);
+				if (key != '') vars[key] = decodeURI(val);
+			}
+			return vars;
 		}
 
 		function init() {
@@ -331,7 +353,7 @@
 				// ぶつかったオブジェクトに対してなんかする
 				var textureLoader = new THREE.TextureLoader();
 				textureLoader.crossOrigin = "Anonymous"
-				newTexture = textureLoader.load(image_urls[image_index] + '/full/1024,1024/0/default.jpg');
+				newTexture = textureLoader.load(image_urls[image_index] + '/full/2048,/0/default.jpg');
 				intersections[0].object.material = new THREE.MeshBasicMaterial({
 					map: newTexture
 				});
@@ -355,7 +377,9 @@
 
 				raycaster.setFromCamera(mouse, camera);
 
-				var onObject = false;
+				var intersections = raycaster.intersectObjects(objects);
+
+				var onObject = intersections.length > 0;
 
 				var time = performance.now();
 				var delta = (time - prevTime) / 1000;
