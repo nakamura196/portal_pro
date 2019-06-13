@@ -11,9 +11,10 @@
   * [統合クエリ結果の可視化](https://nakamura196.github.io/portal_pro/fedquery)
 * [出現頻度の可視化](https://nakamura196.github.io/portal_pro/freq)
 * ヒストグラム
-  * [コレクション](https://nakamura196.github.io/portal_pro/collections)
-  * [機関](https://nakamura196.github.io/portal_pro/providers)
-* [Google Cloud Natural Language API](https://cloud.google.com/natural-language/?hl=ja)の利用
+  * [コレクション](https://nakamura196.github.io/portal_pro/collections) - Online
+  * [機関](https://nakamura196.github.io/portal_pro/providers) - Online
+  * [種別](https://nakamura196.github.io/portal_pro/types) - Online
+* [Google Cloud Natural Language API](https://cloud.google.com/natural-language/?hl=ja)の利用 - Batch
   * [Map Search](https://nakamura196.github.io/portal_pro/map)
   * [Timeline](https://nakamura196.github.io/portal_pro/timeline)
   * [エンティ一覧](https://nakamura196.github.io/portal_pro/entity)
