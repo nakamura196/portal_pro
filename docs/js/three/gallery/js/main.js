@@ -42,7 +42,7 @@ else {
 
 	var manifest = vars["manifest"] ? vars["manifest"] : "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/d230f1f8-5929-4138-bb28-1108d77fd32a/manifest";
 
-get_image_urls(manifest);
+	get_image_urls(manifest);
 
 	var gal = {
 		/*
