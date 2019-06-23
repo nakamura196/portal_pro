@@ -41,10 +41,6 @@ for word in tf:
 
 tfidf = sorted(tfidf.items(), key=lambda x: x[1], reverse=True)
 
-
-
-
-
 # 半角英数字orアンダースコア
 alnum_Reg = re.compile(r'^[a-zA-Z0-9_]+$')
 
