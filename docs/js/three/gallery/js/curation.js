@@ -80,7 +80,7 @@ else {
 
 	var vars = getUrlVars();
 
-    var curation = vars["curation"] ? vars["curation"] : "https://mp.ex.nii.ac.jp/api/curation/json/c90b6f54-2654-449e-b953-11bca3c67c16";
+	var curation = vars["curation"] ? vars["curation"] : "https://mp.ex.nii.ac.jp/api/curation/json/528810d2-4e28-4a46-910c-c9b517f86943";
 
     $.ajaxSetup({ async: false });
 	get_thumbs(curation);
