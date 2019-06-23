@@ -1,6 +1,6 @@
 # UTokyo Digital Archives Project Pro
 
-[Japan Search 非公式サポートページ](https://www.kanzaki.com/works/ld/jpsearch/)を参考に作成しています。
+東京大学学術資産等アーカイブズポータルの活用例です。
 
 ## Resources
 * [Gallery](https://github.com/nakamura196/portal_pro/wiki/Gallery)
