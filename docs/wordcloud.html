@@ -1,0 +1,26 @@
+---
+layout: default
+title: Word Cloud
+---
+
+<div class="container py-2 my-5 text-center">
+  <h3 class="mb-5">Word Cloud</h3>
+  <div id='wordcloud'>
+  </div>
+</div>
+<script src="assets/thirdparty/d3-wordcloud/lib/d3/d3.js" charset="utf-8"></script>
+<script src="assets/thirdparty/d3-wordcloud/lib/d3/d3.layout.cloud.js"></script>
+<script src="assets/thirdparty/d3-wordcloud/d3.wordcloud.js"></script>
+<script src="assets/thirdparty/d3-wordcloud/example/example.words.js"></script>
+<script>
+  d3.wordcloud()
+    .size([900, 600])
+    .fill(d3.scale.ordinal().range(["#884400", "#448800", "#888800", "#444400"]))
+    .words(words)
+    .onwordclick(function (d, i) {
+      if (d.href) {
+        open(d.href, "_blank");
+      }
+    })
+    .start();
+</script>
