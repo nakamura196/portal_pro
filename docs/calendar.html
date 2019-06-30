@@ -1,0 +1,119 @@
+---
+layout: default
+title: Calendar
+---
+
+<style>
+  #calendar {
+    max-width: 100%;
+    margin: 0 auto;
+  }
+
+  /* 日曜日 */
+  .fc-sun {
+    color: red;
+    background-color: #fff0f0;
+  }
+
+  /* 土曜日 */
+  .fc-sat {
+    color: blue;
+    background-color: #f0f0ff;
+  }
+
+  .fc-title {
+    color: white;
+  }
+</style>
+
+<div class="py-5 bg-light">
+  <div class="container">
+    <h2 class="mb-4">Calendar</h2>
+    <div id='calendar'></div>
+  </div>
+</div>
+
+<link href='https://cdnjs.cloudflare.com/ajax/libs/fullcalendar/3.10.0/fullcalendar.min.css' rel='stylesheet' />
+<link href='https://cdnjs.cloudflare.com/ajax/libs/fullcalendar/3.10.0/fullcalendar.print.min.css' rel='stylesheet'
+  media='print' />
+<script src='https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.24.0/moment.min.js'></script>
+<script src='https://cdnjs.cloudflare.com/ajax/libs/fullcalendar/3.10.0/fullcalendar.min.js'></script>
+<script src='https://cdnjs.cloudflare.com/ajax/libs/fullcalendar/3.10.0/locale/ja.js'></script>
+
+<script>
+
+  // str: 日付文字列（yyyy-MM-dd, yyyy/MM/dd）
+  // delim: 区切り文字（"-", "/"など）
+  function isDate(str, delim) {
+    var arr = str.split(delim);
+    if (arr.length !== 3) return false;
+    const date = new Date(arr[0], arr[1] - 1, arr[2]);
+    if (arr[0] !== String(date.getFullYear()) || arr[1] !== ('0' + (date.getMonth() + 1)).slice(-2) || arr[2] !== ('0' + date.getDate()).slice(-2)) {
+      return false;
+    } else {
+      return true;
+    }
+  };
+
+  $(document).ready(function () {
+
+    var query = " PREFIX dcterms: <http://purl.org/dc/terms/> \n";
+    query += " PREFIX dcndl: <http://ndl.go.jp/dcndl/terms/> \n";
+    query += " select distinct * \n";
+    query += " WHERE { \n";
+    query += " ?s dcndl:materialType <http://ndl.go.jp/ndltype/Newspaper> . \n";
+    query += " ?s dcterms:date ?date . \n";
+    query += " ?s dcterms:title ?title . \n";
+    query += " ?s rdfs:seeAlso ?link . \n";
+    query += " } order by desc(?date) \n";
+
+
+
+    $.ajax({
+      url: "https://sparql.dl.itc.u-tokyo.ac.jp",
+      type: 'GET',
+      data: {
+        query: query,
+        format: "json"
+      }
+    })
+      .then(
+        // 1つめは通信成功時のコールバック
+        function (data) {
+
+          var events = []
+
+          var result = data.results.bindings;
+
+          var ddate;
+
+          for (var i = 0; i < result.length; i++) {
+            var obj = result[i];
+
+            var date = obj.date.value
+
+            if (isDate(date, '-')) {
+              ddate = date
+
+              events.push({
+                title: obj.title.value,
+                start: obj.date.value,
+                link: obj.link.value
+              })
+            }
+          }
+
+          $('#calendar').fullCalendar(
+            {
+              defaultDate: ddate,
+              events: events,
+              eventClick: function (info) {
+                window.open(info.link, "_blank");
+              }
+            }
+          );
+        }
+      )
+
+  });
+</script>
