@@ -57,6 +57,16 @@ title: Calendar
 
   $(document).ready(function () {
 
+    var arg = new Object;
+    url = location.search.substring(1).split('&');
+
+    for (i = 0; url[i]; i++) {
+      var k = url[i].split('=');
+      arg[k[0]] = decodeURIComponent(k[1]);
+    }
+
+    var pdate = arg["date"] != null ? arg["date"] : null
+
     var query = " PREFIX dcterms: <http://purl.org/dc/terms/> \n";
     query += " PREFIX dcndl: <http://ndl.go.jp/dcndl/terms/> \n";
     query += " select distinct * \n";
@@ -101,6 +111,10 @@ title: Calendar
                 link: obj.link.value
               })
             }
+          }
+
+          if (pdate != null) {
+            ddate = pdate + "-01"
           }
 
           $('#calendar').fullCalendar(
