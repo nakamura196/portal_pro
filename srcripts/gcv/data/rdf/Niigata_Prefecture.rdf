@@ -1,0 +1,874 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:dbo="http://dbpedia.org/ontology/"
+	xmlns:dbp="http://dbpedia.org/property/"
+	xmlns:dct="http://purl.org/dc/terms/"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	xmlns:prov="http://www.w3.org/ns/prov#"
+	xmlns:ns9="http://dbpedia.org/ontology/PopulatedPlace/"
+	xmlns:georss="http://www.georss.org/georss/"
+	xmlns:ns11="http://dbpedia.org/property/state/"
+	xmlns:ns12="http://purl.org/linguistics/gold/" >
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Isako_Washio">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Niigata_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Katsuhito_Ishii">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Niigata_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Katsuo_Kanda">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Niigata_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yutakayama_Katsuo">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Niigata_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Broadcasting_System_of_Niigata">
+    <dbo:broadcastArea rdf:resource="http://dbpedia.org/resource/Niigata_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mihiro">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Niigata_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Naeba_Ski_Resort">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Niigata_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tomoko_Namba">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Niigata_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Shibata_Castle">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Niigata_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kiichi_Oda">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Niigata_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hirohiko_Izumida">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Niigata_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jōetsu,_Niigata">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Niigata_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hiraide_Shū">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Niigata_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ikki_Kita">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Niigata_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mount_Hiragatake">
+    <dbo:locatedInArea rdf:resource="http://dbpedia.org/resource/Niigata_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sado_Airport">
+    <dbo:operator rdf:resource="http://dbpedia.org/resource/Niigata_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kuromatagawa_Dam">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Niigata_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kōnoyama_Dam">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Niigata_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Miyanaka_Dam">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Niigata_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Niigata-Yake-Yama">
+    <dbo:locatedInArea rdf:resource="http://dbpedia.org/resource/Niigata_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Oishi_Dam">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Niigata_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Otani_Dam">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Niigata_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sagurigawa_Dam">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Niigata_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sasagamine_Dam">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Niigata_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Shozenji_Dam">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Niigata_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Takanosu_Dam">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Niigata_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Uchinokura_Dam">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Niigata_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Arai_Kentarō">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Niigata_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Miomote_Dam">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Niigata_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Okumiomote_Dam">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Niigata_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Saruta_Dam">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Niigata_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tainai_Dam">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Niigata_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tainaigawa_Dam">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Niigata_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Toyomi_Dam">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Niigata_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yamamoto_Dam">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Niigata_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Niigata,_Japan">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Niigata_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Makoto_Kobayashi_(artist)">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Niigata_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Minami-ku,_Niigata">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Niigata_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Niigata">
+    <dbo:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/Niigata_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Niigata,_Niigata">
+    <dbp:prefecture rdf:resource="http://dbpedia.org/resource/Niigata_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Haguroyama_Masaji">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Niigata_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kurosaki,_Niigata">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Niigata_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Aburumagawa_Dam">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Niigata_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ban&#39;etsu_West_Line">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Niigata_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mai_Nakamura">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Niigata_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/高山修一">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Niigata_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Isoroku_Yamamoto">
+    <dbp:birthPlace rdf:resource="http://dbpedia.org/resource/Niigata_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hideki_Hosaka">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Niigata_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Makoto_Ogawa">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Niigata_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nagaoka,_Niigata">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Niigata_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nobuko_Yoshiya">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Niigata_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tainai,_Niigata">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Niigata_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Azusa_Itagaki">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Niigata_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Daisuke_Sakaguchi">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Niigata_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Asuka_Hoshino">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Niigata_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tadami_Line">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Niigata_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hisashi_Owada">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Niigata_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Agekawa_Dam">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Niigata_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Asagawara_Dam">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Niigata_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Futai_Dam">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Niigata_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Iide_Mountains">
+    <dbo:state rdf:resource="http://dbpedia.org/resource/Niigata_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Iwafune_Dam">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Niigata_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kajigawachisui_Dam">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Niigata_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kakizakigawa_Dam">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Niigata_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kanose_Dam">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Niigata_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kasabori_Dam">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Niigata_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kassa_Dam">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Niigata_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kassagawa_Dam">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Niigata_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ketto_Dam">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Niigata_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kuromata_Dam">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Niigata_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Giant_Baba">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Niigata_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ryohei_Yamazaki">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Niigata_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Taniko_Nakamura-Mitsukuri">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Niigata_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yuri_Kawamura">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Niigata_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gosen,_Niigata">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Niigata_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Itoigawa,_Niigata">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Niigata_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Izumozaki,_Niigata">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Niigata_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kamo,_Niigata">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Niigata_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kariwa,_Niigata">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Niigata_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kashiwazaki,_Niigata">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Niigata_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mitsuke,_Niigata">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Niigata_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Myōkō,_Niigata">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Niigata_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ojiya,_Niigata">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Niigata_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Seirō,_Niigata">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Niigata_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sekikawa,_Niigata">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Niigata_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Shibata,_Niigata">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Niigata_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tagami,_Niigata">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Niigata_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tsubame,_Niigata">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Niigata_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tsunan,_Niigata">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Niigata_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tōkamachi,_Niigata">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Niigata_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yahiko,_Niigata">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Niigata_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yuzawa,_Niigata">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Niigata_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Agano,_Niigata">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Niigata_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Agano_River">
+    <dbo:mouthMountain rdf:resource="http://dbpedia.org/resource/Niigata_Prefecture" />
+    <dbo:mouthPlace rdf:resource="http://dbpedia.org/resource/Niigata_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Minamiuonuma">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Niigata_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mount_Naeba">
+    <dbo:locatedInArea rdf:resource="http://dbpedia.org/resource/Niigata_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Uonuma,_Niigata">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Niigata_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Akiha-ku,_Niigata">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Niigata_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kōnan-ku,_Niigata">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Niigata_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nishi-ku,_Niigata">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Niigata_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nishikan-ku,_Niigata">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Niigata_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Eita">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Niigata_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hokuhoku_Line">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Niigata_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mao_Kobayashi_(actress)">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Niigata_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nikkyō_Niwano">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Niigata_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Miyuki_Koizumi">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Niigata_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2010–11_Top_League">
+    <dbp:stadium rdf:resource="http://dbpedia.org/resource/Niigata_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2012–13_Top_League">
+    <dbp:stadium rdf:resource="http://dbpedia.org/resource/Niigata_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yuko_Takayama">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Niigata_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Masashi_Mikami">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Niigata_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Fujisawa_Shu">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Niigata_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Niigata-ken">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Niigata_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nagaoka_dialect">
+    <dbo:spokenIn rdf:resource="http://dbpedia.org/resource/Niigata_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kurohimeyama_Hideo">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Niigata_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jokichi_Ikarashi">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Niigata_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Chūō-ku,_Niigata">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Niigata_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Higashi-ku,_Niigata">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Niigata_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kita-ku,_Niigata">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Niigata_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sado,_Niigata">
+    <dbp:prefecture rdf:resource="http://dbpedia.org/resource/Niigata_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yūji_Mikimoto">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Niigata_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Maiko_Yūki">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Niigata_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tomokazu_Yoshida">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Niigata_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mount_Yahiko">
+    <dbo:locatedInArea rdf:resource="http://dbpedia.org/resource/Niigata_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Myōkō-Togakushi_Renzan_National_Park">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Niigata_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/NEXT21">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Niigata_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Northern_Culture_Museum">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Niigata_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nigata_prefecture">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Niigata_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nîgata_prefecture">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Niigata_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Akitsugu_Amata">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Niigata_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kokei_Kobayashi">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Niigata_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Makoto_Aida">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Niigata_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Muneji_Munemura">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Niigata_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Aga,_Niigata">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Niigata_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kirin_Cup">
+    <dbp:stadium rdf:resource="http://dbpedia.org/resource/Niigata_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Murakami,_Niigata">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Niigata_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sanjō,_Niigata">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Niigata_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hida_Mountains">
+    <dbo:state rdf:resource="http://dbpedia.org/resource/Niigata_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Niigata_Prefecture">
+    <rdf:type rdf:resource="http://umbel.org/umbel/rc/PopulatedPlace" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoGeoEntity" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoPermanentlyLocatedEntity" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/AdministrativeDistrict108491826" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/PopulatedPlace" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Place" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Location" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Region108630985" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Location100027167" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/District108552138" />
+    <rdf:type rdf:resource="http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing" />
+    <rdf:type rdf:resource="http://schema.org/AdministrativeArea" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PhysicalEntity100001930" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoLegalActorGeo" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Object100002684" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q3455524" />
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Region" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/AdministrativeRegion" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Prefecture108626947" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatPrefecturesOfJapan" />
+    <rdf:type rdf:resource="http://schema.org/Place" />
+    <rdfs:label xml:lang="pl">Prefektura Niigata</rdfs:label>
+    <rdfs:label xml:lang="ja">新潟県</rdfs:label>
+    <rdfs:label xml:lang="de">Präfektur Niigata</rdfs:label>
+    <rdfs:label xml:lang="en">Niigata Prefecture</rdfs:label>
+    <rdfs:label xml:lang="nl">Niigata (prefectuur)</rdfs:label>
+    <rdfs:label xml:lang="it">Prefettura di Niigata</rdfs:label>
+    <rdfs:label xml:lang="ru">Ниигата (префектура)</rdfs:label>
+    <rdfs:label xml:lang="pt">Niigata</rdfs:label>
+    <rdfs:label xml:lang="ar">نييغاتا (محافظة)</rdfs:label>
+    <rdfs:label xml:lang="es">Prefectura de Niigata</rdfs:label>
+    <rdfs:label xml:lang="zh">新潟县</rdfs:label>
+    <rdfs:label xml:lang="fr">Préfecture de Niigata</rdfs:label>
+    <rdfs:comment xml:lang="pt">A província de Niigata (新潟県, Niigata-ken?) é uma província do Japão localiza-se na ilha de Honshu, na costa do Mar do Japão. A capital é a cidade de Niigata. O nome &quot;Niigata&quot; significa literalmente &quot;novo lago&quot;.</rdfs:comment>
+    <rdfs:comment xml:lang="ar">25بك المحتوى هنا ينقصه الاستشهاد بمصادر. يرجى إيراد مصادر موثوق بها. أي معلومات غير موثقة يمكن التشكيك بها وإزالتها. (مارس 2016) محافظة نييغاتا (باليابانية: 新潟県, نييغاتا-كين) هي إحدى محافظات اليابان تقع في جزيرة هونشو على ساحل بحر اليابان. عاصمتها مدينة نييغاتا.</rdfs:comment>
+    <rdfs:comment xml:lang="zh">新潟縣（日语：新潟県／にいがたけん Niigata ken */?）位於日本本州島的中部地方，行政中心所在地是新潟市。</rdfs:comment>
+    <rdfs:comment xml:lang="pl">Prefektura Niigata (jap. 新潟県 Niigata-ken) – prefektura na wyspie Honsiu w Japonii, w regionie Chūbu. Jej stolicą jest miasto Niigata.</rdfs:comment>
+    <rdfs:comment xml:lang="it">Niigata (新潟県 Niigata-ken?) è una prefettura giapponese con circa 2,4 milioni di abitanti, si trova nella regione di Chūbu, sull&#39;isola di Honshū. Il suo capoluogo è l&#39;omonima città di Niigata.</rdfs:comment>
+    <rdfs:comment xml:lang="de">Die Präfektur Niigata (jap. 新潟県, Niigata-ken) ist eine der Präfekturen Japans. Sie liegt in der Region Chūbu auf der Insel Honshū. Die gleichnamige Stadt Niigata (Niigata-shi) ist Sitz der Präfekturverwaltung. Niigata ist berühmt für seinen ausgezeichneten Reis und entsprechend auch für seinen Sake.</rdfs:comment>
+    <rdfs:comment xml:lang="ru">Ниигата (яп. 新潟県 Ниигата-кэн) — префектура, расположенная в регионе Тюбу на острове Хонсю, Япония. Административный центр префектуры — город Ниигата. Площадь префектуры составляет 12 583,83 км², население — 2 315 447 человек (1 августа 2014), плотность населения — 184,00 чел./км². Ниигата — одна из крупнейших префектур Японии, в ней располагается наибольшее в Японии количество синтоистских святилищ. Она является родиной самурайского покровителя Уэсуги Кэнсина. Современная Ниигата известна своими популярными горнолыжными курортами (Мёко).</rdfs:comment>
+    <rdfs:comment xml:lang="en">Niigata Prefecture (新潟県 Niigata-ken) is a prefecture of Japan located on the island of Honshu on the coast of the Sea of Japan. The capital is the city of Niigata with which it shares the same name.</rdfs:comment>
+    <rdfs:comment xml:lang="ja">新潟県（にいがたけん）は、日本の県の一つで、中部地方の日本海側に位置する。県庁所在地は新潟市。</rdfs:comment>
+    <rdfs:comment xml:lang="nl">De prefectuur Niigata (新潟県, Niigata-ken) is een Japanse prefectuur in de regio Chubu in Honshu. Niigata heeft een oppervlakte van 12583,47 km² en had op 1 maart 2008 een bevolking van ongeveer 2.402.901 inwoners. De hoofdstad is Niigata (stad).</rdfs:comment>
+    <rdfs:comment xml:lang="fr">Niigata (新潟県, Niigata-ken) est une préfecture du Japon située au nord de Honshū.</rdfs:comment>
+    <rdfs:comment xml:lang="es">La prefectura de Niigata (新潟県 Niigata-ken?) es una prefectura japonesa localizada en la isla Honshū en la costa del mar del Japón. La capital es la ciudad de Niigata. El nombre Niigata significa literalmente ‘laguna nueva’.</rdfs:comment>
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Historic_Sites_of_Niigata_Prefecture" />
+    <owl:sameAs rdf:resource="http://nl.dbpedia.org/resource/Niigata_(prefectuur)" />
+    <owl:sameAs rdf:resource="http://pl.dbpedia.org/resource/Prefektura_Niigata" />
+    <owl:sameAs rdf:resource="http://it.dbpedia.org/resource/Prefettura_di_Niigata" />
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.018txg" />
+    <owl:sameAs rdf:resource="http://eu.dbpedia.org/resource/Niigata_(prefetura)" />
+    <owl:sameAs rdf:resource="http://ja.dbpedia.org/resource/新潟県" />
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q132705" />
+    <owl:sameAs rdf:resource="http://fr.dbpedia.org/resource/Préfecture_de_Niigata" />
+    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/Präfektur_Niigata" />
+    <owl:sameAs rdf:resource="http://es.dbpedia.org/resource/Prefectura_de_Niigata" />
+    <owl:sameAs rdf:resource="http://ko.dbpedia.org/resource/니가타_현" />
+    <owl:sameAs rdf:resource="http://sw.cyc.com/concept/Mx4rvry6AJwpEbGdrcN5Y29ycA" />
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q132705" />
+    <owl:sameAs rdf:resource="http://sws.geonames.org/1855429/" />
+    <owl:sameAs rdf:resource="http://cs.dbpedia.org/resource/Prefektura_Niigata" />
+    <owl:sameAs rdf:resource="http://id.dbpedia.org/resource/Prefektur_Niigata" />
+    <owl:sameAs rdf:resource="http://yago-knowledge.org/resource/Niigata_Prefecture" />
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Niigata_Prefecture" />
+    <owl:sameAs rdf:resource="http://pt.dbpedia.org/resource/Niigata" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Niigata_Prefecture" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Hokuriku_region" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Prefectures_of_Japan" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Chūbu_region" />
+    <dbo:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">181660</dbo:wikiPageID>
+    <dbo:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">744763443</dbo:wikiPageRevisionID>
+    <dbo:wikiPageExternalLink rdf:resource="http://www.enjoyniigata.com/en/" />
+    <dbo:wikiPageExternalLink rdf:resource="http://jetniigata.wordpress.com/" />
+    <dbo:wikiPageExternalLink rdf:resource="https://books.google.com/books?id=p2QnPijAEmEC&amp;client=firefox-a" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.pref.niigata.lg.jp/en" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.worldcat.org/oclc/58053128?referer=di&amp;ht=edition" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.pref.niigata.lg.jp/en/" />
+    <foaf:name xml:lang="en">Niigata</foaf:name>
+    <foaf:homepage rdf:resource="http://www.pref.niigata.lg.jp/en" />
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#float">37.6167</geo:lat>
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#float">138.867</geo:long>
+    <foaf:depiction rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Flag_of_Niigata_Prefecture.svg" />
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Niigata_Prefecture" />
+    <geo:geometry rdf:datatype="http://www.openlinksw.com/schemas/virtrdf#Geometry">POINT(138.86666870117 37.616664886475)</geo:geometry>
+    <dbo:thumbnail rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Flag_of_Niigata_Prefecture.svg?width=300" />
+    <prov:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Niigata_Prefecture?oldid=744763443" />
+    <ns9:areaTotal rdf:datatype="http://dbpedia.org/datatype/squareKilometre">12582.47</ns9:areaTotal>
+    <ns9:populationDensity rdf:datatype="http://dbpedia.org/datatype/inhabitantsPerSquareKilometre">188.48</ns9:populationDensity>
+    <dbo:abstract xml:lang="nl">De prefectuur Niigata (新潟県, Niigata-ken) is een Japanse prefectuur in de regio Chubu in Honshu. Niigata heeft een oppervlakte van 12583,47 km² en had op 1 maart 2008 een bevolking van ongeveer 2.402.901 inwoners. De hoofdstad is Niigata (stad).</dbo:abstract>
+    <dbo:abstract xml:lang="es">La prefectura de Niigata (新潟県 Niigata-ken?) es una prefectura japonesa localizada en la isla Honshū en la costa del mar del Japón. La capital es la ciudad de Niigata. El nombre Niigata significa literalmente ‘laguna nueva’.</dbo:abstract>
+    <dbo:abstract xml:lang="ja">新潟県（にいがたけん）は、日本の県の一つで、中部地方の日本海側に位置する。県庁所在地は新潟市。</dbo:abstract>
+    <dbo:abstract xml:lang="ru">Ниигата (яп. 新潟県 Ниигата-кэн) — префектура, расположенная в регионе Тюбу на острове Хонсю, Япония. Административный центр префектуры — город Ниигата. Площадь префектуры составляет 12 583,83 км², население — 2 315 447 человек (1 августа 2014), плотность населения — 184,00 чел./км². Ниигата — одна из крупнейших префектур Японии, в ней располагается наибольшее в Японии количество синтоистских святилищ. Она является родиной самурайского покровителя Уэсуги Кэнсина. Современная Ниигата известна своими популярными горнолыжными курортами (Мёко).</dbo:abstract>
+    <dbo:abstract xml:lang="pt">A província de Niigata (新潟県, Niigata-ken?) é uma província do Japão localiza-se na ilha de Honshu, na costa do Mar do Japão. A capital é a cidade de Niigata. O nome &quot;Niigata&quot; significa literalmente &quot;novo lago&quot;.</dbo:abstract>
+    <dbo:abstract xml:lang="pl">Prefektura Niigata (jap. 新潟県 Niigata-ken) – prefektura na wyspie Honsiu w Japonii, w regionie Chūbu. Jej stolicą jest miasto Niigata.</dbo:abstract>
+    <dbo:abstract xml:lang="fr">Niigata (新潟県, Niigata-ken) est une préfecture du Japon située au nord de Honshū.</dbo:abstract>
+    <dbo:abstract xml:lang="en">Niigata Prefecture (新潟県 Niigata-ken) is a prefecture of Japan located on the island of Honshu on the coast of the Sea of Japan. The capital is the city of Niigata with which it shares the same name.</dbo:abstract>
+    <dbo:abstract xml:lang="de">Die Präfektur Niigata (jap. 新潟県, Niigata-ken) ist eine der Präfekturen Japans. Sie liegt in der Region Chūbu auf der Insel Honshū. Die gleichnamige Stadt Niigata (Niigata-shi) ist Sitz der Präfekturverwaltung. Niigata ist berühmt für seinen ausgezeichneten Reis und entsprechend auch für seinen Sake.</dbo:abstract>
+    <dbo:abstract xml:lang="zh">新潟縣（日语：新潟県／にいがたけん Niigata ken */?）位於日本本州島的中部地方，行政中心所在地是新潟市。</dbo:abstract>
+    <dbo:abstract xml:lang="it">Niigata (新潟県 Niigata-ken?) è una prefettura giapponese con circa 2,4 milioni di abitanti, si trova nella regione di Chūbu, sull&#39;isola di Honshū. Il suo capoluogo è l&#39;omonima città di Niigata.</dbo:abstract>
+    <dbo:abstract xml:lang="ar">25بك المحتوى هنا ينقصه الاستشهاد بمصادر. يرجى إيراد مصادر موثوق بها. أي معلومات غير موثقة يمكن التشكيك بها وإزالتها. (مارس 2016) محافظة نييغاتا (باليابانية: 新潟県, نييغاتا-كين) هي إحدى محافظات اليابان تقع في جزيرة هونشو على ساحل بحر اليابان. عاصمتها مدينة نييغاتا.</dbo:abstract>
+    <dbo:areaTotal rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.25825e+10</dbo:areaTotal>
+    <dbo:capital rdf:resource="http://dbpedia.org/resource/Niigata,_Niigata" />
+    <dbo:country rdf:resource="http://dbpedia.org/resource/Japan" />
+    <dbo:populationDensity rdf:datatype="http://www.w3.org/2001/XMLSchema#double">188.48</dbo:populationDensity>
+    <dbo:populationTotal rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">2371574</dbo:populationTotal>
+    <dbp:island rdf:resource="http://dbpedia.org/resource/Honshu" />
+    <dbp:municipalities rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">30</dbp:municipalities>
+    <dbp:popdate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2011-02-01</dbp:popdate>
+    <!--
+    <p: xmlns:p="http://dbpedia.org/property/rōmaji" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Niigata-ken</p:>
+    -->
+    <georss:point>37.61666666666667 138.86666666666667</georss:point>
+    <dbp:arearank rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</dbp:arearank>
+    <dbp:bird rdf:resource="http://dbpedia.org/resource/Crested_ibis" />
+    <dbp:districts rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">9</dbp:districts>
+    <dbp:flag rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Flag of Niigata Prefecture.svg</dbp:flag>
+    <dbp:flower rdf:resource="http://dbpedia.org/resource/Tulip" />
+    <dbp:governor rdf:resource="http://dbpedia.org/resource/Hirohiko_Izumida" />
+    <dbp:isocode rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">JP-15</dbp:isocode>
+    <dbp:pcwater rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.2</dbp:pcwater>
+    <dbp:poprank rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">14</dbp:poprank>
+    <dbp:region rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Chūbu</dbp:region>
+    <dbp:tree rdf:resource="http://dbpedia.org/resource/Camellia" />
+    <dbp:japanesename rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">新潟県</dbp:japanesename>
+    <ns12:hypernym rdf:resource="http://dbpedia.org/resource/Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Niigata_University">
+    <dbo:state rdf:resource="http://dbpedia.org/resource/Niigata_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hachirō_Arita">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Niigata_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ishizuka_Tomoji">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Niigata_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kazunari_Ono">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Niigata_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kenkichi_Yoshizawa">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Niigata_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kento_Tsurumaki">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Niigata_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Meiko_Satomura">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Niigata_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Seiichi_Kanai">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Niigata_Prefecture" />
+    <dbp:birthPlace rdf:resource="http://dbpedia.org/resource/Niigata_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Shunji_Kosugi">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Niigata_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tatsuyuki_Nagai">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Niigata_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tomiji_Koyanagi">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Niigata_Prefecture" />
+    <dbp:birthPlace rdf:resource="http://dbpedia.org/resource/Niigata_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tomoaki_Seino">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Niigata_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Toshihito_Ito">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Niigata_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yoshitsugu_Tatekawa">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Niigata_Prefecture" />
+    <dbp:birthPlace rdf:resource="http://dbpedia.org/resource/Niigata_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ōyutaka_Masachika">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Niigata_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Niigata_prefecture">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Niigata_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/East_Japan_Railway_Company">
+    <dbo:regionServed rdf:resource="http://dbpedia.org/resource/Niigata_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kenichi_Suzumura">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Niigata_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Közi">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Niigata_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kazuyuki_Sekiguchi">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Niigata_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Koharu_Kusumi">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Niigata_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Rumi_Kasahara">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Niigata_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tsunesaburō_Makiguchi">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Niigata_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yoko_Soumi">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Niigata_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ryōkan">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Niigata_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Shiori_Sato">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Niigata_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Maya_Kobayashi">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Niigata_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Niigata_City_History_Museum">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Niigata_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Niigata_Nippo_MEDIA_SHIP">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Niigata_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lee_Sang-il_(film_director)">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Niigata_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Junzaburō_Nishiwaki">
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Niigata_Prefecture" />
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Niigata_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bakauke">
+    <dbo:region rdf:resource="http://dbpedia.org/resource/Niigata_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Motoei_Shinzawa">
+    <dbp:birthPlace rdf:resource="http://dbpedia.org/resource/Niigata_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Uetsu_Main_Line">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Niigata_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Echigo_Line">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Niigata_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hakushin_Line">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Niigata_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Haru_Kobayashi">
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Niigata_Prefecture" />
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Niigata_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Junko_Hoshino">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Niigata_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Shigeko_Kubota">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Niigata_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Toku_(musician)">
+    <dbo:hometown rdf:resource="http://dbpedia.org/resource/Niigata_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Shimizu_Tunnel">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Niigata_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Niigata_Prefectural_Museum_of_History">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Niigata_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sado_mine">
+    <ns11:province rdf:resource="http://dbpedia.org/resource/Niigata_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Shigeji_Kaneko">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Niigata_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Seiko_Yoshida">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Niigata_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Niigata_Kenmin_FM_Broadcast">
+    <dbo:broadcastArea rdf:resource="http://dbpedia.org/resource/Niigata_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Echigo_Sanzan-Tadami_Quasi-National_Park">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Niigata_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mount_Hiuchi">
+    <dbo:locatedInArea rdf:resource="http://dbpedia.org/resource/Niigata_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kohsaburo_Iesaka">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Niigata_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Suneohair">
+    <dbo:hometown rdf:resource="http://dbpedia.org/resource/Niigata_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ango_Sakaguchi">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Niigata_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jōetsu_Line">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Niigata_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kazuto_Nakazawa">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Niigata_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Takayuki_Mikami">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Niigata_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ōnishiki_Ittetsu">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Niigata_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yahiko_Line">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Niigata_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yasuhiro_Nomoto">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Niigata_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yasuhiro_Tanaka">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Niigata_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yukari_Nozawa">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Niigata_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Awashimaura,_Niigata">
+    <dbp:prefecture rdf:resource="http://dbpedia.org/resource/Niigata_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kanako_Higuchi">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Niigata_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kazuko_Fujita">
+    <dbp:birthPlace rdf:resource="http://dbpedia.org/resource/Niigata_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mount_Echigo-Komagatake">
+    <dbo:locatedInArea rdf:resource="http://dbpedia.org/resource/Niigata_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mimei_Ogawa">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Niigata_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ōito_Line">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Niigata_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ainokaze_Toyama_Railway__Line__1">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Niigata_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Echigo_Tokimeki_Railway__Myōkō_Haneuma_Line__1">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Niigata_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Echigo_Tokimeki_Railway__Nihonkai_Hisui_Line__1">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Niigata_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Reika_Kirishima">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Niigata_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tatsuyuki_Okuyama">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Niigata_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Echigo_Tokimeki_Railway">
+    <dbo:regionServed rdf:resource="http://dbpedia.org/resource/Niigata_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Daisuke_Hirakawa">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Niigata_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Toyo_Rikagaku_Kenkyusho">
+    <dbo:foundationPlace rdf:resource="http://dbpedia.org/resource/Niigata_Prefecture" />
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Niigata_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/University_of_Niigata_Prefecture">
+    <dbo:state rdf:resource="http://dbpedia.org/resource/Niigata_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yoshifumi_Kondō">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Niigata_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kakuji_Kakuta">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Niigata_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yasushi_Nirasawa">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Niigata_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Shin&#39;etsu_Main_Line">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Niigata_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kenji_Komata">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Niigata_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Koki_Arita">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Niigata_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Broadcasting_System_of_Niigata__Inc.株式会社新潟放送__1">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Niigata_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Niigata_Sogo_Television__Inc.株式会社新潟総合テレビ__1">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Niigata_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Niigata_Television_Network_21__The_Niigata_Television_Network_21,_Inc.株式会社新潟テレビ二十__1">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Niigata_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Television_Niigata_Network__Co.,Ltd.株式会社_テレビ新潟放送網__1">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Niigata_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tatsuo_Murayama">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Niigata_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hikakin">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Niigata_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Takuma_Ito">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Niigata_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Makoto_Ikeda">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Niigata_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Takamichi_Kobayashi">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Niigata_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nakagawa_Kenzō">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Niigata_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Norio_Tsukudani">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Niigata_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hiroshi_Watari">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Niigata_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mayumi_Watanabe">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Niigata_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Goson_Sakai">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Niigata_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/List_of_Historic_Sites_of_Japan_(Niigata)">
+    <dbp:prefecture rdf:resource="http://dbpedia.org/resource/Niigata_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kei_Ishikawa">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Niigata_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sunao_Kasahara">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Niigata_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Takashi_Saito_(footballer)">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Niigata_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yuriko_Takahashi">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Niigata_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/JP-15">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Niigata_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/新潟県">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Niigata_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Xinxi">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Niigata_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Xinxi_County">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Niigata_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Niigata_Prefecture">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Niigata_Prefecture" />
+  </rdf:Description>
+</rdf:RDF>

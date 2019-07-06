@@ -1,0 +1,575 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:dct="http://purl.org/dc/terms/"
+	xmlns:dbo="http://dbpedia.org/ontology/"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:dbp="http://dbpedia.org/property/"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	xmlns:prov="http://www.w3.org/ns/prov#"
+	xmlns:georss="http://www.georss.org/georss/"
+	xmlns:ns10="http://purl.org/linguistics/gold/" >
+  <rdf:Description rdf:about="http://dbpedia.org/resource/5.56×45mm_NATO">
+    <dbp:usedBy rdf:resource="http://dbpedia.org/resource/NATO" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Northrop_Grumman_RQ-4_Global_Hawk">
+    <dbp:moreUsers rdf:resource="http://dbpedia.org/resource/NATO" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Minigun">
+    <ns10:hypernym rdf:resource="http://dbpedia.org/resource/NATO" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Johannes_Steinhoff">
+    <dbo:occupation rdf:resource="http://dbpedia.org/resource/NATO" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/John_Woodland_Hastings">
+    <dbo:award rdf:resource="http://dbpedia.org/resource/NATO" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/North_Atlantic_Treaty_Organization">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/NATO" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/North_Atlantic_Treaty_Organisation_Organisation_du_Traité_de_l&#39;Atlantique_Nord">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/NATO" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Organisation_du_Traité_de_l&#39;Atlantique_Nord">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/NATO" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Organisation_du_Traité_de_l&#39;Atlantique_Nord_North_Atlantic_Treaty_Organisation">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/NATO" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/N.A.T.O">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/NATO" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ishapore_2A1_rifle">
+    <ns10:hypernym rdf:resource="http://dbpedia.org/resource/NATO" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mirka-class_frigate">
+    <ns10:hypernym rdf:resource="http://dbpedia.org/resource/NATO" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Petya-class_frigate">
+    <ns10:hypernym rdf:resource="http://dbpedia.org/resource/NATO" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Riga-class_frigate">
+    <ns10:hypernym rdf:resource="http://dbpedia.org/resource/NATO" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Matka-class_missile_boat">
+    <ns10:hypernym rdf:resource="http://dbpedia.org/resource/NATO" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Muravey-class_patrol_boat">
+    <ns10:hypernym rdf:resource="http://dbpedia.org/resource/NATO" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Poti-class_corvette">
+    <ns10:hypernym rdf:resource="http://dbpedia.org/resource/NATO" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sarancha-class_missile_boat">
+    <ns10:hypernym rdf:resource="http://dbpedia.org/resource/NATO" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Shershen-class_torpedo_boat">
+    <ns10:hypernym rdf:resource="http://dbpedia.org/resource/NATO" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Stenka-class_patrol_boat">
+    <ns10:hypernym rdf:resource="http://dbpedia.org/resource/NATO" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Turya-class_torpedo_boat">
+    <ns10:hypernym rdf:resource="http://dbpedia.org/resource/NATO" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Cluster_bombing_of_Niš">
+    <dbp:perps rdf:resource="http://dbpedia.org/resource/NATO" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Koriša_bombing">
+    <dbp:perps rdf:resource="http://dbpedia.org/resource/NATO" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/North_Atlantic_Treaty_Organisation_Organisation_du_Traite_de_l&#39;Atlantique_Nord">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/NATO" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Boeing_E-3_Sentry">
+    <dbp:moreUsers rdf:resource="http://dbpedia.org/resource/NATO" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/NATO">
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatMilitaryAlliancesInvolvingFrance" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Abstraction100002137" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Organisation" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatMilitaryAlliancesInvolvingCanada" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Wikicat20th-centuryMilitaryAlliances" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatMilitaryAlliances" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Attribute100024264" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Writing106362953" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WrittenAgreement106771653" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatColdWarTreaties" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Agreement106770275" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Treaty106773434" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Agent" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatMilitaryAlliancesInvolvingPortugal" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatMilitaryAlliancesInvolvingSpain" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Union114418395" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Coalition114418662" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatMilitaryAlliancesInvolvingEstonia" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Alliance114418822" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/State100024720" />
+    <rdf:type rdf:resource="http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Part113809207" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Relation100031921" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/LanguageUnit106284225" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Document106470073" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/LegalDocument106479665" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Message106598915" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Statement106722453" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Word106286395" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatAbbreviations" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Abbreviation107091587" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q24229398" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Form106290637" />
+    <rdf:type rdf:resource="http://schema.org/Organization" />
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WrittenCommunication106349220" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q43229" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatMilitaryAlliancesInvolvingGreece" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatMilitaryAlliancesInvolvingTheUnitedStates" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatMilitaryAlliancesInvolvingTurkey" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatMilitaryAlliancesInvolvingTheNetherlands" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatMilitaryAlliancesInvolvingTheUnitedKingdom" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatMilitaryAlliancesInvolvingPoland" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatMilitaryAlliancesInvolvingRomania" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatMilitaryAlliancesInvolvingLithuania" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatMilitaryAlliancesInvolvingLuxembourg" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatMilitaryAlliancesInvolvingItaly" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatMilitaryAlliancesInvolvingLatvia" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatMilitaryAlliancesInvolvingBulgaria" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatMilitaryAlliancesInvolvingHungary" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Wikicat21st-centuryMilitaryAlliances" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatMilitaryAlliancesInvolvingBelgium" />
+    <rdf:type rdf:resource="http://umbel.org/umbel/rc/Organization" />
+    <rdf:type rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#SocialPerson" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/PoliticalParty" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Communication100033020" />
+    <rdf:type rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent" />
+    <rdfs:label xml:lang="fr">Organisation du traité de l&#39;Atlantique nord</rdfs:label>
+    <rdfs:label xml:lang="ar">الحلف الأطلسي</rdfs:label>
+    <rdfs:label xml:lang="ja">北大西洋条約機構</rdfs:label>
+    <rdfs:label xml:lang="it">Organizzazione del Trattato dell&#39;Atlantico del Nord</rdfs:label>
+    <rdfs:label xml:lang="pl">NATO</rdfs:label>
+    <rdfs:label xml:lang="ru">НАТО</rdfs:label>
+    <rdfs:label xml:lang="nl">Noord-Atlantische Verdragsorganisatie</rdfs:label>
+    <rdfs:label xml:lang="zh">北大西洋公约组织</rdfs:label>
+    <rdfs:label xml:lang="de">NATO</rdfs:label>
+    <rdfs:label xml:lang="pt">Organização do Tratado do Atlântico Norte</rdfs:label>
+    <rdfs:label xml:lang="en">NATO</rdfs:label>
+    <rdfs:label xml:lang="es">Organización del Tratado del Atlántico Norte</rdfs:label>
+    <rdfs:comment xml:lang="it">Il template {{Coord}} ha riscontrato degli errori (istruzioni):Modulo:Wikidata:398: attempt to index field &#39;wikibase&#39; (a nil value) L&#39;Organizzazione del Trattato dell&#39;Atlantico del Nord (in inglese North Atlantic Treaty Organization, in sigla NATO, in francese: Organisation du Traité de l&#39;Atlantique du Nord, in sigla OTAN), è un&#39;organizzazione internazionale per la collaborazione nel settore della difesa.</rdfs:comment>
+    <rdfs:comment xml:lang="fr">L&#39;Organisation du traité de l&#39;Atlantique nord (OTAN ou Otan ; en anglais : North Atlantic Treaty Organization, NATO ; aussi nommé « l&#39;Alliance », pour « Alliance atlantique ») est une organisation politico-militaire qui rassemble de nombreux pays occidentaux, dont le but premier est d&#39;assurer leur défense commune contre les menaces extérieures ainsi que la stabilité des continents ou sous-continents européen et nord-américain. Son siège, initialement situé à Londres puis à Paris, se trouve depuis 1966 à Haren (Bruxelles), et son commandement militaire (SHAPE), initialement à Rocquencourt (France), se trouve aujourd&#39;hui à Casteau (Mons), également en Belgique.</rdfs:comment>
+    <rdfs:comment xml:lang="ru">НА́ТО, Организа́ция Североатланти́ческого догово́ра, Североатлантический Альянс (англ. North Atlantic Treaty Organization, NATO; фр. Organisation du traité de l&#39;Atlantique Nord, OTAN) — военно-политический блок, объединяющий большинство стран Европы, США и Канаду. Основан 4 апреля 1949 года в США, чтобы защитить Европу от советского влияния. Тогда государствами — членами НАТО стали 12 стран: США, Канада, Исландия, Великобритания, Франция, Бельгия, Нидерланды, Люксембург, Норвегия, Дания, Италия и Португалия. Это «трансатлантический форум» для проведения странами-союзниками консультаций по любым вопросам, затрагивающим жизненно важные интересы его членов, включая события, способные поставить под угрозу их безопасность. Одной из декларированных целей НАТО является обеспечение сдерживания люб</rdfs:comment>
+    <rdfs:comment xml:lang="ja">北大西洋条約機構（きたたいせいようじょうやくきこう）は、北大西洋条約に基づき、アメリカ合衆国を中心とした北アメリカ（＝アメリカとカナダ）およびヨーロッパ諸国によって結成された軍事同盟である。前身はブリュッセル条約 (1948年)。 略称は頭字語が用いられ、英語圏では、North Atlantic Treaty Organization を略した NATO（ネイトー）と呼ばれ、ドイツ語圏では NATO（ナトー）、フランス語圏・スペイン語圏・ポルトガル語等圏では OTAN（オタン）と呼ばれる。</rdfs:comment>
+    <rdfs:comment xml:lang="es">La Organización del Tratado del Atlántico Norte (OTAN) –en inglés: North Atlantic Treaty Organization (NATO), y en francés: Organisation du Traité de l&#39;Atlantique Nord (OTAN)–, también denominada Alianza del Atlántico o Alianza del Atlántico Norte, es una alianza militar intergubernamental basada en el Tratado del Atlántico Norte o Tratado de Washington firmado el 4 de abril de 1949. La organización constituye un sistema de defensa colectiva, en la cual los Estados miembros acuerdan defender a cualquiera de sus miembros si son atacados por una facción externa. El cuartel general de la OTAN se encuentra en Bruselas, Bélgica, uno de los 28 Estados miembros de la organización que se extiende por Norteamérica y Europa. Las últimas incorporaciones fueron Albania y Croacia, en abril de 2009. Ade</rdfs:comment>
+    <rdfs:comment xml:lang="nl">De Noord-Atlantische Verdragsorganisatie (NAVO) (Engels: NATO, North Atlantic Treaty Organisation; Frans: OTAN, Organisation du traité de l&#39;Atlantique nord) is een na de Tweede Wereldoorlog opgerichte organisatie ter ondersteuning van het Noord-Atlantische Verdrag dat in Washington op 4 april 1949 werd getekend. Het NAVO-hoofdkwartier is gevestigd in de Brusselse deelgemeente Haren.</rdfs:comment>
+    <rdfs:comment xml:lang="zh">北大西洋公约组织（英语：North Atlantic Treaty Organization，縮寫为NATO；法语：Organisation du Traité de l&#39;Atlantique Nord，縮寫为OTAN），简称北约组织或北约，是一个为实现防卫协作而建立的国际组织。1949年3月18日，美国、英國及法國公开建立北大西洋公约组织，于同年4月4日在美国华盛顿签署《北大西洋公约》后正式成立。为与以前苏联为首的东欧集团国成员相抗衡。及至苏联解体，华沙条约组织宣告解散，北约就成为一个地区性防卫协作组织。北约的最高决策机构是北约理事会。理事会由成员国国家元首及政府高層、外长、国防部长组成。总部设在比利時的布鲁塞尔。最新成员阿尔巴尼亚和克罗地亚于2009年4月加入，至此北约总共有跨域欧洲和北美的28个国家组成。北約軍事開支占世界國防開支的70%，成员国国防开支占该国GDP的2％左右。 公约第5条规定成员国受到的攻擊一旦被确认，其他成员国将作出即时反應。该条款被理解为各国部队将自动参战，并不再次需要各国政府的参战授权。但这一條條款在九一一事件之前，一直都未有動用過 。北约曾协助反海盗行动（counter-piracy operations），在联合国要求下打击亚丁湾、非洲之角和印度洋的海盗，并在2011年根据联合国安理会1973号决议将利比亚上空设为禁飞区。</rdfs:comment>
+    <rdfs:comment xml:lang="ar">25بك المحتوى هنا ينقصه الاستشهاد بمصادر. يرجى إيراد مصادر موثوق بها. أي معلومات غير موثقة يمكن التشكيك بها وإزالتها. (فبراير 2016) منظمة حلف شمال الأطلسي (بالإنجليزية: North Atlantic Treaty Organisation) اختصاراً &quot;الناتو&quot; (بالإنجليزية: NATO) هي منظمة تأسست عام 1949 بناءً على معاهدة شمال الأطلسي التي تم التوقيع عليها في واشنطن في 4 ابريل سنة 1949. يوجد مقر قيادة الحلف في بروكسل عاصمة بلجيكا. وللحلف لغتان رسميتان هما الإنجليزية والفرنسية.</rdfs:comment>
+    <rdfs:comment xml:lang="en">The North Atlantic Treaty Organization (NATO /ˈneɪtoʊ/; French: Organisation du Traité de l&#39;Atlantique Nord; OTAN), also called the North Atlantic Alliance, is an intergovernmental military alliance based on the North Atlantic Treaty which was signed on 4 April 1949. The organization constitutes a system of collective defence whereby its member states agree to mutual defence in response to an attack by any external party. NATO&#39;s headquarters are located in Haren, Brussels, Belgium, where the Supreme Allied Commander also resides. Belgium is one of the 28 member states across North America and Europe, the newest of which, Albania and Croatia, joined in April 2009. An additional 22 countries participate in NATO&#39;s Partnership for Peace program, with 15 other countries involved in institutiona</rdfs:comment>
+    <rdfs:comment xml:lang="de">Die NATO (englisch North Atlantic Treaty Organization „Organisation des Nordatlantikvertrags“ bzw. Nordatlantikpakt-Organisation; im Deutschen häufig als Atlantisches Bündnis, oder auch als Nordatlantikpakt bezeichnet) oder OTAN (französisch Organisation du Traité de l’Atlantique Nord) ist eine Internationale Organisation ohne Hoheitsrechte. Ihre Mitgliedsstaaten behalten ihre volle Souveränität und Unabhängigkeit. Basis der NATO ist der Nordatlantikvertrag. Ihre Organisation versteht sich nicht nur als Verteidigungsbündnis, sondern auch als militärisch-politische Organisation von 28 europäischen und nordamerikanischen Staaten mit dem Ziel eigener Sicherheit und weltweiter Stabilität. Das NATO-Hauptquartier beherbergt mit dem Nordatlantikrat das Hauptorgan der NATO; diese Institution hat s</rdfs:comment>
+    <rdfs:comment xml:lang="pt">Organização do Tratado do Atlântico Norte (OTAN — em francês: Organisation du Traité de l&#39;Atlantique Nord; em inglês: North Atlantic Treaty Organization - NATO), por vezes chamada Aliança Atlântica, é uma aliança militar intergovernamental baseada no Tratado do Atlântico Norte, que foi assinado em 4 de abril de 1949. A organização constitui um sistema de defesa coletiva através do qual seus Estados-membros concordam com a defesa mútua em resposta a um ataque por qualquer entidade externa à organização. A sede da OTAN localiza-se em Bruxelas, na Bélgica, um dos 28 países membros em toda a América do Norte e Europa, sendo que os mais novos (Albânia e Croácia) associaram-se em abril de 2009. Um adicional de 22 países participam da Parceria para a Paz da OTAN, com 15 outros países envolvidos e</rdfs:comment>
+    <rdfs:comment xml:lang="pl">Organizacja Traktatu Północnoatlantyckiego, OTP (ang. North Atlantic Treaty Organization, NATO; fr. Organisation du Traité de l’Atlantique Nord, OTAN) – organizacja polityczno-wojskowa powstała 24 sierpnia 1949 na mocy podpisanego 4 kwietnia 1949 Traktatu Północnoatlantyckiego. Początkowym celem istnienia NATO była obrona militarna przed atakiem ze strony Związku Radzieckiego i jego państw satelickich. Z czasem jednak organizacja stała się elementem utrzymania równowagi strategicznej między Wschodem i Zachodem. Po rozpadzie Układu Warszawskiego pełni rolę stabilizacyjną, podejmując działania zapobiegające rozprzestrzenianiu konfliktów regionalnych.</rdfs:comment>
+    <owl:sameAs rdf:resource="http://ko.dbpedia.org/resource/북대서양_조약_기구" />
+    <owl:sameAs rdf:resource="http://data.nytimes.com/N31642451125599181492" />
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/NATO" />
+    <owl:sameAs rdf:resource="http://nl.dbpedia.org/resource/Noord-Atlantische_Verdragsorganisatie" />
+    <owl:sameAs rdf:resource="http://el.dbpedia.org/resource/ΝΑΤΟ" />
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q7184" />
+    <owl:sameAs rdf:resource="http://id.dbpedia.org/resource/Pakta_Pertahanan_Atlantik_Utara" />
+    <owl:sameAs rdf:resource="http://pt.dbpedia.org/resource/Organização_do_Tratado_do_Atlântico_Norte" />
+    <owl:sameAs rdf:resource="http://sw.cyc.com/concept/Mx4rvVjhTpwpEbGdrcN5Y29ycA" />
+    <owl:sameAs rdf:resource="http://eu.dbpedia.org/resource/Ipar_Atlantikoko_Itunaren_Erakundea" />
+    <owl:sameAs rdf:resource="http://it.dbpedia.org/resource/Organizzazione_del_Trattato_dell&#39;Atlantico_del_Nord" />
+    <owl:sameAs rdf:resource="http://sws.geonames.org/6695079/" />
+    <owl:sameAs rdf:resource="http://pl.dbpedia.org/resource/NATO" />
+    <owl:sameAs rdf:resource="http://es.dbpedia.org/resource/Organización_del_Tratado_del_Atlántico_Norte" />
+    <owl:sameAs rdf:resource="http://www.bbc.co.uk/things/b330e2a5-9d88-4e62-a688-c6d5f4987708#id" />
+    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/NATO" />
+    <owl:sameAs rdf:resource="http://ja.dbpedia.org/resource/北大西洋条約機構" />
+    <owl:sameAs rdf:resource="http://d-nb.info/gnd/377-3" />
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.059dn" />
+    <owl:sameAs rdf:resource="http://yago-knowledge.org/resource/NATO" />
+    <owl:sameAs rdf:resource="http://cs.dbpedia.org/resource/Severoatlantická_aliance" />
+    <owl:sameAs rdf:resource="http://fr.dbpedia.org/resource/Organisation_du_traité_de_l&#39;Atlantique_nord" />
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q7184" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:20th-century_military_alliances" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Cold_War_treaties" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Military_alliances_involving_Canada" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Military_alliances_involving_Italy" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Foreign_relations_of_the_Soviet_Union" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Military_alliances_involving_the_Netherlands" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Military_alliances_involving_the_United_Kingdom" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Military_alliances_involving_Romania" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Military_alliances_involving_Turkey" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Military_alliances_involving_Luxembourg" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Military_alliances_involving_Poland" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Military_alliances_involving_Latvia" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Military_alliances_involving_Lithuania" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Military_alliances_involving_France" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Military_alliances_involving_Hungary" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Organizations_established_in_1949" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Military_alliances_involving_Belgium" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Military_alliances_involving_Bulgaria" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Cold_War_organizations" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:NATO" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:International_military_organizations" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:21st-century_military_alliances" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Anti-communist_organizations" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:1949_establishments_in_Washington,_D.C." />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:1949_in_military_history" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Supraorganizations" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Military_alliances_involving_Portugal" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Military_alliances_involving_Spain" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Military_alliances_involving_Estonia" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Military_alliances_involving_the_United_States" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Organisations_based_in_Brussels" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Military_alliances_involving_Greece" />
+    <dbo:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">21133</dbo:wikiPageID>
+    <dbo:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">744683507</dbo:wikiPageRevisionID>
+    <dbo:wikiPageExternalLink rdf:resource="https://books.google.com/books?id=KyBPuKcUXowC" />
+    <dbo:wikiPageExternalLink rdf:resource="http://nato.int/docu/basics.htm" />
+    <dbo:wikiPageExternalLink rdf:resource="https://books.google.com/books?id=w3qeMymxoBYC&amp;pg=PA67" />
+    <dbo:wikiPageExternalLink rdf:resource="https://books.google.com/books?id=q3jLV75wFM4C&amp;pg=PA50" />
+    <dbo:wikiPageExternalLink rdf:resource="https://books.google.com/books?id=yvZNbkjCzwoC" />
+    <dbo:wikiPageExternalLink rdf:resource="https://books.google.com/books?id=UYEwBgAAQBAJ&amp;pg=PA63" />
+    <dbo:wikiPageExternalLink rdf:resource="https://books.google.com/books?id=0V-OAAAAMAAJ" />
+    <dbo:wikiPageExternalLink rdf:resource="https://books.google.com/books?id=mGG-x_tuNUcC&amp;pg=PA660" />
+    <dbo:wikiPageExternalLink rdf:resource="http://nato.int" />
+    <dbo:wikiPageExternalLink rdf:resource="https://books.google.com/books?id=rJHU9VZRhjwC&amp;pg=PA133" />
+    <dbo:wikiPageExternalLink rdf:resource="https://books.google.com/books?id=QJyHlwgWnGQC&amp;pg=PA104" />
+    <dbo:wikiPageExternalLink rdf:resource="https://books.google.com/books?id=7SczBzxA6-IC&amp;pg=PR55" />
+    <dbo:wikiPageExternalLink rdf:resource="https://books.google.com/books?id=ei38uQH5M5kC&amp;pg=PA94" />
+    <dbo:wikiPageExternalLink rdf:resource="https://books.google.com/books?id=1bkwAAAAMAAJ" />
+    <dbo:wikiPageExternalLink rdf:resource="https://books.google.com/books?id=w0w31Yq5BYsC" />
+    <foaf:name xml:lang="en">border|15pxNorth Atlantic Treaty Organization</foaf:name>
+    <foaf:homepage rdf:resource="http://nato.int" />
+    <dbp:name rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Big Picture: Why NATO?</dbp:name>
+    <dbp:name rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Big Picture: NATO Maneuvers</dbp:name>
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#float">50.8761</geo:lat>
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#float">4.42194</geo:long>
+    <foaf:depiction rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Seal_of_the_North_Atlantic_Treaty_Organization.png" />
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/NATO" />
+    <geo:geometry rdf:datatype="http://www.openlinksw.com/schemas/virtrdf#Geometry">POINT(4.4219446182251 50.876110076904)</geo:geometry>
+    <dbo:thumbnail rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Seal_of_the_North_Atlantic_Treaty_Organization.png?width=300" />
+    <prov:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/NATO?oldid=744683507" />
+    <dbo:abbreviation>NATO, &#39;&#39;</dbo:abbreviation>
+    <dbo:abbreviation>&#39;&#39;</dbo:abbreviation>
+    <dbo:abstract xml:lang="pl">Organizacja Traktatu Północnoatlantyckiego, OTP (ang. North Atlantic Treaty Organization, NATO; fr. Organisation du Traité de l’Atlantique Nord, OTAN) – organizacja polityczno-wojskowa powstała 24 sierpnia 1949 na mocy podpisanego 4 kwietnia 1949 Traktatu Północnoatlantyckiego. Początkowym celem istnienia NATO była obrona militarna przed atakiem ze strony Związku Radzieckiego i jego państw satelickich. Z czasem jednak organizacja stała się elementem utrzymania równowagi strategicznej między Wschodem i Zachodem. Po rozpadzie Układu Warszawskiego pełni rolę stabilizacyjną, podejmując działania zapobiegające rozprzestrzenianiu konfliktów regionalnych.</dbo:abstract>
+    <dbo:abstract xml:lang="pt">Organização do Tratado do Atlântico Norte (OTAN — em francês: Organisation du Traité de l&#39;Atlantique Nord; em inglês: North Atlantic Treaty Organization - NATO), por vezes chamada Aliança Atlântica, é uma aliança militar intergovernamental baseada no Tratado do Atlântico Norte, que foi assinado em 4 de abril de 1949. A organização constitui um sistema de defesa coletiva através do qual seus Estados-membros concordam com a defesa mútua em resposta a um ataque por qualquer entidade externa à organização. A sede da OTAN localiza-se em Bruxelas, na Bélgica, um dos 28 países membros em toda a América do Norte e Europa, sendo que os mais novos (Albânia e Croácia) associaram-se em abril de 2009. Um adicional de 22 países participam da Parceria para a Paz da OTAN, com 15 outros países envolvidos em programas de diálogo institucionalizado. O gasto militar combinado de todos os membros da organização constitui mais de 70% do total de gastos militares de todo o mundo. Os gastos de defesa dos países membros devem ser superiores a 2% do PIB. A OTAN era pouco mais que uma associação política, até a Guerra da Coreia consolidar os Estados-membros da organização e uma estrutura militar integrada ser construída sob a direção de dois comandantes dos Estados Unidos. A Guerra Fria levou a uma rivalidade com os países do Pacto de Varsóvia, que foi formado em 1955. As dúvidas sobre a força da relação entre os países europeus e os Estados Unidos eram constantes, junto com questionamentos sobre a credibilidade das defesas da OTAN contra uma potencial invasão da União Soviética, o que levou ao desenvolvimento da dissuasão nuclear francesa independente e a retirada da França da estrutura militar da organização em 1966 por 30 anos. Após a queda do Muro de Berlim, em 1989, a organização foi levada a intervir na dissolução da Iugoslávia e conduziu suas primeiras intervenções militares na Bósnia em 1992-1995 e, posteriormente, na Iugoslávia em 1999. Politicamente, a organização procurou melhorar as relações com países do antigo Pacto de Varsóvia, muitos dos quais acabaram por se juntar a aliança em 1999 e 2004. O artigo 5º do Tratado do Atlântico Norte requer que os Estados-membros auxiliem qualquer membro que esteja sujeito a um ataque armado, compromisso que foi convocado pela primeira e única vez após os ataques de 11 de setembro de 2001 contra os Estados Unidos, quando tropas foram mobilizadas para o Afeganistão sob a Força Internacional de Assistência para Segurança (ISAF), liderada pela OTAN. A organização tem operado uma série de funções adicionais desde então, incluindo o envio de instrutores ao Iraque, auxílio em operações contra pirataria e a imposição de uma zona de exclusão aérea sobre a Líbia de acordo com a resolução 1973 do Conselho de Segurança da ONU em 2011. O artigo 4º do tratado é menos potente, visto que apenas invoca a consulta entre os membros da OTAN. Este artigo foi convocado quatro vezes: pela Turquia, em 2003, por conta da Guerra do Iraque; novamente pelos turcos, em 2012, por conta da Guerra Civil Síria, após a derrubada de um caça turco F-4 de reconhecimento desarmado; de novo pela Turquia, quando um morteiro foi disparado contra o território turco a partir da Síria; e, por fim, pela Polônia, em 2014, após a intervenção militar russa na Crimeia.</dbo:abstract>
+    <dbo:abstract xml:lang="ru">НА́ТО, Организа́ция Североатланти́ческого догово́ра, Североатлантический Альянс (англ. North Atlantic Treaty Organization, NATO; фр. Organisation du traité de l&#39;Atlantique Nord, OTAN) — военно-политический блок, объединяющий большинство стран Европы, США и Канаду. Основан 4 апреля 1949 года в США, чтобы защитить Европу от советского влияния. Тогда государствами — членами НАТО стали 12 стран: США, Канада, Исландия, Великобритания, Франция, Бельгия, Нидерланды, Люксембург, Норвегия, Дания, Италия и Португалия. Это «трансатлантический форум» для проведения странами-союзниками консультаций по любым вопросам, затрагивающим жизненно важные интересы его членов, включая события, способные поставить под угрозу их безопасность. Одной из декларированных целей НАТО является обеспечение сдерживания любой формы агрессии в отношении территории любого государства — члена НАТО или защиту от неё. В настоящее время членами НАТО являются 28 стран. Военные расходы всех членов НАТО в совокупности составляют более 70 процентов от общемирового объёма.</dbo:abstract>
+    <dbo:abstract xml:lang="de">Die NATO (englisch North Atlantic Treaty Organization „Organisation des Nordatlantikvertrags“ bzw. Nordatlantikpakt-Organisation; im Deutschen häufig als Atlantisches Bündnis, oder auch als Nordatlantikpakt bezeichnet) oder OTAN (französisch Organisation du Traité de l’Atlantique Nord) ist eine Internationale Organisation ohne Hoheitsrechte. Ihre Mitgliedsstaaten behalten ihre volle Souveränität und Unabhängigkeit. Basis der NATO ist der Nordatlantikvertrag. Ihre Organisation versteht sich nicht nur als Verteidigungsbündnis, sondern auch als militärisch-politische Organisation von 28 europäischen und nordamerikanischen Staaten mit dem Ziel eigener Sicherheit und weltweiter Stabilität. Das NATO-Hauptquartier beherbergt mit dem Nordatlantikrat das Hauptorgan der NATO; diese Institution hat seit 1967 ihren Sitz in Brüssel. Nach der Unterzeichnung des Nordatlantikpakts am 4. April 1949 – zunächst auf 20 Jahre – war das Hauptquartier zunächst von 1949 bis April 1952 in Washington, D.C., anschließend war der Sitz vom 16. April 1952 bis 1967 in Paris eingerichtet worden.</dbo:abstract>
+    <dbo:abstract xml:lang="nl">De Noord-Atlantische Verdragsorganisatie (NAVO) (Engels: NATO, North Atlantic Treaty Organisation; Frans: OTAN, Organisation du traité de l&#39;Atlantique nord) is een na de Tweede Wereldoorlog opgerichte organisatie ter ondersteuning van het Noord-Atlantische Verdrag dat in Washington op 4 april 1949 werd getekend. Het NAVO-hoofdkwartier is gevestigd in de Brusselse deelgemeente Haren.</dbo:abstract>
+    <dbo:abstract xml:lang="zh">北大西洋公约组织（英语：North Atlantic Treaty Organization，縮寫为NATO；法语：Organisation du Traité de l&#39;Atlantique Nord，縮寫为OTAN），简称北约组织或北约，是一个为实现防卫协作而建立的国际组织。1949年3月18日，美国、英國及法國公开建立北大西洋公约组织，于同年4月4日在美国华盛顿签署《北大西洋公约》后正式成立。为与以前苏联为首的东欧集团国成员相抗衡。及至苏联解体，华沙条约组织宣告解散，北约就成为一个地区性防卫协作组织。北约的最高决策机构是北约理事会。理事会由成员国国家元首及政府高層、外长、国防部长组成。总部设在比利時的布鲁塞尔。最新成员阿尔巴尼亚和克罗地亚于2009年4月加入，至此北约总共有跨域欧洲和北美的28个国家组成。北約軍事開支占世界國防開支的70%，成员国国防开支占该国GDP的2％左右。 公约第5条规定成员国受到的攻擊一旦被确认，其他成员国将作出即时反應。该条款被理解为各国部队将自动参战，并不再次需要各国政府的参战授权。但这一條條款在九一一事件之前，一直都未有動用過 。北约曾协助反海盗行动（counter-piracy operations），在联合国要求下打击亚丁湾、非洲之角和印度洋的海盗，并在2011年根据联合国安理会1973号决议将利比亚上空设为禁飞区。</dbo:abstract>
+    <dbo:abstract xml:lang="ar">25بك المحتوى هنا ينقصه الاستشهاد بمصادر. يرجى إيراد مصادر موثوق بها. أي معلومات غير موثقة يمكن التشكيك بها وإزالتها. (فبراير 2016) منظمة حلف شمال الأطلسي (بالإنجليزية: North Atlantic Treaty Organisation) اختصاراً &quot;الناتو&quot; (بالإنجليزية: NATO) هي منظمة تأسست عام 1949 بناءً على معاهدة شمال الأطلسي التي تم التوقيع عليها في واشنطن في 4 ابريل سنة 1949. يوجد مقر قيادة الحلف في بروكسل عاصمة بلجيكا. وللحلف لغتان رسميتان هما الإنجليزية والفرنسية. الدور الرئيسي لهذا الحلف هو حراسة حرية الدول الأعضاء وحمايتها من خلال القوة العسكرية، ويلعب دوره من خلال الأزمات السياسية، وكل الدول الأعضاء فيه تساهم في القوى والمعدات العسكرية التابع له ما ساهم في تحقيق تنظيم عسكري لهذا الحلف. هناك دول ذات علاقات ممتازة بحلف الناتو إلا أنها ليست جزءاً منه رسمياً وتعرف بالحلفاء الرئيسيين لحلف الناتو (Major non-NATO ally).</dbo:abstract>
+    <dbo:abstract xml:lang="ja">北大西洋条約機構（きたたいせいようじょうやくきこう）は、北大西洋条約に基づき、アメリカ合衆国を中心とした北アメリカ（＝アメリカとカナダ）およびヨーロッパ諸国によって結成された軍事同盟である。前身はブリュッセル条約 (1948年)。 略称は頭字語が用いられ、英語圏では、North Atlantic Treaty Organization を略した NATO（ネイトー）と呼ばれ、ドイツ語圏では NATO（ナトー）、フランス語圏・スペイン語圏・ポルトガル語等圏では OTAN（オタン）と呼ばれる。</dbo:abstract>
+    <dbo:abstract xml:lang="en">The North Atlantic Treaty Organization (NATO /ˈneɪtoʊ/; French: Organisation du Traité de l&#39;Atlantique Nord; OTAN), also called the North Atlantic Alliance, is an intergovernmental military alliance based on the North Atlantic Treaty which was signed on 4 April 1949. The organization constitutes a system of collective defence whereby its member states agree to mutual defence in response to an attack by any external party. NATO&#39;s headquarters are located in Haren, Brussels, Belgium, where the Supreme Allied Commander also resides. Belgium is one of the 28 member states across North America and Europe, the newest of which, Albania and Croatia, joined in April 2009. An additional 22 countries participate in NATO&#39;s Partnership for Peace program, with 15 other countries involved in institutionalized dialogue programmes. The combined military spending of all NATO members constitutes over 70% of the global total. Members&#39; defence spending is supposed to amount to 2% of GDP. NATO was little more than a political association until the Korean War galvanized the organization&#39;s member states, and an integrated military structure was built up under the direction of two US supreme commanders. The course of the Cold War led to a rivalry with nations of the Warsaw Pact, which formed in 1955. Doubts over the strength of the relationship between the European states and the United States ebbed and flowed, along with doubts over the credibility of the NATO defence against a prospective Soviet invasion—doubts that led to the development of the independent French nuclear deterrent and the withdrawal of France from NATO&#39;s military structure in 1966 for 30 years. After the fall of the Berlin Wall in 1989, the organization was drawn into the breakup of Yugoslavia, and conducted its first military interventions in Bosnia from 1992 to 1995 and later Yugoslavia in 1999. Politically, the organization sought better relations with former Warsaw Pact countries, several of which joined the alliance in 1999 and 2004. Article 5 of the North Atlantic treaty, requiring member states to come to the aid of any member state subject to an armed attack, was invoked for the first and only time after the September 11 attacks, after which troops were deployed to Afghanistan under the NATO-led ISAF. The organization has operated a range of additional roles since then, including sending trainers to Iraq, assisting in counter-piracy operations and in 2011 enforcing a no-fly zone over Libya in accordance with U.N. Security Council Resolution 1973. The less potent Article 4, which merely invokes consultation among NATO members, has been invoked five times: by Turkey in 2003 over the Iraq War; twice in 2012 by Turkey over the Syrian Civil War, after the downing of an unarmed Turkish F-4 reconnaissance jet, and after a mortar was fired at Turkey from Syria; in 2014 by Poland, following the Russian intervention in Crimea; and again by Turkey in 2015 after threats by the Islamic State to its territorial integrity.</dbo:abstract>
+    <dbo:abstract xml:lang="fr">L&#39;Organisation du traité de l&#39;Atlantique nord (OTAN ou Otan ; en anglais : North Atlantic Treaty Organization, NATO ; aussi nommé « l&#39;Alliance », pour « Alliance atlantique ») est une organisation politico-militaire qui rassemble de nombreux pays occidentaux, dont le but premier est d&#39;assurer leur défense commune contre les menaces extérieures ainsi que la stabilité des continents ou sous-continents européen et nord-américain. Son siège, initialement situé à Londres puis à Paris, se trouve depuis 1966 à Haren (Bruxelles), et son commandement militaire (SHAPE), initialement à Rocquencourt (France), se trouve aujourd&#39;hui à Casteau (Mons), également en Belgique. L&#39;OTAN est née le 4 avril 1949 à la suite de négociations lancées par les cinq pays européens signataires du traité de Bruxelles (Belgique, France, Luxembourg, Pays-Bas et Royaume-Uni) avec le Canada et les États-Unis, et cinq autres pays d&#39;Europe invités à participer (Danemark, Italie, Islande, Norvège et Portugal). D&#39;autres pays occidentaux l&#39;ont rejoint par la suite, mais cinq nations européennes (l&#39;Autriche, la Finlande, l&#39;Irlande, la Suède et la Suisse) n&#39;en font pas partie afin de conserver leur neutralité sur le plan militaire ; toutefois, leurs armées sont aux normes établies par les membres de l&#39;OTAN. L&#39;Alliance avait pour vocation initiale d&#39;assurer la sécurité du continent européen après la Seconde Guerre mondiale, en prévenant d&#39;éventuels soubresauts d&#39;impérialisme allemand et en s&#39;opposant à toute tentative expansionniste de l&#39;Union soviétique. Entre 1955 et 1991, l&#39;adversaire désigné de l&#39;OTAN prend la forme du pacte de Varsovie, une organisation de sécurité collective sous obédience soviétique créée à la suite de l&#39;intégration militaire de la RFA au bloc de l&#39;Ouest et se présentant comme politiquement et militairement symétrique à l&#39;Alliance atlantique. Selon les ambitions affichées par son secrétaire général britannique Hastings Lionel Ismay, le rôle de l&#39;OTAN consistait au cours des années de guerre froide à « garder les Russes à l&#39;extérieur, les Américains à l&#39;intérieur et les Allemands sous tutelle ». Depuis la dissolution de l&#39;URSS en 1991, l&#39;organisation a dû faire face à de nouvelles menaces, comme les revendications nationalistes dans l&#39;ancien bloc communiste et l&#39;essor du terrorisme international. Poursuivant leur vocation de stabilisation, les pays de l&#39;Alliance ont établi depuis 1994 un « partenariat pour la paix » avec la Russie et les pays de sa zone d&#39;influence, et avec les pays occidentaux qui ne veulent pas faire partie de l&#39;OTAN. Prenant acte des élargissements européens successifs vers l&#39;est, les accords « Berlin plus » de 1999 prévoient en outre le transfert des moyens de l&#39;OTAN à l&#39;Union européenne pour certaines opérations dans le cadre des missions de Petersberg.</dbo:abstract>
+    <dbo:abstract xml:lang="es">La Organización del Tratado del Atlántico Norte (OTAN) –en inglés: North Atlantic Treaty Organization (NATO), y en francés: Organisation du Traité de l&#39;Atlantique Nord (OTAN)–, también denominada Alianza del Atlántico o Alianza del Atlántico Norte, es una alianza militar intergubernamental basada en el Tratado del Atlántico Norte o Tratado de Washington firmado el 4 de abril de 1949. La organización constituye un sistema de defensa colectiva, en la cual los Estados miembros acuerdan defender a cualquiera de sus miembros si son atacados por una facción externa. El cuartel general de la OTAN se encuentra en Bruselas, Bélgica, uno de los 28 Estados miembros de la organización que se extiende por Norteamérica y Europa. Las últimas incorporaciones fueron Albania y Croacia, en abril de 2009. Además, hay 22 países que colaboran con la OTAN dentro del programa Asociación para la Paz, con otros 15 países involucrados en programas de diálogo. El gasto militar combinado de todos los países miembros de la OTAN supera el 70 % del gasto militar mundial. En sus primeros años, la OTAN no era mucho más que una asociación política. Sin embargo, la Guerra de Corea hizo que se planteara una coalición permanente, y desde entonces se creó una nueva estructura militar bajo la dirección de los comandantes de Estados Unidos. El curso de la Guerra Fría llevó a las naciones rivales a crear el Pacto de Varsovia, que se formó en 1955. Siempre se han manifestado dudas sobre la alianza europeo-norteamericana ante una invasión soviética, desacuerdos que se plasmaron con la creación por parte de Francia de la fuerza de choque nuclear, y finalmente con su retirada de la alianza en 1966. Después de la caída del Muro de Berlín en 1989, la organización intervino dentro de la Guerra de Yugoslavia, lo que se convirtió en la primera intervención conjunta de la OTAN, y también después en 1999. Políticamente la organización ha ido mejorando sus relaciones con los antiguos miembros del Bloque del Este, que culminaron al incorporarse varios miembros del Pacto de Varsovia entre 1999 y 2004. En septiembre de 2001 ha sido la única ocasión en que un país miembro, Estados Unidos, ha invocado el Artículo 5 del tratado reivindicando la ayuda en su defensa. A partir de entonces los países miembros colaboraron con los Estados Unidos en la Guerra de Afganistán y de Irak. El artículo 4 del tratado prevé llamar a consulta a los países miembros y ha sido convocado cuatro veces, tres de ellas por Turquía, la primera por la Guerra de Irak y las dos restantes por ataques recibidos durante la Guerra Civil Siria, la cuarta ha sido invocado por Polonia durante la Crisis de Crimea de 2014, debido a la movilización de tropas rusas en la frontera polaca con Kaliningrado y las maniobras rusas en el mar Báltico.</dbo:abstract>
+    <dbo:abstract xml:lang="it">Il template {{Coord}} ha riscontrato degli errori (istruzioni):Modulo:Wikidata:398: attempt to index field &#39;wikibase&#39; (a nil value) L&#39;Organizzazione del Trattato dell&#39;Atlantico del Nord (in inglese North Atlantic Treaty Organization, in sigla NATO, in francese: Organisation du Traité de l&#39;Atlantique du Nord, in sigla OTAN), è un&#39;organizzazione internazionale per la collaborazione nel settore della difesa. Il trattato istitutivo della NATO, il Patto Atlantico, fu firmato a Washington, D.C. il 4 aprile 1949, ovvero nell&#39;immediato secondo dopoguerra, ed entrò in vigore il 24 agosto dello stesso anno. Attualmente, fanno parte della NATO 28 stati del mondo.</dbo:abstract>
+    <dbo:headquarter rdf:resource="http://dbpedia.org/resource/Brussels" />
+    <dbo:headquarter rdf:resource="http://dbpedia.org/resource/Belgium" />
+    <dbo:language rdf:resource="http://dbpedia.org/resource/French_language" />
+    <dbo:language rdf:resource="http://dbpedia.org/resource/English_language" />
+    <dbo:leaderFunction rdf:resource="http://dbpedia.org/resource/NATO__1" />
+    <dbo:leaderFunction rdf:resource="http://dbpedia.org/resource/NATO__2" />
+    <dbo:leaderFunction rdf:resource="http://dbpedia.org/resource/NATO__3" />
+    <dbo:leaderFunction rdf:resource="http://dbpedia.org/resource/NATO__4" />
+    <dbo:leaderFunction rdf:resource="http://dbpedia.org/resource/NATO__5" />
+    <dbo:leaderFunction rdf:resource="http://dbpedia.org/resource/NATO__6" />
+    <dbo:motto>Animus in consulendo liber</dbo:motto>
+    <dbo:type rdf:resource="http://dbpedia.org/resource/Military_alliance" />
+    <georss:point>50.87611111111111 4.421944444444445</georss:point>
+    <dbp:b rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">no</dbp:b>
+    <dbp:commons rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Category:North Atlantic Treaty Organization</dbp:commons>
+    <dbp:d rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Q7184</dbp:d>
+    <dbp:id rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">gov.archives.arc.2569670</dbp:id>
+    <dbp:id rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">gov.archives.arc.2569561</dbp:id>
+    <dbp:leaderName rdf:resource="http://dbpedia.org/resource/Petr_Pavel" />
+    <dbp:leaderTitle rdf:resource="http://dbpedia.org/resource/Chairman_of_the_NATO_Military_Committee" />
+    <dbp:logo rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Seal of the North Atlantic Treaty Organization.png</dbp:logo>
+    <dbp:logoCaption rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Logo</dbp:logoCaption>
+    <dbp:logoSize rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">150</dbp:logoSize>
+    <dbp:mcaption rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Member states of NATO</dbp:mcaption>
+    <dbp:msize rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">220</dbp:msize>
+    <dbp:n rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Category:NATO</dbp:n>
+    <dbp:nativeName rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">&#39;&#39;</dbp:nativeName>
+    <dbp:q rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">no</dbp:q>
+    <dbp:s rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">no</dbp:s>
+    <dbp:v rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">no</dbp:v>
+    <dbp:wikt rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">NATO</dbp:wikt>
+    <ns10:hypernym rdf:resource="http://dbpedia.org/resource/Alliance" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Cyclone_(Marvel_Comics)">
+    <dbp:alliances rdf:resource="http://dbpedia.org/resource/NATO" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kola-class_frigate">
+    <ns10:hypernym rdf:resource="http://dbpedia.org/resource/NATO" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/NATO_Air_Base_Geilenkirchen">
+    <dbo:operator rdf:resource="http://dbpedia.org/resource/NATO" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/NATO_(disambiguation)">
+    <dbo:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/NATO" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sasha-class_minesweeper">
+    <ns10:hypernym rdf:resource="http://dbpedia.org/resource/NATO" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Victor-class_submarine">
+    <ns10:hypernym rdf:resource="http://dbpedia.org/resource/NATO" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Battle_of_Tripoli_(2011)">
+    <dbo:commander rdf:resource="http://dbpedia.org/resource/NATO" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Foxtrot-class_submarine">
+    <ns10:hypernym rdf:resource="http://dbpedia.org/resource/NATO" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Quebec-class_submarine">
+    <ns10:hypernym rdf:resource="http://dbpedia.org/resource/NATO" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nato">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/NATO" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Icelandic_Air_Policing">
+    <dbp:executedBy rdf:resource="http://dbpedia.org/resource/NATO" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/NATO_bombing_of_Albanian_refugees_near_Gjakova">
+    <dbp:instigator rdf:resource="http://dbpedia.org/resource/NATO" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ämari_Air_Base">
+    <dbo:operator rdf:resource="http://dbpedia.org/resource/NATO" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/NATO_School">
+    <ns10:hypernym rdf:resource="http://dbpedia.org/resource/NATO" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/NATO_Standardization_Office">
+    <dbo:parentOrganisation rdf:resource="http://dbpedia.org/resource/NATO" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Operation_Pickaxe-Handle">
+    <ns10:hypernym rdf:resource="http://dbpedia.org/resource/NATO" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Fan_Song">
+    <ns10:hypernym rdf:resource="http://dbpedia.org/resource/NATO" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Damon_Wilson">
+    <dbo:field rdf:resource="http://dbpedia.org/resource/NATO" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Operation_Allied_Harbor">
+    <ns10:hypernym rdf:resource="http://dbpedia.org/resource/NATO" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Armenian_Democratic_Liberal_Party">
+    <dbo:ideology rdf:resource="http://dbpedia.org/resource/NATO" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Günther_Pulst">
+    <dbo:occupation rdf:resource="http://dbpedia.org/resource/NATO" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Implementation_Force">
+    <dbo:commandStructure rdf:resource="http://dbpedia.org/resource/NATO" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Koni-class_frigate">
+    <ns10:hypernym rdf:resource="http://dbpedia.org/resource/NATO" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Operation_Mountain_Thrust">
+    <ns10:hypernym rdf:resource="http://dbpedia.org/resource/NATO" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bernhard_Palsson">
+    <dbo:award rdf:resource="http://dbpedia.org/resource/NATO" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Colt_Automatic_Rifle">
+    <ns10:hypernym rdf:resource="http://dbpedia.org/resource/NATO" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Conservative_Party_of_Armenia">
+    <dbo:ideology rdf:resource="http://dbpedia.org/resource/NATO" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kosovo_Liberation_Army">
+    <dbp:allies rdf:resource="http://dbpedia.org/resource/NATO" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tango-class_submarine">
+    <ns10:hypernym rdf:resource="http://dbpedia.org/resource/NATO" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/NATO_bombing_of_the_Radio_Television_of_Serbia_headquarters">
+    <dbp:perps rdf:resource="http://dbpedia.org/resource/NATO" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Supreme_Headquarters_Allied_Powers_Europe">
+    <dbo:commandStructure rdf:resource="http://dbpedia.org/resource/NATO" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Cerklje_ob_Krki_Airport">
+    <dbo:operator rdf:resource="http://dbpedia.org/resource/NATO" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Balzam-class_intelligence_ship">
+    <ns10:hypernym rdf:resource="http://dbpedia.org/resource/NATO" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Don-class_submarine_tender">
+    <ns10:hypernym rdf:resource="http://dbpedia.org/resource/NATO" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ugra-class_submarine_tender">
+    <ns10:hypernym rdf:resource="http://dbpedia.org/resource/NATO" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kosovo_Force">
+    <dbo:commandStructure rdf:resource="http://dbpedia.org/resource/NATO" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Valerie_Ashby">
+    <dbo:award rdf:resource="http://dbpedia.org/resource/NATO" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/NATO_Parliamentary_Assembly">
+    <dbo:parentOrganisation rdf:resource="http://dbpedia.org/resource/NATO" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/John_Rogers_Anderson">
+    <dbo:occupation rdf:resource="http://dbpedia.org/resource/NATO" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/RAF_Geilenkirchen__RAF_Geilenkirchen__1">
+    <dbo:operator rdf:resource="http://dbpedia.org/resource/NATO" />
+    <dbo:owner rdf:resource="http://dbpedia.org/resource/NATO" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/United_States–European_Union_relations">
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/NATO" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Western_alliance">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/NATO" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/N.A.T.O.">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/NATO" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Grdelica_train_bombing">
+    <dbp:instigator rdf:resource="http://dbpedia.org/resource/NATO" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Atlantic_Alliance">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/NATO" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/North_Atlantic_Alliance">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/NATO" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Michael_Holden_(character)">
+    <dbo:occupation rdf:resource="http://dbpedia.org/resource/NATO" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lužane_bus_bombing">
+    <dbp:perps rdf:resource="http://dbpedia.org/resource/NATO" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/NATO_Interoperability_Management_Plan">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/NATO" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kilo-class_submarine">
+    <ns10:hypernym rdf:resource="http://dbpedia.org/resource/NATO" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Operation_Gladio">
+    <dbo:affiliation rdf:resource="http://dbpedia.org/resource/NATO" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/NBMR-3">
+    <dbp:issuer rdf:resource="http://dbpedia.org/resource/NATO" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/SS-N-22">
+    <ns10:hypernym rdf:resource="http://dbpedia.org/resource/NATO" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Central_Europe_Pipeline_System">
+    <dbp:owner rdf:resource="http://dbpedia.org/resource/NATO" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/9M17_Fleyta">
+    <ns10:hypernym rdf:resource="http://dbpedia.org/resource/NATO" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Operation_Deliberate_Force">
+    <dbo:commander rdf:resource="http://dbpedia.org/resource/NATO" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Andres_Nuiamäe">
+    <dbo:militaryBranch rdf:resource="http://dbpedia.org/resource/NATO" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Marcelo_Gleiser">
+    <dbp:workInstitution rdf:resource="http://dbpedia.org/resource/NATO" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/North_Atlantic_Treaty_Organization_(NATO)">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/NATO" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Western_Alliance">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/NATO" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/North_Atlantic_Treaty_Organisation">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/NATO" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/OTAИ">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/NATO" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/M163_VADS">
+    <dbp:usedBy rdf:resource="http://dbpedia.org/resource/NATO" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/United_States_Naval_Forces_Europe">
+    <dbo:type rdf:resource="http://dbpedia.org/resource/NATO" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nanuchka-class_corvette">
+    <ns10:hypernym rdf:resource="http://dbpedia.org/resource/NATO" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Pauk-class_corvette">
+    <ns10:hypernym rdf:resource="http://dbpedia.org/resource/NATO" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ralph_Benjamin">
+    <dbp:workplaces rdf:resource="http://dbpedia.org/resource/NATO" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gordon_Byrom_Rogers">
+    <dbo:occupation rdf:resource="http://dbpedia.org/resource/NATO" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Brussels_Pact">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/NATO" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/OTAI">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/NATO" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Organisation_du_Traite_de_l&#39;Atlantique_Nord">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/NATO" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/North_Atlantic_Pact">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/NATO" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/North_Atlantic_pact">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/NATO" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Baraki_Barak_airstrike">
+    <dbp:instigator rdf:resource="http://dbpedia.org/resource/NATO" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Natoland">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/NATO" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_NATO">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/NATO" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Organisation_du_Traite_de_l&#39;Atlantique_Nord_North_Atlantic_Treaty_Organisation">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/NATO" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Organisation_du_traité_de_l&#39;Atlantique_Nord">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/NATO" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/NATO_troops">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/NATO" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/NATO_Military_Symbols_for_Land_Based_Systems">
+    <ns10:hypernym rdf:resource="http://dbpedia.org/resource/NATO" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Department_of_State_Operations_and_Embassy_Security_Authorization_Act,_Fiscal_Year_2014">
+    <dbp:agenciesaffected rdf:resource="http://dbpedia.org/resource/NATO" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/NSTO">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/NATO" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/NATO">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/NATO" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Military_Construction_and_Veterans_Affairs,_and_Related_Agencies_Appropriations_Act,_2014">
+    <dbp:agenciesaffected rdf:resource="http://dbpedia.org/resource/NATO" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/NBMR-1">
+    <dbp:issuer rdf:resource="http://dbpedia.org/resource/NATO" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/NATO_state">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/NATO" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/French_withdrawal_from_NATO_command">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/NATO" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/NATO_exercise">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/NATO" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Euro-Atlantic_integration">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/NATO" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_North_Atlantic_Treaty_Organization">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/NATO" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/N._A._T._O.">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/NATO" />
+  </rdf:Description>
+</rdf:RDF>

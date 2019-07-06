@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:dct="http://purl.org/dc/terms/"
+	xmlns:dbo="http://dbpedia.org/ontology/"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:prov="http://www.w3.org/ns/prov#"
+	xmlns:georss="http://www.georss.org/georss/" >
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tsuruma_Park">
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoGeoEntity" />
+    <rdf:type rdf:resource="http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Tract108673395" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PhysicalEntity100001930" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Object100002684" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoLegalActorGeo" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/GeographicalArea108574314" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Park108615149" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Location100027167" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatParksAndGardensInNagoya" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoPermanentlyLocatedEntity" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Region108630985" />
+    <rdfs:label xml:lang="fr">Parc Tsuruma</rdfs:label>
+    <rdfs:label xml:lang="ja">鶴舞公園</rdfs:label>
+    <rdfs:label xml:lang="en">Tsuruma Park</rdfs:label>
+    <rdfs:label xml:lang="zh">鶴舞公園</rdfs:label>
+    <rdfs:comment xml:lang="en">Tsuruma Park (鶴舞公園) is located in Shōwa-ku, Nagoya, central Japan.</rdfs:comment>
+    <rdfs:comment xml:lang="fr">Le parc Tsuruma (鶴舞公園) se trouve dans l&#39;arrondissement de Shōwa-ku à Nagoya dans la préfecture d&#39;Aichi, au centre du Japon.</rdfs:comment>
+    <rdfs:comment xml:lang="ja">鶴舞公園（つるまこうえん）は、愛知県名古屋市昭和区鶴舞（つるまい）一丁目にある、名古屋市が管理する都市公園。名古屋で最初に整備された公園である。国の登録記念物（名勝地関係）に登録されている。春は桜の名所として知られ、日本さくら名所100選にも選定されている。</rdfs:comment>
+    <rdfs:comment xml:lang="zh">鶴舞公園（つるまこうえん、Tsuruma Park）是一座位於日本名古屋市昭和區鶴舞（日语：つるまい，Tsurumai）一丁目的都市公園，建於1909年，後來被選為日本櫻名所100選之一。該公園是在春季的賞花期間吸引了很多遊客來參觀的。</rdfs:comment>
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.0glpdbt" />
+    <owl:sameAs rdf:resource="http://yago-knowledge.org/resource/Tsuruma_Park" />
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Tsuruma_Park" />
+    <owl:sameAs rdf:resource="http://fr.dbpedia.org/resource/Parc_Tsuruma" />
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q7850284" />
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q7850284" />
+    <owl:sameAs rdf:resource="http://ja.dbpedia.org/resource/鶴舞公園" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Parks_and_gardens_in_Nagoya" />
+    <dbo:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">31497619</dbo:wikiPageID>
+    <dbo:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">733754953</dbo:wikiPageRevisionID>
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#float">35.1497</geo:lat>
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#float">136.919</geo:long>
+    <foaf:depiction rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Tsurumakouen1.JPG" />
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Tsuruma_Park" />
+    <geo:geometry rdf:datatype="http://www.openlinksw.com/schemas/virtrdf#Geometry">POINT(136.91860961914 35.149723052979)</geo:geometry>
+    <dbo:thumbnail rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Tsurumakouen1.JPG?width=300" />
+    <prov:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Tsuruma_Park?oldid=733754953" />
+    <dbo:abstract xml:lang="ja">鶴舞公園（つるまこうえん）は、愛知県名古屋市昭和区鶴舞（つるまい）一丁目にある、名古屋市が管理する都市公園。名古屋で最初に整備された公園である。国の登録記念物（名勝地関係）に登録されている。春は桜の名所として知られ、日本さくら名所100選にも選定されている。</dbo:abstract>
+    <dbo:abstract xml:lang="en">Tsuruma Park (鶴舞公園) is located in Shōwa-ku, Nagoya, central Japan.</dbo:abstract>
+    <dbo:abstract xml:lang="zh">鶴舞公園（つるまこうえん、Tsuruma Park）是一座位於日本名古屋市昭和區鶴舞（日语：つるまい，Tsurumai）一丁目的都市公園，建於1909年，後來被選為日本櫻名所100選之一。該公園是在春季的賞花期間吸引了很多遊客來參觀的。</dbo:abstract>
+    <dbo:abstract xml:lang="fr">Le parc Tsuruma (鶴舞公園) se trouve dans l&#39;arrondissement de Shōwa-ku à Nagoya dans la préfecture d&#39;Aichi, au centre du Japon.</dbo:abstract>
+    <georss:point>35.14972222222222 136.91861111111112</georss:point>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Tsuruma_Park">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Tsuruma_Park" />
+  </rdf:Description>
+</rdf:RDF>

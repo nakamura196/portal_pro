@@ -1,0 +1,318 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:dbo="http://dbpedia.org/ontology/"
+	xmlns:dct="http://purl.org/dc/terms/"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	xmlns:prov="http://www.w3.org/ns/prov#"
+	xmlns:ns8="http://dbpedia.org/ontology/PopulatedPlace/"
+	xmlns:georss="http://www.georss.org/georss/"
+	xmlns:dbp="http://dbpedia.org/property/"
+	xmlns:ns11="http://purl.org/linguistics/gold/" >
+  <rdf:Description rdf:about="http://dbpedia.org/resource/TAD_Corporation">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Mitaka,_Tokyo" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gainax">
+    <dbo:locationCity rdf:resource="http://dbpedia.org/resource/Mitaka,_Tokyo" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sota_Nakazawa">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Mitaka,_Tokyo" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Eiji_Wentz">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Mitaka,_Tokyo" />
+    <dbo:hometown rdf:resource="http://dbpedia.org/resource/Mitaka,_Tokyo" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hidemitsu_Tanaka">
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Mitaka,_Tokyo" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nanae_Takizawa">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Mitaka,_Tokyo" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Shuta_Takahashi">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Mitaka,_Tokyo" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Satoshi_Ohno">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Mitaka,_Tokyo" />
+    <dbo:hometown rdf:resource="http://dbpedia.org/resource/Mitaka,_Tokyo" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Subaru_Tecnica_International">
+    <dbo:locationCity rdf:resource="http://dbpedia.org/resource/Mitaka,_Tokyo" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ghibli_Museum">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Mitaka,_Tokyo" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kiyonobu_Okajima">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Mitaka,_Tokyo" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Matsuri_Akino">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Mitaka,_Tokyo" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/1088_Mitaka">
+    <dbp:namedAfter rdf:resource="http://dbpedia.org/resource/Mitaka,_Tokyo" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Shigeru_Mizuki">
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Mitaka,_Tokyo" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Masaru_Hayami">
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Mitaka,_Tokyo" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mitaka,_Tokyo">
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Location100027167" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/AdministrativeDistrict108491826" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Region108630985" />
+    <rdf:type rdf:resource="http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing" />
+    <rdf:type rdf:resource="http://schema.org/City" />
+    <rdf:type rdf:resource="http://schema.org/Place" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PhysicalEntity100001930" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoLegalActorGeo" />
+    <rdf:type rdf:resource="http://umbel.org/umbel/rc/City" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Object100002684" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatCitiesInJapan" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Settlement" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/City" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatCitiesInTokyo" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/GeographicalArea108574314" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/City108524735" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/UrbanArea108675967" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Site108651247" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Tract108673395" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Municipality108626283" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q486972" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatPopulatedPlacesEstablishedIn1950" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q515" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/District108552138" />
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/PopulatedPlace" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Location" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Place" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoGeoEntity" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoPermanentlyLocatedEntity" />
+    <rdfs:label xml:lang="ja">三鷹市</rdfs:label>
+    <rdfs:label xml:lang="pl">Mitaka</rdfs:label>
+    <rdfs:label xml:lang="nl">Mitaka</rdfs:label>
+    <rdfs:label xml:lang="fr">Mitaka</rdfs:label>
+    <rdfs:label xml:lang="pt">Mitaka</rdfs:label>
+    <rdfs:label xml:lang="es">Mitaka (Tokio)</rdfs:label>
+    <rdfs:label xml:lang="de">Mitaka</rdfs:label>
+    <rdfs:label xml:lang="en">Mitaka, Tokyo</rdfs:label>
+    <rdfs:label xml:lang="ru">Митака</rdfs:label>
+    <rdfs:label xml:lang="it">Mitaka</rdfs:label>
+    <rdfs:label xml:lang="ar">ميتاكا (طوكيو)</rdfs:label>
+    <rdfs:label xml:lang="zh">三鷹市</rdfs:label>
+    <rdfs:comment xml:lang="pl">Mitaka (jap. 三鷹市 Mitaka-shi) - miasto w Japonii, na terenie stołecznej prefektury Tokio. 168 tys. mieszkańców. Rozwija się tu przemysł elektrotechniczny i środków transportu. Jest to jedna z tzw. sypialni dla Tokio. Miasto słynie z Muzeum Ghibli.</rdfs:comment>
+    <rdfs:comment xml:lang="zh">三鷹市（日语：三鷹市／みたかし Mitaka shi */?）是日本東京都多摩地區最東邊的市。往東京都特別區部的通勤率達38.1%（平成22年國勢調査）。</rdfs:comment>
+    <rdfs:comment xml:lang="en">Mitaka (三鷹市 Mitaka-shi) is a city located in the western portion of Tokyo Metropolis, in the central Kantō region of Japan. As of 1 February 2016, the city had an estimated population of 189,168 and a population density of 11,520 persons per km². Its total area was 16.42 square kilometres (6.34 sq mi).</rdfs:comment>
+    <rdfs:comment xml:lang="ja">三鷹市（みたかし）は、東京都の多摩地域東部にある市である。東京都特別区部への通勤率は38.1%（平成22年国勢調査）。</rdfs:comment>
+    <rdfs:comment xml:lang="ru">Мита́ка (яп. 三鷹市 Митака-си) — город в Японии, находящийся в префектуре Токио. Площадь города составляет 16,5 км², население — 187 494 человека (1 августа 2014), плотность населения — 11 363,27 чел./км².</rdfs:comment>
+    <rdfs:comment xml:lang="es">Mitaka (三鷹市 Mitaka-shi?) es una ciudad localizada en Tokio, (Japón), fundada el 3 de noviembre de 1950. Su población estimada para el año 2003 es de 175 995 habitantes. El Museo Ghibli está situado en esta ciudad, al igual que la Universidad Cristiana Internacional.</rdfs:comment>
+    <rdfs:comment xml:lang="pt">Mitaka (三鷹市 -shi) é uma cidade japonesa localizada na província de Tóquio. Em 2003, a cidade tinha uma população estimada em 175 995 habitantes e uma densidade populacional de 10 666,36 h/km². Tem uma área total de 16,50 km². Recebeu o estatuto de cidade a 3 de Novembro de 1950.</rdfs:comment>
+    <rdfs:comment xml:lang="fr">Mitaka (三鷹市; Mitaka-shi) est une ville située au Japon dans la banlieue ouest de Tokyo. En 2003, sa population a été estimée à 175 995 habitants et sa densité s&#39;élève à 10 666,36 personnes au km². Sa superficie est de 16,50 km2. L&#39;écrivain Osamu Dazai a vécu à Mitaka jusqu&#39;en avril 1945, date à laquelle sa maison est détruite par les bombardements. Elle accueille le musée Ghibli depuis 2001. 
+* Portail de Tokyo Portail de Tokyo</rdfs:comment>
+    <rdfs:comment xml:lang="nl">Mitaka (三鷹市, Mitaka-shi) is een stad in de prefectuur Tokio, Japan. Het ligt direct ten westen van de 23 speciale wijken van de prefectuur. Op 1 maart 2008 had de stad 180.736 inwoners. De bevolkingsdichtheid bedroeg 10950 inw./km². De oppervlakte van de stad is 16,50 km². Mitaka is bij toeristen vooral bekend vanwege het Ghibli museum met zijn grote Totoroknuffel die te zien is vanaf de straat, en het Inokashira-park, dat de grens vormt met Kichijoji (Musahino).</rdfs:comment>
+    <rdfs:comment xml:lang="de">Mitaka (jap. 三鷹市, -shi) ist eine Stadt in der Präfektur Tokio westlich von Tokio.</rdfs:comment>
+    <rdfs:comment xml:lang="it">Mitaka (三鷹市?) è una città conurbata in Tokyo, Giappone. Nel 2003 la città aveva una popolazione stimata in 175,995 abitanti su un&#39;area di 16.50 km², con una densità di 10.666,36 persone per km² La data di fondazione ufficiale della città di Mitaka è il 3 novembre 1950, ma i primi insediamenti nella zona risalgono al 1590.</rdfs:comment>
+    <rdfs:comment xml:lang="ar">25بك المحتوى هنا ينقصه الاستشهاد بمصادر. يرجى إيراد مصادر موثوق بها. أي معلومات غير موثقة يمكن التشكيك بها وإزالتها. (مارس 2016) مدينة ميتاكا (باليابانية 三鷹市) (بالإنجليزية: Mitaka) هي مدينة تقع في محافظة طوكيو، اليابان. في عام 2003، وصل التعداد السكاني للمدينة إلى 175,995 نسمة والكثافة السكانية 10,666.36 نسمة في الكيلومتر مربع، والمساحة الإجمالية 16.50 كم مربع. تم تأسيس المدينة في الثالث من نوفمبر 1950. تضم المدينة متحف جيبلي الذي يقع في حديقة إينوكاشيرا الشهيرة.</rdfs:comment>
+    <owl:sameAs rdf:resource="http://pl.dbpedia.org/resource/Mitaka" />
+    <owl:sameAs rdf:resource="http://yago-knowledge.org/resource/Mitaka,_Tokyo" />
+    <owl:sameAs rdf:resource="http://it.dbpedia.org/resource/Mitaka" />
+    <owl:sameAs rdf:resource="http://eu.dbpedia.org/resource/Mitaka" />
+    <owl:sameAs rdf:resource="http://ko.dbpedia.org/resource/미타카_시" />
+    <owl:sameAs rdf:resource="http://pt.dbpedia.org/resource/Mitaka" />
+    <owl:sameAs rdf:resource="http://ja.dbpedia.org/resource/三鷹市" />
+    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/Mitaka" />
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.01wrh5" />
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q242885" />
+    <owl:sameAs rdf:resource="http://sws.geonames.org/1856942/" />
+    <owl:sameAs rdf:resource="http://fr.dbpedia.org/resource/Mitaka" />
+    <owl:sameAs rdf:resource="http://nl.dbpedia.org/resource/Mitaka" />
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q242885" />
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Mitaka,_Tokyo" />
+    <owl:sameAs rdf:resource="http://es.dbpedia.org/resource/Mitaka_(Tokio)" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Mitaka,_Tokyo" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Cities_in_Tokyo" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Populated_places_established_in_1950" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Western_Tokyo" />
+    <dbo:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">329689</dbo:wikiPageID>
+    <dbo:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">742593833</dbo:wikiPageRevisionID>
+    <dbo:wikiPageExternalLink rdf:resource="http://www.city.mitaka.tokyo.jp/" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.city.mitaka.tokyo.jp" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.city.mitaka.tokyo.jp/foreign/english/index.html" />
+    <foaf:homepage rdf:resource="http://www.city.mitaka.tokyo.jp/" />
+    <foaf:homepage rdf:resource="http://www.city.mitaka.tokyo.jp" />
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#float">35.6836</geo:lat>
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#float">139.56</geo:long>
+    <foaf:depiction rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Mitaka_City_Hall.JPG" />
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Mitaka,_Tokyo" />
+    <geo:geometry rdf:datatype="http://www.openlinksw.com/schemas/virtrdf#Geometry">POINT(139.55952453613 35.683555603027)</geo:geometry>
+    <dbo:thumbnail rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Mitaka_City_Hall.JPG?width=300" />
+    <prov:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Mitaka,_Tokyo?oldid=742593833" />
+    <ns8:areaTotal rdf:datatype="http://dbpedia.org/datatype/squareKilometre">16.42</ns8:areaTotal>
+    <ns8:populationDensity rdf:datatype="http://dbpedia.org/datatype/inhabitantsPerSquareKilometre">11520.0</ns8:populationDensity>
+    <dbo:abstract xml:lang="ar">25بك المحتوى هنا ينقصه الاستشهاد بمصادر. يرجى إيراد مصادر موثوق بها. أي معلومات غير موثقة يمكن التشكيك بها وإزالتها. (مارس 2016) مدينة ميتاكا (باليابانية 三鷹市) (بالإنجليزية: Mitaka) هي مدينة تقع في محافظة طوكيو، اليابان. في عام 2003، وصل التعداد السكاني للمدينة إلى 175,995 نسمة والكثافة السكانية 10,666.36 نسمة في الكيلومتر مربع، والمساحة الإجمالية 16.50 كم مربع. تم تأسيس المدينة في الثالث من نوفمبر 1950. تضم المدينة متحف جيبلي الذي يقع في حديقة إينوكاشيرا الشهيرة.</dbo:abstract>
+    <dbo:abstract xml:lang="nl">Mitaka (三鷹市, Mitaka-shi) is een stad in de prefectuur Tokio, Japan. Het ligt direct ten westen van de 23 speciale wijken van de prefectuur. Op 1 maart 2008 had de stad 180.736 inwoners. De bevolkingsdichtheid bedroeg 10950 inw./km². De oppervlakte van de stad is 16,50 km². Mitaka is bij toeristen vooral bekend vanwege het Ghibli museum met zijn grote Totoroknuffel die te zien is vanaf de straat, en het Inokashira-park, dat de grens vormt met Kichijoji (Musahino).</dbo:abstract>
+    <dbo:abstract xml:lang="zh">三鷹市（日语：三鷹市／みたかし Mitaka shi */?）是日本東京都多摩地區最東邊的市。往東京都特別區部的通勤率達38.1%（平成22年國勢調査）。</dbo:abstract>
+    <dbo:abstract xml:lang="pl">Mitaka (jap. 三鷹市 Mitaka-shi) - miasto w Japonii, na terenie stołecznej prefektury Tokio. 168 tys. mieszkańców. Rozwija się tu przemysł elektrotechniczny i środków transportu. Jest to jedna z tzw. sypialni dla Tokio. Miasto słynie z Muzeum Ghibli.</dbo:abstract>
+    <dbo:abstract xml:lang="es">Mitaka (三鷹市 Mitaka-shi?) es una ciudad localizada en Tokio, (Japón), fundada el 3 de noviembre de 1950. Su población estimada para el año 2003 es de 175 995 habitantes. El Museo Ghibli está situado en esta ciudad, al igual que la Universidad Cristiana Internacional.</dbo:abstract>
+    <dbo:abstract xml:lang="pt">Mitaka (三鷹市 -shi) é uma cidade japonesa localizada na província de Tóquio. Em 2003, a cidade tinha uma população estimada em 175 995 habitantes e uma densidade populacional de 10 666,36 h/km². Tem uma área total de 16,50 km². Recebeu o estatuto de cidade a 3 de Novembro de 1950.</dbo:abstract>
+    <dbo:abstract xml:lang="en">Mitaka (三鷹市 Mitaka-shi) is a city located in the western portion of Tokyo Metropolis, in the central Kantō region of Japan. As of 1 February 2016, the city had an estimated population of 189,168 and a population density of 11,520 persons per km². Its total area was 16.42 square kilometres (6.34 sq mi).</dbo:abstract>
+    <dbo:abstract xml:lang="de">Mitaka (jap. 三鷹市, -shi) ist eine Stadt in der Präfektur Tokio westlich von Tokio.</dbo:abstract>
+    <dbo:abstract xml:lang="ru">Мита́ка (яп. 三鷹市 Митака-си) — город в Японии, находящийся в префектуре Токио. Площадь города составляет 16,5 км², население — 187 494 человека (1 августа 2014), плотность населения — 11 363,27 чел./км².</dbo:abstract>
+    <dbo:abstract xml:lang="ja">三鷹市（みたかし）は、東京都の多摩地域東部にある市である。東京都特別区部への通勤率は38.1%（平成22年国勢調査）。</dbo:abstract>
+    <dbo:abstract xml:lang="fr">Mitaka (三鷹市; Mitaka-shi) est une ville située au Japon dans la banlieue ouest de Tokyo. En 2003, sa population a été estimée à 175 995 habitants et sa densité s&#39;élève à 10 666,36 personnes au km². Sa superficie est de 16,50 km2. L&#39;écrivain Osamu Dazai a vécu à Mitaka jusqu&#39;en avril 1945, date à laquelle sa maison est détruite par les bombardements. Elle accueille le musée Ghibli depuis 2001. 
+* Portail de Tokyo Portail de Tokyo</dbo:abstract>
+    <dbo:abstract xml:lang="it">Mitaka (三鷹市?) è una città conurbata in Tokyo, Giappone. Nel 2003 la città aveva una popolazione stimata in 175,995 abitanti su un&#39;area di 16.50 km², con una densità di 10.666,36 persone per km² La data di fondazione ufficiale della città di Mitaka è il 3 novembre 1950, ma i primi insediamenti nella zona risalgono al 1590.</dbo:abstract>
+    <dbo:areaTotal rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.642e+07</dbo:areaTotal>
+    <dbo:country rdf:resource="http://dbpedia.org/resource/Japan" />
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Kantō_region" />
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Tokyo" />
+    <dbo:leaderTitle xml:lang="en">- Mayor</dbo:leaderTitle>
+    <dbo:populationDensity rdf:datatype="http://www.w3.org/2001/XMLSchema#double">11520.0</dbo:populationDensity>
+    <dbo:populationTotal rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">189168</dbo:populationTotal>
+    <dbo:timeZone rdf:resource="http://dbpedia.org/resource/Japan_Standard_Time" />
+    <dbo:type rdf:resource="http://dbpedia.org/resource/Cities_of_Japan" />
+    <dbo:utcOffset>+9</dbo:utcOffset>
+    <georss:point>35.68355555555556 139.5595277777778</georss:point>
+    <dbp:blank1InfoSec rdf:resource="http://dbpedia.org/resource/Ginkgo_biloba" />
+    <dbp:blank1InfoSec rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</dbp:blank1InfoSec>
+    <dbp:blank1NameSec rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">• Tree</dbp:blank1NameSec>
+    <dbp:blank1NameSec rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Address</dbp:blank1NameSec>
+    <dbp:blank2InfoSec rdf:resource="http://dbpedia.org/resource/Malus_halliana" />
+    <dbp:blank2NameSec rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">• Flower</dbp:blank2NameSec>
+    <dbp:blank3NameSec rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">• Bird</dbp:blank3NameSec>
+    <dbp:blankInfoSec rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">42</dbp:blankInfoSec>
+    <dbp:blankNameSec rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Symbols</dbp:blankNameSec>
+    <dbp:blankNameSec rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Phone number</dbp:blankNameSec>
+    <dbp:coordinatesDisplay rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">inline,title</dbp:coordinatesDisplay>
+    <dbp:coordinatesRegion rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">JP</dbp:coordinatesRegion>
+    <dbp:imageCaption rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Mitaka City Hall</dbp:imageCaption>
+    <dbp:imageFlag rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Flag of Mitaka, Tokyo.svg</dbp:imageFlag>
+    <dbp:imageMap rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Mitaka in Tokyo Prefecture Ja.svg</dbp:imageMap>
+    <dbp:imageSeal rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Symbol of Mitaka, Tokyo.svg</dbp:imageSeal>
+    <dbp:imageSkyline rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Mitaka City Hall.JPG</dbp:imageSkyline>
+    <dbp:latd rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">35</dbp:latd>
+    <dbp:latm rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">41</dbp:latm>
+    <dbp:latns rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">N</dbp:latns>
+    <dbp:lats rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.8</dbp:lats>
+    <dbp:leaderName rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Keiko Kiyohara</dbp:leaderName>
+    <dbp:longd rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">139</dbp:longd>
+    <dbp:longew rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">E</dbp:longew>
+    <dbp:longm rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">33</dbp:longm>
+    <dbp:longs rdf:datatype="http://www.w3.org/2001/XMLSchema#double">34.3</dbp:longs>
+    <dbp:mapCaption rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Location of Mitaka in Tokyo</dbp:mapCaption>
+    <dbp:nativeNameLang rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">ja</dbp:nativeNameLang>
+    <dbp:populationAsOf rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">February 2016</dbp:populationAsOf>
+    <dbp:pushpinMap rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Japan</dbp:pushpinMap>
+    <dbp:subdivisionType rdf:resource="http://dbpedia.org/resource/List_of_regions_of_Japan" />
+    <dbp:subdivisionType rdf:resource="http://dbpedia.org/resource/List_of_sovereign_states" />
+    <dbp:subdivisionType rdf:resource="http://dbpedia.org/resource/Prefectures_of_Japan" />
+    <ns11:hypernym rdf:resource="http://dbpedia.org/resource/City" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ryo_Kimura">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Mitaka,_Tokyo" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/International_Christian_University">
+    <dbo:city rdf:resource="http://dbpedia.org/resource/Mitaka,_Tokyo" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yūko_Tsushima">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Mitaka,_Tokyo" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Brain&#39;s_Base">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Mitaka,_Tokyo" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kyorin_University">
+    <dbo:city rdf:resource="http://dbpedia.org/resource/Mitaka,_Tokyo" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Maiko_Kano">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Mitaka,_Tokyo" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Asako_Tajimi">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Mitaka,_Tokyo" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Masahiro_Chono">
+    <dbo:residence rdf:resource="http://dbpedia.org/resource/Mitaka,_Tokyo" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tomoki_Kikuya">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Mitaka,_Tokyo" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yoshikazu_Tanaka">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Mitaka,_Tokyo" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Studio_Nue">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Mitaka,_Tokyo" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mitaka">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Mitaka,_Tokyo" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Toshiro_Mifune">
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Mitaka,_Tokyo" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Chieko_Higuchi">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Mitaka,_Tokyo" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Pierrot_(company)">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Mitaka,_Tokyo" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Shuka_(studio)">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Mitaka,_Tokyo" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Chikuhei_Nakajima">
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Mitaka,_Tokyo" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kenji_Yano">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Mitaka,_Tokyo" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nissan_Skyline__Prince_Skyline_ALSI/BLSI/BLRA-3__1">
+    <dbo:assembly rdf:resource="http://dbpedia.org/resource/Mitaka,_Tokyo" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hiroki_Azuma">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Mitaka,_Tokyo" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Reiko_Dan">
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Mitaka,_Tokyo" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Akira_Yoshimura">
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Mitaka,_Tokyo" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Akira_Fuse">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Mitaka,_Tokyo" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Inokashira_Park">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Mitaka,_Tokyo" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kōjirō_Kusanagi">
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Mitaka,_Tokyo" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Osamu_Takizawa">
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Mitaka,_Tokyo" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ayumi_Kurihara">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Mitaka,_Tokyo" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Miyuki_Kano">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Mitaka,_Tokyo" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nogawa_Park">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Mitaka,_Tokyo" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Keishi_Kusumi">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Mitaka,_Tokyo" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Wataru_Sasaki">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Mitaka,_Tokyo" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mitaka_City">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Mitaka,_Tokyo" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Mitaka,_Tokyo">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Mitaka,_Tokyo" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/三鷹市">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Mitaka,_Tokyo" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/History_of_Mitaka,_Tokyo">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Mitaka,_Tokyo" />
+  </rdf:Description>
+</rdf:RDF>

@@ -1,0 +1,1755 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:dct="http://purl.org/dc/terms/"
+	xmlns:dbo="http://dbpedia.org/ontology/"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	xmlns:prov="http://www.w3.org/ns/prov#"
+	xmlns:dbp="http://dbpedia.org/property/"
+	xmlns:georss="http://www.georss.org/georss/"
+	xmlns:ns10="http://purl.org/linguistics/gold/" >
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Andreas_Vesalius">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/François_Mitterrand">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Henri_Lebesgue">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+    <dbp:workInstitutions rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Henri_Poincaré">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+    <dbp:workplaces rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Honoré_de_Balzac">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jacobus_Henricus_van_&#39;t_Hoff">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jacques_Derrida">
+    <dbp:institutions rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jacques_Vergès">
+    <dbo:education rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jean_le_Rond_d&#39;Alembert">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Julius_Plücker">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Louis_de_Broglie">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+    <dbp:workInstitution rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Pascal_Lissouba">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Raymond_Queneau">
+    <dbo:education rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Victor_Hugo">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Émile_Durkheim">
+    <dbp:workplaces rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Émile_Picard">
+    <dbp:workplaces rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Aimé_Bonpland">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Edgar_Morin">
+    <dbp:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/John_Cairncross">
+    <dbp:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Léon_Brunschvicg">
+    <dbp:institutions rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Manuel_Uribe_Ángel">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Paul_Montel">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Saionji_Kinmochi">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tadeusz_Ważewski">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jean-Marie_Le_Guen">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hamadi_Jebali">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Herbert_Richardson_(publisher)">
+    <dbo:education rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Manfred_Wörner">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Osman_Nuri_Eralp">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Claude_Cohen-Tannoudji">
+    <dbp:workInstitutions rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Georges_Bonnet">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Henry_Louis_Le_Châtelier">
+    <dbp:workInstitutions rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jacques_Maritain">
+    <dbp:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nicole_Oresme">
+    <dbp:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+    <dbp:institutions rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Cornelius_Castoriadis">
+    <dbp:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Roger_Nicole">
+    <dbp:education rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Charles_Pachter">
+    <dbo:training rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Dmitry_Manuilsky">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/François_Langelier">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nachman_Aronszajn">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hasan_Tahsini">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Faculté_de_Médecine_de_Paris">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ali_Lmrabet">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Burhan_Doğançay">
+    <dbo:training rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Alexandre_Millerand">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jean_Buridan">
+    <dbp:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+    <dbp:institutions rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Léopold_Sédar_Senghor">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mikhail_Ostrogradsky">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nicolas_Malebranche">
+    <dbp:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Pierre_Gaspard_Chaumette">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Albert_Soboul">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Paul_Reclus">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+    <dbp:workplaces rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Alireza_Khamseh">
+    <dbp:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jean_Pisani-Ferry">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Susana_Chou">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Alexandru_Froda">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ferdinand_P._Beer">
+    <dbo:education rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Joanna_Pruess">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/George_de_Bothezat">
+    <dbo:education rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hadi_Soesastro">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Michel_Broué">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yngve_Slyngstad">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Cù_Huy_Hà_Vũ">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ernest_Corominas">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jehiel_R._Elyachar">
+    <dbo:education rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Juan_Camilo_Restrepo_Salazar">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Emmanuel_Fauré-Fremiet">
+    <dbp:workplaces rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Fanie_Eloff">
+    <dbo:training rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jean-François_Rossignol">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mounira_M._Charrad">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Oubi_Buchraya_Bachir">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Philippe_Le_Corbeiller">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Xu_Yuanchong">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Alain_Dassas">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Axel_Kahn">
+    <dbo:education rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bashar_Jaafari">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Beatrix_Miller">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jean_Leray">
+    <dbp:workInstitutions rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kitty_Carlisle">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Pierre_Capretz">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Raymond_Poincaré">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Susan_George_(political_scientist)">
+    <dbp:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/William_Paget,_1st_Baron_Paget">
+    <dbo:education rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Paris_West_University_Nanterre_La_Défense">
+    <dbo:affiliation rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bonaventure">
+    <dbp:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+    <dbp:institutions rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tzvetan_Todorov">
+    <dbp:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Alain_Rey">
+    <dbo:education rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Alexandru_Ghika">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Françoise_Barré-Sinoussi">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Joseph_Florimond_Loubat">
+    <dbo:education rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Léon_Brillouin">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+    <dbp:workInstitutions rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Madan_Lal_Mehta">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Pascale_Cossart">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Rose_Tremain">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Thomas_Aquinas">
+    <dbp:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tom_DeMarco">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Eliyahu_Ben-Elissar">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Marcel_Peyrouton">
+    <dbp:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jean_Hamburger">
+    <dbo:education rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Muhammad_Raziuddin_Siddiqui">
+    <dbp:workplaces rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Thomas_Charles_Hope">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Valentin_Poénaru">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bernard_Debré">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/George_Pau-Langevin">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jean-Frédéric_Poisson">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Édouard_Carmignac">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Amalric_of_Bena">
+    <dbo:education rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/André_Weil">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Antoine_Lavoisier">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Elie_Wiesel">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Erasmus">
+    <dbp:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Félix_Guattari">
+    <dbp:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gilles_Deleuze">
+    <dbp:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Henri_Bergson">
+    <dbp:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jacques-Louis_David">
+    <dbp:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jacques_Lacan">
+    <dbp:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Marina_Tsvetaeva">
+    <dbo:education rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nicolas_Léonard_Sadi_Carnot">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Pierre_Curie">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+    <dbp:workPlaces rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/René_Laennec">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Seymour_Papert">
+    <dbp:workInstitutions rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Albert_of_Saxony_(philosopher)">
+    <dbp:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Anna_Kingsford">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Anne_Robert_Jacques_Turgot">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Antoine_Petit">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Edvard_Beneš">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gustave_Le_Bon">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jean-Claude_Trichet">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jean-Pierre_Kahane">
+    <dbp:workplaces rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jean-Victor_Poncelet">
+    <dbp:workInstitutions rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Julius_Caesar_(judge)">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Michael_White_(producer)">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Paul_Lévy_(mathematician)">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Roland_Barthes">
+    <dbp:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Stanisław_Zaremba_(mathematician)">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Catherine_Dulac">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Charles_Friedel">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+    <dbp:workInstitution rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Christian_de_Boissieu">
+    <dbo:education rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ernest_Hamel">
+    <dbp:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Frédéric_Passy">
+    <dbo:education rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/István_Fáry">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jacques_Friedel">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jean_Giraud_(mathematician)">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mary_K._Gaillard">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Maurice_Lebel">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nihat_Erim">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Patrick_Hume,_1st_Earl_of_Marchmont">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Pierre_Cartier_(mathematician)">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sisir_Kumar_Mitra">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+    <dbp:workInstitution rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tanja_Fajon">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Traian_Lalescu">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yitzhak_Katznelson">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Alain_Carpentier">
+    <dbp:workplaces rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Armand_Călinescu">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bernard_Lyot">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Béatrice_Longuenesse">
+    <dbp:institutions rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Charles_Philippe_Leblond">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Emmanuel_Mounier">
+    <dbp:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Haïm_Brezis">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jacques_Mathieu_Delpech">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Paul_Sabatier_(chemist)">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ion_Filotti_Cantacuzino">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Joshua_Sobol">
+    <dbo:education rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Marta_Traba">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nicos_Poulantzas">
+    <dbp:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Georgios_Christakis-Zografos">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Joseph_Daigle_(New_Brunswick_politician)">
+    <dbp:education rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Paul-André_Crépeau">
+    <dbo:education rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Émile_Boutroux">
+    <dbp:institutions rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Đuro_Kurepa">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jean_Baptiste_Perrin">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+    <dbp:workplaces rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Pierre-Gilles_de_Gennes">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/André_Frédéric_Cournand">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Arnaud_Denjoy">
+    <dbp:workplaces rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Francesco_Faà_di_Bruno__Francesco_Faà_di_Bruno__1">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hilda_Neatby">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kostas_Axelos">
+    <dbp:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Paul_Bert">
+    <dbp:workInstitutions rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Paul_Dubreil">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+    <dbp:workplaces rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Xavier_Leroy">
+    <dbp:workplaces rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Édouard_Goursat">
+    <dbp:workInstitutions rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Michel_Demazure">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nasser_Fakouhi">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Raufa_Hassan_al-Sharki">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Edward_Collingwood">
+    <dbp:workplaces rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Herbert_Meier">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Pierre_Gabriel">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Georges_Darmois">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+    <dbp:workplaces rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Henri_Villat">
+    <dbp:workplaces rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Marie-Louise_Dubreil-Jacotin">
+    <dbp:workInstitutions rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Oumar_Tatam_Ly">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Alain_Lascoux">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Armand_de_Ricqlès">
+    <dbo:education rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hasan_Dosti">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Michèle_de_Saint_Laurent">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Stevan_K._Pavlowitch">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sigard_Adolphus_Knopf">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Norbert_Perrimon">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Li_Jianwu">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Cengiz_Aktar">
+    <dbp:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/François_Olenga">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Martine_Beck">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Claude-Henri_Chouard">
+    <dbp:workplaces rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Severyn_Ashkenazy">
+    <dbo:education rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/University_of_Paris">
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/EducationalInstitution108276342" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Agent" />
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoPermanentlyLocatedEntity" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Institution108053576" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Organisation" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/EducationalInstitution" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatUniversitiesAndCollegesInFrance" />
+    <rdf:type rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent" />
+    <rdf:type rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#SocialPerson" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/SocialGroup107950920" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Group100031264" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Organization108008335" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Abstraction100002137" />
+    <rdf:type rdf:resource="http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/University" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/University108286569" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q3918" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q43229" />
+    <rdf:type rdf:resource="http://schema.org/EducationalOrganization" />
+    <rdf:type rdf:resource="http://schema.org/CollegeOrUniversity" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatEducationalInstitutionsEstablishedInThe12thCentury" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q24229398" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoLegalActor" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoLegalActorGeo" />
+    <rdf:type rdf:resource="http://schema.org/Organization" />
+    <rdfs:label xml:lang="ja">パリ大学</rdfs:label>
+    <rdfs:label xml:lang="de">Universität von Paris</rdfs:label>
+    <rdfs:label xml:lang="fr">Université de Paris</rdfs:label>
+    <rdfs:label xml:lang="zh">巴黎大学</rdfs:label>
+    <rdfs:label xml:lang="ar">جامعة باريس</rdfs:label>
+    <rdfs:label xml:lang="en">University of Paris</rdfs:label>
+    <rdfs:label xml:lang="pl">Uniwersytet Paryski</rdfs:label>
+    <rdfs:label xml:lang="it">Università di Parigi</rdfs:label>
+    <rdfs:label xml:lang="ru">Парижский университет</rdfs:label>
+    <rdfs:label xml:lang="pt">Universidade de Paris</rdfs:label>
+    <rdfs:label xml:lang="nl">Universiteit van Parijs</rdfs:label>
+    <rdfs:label xml:lang="es">Universidad de París</rdfs:label>
+    <rdfs:comment xml:lang="ar">جامعة باريس (بالفرنسية :Université de Paris) تم تأسيس جامعة باريس ونمت في النصف الثاني من القرن الثاني عشر، ولكن في عام 1970 تم إعادة تنظيمها إلى ثلاثة عشر جامعة مستقلة (جامعة باريس الأولى - ثالث عشر). وكثيرا ما يشار إلى جامعة باريس على أنها السوربون بعد مؤسسة (كوليج دو سوربون -Collège de Sorbonne) (تأسست حوالي 1257) مع أن محور جامعة باريس على هذا النحو لم يكن أبداً حول السوربون.</rdfs:comment>
+    <rdfs:comment xml:lang="pl">Uniwersytet Paryski (fr. Université de Paris) – francuski uniwersytet w Paryżu. W średniowieczu jedna z najstarszych i najważniejszych instytucji tego typu, będąca wzorem dla innych średniowiecznych uniwersytetów. Sorbona została ustanowiona przez króla Francji Ludwika IX w 1257 r. jako kolegium teologiczne, pomagających ubogim studentom. Z czasem zyskała również funkcje edukacyjne. W XVII wieku kompleks Sorbony zyskał najważniejsze znaczenie wśród budynków uniwersyteckich. Kiedy w XIX w. przeniesiono tam siedzibę organów uniwersytetu, zaczęto go nazywać zwyczajowo Sorboną.</rdfs:comment>
+    <rdfs:comment xml:lang="nl">De Universiteit van Parijs (Frans: Université de Paris), ook bekend onder de naam Sorbonne, was tot 1970 de universiteit van Parijs. Na de gebeurtenissen in mei 1968 werd de universiteit gesplitst en heropgericht als dertien afzonderlijke universiteiten.</rdfs:comment>
+    <rdfs:comment xml:lang="de">Die Universität von Paris war das Dach der berühmtesten akademischen Lehreinrichtungen in Paris, nicht zuletzt der Sorbonne, deren Name im allgemeinen Sprachgebrauch zur synonymen Bezeichnung der Universität wurde. Sie entwickelte sich vom Hort der Scholastik zur Kaderschmiede für Nobelpreisträger. Sie hat Monarchie, Revolution und Restauration überstanden, die Studentenunruhen von 1968 nicht. Seit 1970 erfolgte eine so gründliche Dezentralisierung und Neugründungswelle, dass ein Erkennen der Traditionsnachfolge schwer möglich ist. Die Paris Universitas (2005–2010) entsprach organisatorisch der alten Universität von Paris noch am ehesten.</rdfs:comment>
+    <rdfs:comment xml:lang="zh">巴黎大學（法语：Université de Paris），又称索邦大学，是世界上历史最悠久的大学之一，其授课历史可以追溯到12世纪中叶。大学分别在1200年和1215年获得法王腓力二世和教宗英诺森三世的官方认可。1257年，大学的第一个学院机构索邦學院成立，索邦也成为大学的代称。1793年，在法国大革命的高潮中，巴黎大学遭到解散。1896年重建。1968年後，被拆分成13所獨立大學。</rdfs:comment>
+    <rdfs:comment xml:lang="ru">Парижский университет (фр. Université de Paris) — французский университет в Париже, один из старейших в мире; основан в середине XII века; будучи интернациональным образовательным учреждением, очень скоро заслужил европейскую репутацию. Его центром является здание Сорбонны в Латинском квартале на левом берегу Сены. После майских событий 1968 года был преобразован в 1970 году в 13 парижских независимых университетов.</rdfs:comment>
+    <rdfs:comment xml:lang="en">The University of Paris (French: Université de Paris), metonymically known as the Sorbonne (French: [sɔʁbɔn], its historical house), was a university in Paris, France. Appearing around 1150 as a corporation associated with the Notre Dame de Paris cathedral school, it was the second-oldest modern university in Europe. Chartered in 1200 by King Philip II (Philippe-Auguste) of France and recognised in 1215 by Pope Innocent III, it was often nicknamed after its theology collegiate institution, College of Sorbonne, founded about 1257 by Robert de Sorbon.</rdfs:comment>
+    <rdfs:comment xml:lang="it">Il template {{Coord}} ha riscontrato degli errori (istruzioni):Modulo:Wikidata:398: attempt to index field &#39;wikibase&#39; (a nil value) L&#39;Università di Parigi, conosciuta anche come la Sorbona, fu fondata nel 1170 circa. Fu riconosciuta dal Re Filippo II di Francia nel 1200 e dal papa Innocenzo III nel 1215 (in particolare, dal suo legato pontificio Roberto di Courçon). Soppressa nel 1793 all&#39;indomani della Rivoluzione Francese, fu rifondata nel 1896. In seguito ai fatti del maggio 1968, l&#39;università di Parigi fu divisa nel 1970 in 13 diverse università autonome:</rdfs:comment>
+    <rdfs:comment xml:lang="ja">パリ大学（仏：Université de Paris）は、フランス共和国のパリ、クレテイユおよびヴェルサイユの3大学区にある13の大学の総称である。多くのノーベル賞受賞者を送り出している他、政治学、科学、物理学、神学などの分野で優秀な学者を輩出している。また芸術の教育機関としても名高い。</rdfs:comment>
+    <rdfs:comment xml:lang="fr">L’université de Paris, par métonymie la Sorbonne, était l’une des plus importantes universités médiévales et une des plus anciennes universités de l&#39;histoire. Apparue dès le milieu du xiie siècle, elle est reconnue par le roi Philippe Auguste en 1200 et par le pape Innocent III en 1215. Elle acquiert rapidement un très grand prestige, notamment dans les domaines de la philosophie et de la théologie. Constituée comme l’association de tous les collèges parisiens situés sur la rive gauche, elle assurait la formation de tous les clercs, c’est-à-dire de tous les cadres et agents administratifs des institutions royales (conseil d’État, parlements, tribunaux, cours des comptes, impôts, etc.) et ecclésiastiques (enseignement, hôpitaux, libraires, recherche, évêques, abbés).</rdfs:comment>
+    <rdfs:comment xml:lang="pt">A Universidade de Paris (em francês Université de Paris) é uma das mais antigas instituições de ensino superior da Europa, e localiza-se na França. Já não existe como uma única universidade, uma vez que, em 1970, foi dividida em treze universidades independentes umas das outras.</rdfs:comment>
+    <rdfs:comment xml:lang="es">La Universidad de París (en francés: Université de Paris), también conocida como La Sorbona, fue una de las universidades medievales más antiguas y más importantes. Fue fundada a mediados del siglo XII por el obispo de la ciudad y sus instalaciones se situaron cerca de la Catedral Notre Dame de París. En 1200 fue reconocida por el rey Felipe II y en 1215 por el papa Inocencio III. Adquirió rápidamente un gran prestigio, especialmente en filosofía y teología. Se constituyó como asociación de todos los colegios preexistentes en la ciudad de París situados a la orilla izquierda del río Sena (entre ellos La Sorbona, fundado en el año 1215 y con gran prestigio durante la Edad Media debido a su facultad de teología, cuyo nombre se asociaría posteriormente a toda la universidad). Su objetivo era </rdfs:comment>
+    <owl:sameAs rdf:resource="http://it.dbpedia.org/resource/Università_di_Parigi" />
+    <owl:sameAs rdf:resource="http://fr.dbpedia.org/resource/Université_de_Paris" />
+    <owl:sameAs rdf:resource="http://el.dbpedia.org/resource/Πανεπιστήμιο_του_Παρισιού" />
+    <owl:sameAs rdf:resource="http://pt.dbpedia.org/resource/Universidade_de_Paris" />
+    <owl:sameAs rdf:resource="http://nl.dbpedia.org/resource/Universiteit_van_Parijs" />
+    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/Universität_von_Paris" />
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+    <owl:sameAs rdf:resource="http://data.europa.eu/euodp/jrc-names/Universit%C3%A9_de_Paris" />
+    <owl:sameAs rdf:resource="http://es.dbpedia.org/resource/Universidad_de_París" />
+    <owl:sameAs rdf:resource="http://cs.dbpedia.org/resource/Pařížská_univerzita" />
+    <owl:sameAs rdf:resource="http://yago-knowledge.org/resource/University_of_Paris" />
+    <owl:sameAs rdf:resource="http://eu.dbpedia.org/resource/Parisko_Unibertsitatea" />
+    <owl:sameAs rdf:resource="http://id.dbpedia.org/resource/Universitas_Paris" />
+    <owl:sameAs rdf:resource="http://d-nb.info/gnd/2025059-9" />
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.0lk0l" />
+    <owl:sameAs rdf:resource="http://ko.dbpedia.org/resource/파리_대학교" />
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q209842" />
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q209842" />
+    <owl:sameAs rdf:resource="http://ja.dbpedia.org/resource/パリ大学" />
+    <owl:sameAs rdf:resource="http://pl.dbpedia.org/resource/Uniwersytet_Paryski" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:University_of_Paris" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:12th-century_establishments_in_France" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Educational_institutions_established_in_the_12th_century" />
+    <dbo:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">84692</dbo:wikiPageID>
+    <dbo:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">744657804</dbo:wikiPageRevisionID>
+    <dbo:wikiPageExternalLink rdf:resource="http://www.sorbonne.fr/" />
+    <foaf:name xml:lang="en">University of Paris</foaf:name>
+    <foaf:name xml:lang="en">Université de Paris</foaf:name>
+    <foaf:name xml:lang="la">Universitas magistrorum et scholarium Parisiensis</foaf:name>
+    <foaf:nick xml:lang="en">TheSorbonne</foaf:nick>
+    <foaf:homepage rdf:resource="http://www.sorbonne.fr/" />
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#float">48.8486</geo:lat>
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#float">2.34278</geo:long>
+    <foaf:depiction rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Armes_de_l_universite_de_paris.png" />
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/University_of_Paris" />
+    <geo:geometry rdf:datatype="http://www.openlinksw.com/schemas/virtrdf#Geometry">POINT(2.3427777290344 48.848609924316)</geo:geometry>
+    <dbo:thumbnail rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Armes_de_l_universite_de_paris.png?width=300" />
+    <prov:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/University_of_Paris?oldid=744657804" />
+    <dbo:abstract xml:lang="de">Die Universität von Paris war das Dach der berühmtesten akademischen Lehreinrichtungen in Paris, nicht zuletzt der Sorbonne, deren Name im allgemeinen Sprachgebrauch zur synonymen Bezeichnung der Universität wurde. Sie entwickelte sich vom Hort der Scholastik zur Kaderschmiede für Nobelpreisträger. Sie hat Monarchie, Revolution und Restauration überstanden, die Studentenunruhen von 1968 nicht. Seit 1970 erfolgte eine so gründliche Dezentralisierung und Neugründungswelle, dass ein Erkennen der Traditionsnachfolge schwer möglich ist. Die Paris Universitas (2005–2010) entsprach organisatorisch der alten Universität von Paris noch am ehesten.</dbo:abstract>
+    <dbo:abstract xml:lang="en">The University of Paris (French: Université de Paris), metonymically known as the Sorbonne (French: [sɔʁbɔn], its historical house), was a university in Paris, France. Appearing around 1150 as a corporation associated with the Notre Dame de Paris cathedral school, it was the second-oldest modern university in Europe. Chartered in 1200 by King Philip II (Philippe-Auguste) of France and recognised in 1215 by Pope Innocent III, it was often nicknamed after its theology collegiate institution, College of Sorbonne, founded about 1257 by Robert de Sorbon. Internationally highly reputed for its academic performance in the humanities ever since the Middle Ages – notably in theology and philosophy – it introduced several academic standards and traditions that have endured ever since and spread internationally, such as doctoral degrees and student nations. Vast numbers of Popes, royalty, scientists and intellectuals were educated at the University of Paris. Following the turbulence of the French Revolution, education was suspended in 1793; its faculties were partly reorganised by Napoleon as the University of France, which operated between 1793 and 1896. In 1970, following the May 1968 events, the university was divided into 13 autonomous universities. Some of the new universities took over the old faculties and the majority of their professors: humanities by Paris-Sorbonne University, law by Panthéon-Assas University, medicine byParis Descartes University, and natural sciences by Pierre and Marie Curie University and Paris Diderot University. Others, like Panthéon-Sorbonne University, chose to be multidisciplinary. In the 2010s, the thirteen Parisian universities formed seven different alliances in order to help preserve their various degrees of attributed legacy of the University of Paris, for example the Sorbonne University (alliance).</dbo:abstract>
+    <dbo:abstract xml:lang="pt">A Universidade de Paris (em francês Université de Paris) é uma das mais antigas instituições de ensino superior da Europa, e localiza-se na França. Já não existe como uma única universidade, uma vez que, em 1970, foi dividida em treze universidades independentes umas das outras.</dbo:abstract>
+    <dbo:abstract xml:lang="ru">Парижский университет (фр. Université de Paris) — французский университет в Париже, один из старейших в мире; основан в середине XII века; будучи интернациональным образовательным учреждением, очень скоро заслужил европейскую репутацию. Его центром является здание Сорбонны в Латинском квартале на левом берегу Сены. Как полудуховное общество магистров (преподавателей), подчинённое духовной власти, Парижский университет представлял полный контраст со светскими, республиканскими университетами североитальянских городов; в качестве основного образования (Studium generale) он был, главным образом, высшей школой богословия и свободных искусств, включал в свои программы юриспруденцию только в виде канонического права, а в медицине уступал первенство другим studia generalia. Став величайшей школой всей Западной Европы, имея среди своих учеников и учителей представителей всех наций и величайших учёных средневековья — Фому Аквинского, Альберта Великого, Раймунда Луллия, Роджера Бэкона, Дунса Скота, Уильяма Оккама, — университет стал высшим авторитетом в вопросах веры и разума и во время падения папства, в эпоху великого раскола, в лице Д’Альи, Герсона и Клеманжи был руководителем католической церкви и сделал попытку реформировать её во главе и членах. После майских событий 1968 года был преобразован в 1970 году в 13 парижских независимых университетов.</dbo:abstract>
+    <dbo:abstract xml:lang="pl">Uniwersytet Paryski (fr. Université de Paris) – francuski uniwersytet w Paryżu. W średniowieczu jedna z najstarszych i najważniejszych instytucji tego typu, będąca wzorem dla innych średniowiecznych uniwersytetów. Sorbona została ustanowiona przez króla Francji Ludwika IX w 1257 r. jako kolegium teologiczne, pomagających ubogim studentom. Z czasem zyskała również funkcje edukacyjne. W XVII wieku kompleks Sorbony zyskał najważniejsze znaczenie wśród budynków uniwersyteckich. Kiedy w XIX w. przeniesiono tam siedzibę organów uniwersytetu, zaczęto go nazywać zwyczajowo Sorboną.</dbo:abstract>
+    <dbo:abstract xml:lang="zh">巴黎大學（法语：Université de Paris），又称索邦大学，是世界上历史最悠久的大学之一，其授课历史可以追溯到12世纪中叶。大学分别在1200年和1215年获得法王腓力二世和教宗英诺森三世的官方认可。1257年，大学的第一个学院机构索邦學院成立，索邦也成为大学的代称。1793年，在法国大革命的高潮中，巴黎大学遭到解散。1896年重建。1968年後，被拆分成13所獨立大學。</dbo:abstract>
+    <dbo:abstract xml:lang="nl">De Universiteit van Parijs (Frans: Université de Paris), ook bekend onder de naam Sorbonne, was tot 1970 de universiteit van Parijs. Na de gebeurtenissen in mei 1968 werd de universiteit gesplitst en heropgericht als dertien afzonderlijke universiteiten.</dbo:abstract>
+    <dbo:abstract xml:lang="it">Il template {{Coord}} ha riscontrato degli errori (istruzioni):Modulo:Wikidata:398: attempt to index field &#39;wikibase&#39; (a nil value) L&#39;Università di Parigi, conosciuta anche come la Sorbona, fu fondata nel 1170 circa. Fu riconosciuta dal Re Filippo II di Francia nel 1200 e dal papa Innocenzo III nel 1215 (in particolare, dal suo legato pontificio Roberto di Courçon). Soppressa nel 1793 all&#39;indomani della Rivoluzione Francese, fu rifondata nel 1896. In seguito ai fatti del maggio 1968, l&#39;università di Parigi fu divisa nel 1970 in 13 diverse università autonome: 
+*  Université Paris I - Panthéon-Sorbonne 
+*  Université Paris II - Panthéon-Assas 
+*  Université Paris III - Sorbonne-Nouvelle 
+*  Université Paris IV - Paris-Sorbonne 
+*  Université Paris V - René-Descartes 
+*  Université Paris VI - Pierre-et-Marie-Curie 
+*  Université Paris VII - Denis-Diderot 
+*  Université Paris VIII - Vincennes poi Vincennes-Saint-Denis 
+*  Université Paris IX - Paris-Dauphine 
+*  Université Paris X - Nanterre poi Paris Ouest Nanterre La Défense 
+*  Université Paris XI - Paris-Sud (inizialmente a Orsay) 
+*  Université Paris XII - Paris-Val-de-Marne (Créteil) poi Paris-Est Créteil Val de Marne 
+*  Université Paris XIII - Paris-Nord (Saint-Denis - Villetaneuse)</dbo:abstract>
+    <dbo:abstract xml:lang="es">La Universidad de París (en francés: Université de Paris), también conocida como La Sorbona, fue una de las universidades medievales más antiguas y más importantes. Fue fundada a mediados del siglo XII por el obispo de la ciudad y sus instalaciones se situaron cerca de la Catedral Notre Dame de París. En 1200 fue reconocida por el rey Felipe II y en 1215 por el papa Inocencio III. Adquirió rápidamente un gran prestigio, especialmente en filosofía y teología. Se constituyó como asociación de todos los colegios preexistentes en la ciudad de París situados a la orilla izquierda del río Sena (entre ellos La Sorbona, fundado en el año 1215 y con gran prestigio durante la Edad Media debido a su facultad de teología, cuyo nombre se asociaría posteriormente a toda la universidad). Su objetivo era formar a los funcionarios de la administración real (Consejo de Estado, parlamentos, tribunales, hacienda, etc.) y de instituciones eclesiásticas (profesores, médicos, bibliotecarios, obispos, abades, etc.). Durante la Edad Moderna sufrió una situación de declive. En 1793 fue cerrada y sustituida por escuelas superiores especializadas en derecho, medicina, ingeniería, escuelas normales, etc. Un siglo más tarde, en 1896, se reabrió con cuatro facultades: Derecho, Medicina, Letras y Ciencias. Tras los sucesos de mayo de 1968 y las reformas de 1968-1971 la universidad se dividió en trece universidades independientes, algunas de ellas multidisciplinares y otras especializadas en determinados ámbitos del conocimiento.</dbo:abstract>
+    <dbo:abstract xml:lang="fr">L’université de Paris, par métonymie la Sorbonne, était l’une des plus importantes universités médiévales et une des plus anciennes universités de l&#39;histoire. Apparue dès le milieu du xiie siècle, elle est reconnue par le roi Philippe Auguste en 1200 et par le pape Innocent III en 1215. Elle acquiert rapidement un très grand prestige, notamment dans les domaines de la philosophie et de la théologie. Constituée comme l’association de tous les collèges parisiens situés sur la rive gauche, elle assurait la formation de tous les clercs, c’est-à-dire de tous les cadres et agents administratifs des institutions royales (conseil d’État, parlements, tribunaux, cours des comptes, impôts, etc.) et ecclésiastiques (enseignement, hôpitaux, libraires, recherche, évêques, abbés). L’université de Paris, après une longue période de déclin à l’époque moderne, est supprimée en 1793, et remplacée par des écoles supérieures spécialisées de droit, de médecine, d’ingénieurs, par les écoles normales, etc. Un peu plus d&#39;un siècle plus tard, en 1896, l’université de Paris est réinstituée sur des bases différentes avec quatre facultés (droit, médecine, lettres, sciences), et environ encore un siècle plus tard, en 1971, elle est divisée en treize universités indépendantes. Hormis les établissements situés à la périphérie de Paris, celles de ces universités qui sont proprement parisiennes et issues de l&#39;ancienne université, tendent à se reconstituer en trois ensembles fédérant autour d&#39;eux quelques grandes écoles, Sorbonne Paris Cité (environ 106 000 étudiants), Sorbonne Universités (environ 66 000 étudiants ) et HeSam Université (Hautes Écoles, Sorbonne Arts et Métiers).</dbo:abstract>
+    <dbo:abstract xml:lang="ar">جامعة باريس (بالفرنسية :Université de Paris) تم تأسيس جامعة باريس ونمت في النصف الثاني من القرن الثاني عشر، ولكن في عام 1970 تم إعادة تنظيمها إلى ثلاثة عشر جامعة مستقلة (جامعة باريس الأولى - ثالث عشر). وكثيرا ما يشار إلى جامعة باريس على أنها السوربون بعد مؤسسة (كوليج دو سوربون -Collège de Sorbonne) (تأسست حوالي 1257) مع أن محور جامعة باريس على هذا النحو لم يكن أبداً حول السوربون.</dbo:abstract>
+    <dbo:abstract xml:lang="ja">パリ大学（仏：Université de Paris）は、フランス共和国のパリ、クレテイユおよびヴェルサイユの3大学区にある13の大学の総称である。多くのノーベル賞受賞者を送り出している他、政治学、科学、物理学、神学などの分野で優秀な学者を輩出している。また芸術の教育機関としても名高い。</dbo:abstract>
+    <dbo:city rdf:resource="http://dbpedia.org/resource/Paris" />
+    <dbo:country rdf:resource="http://dbpedia.org/resource/France" />
+    <dbo:motto>Hic et ubique terrarum (Latin)</dbo:motto>
+    <dbo:motto>Here and anywhere on Earth</dbo:motto>
+    <dbo:type rdf:resource="http://dbpedia.org/resource/Public_university" />
+    <dbo:type rdf:resource="http://dbpedia.org/resource/Guild" />
+    <georss:point>48.84861111111111 2.3427777777777776</georss:point>
+    <dbp:campus rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Urban</dbp:campus>
+    <dbp:established rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1896</dbp:established>
+    <dbp:established rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">circa –1793,</dbp:established>
+    <dbp:imageName rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">150</dbp:imageName>
+    <dbp:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">48.8486</dbp:latitude>
+    <dbp:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">2.34278</dbp:longitude>
+    <dbp:pushpinMap rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">France Paris</dbp:pushpinMap>
+    <dbp:pushpinMapCaption rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">The vicinity of the University in Paris</dbp:pushpinMapCaption>
+    <ns10:hypernym rdf:resource="http://dbpedia.org/resource/University" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Paris_8_University">
+    <dbo:affiliation rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jacques_Benoist-Méchin">
+    <dbp:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lucien_Goldmann">
+    <dbp:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nasim_Hasan_Shah">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Archibald_Scott_Couper">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Francisco_Hervé">
+    <dbp:workInstitutions rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gabriel_Marcel">
+    <dbp:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hervé_Bazin">
+    <dbo:education rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Marcel-Paul_Schützenberger">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+    <dbp:workplaces rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nicolas_Courtois">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Peter_Scholl-Latour">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Petru_Poni">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Pierre-Paul_Schweitzer">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Émile_Henriot_(chemist)">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Étienne_Gilson">
+    <dbp:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Antônio_Peregrino_Maciel_Monteiro,_2nd_Baron_of_Itamaracá">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jacques_Guerlain">
+    <dbo:training rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nicușor_Dan">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sorbonne_University_(alliance)">
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/André_Guinier">
+    <dbp:workInstitution rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Clara_Longworth_de_Chambrun">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hiroshi_Nakamura_(biochemist)">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hrachia_Adjarian">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Louis_Dangeard">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+    <dbp:workInstitutions rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Pierre_Dangeard">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+    <dbp:workInstitutions rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/René_de_Chambrun">
+    <dbp:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Stanislas_Leibler">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Émile_Ripert">
+    <dbp:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Dorothea_Klumpke">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Henry_Hu">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Clara_Janés">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mariana_Renata">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vladimir_Jankélévitch">
+    <dbp:institutions rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Charles_Pisot">
+    <dbp:workplaces rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/W._Wirt_Courtney">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Universities_of_Paris_I-XIII">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Robert_Kühner">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mansur_al-Atrash">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mercer_Cook">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Thanh_Hai_Ngo">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gonzalo_Garcés">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/William_of_Luxi">
+    <dbo:education rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/David_Sachs">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/André_Brahic">
+    <dbp:workInstitutions rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bethsabée_de_Rothschild">
+    <dbo:education rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bill_Graham_(Canadian_politician)">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gérard_Huet">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Henri_Cartan">
+    <dbp:workplaces rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jacques-Bénigne_Bossuet">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jean-Pierre_Serre">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/John_Hope_(botanist)">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jules_Tannery">
+    <dbp:workInstitution rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Maryse_Condé">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nicolas_Boileau-Despréaux">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Patrick_Boyle,_10th_Earl_of_Glasgow">
+    <dbp:education rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Raymond_Loewy">
+    <dbo:education rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/René_Thom">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/William_of_Donjeon">
+    <dbp:patronage rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Élie_Cartan">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+    <dbp:workplaces rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Cardinal_Richelieu">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Irène_Joliot-Curie">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+    <dbp:workPlaces rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jean-Luc_Godard">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/John_Turner">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Manuel_Castells">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Simone_de_Beauvoir">
+    <dbp:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Pantheon-Sorbonne_University">
+    <dbo:affiliation rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Paris_Descartes_University">
+    <dbo:affiliation rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Alfonso_Valenzuela-Aguilera">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Claude_Chevalley">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Zygmunt_Janiszewski">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Emmanuel_Le_Roy_Ladurie">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Georges_de_Rham">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Maurice_Allais">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Michel_Butor">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Philippe_Flajolet">
+    <dbp:workplaces rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Aloysius_Varsi">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jean_Cavaillès">
+    <dbp:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lara_Marlowe">
+    <dbo:education rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Peter_Lambeck">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Robert_Marjolin">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ahmedou_Ould-Abdallah">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bariza_Khiari">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Rachid_Nekkaz">
+    <dbp:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sami_Droubi">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Paris_University">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Universite_de_Paris">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/University_Paris">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Simon_Pierre_Tchoungui">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bakhtiar_Amin">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ky_Fan">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tioulong_Saumura">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Philippe_Contamine">
+    <dbo:education rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Adolphe_Chenevière">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jean_Sarazin">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Louky_Bersianik">
+    <dbo:education rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Trinidad_Pardo_de_Tavera">
+    <dbo:education rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ivica_Hiršl">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/La_Sorbonne_University_of_Paris">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Claude_Bernard">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Emmanuel_Levinas">
+    <dbp:institutions rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Florence_Delay">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jean-Baptiste_Colbert">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Léon_Foucault">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Maurice_Schumann">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Michel_Foucault">
+    <dbp:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nikos_Kazantzakis">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sergei_Natanovich_Bernstein">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+    <dbp:workInstitution rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ali_Shariati">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nina_Epton">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jean-François_Dubos">
+    <dbo:education rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jean_Aicardi">
+    <dbo:education rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Marthe_Voegeli">
+    <dbo:education rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mieczysław_Biernacki">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Salim_Sayegh">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Thanat_Khoman">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Alain_Le_Roy">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bertrand_du_Castel">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Esther_Wojcicki">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Patricia_Donoho_Hughes">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Roger_Heim">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Stanislas_Lefebvre_de_Laboulaye">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Claude_Roger-Marx">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Henry_Ussher">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Georges_Rebelo_Chicoti">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Denise_Bellon">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_University_of_Paris">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Alain_de_Benoist">
+    <dbp:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Habib_Bourguiba">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ivonka_Survilla">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Michel_Debré">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vigdís_Finnbogadóttir">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hassan_Al-Turabi">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Albert_Fert">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jean_Dausset">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Luc_Montagnier">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Pierre_Mazeaud">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Viviane_Reding">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Giorgos_Seferis">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jacques_Herbrand">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mahmoud_Hessabi">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Robert_Kilwardby">
+    <dbp:education rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Zahra_Kazemi">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/James_Franklin_Jeffrey">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jean-François_Lyotard">
+    <dbp:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+    <dbp:institutions rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Marsilius_of_Inghen">
+    <dbp:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Charles_Richet">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gabriel_Tarde">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gerald_Stern">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jacques_Hadamard">
+    <dbp:workInstitution rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Joseph-Ignace_Guillotin">
+    <dbo:education rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Pierre_André_Latreille">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Anne_Haverty">
+    <dbo:education rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Susanna_de_Vries">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Boris_Kaufman">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gheorghe_Țițeica">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Henri_Longchambon">
+    <dbp:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Josephat_T._Benoit">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Olivier_Pastré">
+    <dbo:education rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Paul_Langevin">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Simion_Stoilow">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nicolas_Abraham">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Anatole_Abragam">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bernard_d&#39;Espagnat">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+    <dbp:workInstitution rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Elsa_Dax">
+    <dbo:training rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Fu_Lei">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Zhu_Guangqian">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Eduardo_Santos">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jacques_Peyrat">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mohammad_Ali_Mojtahedi">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nicolás_Gómez_Dávila">
+    <dbp:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Roland_Fraïssé">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ziauddin_Ahmad">
+    <dbp:workplaces rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Georges-François-Xavier-Marie_Grente">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Giacomo_da_Viterbo">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Henri_B._Kagan">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Maurice_Couette">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Paul_Malliavin">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Achille_Mbembe">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Paul_Jacques_Malouin">
+    <dbp:workInstitutions rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Georges_Valiron">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+    <dbp:workplaces rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Charles_Napoleon_Moore">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gaspar_Cervantes_de_Gaeta">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jean_Robieux">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nasser_Yeganeh">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Pattipati_Ramaiah_Naidu">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+    <dbp:workInstitutions rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Alyona_Shkrum">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/André_Damien">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mirza_Javad_Khan_Ameri">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mohamed_Al-Sindi">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Joseph_Chevillon">
+    <dbp:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mostafa_Adl">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Farida_Abdulla_Khan">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hervé_Moulin">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nguyen_Dinh_Ngoc">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Henry_Wilfred_Brolemann">
+    <dbp:education rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Émile_Borel">
+    <dbp:workplaces rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Frédéric_Joliot-Curie">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+    <dbp:workPlaces rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gaston_Bachelard">
+    <dbp:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+    <dbp:institutions rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gaston_Julia">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+    <dbp:workplaces rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gaston_Palewski">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Henri_Hauser">
+    <dbo:education rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jacqueline_de_Romilly">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kati_Marton">
+    <dbo:education rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Université_de_Paris">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ting_Mao-shih">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Charles_Le_Gendre">
+    <dbo:education rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lu_Hsiu-yi">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Edmond-René_Labande">
+    <dbp:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jules_Aarons">
+    <dbo:training rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Luiz_Felipe_Pondé">
+    <dbp:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Paris,_University_of">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Layla_Demay">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Şükrü_Elekdağ">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ahmed_Asmat_Abdel-Meguid">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ernest_Vessiot">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+    <dbp:workplaces rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Joely_Fisher">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jovan_Žujović">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Louis_Bachelier">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+    <dbp:workplaces rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Michel_Loève">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+    <dbp:workplaces rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Miriam_Davenport">
+    <dbp:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Habibollah_Hedayat">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Maurice_Nivat">
+    <dbp:workplaces rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Pierra_Vejjabul">
+    <dbo:education rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vladimir_Cristi">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ahmed_Ould_Daddah">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/University_of_Paris_III:_Sorbonne_Nouvelle">
+    <dbo:affiliation rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/François_Jacob">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jean_Baudrillard">
+    <dbp:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Léon_Gambetta">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Audouin_Dollfus">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Celso_Furtado">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+    <dbo:institution rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Dariush_Arjmand">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Dimitri_Kitsikis">
+    <dbp:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jean-Louis_Verdier">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Maurice_Raynaud">
+    <dbo:education rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vũ_Văn_Mẫu">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/William_Louis_Culberson">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Alastair_Denniston">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jean_Aubert_(engineer)">
+    <dbo:education rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Miron_Nicolescu">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nassim_Nicholas_Taleb">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Xenophon_Zolotas">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yves_Pouliquen">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Pierre_Dupuy_(diplomat)">
+    <dbp:education rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sarath_Amunugama">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Alain_Touraine">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Alexandre_Koyré">
+    <dbp:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Anna_J._Cooper">
+    <dbo:education rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Félix_Vicq-d&#39;Azyr">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jean_Désy">
+    <dbo:education rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Paul_David">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Paul_Gervais">
+    <dbp:workInstitutions rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yves_Bonnefoy">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Otto_Hönigschmid">
+    <dbp:workInstitution rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Alaa_al-Tamimi">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/André_Lichnerowicz">
+    <dbp:workplaces rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Egon_Börger">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Koffi_Olomide">
+    <dbp:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Pierre_Samuel">
+    <dbp:workplaces rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yang_Jiang">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/La_Sorbonne">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/University_of_Sorbonne">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Enriqueta_Favez">
+    <dbo:education rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/William_Alexander_Robb_Kerr">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Universities_of_Paris">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nikol_Aghbalian">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Pio_Laporte">
+    <dbo:education rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Susan_Sellers">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mohamed_Bennouna">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Dominique_Foata">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Joaquim_de_Sousa_Andrade">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Max_Beauvoir">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Robert_M._Strozier">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Serafima_Hopner">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yves-Alexandre_Tripković">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/René_Marcelin">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Penelope_Deutscher">
+    <dbp:institutions rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Xu_Teli">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Auguste_Duméril">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gérard_Debreu">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gérard_de_Vaucouleurs">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Niède_Guidon">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Philip_Hartog">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sarah_Kofman">
+    <dbp:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Pierre_Raymond">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Victor_Henri">
+    <dbp:workplaces rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/María_Isabel_Soldevila">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Luis_López_Álvarez">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Francisco_Rezek">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/José_Enrique_Moyal">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Latife_Uşşaki">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Şükrü_Kaya">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Paul_Ricœur">
+    <dbp:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+    <dbp:institutions rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Peng_Ming-min">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Michel_Camdessus">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Victoria_Ocampo">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sorbonne_University">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bruno_Stagno_Ugarte">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Carl_Leverkus">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jean_Kuntzmann">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jacques_Dixmier">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+    <dbp:workplaces rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jon_Winroth">
+    <dbo:education rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Louis_Émile_Javal">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+    <dbp:workInstitutions rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Parviz_Varjavand">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Óscar_Moreno">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+    <dbp:workInstitutions rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Margaret_Wileman">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jean-Alfred_Gautier">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nikolaus_von_Laun">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Paul_Segond">
+    <dbo:education rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Paul-Gilbert_Langevin">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Elíseo_Arango_Ramos">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Froilano_de_Mello">
+    <dbp:workInstitution rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Köksal_Önem">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Maria_Pavlova">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Samuel_Lucien_Terrien">
+    <dbo:education rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Robert_de_Lasteyrie">
+    <dbp:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gilbert_de_Chambrun">
+    <dbp:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/University_of_the_Sorbonne">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Collège_du_Plessis">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Faculté_de_médecine_de_Paris">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/University_of_Paris">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/University_of_Paris" />
+  </rdf:Description>
+</rdf:RDF>

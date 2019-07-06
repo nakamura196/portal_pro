@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:dct="http://purl.org/dc/terms/"
+	xmlns:dbo="http://dbpedia.org/ontology/"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:prov="http://www.w3.org/ns/prov#" >
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Table_of_Contents">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Table_of_contents" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Content">
+    <dbo:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/Table_of_contents" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Table_of_content">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Table_of_contents" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/TOC">
+    <dbo:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/Table_of_contents" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Table_of_contents">
+    <rdfs:label xml:lang="de">Inhaltsverzeichnis</rdfs:label>
+    <rdfs:label xml:lang="pl">Spis treści</rdfs:label>
+    <rdfs:label xml:lang="ar">فهرس</rdfs:label>
+    <rdfs:label xml:lang="ja">目次</rdfs:label>
+    <rdfs:label xml:lang="pt">Índice de conteúdo</rdfs:label>
+    <rdfs:label xml:lang="nl">Inhoudsopgave</rdfs:label>
+    <rdfs:label xml:lang="en">Table of contents</rdfs:label>
+    <rdfs:label xml:lang="ru">Оглавление</rdfs:label>
+    <rdfs:label xml:lang="it">Indice (editoria)</rdfs:label>
+    <rdfs:label xml:lang="fr">Sommaire</rdfs:label>
+    <rdfs:label xml:lang="es">Sumario</rdfs:label>
+    <rdfs:comment xml:lang="it">L&#39;indice dei contenuti (più semplicemente indice o sommario) è un elenco dei capitoli, delle parti o comunque dei contenuti di un libro o di un documento bibliografico. Ordinato nella sequenza in cui appaiono i capitoli stessi, l&#39;indice contiene i titoli o le descrizioni delle intestazioni di primo livello, come i titoli dei capitoli in opere più lunghe. Spesso include anche le intestazioni di secondo livello o i titoli delle sezioni in cui sono suddivisi i vari capitoli, e talvolta anche le intestazioni di terzo livello (sottosezioni).</rdfs:comment>
+    <rdfs:comment xml:lang="fr">La table des matières est une liste organisée des titres de chapitres et de sections d’un livre ou document, permettant au lecteur de s&#39;orienter rapidement dans l’ouvrage. Elle est à distinguer du sommaire, qui dans les revues comporte les titres des articles et les noms de leurs auteurs. Le sommaire des magazines et journaux peut parfois contenir un bref résumé; il est toujours placé en début. Dans les versions informatisées, les titres renvoient directement au contenu par un hyperlien.</rdfs:comment>
+    <rdfs:comment xml:lang="pt">Uma índice de conteúdo é uma lista das partes de um livro ou documento organizado pela ordem em que as partes aparecem. O directório geralmente inclui (pelo menos) os títulos ou descrições dos cabeçalhos de primeiro nível.</rdfs:comment>
+    <rdfs:comment xml:lang="ja">目次（もくじ、英: table of contents）は、書籍や論文などの比較的長い文書にある見出しをまとめて整理し、（書かれた順番に）書き並べたリストである。その文書の要約、索引の役割も果たす。</rdfs:comment>
+    <rdfs:comment xml:lang="ru">Оглавле́ние — указатель заголовков издания. Оглавление ускоряет поиск частей издания (глав, параграфов, примечаний, и т. д.). В отличие от содержания, оглавление раскрывает в первую очередь строение произведения в моноиздании (роман, повесть, и т. д.) или только строение сборника (из каких частей или разделов он состоит).</rdfs:comment>
+    <rdfs:comment xml:lang="ar">الفهرس أو الفهرست هو قائمة المحتويات للكتب، وقد جاء في معجم لسان العرب معنى كلمة فهرس على النحو التالي: الفهرس هو الكتاب الذي تجمع فيه الكتب. ويبدو واضحاً أن مفهوم الفهرس قديماً كان يعني ضمن ما يعنيه قائمة المحتويات للكتاب علماً بأن الفرق كبير بينهما.</rdfs:comment>
+    <rdfs:comment xml:lang="en">A table of contents, usually headed simply &quot;Contents&quot; and abbreviated informally as TOC, is a list, usually found on a page before the start of a written work, of its chapter or section titles or brief descriptions with their commencing page numbers.</rdfs:comment>
+    <rdfs:comment xml:lang="es">El sumario, también conocido como índice de materias o tabla de contenido, es una lista de las secciones (tomos, partes, capítulos…) de un libro o una revista ordenadas según la sucesión en que estas aparecen a lo largo del documento, indicando el número de página correspondiente al inicio de cada una. Tiene la finalidad de facilitar la localización de la información dada en cada sección.</rdfs:comment>
+    <rdfs:comment xml:lang="de">Ein Inhaltsverzeichnis (kurz IHV) ist ein stichwortartiges Verzeichnis. Es gibt einen Überblick zum Inhalt eines Mediums.</rdfs:comment>
+    <rdfs:comment xml:lang="pl">Spis treści – zestawienie tytułów i śródtytułów rozmaitego szczebla, wyróżniających rozdziały i podrozdziały, ujęte w postaci oddzielnego wykazu, najczęściej na osobnej stronie, pełniące rolę podstawowego przewodnika po zawartości dokumentu.</rdfs:comment>
+    <rdfs:comment xml:lang="nl">Een inhoudsopgave is een overzicht van alle hoofdstukken en paragrafen van een papieren boek, tijdschrift of document of van een niet-papieren document, waarbij de bladzijdenummers vermeld zijn. Een dergelijk overzicht maakt het makkelijk om een deel van de tekst gemakkelijk te kunnen vinden en geeft duidelijkheid over de structuur van het werk.</rdfs:comment>
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q1456936" />
+    <owl:sameAs rdf:resource="http://it.dbpedia.org/resource/Indice_(editoria)" />
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q1456936" />
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.01pt37" />
+    <owl:sameAs rdf:resource="http://el.dbpedia.org/resource/Πίνακας_περιεχομένων" />
+    <owl:sameAs rdf:resource="http://pl.dbpedia.org/resource/Spis_treści" />
+    <owl:sameAs rdf:resource="http://ja.dbpedia.org/resource/目次" />
+    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/Inhaltsverzeichnis" />
+    <owl:sameAs rdf:resource="http://ko.dbpedia.org/resource/목차" />
+    <owl:sameAs rdf:resource="http://fr.dbpedia.org/resource/Sommaire" />
+    <owl:sameAs rdf:resource="http://es.dbpedia.org/resource/Sumario" />
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Table_of_contents" />
+    <owl:sameAs rdf:resource="http://pt.dbpedia.org/resource/Índice_de_conteúdo" />
+    <owl:sameAs rdf:resource="http://nl.dbpedia.org/resource/Inhoudsopgave" />
+    <owl:sameAs rdf:resource="http://d-nb.info/gnd/4616899-0" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Book_design" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Technical_communication" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Index_(publishing)" />
+    <dbo:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">284170</dbo:wikiPageID>
+    <dbo:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">743919647</dbo:wikiPageRevisionID>
+    <dbo:wikiPageExternalLink rdf:resource="http://penelope.uchicago.edu/Thayer/L/Roman/Texts/Pliny_the_Elder/1*.html" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.perseus.tufts.edu/hopper/text.jsp?doc=Perseus:text:1999.02.0137" />
+    <foaf:depiction rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Table_of_Contents_PANARCHIE_published_in_1860.JPG" />
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Table_of_contents" />
+    <dbo:thumbnail rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Table_of_Contents_PANARCHIE_published_in_1860.JPG?width=300" />
+    <prov:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Table_of_contents?oldid=743919647" />
+    <dbo:abstract xml:lang="ja">目次（もくじ、英: table of contents）は、書籍や論文などの比較的長い文書にある見出しをまとめて整理し、（書かれた順番に）書き並べたリストである。その文書の要約、索引の役割も果たす。</dbo:abstract>
+    <dbo:abstract xml:lang="pt">Uma índice de conteúdo é uma lista das partes de um livro ou documento organizado pela ordem em que as partes aparecem. O directório geralmente inclui (pelo menos) os títulos ou descrições dos cabeçalhos de primeiro nível.</dbo:abstract>
+    <dbo:abstract xml:lang="nl">Een inhoudsopgave is een overzicht van alle hoofdstukken en paragrafen van een papieren boek, tijdschrift of document of van een niet-papieren document, waarbij de bladzijdenummers vermeld zijn. Een dergelijk overzicht maakt het makkelijk om een deel van de tekst gemakkelijk te kunnen vinden en geeft duidelijkheid over de structuur van het werk. In tegenstelling tot de index bevindt de inhoudsopgave zich vóór de eigenlijke tekst van het boek of document. De inhoudsopgave wordt doorgaans na de titelpagina en het voorwoord geplaatst. Als een boek figuren of tabellen bevat, worden die doorgaans in een apart overzicht direct na de inhoudsopgave opgesomd.</dbo:abstract>
+    <dbo:abstract xml:lang="en">A table of contents, usually headed simply &quot;Contents&quot; and abbreviated informally as TOC, is a list, usually found on a page before the start of a written work, of its chapter or section titles or brief descriptions with their commencing page numbers.</dbo:abstract>
+    <dbo:abstract xml:lang="fr">La table des matières est une liste organisée des titres de chapitres et de sections d’un livre ou document, permettant au lecteur de s&#39;orienter rapidement dans l’ouvrage. Elle est à distinguer du sommaire, qui dans les revues comporte les titres des articles et les noms de leurs auteurs. Le sommaire des magazines et journaux peut parfois contenir un bref résumé; il est toujours placé en début. Dans les versions informatisées, les titres renvoient directement au contenu par un hyperlien.</dbo:abstract>
+    <dbo:abstract xml:lang="ru">Оглавле́ние — указатель заголовков издания. Оглавление ускоряет поиск частей издания (глав, параграфов, примечаний, и т. д.). В отличие от содержания, оглавление раскрывает в первую очередь строение произведения в моноиздании (роман, повесть, и т. д.) или только строение сборника (из каких частей или разделов он состоит).</dbo:abstract>
+    <dbo:abstract xml:lang="pl">Spis treści – zestawienie tytułów i śródtytułów rozmaitego szczebla, wyróżniających rozdziały i podrozdziały, ujęte w postaci oddzielnego wykazu, najczęściej na osobnej stronie, pełniące rolę podstawowego przewodnika po zawartości dokumentu. W programach komputerowych, takich jak procesory tekstu czy programy do składu i łamania, tworzenie spisów treści jest w wysokim stopniu zautomatyzowane i polega na samoczynnym zebraniu przez edytor wszystkich fragmentów tekstu pełniących rolę tytułów i śródtytułów i umieszczeniu zestawienia w miejscu wskazanym przez autora dokumentu. Najczęściej tworzenie spisu treści opiera się na stylach wyróżnionych jako tytuły. Lista tytułów jest hierarchicznie uporządkowana i opatrzona numerami stron, na których te tytuły się pojawiają. Istotne znaczenie w procesie tworzenia spisu treści ma możliwość automatycznego aktualizowania spisu treści za każdym razem, gdy zmieni się zawartość tytułu lub śródtytułu oraz jego położenie w dokumencie. Po wydaniu polecenia aktualizacji program komputerowy generuje na nowo spis. Pozwala to zachować pełną aktualność spisu po wprowadzeniu poprawek i uzupełnień w dokumencie.</dbo:abstract>
+    <dbo:abstract xml:lang="it">L&#39;indice dei contenuti (più semplicemente indice o sommario) è un elenco dei capitoli, delle parti o comunque dei contenuti di un libro o di un documento bibliografico. Ordinato nella sequenza in cui appaiono i capitoli stessi, l&#39;indice contiene i titoli o le descrizioni delle intestazioni di primo livello, come i titoli dei capitoli in opere più lunghe. Spesso include anche le intestazioni di secondo livello o i titoli delle sezioni in cui sono suddivisi i vari capitoli, e talvolta anche le intestazioni di terzo livello (sottosezioni).</dbo:abstract>
+    <dbo:abstract xml:lang="ar">الفهرس أو الفهرست هو قائمة المحتويات للكتب، وقد جاء في معجم لسان العرب معنى كلمة فهرس على النحو التالي: الفهرس هو الكتاب الذي تجمع فيه الكتب. ويبدو واضحاً أن مفهوم الفهرس قديماً كان يعني ضمن ما يعنيه قائمة المحتويات للكتاب علماً بأن الفرق كبير بينهما.</dbo:abstract>
+    <dbo:abstract xml:lang="es">El sumario, también conocido como índice de materias o tabla de contenido, es una lista de las secciones (tomos, partes, capítulos…) de un libro o una revista ordenadas según la sucesión en que estas aparecen a lo largo del documento, indicando el número de página correspondiente al inicio de cada una. Tiene la finalidad de facilitar la localización de la información dada en cada sección.</dbo:abstract>
+    <dbo:abstract xml:lang="de">Ein Inhaltsverzeichnis (kurz IHV) ist ein stichwortartiges Verzeichnis. Es gibt einen Überblick zum Inhalt eines Mediums.</dbo:abstract>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tables_of_contents">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Table_of_contents" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Contents_of_books">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Table_of_contents" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Table_of_contents">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Table_of_contents" />
+  </rdf:Description>
+</rdf:RDF>

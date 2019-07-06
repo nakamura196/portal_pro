@@ -1,0 +1,337 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:dct="http://purl.org/dc/terms/"
+	xmlns:dbo="http://dbpedia.org/ontology/"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	xmlns:prov="http://www.w3.org/ns/prov#"
+	xmlns:dbp="http://dbpedia.org/property/"
+	xmlns:georss="http://www.georss.org/georss/"
+	xmlns:ns10="http://purl.org/linguistics/gold/" >
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Koichi_Tanaka">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/Tohoku_University" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hideki_Sakurai">
+    <dbp:workInstitution rdf:resource="http://dbpedia.org/resource/Tohoku_University" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Fumihiko_Imamura">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/Tohoku_University" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hitoshi_Goto">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/Tohoku_University" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Diwata-1">
+    <dbp:manufacturer rdf:resource="http://dbpedia.org/resource/Tohoku_University" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jiří_Horáček">
+    <dbp:workInstitution rdf:resource="http://dbpedia.org/resource/Tohoku_University" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kōshū_Itabashi">
+    <dbp:education rdf:resource="http://dbpedia.org/resource/Tohoku_University" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Susumu_Satomi">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/Tohoku_University" />
+    <dbp:employer rdf:resource="http://dbpedia.org/resource/Tohoku_University" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Akira_Koike">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/Tohoku_University" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yukio_Edano">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/Tohoku_University" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tohoku_Imperial_University">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Tohoku_University" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yeom_Han-woong">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/Tohoku_University" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Masatoshi_Shima">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/Tohoku_University" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tōhoku_University">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Tohoku_University" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tohoku_University">
+    <rdf:type rdf:resource="http://schema.org/CollegeOrUniversity" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Institution108053576" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatEducationalInstitutionsEstablishedIn1907" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatUniversitiesAndCollegesInMiyagiPrefecture" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoPermanentlyLocatedEntity" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Organisation" />
+    <rdf:type rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent" />
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing" />
+    <rdf:type rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#SocialPerson" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/EducationalInstitution" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatJapaneseNationalUniversities" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Agent" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/EducationalInstitution108276342" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatNationalSevenUniversities" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q3918" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatUniversitiesAndCollegesInJapan" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q43229" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoLegalActor" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoLegalActorGeo" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/University" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/University108286569" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q24229398" />
+    <rdf:type rdf:resource="http://schema.org/Organization" />
+    <rdf:type rdf:resource="http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/SocialGroup107950920" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Group100031264" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Organization108008335" />
+    <rdf:type rdf:resource="http://schema.org/EducationalOrganization" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Abstraction100002137" />
+    <rdfs:label xml:lang="it">Università del Tōhoku</rdfs:label>
+    <rdfs:label xml:lang="ru">Университет Тохоку</rdfs:label>
+    <rdfs:label xml:lang="en">Tohoku University</rdfs:label>
+    <rdfs:label xml:lang="es">Universidad de Tohoku</rdfs:label>
+    <rdfs:label xml:lang="pl">Uniwersytet Tohoku</rdfs:label>
+    <rdfs:label xml:lang="ja">東北大学</rdfs:label>
+    <rdfs:label xml:lang="zh">东北大学 (日本)</rdfs:label>
+    <rdfs:label xml:lang="de">Universität Tōhoku</rdfs:label>
+    <rdfs:label xml:lang="pt">Universidade de Tohoku</rdfs:label>
+    <rdfs:label xml:lang="fr">Université du Tōhoku</rdfs:label>
+    <rdfs:comment xml:lang="zh">東北大學（日语：東北大学／とうほくだいがく Tōhoku daigaku；英語譯名：Tohoku University），簡稱東北大，是一所本部位於日本东北地区仙台市的國立研究型綜合大學。東北大前身是舊制帝国大学－東北帝國大學（1907年），起源於1736年的仙台藩藩校「明倫養賢堂」。 東北大是世界材料學中心，也是曾經接待爱因斯坦的物理學名校與光通信發祥之地。校友包括諾貝爾化學獎得主、拉斯克奖得主與日本第一個IEEE愛迪生獎章得主。知名留學生有文豪魯迅以及復旦、臺大、清華等名校的校長。</rdfs:comment>
+    <rdfs:comment xml:lang="de">Die Universität Tōhoku (jap. 東北大学, Tōhoku Daigaku, auch abgekürzt als 東北大, Tōhokudai), befindet sich in Sendai, in der Präfektur Miyagi und ist eine der angesehensten staatlichen Universitäten in Japan. Sie hat insgesamt 10 Fakultäten und über 16.000 Studenten (Stand 2015). In den Jahren 1936 bis 1941 lehrte an der Kaiserlichen Universität der aus Deutschland geflüchtete, jüdische Philosoph Karl Löwith, bis er auch von hier vertrieben, 1941 in die USA ging. Zu den Absolventen der Universität gehört Kōichi Tanaka, der 2002 den Nobelpreis für Chemie erhielt. 
+* Verwaltungsgebäude 
+* 
+*</rdfs:comment>
+    <rdfs:comment xml:lang="fr">L&#39;université du Tōhoku (東北大学, Tōhoku daigaku), souvent abrégé en Tōhokudai (東北大), est une université japonaise située à Sendai, dans la préfecture de Miyagi dans la région du Tōhoku. Elle a été fondée en 1907 comme l&#39;une des universités impériales du Japon et appartient depuis 2004 à l&#39;association des universités nationales du Japon. Parmi les personnalités liées à l’université, un ancien étudiant a obtenu un prix Nobel et un autre un prix Albert-Lasker, et plusieurs inventions comme l&#39;antenne Yagi-Uda ou la mémoire flash ont en partie été développées par des chercheurs de l&#39;établissement.</rdfs:comment>
+    <rdfs:comment xml:lang="pl">Uniwersytet Tohoku (jap. 東北大学 Tōhoku Daigaku) − jeden z prestiżowych, państwowych uniwersytetów w Japonii, z siedzibą w mieście Sendai, w prefekturze Miyagi (region Tōhoku). Posiada 10 wydziałów. W 2003 na uniwersytecie studiowało około 15 tys. studentów. Uniwersytet został założony w 1907 pod nazwą &quot;Cesarski Uniwersytet Tohoku&quot; (東北帝國大學 Tōhoku Teikoku Daigaku). Na początku posiadał trzy wydziały: Rolnictwa, Nauk Ścisłych i Medycyny. W latach 1919 został rozszerzony o Wydział Inżynierii, a w 1922 - Literatury.</rdfs:comment>
+    <rdfs:comment xml:lang="ja">東北大学（とうほくだいがく、英語: Tohoku University）は、宮城県仙台市青葉区片平二丁目1番1号に本部を置く日本の国立大学である。1907年に設置された。大学の略称は特になく、東北大と呼ばれる。トンペイと呼ばれることもある。</rdfs:comment>
+    <rdfs:comment xml:lang="es">La Universidad de Tohoku, emplazada en la ciudad de Sendai (Japón) es una de las 9 universidades imperiales de Japón (ubicadas 7 en Japón, 1 en Corea y 1 en Taiwán).</rdfs:comment>
+    <rdfs:comment xml:lang="it">L&#39;Università del Tohoku (東北大学 Tōhoku daigaku?) è una università giapponese nazionale situata nella città di Sendai. È la terza università imperiale più antica del Giappone, ed è membro del gruppo delle Sette università nazionali. Considerata tra gli atenei asiatici più prestigiosi, è anche tra le prime 50 università del mondo. Nel 2009, l&#39;università disponeva di dieci campus e 15 dipartimenti, per un totale di 17.949 studenti iscritti.</rdfs:comment>
+    <rdfs:comment xml:lang="en">Tohoku University (東北大学 (東北帝國大學 prior to 1945) Tōhoku daigaku), abbreviated to Tohokudai (東北大 Tōhokudai), located in Sendai, Miyagi in the Tōhoku Region, Japan, is a Japanese national university. It is the third oldest Imperial University in Japan and among the National Seven Universities. It is considered one of the most prestigious universities in Japan, and one of the top fifty universities in the world.</rdfs:comment>
+    <rdfs:comment xml:lang="ru">Университет Тохоку (яп. 東北大学 То:хоку дайгаку) — университет в Японии. Расположен в городе Сендай префектуры Мияги в регионе Тохоку, на северо-востоке острова Хонсю. Тохоку — национальный университет, один из семи императорских университетов и третий императорский университет по времени основания (1907 год, после Токийского и Киотского университетов). В 2009 году университет Тохоку занимал 40-е место в мировом рейтинге Global Universities Ranking. В другом мировом рейтинге, QS World University Rankings, в 2010 году занял 102-е место.</rdfs:comment>
+    <rdfs:comment xml:lang="pt">A Universidade de Tohoku (東北大学, Tōhoku Daigaku, abreviado como 東北大, Tōhokudai), localizada em Sendai, Miyagi, na região de Tohoku, é uma universidade japonesa. Ela foi fundada em 1907 e foi a primeira universidade japonesa a aceitar inscrições de alunas em 1913. Ela é a terceira mais antiga do Japão, é membro do grupo das Sete Universidades Nacionais. É considerada uma das mais prestigiosas do Japão e uma das setenta mais importantes do Mundo.</rdfs:comment>
+    <owl:sameAs rdf:resource="http://fr.dbpedia.org/resource/Université_du_Tōhoku" />
+    <owl:sameAs rdf:resource="http://id.dbpedia.org/resource/Universitas_Tohoku" />
+    <owl:sameAs rdf:resource="http://ko.dbpedia.org/resource/도호쿠_대학" />
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.02rgxz" />
+    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/Universität_Tōhoku" />
+    <owl:sameAs rdf:resource="http://pl.dbpedia.org/resource/Uniwersytet_Tohoku" />
+    <owl:sameAs rdf:resource="http://es.dbpedia.org/resource/Universidad_de_Tohoku" />
+    <owl:sameAs rdf:resource="http://d-nb.info/gnd/1011510-9" />
+    <owl:sameAs rdf:resource="http://it.dbpedia.org/resource/Università_del_Tōhoku" />
+    <owl:sameAs rdf:resource="http://yago-knowledge.org/resource/Tohoku_University" />
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q1062129" />
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q1062129" />
+    <owl:sameAs rdf:resource="http://ja.dbpedia.org/resource/東北大学" />
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Tohoku_University" />
+    <owl:sameAs rdf:resource="http://pt.dbpedia.org/resource/Universidade_de_Tohoku" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Tohoku_University" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Universities_and_colleges_in_Miyagi_Prefecture" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:National_Seven_Universities" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Educational_institutions_established_in_1907" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:1907_establishments_in_Japan" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Japanese_national_universities" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Buildings_and_structures_in_Sendai" />
+    <dbo:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">573744</dbo:wikiPageID>
+    <dbo:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">745103316</dbo:wikiPageRevisionID>
+    <dbo:wikiPageExternalLink rdf:resource="http://www.econ.tohoku.ac.jp/econ/english/ipem/ipem.pdf" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.agri.tohoku.ac.jp/amb/" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.kankyo.tohoku.ac.jp/en/g30.html" />
+    <dbo:wikiPageExternalLink rdf:resource="http://campus.bureau.tohoku.ac.jp/en_tu_campus.php" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.lifesci.tohoku.ac.jp/english/g30/global30.html" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.fgl.tohoku.ac.jp/grad_std/gsics/index.shtml" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.fgl.tohoku.ac.jp/grad_std/gsis/index.shtml" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.fgl.tohoku.ac.jp/" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.fgl.tohoku.ac.jp/grad_std/iohs/index.shtml" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.fgl.tohoku.ac.jp/grad_std/nm/index.shtml" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.sci.tohoku.ac.jp/english/igpas/" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.eng.tohoku.ac.jp/english/admission/pdf/ap_imse-2009.pdf" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.eng.tohoku.ac.jp/english/program/?menu=itn" />
+    <dbo:wikiPageExternalLink rdf:resource="http://human-security.jp/" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.bureau.tohoku.ac.jp/koho/pub/annual_review/tu2006-english.pdf/" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.tohoku.ac.jp/english/contact/contact.html/" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.tohoku.ac.jp/english/index.html" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.econ.tohoku.ac.jp/econ/IGSAP/english/index.shtml" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.sci.tohoku.ac.jp/amc/" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.fgl.tohoku.ac.jp/grad_std/bm/index.shtml" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.tohoku.ac.jp/english/" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.istu.jp/en/index.html" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.hosp.tohoku.ac.jp/" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.university-house-sanjo.info/index.html" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.uni.international.mext.go.jp/university_list/" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.bureau.tohoku.ac.jp/kenkyo/global-coe/global-coe.html" />
+    <dbo:wikiPageExternalLink rdf:resource="http://g30.eng.tohoku.ac.jp/imac/" />
+    <foaf:name xml:lang="en">Tohoku University</foaf:name>
+    <foaf:homepage rdf:resource="http://www.tohoku.ac.jp/english/" />
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#float">38.2542</geo:lat>
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#float">140.874</geo:long>
+    <foaf:depiction rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Graduate_School_of_Science_and_Faculty_of_Science,_Tohoku_University_2010-06-25.JPG" />
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Tohoku_University" />
+    <geo:geometry rdf:datatype="http://www.openlinksw.com/schemas/virtrdf#Geometry">POINT(140.8736114502 38.254165649414)</geo:geometry>
+    <dbo:thumbnail rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Graduate_School_of_Science_and_Faculty_of_Science,_Tohoku_University_2010-06-25.JPG?width=300" />
+    <prov:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Tohoku_University?oldid=745103316" />
+    <dbo:abstract xml:lang="en">Tohoku University (東北大学 (東北帝國大學 prior to 1945) Tōhoku daigaku), abbreviated to Tohokudai (東北大 Tōhokudai), located in Sendai, Miyagi in the Tōhoku Region, Japan, is a Japanese national university. It is the third oldest Imperial University in Japan and among the National Seven Universities. It is considered one of the most prestigious universities in Japan, and one of the top fifty universities in the world. In 2009, Tohoku University had ten colleges within the university, including fifteen departments with graduate students, with a total enrollment of 17,949 students. The university&#39;s three core values are &quot;Research First (研究第一主義),&quot; &quot;Open-Door (門戸開放),&quot; and &quot;Practice-Oriented Research and Education (実学尊重).&quot;</dbo:abstract>
+    <dbo:abstract xml:lang="de">Die Universität Tōhoku (jap. 東北大学, Tōhoku Daigaku, auch abgekürzt als 東北大, Tōhokudai), befindet sich in Sendai, in der Präfektur Miyagi und ist eine der angesehensten staatlichen Universitäten in Japan. Sie hat insgesamt 10 Fakultäten und über 16.000 Studenten (Stand 2015). Die Universität wurde im Jahre 1907 unter dem Namen Kaiserliche Universität Tōhoku (東北帝国大学, Tōhoku Teikoku Daigaku) als eine der Neun kaiserlichen Universitäten gegründet. Zum Gründungszeitpunkt gab es die Studienbereiche Agrarwirtschaft, Wissenschaft und Medizin. Im Jahre 1918 wurde der Bereich der Agrarwirtschaft zur Universität Hokkaidō verselbständigt und in den Jahren 1919 und 1922 kamen die Bereiche Literatur, Recht und Ingenieurwesen hinzu. In den folgenden Jahren kamen die Bereiche Pädagogik (1949), Zahnmedizin (1965) und Pharmazeutik (1972) hinzu. In den technischen Laboratorien der Universität Tōhoku haben (beginnend 1924) Professor Yagi Hidetsugu und sein Assistent Uda Shintarō die erste richtungsempfindliche Antenne (Yagi-Uda-Antenne) entwickelt. Diese Neuerung hatte weitreichende Auswirkungen auf den Amateurfunk, die Radartechnik sowie auf den Radio- und Fernseh-Rundfunk. In den Jahren 1936 bis 1941 lehrte an der Kaiserlichen Universität der aus Deutschland geflüchtete, jüdische Philosoph Karl Löwith, bis er auch von hier vertrieben, 1941 in die USA ging. Zu den Absolventen der Universität gehört Kōichi Tanaka, der 2002 den Nobelpreis für Chemie erhielt. Das große Tōhoku-Erdbeben 2011 und der nachfolgende Tsunami, von denen Sendai stark betroffen war, haben den Lehrbetrieb der Universität beeinflusst, sodass der Beginn des Sommersemesters auf den 6. Mai 2011 verlegt werden musste. 
+* Verwaltungsgebäude 
+* Graduate school of science 
+* Katahira-Nordeingang</dbo:abstract>
+    <dbo:abstract xml:lang="it">L&#39;Università del Tohoku (東北大学 Tōhoku daigaku?) è una università giapponese nazionale situata nella città di Sendai. È la terza università imperiale più antica del Giappone, ed è membro del gruppo delle Sette università nazionali. Considerata tra gli atenei asiatici più prestigiosi, è anche tra le prime 50 università del mondo. Nel 2009, l&#39;università disponeva di dieci campus e 15 dipartimenti, per un totale di 17.949 studenti iscritti.</dbo:abstract>
+    <dbo:abstract xml:lang="ru">Университет Тохоку (яп. 東北大学 То:хоку дайгаку) — университет в Японии. Расположен в городе Сендай префектуры Мияги в регионе Тохоку, на северо-востоке острова Хонсю. Тохоку — национальный университет, один из семи императорских университетов и третий императорский университет по времени основания (1907 год, после Токийского и Киотского университетов). Университет разделён на десять факультетов. В 2009 году в нём обучалось 17949 студентов. Деятельность университета зиждется на трёх принципах: приоритет исследовательской деятельности (研究第一主義), открытость (門戸開放) и практически ориентированные исследования и образование (実学尊重). В 2009 году университет Тохоку занимал 40-е место в мировом рейтинге Global Universities Ranking. В другом мировом рейтинге, QS World University Rankings, в 2010 году занял 102-е место. В 2009 году Тохоку стал одним из 13 университетов, отобранных японским правительством для внедрения международного обучения. В настоящее время в университете ведётся преподавание на английском языке по 30 специальностям на разных уровнях.</dbo:abstract>
+    <dbo:abstract xml:lang="es">La Universidad de Tohoku, emplazada en la ciudad de Sendai (Japón) es una de las 9 universidades imperiales de Japón (ubicadas 7 en Japón, 1 en Corea y 1 en Taiwán).</dbo:abstract>
+    <dbo:abstract xml:lang="fr">L&#39;université du Tōhoku (東北大学, Tōhoku daigaku), souvent abrégé en Tōhokudai (東北大), est une université japonaise située à Sendai, dans la préfecture de Miyagi dans la région du Tōhoku. Elle a été fondée en 1907 comme l&#39;une des universités impériales du Japon et appartient depuis 2004 à l&#39;association des universités nationales du Japon. L&#39;université compte trois campus principaux répartis à Sendai, plus précisément à Katahira, Seiryo et dans la zone Kawauchi-Aobayama. Elle forme quelque 18 225 étudiants, dont 1 511 étrangers, et compte 5 819 personnes travaillant dans des activités liées à la recherche ou à l&#39;enseignement. Elle est structurée en dix facultés pour le 1er cycle et quinze pour les cycles suivants. Elle compte par ailleurs plusieurs infrastructures, dont un hôpital, un service de bibliothèques comptant plus de 3,8 millions de titres, ainsi qu&#39;un musée. Parmi les personnalités liées à l’université, un ancien étudiant a obtenu un prix Nobel et un autre un prix Albert-Lasker, et plusieurs inventions comme l&#39;antenne Yagi-Uda ou la mémoire flash ont en partie été développées par des chercheurs de l&#39;établissement.</dbo:abstract>
+    <dbo:abstract xml:lang="pl">Uniwersytet Tohoku (jap. 東北大学 Tōhoku Daigaku) − jeden z prestiżowych, państwowych uniwersytetów w Japonii, z siedzibą w mieście Sendai, w prefekturze Miyagi (region Tōhoku). Posiada 10 wydziałów. W 2003 na uniwersytecie studiowało około 15 tys. studentów. Uniwersytet został założony w 1907 pod nazwą &quot;Cesarski Uniwersytet Tohoku&quot; (東北帝國大學 Tōhoku Teikoku Daigaku). Na początku posiadał trzy wydziały: Rolnictwa, Nauk Ścisłych i Medycyny. W latach 1919 został rozszerzony o Wydział Inżynierii, a w 1922 - Literatury. W 1918 Wydział Rolnictwa został wyłączony, aby stworzyć odrębny Uniwersytet Hokkaido. Po II wojnie światowej (w 1947) uniwersytet przyjął obecną nazwę i został na nowo rozszerzony o Wydział Rolnictwa. Ponadto, w 1949 dawny Wydział Prawa i Literatury został podzielony na wydziały: Prawa, Literatury i Ekonomii. Kolejne wydziały były dodawane w następującej kolejności: Pedagogiczny w 1949, Stomatologii w 1965, Farmacji w 1972. Od kwietnia 2004 Uniwersytet Tohoku jest państwową korporacją uniwersytecką.</dbo:abstract>
+    <dbo:abstract xml:lang="ja">東北大学（とうほくだいがく、英語: Tohoku University）は、宮城県仙台市青葉区片平二丁目1番1号に本部を置く日本の国立大学である。1907年に設置された。大学の略称は特になく、東北大と呼ばれる。トンペイと呼ばれることもある。</dbo:abstract>
+    <dbo:abstract xml:lang="pt">A Universidade de Tohoku (東北大学, Tōhoku Daigaku, abreviado como 東北大, Tōhokudai), localizada em Sendai, Miyagi, na região de Tohoku, é uma universidade japonesa. Ela foi fundada em 1907 e foi a primeira universidade japonesa a aceitar inscrições de alunas em 1913. Ela é a terceira mais antiga do Japão, é membro do grupo das Sete Universidades Nacionais. É considerada uma das mais prestigiosas do Japão e uma das setenta mais importantes do Mundo.</dbo:abstract>
+    <dbo:abstract xml:lang="zh">東北大學（日语：東北大学／とうほくだいがく Tōhoku daigaku；英語譯名：Tohoku University），簡稱東北大，是一所本部位於日本东北地区仙台市的國立研究型綜合大學。東北大前身是舊制帝国大学－東北帝國大學（1907年），起源於1736年的仙台藩藩校「明倫養賢堂」。 東北大是世界材料學中心，也是曾經接待爱因斯坦的物理學名校與光通信發祥之地。校友包括諾貝爾化學獎得主、拉斯克奖得主與日本第一個IEEE愛迪生獎章得主。知名留學生有文豪魯迅以及復旦、臺大、清華等名校的校長。</dbo:abstract>
+    <dbo:affiliation rdf:resource="http://dbpedia.org/resource/AEARU" />
+    <dbo:affiliation rdf:resource="http://dbpedia.org/resource/APRU" />
+    <dbo:campus rdf:resource="http://dbpedia.org/resource/Urban_area" />
+    <dbo:city rdf:resource="http://dbpedia.org/resource/Sendai" />
+    <dbo:endowment rdf:datatype="http://dbpedia.org/datatype/japaneseYen">120138.0</dbo:endowment>
+    <dbo:endowment rdf:datatype="http://dbpedia.org/datatype/usDollar">1.3E9</dbo:endowment>
+    <dbo:foundingDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1907-06-22</dbo:foundingDate>
+    <dbo:motto>(Practice-Oriented Research and Education)</dbo:motto>
+    <dbo:numberOfPostgraduateStudents rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">7704</dbo:numberOfPostgraduateStudents>
+    <dbo:numberOfUndergraduateStudents rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">11094</dbo:numberOfUndergraduateStudents>
+    <dbo:officialSchoolColour>Purple</dbo:officialSchoolColour>
+    <dbo:other rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1346</dbo:other>
+    <dbo:president rdf:resource="http://dbpedia.org/resource/Susumu_Satomi" />
+    <dbo:staff rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">5756</dbo:staff>
+    <dbo:state rdf:resource="http://dbpedia.org/resource/Miyagi_Prefecture" />
+    <dbo:type rdf:resource="http://dbpedia.org/resource/National_university" />
+    <georss:point>38.25416666666667 140.8736111111111</georss:point>
+    <dbp:arwuA rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">8</dbp:arwuA>
+    <dbp:arwuW rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">84</dbp:arwuW>
+    <dbp:caption rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Graduate School of Science and Faculty of Science, Tohoku University</dbp:caption>
+    <dbp:country rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Japan</dbp:country>
+    <dbp:float rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">none</dbp:float>
+    <dbp:free rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">-- varsity teams</dbp:free>
+    <dbp:freeLabel rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Athletics</dbp:freeLabel>
+    <dbp:imageName rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">File:Graduate School of Science and Faculty of Science, Tohoku University 2010-06-25.JPG</dbp:imageName>
+    <dbp:imageSize rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">250</dbp:imageSize>
+    <dbp:life rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">0</dbp:life>
+    <dbp:line rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">0</dbp:line>
+    <dbp:logo rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">200</dbp:logo>
+    <dbp:note rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">T. Reuters World rankings include non-educational institutions</dbp:note>
+    <dbp:qsA rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">9</dbp:qsA>
+    <dbp:qsW rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">70</dbp:qsW>
+    <dbp:scale rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">-1</dbp:scale>
+    <dbp:text rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">File:City locator 14.svgKatahira</dbp:text>
+    <dbp:text rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">File:City locator 14.svgAmamiya</dbp:text>
+    <dbp:text rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">File:City locator 14.svgKawauchi</dbp:text>
+    <dbp:text rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">File:City locator 14.svgSeiryo</dbp:text>
+    <dbp:text rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">File:City locator 14.svgAobayama</dbp:text>
+    <dbp:theW rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">132</dbp:theW>
+    <dbp:width rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">350</dbp:width>
+    <dbp:x rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">-180</dbp:x>
+    <dbp:x rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">-250</dbp:x>
+    <dbp:x rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">-70</dbp:x>
+    <dbp:x rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">-130</dbp:x>
+    <dbp:y rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">-230</dbp:y>
+    <dbp:y rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">-175</dbp:y>
+    <dbp:y rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">-165</dbp:y>
+    <dbp:y rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">-80</dbp:y>
+    <dbp:y rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">-50</dbp:y>
+    <dbp:arc rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">0</dbp:arc>
+    <dbp:arcN rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">17</dbp:arcN>
+    <dbp:asahiL rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">8</dbp:asahiL>
+    <dbp:beN rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">10</dbp:beN>
+    <dbp:bePr rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">9</dbp:bePr>
+    <dbp:bio rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">0</dbp:bio>
+    <dbp:bus rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">0</dbp:bus>
+    <dbp:che rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">0</dbp:che>
+    <dbp:edN rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">15</dbp:edN>
+    <dbp:edW rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">536</dbp:edW>
+    <dbp:eng rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">0</dbp:eng>
+    <dbp:ensmpW rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">13</dbp:ensmpW>
+    <dbp:gbuduN rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">SA</dbp:gbuduN>
+    <dbp:imm rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">0</dbp:imm>
+    <dbp:kawaiN rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</dbp:kawaiN>
+    <dbp:kawaieN rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</dbp:kawaieN>
+    <dbp:law rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">0</dbp:law>
+    <dbp:mat rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">0</dbp:mat>
+    <dbp:nengN rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</dbp:nengN>
+    <dbp:nstr rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">0</dbp:nstr>
+    <dbp:pht rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">0</dbp:pht>
+    <dbp:phy rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">0</dbp:phy>
+    <dbp:qseW rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">56</dbp:qseW>
+    <dbp:soc rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">0</dbp:soc>
+    <dbp:trN rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">6</dbp:trN>
+    <dbp:trN rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">7</dbp:trN>
+    <dbp:trN rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</dbp:trN>
+    <dbp:trN rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</dbp:trN>
+    <dbp:trN rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</dbp:trN>
+    <dbp:trN rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</dbp:trN>
+    <dbp:trW rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">142</dbp:trW>
+    <dbp:trW rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">64</dbp:trW>
+    <dbp:trW rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">113</dbp:trW>
+    <dbp:trW rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">20</dbp:trW>
+    <dbp:trW rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">10</dbp:trW>
+    <dbp:trW rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</dbp:trW>
+    <dbp:tsuN rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">7</dbp:tsuN>
+    <dbp:weN rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">21</dbp:weN>
+    <dbp:wordnet_type rdf:resource="http://www.w3.org/2006/03/wn/wn20/instances/synset-university-noun-2" />
+    <ns10:hypernym rdf:resource="http://dbpedia.org/resource/University" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hirofumi_Uzawa">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/Tohoku_University" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mikio_Yamamoto">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/Tohoku_University" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Toshikazu_Sunada">
+    <dbp:workInstitutions rdf:resource="http://dbpedia.org/resource/Tohoku_University" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tomizo_Yoshida">
+    <dbp:workInstitutions rdf:resource="http://dbpedia.org/resource/Tohoku_University" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Raiko">
+    <dbp:operator rdf:resource="http://dbpedia.org/resource/Tohoku_University" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Toshitada_Doi">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/Tohoku_University" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Syun-Ichi_Akasofu">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/Tohoku_University" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Shoichiro_Toyoda">
+    <dbo:education rdf:resource="http://dbpedia.org/resource/Tohoku_University" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tohokudai">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Tohoku_University" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Akira_Endo_(biochemist)">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/Tohoku_University" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ryuta_Kawashima">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/Tohoku_University" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Shizuo_Kakutani">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/Tohoku_University" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jun-ichi_Nishizawa">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/Tohoku_University" />
+    <dbp:workplaces rdf:resource="http://dbpedia.org/resource/Tohoku_University" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Koji_Nakanishi">
+    <dbp:workplaces rdf:resource="http://dbpedia.org/resource/Tohoku_University" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Norihisa_Satake">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/Tohoku_University" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Liang_Teck_Meng">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/Tohoku_University" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mahmoud_Nili_Ahmadabadi">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/Tohoku_University" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Raijin-2">
+    <dbp:operator rdf:resource="http://dbpedia.org/resource/Tohoku_University" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bujar_Dida">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/Tohoku_University" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/東北大学">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Tohoku_University" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Tohoku_University">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Tohoku_University" />
+  </rdf:Description>
+</rdf:RDF>

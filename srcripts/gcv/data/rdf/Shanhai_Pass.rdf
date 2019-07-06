@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:dct="http://purl.org/dc/terms/"
+	xmlns:dbo="http://dbpedia.org/ontology/"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:prov="http://www.w3.org/ns/prov#"
+	xmlns:georss="http://www.georss.org/georss/"
+	xmlns:dbp="http://dbpedia.org/property/"
+	xmlns:ns10="http://purl.org/linguistics/gold/" >
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Battle_of_Shanhaiguan_(1900)">
+    <dbo:place rdf:resource="http://dbpedia.org/resource/Shanhai_Pass" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Major_national_historical_and_cultural_sites_(Hebei)">
+    <dbp:site rdf:resource="http://dbpedia.org/resource/Shanhai_Pass" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Shanhai_Pass">
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatWorldHeritageSitesInChina" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Site108651247" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Tract108673395" />
+    <rdf:type rdf:resource="http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/GeographicalArea108574314" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatMountainPassesOfChina" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Pass109386842" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/MountainPass" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PhysicalEntity100001930" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Location100027167" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Object100002684" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Region108630985" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoLegalActorGeo" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoGeoEntity" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoPermanentlyLocatedEntity" />
+    <rdfs:label xml:lang="zh">山海关</rdfs:label>
+    <rdfs:label xml:lang="ja">山海関</rdfs:label>
+    <rdfs:label xml:lang="de">Shanhaiguan (Pass)</rdfs:label>
+    <rdfs:label xml:lang="ru">Шаньхайгуаньский проход</rdfs:label>
+    <rdfs:label xml:lang="pl">Shanhaiguan</rdfs:label>
+    <rdfs:label xml:lang="en">Shanhai Pass</rdfs:label>
+    <rdfs:label xml:lang="es">Paso Shanhai</rdfs:label>
+    <rdfs:comment xml:lang="de">Shanhaiguan oder Shanhai-Pass (chinesisch 山海關 / 山海关, Pinyin Shānhǎi Guān, W.-G. Shan Hai Kuan; wörtlich „Berg-und-Meer-Pass“) ist ein Übergang der Chinesischen Mauer in der Stadt Qinhuangdao, Provinz Hebei, Volksrepublik China. Zusammen mit Jiayuguan und Juyongguan ist er einer der großen Übergänge an der Chinesischen Mauer. Er liegt fast 300 km östlich von Peking und ist mit der Stadt durch die Jingshen-Autobahn verbunden.</rdfs:comment>
+    <rdfs:comment xml:lang="es">El Paso Shanhai (chino simplificado: 山海关; chino tradicional: 山海關.) también conocido como Shanhaiguan o como el primer paso bajo el cielo, es una parte de la ciudad de Qinhuangdao en la provincia china de Hebei. En 1961, Shanhaiguan se convirtió en un sitio cultural de la primera clase de China. Junto con Jiayuguan y Juyongguan, es uno de los pasos principales de la Gran Muralla China. Es un destino turístico popular, ofreciendo el extremo este de la línea principal de la Gran Muralla. En 1987, junto al Jiayuguan fue declarado Patrimonio de la Humanidad por la UNESCO.</rdfs:comment>
+    <rdfs:comment xml:lang="pl">Shanhaiguan (chin. upr. 山海关, chin. trad. 山海關, pinyin Shānhǎiguān) – twierdza znajdująca się około 15 kilometrów na północy wschód od miasta Qinhuangdao w prowincji Hebei, stanowiąca wschodni kraniec Wielkiego Muru Chińskiego. Twierdza została wzniesiona w 1381 roku przez generała Xu Da. Przez wieki była najważniejszą częścią Wielkiego Muru, stanowiącą bramę do Pekinu i północnych Chin. Na północ od Shanhaiguan rozciągały się już terytoria zamieszkane przez plemiona koczownicze. W 1644 roku Wu Sangui wpuścił tędy do Chin Mandżurów pod wodzą Dorgona, którzy podbili kraj i założyli dynastię Qing.</rdfs:comment>
+    <rdfs:comment xml:lang="ru">Шаньхайгуа́нь (кит. трад. 山海關, упр. 山海关, пиньинь: Shānhǎiguān, что значит «проход между горами и морем») — самая восточная застава Великой Китайской стены, внесённая в перечень Всемирного наследия. Построена при династии Мин в XIV веке. Находится на территории популярного у туристов города Циньхуандао. Шаньхайгуаньским проходом называют узкую (до 25 км) полосу между берегом Ляодунского залива и горами Яньшань, которая на протяжении столетий соединяла Внутренний Китай с Маньчжурией. В силу своего стратегического значения проход впервые был укреплён китайскими правителями ещё в VI веке.</rdfs:comment>
+    <rdfs:comment xml:lang="zh">山海关，位于河北省最东部与辽宁省接壤处，秦皇岛市山海关区境内，且地居燕山与渤海之间，故得“山”、“海”二字而命名。山海关又被称为“榆关”，以古渝水而得名。在历史上，所谓关内、关外、闯关东、关东军等“关”字均指山海关，对中国具有著重要的影响力。 在1990年以前，因老龙头直入海中，被认为是明长城的东端起点，使山海关素有“天下第一关”之称。與萬里之外的天下第一雄關——“嘉峪關”遙相呼應，聞名天下。1961年，山海关被中华人民共和国国务院公布为第一批全国重点文物保护单位之一。 2015年10月9日，国家旅游局通报全国旅游资源规划开发质量评定委员会决定取消山海关景区“5A级景区资质”。原因是存在价格欺诈、环境卫生脏乱、设施破损普遍、服务质量下降严重。</rdfs:comment>
+    <rdfs:comment xml:lang="en">Shanhai Pass, known in Chinese as Shanhaiguan (simplified Chinese: 山海关; traditional Chinese: 山海關; pinyin: Shānhǎiguān; formerly Shan-hai-kwan or Shan-hai-kuan), also called Yu Pass (simplified Chinese: 榆关; traditional Chinese: 榆關; pinyin: Yúguān), is one of the major passes in the Great Wall of China. The words &quot;First Pass Under Heaven&quot; (simplified Chinese: 天下第一关; traditional Chinese: 天下第一關; pinyin: Tiānxià Dìyī Guān) are engraved above one of the gates, and so the site is also known by that name. It is located in Shanhaiguan District, Qinhuangdao, Hebei province.</rdfs:comment>
+    <rdfs:comment xml:lang="ja">山海関（さんかいかん、満州語：ᡧᠠᠨᠠᡥᠠᡶᡠᡵᡩᠠᠨ、転写：Šanaha furdan）は、万里の長城の一部を構成する要塞。河北省秦皇島市山海関区に所在。華北と東北の境界である、河北・遼寧省境が渤海に会する位置にある。2009年に中国政府が遼寧省虎山の虎山長城が長城の東端と訂正するまで、山海関から延びた城壁が海岸から突き出た「老龍頭」が長城の東端とされていた。「天下第一関」と称されるが、これは山海関の著名性を表したものではなく、東から数えて最初の関所であったことを示す。 明代は山海関より西側を「関内」と称し、東側の満洲を「関東」もしくは「関外」といった。かつて日本の租借地であった関東州や、そこに駐留した関東軍の名称もこれに由来する。</rdfs:comment>
+    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/Shanhaiguan_(Pass)" />
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q1048381" />
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.031lss" />
+    <owl:sameAs rdf:resource="http://es.dbpedia.org/resource/Paso_Shanhai" />
+    <owl:sameAs rdf:resource="http://pl.dbpedia.org/resource/Shanhaiguan" />
+    <owl:sameAs rdf:resource="http://ko.dbpedia.org/resource/산해관" />
+    <owl:sameAs rdf:resource="http://yago-knowledge.org/resource/Shanhai_Pass" />
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Shanhai_Pass" />
+    <owl:sameAs rdf:resource="http://cs.dbpedia.org/resource/Šan-chaj-kuan" />
+    <owl:sameAs rdf:resource="http://id.dbpedia.org/resource/Shanhaiguan" />
+    <owl:sameAs rdf:resource="http://ja.dbpedia.org/resource/山海関" />
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q1048381" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Great_Wall_of_China" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Qinhuangdao" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Visitor_attractions_in_Hebei" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Landforms_of_Hebei" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Buildings_and_structures_in_Hebei" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Mountain_passes_of_China" />
+    <dbo:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">671621</dbo:wikiPageID>
+    <dbo:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">732204357</dbo:wikiPageRevisionID>
+    <dbo:wikiPageExternalLink rdf:resource="http://www.wdl.org/en/item/11386/" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.travelchinaguide.com/picture/china_great_wall/hebei/" />
+    <dbo:wikiPageExternalLink rdf:resource="http://greatwallofchina.in/the-great-wall-of-china-man-made-object/" />
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#float">40.0094</geo:lat>
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#float">119.754</geo:long>
+    <foaf:depiction rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Shanhaiguan.jpg" />
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Shanhai_Pass" />
+    <geo:geometry rdf:datatype="http://www.openlinksw.com/schemas/virtrdf#Geometry">POINT(119.75414276123 40.009365081787)</geo:geometry>
+    <dbo:thumbnail rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Shanhaiguan.jpg?width=300" />
+    <prov:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Shanhai_Pass?oldid=732204357" />
+    <dbo:abstract xml:lang="ru">Шаньхайгуа́нь (кит. трад. 山海關, упр. 山海关, пиньинь: Shānhǎiguān, что значит «проход между горами и морем») — самая восточная застава Великой Китайской стены, внесённая в перечень Всемирного наследия. Построена при династии Мин в XIV веке. Находится на территории популярного у туристов города Циньхуандао. Шаньхайгуаньским проходом называют узкую (до 25 км) полосу между берегом Ляодунского залива и горами Яньшань, которая на протяжении столетий соединяла Внутренний Китай с Маньчжурией. В силу своего стратегического значения проход впервые был укреплён китайскими правителями ещё в VI веке. В Цинской империи Шаньхайгуань именовался «ключом к столицам»: уже в то время через него проходила дорога, связывающая Пекин и Мукден. Собственно, самим обладанием Китаем цинские правители были обязаны победе Доргоня над повстанцами Ли Цзычэна в Шаньхайгуаньской битве (1644). Ворота заставы маньчжурам открыл минский военачальник У Саньгуй.</dbo:abstract>
+    <dbo:abstract xml:lang="ja">山海関（さんかいかん、満州語：ᡧᠠᠨᠠᡥᠠᡶᡠᡵᡩᠠᠨ、転写：Šanaha furdan）は、万里の長城の一部を構成する要塞。河北省秦皇島市山海関区に所在。華北と東北の境界である、河北・遼寧省境が渤海に会する位置にある。2009年に中国政府が遼寧省虎山の虎山長城が長城の東端と訂正するまで、山海関から延びた城壁が海岸から突き出た「老龍頭」が長城の東端とされていた。「天下第一関」と称されるが、これは山海関の著名性を表したものではなく、東から数えて最初の関所であったことを示す。 明代は山海関より西側を「関内」と称し、東側の満洲を「関東」もしくは「関外」といった。かつて日本の租借地であった関東州や、そこに駐留した関東軍の名称もこれに由来する。</dbo:abstract>
+    <dbo:abstract xml:lang="en">Shanhai Pass, known in Chinese as Shanhaiguan (simplified Chinese: 山海关; traditional Chinese: 山海關; pinyin: Shānhǎiguān; formerly Shan-hai-kwan or Shan-hai-kuan), also called Yu Pass (simplified Chinese: 榆关; traditional Chinese: 榆關; pinyin: Yúguān), is one of the major passes in the Great Wall of China. The words &quot;First Pass Under Heaven&quot; (simplified Chinese: 天下第一关; traditional Chinese: 天下第一關; pinyin: Tiānxià Dìyī Guān) are engraved above one of the gates, and so the site is also known by that name. It is located in Shanhaiguan District, Qinhuangdao, Hebei province. In 1961, the pass became a National Cultural Site of China. It is a popular tourist destination given its situation at the eastern end of the main line of the Ming Dynasty Great Wall. The location where the wall meets the Bohai Sea is nicknamed &quot;Old Dragon&#39;s Head&quot; (老龙头). The pass lies nearly 300 kilometres (190 mi) east of Beijing and is linked via the Jingshen Expressway that runs northeastward to Shenyang. Throughout Chinese history, the pass served as a frontline defense against ethnic groups from Manchuria, including the Khitan, Jurchen and the Manchus.</dbo:abstract>
+    <dbo:abstract xml:lang="zh">山海关，位于河北省最东部与辽宁省接壤处，秦皇岛市山海关区境内，且地居燕山与渤海之间，故得“山”、“海”二字而命名。山海关又被称为“榆关”，以古渝水而得名。在历史上，所谓关内、关外、闯关东、关东军等“关”字均指山海关，对中国具有著重要的影响力。 在1990年以前，因老龙头直入海中，被认为是明长城的东端起点，使山海关素有“天下第一关”之称。與萬里之外的天下第一雄關——“嘉峪關”遙相呼應，聞名天下。1961年，山海关被中华人民共和国国务院公布为第一批全国重点文物保护单位之一。 2015年10月9日，国家旅游局通报全国旅游资源规划开发质量评定委员会决定取消山海关景区“5A级景区资质”。原因是存在价格欺诈、环境卫生脏乱、设施破损普遍、服务质量下降严重。</dbo:abstract>
+    <dbo:abstract xml:lang="de">Shanhaiguan oder Shanhai-Pass (chinesisch 山海關 / 山海关, Pinyin Shānhǎi Guān, W.-G. Shan Hai Kuan; wörtlich „Berg-und-Meer-Pass“) ist ein Übergang der Chinesischen Mauer in der Stadt Qinhuangdao, Provinz Hebei, Volksrepublik China. Zusammen mit Jiayuguan und Juyongguan ist er einer der großen Übergänge an der Chinesischen Mauer. Er liegt fast 300 km östlich von Peking und ist mit der Stadt durch die Jingshen-Autobahn verbunden.</dbo:abstract>
+    <dbo:abstract xml:lang="pl">Shanhaiguan (chin. upr. 山海关, chin. trad. 山海關, pinyin Shānhǎiguān) – twierdza znajdująca się około 15 kilometrów na północy wschód od miasta Qinhuangdao w prowincji Hebei, stanowiąca wschodni kraniec Wielkiego Muru Chińskiego. Twierdza została wzniesiona w 1381 roku przez generała Xu Da. Przez wieki była najważniejszą częścią Wielkiego Muru, stanowiącą bramę do Pekinu i północnych Chin. Na północ od Shanhaiguan rozciągały się już terytoria zamieszkane przez plemiona koczownicze. W 1644 roku Wu Sangui wpuścił tędy do Chin Mandżurów pod wodzą Dorgona, którzy podbili kraj i założyli dynastię Qing. Twierdza zamknięta jest od południowego wschodu zatoką Pohaj, zaś od północnego zachodu otoczona górami Yan Shan. Wielki Mur ma w tej okolicy 26 kilometrów długości, 12 metrów wysokości i szerokość 10 metrów. W miejscu zwanym Laolongtou (Głową Starego Smoka) mur wbiega na długość 23 metrów w zatokę Pohaj. Główna brama, nosząca nazwę Zhendong, znajduje się we wschodniej części twierdzy. Wznosi się nad nią dwupiętrowa wieża o wysokości 13,7 m, nazywana &quot;pierwszym przejściem pod Niebem&quot;. Pozostałe bramy to Ying’en od zachodu, Wangyuan od południa i Weiyuan od północy. W okolicach Shanhaiguan znajduje się wiele atrakcji turystycznych, m.in. fort Weiyuan czy pochodząca z czasów dynastii Song świątynia Mengjiangnu.</dbo:abstract>
+    <dbo:abstract xml:lang="es">El Paso Shanhai (chino simplificado: 山海关; chino tradicional: 山海關.) también conocido como Shanhaiguan o como el primer paso bajo el cielo, es una parte de la ciudad de Qinhuangdao en la provincia china de Hebei. En 1961, Shanhaiguan se convirtió en un sitio cultural de la primera clase de China. Junto con Jiayuguan y Juyongguan, es uno de los pasos principales de la Gran Muralla China. Es un destino turístico popular, ofreciendo el extremo este de la línea principal de la Gran Muralla. En 1987, junto al Jiayuguan fue declarado Patrimonio de la Humanidad por la UNESCO.</dbo:abstract>
+    <georss:point>40.00936388888889 119.75414444444445</georss:point>
+    <dbp:j rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">saan1 hoi2 gwaan1</dbp:j>
+    <dbp:l rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">&quot;Mountain and Sea Pass&quot;</dbp:l>
+    <dbp:order rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">st</dbp:order>
+    <dbp:p rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Shānhǎi Guān</dbp:p>
+    <dbp:p rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Yúguān</dbp:p>
+    <dbp:p rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Tiānxià Dìyī Guān</dbp:p>
+    <dbp:p rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Shānhǎiguān</dbp:p>
+    <dbp:pic rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">File:Shanhaiguan.jpg</dbp:pic>
+    <dbp:piccap rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">The &quot;First Pass Under Heaven&quot; plaque on Shanhaiguan&#39;s main gate</dbp:piccap>
+    <dbp:picsize rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">250</dbp:picsize>
+    <dbp:s rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">山海关</dbp:s>
+    <dbp:s rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">榆关</dbp:s>
+    <dbp:s rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">天下第一关</dbp:s>
+    <dbp:t rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">榆關</dbp:t>
+    <dbp:t rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">天下第一關</dbp:t>
+    <dbp:t rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">山海關</dbp:t>
+    <dbp:w rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Shan Hai Kuan</dbp:w>
+    <ns10:hypernym rdf:resource="http://dbpedia.org/resource/Passes" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Shanhai">
+    <dbo:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/Shanhai_Pass" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Battle_of_Linyuguan">
+    <dbo:place rdf:resource="http://dbpedia.org/resource/Shanhai_Pass" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yu_Pass">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Shanhai_Pass" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Shanhai_Pass">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Shanhai_Pass" />
+  </rdf:Description>
+</rdf:RDF>

@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:prov="http://www.w3.org/ns/prov#"
+	xmlns:dbpedia-owl="http://dbpedia.org/ontology/"
+	xmlns:dcterms="http://purl.org/dc/terms/"
+	xmlns:prop-ja="http://ja.dbpedia.org/property/"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	xmlns:georss="http://www.georss.org/georss/" >
+  <rdf:Description rdf:about="http://ja.wikipedia.org/wiki/国立国会図書館憲政資料室">
+    <foaf:primaryTopic rdf:resource="http://ja.dbpedia.org/resource/国立国会図書館憲政資料室" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/協調会">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/国立国会図書館憲政資料室" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/三島通庸関係文書">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/国立国会図書館憲政資料室" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/由井正臣">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/国立国会図書館憲政資料室" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/国立国会図書館憲政資料室">
+    <rdf:type rdf:resource="http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing" />
+    <rdfs:label xml:lang="ja">国立国会図書館憲政資料室</rdfs:label>
+    <rdfs:comment xml:lang="ja">国立国会図書館 憲政資料室（こくりつこっかいとしょかん けんせいしりょうしつ）とは、国立国会図書館東京本館内にある日本近現代に関連する資料のための部門。書籍、公文書のみならず、個人の日記や書簡などの私文書等も多く所蔵。閲覧目的は調査研究に限られる。閲覧には入館手続きに加えて、入室前に氏名、連絡先、調査目的・研究テーマ等の記入が必要となる。</rdfs:comment>
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q11421239" />
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q11421239" />
+    <foaf:isPrimaryTopicOf rdf:resource="http://ja.wikipedia.org/wiki/国立国会図書館憲政資料室" />
+    <prov:wasDerivedFrom rdf:resource="http://ja.wikipedia.org/wiki/国立国会図書館憲政資料室?oldid=46244450" />
+    <dbpedia-owl:abstract xml:lang="ja">国立国会図書館 憲政資料室（こくりつこっかいとしょかん けんせいしりょうしつ）とは、国立国会図書館東京本館内にある日本近現代に関連する資料のための部門。書籍、公文書のみならず、個人の日記や書簡などの私文書等も多く所蔵。閲覧目的は調査研究に限られる。閲覧には入館手続きに加えて、入室前に氏名、連絡先、調査目的・研究テーマ等の記入が必要となる。</dbpedia-owl:abstract>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.ndl.go.jp/jp/service/tokyo/constitutional/" />
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://rnavi.ndl.go.jp/kensei/" />
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://rnavi.ndl.go.jp/kensei/entry/kenseiguide.php" />
+    <dbpedia-owl:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2570278</dbpedia-owl:wikiPageID>
+    <dbpedia-owl:wikiPageLength rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">1386</dbpedia-owl:wikiPageLength>
+    <dbpedia-owl:wikiPageOutDegree rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">22</dbpedia-owl:wikiPageOutDegree>
+    <dbpedia-owl:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">46244450</dbpedia-owl:wikiPageRevisionID>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/官僚" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/書籍" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/リサーチ・ナビ" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/書簡" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/日本近代史料研究会" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/連合国最高司令官総司令部" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/政治家" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/憲政記念館" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/国立国会図書館" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/日本" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/Category:国立国会図書館" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/公文書" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/軍人" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/中南米" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/ハワイ" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/連合国軍占領下の日本" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/Category:日本の歴史文書館" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/移民" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/日記" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/プランゲ文庫" />
+    <dcterms:subject rdf:resource="http://ja.dbpedia.org/resource/Category:国立国会図書館" />
+    <dcterms:subject rdf:resource="http://ja.dbpedia.org/resource/Category:日本の歴史文書館" />
+    <prop-ja:wikiPageUsesTemplate rdf:resource="http://ja.dbpedia.org/resource/Template:Coord" />
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#float">35.6789</geo:lat>
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#float">139.744</geo:long>
+    <georss:point>35.67886111111111 139.74436111111112</georss:point>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/マイロ・ラウエル">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/国立国会図書館憲政資料室" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/津市立南郊中学校">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/国立国会図書館憲政資料室" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/松本剛吉">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/国立国会図書館憲政資料室" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/国立国会図書館">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/国立国会図書館憲政資料室" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/東久世通禧">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/国立国会図書館憲政資料室" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/入江文郎">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/国立国会図書館憲政資料室" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/憲政史料室">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://ja.dbpedia.org/resource/国立国会図書館憲政資料室" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/国立国会図書館憲政資料室" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/憲政資料室">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://ja.dbpedia.org/resource/国立国会図書館憲政資料室" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/国立国会図書館憲政資料室" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/data/国立国会図書館憲政資料室.rdf">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document" />
+    <foaf:primaryTopic rdf:resource="http://ja.dbpedia.org/resource/国立国会図書館憲政資料室" />
+  </rdf:Description>
+</rdf:RDF>

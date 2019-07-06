@@ -1,0 +1,359 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:dbo="http://dbpedia.org/ontology/"
+	xmlns:dct="http://purl.org/dc/terms/"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:prov="http://www.w3.org/ns/prov#"
+	xmlns:dbp="http://dbpedia.org/property/" >
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kim_Myeong-hyeon">
+    <dbo:president rdf:resource="http://dbpedia.org/resource/Kim_Dae-jung" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kim_Daejung">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Kim_Dae-jung" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Goh_Kun">
+    <dbo:president rdf:resource="http://dbpedia.org/resource/Kim_Dae-jung" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/South_Korean_presidential_election,_2002">
+    <dbp:beforeElection rdf:resource="http://dbpedia.org/resource/Kim_Dae-jung" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gim_Dae-jung">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Kim_Dae-jung" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kim_Tae-jung">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Kim_Dae-jung" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kim_Young-sam">
+    <dbo:successor rdf:resource="http://dbpedia.org/resource/Kim_Dae-jung" />
+    <dbp:after rdf:resource="http://dbpedia.org/resource/Kim_Dae-jung" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/South_Korean_presidential_election,_1987">
+    <dbp:nominee rdf:resource="http://dbpedia.org/resource/Kim_Dae-jung" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kim_Dae_Joong">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Kim_Dae-jung" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kim_Dae-jung">
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatKidnappedSouthKoreanPeople" />
+    <rdf:type rdf:resource="http://schema.org/Person" />
+    <rdf:type rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q24229398" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q215627" />
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing" />
+    <rdf:type rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatFellowsOfClareHall,Cambridge" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Official110372373" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Honoree110183757" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatConvertsToRomanCatholicism" />
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatAttemptedAssassinationSurvivors" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Convert109962414" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Militant110315837" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatSouthKoreanDemocracyActivists" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Prisoner110476086" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Worker109632518" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Unfortunate109630641" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Disputant109615465" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Survivor110681194" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatPrisonersSentencedToDeath" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Officeholder110371450" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Owner110389398" />
+    <rdf:type rdf:resource="http://umbel.org/umbel/rc/Politician" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Holder110180178" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Leader109623038" />
+    <rdf:type rdf:resource="http://umbel.org/umbel/rc/PresidentOfOrganization" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Politician110450303" />
+    <rdf:type rdf:resource="http://umbel.org/umbel/rc/PersonWithOccupation" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatPresidentsOfSouthKorea" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatNobelPeacePrizeLaureates" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/SkilledWorker110605985" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Communicator109610660" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Reformer110515194" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Agent" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Person100007846" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatKidnappedPeople" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Object100002684" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoLegalActor" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Acquirer109764201" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoLegalActorGeo" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Associate109816771" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PhysicalEntity100001930" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Recipient109627906" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Negotiator110351874" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Representative110522035" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatKidnappedPoliticians" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Organism100004475" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Person" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatAmnestyInternationalPrisonersOfConscience" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/CausalAgent100007347" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatSouthKoreanPoliticians" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Whole100003553" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/LivingThing100004258" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatSouthKoreanNobelLaureates" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/OfficeHolder" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q5" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/HeadOfState110164747" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatRomanCatholicHeadsOfState" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/President110467179" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatDemocraticParty(SouthKorea,2005)Politicians" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Laureate110249011" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatPeopleFromSouthJeollaProvince" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Peer109626238" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Colleague109935990" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatSouthKoreanPeople" />
+    <rdfs:label xml:lang="pt">Kim Dae-jung</rdfs:label>
+    <rdfs:label xml:lang="ar">كم داي جنغ</rdfs:label>
+    <rdfs:label xml:lang="nl">Kim Dae-jung</rdfs:label>
+    <rdfs:label xml:lang="fr">Kim Dae-jung</rdfs:label>
+    <rdfs:label xml:lang="ru">Ким Дэ Чжун</rdfs:label>
+    <rdfs:label xml:lang="de">Kim Dae-jung</rdfs:label>
+    <rdfs:label xml:lang="it">Kim Dae-jung</rdfs:label>
+    <rdfs:label xml:lang="zh">金大中</rdfs:label>
+    <rdfs:label xml:lang="en">Kim Dae-jung</rdfs:label>
+    <rdfs:label xml:lang="ja">金大中</rdfs:label>
+    <rdfs:label xml:lang="pl">Kim Dae-jung</rdfs:label>
+    <rdfs:label xml:lang="es">Kim Dae-jung</rdfs:label>
+    <rdfs:comment xml:lang="nl">Kim Dae-jung (Hangul: 김대중) (Hauido, 3 december 1925 - Seoel, 18 augustus 2009) was een Zuid-Koreaanse politicus en Nobelprijswinnaar van de Vrede, geboren in de arme zuidwestelijke regio van Korea, destijds geheel geannexeerd door Japan. Na jarenlang oppositieleider te zijn geweest, werd hij president. Kim Dae-jung was een overtuigd christen. Zijn koosnaam was DJ.</rdfs:comment>
+    <rdfs:comment xml:lang="zh">金大中（김대중，1924年1月6日－2009年8月18日），号后广（후광），別名忍冬草（인동초），本贯金海金氏，韩国政治家，曾任大韩民国第15任总统，在朴正熙、全斗焕独裁政权期间多次因民主斗争入狱，被称为“亚洲的曼德拉”，2000年诺贝尔和平奖得主 。 年轻时的金大中原本是个成功的企业家，朝鲜战争的经历使得自小就对政治感兴趣的金大中，在朝鲜战争停火后不久便弃商从政。长期以来，他作为在野党领袖致力于发展韩国民主事业。为此，他曾五次死里逃生，经历了六年狱中生活和十年的软禁、流亡生涯，屡次遭到韩国当局囚禁、流放、车祸谋杀、判处死刑等迫害。在其四十多年的政治竞选和民主斗争中，金大中屡败屡战，最终于1997年当选为韩国第十五任总统，被韩国舆论称为“巨木”。1998年2月25日，金大中正式宣誓就任韩国总统，入主青瓦台，成功实现了韩国现代史上朝野政党首次政权和平交替。 金大中执政期间致力复苏遭受亚洲金融风暴打击的韩国经济，改革韩国的经济体制，使韩国成功完成企业民营化和产业结构转型；在对北问题上，他采取“阳光政策”，曾在2000年成功进行首次南北双边会谈，并在同年荣获诺贝尔和平奖；另外，他通过协调发展与美国、日本、中国和俄罗斯的关系有效维护了朝鲜半岛的和平稳定，提升了韩国的国际地位与威望。</rdfs:comment>
+    <rdfs:comment xml:lang="ja">金 大中（キム・デジュン、朝鮮語：김대중、1925年12月3日 - 2009年8月18日）は、大韓民国の政治家、第15代大統領（在任：1998年 - 2003年）。本貫は金海金氏。号は「後廣」（フグァン、후광）。日本名は豊田大中（ - 1945年）。ニックネームは「忍冬草」。略称は「DJ」。カトリック教徒で、洗礼名は「トマス・モア」。立命館大学第37号名誉博士。 慶煕大学大学院修了。</rdfs:comment>
+    <rdfs:comment xml:lang="en">Kim Dae-jung (Korean pronunciation: [kimdɛdʑuŋ]; 6 January 1924 – 18 August 2009) was the 8th President of South Korea from 1998 to 2003, and the 2000 Nobel Peace Prize recipient. He was sometimes referred to as the &quot;Nelson Mandela of Asia&quot;.</rdfs:comment>
+    <rdfs:comment xml:lang="pl">Kim Dae-jung (ur. 6 stycznia 1925 we wsi Hugwang na wyspie Haui na południowym wybrzeżu Republiki Korei w prowincji Jeolla Południowa, zm. 18 sierpnia 2009 w Seulu) – południowokoreański polityk, laureat pokojowej Nagrody Nobla i prezydent Korei Południowej.</rdfs:comment>
+    <rdfs:comment xml:lang="es">Kim Dae-jung (hangul: 김대중, hanja: 金大中, RR: Gim Daejung, MR: Kim Taechung)? (Hauido, 6 de enero de 1924 - Seúl, 18 de agosto de 2009) fue un político y activista democrático surcoreano que desempeñó el cargo de presidente de Corea del Sur desde 1998 hasta 2003. En 2000 fue condecorado con el Premio Nobel de la Paz «por su trabajo en pro de la democracia y los derechos humanos, y particularmente por la paz y reconciliación con Corea del Norte».</rdfs:comment>
+    <rdfs:comment xml:lang="fr">Kim Dae-jung (3 décembre 1925 - 18 août 2009) est un homme politique sud-coréen. Il a été pendant longtemps le chef de l&#39;opposition et œuvre en faveur de la transition démocratique, il se présente à quatre reprises à l&#39;élection présidentielle, en 1971, 1987, 1992 et 1997. Il échappe in extremis à une tentative d&#39;assassinat en août 1973 organisée par le KCIA du dictateur Park Chung-hee. Kim Dae-jung est élu président (après Kim Young-sam) en 1997 et le reste jusqu&#39;en 2003. Il obtient le Prix Nobel de la paix pour sa « politique du rayon de Soleil (en) », inspirée de l&#39;Ostpolitik de Willy Brandt, qui vise à réconcilier les deux Corées.</rdfs:comment>
+    <rdfs:comment xml:lang="ar">كيم داي جونغ (3 ديسمبر 1925 - 18 أغسطس 2009)، سياسي كوري جنوبي شغل منصب رئيس كوريا الجنوبية بين عام 1998 و2003. ويعتبر أول زعيم كوري جنوبي يقوم بزيارة إلى كوريا الشمالية. حصل في عام 2000 على جائزة نوبل للسلام وذلك لمساعييه للتقريب بين الكوريتين عبر تنفيذه ما عرف بسياسة الشمس المشرقة.</rdfs:comment>
+    <rdfs:comment xml:lang="pt">Kim Dae-jung, em coreano 김대중 (Hauido, 6 de janeiro de 1924 — Seul, 18 de agosto de 2009) foi um político sul-coreano, presidente de seu país de 1997 a 2003. Recebeu o Nobel da Paz pelos seus esforços na reconciliação da península da Coreia. Filho de camponeses, católico, licenciou-se na Escola de Comércio de Mokp&#39;o em 1943. Iniciou a sua atividade profissional numa companhia japonesa, na qual prosperou tornando-se um homem de negócios. Em 1995 formou um novo partido e em 1997 voltou a concorrer às presidenciais ganhando ao seu oponente Lee Hoi-chang.</rdfs:comment>
+    <rdfs:comment xml:lang="de">Kim Dae-jung (* 3. Dezember 1925 als Kin Daichū auf der Insel Hauido, Sinan-gun, Provinz Zenra-nandō, damaliges Japanisches Kaiserreich, heutiges Südkorea; † 18. August 2009 in Seoul, Südkorea) war ein südkoreanischer Politiker. Für lange Zeit war Kim der Führer der Opposition, 1998 löste er Kim Young-sam als Präsidenten der Republik Korea (Südkorea) ab und übte dieses Amt bis 2003 aus. Im Jahr 2000 wurde ihm der Friedensnobelpreis verliehen.</rdfs:comment>
+    <rdfs:comment xml:lang="ru">Ким Дэ Чжун (кор. 김대중?, 金大中?, общепринятое написание — Ким Дэ Чжун (по Холодовичу), по Концевичу — Ким Дэджун, Kim Dae-jung; 6 января 1924 года — 18 августа 2009 года) — президент Республики Корея (25 февраля 1998 года — 25 февраля 2003 года), лидер партии «Национальный конгресс новой политики». Лауреат Нобелевской премии мира, лауреат премии памяти профессора Торолфа Рафто (2000), считался ключевой фигурой в деле демократизации Южной Кореи. По вероисповеданию католик.</rdfs:comment>
+    <owl:sameAs rdf:resource="http://viaf.org/viaf/87633964" />
+    <owl:sameAs rdf:resource="http://ja.dbpedia.org/resource/金大中" />
+    <owl:sameAs rdf:resource="http://es.dbpedia.org/resource/Kim_Dae-jung" />
+    <owl:sameAs rdf:resource="http://pt.dbpedia.org/resource/Kim_Dae-jung" />
+    <owl:sameAs rdf:resource="http://pl.dbpedia.org/resource/Kim_Dae-jung" />
+    <owl:sameAs rdf:resource="http://id.dbpedia.org/resource/Kim_Dae-Jung" />
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Kim_Dae-jung" />
+    <owl:sameAs rdf:resource="http://cs.dbpedia.org/resource/Kim_Te-džung" />
+    <owl:sameAs rdf:resource="http://yago-knowledge.org/resource/Kim_Dae_Jung" />
+    <owl:sameAs rdf:resource="http://yago-knowledge.org/resource/Kim_Dae-jung" />
+    <owl:sameAs rdf:resource="http://ko.dbpedia.org/resource/김대중" />
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q45785" />
+    <owl:sameAs rdf:resource="http://d-nb.info/gnd/11856210X" />
+    <owl:sameAs rdf:resource="http://data.europa.eu/euodp/jrc-names/Kim_Dae-jung" />
+    <owl:sameAs rdf:resource="http://data.europa.eu/euodp/jrc-names/Kim_Daejung" />
+    <owl:sameAs rdf:resource="http://nl.dbpedia.org/resource/Kim_Dae-jung" />
+    <owl:sameAs rdf:resource="http://eu.dbpedia.org/resource/Kim_Dae-jung" />
+    <owl:sameAs rdf:resource="http://it.dbpedia.org/resource/Kim_Dae-jung" />
+    <owl:sameAs rdf:resource="http://data.nytimes.com/N44254751710817044863" />
+    <owl:sameAs rdf:resource="http://fr.dbpedia.org/resource/Kim_Dae-jung" />
+    <owl:sameAs rdf:resource="http://el.dbpedia.org/resource/Κιμ_Ντε-τζουνγκ" />
+    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/Kim_Dae-jung" />
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q45785" />
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.013yvd" />
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Seoul" />
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/South_Korea" />
+    <dbo:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2009-8-18</dbo:deathDate>
+    <dbo:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2009-08-18</dbo:deathDate>
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Sinan_County,_South_Jeolla" />
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/South_Jeolla_Province" />
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Hauido" />
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Korea_under_Japanese_rule" />
+    <dbo:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1925-12-3</dbo:birthDate>
+    <dbo:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1924-01-06</dbo:birthDate>
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Converts_to_Roman_Catholicism" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Kidnapped_politicians" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Honorary_Knights_Grand_Cross_of_the_Order_of_St_Michael_and_St_George" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:1924_births" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Fellows_of_Clare_Hall,_Cambridge" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Disease-related_deaths_in_South_Korea" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Honorary_Knights_Grand_Cross_of_the_Order_of_the_Bath" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Deaths_from_multiple_organ_failure" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Presidents_of_South_Korea" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:South_Korean_Christians" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:21st-century_Roman_Catholics" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:South_Korean_Roman_Catholics" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Burials_at_Seoul_National_Cemetery" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:South_Korean_Nobel_laureates" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Kidnapped_South_Korean_people" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:South_Korean_democracy_activists" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:20th-century_Roman_Catholics" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Democratic_Party_(South_Korea,_2000)_politicians" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:People_from_South_Jeolla_Province" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Nobel_Peace_Prize_laureates" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Amnesty_International_prisoners_of_conscience" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:2009_deaths" />
+    <dbo:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">152967</dbo:wikiPageID>
+    <dbo:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">743273212</dbo:wikiPageRevisionID>
+    <dbo:wikiPageExternalLink rdf:resource="http://www.kdjlibrary.org/" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.nobel.se/peace/laureates/2000/index.html" />
+    <foaf:name xml:lang="en">Kim Dae-jung</foaf:name>
+    <foaf:homepage rdf:resource="http://www.nobel.se/peace/laureates/2000/index.html" />
+    <foaf:depiction rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Kim_Dae-jung_(Cropped).png" />
+    <dct:description xml:lang="en">South Korean politician</dct:description>
+    <foaf:gender xml:lang="en">male</foaf:gender>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Kim_Dae-jung" />
+    <foaf:surname xml:lang="en">Kim</foaf:surname>
+    <dbo:thumbnail rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Kim_Dae-jung_(Cropped).png?width=300" />
+    <prov:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Kim_Dae-jung?oldid=743273212" />
+    <dbo:abstract xml:lang="zh">金大中（김대중，1924年1月6日－2009年8月18日），号后广（후광），別名忍冬草（인동초），本贯金海金氏，韩国政治家，曾任大韩民国第15任总统，在朴正熙、全斗焕独裁政权期间多次因民主斗争入狱，被称为“亚洲的曼德拉”，2000年诺贝尔和平奖得主 。 年轻时的金大中原本是个成功的企业家，朝鲜战争的经历使得自小就对政治感兴趣的金大中，在朝鲜战争停火后不久便弃商从政。长期以来，他作为在野党领袖致力于发展韩国民主事业。为此，他曾五次死里逃生，经历了六年狱中生活和十年的软禁、流亡生涯，屡次遭到韩国当局囚禁、流放、车祸谋杀、判处死刑等迫害。在其四十多年的政治竞选和民主斗争中，金大中屡败屡战，最终于1997年当选为韩国第十五任总统，被韩国舆论称为“巨木”。1998年2月25日，金大中正式宣誓就任韩国总统，入主青瓦台，成功实现了韩国现代史上朝野政党首次政权和平交替。 金大中执政期间致力复苏遭受亚洲金融风暴打击的韩国经济，改革韩国的经济体制，使韩国成功完成企业民营化和产业结构转型；在对北问题上，他采取“阳光政策”，曾在2000年成功进行首次南北双边会谈，并在同年荣获诺贝尔和平奖；另外，他通过协调发展与美国、日本、中国和俄罗斯的关系有效维护了朝鲜半岛的和平稳定，提升了韩国的国际地位与威望。 金大中1956年由天主教漢城總教區卢基南总教付洗成为一位天主教徒，圣名为托馬斯·摩爾（Thomas More），代父是当时韩国副总统张勉  。金大中的座右铭是“敬天爱人”，也是他一生奉行的理念。</dbo:abstract>
+    <dbo:abstract xml:lang="ru">Ким Дэ Чжун (кор. 김대중?, 金大中?, общепринятое написание — Ким Дэ Чжун (по Холодовичу), по Концевичу — Ким Дэджун, Kim Dae-jung; 6 января 1924 года — 18 августа 2009 года) — президент Республики Корея (25 февраля 1998 года — 25 февраля 2003 года), лидер партии «Национальный конгресс новой политики». Лауреат Нобелевской премии мира, лауреат премии памяти профессора Торолфа Рафто (2000), считался ключевой фигурой в деле демократизации Южной Кореи. По вероисповеданию католик.</dbo:abstract>
+    <dbo:abstract xml:lang="en">Kim Dae-jung (Korean pronunciation: [kimdɛdʑuŋ]; 6 January 1924 – 18 August 2009) was the 8th President of South Korea from 1998 to 2003, and the 2000 Nobel Peace Prize recipient. He was sometimes referred to as the &quot;Nelson Mandela of Asia&quot;.</dbo:abstract>
+    <dbo:abstract xml:lang="pl">Kim Dae-jung (ur. 6 stycznia 1925 we wsi Hugwang na wyspie Haui na południowym wybrzeżu Republiki Korei w prowincji Jeolla Południowa, zm. 18 sierpnia 2009 w Seulu) – południowokoreański polityk, laureat pokojowej Nagrody Nobla i prezydent Korei Południowej.</dbo:abstract>
+    <dbo:abstract xml:lang="ar">كيم داي جونغ (3 ديسمبر 1925 - 18 أغسطس 2009)، سياسي كوري جنوبي شغل منصب رئيس كوريا الجنوبية بين عام 1998 و2003. ويعتبر أول زعيم كوري جنوبي يقوم بزيارة إلى كوريا الشمالية. حصل في عام 2000 على جائزة نوبل للسلام وذلك لمساعييه للتقريب بين الكوريتين عبر تنفيذه ما عرف بسياسة الشمس المشرقة.</dbo:abstract>
+    <dbo:abstract xml:lang="es">Kim Dae-jung (hangul: 김대중, hanja: 金大中, RR: Gim Daejung, MR: Kim Taechung)? (Hauido, 6 de enero de 1924 - Seúl, 18 de agosto de 2009) fue un político y activista democrático surcoreano que desempeñó el cargo de presidente de Corea del Sur desde 1998 hasta 2003. Se graduó en la Escuela Superior de Comercio de Mokpo y durante unos años gestionó una empresa de transporte naval, que le fue arrebatada en el transcurso de la Guerra de Corea. Cuando el conflicto terminó, dejó la actividad empresarial para iniciar su carrera política. Afiliado al Partido Democrático desde 1956 y vinculado históricamente al socioliberalismo, obtuvo un escaño en la Asamblea Nacional en 1960. Después del golpe de Estado militar de 1961, Dae-jung se convirtió en uno de los más destacados opositores al régimen de Park Chung-hee. En 1971, al frente del Nuevo Partido Democrático, se presentó por primera vez a las elecciones presidenciales y quedó segundo con el 45% de los votos. Kim Dae-jung pasó a ser perseguido políticamente después de la Restauración de Octubre de 1972, por la que el general Chung-hee consolidó su poder a través de una constitución autoritaria. En agosto de 1973 fue secuestrado por dos agentes del KCIA en Tokio (Japón) y repatriado a la fuerza a Corea del Sur. En 1976 fue condenado a cinco años de cárcel por firmar un documento contra el gobierno, y no fue indulltado hasta 1979. Con el ascenso al poder del general Chun Doo-hwan en 1980, Dae-jung volvió a ser arrestado bajo la acusación de promover el levantamiento de Gwangju y un tribunal militar le condenó a muerte. Sin embargo, la comunidad internacional consiguió que se suspendiera la ejecución. Tras ser liberado en 1982 por motivos de salud, se exilió en los Estados Unidos y no regresó a su país hasta 1985. En todo ese tiempo trabajó por el restablecimiento de los derechos civiles y políticos en la República de Corea, así como elecciones presidenciales por sufragio universal. Después de ser derrotado en las elecciones presidenciales de 1987 y 1992, Kim Dae-jung fue el candidato más votado en los comicios de 1997. Nada más asumir el poder, tuvo que afrontar la crisis financiera asiática e impulsó una reforma del modelo económico nacional, con medidas como la reconversión de los grandes conglomerados (chaebol). A nivel internacional es más conocido por ser responsable de la «política del Sol», encaminada a distendir las relaciones con Corea del Norte para rebajar la tensión de la zona, con el objetivo a largo plazo de establecer la democracia en el norte y lograr la reunificación coreana. En 2000 fue condecorado con el Premio Nobel de la Paz «por su trabajo en pro de la democracia y los derechos humanos, y particularmente por la paz y reconciliación con Corea del Norte».</dbo:abstract>
+    <dbo:abstract xml:lang="de">Kim Dae-jung (* 3. Dezember 1925 als Kin Daichū auf der Insel Hauido, Sinan-gun, Provinz Zenra-nandō, damaliges Japanisches Kaiserreich, heutiges Südkorea; † 18. August 2009 in Seoul, Südkorea) war ein südkoreanischer Politiker. Für lange Zeit war Kim der Führer der Opposition, 1998 löste er Kim Young-sam als Präsidenten der Republik Korea (Südkorea) ab und übte dieses Amt bis 2003 aus. Im Jahr 2000 wurde ihm der Friedensnobelpreis verliehen.</dbo:abstract>
+    <dbo:abstract xml:lang="nl">Kim Dae-jung (Hangul: 김대중) (Hauido, 3 december 1925 - Seoel, 18 augustus 2009) was een Zuid-Koreaanse politicus en Nobelprijswinnaar van de Vrede, geboren in de arme zuidwestelijke regio van Korea, destijds geheel geannexeerd door Japan. Na jarenlang oppositieleider te zijn geweest, werd hij president. Kim Dae-jung was een overtuigd christen. Zijn koosnaam was DJ.</dbo:abstract>
+    <dbo:abstract xml:lang="pt">Kim Dae-jung, em coreano 김대중 (Hauido, 6 de janeiro de 1924 — Seul, 18 de agosto de 2009) foi um político sul-coreano, presidente de seu país de 1997 a 2003. Recebeu o Nobel da Paz pelos seus esforços na reconciliação da península da Coreia. Filho de camponeses, católico, licenciou-se na Escola de Comércio de Mokp&#39;o em 1943. Iniciou a sua atividade profissional numa companhia japonesa, na qual prosperou tornando-se um homem de negócios. Entre 1950 e 1953, durante a Guerra da Coreia, foi preso e condenado à morte pelos comunistas, tendo conseguido escapar com a ajuda dos militares norte-americanos. Após a guerra, tornou-se um activista político de oposição ao poder. Kim ingressou no Partido Democrático Coreano do qual se tornou presidente em 1970. Em 1973, em Tóquio, durante a preparação de uma campanha política, foi raptado do hotel onde se encontrava e forçado a regressar à Coreia do Sul. Foi preso em 1976 por manifestar a sua oposição ao poder, tendo sido libertado três anos depois. Em 1980 foi condenado a vinte anos de prisão, mas em 1982, por questões de saúde, foi autorizado a viajar para os Estados Unidos, onde se exilou. Regressou três anos mais tarde ao seu país e em 1987 concorreu às eleições presidenciais perdendo em favor de Kim Young-sam, com quem disputou as eleições seguintes, em 1992, das quais também saiu derrotado. Em 1995 formou um novo partido e em 1997 voltou a concorrer às presidenciais ganhando ao seu oponente Lee Hoi-chang. Como presidente, esforçou-se por acabar com a pequena guerra fria entre a Coreia do Norte e a Coreia do Sul. Em 2000 foi-lhe atribuído o Nobel da Paz, como reconhecimento pela sua luta constante pela democracia, pelos direitos humanos e pela reconciliação com a Coreia do Norte. Em 2003, Roh Moo-hyun tomaria posse como presidente da Coreia do Sul.</dbo:abstract>
+    <dbo:abstract xml:lang="fr">Kim Dae-jung (3 décembre 1925 - 18 août 2009) est un homme politique sud-coréen. Il a été pendant longtemps le chef de l&#39;opposition et œuvre en faveur de la transition démocratique, il se présente à quatre reprises à l&#39;élection présidentielle, en 1971, 1987, 1992 et 1997. Il échappe in extremis à une tentative d&#39;assassinat en août 1973 organisée par le KCIA du dictateur Park Chung-hee. Kim Dae-jung est élu président (après Kim Young-sam) en 1997 et le reste jusqu&#39;en 2003. Il obtient le Prix Nobel de la paix pour sa « politique du rayon de Soleil (en) », inspirée de l&#39;Ostpolitik de Willy Brandt, qui vise à réconcilier les deux Corées.</dbo:abstract>
+    <dbo:abstract xml:lang="ja">金 大中（キム・デジュン、朝鮮語：김대중、1925年12月3日 - 2009年8月18日）は、大韓民国の政治家、第15代大統領（在任：1998年 - 2003年）。本貫は金海金氏。号は「後廣」（フグァン、후광）。日本名は豊田大中（ - 1945年）。ニックネームは「忍冬草」。略称は「DJ」。カトリック教徒で、洗礼名は「トマス・モア」。立命館大学第37号名誉博士。 慶煕大学大学院修了。</dbo:abstract>
+    <dbo:award rdf:resource="http://dbpedia.org/resource/Nobel_Peace_Prize" />
+    <dbo:award rdf:resource="http://dbpedia.org/resource/Philadelphia_Liberty_Medal" />
+    <dbo:country rdf:resource="http://dbpedia.org/resource/South_Korea" />
+    <dbo:militaryBranch rdf:resource="http://dbpedia.org/resource/Republic_of_Korea_Navy" />
+    <dbo:militaryRank rdf:resource="http://dbpedia.org/resource/Sublieutenant" />
+    <dbo:office>8thPresident of South Korea</dbo:office>
+    <dbo:office>Member of theNational Assembly</dbo:office>
+    <dbo:party rdf:resource="http://dbpedia.org/resource/National_Congress_for_New_Politics" />
+    <dbo:party rdf:resource="http://dbpedia.org/resource/Democratic_Party_(South_Korea,_1955)" />
+    <dbo:party rdf:resource="http://dbpedia.org/resource/New_Democratic_Party_(South_Korea)" />
+    <dbo:party rdf:resource="http://dbpedia.org/resource/Democratic_Party_(South_Korea,_2000)" />
+    <dbo:party rdf:resource="http://dbpedia.org/resource/Unification_Democratic_Party" />
+    <dbo:party rdf:resource="http://dbpedia.org/resource/Democratic_Party_(South_Korea,_1991)" />
+    <dbo:party rdf:resource="http://dbpedia.org/resource/Democratic_Party_(South_Korea,_1963)" />
+    <dbo:party rdf:resource="http://dbpedia.org/resource/Peace_Democratic_Party" />
+    <dbo:predecessor rdf:resource="http://dbpedia.org/resource/Kim_Young-sam" />
+    <dbo:primeMinister rdf:resource="http://dbpedia.org/resource/Park_Tae-Joon" />
+    <dbo:primeMinister rdf:resource="http://dbpedia.org/resource/Chang_Sang" />
+    <dbo:primeMinister rdf:resource="http://dbpedia.org/resource/Chang_Dae-whan" />
+    <dbo:primeMinister rdf:resource="http://dbpedia.org/resource/Lee_Han-dong" />
+    <dbo:primeMinister rdf:resource="http://dbpedia.org/resource/Kim_Suk-soo" />
+    <dbo:primeMinister rdf:resource="http://dbpedia.org/resource/Kim_Jong-pil" />
+    <dbo:region rdf:resource="http://dbpedia.org/resource/Mokpo" />
+    <dbo:region rdf:resource="http://dbpedia.org/resource/Inje" />
+    <dbo:religion rdf:resource="http://dbpedia.org/resource/Roman_Catholicism" />
+    <dbo:signature>Signature of Kim Dae-jung.svg</dbo:signature>
+    <dbo:spouse rdf:resource="http://dbpedia.org/resource/Lee_Hui-ho" />
+    <dbo:successor rdf:resource="http://dbpedia.org/resource/Roh_Moo-hyun" />
+    <dbo:termPeriod rdf:resource="http://dbpedia.org/resource/Kim_Dae-jung__5" />
+    <dbo:termPeriod rdf:resource="http://dbpedia.org/resource/Kim_Dae-jung__3" />
+    <dbo:termPeriod rdf:resource="http://dbpedia.org/resource/Kim_Dae-jung__4" />
+    <dbo:termPeriod rdf:resource="http://dbpedia.org/resource/Kim_Dae-jung__1" />
+    <dbo:termPeriod rdf:resource="http://dbpedia.org/resource/Kim_Dae-jung__2" />
+    <dbp:after rdf:resource="http://dbpedia.org/resource/Roh_Moo-hyun" />
+    <dbp:before rdf:resource="http://dbpedia.org/resource/Kim_Young-sam" />
+    <dbp:caption rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Kim in 2001</dbp:caption>
+    <dbp:children rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</dbp:children>
+    <dbp:constituency rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Proportional Representation</dbp:constituency>
+    <dbp:education rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Mokpo Commercial High School</dbp:education>
+    <dbp:mr rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Kim Taejung</dbp:mr>
+    <dbp:nativeNameLang rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">ko</dbp:nativeNameLang>
+    <dbp:parents rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Kim Woon-sik and Jang Su-geum</dbp:parents>
+    <dbp:restingPlace rdf:resource="http://dbpedia.org/resource/Seoul" />
+    <dbp:restingPlace rdf:resource="http://dbpedia.org/resource/South_Korea" />
+    <dbp:restingPlace rdf:resource="http://dbpedia.org/resource/Seoul_National_Cemetery" />
+    <dbp:rr rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Gim Daejung</dbp:rr>
+    <dbp:title rdf:resource="http://dbpedia.org/resource/Korean_name" />
+    <dbp:title rdf:resource="http://dbpedia.org/resource/President_of_South_Korea" />
+    <dbp:years rdf:datatype="http://www.w3.org/2001/XMLSchema#gMonthDay">--02-25</dbp:years>
+    <dbp:mrho rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Hugwang</dbp:mrho>
+    <dbp:rrho rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Hugwang</dbp:rrho>
+    <dbp:wordnet_type rdf:resource="http://www.w3.org/2006/03/wn/wn20/instances/synset-incumbent-noun-1" />
+    <dbp:wordnet_type rdf:resource="http://www.w3.org/2006/03/wn/wn20/instances/synset-president-noun-3" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lee_Hui-ho">
+    <dbo:president rdf:resource="http://dbpedia.org/resource/Kim_Dae-jung" />
+    <dbo:spouse rdf:resource="http://dbpedia.org/resource/Kim_Dae-jung" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kim_Jong-pil">
+    <dbo:president rdf:resource="http://dbpedia.org/resource/Kim_Dae-jung" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/1999_Asian_Winter_Games">
+    <dbp:officiallyOpenedBy rdf:resource="http://dbpedia.org/resource/Kim_Dae-jung" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/South_Korean_presidential_election,_1997">
+    <dbp:afterElection rdf:resource="http://dbpedia.org/resource/Kim_Dae-jung" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Chang_Sang">
+    <dbo:president rdf:resource="http://dbpedia.org/resource/Kim_Dae-jung" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kim_Dae_Jung">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Kim_Dae-jung" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kim_Dae-joong">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Kim_Dae-jung" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2002_Asian_Games">
+    <dbp:officiallyOpenedBy rdf:resource="http://dbpedia.org/resource/Kim_Dae-jung" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lee_Hae-chan">
+    <dbo:president rdf:resource="http://dbpedia.org/resource/Kim_Dae-jung" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Roh_Moo-hyun">
+    <dbp:before rdf:resource="http://dbpedia.org/resource/Kim_Dae-jung" />
+    <dbp:predecessor rdf:resource="http://dbpedia.org/resource/Kim_Dae-jung" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kim_Dae-Jung">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Kim_Dae-jung" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/South_Korean_legislative_election,_1992">
+    <dbo:secondLeader rdf:resource="http://dbpedia.org/resource/Kim_Dae-jung" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/South_Korean_legislative_election,_1996">
+    <dbo:secondLeader rdf:resource="http://dbpedia.org/resource/Kim_Dae-jung" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/South_Korean_legislative_election,_2000">
+    <dbo:secondLeader rdf:resource="http://dbpedia.org/resource/Kim_Dae-jung" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/South_Korean_presidential_election,_1971">
+    <dbp:nominee rdf:resource="http://dbpedia.org/resource/Kim_Dae-jung" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/South_Korean_presidential_election,_1992">
+    <dbp:nominee rdf:resource="http://dbpedia.org/resource/Kim_Dae-jung" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jin_Dazhong">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Kim_Dae-jung" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Houguang">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Kim_Dae-jung" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kin_Daichu">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Kim_Dae-jung" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kim_Han-gil">
+    <dbo:president rdf:resource="http://dbpedia.org/resource/Kim_Dae-jung" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Dae_Jung_Kim">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Kim_Dae-jung" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/KDJ">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Kim_Dae-jung" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/김대중">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Kim_Dae-jung" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Daichu_toyota">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Kim_Dae-jung" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Toyota_Daichu">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Kim_Dae-jung" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Dae-Jung_Kim">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Kim_Dae-jung" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Dae-jung_Kim">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Kim_Dae-jung" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kim_Dae-jung_administration">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Kim_Dae-jung" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Kim_Dae-jung">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Kim_Dae-jung" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/金大中">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Kim_Dae-jung" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gim_Daejung">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Kim_Dae-jung" />
+  </rdf:Description>
+</rdf:RDF>

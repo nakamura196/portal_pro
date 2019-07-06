@@ -1,0 +1,833 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:dct="http://purl.org/dc/terms/"
+	xmlns:dbo="http://dbpedia.org/ontology/"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:prov="http://www.w3.org/ns/prov#"
+	xmlns:dbp="http://dbpedia.org/property/"
+	xmlns:ns8="http://purl.org/linguistics/gold/" >
+  <rdf:Description rdf:about="http://dbpedia.org/resource/T">
+    <owl:differentFrom rdf:resource="http://dbpedia.org/resource/Tea" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tea">
+    <rdf:type rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#FunctionalSubstance" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q2095" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Beverage" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Food" />
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing" />
+    <rdfs:label xml:lang="de">Tee</rdfs:label>
+    <rdfs:label xml:lang="nl">Thee (drank)</rdfs:label>
+    <rdfs:label xml:lang="pt">Chá</rdfs:label>
+    <rdfs:label xml:lang="fr">Thé</rdfs:label>
+    <rdfs:label xml:lang="zh">茶</rdfs:label>
+    <rdfs:label xml:lang="ru">Чай</rdfs:label>
+    <rdfs:label xml:lang="ja">茶</rdfs:label>
+    <rdfs:label xml:lang="pl">Herbata</rdfs:label>
+    <rdfs:label xml:lang="ar">شاي</rdfs:label>
+    <rdfs:label xml:lang="en">Tea</rdfs:label>
+    <rdfs:label xml:lang="es">Té</rdfs:label>
+    <rdfs:label xml:lang="it">Tè</rdfs:label>
+    <rdfs:comment xml:lang="it">Il tè (scritto meno comunemente anche the o thè) è una bevanda consistente in un infuso o decotto ricavato dalle foglie (a volte miscelate con spezie, erbe o essenze) di una pianta legnosa, Camellia sinensis che viene coltivata principalmente in Bangladesh, Cina, India, Indonesia, Sri Lanka, Giappone e Kenya. L&#39;uso e i cerimoniali del tè sono associati a differenti tradizioni dell&#39;Estremo Oriente. Altro Paese noto per il consumo del tè è il Regno Unito, che ne ha fatto quasi un simbolo nazionale. I sei tipi base di tè sono:</rdfs:comment>
+    <rdfs:comment xml:lang="fr">Le thé est une boisson aromatique préparée en infusant des feuilles et des bourgeons de théier, un arbuste à feuilles persistantes originaire d&#39;Asie, et pouvant être bue chaude ou froide. Riche en épigallocatéchine, en gallate d&#39;épigallocatéchine, en théanine et en caféine, le thé est à la fois recherché pour son goût, ses vertus énergisantes et relaxantes ainsi que pour son impact positif sur la santé dans le cas du thé vert.</rdfs:comment>
+    <rdfs:comment xml:lang="ar">الشاي اسم صيني يطلق على شجرة أو شجيرة وعلى أوراقها وعلى المشروب الذي يصنع من الأوراق، ونباته دائم الخضرة. ينسب إلى فصيلة الكاميلية، وموطنه الأصلي شرقي آسيا. ينمو في موطنه إلى ارتفاع 9 أمتار، ولكنه في المزارع يقلم شجيرات صغيرة طولها 90- 150 سم. أوراقه رمحية الشكل خضراء داكنة، والأزهار عطرة بيضاء مصفرّة. ذُكر الشاي في المصنفات الصينية في القرن الثالث بديلاً للأنبذة القوية، وزرع في القرن الثامن على نطاق تجاري. استوردته شركة الهند الشرقية الهولندية إلى أوروبا، ح 1600 واستعمل في إنجلترا (ح 1660). احتكرت شركة الهند الشرقية البريطانية توريده لبريطانيا حتى 1834. وصل إلى المستعمرات الأمريكية 1680 وكان المشروب المفضل حتى استبدلت به القهوة. والشاي يُعتبر أكثر المشروبات استهلاكاً بعد الماء، وأهم الدول المنتجة للشاي: الهند، الصين، سيلان، إندونيسيا، اليابان، فرموزا. وأهم الدول المستوردة بريطانيا، والولا</rdfs:comment>
+    <rdfs:comment xml:lang="ru">Чай (кит. 茶 — «ча́» на пекинском и гуандунском диалекте, «те̂» на амойском и «тцай-е» на тайваньском) — напиток, получаемый варкой, завариванием и/или настаиванием листа чайного куста, который предварительно подготавливается специальным образом. Чаем также называется сам лист чайного куста, обработанный и подготовленный для приготовления напитка. Подготовка эта включает предварительную сушку (вяление), скручивание, более или менее длительное ферментативное окисление, окончательную сушку. Прочие операции вводятся в процесс только для производства отдельных видов и сортов чая.</rdfs:comment>
+    <rdfs:comment xml:lang="zh">茶，由茶樹的葉（茶葉）加工製成的食物，多烹成茶湯飲用，也可以加入食物中調味，又有藥用。現代的茶主要按發酵程度分爲六類，綠茶、白茶、黃茶、青茶、紅茶、黑茶。 普遍認爲茶樹起源於中國大陸的雲南、四川一帶，在唐代開始在中國興盛，並傳播到周邊地區，如日本等地；十七世紀，茶被帶進歐洲，隨後傳遍世界。各個民族和地區之間發展出了不同的茶文化，比如工夫茶、茶道、下午茶等等。現今茶樹在世界各國廣泛種植，目前的產茶大國有中國、印度、肯尼亚、斯里兰卡等國。</rdfs:comment>
+    <rdfs:comment xml:lang="ja">茶（ちゃ）とは、チャノキ（学名: Camellia sinensis (L.) Kuntze）の葉や茎を加工して作られる飲み物である。 また、これに加えて、チャノキ以外の植物の部位（葉、茎、果実、花びら、根等）や真菌類・動物に由来する加工物から作られる飲み物（「」の節、茶外茶を参照）にも「茶」もしくは「○○茶」と称するものが数多くある。</rdfs:comment>
+    <rdfs:comment xml:lang="pl">Herbata – napar przyrządzany z liści i pąków grupy roślin, nazywanych tą samą nazwą, należących do rodzaju kamelia (Camellia). Rośliny te są do siebie podobne, traktowane jako odrębne gatunki lub odmiany jednego gatunku – herbaty chińskiej (Camellia sinensis). Dawniej zaliczano je do rodzaju Thea, różnią się od innych kamelii zawartością substancji swoistych i kilkoma drobnymi cechami morfologicznymi. W Chinach zapisuje się ją znakiem 茶, który jest jednak różnie czytany w zależności od dialektu: tê – dialekt hokkien (czego odmiany są często obecne w językach zachodniej Europy) oraz chá, w dialekcie kantońskim i mandaryńskim (z odmianami tej wymowy popularnymi na wschodzie – Indie, Iran, Turcja, Rosja, Czechy). Polska nazwa herbata to zbitka pochodząca od łac. herba thea (gdzie pierwszy wyr</rdfs:comment>
+    <rdfs:comment xml:lang="pt">O chá é uma bebida preparada através da infusão de folhas, flores, raízes de planta do chá (Camellia sinensis), geralmente preparada com água quente. Cada variedade adquire um sabor definido de acordo com o processamento utilizado, que pode incluir oxidação, fermentação, e o contato com outras ervas, especiarias e frutos.</rdfs:comment>
+    <rdfs:comment xml:lang="es">El té es una infusión de las hojas y brotes de la planta del té (Camellia sinensis). La popularidad de esta bebida es solamente sobrepasada por el agua. Su sabor es fresco, ligeramente amargo y astringente; este gusto es agradable para mucha gente. El consumo del té verde está asociado con una disminución del riesgo de problemas de salud entre los adultos mayores tales como: infartos, deterioro cognitivo y osteoporosis. El té contiene L-teanina sustancia relacionada con un estado mental calmado en humanos. Un estado similar al que se encuentra entre los practicantes de meditación.</rdfs:comment>
+    <rdfs:comment xml:lang="de">Tee (chinesisch 茶, Pinyin chá, [tʂʰɑ˧˥], im Min-Nan-Dialekt gesprochen „tê“) ist ein heißes Aufgussgetränk, das aus unterschiedlichen Pflanzenteilen (Blättern, Knospen, Stängeln) der Teepflanze zubereitet wird. Tee ist ein Genussmittel. Tee enthält, je nach Pflanzenteil (Knospe am meisten, Blätter absteigend) bis zu 4,5 Prozent Coffein. Im 19. Jahrhundert wurde dieser Wirkstoff im Tee als Thein oder Teein bezeichnet. Das Getränk wurde bis zur Rechtschreibreform von 1901 mit th als „Thee“ geschrieben.</rdfs:comment>
+    <rdfs:comment xml:lang="nl">Thee is een warme drank gemaakt door infusie van de gedroogde bladeren van de theeplant Camellia sinensis. De naam thee komt waarschijnlijk uit het Chinese dialect Minnanyu.</rdfs:comment>
+    <rdfs:comment xml:lang="en">(This article is about the beverage. For other uses, see Tea (disambiguation).)(&quot;Cup of tea&quot; redirects here. For other uses, see Cup of Tea.)
+Tea is an aromatic beverage commonly prepared by pouring hot or boiling water over cured leaves of the Camellia sinensis, an evergreen shrub native to Asia. After water, it is the most widely consumed drink in the world. There are many different types of tea; some teas, like Darjeeling and Chinese greens, have a cooling, slightly bitter, and astringent flavour, while others have vastly different profiles that include sweet, nutty, floral or grassy notes.</rdfs:comment>
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Tea" />
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Phenolic_content" />
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/List_of_countries_by_tea_consumption_per_capita" />
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Cold_brew_tea" />
+    <owl:sameAs rdf:resource="http://cs.dbpedia.org/resource/Čaj" />
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Tea" />
+    <owl:sameAs rdf:resource="http://pl.dbpedia.org/resource/Herbata" />
+    <owl:sameAs rdf:resource="http://nl.dbpedia.org/resource/Thee_(drank)" />
+    <owl:sameAs rdf:resource="http://pt.dbpedia.org/resource/Chá" />
+    <owl:sameAs rdf:resource="http://el.dbpedia.org/resource/Τσάι" />
+    <owl:sameAs rdf:resource="http://fr.dbpedia.org/resource/Thé" />
+    <owl:sameAs rdf:resource="http://d-nb.info/gnd/4059283-2" />
+    <owl:sameAs rdf:resource="http://it.dbpedia.org/resource/Tè" />
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.013f8bfr" />
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.07clx" />
+    <owl:sameAs rdf:resource="http://es.dbpedia.org/resource/Té" />
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q6097" />
+    <owl:sameAs rdf:resource="http://ko.dbpedia.org/resource/차_(음료)" />
+    <owl:sameAs rdf:resource="http://id.dbpedia.org/resource/Teh" />
+    <owl:sameAs rdf:resource="http://ja.dbpedia.org/resource/茶" />
+    <owl:sameAs rdf:resource="http://eu.dbpedia.org/resource/Te_(infusioa)" />
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q6097" />
+    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/Tee" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Herbal_and_fungal_stimulants" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Caffeine" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Crops_originating_from_China" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Tea" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Victorian_cuisine" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Crops" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Medicinal_plants" />
+    <dbo:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">29969</dbo:wikiPageID>
+    <dbo:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">745171835</dbo:wikiPageRevisionID>
+    <dbo:wikiPageExternalLink rdf:resource="https://books.google.com/books?id=_TR_PQAACAAJ" />
+    <dbo:wikiPageExternalLink rdf:resource="https://books.google.com/books?id=DJ2j_bX6WTUC&amp;pg=PA8#v=onepage&amp;q&amp;f=false" />
+    <foaf:name xml:lang="en">Tea</foaf:name>
+    <foaf:depiction rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Tea_leaves_steeping_in_a_zhong_čaj_05.jpg" />
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Tea" />
+    <dbo:thumbnail rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Tea_leaves_steeping_in_a_zhong_čaj_05.jpg?width=300" />
+    <prov:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Tea?oldid=745171835" />
+    <dbo:abstract xml:lang="zh">茶，由茶樹的葉（茶葉）加工製成的食物，多烹成茶湯飲用，也可以加入食物中調味，又有藥用。現代的茶主要按發酵程度分爲六類，綠茶、白茶、黃茶、青茶、紅茶、黑茶。 普遍認爲茶樹起源於中國大陸的雲南、四川一帶，在唐代開始在中國興盛，並傳播到周邊地區，如日本等地；十七世紀，茶被帶進歐洲，隨後傳遍世界。各個民族和地區之間發展出了不同的茶文化，比如工夫茶、茶道、下午茶等等。現今茶樹在世界各國廣泛種植，目前的產茶大國有中國、印度、肯尼亚、斯里兰卡等國。</dbo:abstract>
+    <dbo:abstract xml:lang="pl">Herbata – napar przyrządzany z liści i pąków grupy roślin, nazywanych tą samą nazwą, należących do rodzaju kamelia (Camellia). Rośliny te są do siebie podobne, traktowane jako odrębne gatunki lub odmiany jednego gatunku – herbaty chińskiej (Camellia sinensis). Dawniej zaliczano je do rodzaju Thea, różnią się od innych kamelii zawartością substancji swoistych i kilkoma drobnymi cechami morfologicznymi. W Chinach zapisuje się ją znakiem 茶, który jest jednak różnie czytany w zależności od dialektu: tê – dialekt hokkien (czego odmiany są często obecne w językach zachodniej Europy) oraz chá, w dialekcie kantońskim i mandaryńskim (z odmianami tej wymowy popularnymi na wschodzie – Indie, Iran, Turcja, Rosja, Czechy). Polska nazwa herbata to zbitka pochodząca od łac. herba thea (gdzie pierwszy wyraz herba oznacza po prostu „ziele”). Rośliny uprawiane są w wielu krajach strefy zwrotnikowej, także poza Azją, dla pączków i liści, z których po uprzednim przygotowaniu (suszenie, czasami fermentacja) przyrządza się napar. Nazwą „herbata” określa się również napary z różnych ziół, suszu owocowego, dlatego w użyciu są określenia: lipowa, miętowa, rumiankowa itp. herbata, herbata z malin, dzikiej róży, bzu czarnego itp., herbata paragwajska, Rooibos.</dbo:abstract>
+    <dbo:abstract xml:lang="fr">Le thé est une boisson aromatique préparée en infusant des feuilles et des bourgeons de théier, un arbuste à feuilles persistantes originaire d&#39;Asie, et pouvant être bue chaude ou froide. Riche en épigallocatéchine, en gallate d&#39;épigallocatéchine, en théanine et en caféine, le thé est à la fois recherché pour son goût, ses vertus énergisantes et relaxantes ainsi que pour son impact positif sur la santé dans le cas du thé vert. Le thé est originaire des montagnes du Yunnan où il est connu depuis l&#39;Antiquité. Il s&#39;est d&#39;abord diffusé à l&#39;ensemble de l&#39;Extrême-Orient avant d&#39;être importé en Europe au XVIe siècle par les commerçants portugais. Les Britanniques introduisirent la culture du thé en Inde au XIXe siècle tandis que les Français la développèrent en Indochine et les Néerlandais en Indonésie. Le thé connaît alors une expansion spectaculaire au point d&#39;être aujourd&#39;hui la boisson la plus bue au monde juste après l&#39;eau. L&#39;importante variété de thés existant au monde s&#39;explique par le grand nombre de terroirs, de cultivars, de modes de culture ainsi que par le traitement subit après la récolte. Ce dernier facteur permet d&#39;obtenir des thés de différentes « couleurs » : noirs, verts, oolong, jaunes, blancs et post-fermentés tandis que les autres facteurs déterminent le goût et la qualité du thé produit. La préparation de la boisson elle-même peut prendre des formes très diverses : additionnée de lait et de sucre au Royaume-Uni, longuement bouillie avec des épices en Mongolie, avec de la menthe au Maghreb et en Afrique de l&#39;Ouest, bouillie avec des épices et du lait en Inde, préparée dans de minuscules théières dans la technique chinoise du gōngfū chá, ou battue en chanoyu au Japon. Cette appropriation du thé est généralement devenue un élément culturel important des pays qui l&#39;ont adopté.</dbo:abstract>
+    <dbo:abstract xml:lang="it">Il tè (scritto meno comunemente anche the o thè) è una bevanda consistente in un infuso o decotto ricavato dalle foglie (a volte miscelate con spezie, erbe o essenze) di una pianta legnosa, Camellia sinensis che viene coltivata principalmente in Bangladesh, Cina, India, Indonesia, Sri Lanka, Giappone e Kenya. L&#39;uso e i cerimoniali del tè sono associati a differenti tradizioni dell&#39;Estremo Oriente. Altro Paese noto per il consumo del tè è il Regno Unito, che ne ha fatto quasi un simbolo nazionale. Il tè ha un sapore amaro ed astringente ed è la bevanda più diffusa nel mondo dopo l&#39;acqua. A partire dagli anni ottanta del XX secolo si è diffuso l&#39;utilizzo del &quot;tè freddo&quot;, ossia un prodotto per lo più industriale ottenuto dall&#39;infusione del tè e imbottigliato, servito dopo essere stato in frigorifero come bevanda rinfrescante: le tipologie più diffuse sono il tè al limone e il tè alla pesca. I sei tipi base di tè sono: 
+*  il tè nero, 
+*  il tè verde, 
+*  il tè oolong, 
+*  il tè bianco, 
+*  il tè giallo, 
+*  il tè Pu&#39;er o tè postfermentato. Tutte le diverse varietà derivano dalle foglie della medesima pianta, ma sono create attraverso trattamenti differenti e presentano diversi gradi di ossidazione (comunemente chiamata &quot;fermentazione&quot;). I tè neri sono tè &quot;fermentati&quot;, i verdi sono tè &quot;non fermentati&quot; e gli oolong sono &quot;semifermentati&quot;. Una volta essiccato il tè può essere ulteriormente lavorato per dare vita a: tè aromatizzato, tè pressato e tè deteinato. Il termine &quot;tè&quot; è usato in modo improprio anche come sinonimo di &quot;tisana&quot;, per indicare infusioni preparate con piante diverse dalla Camellia sinensis. Il termine &quot;tè rosso&quot; si riferisce comunemente anche al karkadè o all&#39;infusione di rooibos del Sudafrica, che non contengono Camellia sinensis.</dbo:abstract>
+    <dbo:abstract xml:lang="de">Tee (chinesisch 茶, Pinyin chá, [tʂʰɑ˧˥], im Min-Nan-Dialekt gesprochen „tê“) ist ein heißes Aufgussgetränk, das aus unterschiedlichen Pflanzenteilen (Blättern, Knospen, Stängeln) der Teepflanze zubereitet wird. Tee ist ein Genussmittel. Tee enthält, je nach Pflanzenteil (Knospe am meisten, Blätter absteigend) bis zu 4,5 Prozent Coffein. Im 19. Jahrhundert wurde dieser Wirkstoff im Tee als Thein oder Teein bezeichnet. Das Getränk wurde bis zur Rechtschreibreform von 1901 mit th als „Thee“ geschrieben. Im weiteren Sinne wird als „Tee“ ein heißes Aufgussgetränk bezeichnet, das aus unterschiedlichen Teilen verschiedener Pflanzen zubereitet wird. Dazu gehören auch Kräutertees und Früchtetees. Verwendete Pflanzenteile sind je nach Sorte der Pflanzen Blätter, Knospen, Blüten, Früchte, Stängel, Rinde oder auch Wurzeln.</dbo:abstract>
+    <dbo:abstract xml:lang="ru">Чай (кит. 茶 — «ча́» на пекинском и гуандунском диалекте, «те̂» на амойском и «тцай-е» на тайваньском) — напиток, получаемый варкой, завариванием и/или настаиванием листа чайного куста, который предварительно подготавливается специальным образом. Чаем также называется сам лист чайного куста, обработанный и подготовленный для приготовления напитка. Подготовка эта включает предварительную сушку (вяление), скручивание, более или менее длительное ферментативное окисление, окончательную сушку. Прочие операции вводятся в процесс только для производства отдельных видов и сортов чая. Иногда слово «чай» используют и в качестве названия чайного куста — вида растений рода Камелия семейства Чайные; в ботанической научной литературе для этого вида обычно используется название камелия китайская (Camellia sinensis). Чаем в широком смысле может именоваться любой напиток, приготовленный путём заваривания предварительно подготовленного растительного материала. В названиях таких напитков к слову «чай», как правило, добавляется пояснение, характеризующее используемое сырьё («травяной чай», «ягодный чай», «фруктовый чай» и так далее).</dbo:abstract>
+    <dbo:abstract xml:lang="en">(This article is about the beverage. For other uses, see Tea (disambiguation).)(&quot;Cup of tea&quot; redirects here. For other uses, see Cup of Tea.)
+Tea is an aromatic beverage commonly prepared by pouring hot or boiling water over cured leaves of the Camellia sinensis, an evergreen shrub native to Asia. After water, it is the most widely consumed drink in the world. There are many different types of tea; some teas, like Darjeeling and Chinese greens, have a cooling, slightly bitter, and astringent flavour, while others have vastly different profiles that include sweet, nutty, floral or grassy notes. Tea originated in southwestern China, where it was used as a medicinal drink. It was popularized as a recreational drink during the Chinese Tang dynasty, and tea drinking spread to other East Asian countries. Portuguese priests and merchants introduced it to the West during the 16th century. During the 17th century, drinking tea became fashionable among Britons, who started large-scale production and commercialization of the plant in India to bypass a Chinese monopoly at that time. The phrase herbal tea usually refers to infusions of fruit or herbs made without the tea plant, such as steeps of rosehip, chamomile, or rooibos. These are also known as tisanes or herbal infusions to distinguish them from &quot;tea&quot; as it is commonly understood.</dbo:abstract>
+    <dbo:abstract xml:lang="es">El té es una infusión de las hojas y brotes de la planta del té (Camellia sinensis). La popularidad de esta bebida es solamente sobrepasada por el agua. Su sabor es fresco, ligeramente amargo y astringente; este gusto es agradable para mucha gente. Se argumenta que el consumo de té (especialmente verde) es benéfico para la salud por contener antioxidantes, flavanoles, flavonoides, catequinos y polifenoles. Debido a sus catequinos, el té tiene propiedades anti-inflamatorias y neuroprotectoras; puede ayudar en la regulación del apetito y por su afinidad con los receptores canabinoides puede disminuir el dolor y la naúsea, sirviendo también como calmante. El consumo del té verde está asociado con una disminución del riesgo de problemas de salud entre los adultos mayores tales como: infartos, deterioro cognitivo y osteoporosis. El té contiene L-teanina sustancia relacionada con un estado mental calmado en humanos. Un estado similar al que se encuentra entre los practicantes de meditación. El término &quot;té herbal&quot; se refiere comúnmente a infusiones de frutas o hierbas que no incluyen a la planta de té tales como el mate, la manzanilla y la tila entre otros.</dbo:abstract>
+    <dbo:abstract xml:lang="nl">Thee is een warme drank gemaakt door infusie van de gedroogde bladeren van de theeplant Camellia sinensis. De naam thee komt waarschijnlijk uit het Chinese dialect Minnanyu.</dbo:abstract>
+    <dbo:abstract xml:lang="ja">茶（ちゃ）とは、チャノキ（学名: Camellia sinensis (L.) Kuntze）の葉や茎を加工して作られる飲み物である。 また、これに加えて、チャノキ以外の植物の部位（葉、茎、果実、花びら、根等）や真菌類・動物に由来する加工物から作られる飲み物（「」の節、茶外茶を参照）にも「茶」もしくは「○○茶」と称するものが数多くある。</dbo:abstract>
+    <dbo:abstract xml:lang="pt">O chá é uma bebida preparada através da infusão de folhas, flores, raízes de planta do chá (Camellia sinensis), geralmente preparada com água quente. Cada variedade adquire um sabor definido de acordo com o processamento utilizado, que pode incluir oxidação, fermentação, e o contato com outras ervas, especiarias e frutos. A palavra &quot;chá&quot; é usada popularmente em Portugal e no Brasil como sinónimo de infusão de frutos, folhas, raízes e ervas contendo ou não folhas de chá (ver tisana). Este artigo trata do chá em sentido estrito e, portanto, não se refere a infusões como, por exemplo, camomila ou cidreira.</dbo:abstract>
+    <dbo:abstract xml:lang="ar">الشاي اسم صيني يطلق على شجرة أو شجيرة وعلى أوراقها وعلى المشروب الذي يصنع من الأوراق، ونباته دائم الخضرة. ينسب إلى فصيلة الكاميلية، وموطنه الأصلي شرقي آسيا. ينمو في موطنه إلى ارتفاع 9 أمتار، ولكنه في المزارع يقلم شجيرات صغيرة طولها 90- 150 سم. أوراقه رمحية الشكل خضراء داكنة، والأزهار عطرة بيضاء مصفرّة. ذُكر الشاي في المصنفات الصينية في القرن الثالث بديلاً للأنبذة القوية، وزرع في القرن الثامن على نطاق تجاري. استوردته شركة الهند الشرقية الهولندية إلى أوروبا، ح 1600 واستعمل في إنجلترا (ح 1660). احتكرت شركة الهند الشرقية البريطانية توريده لبريطانيا حتى 1834. وصل إلى المستعمرات الأمريكية 1680 وكان المشروب المفضل حتى استبدلت به القهوة. والشاي يُعتبر أكثر المشروبات استهلاكاً بعد الماء، وأهم الدول المنتجة للشاي: الهند، الصين، سيلان، إندونيسيا، اليابان، فرموزا. وأهم الدول المستوردة بريطانيا، والولايات المتحدة الأمريكية. أستراليا، روسيا، كندا، البلاد المنخفضة. تحتاج زراعته إلى تربة خصبة خفيفة، وطقس حار، وهواء رطب، ومطر غزير الشجيرات الصغيرة المستنبتة من البذور تصلح للجني بعد حوالي ثلاث سنوات ، وقد تظل هذه الشجيرات تنتج لمدة 50 عاماً. وتقطف الأوراق باليد وهي يانعة وأفضلها الأوراق الرقيقة القريبة من القمة. تترك الأوراق حتى تذبل، ثم تبرم وتسخن، وفي الشاي الأخضر تسخن الأوراق فور قطعها، وفي الشاي الأسود تخمر الأوراق أولاً حوالي 24 ساعة، اما في شاي التنين الأسود وهو نوع من الشاي يشربه أهل الصين، تخمر الأوراق جزئياً وهو وسط في النكهة واللون. يصنف الشاي حسب حجم الورقة ابتداء من أصغرها. ونكهة الشاي سببها زيت طيار، وخاصيته المنبهة سببها الكافيين، وخاصيته القابضة سببها التانين الذي يتناقص في الشاي الأسود من جراء التخمير. وأحياناً يضاف زهر الياسمين أو غيره من النباتات العطرة إلى بعض أنواع الشاي لتطييبه. من أشهر مشروبات العالم وأمتعها. في أشكال ومذاقات مختلفة تتلوّن أقداح الشاي على الموائد مشروباً لذيذاً منعشاً لا يتطلّب إعداده أكثر من ثلاث لخمس دقائق. يختلف الناس في تناول الشاي فبعضهم يحبه حلو المذاق وبعضهم الآخر يفضله مع حليب وآخرون يكتفون به صافياً فلا يزيدون على طعمه طعماً. نشرت وكالة رويترز في يوليو 2004 أن فريقاً من الباحثين بالمركز الطبي في جامعة ديوك بولاية نورث كارولاينا قد توصل إلى وجود علاقة قوية بين تناول الكافيين مع وجبات الطعام وزيادة مستويات السكر وهرمون الأنسولين في الدم لدى المصابين بالنوع الثاني من داء السكري، كما نشرت إذاعة بي بي سي على موقعها بتاريخ 20 يوليو 2004 خبر دراسة من المدرسة الدولية للدراسات المتقدمة في إيطاليا تفيد بأن الكافيين يمكن أن يعيق عمل الذاكرة المؤقتة للدماغ وتذكر بعض الأسماء، لذلك يشار للطلاب باجتناب شرب الشاي دائماً، وخاصة أيام الامتحانات. والواقع أن التأثير المنشّط للشاي يشبه تأثير مادة الكافيين في القهوة. والفرق أن تأثير الشاي المنشط يتطلب وقتاً أطول. وينقل الشاي مادة الكافيين الموجودة فيه في أنحاء الجسم، فيحث الدماغ والجهاز العصبي دون أن يؤثر على القلب وعلى الدورة الدموية كما القهوة. لذا يشعر المرء بعد تنازله الشاي بالراحة وبقدرة أكبر على التركيز. والأفضل التوقف عن تناول الشاي أو القهوة أو أي مواد منبهة بعد الساعة الرابعة من بعد الظهر إذا أمكن.</dbo:abstract>
+    <dbp:b rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">yes</dbp:b>
+    <dbp:bgcolor rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Sienna</dbp:bgcolor>
+    <dbp:caption rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Oolong tea being infused in a gaiwan</dbp:caption>
+    <dbp:commons rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">yes</dbp:commons>
+    <dbp:commonsSearch rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Category:Tea</dbp:commonsSearch>
+    <dbp:d rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">yes</dbp:d>
+    <dbp:dSearch rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Q6097</dbp:dSearch>
+    <dbp:introduced rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">First recorded in China in 59 BC, though probably originated earlier.</dbp:introduced>
+    <dbp:origin rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">China</dbp:origin>
+    <dbp:q rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">yes</dbp:q>
+    <dbp:type rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Hot or cold beverage</dbp:type>
+    <dbp:voy rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">yes</dbp:voy>
+    <dbp:wikt rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">yes</dbp:wikt>
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Beverage" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Darjeeling_tea">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Tea" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/GABA_Tea">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Tea" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Aroma_Café">
+    <dbo:product rdf:resource="http://dbpedia.org/resource/Tea" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Equal_Exchange_Trading">
+    <dbo:product rdf:resource="http://dbpedia.org/resource/Tea" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kalahari_Tea">
+    <dbo:product rdf:resource="http://dbpedia.org/resource/Tea" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/M._M._Ispahani_Limited">
+    <dbo:product rdf:resource="http://dbpedia.org/resource/Tea" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Upton_Tea_Imports">
+    <dbo:product rdf:resource="http://dbpedia.org/resource/Tea" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Xen_Coffee">
+    <dbo:industry rdf:resource="http://dbpedia.org/resource/Tea" />
+    <dbo:product rdf:resource="http://dbpedia.org/resource/Tea" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Keemun">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Tea" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Theaceae">
+    <dbp:imageCaption rdf:resource="http://dbpedia.org/resource/Tea" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Anji_bai_cha">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Tea" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bettys_and_Taylors_of_Harrogate">
+    <dbo:industry rdf:resource="http://dbpedia.org/resource/Tea" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Stash_Tea_Company">
+    <dbo:industry rdf:resource="http://dbpedia.org/resource/Tea" />
+    <dbo:product rdf:resource="http://dbpedia.org/resource/Tea" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Barista_Lavazza">
+    <dbo:product rdf:resource="http://dbpedia.org/resource/Tea" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Benoist_(tea)">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Tea" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Blenz_Coffee">
+    <dbo:product rdf:resource="http://dbpedia.org/resource/Tea" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Equal_Exchange">
+    <dbo:product rdf:resource="http://dbpedia.org/resource/Tea" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gepa_The_Fair_Trade_Company">
+    <dbo:product rdf:resource="http://dbpedia.org/resource/Tea" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Good_Earth_Tea">
+    <dbo:product rdf:resource="http://dbpedia.org/resource/Tea" />
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Tea" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Essiac">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Tea" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Peppermint_tea">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Tea" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tibeti">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Tea" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Konacha">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Tea" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Peach_tea">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Tea" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Caffè_Nero">
+    <dbo:product rdf:resource="http://dbpedia.org/resource/Tea" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/PG_Tips">
+    <dbp:type rdf:resource="http://dbpedia.org/resource/Tea" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Coca_tea">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Tea" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Black_tea">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Tea" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Turkish_tea">
+    <dbp:type rdf:resource="http://dbpedia.org/resource/Tea" />
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Tea" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ringtons_Tea">
+    <dbo:industry rdf:resource="http://dbpedia.org/resource/Tea" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bai_Mudan">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Tea" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Baihao_Yinzhen">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Tea" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Chun_Mee">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Tea" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Huoshan_Huangya_tea">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Tea" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Junshan_Yinzhen">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Tea" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Rougui_tea">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Tea" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Shoumei_tea">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Tea" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Record_of_Tea">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Tea" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Steeped_Tea">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Tea" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Drink">
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Tea" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Economy_of_Burundi">
+    <dbp:exportGoods rdf:resource="http://dbpedia.org/resource/Tea" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Oolong">
+    <dbp:l rdf:resource="http://dbpedia.org/resource/Tea" />
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Tea" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tea_(disambiguation)">
+    <dbo:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/Tea" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mecha_tea">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Tea" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Insamcha">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Tea" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mikel_Coffee_Company">
+    <dbo:product rdf:resource="http://dbpedia.org/resource/Tea" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Red_Rose_Tea">
+    <dbo:industry rdf:resource="http://dbpedia.org/resource/Tea" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/History_of_tea">
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Tea" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Korean_tea">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Tea" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yujacha">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Tea" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tamaryokucha">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Tea" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Biluochun">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Tea" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Rosa_&#39;Line_Renaud&#39;">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Tea" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Pyrenaria_buisanensis">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Tea" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Rajanikanta_Bordoloi">
+    <dbo:occupation rdf:resource="http://dbpedia.org/resource/Tea" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bandō,_Ibaraki">
+    <dbp:blank2InfoSec rdf:resource="http://dbpedia.org/resource/Tea" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Rize_Tea">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Tea" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/BOH_Plantations">
+    <dbo:industry rdf:resource="http://dbpedia.org/resource/Tea" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lancashire_Tea">
+    <dbp:markets rdf:resource="http://dbpedia.org/resource/Tea" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Minamikyūshū">
+    <dbp:tree rdf:resource="http://dbpedia.org/resource/Tea" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Port_City_Java">
+    <dbo:industry rdf:resource="http://dbpedia.org/resource/Tea" />
+    <dbo:product rdf:resource="http://dbpedia.org/resource/Tea" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Pukka_Herbs">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Tea" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tea_Forté">
+    <dbo:product rdf:resource="http://dbpedia.org/resource/Tea" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ahmad_Tea">
+    <dbp:type rdf:resource="http://dbpedia.org/resource/Tea" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Caffé_Vita_Coffee_Roasting_Company">
+    <dbo:product rdf:resource="http://dbpedia.org/resource/Tea" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kakuzi_Limited">
+    <dbo:product rdf:resource="http://dbpedia.org/resource/Tea" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mariage_Frères">
+    <dbp:type rdf:resource="http://dbpedia.org/resource/Tea" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Maya_Tea_Company">
+    <dbo:product rdf:resource="http://dbpedia.org/resource/Tea" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Numi_Organic_Tea">
+    <dbo:product rdf:resource="http://dbpedia.org/resource/Tea" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Rare_Tea_Company">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Tea" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/TWG_Tea">
+    <dbo:industry rdf:resource="http://dbpedia.org/resource/Tea" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tata_Global_Beverages">
+    <dbo:product rdf:resource="http://dbpedia.org/resource/Tea" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tata_Starbucks">
+    <dbo:product rdf:resource="http://dbpedia.org/resource/Tea" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ten_Ren_Tea">
+    <dbo:product rdf:resource="http://dbpedia.org/resource/Tea" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Zealong">
+    <dbp:type rdf:resource="http://dbpedia.org/resource/Tea" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tea_house">
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Tea" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Shui_Hsien_tea">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Tea" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lapacho">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Tea" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Dafang_tea">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Tea" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Indian_tea">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Tea" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Rosa_&#39;Garden_Party&#39;">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Tea" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Huangshan_Maofeng">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Tea" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Maojian_tea">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Tea" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Aracha">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Tea" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Daechucha">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Tea" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mogwacha">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Tea" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Soused_herring">
+    <dbo:ingredient rdf:resource="http://dbpedia.org/resource/Tea" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mighty_Leaf_Tea">
+    <dbo:product rdf:resource="http://dbpedia.org/resource/Tea" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nambarrie">
+    <dbo:product rdf:resource="http://dbpedia.org/resource/Tea" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Punjana">
+    <dbo:product rdf:resource="http://dbpedia.org/resource/Tea" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Teavana">
+    <dbo:industry rdf:resource="http://dbpedia.org/resource/Tea" />
+    <dbo:product rdf:resource="http://dbpedia.org/resource/Tea" />
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Tea" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Freaky_Bean_Coffee_Company">
+    <dbo:industry rdf:resource="http://dbpedia.org/resource/Tea" />
+    <dbo:product rdf:resource="http://dbpedia.org/resource/Tea" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Whittard_of_Chelsea">
+    <dbo:product rdf:resource="http://dbpedia.org/resource/Tea" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Assam_tea">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Tea" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Maghrebi_mint_tea">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Tea" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kamairicha">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Tea" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bancha">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Tea" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Rosa_&#39;Double_Delight&#39;">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Tea" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Rosa_&#39;Elina&#39;">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Tea" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Rosa_&#39;Ingrid_Bergman&#39;">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Tea" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Budućnost_sada">
+    <dbp:note rdf:resource="http://dbpedia.org/resource/Tea" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Coffee_cherry_tea">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Tea" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tung-ting_tea">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Tea" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vietnamese_lotus_tea">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Tea" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Aerated_Bread_Company">
+    <dbo:product rdf:resource="http://dbpedia.org/resource/Tea" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Café_Coffee_Day">
+    <dbo:product rdf:resource="http://dbpedia.org/resource/Tea" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Daigo,_Ibaraki">
+    <dbp:blank2InfoSec rdf:resource="http://dbpedia.org/resource/Tea" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/SPoT_Coffee">
+    <dbo:product rdf:resource="http://dbpedia.org/resource/Tea" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Teany">
+    <dbo:industry rdf:resource="http://dbpedia.org/resource/Tea" />
+    <dbo:product rdf:resource="http://dbpedia.org/resource/Tea" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Barley_water">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Tea" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yingdehong_tea">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Tea" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Rosa_&#39;Camp_David&#39;">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Tea" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Rosa_&#39;Precious_Platinum&#39;">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Tea" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Wong_Lo_Kat">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Tea" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Fermented_tea">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Tea" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bewley&#39;s">
+    <dbo:product rdf:resource="http://dbpedia.org/resource/Tea" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/SoBe">
+    <dbo:product rdf:resource="http://dbpedia.org/resource/Tea" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yame,_Fukuoka">
+    <dbp:tree rdf:resource="http://dbpedia.org/resource/Tea" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Caribou_Coffee">
+    <dbo:industry rdf:resource="http://dbpedia.org/resource/Tea" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Celestial_Seasonings">
+    <dbo:industry rdf:resource="http://dbpedia.org/resource/Tea" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Peet&#39;s_Coffee_&amp;_Tea">
+    <dbo:product rdf:resource="http://dbpedia.org/resource/Tea" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tazo">
+    <dbo:product rdf:resource="http://dbpedia.org/resource/Tea" />
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Tea" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tetley">
+    <dbo:product rdf:resource="http://dbpedia.org/resource/Tea" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yum_cha">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Tea" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Cream_tea">
+    <dbo:ingredient rdf:resource="http://dbpedia.org/resource/Tea" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lapsang_souchong">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Tea" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gyokuro">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Tea" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Akbar_Tea">
+    <dbp:type rdf:resource="http://dbpedia.org/resource/Tea" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mlesna">
+    <dbo:product rdf:resource="http://dbpedia.org/resource/Tea" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Cafè_Neo">
+    <dbo:product rdf:resource="http://dbpedia.org/resource/Tea" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Crumbs_and_Whiskers">
+    <dbp:products rdf:resource="http://dbpedia.org/resource/Tea" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Grounds_for_Coffee">
+    <dbo:product rdf:resource="http://dbpedia.org/resource/Tea" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Heladiv">
+    <dbo:product rdf:resource="http://dbpedia.org/resource/Tea" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nina&#39;s_Paris">
+    <dbo:product rdf:resource="http://dbpedia.org/resource/Tea" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tea_leaves">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Tea" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/List_of_Good_Eats_episodes">
+    <dbp:aux rdf:resource="http://dbpedia.org/resource/Tea" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Salada_tea">
+    <dbo:product rdf:resource="http://dbpedia.org/resource/Tea" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Baimao_Hou">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Tea" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bitter_melon_tea">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Tea" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jehotang">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Tea" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Shahi_Haleeb">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Tea" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bigelow_Tea_Company">
+    <dbo:industry rdf:resource="http://dbpedia.org/resource/Tea" />
+    <dbo:product rdf:resource="http://dbpedia.org/resource/Tea" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Brisk_(beverage)">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Tea" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Esquires">
+    <dbo:product rdf:resource="http://dbpedia.org/resource/Tea" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Purity_Factories">
+    <dbo:product rdf:resource="http://dbpedia.org/resource/Tea" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hojicha">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Tea" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tea_stall">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Tea" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Rosa_&#39;Mrs_Fred_Danks&#39;">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Tea" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Cup_of_tea">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Tea" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tea_production_in_Bangladesh">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Tea" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Capital_Teas">
+    <dbo:industry rdf:resource="http://dbpedia.org/resource/Tea" />
+    <dbo:product rdf:resource="http://dbpedia.org/resource/Tea" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Wild_&amp;_Bare_Co.">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Tea" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Woods_Coffee">
+    <dbo:industry rdf:resource="http://dbpedia.org/resource/Tea" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gituru">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Tea" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Alternative_Tea">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Tea" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Golden_Monkey_tea">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Tea" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/玄米茶">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Tea" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Brewing_tea">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Tea" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tea_leafs">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Tea" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Coffee_Beanery">
+    <dbo:product rdf:resource="http://dbpedia.org/resource/Tea" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Coffee_Republic">
+    <dbo:industry rdf:resource="http://dbpedia.org/resource/Tea" />
+    <dbo:product rdf:resource="http://dbpedia.org/resource/Tea" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lipton">
+    <dbp:type rdf:resource="http://dbpedia.org/resource/Tea" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ottogi">
+    <dbo:product rdf:resource="http://dbpedia.org/resource/Tea" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sasini_Tea_&amp;_Coffee">
+    <dbo:product rdf:resource="http://dbpedia.org/resource/Tea" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/T_(disambiguation)">
+    <dbo:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/Tea" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Acqua_Minerale_San_Benedetto">
+    <dbo:product rdf:resource="http://dbpedia.org/resource/Tea" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hibiscus_tea">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Tea" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Aulay_Macaulay">
+    <dbo:occupation rdf:resource="http://dbpedia.org/resource/Tea" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Madeira_cake">
+    <dbo:type rdf:resource="http://dbpedia.org/resource/Tea" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Cafédirect">
+    <dbo:product rdf:resource="http://dbpedia.org/resource/Tea" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gevalia">
+    <dbo:industry rdf:resource="http://dbpedia.org/resource/Tea" />
+    <dbo:product rdf:resource="http://dbpedia.org/resource/Tea" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Butter_tea">
+    <dbo:ingredient rdf:resource="http://dbpedia.org/resource/Tea" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Amacha">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Tea" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Harada_Tea_Processing_Co.,_Ltd.">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Tea" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jock_Willis_Shipping_Line">
+    <dbo:product rdf:resource="http://dbpedia.org/resource/Tea" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Velvet_blight">
+    <dbp:hosts rdf:resource="http://dbpedia.org/resource/Tea" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Biggby_Coffee">
+    <dbo:product rdf:resource="http://dbpedia.org/resource/Tea" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Da_Hong_Pao">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Tea" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ito_En">
+    <dbo:product rdf:resource="http://dbpedia.org/resource/Tea" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Twinings">
+    <dbp:markets rdf:resource="http://dbpedia.org/resource/Tea" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Republic_of_Tea">
+    <dbo:product rdf:resource="http://dbpedia.org/resource/Tea" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yogi_Tea">
+    <dbo:product rdf:resource="http://dbpedia.org/resource/Tea" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yorkshire_Tea">
+    <dbp:producttype rdf:resource="http://dbpedia.org/resource/Tea" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/DavidsTea">
+    <dbo:product rdf:resource="http://dbpedia.org/resource/Tea" />
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Tea" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/George_Steuart_Group">
+    <dbo:product rdf:resource="http://dbpedia.org/resource/Tea" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gujarat_Tea_Processors_&amp;_Packers_Ltd">
+    <dbo:product rdf:resource="http://dbpedia.org/resource/Tea" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Limuru_Tea_Company_Limited">
+    <dbo:product rdf:resource="http://dbpedia.org/resource/Tea" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/McLeod_Russel">
+    <dbo:industry rdf:resource="http://dbpedia.org/resource/Tea" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/American_Tea_Room">
+    <dbo:industry rdf:resource="http://dbpedia.org/resource/Tea" />
+    <dbo:product rdf:resource="http://dbpedia.org/resource/Tea" />
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Tea" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Farmer_Brothers">
+    <dbo:product rdf:resource="http://dbpedia.org/resource/Tea" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Two_Leaves_and_a_Bud_(Tea_Company)">
+    <dbo:product rdf:resource="http://dbpedia.org/resource/Tea" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jasmine_tea">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Tea" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ogwacha">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Tea" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Brewing_(tea)">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Tea" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tea_brewing">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Tea" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tea_leaf">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Tea" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tea_preparation">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Tea" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/History_of_tea_in_Korea">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Tea" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Chinese_sweet_tea">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Tea" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Pitewey">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Tea" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hyson">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Tea" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lemon_tea">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Tea" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Loose_tea">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Tea" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Chifir&#39;">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Tea" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lu&#39;an_Melon_Seed_tea">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Tea" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gourmet_tea">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Tea" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Organic_Tea">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Tea" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Teamelier">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Tea" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tea_Leaf">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Tea" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Instant_tea">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Tea" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Dandelion_coffee">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Tea" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kangra_tea">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Tea" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Chiran_tea">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Tea" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gugija_Cha">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Tea" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tea_mashing">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Tea" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Wedang_Jahe">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Tea" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tsheringma_tea">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Tea" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jin_Jun_Mei_tea">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Tea" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tealeaves">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Tea" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mengding_Ganlu_tea">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Tea" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Rooibee_Red_Tea">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Tea" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Rosa_&#39;Spice_Twice&#39;">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Tea" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Panda_tea">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Tea" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sayama_Tea">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Tea" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Rosa_Royal_William">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Tea" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Tea">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Tea" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tea_(drink)">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Tea" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Shanjuan_Chunyue">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Tea" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Goishicha">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Tea" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tea_garden_(cultivation)">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Tea" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tea_growing">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Tea" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tea_plantation">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Tea" />
+  </rdf:Description>
+</rdf:RDF>

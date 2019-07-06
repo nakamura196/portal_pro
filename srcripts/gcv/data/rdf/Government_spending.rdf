@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:dct="http://purl.org/dc/terms/"
+	xmlns:dbo="http://dbpedia.org/ontology/"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:prov="http://www.w3.org/ns/prov#" >
+  <rdf:Description rdf:about="http://dbpedia.org/resource/State_spending">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Government_spending" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Budget_spending">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Government_spending" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Public_investment">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Government_spending" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Public_spending">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Government_spending" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Social_spending">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Government_spending" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Government_Spending">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Government_spending" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Public_Purse">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Government_spending" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Government_spending">
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Finance101098698" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Fund113358549" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Money113384557" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/History106514093" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Abstraction100002137" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Budget113421832" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Act100030358" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Communication100033020" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Record106647206" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatGovernmentBudgets" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Evidence106643408" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/GroupAction101080366" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Indication106797169" />
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Measure100033615" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/SystemOfMeasurement113577171" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Standard107260623" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoPermanentlyLocatedEntity" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Event100029378" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Transaction101106808" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatNationalAccounts" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/CommercialEnterprise101094725" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Commerce101090446" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PsychologicalFeature100023100" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatGovernmentFinances" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/MediumOfExchange113372961" />
+    <rdfs:label xml:lang="ar">إنفاق حكومي</rdfs:label>
+    <rdfs:label xml:lang="pl">Wydatki państwa</rdfs:label>
+    <rdfs:label xml:lang="ru">Государственные расходы</rdfs:label>
+    <rdfs:label xml:lang="de">Staatsausgaben</rdfs:label>
+    <rdfs:label xml:lang="nl">Overheidsuitgaven</rdfs:label>
+    <rdfs:label xml:lang="en">Government spending</rdfs:label>
+    <rdfs:label xml:lang="ja">歳出</rdfs:label>
+    <rdfs:comment xml:lang="ja">歳出（さいしゅつ、英: Government spending）とは、ある会計年度における公共部門（中央政府・地方政府・地方自治体等）の支出をいう。近代的な公会計制度は、会計年度独立の原則（その会計年度の歳出は、当該年度の歳入をもってまかなうという原則）を基本原則としており、ゆえに会計年度が重視され、一会計年度内の支出を歳出と呼んでいる。</rdfs:comment>
+    <rdfs:comment xml:lang="ar">الإنفاق الحكومي (بالإنجليزية: Government spending أو government expenditure) هو ما تصرفه الحكومة من معونات مضافا ً لها قيمة الإنفاق على البنية التحتية، وما يصرف لدعم المناخ الاستثماري العام . فكل ما تدفعه الحكومة للقيام بعمل مجاني للشعب يعتبر إنفاق حكومي. يمكن تمويل الإنفاق الحكومي عن طريق رسوم سك العملات، الضرائب، أو الاقتراض الحكومي.</rdfs:comment>
+    <rdfs:comment xml:lang="ru">Государственные расходы — денежные средства, направляемые на финансовое обеспечение задач и функций государства и местного самоуправления. Расходы бюджетов в зависимости от их экономического содержания делятся на текущие и капитальные. Все государственные расходы предназначены для следующих целей: Военные 
+*  национальная оборона и обеспечение безопасности государства, осуществление конверсии оборонных отраслей промышленности. Экономические На социальные цели На внешнеполитическую деятельность На содержание аппарата управления</rdfs:comment>
+    <rdfs:comment xml:lang="de">Staatsausgaben (englisch state expenses, französisch dépenses de l&#39;Etat) sind die Ausgaben in einem Staatshaushalt, im weiteren Sinne der öffentlichen Hand.</rdfs:comment>
+    <rdfs:comment xml:lang="en">Government spending or expenditure includes all government consumption, investment, and transfer payments. In national income accounting the acquisition by governments of goods and services for current use, to directly satisfy the individual or collective needs of the community, is classed as government final consumption expenditure. Government acquisition of goods and services intended to create future benefits, such as infrastructure investment or research spending, is classed as government investment (government gross capital formation). These two types of government spending, on final consumption and on gross capital formation, together constitute one of the major components of gross domestic product.</rdfs:comment>
+    <rdfs:comment xml:lang="nl">De overheidsuitgaven (ook staatsuitgaven genoemd) omvatten alle overheidsconsumptie en overheidsinvesteringen. De overdrachtsuitgaven vallen buiten de staatsuitgaven.</rdfs:comment>
+    <rdfs:comment xml:lang="pl">Wydatki publiczne – to środki pieniężne przeznaczone na realizację przedsięwzięć państwowych i samorządowych. Wyodrębnia się siedem kategorii wydatków publicznych: 1.  
+* Finansowanie rozwoju społeczno-gospodarczego kraju i rozwoju regionalnego. Zazwyczaj wydatki te występują w formie inwestycji infrastrukturalnych (takich jak drogi, mosty, szkoły, szpitale), inwestycji strukturalnych (inaczej mówiąc na restrukturyzację) i inwestycji produkcyjnych. 2.  
+* Pokrywanie strat i dofinansowanie działalności przedsiębiorstw sektora publicznego. Straty wynikają z niskiej efektywności przedsiębiorstw. Dofinansowania mają formę dotacji przedmiotowych (dopłaty) i podmiotowych (na rzecz określonego podmiotu). 3.  
+* Subsydiowanie gospodarstw domowych (zasiłki, renty) 4.  
+* Pokrywanie kosztów świadcze</rdfs:comment>
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Government_spending" />
+    <owl:sameAs rdf:resource="http://pl.dbpedia.org/resource/Wydatki_państwa" />
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.04g_71" />
+    <owl:sameAs rdf:resource="http://yago-knowledge.org/resource/Government_spending" />
+    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/Staatsausgaben" />
+    <owl:sameAs rdf:resource="http://ja.dbpedia.org/resource/歳出" />
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q1929688" />
+    <owl:sameAs rdf:resource="http://nl.dbpedia.org/resource/Overheidsuitgaven" />
+    <owl:sameAs rdf:resource="http://cs.dbpedia.org/resource/Veřejné_výdaje" />
+    <owl:sameAs rdf:resource="http://d-nb.info/gnd/4043136-8" />
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q1929688" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Government_finances" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Fiscal_policy" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Public_finance" />
+    <dbo:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1203070</dbo:wikiPageID>
+    <dbo:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">735890048</dbo:wikiPageRevisionID>
+    <dbo:wikiPageExternalLink rdf:resource="http://stats.oecd.org/Index.aspx?DataSetCode=SNA_TABLE11" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.census.gov/govs/cog/" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.econlib.org/Library/Enc/GovernmentSpending.html" />
+    <dbo:wikiPageExternalLink rdf:resource="http://ec.europa.eu/eurostat/statistics-explained/index.php/Government_expenditure_by_function_%E2%80%93_COFOG" />
+    <dbo:wikiPageExternalLink rdf:resource="http://etatscanadiens-canadiangovernments.enap.ca/fr/index.aspx" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.econlib.org/library/Enc/GovernmentDebtandDeficits.html" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.econlib.org/library/Enc/GovernmentGrowth.html" />
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Government_spending" />
+    <prov:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Government_spending?oldid=735890048" />
+    <dbo:abstract xml:lang="de">Staatsausgaben (englisch state expenses, französisch dépenses de l&#39;Etat) sind die Ausgaben in einem Staatshaushalt, im weiteren Sinne der öffentlichen Hand.</dbo:abstract>
+    <dbo:abstract xml:lang="nl">De overheidsuitgaven (ook staatsuitgaven genoemd) omvatten alle overheidsconsumptie en overheidsinvesteringen. De overdrachtsuitgaven vallen buiten de staatsuitgaven.</dbo:abstract>
+    <dbo:abstract xml:lang="ar">الإنفاق الحكومي (بالإنجليزية: Government spending أو government expenditure) هو ما تصرفه الحكومة من معونات مضافا ً لها قيمة الإنفاق على البنية التحتية، وما يصرف لدعم المناخ الاستثماري العام . فكل ما تدفعه الحكومة للقيام بعمل مجاني للشعب يعتبر إنفاق حكومي. يمكن تمويل الإنفاق الحكومي عن طريق رسوم سك العملات، الضرائب، أو الاقتراض الحكومي.</dbo:abstract>
+    <dbo:abstract xml:lang="pl">Wydatki publiczne – to środki pieniężne przeznaczone na realizację przedsięwzięć państwowych i samorządowych. Wyodrębnia się siedem kategorii wydatków publicznych: 1.  
+* Finansowanie rozwoju społeczno-gospodarczego kraju i rozwoju regionalnego. Zazwyczaj wydatki te występują w formie inwestycji infrastrukturalnych (takich jak drogi, mosty, szkoły, szpitale), inwestycji strukturalnych (inaczej mówiąc na restrukturyzację) i inwestycji produkcyjnych. 2.  
+* Pokrywanie strat i dofinansowanie działalności przedsiębiorstw sektora publicznego. Straty wynikają z niskiej efektywności przedsiębiorstw. Dofinansowania mają formę dotacji przedmiotowych (dopłaty) i podmiotowych (na rzecz określonego podmiotu). 3.  
+* Subsydiowanie gospodarstw domowych (zasiłki, renty) 4.  
+* Pokrywanie kosztów świadczenia usług społecznych 5.  
+* Zapewnienie bezpieczeństwa zewnętrznego i wewnętrznego (wydatki na służbę policji, siły zbrojne) 6.  
+* Utrzymanie aparatu państwowego i samorządowego, wymiaru sprawiedliwości i więziennictwa 7.  
+* Obsługa wewnętrznego i zewnętrznego zadłużenia</dbo:abstract>
+    <dbo:abstract xml:lang="en">Government spending or expenditure includes all government consumption, investment, and transfer payments. In national income accounting the acquisition by governments of goods and services for current use, to directly satisfy the individual or collective needs of the community, is classed as government final consumption expenditure. Government acquisition of goods and services intended to create future benefits, such as infrastructure investment or research spending, is classed as government investment (government gross capital formation). These two types of government spending, on final consumption and on gross capital formation, together constitute one of the major components of gross domestic product. Government spending can be financed by government borrowing, seigniorage, or taxes. Changes in government spending is a major component of fiscal policy used to stabilize the macroeconomic business cycle.</dbo:abstract>
+    <dbo:abstract xml:lang="ru">Государственные расходы — денежные средства, направляемые на финансовое обеспечение задач и функций государства и местного самоуправления. Расходы бюджетов в зависимости от их экономического содержания делятся на текущие и капитальные. 
+*  Текущие расходы бюджетов — часть расходов бюджетов, обеспечивающая текущее финансирование органов государственной власти, оказание государственной поддержки другим бюджетам и отдельным отраслям экономики в форме дотаций, субсидий и субвенций на текущее финансирование. 
+*  Капитальные расходы бюджетов — часть расходов бюджетов, обеспечивающая инновационную и инвестиционную деятельность; средства, предоставляемые в качестве бюджетных кредитов на инвестиционные цели юридическим лицам; расходы, при осуществлении которых создается или увеличивается имущество, находящееся в собственности государства. Все государственные расходы предназначены для следующих целей: Военные 
+*  национальная оборона и обеспечение безопасности государства, осуществление конверсии оборонных отраслей промышленности. Экономические 
+*  финансовая поддержка субъектов хозяйствования; 
+*  инвестиционные и инновационные программы; 
+*  пополнение государственных запасов драгоценных металлов и драгоценных камней, государственного материального резерва; 
+*  обслуживание и погашение государственного долга; 
+*  формирование государственной собственности; 
+*  иные расходы экономического характера. На социальные цели 
+*  компенсация государственным внебюджетным фондам расходов на выплату государственных пенсий и пособий, других социальных выплат; 
+*  содержание учреждений, находящихся в государственной собственности или в ведении органов государственной власти; 
+*  другие расходы на социальные цели. На внешнеполитическую деятельность 
+*  осуществление международной деятельности в общегосударственных интересах (финансовое обеспечение реализации межгосударственных соглашений и соглашений с международными финансовыми организациями, взносы в международные организации); 
+*  другие расходы в области международного сотрудничества и в соответствии с внешнеполитической программой государства. На содержание аппарата управления 
+*  обеспечение деятельности Президента, органов законодательной и судебной власти, Счетной палаты, Центральной избирательной комиссии, органов исполнительной власти и их территориальных органов; 
+*  другие расходы на общегосударственное управление.</dbo:abstract>
+    <dbo:abstract xml:lang="ja">歳出（さいしゅつ、英: Government spending）とは、ある会計年度における公共部門（中央政府・地方政府・地方自治体等）の支出をいう。近代的な公会計制度は、会計年度独立の原則（その会計年度の歳出は、当該年度の歳入をもってまかなうという原則）を基本原則としており、ゆえに会計年度が重視され、一会計年度内の支出を歳出と呼んでいる。</dbo:abstract>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Public_purse">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Government_spending" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Government-related_spending">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Government_spending" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Public_fund">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Government_spending" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Public_funds">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Government_spending" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Government_allocation">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Government_spending" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Government_spending">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Government_spending" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Government_expense">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Government_spending" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Government_purchases">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Government_spending" />
+  </rdf:Description>
+</rdf:RDF>

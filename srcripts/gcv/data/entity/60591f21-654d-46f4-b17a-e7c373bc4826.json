@@ -1,0 +1,60 @@
+{
+    "entities": [
+        {
+            "mentions": [
+                {
+                    "text": {
+                        "beginOffset": 232,
+                        "content": "NHK"
+                    },
+                    "type": "PROPER"
+                },
+                {
+                    "text": {
+                        "beginOffset": 307,
+                        "content": "ＮＨＫ"
+                    },
+                    "type": "PROPER"
+                }
+            ],
+            "metadata": {},
+            "name": "NHK",
+            "salience": 0.4044121,
+            "type": "ORGANIZATION"
+        },
+        {
+            "mentions": [
+                {
+                    "text": {
+                        "beginOffset": 351,
+                        "content": "ja"
+                    },
+                    "type": "PROPER"
+                }
+            ],
+            "metadata": {
+                "mid": "/g/1q6jfqkhz",
+                "wikipedia_url": "https://en.wikipedia.org/wiki/Japan_Agricultural_Cooperatives"
+            },
+            "name": "ja",
+            "salience": 0.30363145,
+            "type": "ORGANIZATION"
+        },
+        {
+            "mentions": [
+                {
+                    "text": {
+                        "beginOffset": 281,
+                        "content": "放送　\t 放送原稿"
+                    },
+                    "type": "COMMON"
+                }
+            ],
+            "metadata": {},
+            "name": "放送 放送原稿",
+            "salience": 0.29195645,
+            "type": "OTHER"
+        }
+    ],
+    "language": "ja"
+}

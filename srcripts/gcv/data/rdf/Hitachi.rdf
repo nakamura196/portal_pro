@@ -1,0 +1,830 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:dct="http://purl.org/dc/terms/"
+	xmlns:dbo="http://dbpedia.org/ontology/"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:prov="http://www.w3.org/ns/prov#"
+	xmlns:dbp="http://dbpedia.org/property/"
+	xmlns:ns8="http://purl.org/linguistics/gold/" >
+  <rdf:Description rdf:about="http://dbpedia.org/resource/300_Series_Shinkansen">
+    <dbo:manufacturer rdf:resource="http://dbpedia.org/resource/Hitachi" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Agility_Trains">
+    <dbo:parentCompany rdf:resource="http://dbpedia.org/resource/Hitachi" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Fabrik_Inc.">
+    <dbo:type rdf:resource="http://dbpedia.org/resource/Hitachi" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/300X">
+    <dbo:manufacturer rdf:resource="http://dbpedia.org/resource/Hitachi" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Class_961_Shinkansen">
+    <dbo:manufacturer rdf:resource="http://dbpedia.org/resource/Hitachi" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Class_962_Shinkansen">
+    <dbo:manufacturer rdf:resource="http://dbpedia.org/resource/Hitachi" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/JNR_Class_ED76">
+    <dbo:builder rdf:resource="http://dbpedia.org/resource/Hitachi" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/South_African_Class_7E1">
+    <dbo:designer rdf:resource="http://dbpedia.org/resource/Hitachi" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/South_African_Class_7E3,_Series_2">
+    <dbo:designer rdf:resource="http://dbpedia.org/resource/Hitachi" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/WIN350">
+    <dbo:manufacturer rdf:resource="http://dbpedia.org/resource/Hitachi" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hitachi_Japan">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Hitachi" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Al_Hamra_Tower">
+    <dbp:servicesEngineers rdf:resource="http://dbpedia.org/resource/Hitachi" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Victory_Sports_Club">
+    <dbp:shirtSponsors rdf:resource="http://dbpedia.org/resource/Hitachi" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/H5_Series_Shinkansen">
+    <dbo:manufacturer rdf:resource="http://dbpedia.org/resource/Hitachi" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/E351_series">
+    <dbo:manufacturer rdf:resource="http://dbpedia.org/resource/Hitachi" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/E5_Series_Shinkansen">
+    <dbo:manufacturer rdf:resource="http://dbpedia.org/resource/Hitachi" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/485_series">
+    <dbo:manufacturer rdf:resource="http://dbpedia.org/resource/Hitachi" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/E7_Series_Shinkansen">
+    <dbo:manufacturer rdf:resource="http://dbpedia.org/resource/Hitachi" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/JNR_Class_C57">
+    <dbo:builder rdf:resource="http://dbpedia.org/resource/Hitachi" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/JR_Freight_Class_ED500">
+    <dbo:builder rdf:resource="http://dbpedia.org/resource/Hitachi" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/785_series">
+    <dbo:manufacturer rdf:resource="http://dbpedia.org/resource/Hitachi" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/815_series">
+    <dbo:manufacturer rdf:resource="http://dbpedia.org/resource/Hitachi" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/817_series">
+    <dbo:manufacturer rdf:resource="http://dbpedia.org/resource/Hitachi" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/E657_series">
+    <dbo:manufacturer rdf:resource="http://dbpedia.org/resource/Hitachi" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/371_series">
+    <dbo:manufacturer rdf:resource="http://dbpedia.org/resource/Hitachi" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/373_series">
+    <dbo:manufacturer rdf:resource="http://dbpedia.org/resource/Hitachi" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nagoya_Municipal_Subway_N3000_series">
+    <dbo:manufacturer rdf:resource="http://dbpedia.org/resource/Hitachi" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Disk_Array_Management_Program">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Hitachi" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Fukuoka_Subway_1000_series">
+    <dbo:manufacturer rdf:resource="http://dbpedia.org/resource/Hitachi" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Fukuoka_Subway_3000_series">
+    <dbo:manufacturer rdf:resource="http://dbpedia.org/resource/Hitachi" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Fukushima_Daiichi_Nuclear_Power_Plant">
+    <dbp:npReactorSupplier rdf:resource="http://dbpedia.org/resource/Hitachi" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Fukushima_Daini_Nuclear_Power_Plant">
+    <dbp:npReactorSupplier rdf:resource="http://dbpedia.org/resource/Hitachi" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hitachi">
+    <rdf:type rdf:resource="http://schema.org/Organization" />
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing" />
+    <rdf:type rdf:resource="http://umbel.org/umbel/rc/Business" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Agent" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatMedicalEquipmentManufacturers" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoPermanentlyLocatedEntity" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatNuclearTechnologyCompanies" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatCompaniesEstablishedIn1910" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatCanadianSubsidiariesOfForeignCompanies" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatPowerToolManufacturers" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/ElectronicsCompany108003035" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q24229398" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatConglomerateCompanies" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatHomeApplianceManufacturers" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatNuclearTechnologyCompaniesOfJapan" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/SocialGroup107950920" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Group100031264" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Organization108008335" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Abstraction100002137" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Organisation" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatManufacturingCompaniesOfCanada" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatEquipmentSemiconductorCompanies" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q43229" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatElectronicsCompanies" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatRollingStockManufacturers" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatCompaniesBasedInTokyo" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoLegalActor" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoLegalActorGeo" />
+    <rdf:type rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#SocialPerson" />
+    <rdf:type rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatManufacturingCompaniesOfJapan" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatComputerHardwareCompanies" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatAircraftManufacturersOfJapan" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatRollingStockManufacturersOfJapan" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatConglomerateCompaniesOfJapan" />
+    <rdf:type rdf:resource="http://umbel.org/umbel/rc/Organization" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatAircraftEngineManufacturersOfJapan" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatCompaniesBasedInSaskatoon" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatElevatorManufacturers" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatEscalatorManufacturers" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/SubsidiaryCompany108003935" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatDisplayTechnologyCompanies" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatMultinationalCompanies" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Institution108053576" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatCompaniesListedOnTheTokyoStockExchange" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatCompaniesListedOnTheNewYorkStockExchange" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Company108058098" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Manufacturer108060446" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Company" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Enterprise108056231" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Business108061042" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatElectronicsCompaniesOfJapan" />
+    <rdfs:label xml:lang="nl">Hitachi (bedrijf)</rdfs:label>
+    <rdfs:label xml:lang="es">Hitachi</rdfs:label>
+    <rdfs:label xml:lang="ar">هيتاشي</rdfs:label>
+    <rdfs:label xml:lang="pt">Hitachi (empresa)</rdfs:label>
+    <rdfs:label xml:lang="en">Hitachi</rdfs:label>
+    <rdfs:label xml:lang="pl">Hitachi (przedsiębiorstwo)</rdfs:label>
+    <rdfs:label xml:lang="zh">日立</rdfs:label>
+    <rdfs:label xml:lang="ru">Hitachi</rdfs:label>
+    <rdfs:label xml:lang="it">Hitachi (azienda)</rdfs:label>
+    <rdfs:label xml:lang="fr">Hitachi</rdfs:label>
+    <rdfs:label xml:lang="de">Hitachi (Unternehmen)</rdfs:label>
+    <rdfs:label xml:lang="ja">日立製作所</rdfs:label>
+    <rdfs:comment xml:lang="ar">مجموعة هيتاشي ليمتد (株式会社日立製作所).شركة يابانية عالمية متعددة النشاطات.رقمهافى مصر01111199773 مقرها الرئيسي في طوكيو في اليابان. حققت سنة 2009 إيرادات فاقت 99 مليار دولار وتشغل حوالي 400,120 شخص.</rdfs:comment>
+    <rdfs:comment xml:lang="de">Die K.K. Hitachi Seisakusho (jap. 株式会社日立製作所, Kabushiki-gaisha Hitachi Seisakusho, engl. Hitachi Ltd. Corporation) ist ein im Nikkei 225 gelisteter weltweit agierender Elektrotechnik- und Maschinenbaukonzern mit Sitz in der japanischen Hauptstadt Tokio.</rdfs:comment>
+    <rdfs:comment xml:lang="ja">株式会社日立製作所（ひたちせいさくしょ、英:Hitachi, Ltd.）は、日本の総合電機メーカーである。売上高で業界首位である。重電8社（日立製作所、東芝、三菱電機、富士電機、明電舎、ダイヘン、東光高岳、日新電機）の一角。また、大手重電3社（日立製作所、東芝、三菱電機）の一角。 通称は日立・HITACHIなどである。特に創業の地であり、主力工場を抱える茨城県日立市などでは、行政機関の日立市や他の日立グループ各社などと区別するため、日製（にっせい：「日」立「製」作所の略称）とも呼ばれている（後述参照）。 前身は、現在の茨城県日立市にあった銅と硫化鉄鉱を産出する久原鉱業所日立鉱山である。日立鉱山を母体として久原財閥が誕生し、久原財閥の流れを受けて日産コンツェルンが形成された。また、日立鉱山で使用する機械の修理製造部門が、1910年（明治43年）に国産初の5馬力誘導電動機（モーター）を完成させて、日立製作所が設立された。</rdfs:comment>
+    <rdfs:comment xml:lang="pl">Hitachi, Ltd. (jap. 株式会社日立製作所 Kabushiki-kaisha Hitachi Seisakusho) – koncern technologiczny z siedzibą w Tokio, oferujący produkty w większości krajów na świecie, w tym w Polsce. Grupę Hitachi w Europie stanowi 141 spółek zatrudniających ponad 11 tysięcy pracowników. Przedsiębiorstwo prowadzi aktywną działalność badawczo-rozwojową, w 2008 roku wydała ponad 4 mld USD na R&amp;D prowadzony w kilku centrach w Azji, Europie oraz Ameryce Północnej. Hitachi dostarcza swoje produkty dla wielu branż: W Polsce działają następujące spółki Grupy Hitachi:</rdfs:comment>
+    <rdfs:comment xml:lang="pt">Com sede na cidade de São Paulo, Brasil, a Hitachi atua na região da América do Sul desde 1940, e hoje são 10 empresas do grupo e mais de 1400 funcionários. A Hitachi oferece soluções inovadoras que respondem aos desafios da sociedade. O foco principal das atividades da empresa são os Negócios em Inovação Social, que variam desde sistemas de informação e telecomunicação, maquinário de construção, sistemas automotivos, sistemas médicos, componentes industriais, até sistemas de infraestrutura.</rdfs:comment>
+    <rdfs:comment xml:lang="zh">株式會社日立製作所（日文：株式会社日立製作所），簡稱日立，總部位於日本東京都，生產製造家用电器、電腦產品、半導體、产业机械等產品，是日本最大的綜合電機製造商。是美国《财富》杂志2015年评选的全球最大500家公司的排行榜中的第89名。</rdfs:comment>
+    <rdfs:comment xml:lang="ru">Hitachi Ltd. (яп. 株式会社日立製作所 кабусикигайся хитати сэйсакусё, TYO: 6501) — японский конгломерат (кабусики-гайся), один из крупнейших в мире. Основан в 1910 году в городе Хитати. В настоящее время главный офис компании находится в Токио. Сегодня Hitachi — это финансово-промышленная группа. В её состав входит более 1100 компаний: 
+*  Консолидированные дочерние компании (450 компаний в Японии, 484 — за рубежом); 
+*  Неконсолидированные дочерние компании (79 компаний в Японии, 86 — за рубежом).</rdfs:comment>
+    <rdfs:comment xml:lang="nl">Hitachi (株式会社日立製作所, Kabushiki-gaisha Hitachi Seisakusho) is een Japans concern gevestigd in Marunouchi Itchome, Chiyoda, Tokio, Japan. De Hitachi Groep heeft een jaaromzet van 10.034 miljard yen (2015) met 335.244 medewerkers (2015) verspreid over 1.056 bedrijfsonderdelen.Toshiaki Higashihara is sinds april 2016 Director, Representative Executive Officer, President en CEO van het bedrijf.</rdfs:comment>
+    <rdfs:comment xml:lang="en">Hitachi, Ltd. (株式会社日立製作所 Kabushiki-gaisha Hitachi Seisakusho) (Japanese pronunciation: [çiꜜtatɕi]) is a Japanese multinational conglomerate company headquartered in Chiyoda, Tokyo, Japan. It is the parent company of the Hitachi Group (Hitachi Gurūpu) and forms part of the DKB Group of companies. Hitachi is a highly diversified company that operates eleven business segments: Information &amp; Telecommunication Systems, Social Infrastructure, High Functional Materials &amp; Components, Financial Services, Power Systems, Electronic Systems &amp; Equipment, Automotive Systems, Railway &amp; Urban Systems, Digital Media &amp; Consumer Products, Construction Machinery and Other Components &amp; Systems.</rdfs:comment>
+    <rdfs:comment xml:lang="fr">Hitachi, Ltd (株式会社日立製作所, Kabushiki-gaisha Hitachi Seisakusho, TSE : 6501, NYSE : HIT), littéralement « Lever de soleil » en japonais, est une entreprise japonaise d&#39;électronique ayant son siège à Chiyoda-ku, Tokyo.</rdfs:comment>
+    <rdfs:comment xml:lang="es">Hitachi, Ltd. (en japonés: 株式会社日立製作所, transliteración: Kabushiki-gaisha Hitachi Seisakusho) es una empresa con sede en Chiyoda, Tokio, Japón. La compañía fue fundada a inicios del siglo XX en Hitachi, situada en la Prefectura de Ibaraki, como una tienda de reparación de equipos eléctricos. Hitachi produce una gran variedad de electrónica de consumo y proporciona productos para otras fábricas, como por ejemplo circuitos integrados y otros semiconductores.</rdfs:comment>
+    <rdfs:comment xml:lang="it">Hitachi Ltd. (株式会社日立製作所, Kabushiki gaisha Hitachi seisakusho) è una società giapponese, con sede a Tokyo, con interessi in molteplici settori tra cui elettronica, elettrotecnica, macchine movimento terra, costruzioni ferroviarie e, assieme a General Electric Power, reattori nucleari.</rdfs:comment>
+    <owl:sameAs rdf:resource="http://yago-knowledge.org/resource/Hitachi_Power_Systems_Canada" />
+    <owl:sameAs rdf:resource="http://openei.org/resources/Hitachi_Ltd" />
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.019tk3" />
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q53238" />
+    <owl:sameAs rdf:resource="http://ko.dbpedia.org/resource/히타치_제작소" />
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Hitachi" />
+    <owl:sameAs rdf:resource="http://www4.wiwiss.fu-berlin.de/wikicompany/resource/Hitachi" />
+    <owl:sameAs rdf:resource="http://fr.dbpedia.org/resource/Hitachi" />
+    <owl:sameAs rdf:resource="http://id.dbpedia.org/resource/Hitachi,_Ltd." />
+    <owl:sameAs rdf:resource="http://yago-knowledge.org/resource/Hitachi" />
+    <owl:sameAs rdf:resource="http://sw.cyc.com/concept/Mx4rvpfmhJwpEbGdrcN5Y29ycA" />
+    <owl:sameAs rdf:resource="http://pt.dbpedia.org/resource/Hitachi_(empresa)" />
+    <owl:sameAs rdf:resource="http://es.dbpedia.org/resource/Hitachi" />
+    <owl:sameAs rdf:resource="http://ja.dbpedia.org/resource/日立製作所" />
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q53238" />
+    <owl:sameAs rdf:resource="http://data.nytimes.com/N45167045761632930452" />
+    <owl:sameAs rdf:resource="http://pl.dbpedia.org/resource/Hitachi_(przedsiębiorstwo)" />
+    <owl:sameAs rdf:resource="http://nl.dbpedia.org/resource/Hitachi_(bedrijf)" />
+    <owl:sameAs rdf:resource="http://data.europa.eu/euodp/jrc-names/Hitachi_Ltd" />
+    <owl:sameAs rdf:resource="http://cs.dbpedia.org/resource/Hitachi" />
+    <owl:sameAs rdf:resource="http://it.dbpedia.org/resource/Hitachi_(azienda)" />
+    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/Hitachi_(Unternehmen)" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Aircraft_engine_manufacturers_of_Japan" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Computer_security_companies" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Companies_listed_on_the_Pink_Sheets" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Electrical_engineering_companies_of_Japan" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:HVAC_manufacturing_companies" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Power_tool_manufacturers" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Home_appliance_manufacturers" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Consumer_electronics_brands" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Technology_companies_established_in_1910" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Electronics_companies_of_Japan" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Manufacturing_companies_established_in_1910" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Companies_based_in_Tokyo" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Robotics_companies" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Multinational_companies_headquartered_in_Japan" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Midori-kai" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Fuyo_Group" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Japanese_brands" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Conglomerate_companies_of_Japan" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Defense_companies_of_Japan" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Electrical_wiring_and_construction_supplies_manufacturers" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Public_safety_communications" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Military_vehicle_manufacturers" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Companies_formerly_listed_on_the_New_York_Stock_Exchange" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Japanese_robotics" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Display_technology_companies" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Warrants_issued_in_Hong_Kong_Stock_Exchange" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:1910_establishments_in_Japan" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Equipment_semiconductor_companies" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Computer_security_organizations" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Power_engineering" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Rolling_stock_manufacturers_of_Japan" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Escalator_manufacturers" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Hitachi" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Nuclear_technology_companies_of_Japan" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Elevator_manufacturers" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Wind_turbine_manufacturers" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Renewable_energy_companies" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Manufacturing_companies_of_Japan" />
+    <dbo:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">188676</dbo:wikiPageID>
+    <dbo:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">743645399</dbo:wikiPageRevisionID>
+    <dbo:wikiPageExternalLink rdf:resource="http://www.hitachi.com" />
+    <foaf:name xml:lang="en">Hitachi, Ltd.</foaf:name>
+    <foaf:name xml:lang="en">株式会社日立製作所</foaf:name>
+    <foaf:homepage rdf:resource="http://www.hitachi.com" />
+    <foaf:depiction rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Hitachi_inspire_the_next-Logo.svg" />
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Hitachi" />
+    <dbo:thumbnail rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Hitachi_inspire_the_next-Logo.svg?width=300" />
+    <prov:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Hitachi?oldid=743645399" />
+    <dbo:abstract xml:lang="pt">Com sede na cidade de São Paulo, Brasil, a Hitachi atua na região da América do Sul desde 1940, e hoje são 10 empresas do grupo e mais de 1400 funcionários. A Hitachi oferece soluções inovadoras que respondem aos desafios da sociedade. O foco principal das atividades da empresa são os Negócios em Inovação Social, que variam desde sistemas de informação e telecomunicação, maquinário de construção, sistemas automotivos, sistemas médicos, componentes industriais, até sistemas de infraestrutura.</dbo:abstract>
+    <dbo:abstract xml:lang="de">Die K.K. Hitachi Seisakusho (jap. 株式会社日立製作所, Kabushiki-gaisha Hitachi Seisakusho, engl. Hitachi Ltd. Corporation) ist ein im Nikkei 225 gelisteter weltweit agierender Elektrotechnik- und Maschinenbaukonzern mit Sitz in der japanischen Hauptstadt Tokio.</dbo:abstract>
+    <dbo:abstract xml:lang="pl">Hitachi, Ltd. (jap. 株式会社日立製作所 Kabushiki-kaisha Hitachi Seisakusho) – koncern technologiczny z siedzibą w Tokio, oferujący produkty w większości krajów na świecie, w tym w Polsce. Grupę Hitachi w Europie stanowi 141 spółek zatrudniających ponad 11 tysięcy pracowników. Przedsiębiorstwo prowadzi aktywną działalność badawczo-rozwojową, w 2008 roku wydała ponad 4 mld USD na R&amp;D prowadzony w kilku centrach w Azji, Europie oraz Ameryce Północnej. Hitachi dostarcza swoje produkty dla wielu branż: 
+*  IT (dyski twarde, macierze dyskowe, serwery, systemy biometryczne Finger Vein, RFID, Smart Cards), 
+*  energetyka (elektrownie konwencjonalne i jądrowe, turbiny, instalacje FGD oraz deNOx), 
+*  budownictwo (maszyny budowlane oraz elektronarzędzia), 
+*  kolej (pociągi dużych prędkości &#39;Shinkansen&#39;, składy metra oraz systemy kontroli jazdy), 
+*  motoryzacja (elektronika samochodowa, komponenty i systemy dla przemysłu motoryzacyjnego), 
+*  elektronika konsumencka (TV LCD i plazmowe, wyświetlacze, kamery, baterie i nośniki pamięci), 
+*  materiały i komponenty wysokofunkcyjne (kable i przewody, metale specjalne, półprzewodniki), 
+*  sprzęt medyczny (aparatura do rezonansu magnetycznego, USG), 
+*  sprzęt badawczo-naukowy (mikroskopy, chromatografy, spektrometry), 
+*  urządzenia do przemysłu (drukarki przemysłowe ink-jet, łańcuchy rolkowe i transportowe). W Polsce działają następujące spółki Grupy Hitachi: 
+*  Hitachi Europe Ltd. Przedstawicielstwo w Polsce 
+*  Hitachi Europe Ltd. Information Systems Group (systemy IT, biometria, RFID) 
+*  Hitachi Data Systems (Polska) Sp. z o.o. (macierze dyskowe, serwery) 
+*  Hitmark Sp. z o.o. (drukarki przemysłowe ink-jet) 
+*  Hitachi Power Tools Polska Sp. z o.o. (elektronarzędzia, narzędzia spalinowe) - jest przedstawicielem Hitachi Koki, dywizji koncernu zajmującej się produkcją elektronarzędzi. Firma została założona w 1948 roku i obecnie posiada 8 fabryk rozlokowanych na całym świecie. Marka jest obecna na polskim rynku poprzez sieć swoich dystrybutorów już od początku lat osiemdziesiątych, zaś rejestracja firmy Hitachi Power Tools Polska Sp. z o.o. nastąpiła w październiku 1997 roku. Hitachi to marka przeznaczona dla segmentu profesjonalistów. 
+*  Corpoflota Sp. z o. o. - spółka zależna od Hitachi Capital Ltd. Specjalizująca się w wynajmie samochodów</dbo:abstract>
+    <dbo:abstract xml:lang="it">Hitachi Ltd. (株式会社日立製作所, Kabushiki gaisha Hitachi seisakusho) è una società giapponese, con sede a Tokyo, con interessi in molteplici settori tra cui elettronica, elettrotecnica, macchine movimento terra, costruzioni ferroviarie e, assieme a General Electric Power, reattori nucleari.</dbo:abstract>
+    <dbo:abstract xml:lang="ja">株式会社日立製作所（ひたちせいさくしょ、英:Hitachi, Ltd.）は、日本の総合電機メーカーである。売上高で業界首位である。重電8社（日立製作所、東芝、三菱電機、富士電機、明電舎、ダイヘン、東光高岳、日新電機）の一角。また、大手重電3社（日立製作所、東芝、三菱電機）の一角。 通称は日立・HITACHIなどである。特に創業の地であり、主力工場を抱える茨城県日立市などでは、行政機関の日立市や他の日立グループ各社などと区別するため、日製（にっせい：「日」立「製」作所の略称）とも呼ばれている（後述参照）。 前身は、現在の茨城県日立市にあった銅と硫化鉄鉱を産出する久原鉱業所日立鉱山である。日立鉱山を母体として久原財閥が誕生し、久原財閥の流れを受けて日産コンツェルンが形成された。また、日立鉱山で使用する機械の修理製造部門が、1910年（明治43年）に国産初の5馬力誘導電動機（モーター）を完成させて、日立製作所が設立された。</dbo:abstract>
+    <dbo:abstract xml:lang="en">Hitachi, Ltd. (株式会社日立製作所 Kabushiki-gaisha Hitachi Seisakusho) (Japanese pronunciation: [çiꜜtatɕi]) is a Japanese multinational conglomerate company headquartered in Chiyoda, Tokyo, Japan. It is the parent company of the Hitachi Group (Hitachi Gurūpu) and forms part of the DKB Group of companies. Hitachi is a highly diversified company that operates eleven business segments: Information &amp; Telecommunication Systems, Social Infrastructure, High Functional Materials &amp; Components, Financial Services, Power Systems, Electronic Systems &amp; Equipment, Automotive Systems, Railway &amp; Urban Systems, Digital Media &amp; Consumer Products, Construction Machinery and Other Components &amp; Systems. Hitachi is listed on the Tokyo Stock Exchange and is a constituent of the Nikkei 225 and TOPIX indices. It is ranked 38th in the 2012 Fortune Global 500 and 129th in the 2012 Forbes Global 2000. On January 21, 2014, numerous tech articles around the globe published findings from the cloud storage provider Backblaze that Hitachi hard disks are the most reliable among prominent hard disk manufacturers.</dbo:abstract>
+    <dbo:abstract xml:lang="nl">Hitachi (株式会社日立製作所, Kabushiki-gaisha Hitachi Seisakusho) is een Japans concern gevestigd in Marunouchi Itchome, Chiyoda, Tokio, Japan. De Hitachi Groep heeft een jaaromzet van 10.034 miljard yen (2015) met 335.244 medewerkers (2015) verspreid over 1.056 bedrijfsonderdelen.Toshiaki Higashihara is sinds april 2016 Director, Representative Executive Officer, President en CEO van het bedrijf.</dbo:abstract>
+    <dbo:abstract xml:lang="zh">株式會社日立製作所（日文：株式会社日立製作所），簡稱日立，總部位於日本東京都，生產製造家用电器、電腦產品、半導體、产业机械等產品，是日本最大的綜合電機製造商。是美国《财富》杂志2015年评选的全球最大500家公司的排行榜中的第89名。</dbo:abstract>
+    <dbo:abstract xml:lang="es">Hitachi, Ltd. (en japonés: 株式会社日立製作所, transliteración: Kabushiki-gaisha Hitachi Seisakusho) es una empresa con sede en Chiyoda, Tokio, Japón. La compañía fue fundada a inicios del siglo XX en Hitachi, situada en la Prefectura de Ibaraki, como una tienda de reparación de equipos eléctricos. Hitachi produce una gran variedad de electrónica de consumo y proporciona productos para otras fábricas, como por ejemplo circuitos integrados y otros semiconductores.</dbo:abstract>
+    <dbo:abstract xml:lang="ar">مجموعة هيتاشي ليمتد (株式会社日立製作所).شركة يابانية عالمية متعددة النشاطات.رقمهافى مصر01111199773 مقرها الرئيسي في طوكيو في اليابان. حققت سنة 2009 إيرادات فاقت 99 مليار دولار وتشغل حوالي 400,120 شخص.</dbo:abstract>
+    <dbo:abstract xml:lang="ru">Hitachi Ltd. (яп. 株式会社日立製作所 кабусикигайся хитати сэйсакусё, TYO: 6501) — японский конгломерат (кабусики-гайся), один из крупнейших в мире. Основан в 1910 году в городе Хитати. В настоящее время главный офис компании находится в Токио. Сегодня Hitachi — это финансово-промышленная группа. В её состав входит более 1100 компаний: 
+*  Консолидированные дочерние компании (450 компаний в Японии, 484 — за рубежом); 
+*  Неконсолидированные дочерние компании (79 компаний в Японии, 86 — за рубежом).</dbo:abstract>
+    <dbo:abstract xml:lang="fr">Hitachi, Ltd (株式会社日立製作所, Kabushiki-gaisha Hitachi Seisakusho, TSE : 6501, NYSE : HIT), littéralement « Lever de soleil » en japonais, est une entreprise japonaise d&#39;électronique ayant son siège à Chiyoda-ku, Tokyo.</dbo:abstract>
+    <dbo:foundationPlace rdf:resource="http://dbpedia.org/resource/Hitachi,_Ibaraki" />
+    <dbo:foundationPlace rdf:resource="http://dbpedia.org/resource/Japan" />
+    <dbo:foundedBy rdf:resource="http://dbpedia.org/resource/Namihei_Odaira" />
+    <dbo:foundingYear rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1910</dbo:foundingYear>
+    <dbo:industry rdf:resource="http://dbpedia.org/resource/Conglomerate_(company)" />
+    <dbo:internationally rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</dbo:internationally>
+    <dbo:keyPerson rdf:resource="http://dbpedia.org/resource/Hiroaki_Nakanishi" />
+    <dbo:keyPerson rdf:resource="http://dbpedia.org/resource/Takashi_Kawamura_(businessman)" />
+    <dbo:locationCity rdf:resource="http://dbpedia.org/resource/Chiyoda,_Tokyo" />
+    <dbo:locationCountry rdf:resource="http://dbpedia.org/resource/Japan" />
+    <dbo:numberOfEmployees rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">336670</dbo:numberOfEmployees>
+    <dbo:product rdf:resource="http://dbpedia.org/resource/Electronics" />
+    <dbo:product rdf:resource="http://dbpedia.org/resource/Telecommunications_equipment" />
+    <dbo:product rdf:resource="http://dbpedia.org/resource/Industrial_machinery" />
+    <dbo:product rdf:resource="http://dbpedia.org/resource/Power_plant" />
+    <dbo:product rdf:resource="http://dbpedia.org/resource/Information_system" />
+    <dbo:product rdf:resource="http://dbpedia.org/resource/Military_technology" />
+    <dbo:service rdf:resource="http://dbpedia.org/resource/Financial_service" />
+    <dbp:areaServed rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Worldwide</dbp:areaServed>
+    <dbp:logo rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Hitachi inspire the next-Logo.svg</dbp:logo>
+    <dbp:slogan rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Inspire the Nex´t</dbp:slogan>
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Company" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hitachi_(disambiguation)">
+    <dbo:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/Hitachi" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hitachi_Construction_Machinery_(Europe)">
+    <dbo:owner rdf:resource="http://dbpedia.org/resource/Hitachi" />
+    <dbo:owningCompany rdf:resource="http://dbpedia.org/resource/Hitachi" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hitachi_Hatsukaze">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Hitachi" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hitachi_Magic_Wand">
+    <dbp:company rdf:resource="http://dbpedia.org/resource/Hitachi" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hitachi_Maxell">
+    <dbo:parentCompany rdf:resource="http://dbpedia.org/resource/Hitachi" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hitachi_Works">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Hitachi" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/400_Series_Shinkansen">
+    <dbo:manufacturer rdf:resource="http://dbpedia.org/resource/Hitachi" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hitachi_Disk_Array_Management_Program">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Hitachi" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sun_Ba_Power_Plant">
+    <dbp:psUnitsManuModel rdf:resource="http://dbpedia.org/resource/Hitachi" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/223_series">
+    <dbo:manufacturer rdf:resource="http://dbpedia.org/resource/Hitachi" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/E257_series">
+    <dbo:manufacturer rdf:resource="http://dbpedia.org/resource/Hitachi" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Japanese_aircraft_carrier_Kumano_Maru">
+    <dbo:builder rdf:resource="http://dbpedia.org/resource/Hitachi" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hitachi,_Ltd">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Hitachi" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hitachi_Ltd">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Hitachi" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hitachi_Ltd._of_Japan.">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Hitachi" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hitachi_ltd">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Hitachi" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Senoko_Power_Station">
+    <dbp:psUnitsManuModel rdf:resource="http://dbpedia.org/resource/Hitachi" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/213_series">
+    <dbo:manufacturer rdf:resource="http://dbpedia.org/resource/Hitachi" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/800_Series_Shinkansen">
+    <dbo:manufacturer rdf:resource="http://dbpedia.org/resource/Hitachi" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/N700_Series_Shinkansen">
+    <dbo:manufacturer rdf:resource="http://dbpedia.org/resource/Hitachi" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/JNR_Class_C62">
+    <dbo:builder rdf:resource="http://dbpedia.org/resource/Hitachi" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/STAR21">
+    <dbo:manufacturer rdf:resource="http://dbpedia.org/resource/Hitachi" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/121_series">
+    <dbo:manufacturer rdf:resource="http://dbpedia.org/resource/Hitachi" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/721_series">
+    <dbo:manufacturer rdf:resource="http://dbpedia.org/resource/Hitachi" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/811_series">
+    <dbo:manufacturer rdf:resource="http://dbpedia.org/resource/Hitachi" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/China_Railways_JF">
+    <dbo:builder rdf:resource="http://dbpedia.org/resource/Hitachi" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/JNR_Class_C59">
+    <dbo:builder rdf:resource="http://dbpedia.org/resource/Hitachi" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Osaka_Municipal_Subway_New_20_series">
+    <dbo:manufacturer rdf:resource="http://dbpedia.org/resource/Hitachi" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sri_Lanka_Railways_S5">
+    <dbo:manufacturer rdf:resource="http://dbpedia.org/resource/Hitachi" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/British_Rail_Class_802">
+    <dbo:manufacturer rdf:resource="http://dbpedia.org/resource/Hitachi" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Loy_Yang_Power_Station">
+    <dbp:psUnitsManuModel rdf:resource="http://dbpedia.org/resource/Hitachi" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Metabo">
+    <dbo:parentCompany rdf:resource="http://dbpedia.org/resource/Hitachi" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tarong_Power_Station">
+    <dbp:psUnitsManuModel rdf:resource="http://dbpedia.org/resource/Hitachi" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Choshi_Electric_Railway_2000_series">
+    <dbo:manufacturer rdf:resource="http://dbpedia.org/resource/Hitachi" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/British_Rail_Class_800">
+    <dbo:manufacturer rdf:resource="http://dbpedia.org/resource/Hitachi" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/British_Rail_Class_801">
+    <dbo:manufacturer rdf:resource="http://dbpedia.org/resource/Hitachi" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/W7_Series_Shinkansen">
+    <dbo:manufacturer rdf:resource="http://dbpedia.org/resource/Hitachi" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/British_Rail_Class_395">
+    <dbo:manufacturer rdf:resource="http://dbpedia.org/resource/Hitachi" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hitachi_website">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Hitachi" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/415_series">
+    <dbo:manufacturer rdf:resource="http://dbpedia.org/resource/Hitachi" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/JNR_Class_DF50">
+    <dbo:builder rdf:resource="http://dbpedia.org/resource/Hitachi" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sri_Lanka_Railways_M5">
+    <dbo:builder rdf:resource="http://dbpedia.org/resource/Hitachi" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Clarion_(company)">
+    <dbo:parentCompany rdf:resource="http://dbpedia.org/resource/Hitachi" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hitachi,_Ltd.">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Hitachi" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hitachi_Consulting">
+    <dbo:parentCompany rdf:resource="http://dbpedia.org/resource/Hitachi" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/205_series">
+    <dbo:manufacturer rdf:resource="http://dbpedia.org/resource/Hitachi" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hitati_(company)">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Hitachi" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/JNR_Class_EH10">
+    <dbo:builder rdf:resource="http://dbpedia.org/resource/Hitachi" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/JNR_Class_C56">
+    <dbo:builder rdf:resource="http://dbpedia.org/resource/Hitachi" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/713_series">
+    <dbo:manufacturer rdf:resource="http://dbpedia.org/resource/Hitachi" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sri_Lanka_Railways_S8">
+    <dbo:manufacturer rdf:resource="http://dbpedia.org/resource/Hitachi" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/YAM-1">
+    <dbo:builder rdf:resource="http://dbpedia.org/resource/Hitachi" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hitahci">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Hitachi" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/AnsaldoBreda">
+    <dbo:parentCompany rdf:resource="http://dbpedia.org/resource/Hitachi" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hankyu_1300_series">
+    <dbo:manufacturer rdf:resource="http://dbpedia.org/resource/Hitachi" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hitachi_Ltd.">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Hitachi" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/E653_series">
+    <dbo:manufacturer rdf:resource="http://dbpedia.org/resource/Hitachi" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/311_series">
+    <dbo:manufacturer rdf:resource="http://dbpedia.org/resource/Hitachi" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/E655_series">
+    <dbo:manufacturer rdf:resource="http://dbpedia.org/resource/Hitachi" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/E6_Series_Shinkansen">
+    <dbo:manufacturer rdf:resource="http://dbpedia.org/resource/Hitachi" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/JNR_Class_EF55">
+    <dbo:builder rdf:resource="http://dbpedia.org/resource/Hitachi" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/JNR_Class_EF81">
+    <dbo:builder rdf:resource="http://dbpedia.org/resource/Hitachi" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/JR_Freight_Class_EF200">
+    <dbo:builder rdf:resource="http://dbpedia.org/resource/Hitachi" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tokyo_Metro_15000_series">
+    <dbo:manufacturer rdf:resource="http://dbpedia.org/resource/Hitachi" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/THSR_700T">
+    <dbo:manufacturer rdf:resource="http://dbpedia.org/resource/Hitachi" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kashiwa_Reysol">
+    <dbo:owner rdf:resource="http://dbpedia.org/resource/Hitachi" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hitachi_Kashiwa_Soccer_Stadium">
+    <dbo:owner rdf:resource="http://dbpedia.org/resource/Hitachi" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/500_Series_Shinkansen">
+    <dbo:manufacturer rdf:resource="http://dbpedia.org/resource/Hitachi" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/700_Series_Shinkansen">
+    <dbo:manufacturer rdf:resource="http://dbpedia.org/resource/Hitachi" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/E1_Series_Shinkansen">
+    <dbo:manufacturer rdf:resource="http://dbpedia.org/resource/Hitachi" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/E2_Series_Shinkansen">
+    <dbo:manufacturer rdf:resource="http://dbpedia.org/resource/Hitachi" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/E4_Series_Shinkansen">
+    <dbo:manufacturer rdf:resource="http://dbpedia.org/resource/Hitachi" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/0_Series_Shinkansen">
+    <dbo:manufacturer rdf:resource="http://dbpedia.org/resource/Hitachi" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/100_Series_Shinkansen">
+    <dbo:manufacturer rdf:resource="http://dbpedia.org/resource/Hitachi" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/200_Series_Shinkansen">
+    <dbo:manufacturer rdf:resource="http://dbpedia.org/resource/Hitachi" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hitachi_small-type_monorail_(Sentosa_Express)">
+    <dbo:manufacturer rdf:resource="http://dbpedia.org/resource/Hitachi" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Chichibu_Railway_Class_DeKi_300">
+    <dbo:builder rdf:resource="http://dbpedia.org/resource/Hitachi" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/H-series_(Toronto_subway)">
+    <dbo:manufacturer rdf:resource="http://dbpedia.org/resource/Hitachi" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/201_series">
+    <dbo:manufacturer rdf:resource="http://dbpedia.org/resource/Hitachi" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tokyo_Metro_05_series">
+    <dbo:manufacturer rdf:resource="http://dbpedia.org/resource/Hitachi" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/283_series">
+    <dbo:manufacturer rdf:resource="http://dbpedia.org/resource/Hitachi" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hitachi_(company)">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Hitachi" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/HITACHI">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Hitachi" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Indian_locomotive_class_WG">
+    <dbo:builder rdf:resource="http://dbpedia.org/resource/Hitachi" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Chichibu_Railway_Class_DeKi_100">
+    <dbo:builder rdf:resource="http://dbpedia.org/resource/Hitachi" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Chichibu_Railway_Class_DeKi_200">
+    <dbo:builder rdf:resource="http://dbpedia.org/resource/Hitachi" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Chichibu_Railway_Class_DeKi_500">
+    <dbo:builder rdf:resource="http://dbpedia.org/resource/Hitachi" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hitachi_Newton_Aycliffe">
+    <dbp:owner rdf:resource="http://dbpedia.org/resource/Hitachi" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/JNR_Class_C11">
+    <dbo:builder rdf:resource="http://dbpedia.org/resource/Hitachi" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/South_African_Class_7E4">
+    <dbo:designer rdf:resource="http://dbpedia.org/resource/Hitachi" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/BEC819_series">
+    <dbo:manufacturer rdf:resource="http://dbpedia.org/resource/Hitachi" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/DeRoNi-class_locomotive">
+    <dbo:builder rdf:resource="http://dbpedia.org/resource/Hitachi" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/JNR_Class_EF70">
+    <dbo:builder rdf:resource="http://dbpedia.org/resource/Hitachi" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Miho_Murata">
+    <dbp:teams rdf:resource="http://dbpedia.org/resource/Hitachi" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Miho_Ota">
+    <dbp:teams rdf:resource="http://dbpedia.org/resource/Hitachi" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Miyuki_Shimazaki">
+    <dbp:teams rdf:resource="http://dbpedia.org/resource/Hitachi" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Shibaden">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Hitachi" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hitachi_Group">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Hitachi" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hitachi_Koki_U.S.A._Ltd.">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Hitachi" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hitachi_Koki_U.S.A._Ltd._and_Hitachi_Telecom_Inc.">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Hitachi" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hitachi_Telecom_Inc.">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Hitachi" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kabushiki-gaisha_Hitachi_Seisakusho">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Hitachi" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/株式会社日立製作所">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Hitachi" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nissan_Bluebird__Datsun_Type_12__1">
+    <dbo:assembly rdf:resource="http://dbpedia.org/resource/Hitachi" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/735_series">
+    <dbo:manufacturer rdf:resource="http://dbpedia.org/resource/Hitachi" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/305_series">
+    <dbo:manufacturer rdf:resource="http://dbpedia.org/resource/Hitachi" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Choshi_Electric_Railway_1000_series">
+    <dbo:manufacturer rdf:resource="http://dbpedia.org/resource/Hitachi" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hankyu_1000_series">
+    <dbo:manufacturer rdf:resource="http://dbpedia.org/resource/Hitachi" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/JR_Shikoku_8000_series">
+    <dbo:manufacturer rdf:resource="http://dbpedia.org/resource/Hitachi" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Keio_5000_series">
+    <dbo:manufacturer rdf:resource="http://dbpedia.org/resource/Hitachi" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nagoya_Municipal_Subway_3000_series">
+    <dbo:manufacturer rdf:resource="http://dbpedia.org/resource/Hitachi" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Osaka_Monorail_1000_series">
+    <dbo:manufacturer rdf:resource="http://dbpedia.org/resource/Hitachi" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Osaka_Monorail_2000_series">
+    <dbo:manufacturer rdf:resource="http://dbpedia.org/resource/Hitachi" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Seibu_20000_series">
+    <dbo:manufacturer rdf:resource="http://dbpedia.org/resource/Hitachi" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Seibu_30000_series">
+    <dbo:manufacturer rdf:resource="http://dbpedia.org/resource/Hitachi" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sotetsu_6000_series">
+    <dbo:manufacturer rdf:resource="http://dbpedia.org/resource/Hitachi" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sotetsu_7000_series">
+    <dbo:manufacturer rdf:resource="http://dbpedia.org/resource/Hitachi" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sotetsu_8000_series">
+    <dbo:manufacturer rdf:resource="http://dbpedia.org/resource/Hitachi" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/TX-2000_series">
+    <dbo:manufacturer rdf:resource="http://dbpedia.org/resource/Hitachi" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tobu_50000_series">
+    <dbo:manufacturer rdf:resource="http://dbpedia.org/resource/Hitachi" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tobu_60000_series">
+    <dbo:manufacturer rdf:resource="http://dbpedia.org/resource/Hitachi" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Toei_7000_series">
+    <dbo:manufacturer rdf:resource="http://dbpedia.org/resource/Hitachi" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tokyo_Metro_10000_series">
+    <dbo:manufacturer rdf:resource="http://dbpedia.org/resource/Hitachi" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tōyō_Rapid_2000_series">
+    <dbo:manufacturer rdf:resource="http://dbpedia.org/resource/Hitachi" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Class_1000_Shinkansen">
+    <dbo:manufacturer rdf:resource="http://dbpedia.org/resource/Hitachi" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Fastech_360">
+    <dbo:manufacturer rdf:resource="http://dbpedia.org/resource/Hitachi" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/383_series">
+    <dbo:manufacturer rdf:resource="http://dbpedia.org/resource/Hitachi" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/583_series">
+    <dbo:manufacturer rdf:resource="http://dbpedia.org/resource/Hitachi" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tokyo_Metro_16000_series">
+    <dbo:manufacturer rdf:resource="http://dbpedia.org/resource/Hitachi" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/JNR_Class_ED75">
+    <dbo:builder rdf:resource="http://dbpedia.org/resource/Hitachi" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/JNR_Class_ED79">
+    <dbo:builder rdf:resource="http://dbpedia.org/resource/Hitachi" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mike_Duane_Gillis">
+    <dbo:occupation rdf:resource="http://dbpedia.org/resource/Hitachi" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/787_series">
+    <dbo:manufacturer rdf:resource="http://dbpedia.org/resource/Hitachi" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/JNR_Class_DD51">
+    <dbo:builder rdf:resource="http://dbpedia.org/resource/Hitachi" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/JNR_Class_EF57">
+    <dbo:builder rdf:resource="http://dbpedia.org/resource/Hitachi" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/JNR_Class_EF58">
+    <dbo:builder rdf:resource="http://dbpedia.org/resource/Hitachi" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/103_series">
+    <dbo:manufacturer rdf:resource="http://dbpedia.org/resource/Hitachi" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/113_series">
+    <dbo:manufacturer rdf:resource="http://dbpedia.org/resource/Hitachi" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/207_series">
+    <dbo:manufacturer rdf:resource="http://dbpedia.org/resource/Hitachi" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/211_series">
+    <dbo:manufacturer rdf:resource="http://dbpedia.org/resource/Hitachi" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/215_series">
+    <dbo:manufacturer rdf:resource="http://dbpedia.org/resource/Hitachi" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/221_series">
+    <dbo:manufacturer rdf:resource="http://dbpedia.org/resource/Hitachi" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/681_series">
+    <dbo:manufacturer rdf:resource="http://dbpedia.org/resource/Hitachi" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/683_series">
+    <dbo:manufacturer rdf:resource="http://dbpedia.org/resource/Hitachi" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/885_series">
+    <dbo:manufacturer rdf:resource="http://dbpedia.org/resource/Hitachi" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/783_series">
+    <dbo:manufacturer rdf:resource="http://dbpedia.org/resource/Hitachi" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/883_series">
+    <dbo:manufacturer rdf:resource="http://dbpedia.org/resource/Hitachi" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/381_series">
+    <dbo:manufacturer rdf:resource="http://dbpedia.org/resource/Hitachi" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/711_series">
+    <dbo:manufacturer rdf:resource="http://dbpedia.org/resource/Hitachi" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/GE_Hitachi_Nuclear_Energy">
+    <dbo:parentCompany rdf:resource="http://dbpedia.org/resource/Hitachi" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/South_African_Class_7E3,_Series_1">
+    <dbo:designer rdf:resource="http://dbpedia.org/resource/Hitachi" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Toei_10-000_series">
+    <dbo:manufacturer rdf:resource="http://dbpedia.org/resource/Hitachi" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Toei_12-000_series">
+    <dbo:manufacturer rdf:resource="http://dbpedia.org/resource/Hitachi" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Toei_5300_series">
+    <dbo:manufacturer rdf:resource="http://dbpedia.org/resource/Hitachi" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/China_Railways_JF6">
+    <dbo:builder rdf:resource="http://dbpedia.org/resource/Hitachi" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/JNR_Class_ED78">
+    <dbo:builder rdf:resource="http://dbpedia.org/resource/Hitachi" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/日立">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Hitachi" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hitachi_Chemical">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Hitachi" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hitachi_Inc.">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Hitachi" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hitatchi">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Hitachi" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hitachi_Plant_Technologies">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Hitachi" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hitachi_plant_technologies">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Hitachi" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hitachi_Europe">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Hitachi" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hitachi_Software_Engineering_Ltd">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Hitachi" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Hitachi">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Hitachi" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hitachi_Canadian_Industries">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Hitachi" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hitachi_Gurupu">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Hitachi" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hitachi_Gurūpu">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Hitachi" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hitachi_Kabushiki-gaisha">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Hitachi" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hitachi_Power_Systems_Canada">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Hitachi" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hitachi_Seisakusho">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Hitachi" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hitachi_Seisakusho_Kabushiki-gaisha">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Hitachi" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kabushiki_Kaisha_Hitachi_Seisakusho">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Hitachi" />
+  </rdf:Description>
+</rdf:RDF>

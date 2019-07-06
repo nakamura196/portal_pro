@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:dct="http://purl.org/dc/terms/"
+	xmlns:dbo="http://dbpedia.org/ontology/"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:prov="http://www.w3.org/ns/prov#"
+	xmlns:dbp="http://dbpedia.org/property/"
+	xmlns:ns8="http://purl.org/linguistics/gold/" >
+  <rdf:Description rdf:about="http://dbpedia.org/resource/List_of_cocktails">
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Gin" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bermúdez_(rum)">
+    <dbo:product rdf:resource="http://dbpedia.org/resource/Gin" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sipsmith">
+    <dbo:product rdf:resource="http://dbpedia.org/resource/Gin" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hendrick&#39;s_Gin">
+    <dbp:type rdf:resource="http://dbpedia.org/resource/Gin" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Singapore_Sling">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Gin" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sacred_Microdistillery">
+    <dbo:product rdf:resource="http://dbpedia.org/resource/Gin" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Judd_Hill_Cotton_Gin">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Gin" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bombay_Sapphire">
+    <dbp:type rdf:resource="http://dbpedia.org/resource/Gin" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gin">
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/MythologicalFigure" />
+    <rdfs:label xml:lang="pt">Gim</rdfs:label>
+    <rdfs:label xml:lang="ar">جن (مشروب كحولي)</rdfs:label>
+    <rdfs:label xml:lang="en">Gin</rdfs:label>
+    <rdfs:label xml:lang="de">Gin</rdfs:label>
+    <rdfs:label xml:lang="nl">Gin</rdfs:label>
+    <rdfs:label xml:lang="it">Gin</rdfs:label>
+    <rdfs:label xml:lang="ja">ジン (蒸留酒)</rdfs:label>
+    <rdfs:label xml:lang="pl">Gin</rdfs:label>
+    <rdfs:label xml:lang="zh">琴酒</rdfs:label>
+    <rdfs:label xml:lang="es">Ginebra (bebida)</rdfs:label>
+    <rdfs:label xml:lang="ru">Джин</rdfs:label>
+    <rdfs:label xml:lang="fr">Gin</rdfs:label>
+    <rdfs:comment xml:lang="ar">25بك المحتوى هنا ينقصه الاستشهاد بمصادر. يرجى إيراد مصادر موثوق بها. أي معلومات غير موثقة يمكن التشكيك بها وإزالتها. (فبراير 2016) الجن (بالإنجليزية: Gin)، هو مشروب كحولي قوي، يصنع من تقطير كحول البذور البيضاء وعنب الجونيبر، الذي يمنحه طعمه الخاص. طعم الجن الطبيعي هو جاف جداً، ولهذا يخلط مع مشروبات أخرى مثل التونك ( بالإنجليزية tonic ) وأسم جن مقتبس من عنب الجونيبر ( توت العرعر )ونسبة الكحول به 37.5% .</rdfs:comment>
+    <rdfs:comment xml:lang="zh">琴酒（英语：Gin，荷蘭語：Jenever），又稱為氈酒（香港）或琴酒（台灣），是一種以穀物為原料經發酵與蒸餾製造出的中性烈酒基底，增添以杜松子為主的多種藥材與香料調味後，所製造出來的一種西洋蒸餾酒。 琴酒的外文原名源自於它主要調味成分之一的杜松子，因此也經常被稱為杜松子酒，但並不是所有的琴酒都是以杜松子作為主要調味，例如：較少見的黑刺李琴酒（Sloe Gin）就不適合以「杜松子酒」稱呼之。常用譯名之一的「琴」酒是英語「gin」字在上海話中的音譯，而「金」的譯法則起源於國語的直譯。</rdfs:comment>
+    <rdfs:comment xml:lang="pt">Gim ou gin é uma bebida destilada à base de cereais. Posteriormente passa por um processo de infusão com zimbro e outras especiarias. Tem teor alcoólico entre 40% e 50%, dependendo da marca (teor semelhante a outras aguardentes como vodca, uísque ou cachaça). Teve origem nos Países Baixos, no século XVII, mas adquiriu sua forma atual na Inglaterra.</rdfs:comment>
+    <rdfs:comment xml:lang="it">Il gin è un distillato forte, chiaro, tipicamente incolore prodotto dalla distillazione di un fermentato ottenuto da frumento ed orzo in cui viene messa a macerare una miscela di erbe, spezie, piante e radici: i botanicals. Tra queste sono presenti bacche di ginepro che caratterizzano il profumo e il gusto.Il nome del distillato deriva dal nome delle piante di ginepro che producono le bacche.</rdfs:comment>
+    <rdfs:comment xml:lang="ja">ジン（英語：Gin）とは、大麦、ライ麦、ジャガイモなどを原料とした蒸留酒。ジュニパーベリー（Juniper berry、主にセイヨウネズの球果）の上に流すことによって香り付けがされているのが特徴的。日本の酒税法上はスピリッツに分類される。蒸留酒の中では比較的個性が強くない上、西ヨーロッパでは古くから知られているため、そのまま飲むだけでなく、カクテルの材料として最も多く使われているものの一つである。</rdfs:comment>
+    <rdfs:comment xml:lang="es">La ginebra (en inglés: gin) es un aguardiente derivado del genever o jenever neerlandés. Su graduación alcohólica varía entre 37° y 47°. Se obtiene por destilación de la cebada sin maltear, rectificada con bayas de enebro y aromatizada con cardamomo, angélica y otras hierbas que le dan su fragancia y aroma característico (corteza de cassia, lirio y cáscara de naranja). Debe elaborarse con alcoholes de cereales frescos de 96°, altamente neutros (la suma de impurezas no debe exceder de 0,5 gramos por litro).</rdfs:comment>
+    <rdfs:comment xml:lang="nl">Gin is een sterke geestrijke of alcoholische drank die wordt gemaakt door de destillatie van een vergist graanbeslag. Door toevoeging van jeneverbessen (of sleedoornbessen in het geval van sleedoorngin), krijgt het zijn specifieke smaak. De smaak van gewone gin is erg droog (in tegenstelling tot sleedoorngin), waardoor het zelden puur gedronken wordt. In Engeland heeft deze drank een eigen ontwikkeling doorgemaakt, zodat hij is uitgegroeid tot een typisch Brits product.Een van de bekendste merken is Gordon&#39;s Gin. De oudste Belgische gin is Cockney&#39;s Gin.</rdfs:comment>
+    <rdfs:comment xml:lang="fr">Le gin est une boisson spiritueuse obtenue en aromatisant de l&#39;alcool éthylique avec principalement des baies de genévrier, à l&#39;instar du genièvre. L&#39;élaboration du gin commence par la fermentation alcoolique d&#39;un malt (d&#39;orge, de seigle, de maïs...). Il est assez proche de son ancêtre le genièvre qui est une boisson traditionnelle dans tous les anciens Pays-Bas.</rdfs:comment>
+    <rdfs:comment xml:lang="pl">Gin - anglosaski rodzaj jałowcówki, bezbarwny, klarowny napój alkoholowy. Po destylacji zacieru z dodatkiem jagód jałowca pospolitego powinien zawierać 35% - 40% alkoholu. Dry gin i London dry gin to jego dwa najpopularniejsze rodzaje. Ciekawostką może być fakt, że powstała piosenka Cold Gin (Zimny Gin) grupy Kiss, dla której inspiracją było to, iż muzycy wypili dwie beczułki burbonu, pół kwarty wódki, ale nie dali rady opróżnić sześciu butelek tytułowego Zimnego Ginu.</rdfs:comment>
+    <rdfs:comment xml:lang="en">Gin is a spirit which derives its predominant flavour from juniper berries (Juniperus communis). From its earliest origins in the Middle Ages, gin has evolved from a herbal medicine to an object of commerce in the spirits industry. Gin was developed on the basis of the older jenever, and became popular in Great Britain when William of Orange, leader of the Dutch Republic, occupied the English, Scottish and Irish thrones with his wife Mary. Gin is one of the broadest categories of spirits, represented by products of various origins, styles, and flavour profiles that all revolve around juniper as a common ingredient.</rdfs:comment>
+    <rdfs:comment xml:lang="de">Gin ist eine meist farblose Spirituose mit Wacholder (Wacholderschnaps) und Hauptbestandteil vieler Cocktails, insbesondere des Martini sowie des Longdrinks Gin Tonic.</rdfs:comment>
+    <owl:sameAs rdf:resource="http://it.dbpedia.org/resource/Gin" />
+    <owl:sameAs rdf:resource="http://id.dbpedia.org/resource/Gin" />
+    <owl:sameAs rdf:resource="http://es.dbpedia.org/resource/Ginebra_(bebida)" />
+    <owl:sameAs rdf:resource="http://pl.dbpedia.org/resource/Gin" />
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q959362" />
+    <owl:sameAs rdf:resource="http://cs.dbpedia.org/resource/Gin" />
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q959362" />
+    <owl:sameAs rdf:resource="http://ja.dbpedia.org/resource/ジン_(蒸留酒)" />
+    <owl:sameAs rdf:resource="http://pt.dbpedia.org/resource/Gim" />
+    <owl:sameAs rdf:resource="http://fr.dbpedia.org/resource/Gin" />
+    <owl:sameAs rdf:resource="http://el.dbpedia.org/resource/Τζιν" />
+    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/Gin" />
+    <owl:sameAs rdf:resource="http://d-nb.info/gnd/4594929-3" />
+    <owl:sameAs rdf:resource="http://eu.dbpedia.org/resource/Gin" />
+    <owl:sameAs rdf:resource="http://nl.dbpedia.org/resource/Gin" />
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Gin" />
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.03dg3" />
+    <owl:sameAs rdf:resource="http://ko.dbpedia.org/resource/진_(술)" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Gins" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Distilled_drinks" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Dutch_inventions" />
+    <dbo:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">12988</dbo:wikiPageID>
+    <dbo:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">744903638</dbo:wikiPageRevisionID>
+    <dbo:wikiPageExternalLink rdf:resource="http://historyofalcoholanddrugs.typepad.com/alcohol_and_drugs_history/gin/index.html" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.mixology.com/issues/my2k/science/gin.htm" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.drinkspirits.com/gin/western-style-gin-defined/" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.victorianlondon.org/entertainment/ginpalaces.htm" />
+    <dbo:wikiPageExternalLink rdf:resource="http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32008R0110:EN:NOT" />
+    <foaf:depiction rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/DecaturGins.jpg" />
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Gin" />
+    <dbo:thumbnail rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/DecaturGins.jpg?width=300" />
+    <prov:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Gin?oldid=744903638" />
+    <dbo:abstract xml:lang="pl">Gin - anglosaski rodzaj jałowcówki, bezbarwny, klarowny napój alkoholowy. Po destylacji zacieru z dodatkiem jagód jałowca pospolitego powinien zawierać 35% - 40% alkoholu. Dry gin i London dry gin to jego dwa najpopularniejsze rodzaje. Zazwyczaj jest mieszany z innymi napojami, by złagodzić cierpki i gorzki smak. Jest jednym z najbardziej popularnych napojów alkoholowych używanych do drinków. Uznawany za alkohol dający się mieszać ze wszystkim, najczęściej z tonikiem, ew. sokiem (napojem) cytrynowym lub pomarańczowym (tzw. Gin Collins). Natomiast gin wymieszany z wermutem daje w efekcie martini. Gin powstał w XVII w. w dawnej Holandii (dzisiaj: Niderlandy i część Belgii) pod nazwą Genever / Genièvre. Popularność zyskał zaś w Anglii, pod skróconą nazwą Gin, dokąd dotarł głównie za sprawą Wilhelma III. Jest znakomitym aperitifem. Początkowo, z racji bardzo liberalnych przepisów dotyczących wytwarzania, jednoznacznie kojarzony jako najtańszy alkohol dla najniższych sfer. Renomę zyskał pod koniec XVIII w. Ciekawostką jest, że gin z tonikiem uważany jest za napój, który pozwolił Brytyjczykom zająć i utrzymać Indie. Wszystko dzięki chininie zawartej w toniku, która chroniła żołnierzy przed malarią. Ciekawostką może być fakt, że powstała piosenka Cold Gin (Zimny Gin) grupy Kiss, dla której inspiracją było to, iż muzycy wypili dwie beczułki burbonu, pół kwarty wódki, ale nie dali rady opróżnić sześciu butelek tytułowego Zimnego Ginu.</dbo:abstract>
+    <dbo:abstract xml:lang="ja">ジン（英語：Gin）とは、大麦、ライ麦、ジャガイモなどを原料とした蒸留酒。ジュニパーベリー（Juniper berry、主にセイヨウネズの球果）の上に流すことによって香り付けがされているのが特徴的。日本の酒税法上はスピリッツに分類される。蒸留酒の中では比較的個性が強くない上、西ヨーロッパでは古くから知られているため、そのまま飲むだけでなく、カクテルの材料として最も多く使われているものの一つである。</dbo:abstract>
+    <dbo:abstract xml:lang="zh">琴酒（英语：Gin，荷蘭語：Jenever），又稱為氈酒（香港）或琴酒（台灣），是一種以穀物為原料經發酵與蒸餾製造出的中性烈酒基底，增添以杜松子為主的多種藥材與香料調味後，所製造出來的一種西洋蒸餾酒。 琴酒的外文原名源自於它主要調味成分之一的杜松子，因此也經常被稱為杜松子酒，但並不是所有的琴酒都是以杜松子作為主要調味，例如：較少見的黑刺李琴酒（Sloe Gin）就不適合以「杜松子酒」稱呼之。常用譯名之一的「琴」酒是英語「gin」字在上海話中的音譯，而「金」的譯法則起源於國語的直譯。</dbo:abstract>
+    <dbo:abstract xml:lang="en">Gin is a spirit which derives its predominant flavour from juniper berries (Juniperus communis). From its earliest origins in the Middle Ages, gin has evolved from a herbal medicine to an object of commerce in the spirits industry. Gin was developed on the basis of the older jenever, and became popular in Great Britain when William of Orange, leader of the Dutch Republic, occupied the English, Scottish and Irish thrones with his wife Mary. Gin is one of the broadest categories of spirits, represented by products of various origins, styles, and flavour profiles that all revolve around juniper as a common ingredient.</dbo:abstract>
+    <dbo:abstract xml:lang="es">La ginebra (en inglés: gin) es un aguardiente derivado del genever o jenever neerlandés. Su graduación alcohólica varía entre 37° y 47°. Se obtiene por destilación de la cebada sin maltear, rectificada con bayas de enebro y aromatizada con cardamomo, angélica y otras hierbas que le dan su fragancia y aroma característico (corteza de cassia, lirio y cáscara de naranja). Debe elaborarse con alcoholes de cereales frescos de 96°, altamente neutros (la suma de impurezas no debe exceder de 0,5 gramos por litro).</dbo:abstract>
+    <dbo:abstract xml:lang="it">Il gin è un distillato forte, chiaro, tipicamente incolore prodotto dalla distillazione di un fermentato ottenuto da frumento ed orzo in cui viene messa a macerare una miscela di erbe, spezie, piante e radici: i botanicals. Tra queste sono presenti bacche di ginepro che caratterizzano il profumo e il gusto.Il nome del distillato deriva dal nome delle piante di ginepro che producono le bacche.</dbo:abstract>
+    <dbo:abstract xml:lang="de">Gin ist eine meist farblose Spirituose mit Wacholder (Wacholderschnaps) und Hauptbestandteil vieler Cocktails, insbesondere des Martini sowie des Longdrinks Gin Tonic.</dbo:abstract>
+    <dbo:abstract xml:lang="nl">Gin is een sterke geestrijke of alcoholische drank die wordt gemaakt door de destillatie van een vergist graanbeslag. Door toevoeging van jeneverbessen (of sleedoornbessen in het geval van sleedoorngin), krijgt het zijn specifieke smaak. De smaak van gewone gin is erg droog (in tegenstelling tot sleedoorngin), waardoor het zelden puur gedronken wordt. Gin stamt rechtstreeks van jenever af.Reeds in de middeleeuwen werd in de Lage Landen op kleine schaal een op jenever lijkende drank gemaakt. Professor Franciscus de le Boë Sylvius zou omstreeks 1650 een destillaat gestookt hebben dat hij genièvre of genova noemde. De bevolking veranderde de naam al vlug in &quot;genever&quot; en &quot;jenever&quot;. In Engeland heeft deze drank een eigen ontwikkeling doorgemaakt, zodat hij is uitgegroeid tot een typisch Brits product.Een van de bekendste merken is Gordon&#39;s Gin. De oudste Belgische gin is Cockney&#39;s Gin. Met (droge) vermouth is gin een ingrediënt van de klassieke Martini. Vaak wordt gin gemixt met Tonic tot Gin en Tonic.</dbo:abstract>
+    <dbo:abstract xml:lang="ar">25بك المحتوى هنا ينقصه الاستشهاد بمصادر. يرجى إيراد مصادر موثوق بها. أي معلومات غير موثقة يمكن التشكيك بها وإزالتها. (فبراير 2016) الجن (بالإنجليزية: Gin)، هو مشروب كحولي قوي، يصنع من تقطير كحول البذور البيضاء وعنب الجونيبر، الذي يمنحه طعمه الخاص. طعم الجن الطبيعي هو جاف جداً، ولهذا يخلط مع مشروبات أخرى مثل التونك ( بالإنجليزية tonic ) وأسم جن مقتبس من عنب الجونيبر ( توت العرعر )ونسبة الكحول به 37.5% .</dbo:abstract>
+    <dbo:abstract xml:lang="pt">Gim ou gin é uma bebida destilada à base de cereais. Posteriormente passa por um processo de infusão com zimbro e outras especiarias. Tem teor alcoólico entre 40% e 50%, dependendo da marca (teor semelhante a outras aguardentes como vodca, uísque ou cachaça). Teve origem nos Países Baixos, no século XVII, mas adquiriu sua forma atual na Inglaterra. O gim é conhecido por ser um aguardente aromático. Cada marca se destaca por sua combinação única de ingredientes, dos quais as bagas de zimbro são obrigatórios, por lei. Outros ingredientes podem ser utilizados por cada marca para obter características próprias. Entre os ingredientes mais usados, além do zimbro, estão a canela, cascas de frutas cítricas, sementes de coentro, pimenta da jamaica, raiz de alcaçuz, pimenta do reino, cassia, cascas de laranja, farinha de amêndoa e outros. Sua má fama de bebida &quot;muito forte&quot; deve-se a um episódio histórico ocorrido no século XVIII, na Inglaterra, quando sua produção era feita em destilarias de fundo de quintal, sem supervisão sanitária. Nessa época, o gim foi combatido com campanhas semelhantes às feitas hoje para o combate de drogas ilegais.</dbo:abstract>
+    <dbo:abstract xml:lang="fr">Le gin est une boisson spiritueuse obtenue en aromatisant de l&#39;alcool éthylique avec principalement des baies de genévrier, à l&#39;instar du genièvre. L&#39;élaboration du gin commence par la fermentation alcoolique d&#39;un malt (d&#39;orge, de seigle, de maïs...). Il est assez proche de son ancêtre le genièvre qui est une boisson traditionnelle dans tous les anciens Pays-Bas. La production de gin a commencé dans les anciens Pays-Bas (Pays-Bas et partie de la Belgique actuelle) à la fin du XVIIe siècle et s&#39;est ensuite internationalisée. La saveur du gin ordinaire est celle d&#39;un alcool très sec, ce qui fait qu&#39;on le boit rarement pur. On le retrouve surtout dans la composition de nombreux cocktails quand il n&#39;est pas déjà commercialisé dans une version aromatisée. Par le passé, le gin employé sur les bâtiments de guerre de la Royal Navy titrait à près de 50°, ce qui permettait de conserver les propriétés explosives de la poudre à canon si elle était mise en contact accidentellement avec la boisson (stockage en soute). Ce gin peut être trouvé encore dans certaines distilleries, comme celle de Plymouth, sous l&#39;appellation « Gin de marine ».</dbo:abstract>
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Spirit" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gin_(disambiguation)">
+    <dbo:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/Gin" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Floyd_Cotton_Gin">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Gin" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Stipe_Cotton_Gin">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Gin" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Chase_Vodka">
+    <dbo:related rdf:resource="http://dbpedia.org/resource/Gin" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Pemberton_Distillery">
+    <dbp:type rdf:resource="http://dbpedia.org/resource/Gin" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Broker&#39;s_Gin">
+    <dbp:type rdf:resource="http://dbpedia.org/resource/Gin" />
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Gin" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Leopold_Bros.">
+    <dbo:product rdf:resource="http://dbpedia.org/resource/Gin" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Steinhäger">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Gin" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mothers_ruin">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Gin" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Plymouth_Gin">
+    <dbp:type rdf:resource="http://dbpedia.org/resource/Gin" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/London_Dry_Gin">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Gin" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tanqueray">
+    <dbp:type rdf:resource="http://dbpedia.org/resource/Gin" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Chase_Distillery">
+    <dbo:product rdf:resource="http://dbpedia.org/resource/Gin" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Stark_Spirits_Distillery">
+    <dbo:product rdf:resource="http://dbpedia.org/resource/Gin" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Goodlett_Gin">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Gin" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hanger_Cotton_Gin">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Gin" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Willow_Springs_Distilling_Company">
+    <dbo:product rdf:resource="http://dbpedia.org/resource/Gin" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Citadelle_(gin)">
+    <dbp:type rdf:resource="http://dbpedia.org/resource/Gin" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gilpin&#39;s_Westmorland_Extra_Dry_Gin">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Gin" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/St._George_Spirits">
+    <dbo:product rdf:resource="http://dbpedia.org/resource/Gin" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Botanist">
+    <dbp:type rdf:resource="http://dbpedia.org/resource/Gin" />
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Gin" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Boodles_British_Gin">
+    <dbp:type rdf:resource="http://dbpedia.org/resource/Gin" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Beefeater_Gin">
+    <dbp:type rdf:resource="http://dbpedia.org/resource/Gin" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Cork_Dry_Gin">
+    <dbp:type rdf:resource="http://dbpedia.org/resource/Gin" />
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Gin" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/GIN">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Gin" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Arctic_Velvet">
+    <dbo:hasVariant rdf:resource="http://dbpedia.org/resource/Gin" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Konig&#39;s_Westphalian_Gin">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Gin" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Gin">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Gin" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Pickering&#39;s_Gin">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Gin" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gins">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Gin" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/List_of_gin_brands">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Gin" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/List_of_gins">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Gin" />
+  </rdf:Description>
+</rdf:RDF>

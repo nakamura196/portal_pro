@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:dct="http://purl.org/dc/terms/"
+	xmlns:dbo="http://dbpedia.org/ontology/"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:prov="http://www.w3.org/ns/prov#"
+	xmlns:georss="http://www.georss.org/georss/" >
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Obasuteyama">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Ubasute" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Oyasute">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Ubasute" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Oyasuteyama">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Ubasute" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ubasute_Mountain">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Ubasute" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ubasute">
+    <rdf:type rdf:resource="http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing" />
+    <rdfs:label xml:lang="it">Ubasute</rdfs:label>
+    <rdfs:label xml:lang="ru">Убасутэ</rdfs:label>
+    <rdfs:label xml:lang="ja">うばすてやま</rdfs:label>
+    <rdfs:label xml:lang="es">Ubasute</rdfs:label>
+    <rdfs:label xml:lang="en">Ubasute</rdfs:label>
+    <rdfs:comment xml:lang="ru">Убасутэ (яп. 姥捨て, «отказ от старухи»), также называемый «обасутэ», а иногда «оясутэ» — обычай, будто бы существовавший в стародавней Японии. Описывался как отправка в лес или в горы престарелых родителей на голодную и/или холодную смерть, с целью избавления от лишних ртов. Никакими документальными источниками не подтверждается, являясь исключительно бродячим фольклорным сюжетом, лёгшим в основу многих легенд, стихов и коанов. В сказаниях об убасутэ его причинами называются деспотичный указ правителя, также наступившая засуха или угроза голода.</rdfs:comment>
+    <rdfs:comment xml:lang="es">El termino ubasute (姥捨て?, lit. &quot;abandono de una anciana&quot;, también llamado &quot;obasute&quot; y a veces &quot;oyasute&quot; 親捨て &quot;abandono de un padre o familiar&quot;) se refiere a la costumbre supuestamente realizada en Japón en el pasado distante, por la que un pariente enfermo o anciano se lleva a una montaña, o algún otro lugar remoto o desolado, y se deja allí para morír, ya sea por la deshidratación, hambre, o la exposición, como una forma de eutanasia. La práctica era supuestamente más común en épocas de sequía y el hambre, y a veces recibió el mandato de los funcionarios feudales. Según el Kodansha enciclopedia ilustrada de Japón, ubasute &quot;es el tema de la leyenda, pero [...] no parece nunca haber sido una costumbre común&quot;.</rdfs:comment>
+    <rdfs:comment xml:lang="it">Ubasute o obasute (姥捨て? letteralmente &quot;abbandonare una donna anziana&quot;) era l&#39;usanza dell&#39;antico Giappone di lasciare a morire, di sua spontanea volontà, un membro anziano o infermo della famiglia o della comunità in qualche località remota. Essa veniva praticata in eccezionali casi di carestia e siccità per non pesare sui membri attivi e giovani del nucleo familiare. Secondo la Kodansha Illustrated Encyclopedia of Japan, l&#39;ubasute «è tema di leggende, ma [...] non sembra mai essere stata una consuetudine comune».</rdfs:comment>
+    <rdfs:comment xml:lang="ja">うばすてやま（姥捨て山）は、棄老伝説に材をとった民話。</rdfs:comment>
+    <rdfs:comment xml:lang="en">Ubasute (姥捨て?, literally &quot;abandoning an old woman&quot;, also called &quot;obasute&quot; and sometimes &quot;oyasute&quot; 親捨て &quot;abandoning a parent&quot;) refers to the custom allegedly performed in Japan in the distant past, whereby an infirm or elderly relative was carried to a mountain, or some other remote, desolate place, and left there to die, either by dehydration, starvation, or exposure, as a form of euthanasia. The practice was allegedly most common during times of drought and famine, and was sometimes mandated by feudal officials. According to the Kodansha Illustrated Encyclopedia of Japan, ubasute &quot;is the subject of legend, but [...] does not seem ever to have been a common custom&quot;. According to folklore, the Aokigahara forest at the base of Mount Fuji was once such a site.</rdfs:comment>
+    <owl:sameAs rdf:resource="http://ja.dbpedia.org/resource/うばすてやま" />
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q2654117" />
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q2654117" />
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.09_hvk" />
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Ubasute" />
+    <owl:sameAs rdf:resource="http://es.dbpedia.org/resource/Ubasute" />
+    <owl:sameAs rdf:resource="http://it.dbpedia.org/resource/Ubasute" />
+    <owl:sameAs rdf:resource="http://ko.dbpedia.org/resource/우바스테야마" />
+    <owl:sameAs rdf:resource="http://id.dbpedia.org/resource/Ubasuteyama" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Senicide" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Japanese_culture" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Bioethics" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Old_age" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Medical_ethics" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Japanese_society" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Euthanasia" />
+    <dbo:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3778448</dbo:wikiPageID>
+    <dbo:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">745198057</dbo:wikiPageRevisionID>
+    <dbo:wikiPageExternalLink rdf:resource="http://www.eubios.info/TRT3.htm" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.geocities.co.jp/HeartLand-Gaien/7211/kudos6/ubasute.html" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.geocities.co.jp/HeartLand-Gaien/7211/Japanese/ubasutej.html" />
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#float">36.4686</geo:lat>
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#float">138.107</geo:long>
+    <foaf:depiction rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Yoshitoshi_-_100_Aspects_of_the_Moon_-_97.jpg" />
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Ubasute" />
+    <geo:geometry rdf:datatype="http://www.openlinksw.com/schemas/virtrdf#Geometry">POINT(138.10667419434 36.468612670898)</geo:geometry>
+    <dbo:thumbnail rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Yoshitoshi_-_100_Aspects_of_the_Moon_-_97.jpg?width=300" />
+    <prov:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Ubasute?oldid=745198057" />
+    <dbo:abstract xml:lang="ja">うばすてやま（姥捨て山）は、棄老伝説に材をとった民話。</dbo:abstract>
+    <dbo:abstract xml:lang="it">Ubasute o obasute (姥捨て? letteralmente &quot;abbandonare una donna anziana&quot;) era l&#39;usanza dell&#39;antico Giappone di lasciare a morire, di sua spontanea volontà, un membro anziano o infermo della famiglia o della comunità in qualche località remota. Essa veniva praticata in eccezionali casi di carestia e siccità per non pesare sui membri attivi e giovani del nucleo familiare. Secondo la Kodansha Illustrated Encyclopedia of Japan, l&#39;ubasute «è tema di leggende, ma [...] non sembra mai essere stata una consuetudine comune». L&#39;origine di tale pratica sarebbe cinese ed ha ispirato alcune rappresentazioni del teatro Nō, tra cui Obasute di Zeami, ed è citato nella raccolta Konjaku Monogatarishū. Della pratica dell&#39;ubasute si trova riferimento nel romanzo Narayama bushi-kō di Fukazawa Shichirō che ispirò alcuni film, come i giapponesi La leggenda di Narayama del 1958 e il suo remake del 1983 La ballata di Narayama e il sudcoreano Goryeojang, oltre all&#39;anime Ubasute yama di Sanae Yamamoto. Il Kamuriki-yama (冠着山?), montagna della prefettura di Nagano è identificata anche come Ubasute-yama (姨捨山? letteralmente &quot;montagna dove si abbandonano donne anziane&quot;) ma la correttezza dell&#39;attribuzione non è certa.</dbo:abstract>
+    <dbo:abstract xml:lang="ru">Убасутэ (яп. 姥捨て, «отказ от старухи»), также называемый «обасутэ», а иногда «оясутэ» — обычай, будто бы существовавший в стародавней Японии. Описывался как отправка в лес или в горы престарелых родителей на голодную и/или холодную смерть, с целью избавления от лишних ртов. Никакими документальными источниками не подтверждается, являясь исключительно бродячим фольклорным сюжетом, лёгшим в основу многих легенд, стихов и коанов. В сказаниях об убасутэ его причинами называются деспотичный указ правителя, также наступившая засуха или угроза голода.</dbo:abstract>
+    <dbo:abstract xml:lang="en">Ubasute (姥捨て?, literally &quot;abandoning an old woman&quot;, also called &quot;obasute&quot; and sometimes &quot;oyasute&quot; 親捨て &quot;abandoning a parent&quot;) refers to the custom allegedly performed in Japan in the distant past, whereby an infirm or elderly relative was carried to a mountain, or some other remote, desolate place, and left there to die, either by dehydration, starvation, or exposure, as a form of euthanasia. The practice was allegedly most common during times of drought and famine, and was sometimes mandated by feudal officials. According to the Kodansha Illustrated Encyclopedia of Japan, ubasute &quot;is the subject of legend, but [...] does not seem ever to have been a common custom&quot;. According to folklore, the Aokigahara forest at the base of Mount Fuji was once such a site.</dbo:abstract>
+    <dbo:abstract xml:lang="es">El termino ubasute (姥捨て?, lit. &quot;abandono de una anciana&quot;, también llamado &quot;obasute&quot; y a veces &quot;oyasute&quot; 親捨て &quot;abandono de un padre o familiar&quot;) se refiere a la costumbre supuestamente realizada en Japón en el pasado distante, por la que un pariente enfermo o anciano se lleva a una montaña, o algún otro lugar remoto o desolado, y se deja allí para morír, ya sea por la deshidratación, hambre, o la exposición, como una forma de eutanasia. La práctica era supuestamente más común en épocas de sequía y el hambre, y a veces recibió el mandato de los funcionarios feudales. Según el Kodansha enciclopedia ilustrada de Japón, ubasute &quot;es el tema de la leyenda, pero [...] no parece nunca haber sido una costumbre común&quot;. La práctica de ubasute es explorado en profundidad en la novela japonesa La balada de Narayama (1956) por Shichiro Fukazawa. La novela fue la base de tres películas: Keisuke Kinoshita de La balada de Narayama (1958), el director coreano Kim Ki-young Goryeojang (1963), y Shohei Imamura de La balada de Narayama, que ganó la Palma de Oro en 1983.</dbo:abstract>
+    <georss:point>36.46861111111111 138.10666666666665</georss:point>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ubasuteyama">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Ubasute" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Ubasute">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Ubasute" />
+  </rdf:Description>
+</rdf:RDF>

@@ -1,0 +1,53 @@
+{
+    "entities": [
+        {
+            "mentions": [
+                {
+                    "text": {
+                        "beginOffset": 7,
+                        "content": "東大学力コンクール受験票\t F0040/S3/59\t 9999-99-99\t アイテム\t 小柳恵太朗\t 公開"
+                    },
+                    "type": "PROPER"
+                }
+            ],
+            "metadata": {},
+            "name": "東大学力コンクール受験票 F0040/S3/59 9999-99-99 アイテム 小柳恵太朗 公開",
+            "salience": 0.3508474,
+            "type": "EVENT"
+        },
+        {
+            "mentions": [
+                {
+                    "text": {
+                        "beginOffset": 113,
+                        "content": "本郷"
+                    },
+                    "type": "PROPER"
+                }
+            ],
+            "metadata": {
+                "mid": "/m/0229js",
+                "wikipedia_url": "https://en.wikipedia.org/wiki/Hongō,_Tokyo"
+            },
+            "name": "本郷",
+            "salience": 0.3372703,
+            "type": "LOCATION"
+        },
+        {
+            "mentions": [
+                {
+                    "text": {
+                        "beginOffset": 121,
+                        "content": "紙"
+                    },
+                    "type": "COMMON"
+                }
+            ],
+            "metadata": {},
+            "name": "紙",
+            "salience": 0.31188235,
+            "type": "WORK_OF_ART"
+        }
+    ],
+    "language": "ja"
+}

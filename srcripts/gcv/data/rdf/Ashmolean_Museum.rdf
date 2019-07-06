@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:dct="http://purl.org/dc/terms/"
+	xmlns:dbo="http://dbpedia.org/ontology/"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:dbp="http://dbpedia.org/property/"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	xmlns:prov="http://www.w3.org/ns/prov#"
+	xmlns:georss="http://www.georss.org/georss/"
+	xmlns:ns10="http://purl.org/linguistics/gold/" >
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Arthur_Evans">
+    <dbp:workInstitutions rdf:resource="http://dbpedia.org/resource/Ashmolean_Museum" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Charles_Robert_Cockerell">
+    <dbo:significantBuilding rdf:resource="http://dbpedia.org/resource/Ashmolean_Museum" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/High_Street,_Oxford_(painting)">
+    <dbo:museum rdf:resource="http://dbpedia.org/resource/Ashmolean_Museum" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Andrew_Sherratt">
+    <dbp:workInstitutions rdf:resource="http://dbpedia.org/resource/Ashmolean_Museum" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ashmole">
+    <dbo:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/Ashmolean_Museum" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Hunt_in_the_Forest">
+    <dbo:museum rdf:resource="http://dbpedia.org/resource/Ashmolean_Museum" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/A_Converted_British_Family_Sheltering_a_Christian_Missionary_from_the_Persecution_of_the_Druids">
+    <dbo:museum rdf:resource="http://dbpedia.org/resource/Ashmolean_Museum" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Uncial_0231">
+    <dbp:nowAt rdf:resource="http://dbpedia.org/resource/Ashmolean_Museum" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ashmolean_Museum">
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatMuseumsOfAncientGreece" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Whole100003553" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Artifact100021939" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q41176" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoGeoEntity" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoPermanentlyLocatedEntity" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Location" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Place" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Building" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/ArchitecturalStructure" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatMuseumsInEngland" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatMuseumsInOxford" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Depository103177349" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Museum103800563" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q33506" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatMuseumsEstablishedIn1683" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatMuseumsInTheUnitedKingdom" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Agent" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatMuseumsOfAncientRomeInTheUnitedKingdom" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Museum" />
+    <rdf:type rdf:resource="http://schema.org/Place" />
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatAsianArtMuseums" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatArtMuseumsAndGalleriesInTheUnitedKingdom" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatMuseumsOfAncientNearEast" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Facility103315023" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Object100002684" />
+    <rdf:type rdf:resource="http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PhysicalEntity100001930" />
+    <rdfs:label xml:lang="fr">Ashmolean Museum</rdfs:label>
+    <rdfs:label xml:lang="ja">アシュモレアン博物館</rdfs:label>
+    <rdfs:label xml:lang="es">Museo Ashmolean</rdfs:label>
+    <rdfs:label xml:lang="zh">阿什莫林博物館</rdfs:label>
+    <rdfs:label xml:lang="pl">Ashmolean Museum</rdfs:label>
+    <rdfs:label xml:lang="pt">Museu Ashmolean</rdfs:label>
+    <rdfs:label xml:lang="ru">Музей Эшмола</rdfs:label>
+    <rdfs:label xml:lang="nl">Ashmolean Museum</rdfs:label>
+    <rdfs:label xml:lang="en">Ashmolean Museum</rdfs:label>
+    <rdfs:label xml:lang="de">Ashmolean Museum</rdfs:label>
+    <rdfs:label xml:lang="it">Ashmolean Museum</rdfs:label>
+    <rdfs:comment xml:lang="en">The Ashmolean Museum (in full the Ashmolean Museum of Art and Archaeology) on Beaumont Street, Oxford, England, is the world&#39;s first university museum. Its first building was erected in 1678–1683 to house the cabinet of curiosities that Elias Ashmole gave to the University of Oxford in 1677. The museum reopened in 2009 after a major redevelopment. In November 2011, new galleries focusing on Egypt and Nubia were also unveiled.</rdfs:comment>
+    <rdfs:comment xml:lang="fr">L’Ashmolean Museum, situé à Oxford (Grande-Bretagne), est le premier musée universitaire au monde, conçu par l&#39;architecte Charles Robert Cockerell. Le musée a rouvert en 2009 après un grand redéveloppement subventionné par 61 millions de livres sterling du Heritage Lottery Fund (en).</rdfs:comment>
+    <rdfs:comment xml:lang="pt">Ashmolean é uma instituição museológica, localizada na cidade de Oxford, na Inglaterra. Foi fundado por Elias Ashmole, no século XVII, com peças de sua coleção particular de curiosidades. Administrado pela Universidade de Oxford, atualmente é uma das mais conceituadas instituições do mundo com foco na Arte e na Arqueologia. Outras coleções da Universidade abertas ao público são: 
+*  a Bate Collection of Musical Instruments 
+*  a Bodleian Library 
+*  o Jardim Botânico 
+*  a Christ Church Picture Gallery 
+*  o Museum of the History of Science 
+*  o Oxford University Museum of Natural History</rdfs:comment>
+    <rdfs:comment xml:lang="ja">アシュモレアン博物館（the Ashmolean Museum of Art and Archeology）とは、イギリスに所在する世界最初の大学博物館である。正式名称：アシュモレアン美術・考古学博物館。最初の建物は、エリアス・アシュモールが1677年オックスフォード大学に寄贈した「驚異の部屋」の収納のために建てられた。</rdfs:comment>
+    <rdfs:comment xml:lang="de">Das gegenwärtige Ashmolean Museum (Ashmolean Museum of Art and Archaeology) ist ein 1845 in Oxford als University Gallery erbautes Museum. Seit 1894 ist darin die Ashmolean-Sammlung untergebracht.</rdfs:comment>
+    <rdfs:comment xml:lang="ru">Эшмоловский музей искусства и археологии (англ. Ashmolean Museum of Art and Archaeology) — старейший общедоступный музей в Великобритании. Это одно из четырех музейных учреждений, действующих при Оксфордском университете. Нынешнее здание музея было возведено в 1841-45 гг. в стиле позднего классицизма (архитектор Ч. Р. Кокерелл).</rdfs:comment>
+    <rdfs:comment xml:lang="es">El Museo Ashmolean (Ashmolean Museum of Art and Archaeology) está situado en Beaumont Street, Oxford, Inglaterra, y es el primer museo universitario de cuya creación se tiene noticia. Su primer edificio fue construido entre 1678 y 1683 para albergar la colección o gabinete de curiosidades de Elias Ashmole, que este donó a la Universidad de Oxford en 1677.</rdfs:comment>
+    <rdfs:comment xml:lang="pl">Ashmolean Museum (Ashmolean Museum of Art and Archaeology) – pierwsze na świecie muzeum uniwersyteckie. Jest położone przy ulicy Beaumont St. w Oksford. Jego pierwszy budynek powstał w latach 1678–1683 w celu eksponowania w nim zbiorów gabinetu osobliwości Eliasa Ashmole’a, przekazanych przez niego uniwersytetowi w Oxfordzie w 1677.</rdfs:comment>
+    <rdfs:comment xml:lang="nl">Het Ashmolean Museum (Ashmolean Museum of Art and Archaeology) in Beaumont Street in Oxford (Engeland), is het eerste universiteitsmuseum. Het is gebouwd in 1678–1683.</rdfs:comment>
+    <rdfs:comment xml:lang="zh">阿什莫林博物館（Ashmolean Museum），全名阿什莫林藝術與考古博物館 （也被翻譯為：阿須摩林，艾希莫林，阿希莫利安博物館），位于英國牛津市中心，被公認是英語世界中第一個成立的大學博物館，也是第一個公眾博物館（Public Museum），其最早建筑于1678-1683年間建成。</rdfs:comment>
+    <owl:sameAs rdf:resource="http://fr.dbpedia.org/resource/Ashmolean_Museum" />
+    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/Ashmolean_Museum" />
+    <owl:sameAs rdf:resource="http://id.dbpedia.org/resource/Museum_Ashmolean" />
+    <owl:sameAs rdf:resource="http://es.dbpedia.org/resource/Museo_Ashmolean" />
+    <owl:sameAs rdf:resource="http://nl.dbpedia.org/resource/Ashmolean_Museum" />
+    <owl:sameAs rdf:resource="http://d-nb.info/gnd/1007560-4" />
+    <owl:sameAs rdf:resource="http://yago-knowledge.org/resource/Ashmolean_Museum" />
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q636400" />
+    <owl:sameAs rdf:resource="http://ja.dbpedia.org/resource/アシュモレアン博物館" />
+    <owl:sameAs rdf:resource="http://pt.dbpedia.org/resource/Museu_Ashmolean" />
+    <owl:sameAs rdf:resource="http://pl.dbpedia.org/resource/Ashmolean_Museum" />
+    <owl:sameAs rdf:resource="http://el.dbpedia.org/resource/Ασμόλειο_Μουσείο" />
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.0lxbb" />
+    <owl:sameAs rdf:resource="http://it.dbpedia.org/resource/Ashmolean_Museum" />
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q636400" />
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Ashmolean_Museum" />
+    <owl:sameAs rdf:resource="http://cs.dbpedia.org/resource/Ashmolean_Museum" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Museums_of_Ancient_Greece" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Museums_of_Ancient_Near_East" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Grade_I_listed_buildings_in_Oxford" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Asian_art_museums" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Cultural_infrastructure_completed_in_1845" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Ashmolean_Museum" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Museums_established_in_1683" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:1683_establishments_in_England" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Museums_of_the_University_of_Oxford" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Grade_I_listed_museum_buildings" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Museums_of_Ancient_Rome_in_the_United_Kingdom" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:History_of_the_University_of_Oxford" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Plaster_cast_collections" />
+    <dbo:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">86726</dbo:wikiPageID>
+    <dbo:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">735249432</dbo:wikiPageRevisionID>
+    <dbo:wikiPageExternalLink rdf:resource="http://www.she-philosopher.com/gallery/powhatan-map.html" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.saclib.ox.ac.uk/" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.ashmolean.org" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.ashmolean.museum/Griffith.html" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.chem.ox.ac.uk/oxfordtour/ashmolean/" />
+    <foaf:name xml:lang="en">Ashmolean Museum</foaf:name>
+    <foaf:homepage rdf:resource="http://www.ashmolean.org" />
+    <dbp:name rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">the Ashmolean Museum</dbp:name>
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#float">51.7554</geo:lat>
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-1.26</geo:long>
+    <foaf:depiction rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Ashmolean_Museum_Entrance_May_2016.png" />
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Ashmolean_Museum" />
+    <geo:geometry rdf:datatype="http://www.openlinksw.com/schemas/virtrdf#Geometry">POINT(-1.2599999904633 51.755401611328)</geo:geometry>
+    <dbo:thumbnail rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Ashmolean_Museum_Entrance_May_2016.png?width=300" />
+    <prov:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Ashmolean_Museum?oldid=735249432" />
+    <dbo:abstract xml:lang="nl">Het Ashmolean Museum (Ashmolean Museum of Art and Archaeology) in Beaumont Street in Oxford (Engeland), is het eerste universiteitsmuseum. Het is gebouwd in 1678–1683.</dbo:abstract>
+    <dbo:abstract xml:lang="en">The Ashmolean Museum (in full the Ashmolean Museum of Art and Archaeology) on Beaumont Street, Oxford, England, is the world&#39;s first university museum. Its first building was erected in 1678–1683 to house the cabinet of curiosities that Elias Ashmole gave to the University of Oxford in 1677. The museum reopened in 2009 after a major redevelopment. In November 2011, new galleries focusing on Egypt and Nubia were also unveiled.</dbo:abstract>
+    <dbo:abstract xml:lang="zh">阿什莫林博物館（Ashmolean Museum），全名阿什莫林藝術與考古博物館 （也被翻譯為：阿須摩林，艾希莫林，阿希莫利安博物館），位于英國牛津市中心，被公認是英語世界中第一個成立的大學博物館，也是第一個公眾博物館（Public Museum），其最早建筑于1678-1683年間建成。</dbo:abstract>
+    <dbo:abstract xml:lang="de">Das gegenwärtige Ashmolean Museum (Ashmolean Museum of Art and Archaeology) ist ein 1845 in Oxford als University Gallery erbautes Museum. Seit 1894 ist darin die Ashmolean-Sammlung untergebracht.</dbo:abstract>
+    <dbo:abstract xml:lang="fr">L’Ashmolean Museum, situé à Oxford (Grande-Bretagne), est le premier musée universitaire au monde, conçu par l&#39;architecte Charles Robert Cockerell. Le musée a rouvert en 2009 après un grand redéveloppement subventionné par 61 millions de livres sterling du Heritage Lottery Fund (en).</dbo:abstract>
+    <dbo:abstract xml:lang="ru">Эшмоловский музей искусства и археологии (англ. Ashmolean Museum of Art and Archaeology) — старейший общедоступный музей в Великобритании. Это одно из четырех музейных учреждений, действующих при Оксфордском университете. Нынешнее здание музея было возведено в 1841-45 гг. в стиле позднего классицизма (архитектор Ч. Р. Кокерелл).</dbo:abstract>
+    <dbo:abstract xml:lang="pl">Ashmolean Museum (Ashmolean Museum of Art and Archaeology) – pierwsze na świecie muzeum uniwersyteckie. Jest położone przy ulicy Beaumont St. w Oksford. Jego pierwszy budynek powstał w latach 1678–1683 w celu eksponowania w nim zbiorów gabinetu osobliwości Eliasa Ashmole’a, przekazanych przez niego uniwersytetowi w Oxfordzie w 1677.</dbo:abstract>
+    <dbo:abstract xml:lang="pt">Ashmolean é uma instituição museológica, localizada na cidade de Oxford, na Inglaterra. Foi fundado por Elias Ashmole, no século XVII, com peças de sua coleção particular de curiosidades. Administrado pela Universidade de Oxford, atualmente é uma das mais conceituadas instituições do mundo com foco na Arte e na Arqueologia. Outras coleções da Universidade abertas ao público são: 
+*  a Bate Collection of Musical Instruments 
+*  a Bodleian Library 
+*  o Jardim Botânico 
+*  a Christ Church Picture Gallery 
+*  o Museum of the History of Science 
+*  o Oxford University Museum of Natural History</dbo:abstract>
+    <dbo:abstract xml:lang="ja">アシュモレアン博物館（the Ashmolean Museum of Art and Archeology）とは、イギリスに所在する世界最初の大学博物館である。正式名称：アシュモレアン美術・考古学博物館。最初の建物は、エリアス・アシュモールが1677年オックスフォード大学に寄贈した「驚異の部屋」の収納のために建てられた。</dbo:abstract>
+    <dbo:abstract xml:lang="es">El Museo Ashmolean (Ashmolean Museum of Art and Archaeology) está situado en Beaumont Street, Oxford, Inglaterra, y es el primer museo universitario de cuya creación se tiene noticia. Su primer edificio fue construido entre 1678 y 1683 para albergar la colección o gabinete de curiosidades de Elias Ashmole, que este donó a la Universidad de Oxford en 1677.</dbo:abstract>
+    <dbo:director rdf:resource="http://dbpedia.org/resource/Alexander_Sturgis" />
+    <dbo:location rdf:resource="http://dbpedia.org/resource/England" />
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Oxford" />
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Beaumont_Street" />
+    <dbo:type rdf:resource="http://dbpedia.org/resource/Archaeology" />
+    <dbo:type rdf:resource="http://dbpedia.org/resource/Art" />
+    <georss:point>51.7554 -1.26</georss:point>
+    <dbp:caption rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Main Museum Entrance</dbp:caption>
+    <dbp:id rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">lccn-n81-139884</dbp:id>
+    <dbp:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">51.7554</dbp:latitude>
+    <dbp:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-1.26</dbp:longitude>
+    <dbp:mapCaption rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Location in Oxford</dbp:mapCaption>
+    <dbp:pushpinMap rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">United Kingdom Oxford Central</dbp:pushpinMap>
+    <ns10:hypernym rdf:resource="http://dbpedia.org/resource/World" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Forest_Fire">
+    <dbo:museum rdf:resource="http://dbpedia.org/resource/Ashmolean_Museum" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/David_George_Hogarth">
+    <dbp:workInstitutions rdf:resource="http://dbpedia.org/resource/Ashmolean_Museum" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Portrait_of_Giacomo_Doria_(Titian)">
+    <dbo:museum rdf:resource="http://dbpedia.org/resource/Ashmolean_Museum" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ashmolean_museum">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Ashmolean_Museum" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Convent_Thoughts">
+    <dbo:museum rdf:resource="http://dbpedia.org/resource/Ashmolean_Museum" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ashmolean">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Ashmolean_Museum" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ashmolean_Museum_of_Art_and_Archaeology">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Ashmolean_Museum" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Papyrus_115">
+    <dbp:nowAt rdf:resource="http://dbpedia.org/resource/Ashmolean_Museum" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Papyrus_51">
+    <dbp:nowAt rdf:resource="http://dbpedia.org/resource/Ashmolean_Museum" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/William_Huddesford">
+    <dbo:knownFor rdf:resource="http://dbpedia.org/resource/Ashmolean_Museum" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ashmolean_Museum_Oxford">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Ashmolean_Museum" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Asmolean_Museum">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Ashmolean_Museum" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/James_Bradley">
+    <dbp:workInstitutions rdf:resource="http://dbpedia.org/resource/Ashmolean_Museum" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Papyrus_100">
+    <dbp:nowAt rdf:resource="http://dbpedia.org/resource/Ashmolean_Museum" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Papyrus_119">
+    <dbp:nowAt rdf:resource="http://dbpedia.org/resource/Ashmolean_Museum" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Papyrus_70">
+    <dbp:nowAt rdf:resource="http://dbpedia.org/resource/Ashmolean_Museum" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Papyrus_71">
+    <dbp:nowAt rdf:resource="http://dbpedia.org/resource/Ashmolean_Museum" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Uncial_0232">
+    <dbp:nowAt rdf:resource="http://dbpedia.org/resource/Ashmolean_Museum" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Metrological_Relief">
+    <dbp:location rdf:resource="http://dbpedia.org/resource/Ashmolean_Museum" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ashmolean_manuscripts">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Ashmolean_Museum" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Ashmolean">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Ashmolean_Museum" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Keeper_of_the_Ashmolean_Museum">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Ashmolean_Museum" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Ashmolean_Museum">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Ashmolean_Museum" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Ashmolean_Museum">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Ashmolean_Museum" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ashmolean_Museum_Broadway">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Ashmolean_Museum" />
+  </rdf:Description>
+</rdf:RDF>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:dct="http://purl.org/dc/terms/"
+	xmlns:dbo="http://dbpedia.org/ontology/"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:prov="http://www.w3.org/ns/prov#"
+	xmlns:ns7="http://purl.org/linguistics/gold/" >
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Leonid_Gavrilov">
+    <dbo:occupation rdf:resource="http://dbpedia.org/resource/Research_associate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Research_Associate">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Research_associate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Associate">
+    <dbo:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/Research_associate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Research_associate">
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/SkilledWorker110605985" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Person" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Worker109632518" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PhysicalEntity100001930" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoLegalActor" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoLegalActorGeo" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Person100007846" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Object100002684" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatCivilServants" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/CivilServant109925459" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Official110372373" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Whole100003553" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/LivingThing100004258" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/CausalAgent100007347" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Organism100004475" />
+    <rdfs:label xml:lang="ja">助教</rdfs:label>
+    <rdfs:label xml:lang="en">Research associate</rdfs:label>
+    <rdfs:label xml:lang="fr">Ingénieur de recherche</rdfs:label>
+    <rdfs:comment xml:lang="en">Research associates are scholars and professionals that usually have an advanced degree beyond a master&#39;s degree. A research associate is an employee of the university or a research institute, and may be eligible to receive university/federal benefits. The research associate position does not explicitly require mentoring and is a regular staff position with appointment letters processed by Human Resources. In contrast to a research assistant, a research associate often has a graduate degree, such as a master&#39;s (e.g. Master of Science) or in some cases Master of Engineering or a doctoral degree (e.g. Doctor of Philosophy, Doctor of Medicine or Doctor of Pharmacy). In some cases it can be synonymous with postdoctoral research.</rdfs:comment>
+    <rdfs:comment xml:lang="fr">Les ingénieurs de recherche participent à la mise en œuvre des activités de recherche, de formation, de gestion, de diffusion des connaissances et de valorisation de l&#39;information scientifique et technique incombant aux établissements où ils exercent. Ils sont chargés de fonctions d&#39;orientation, d&#39;animation et de coordination dans des domaines techniques ou, le cas échéant, administratifs, et ils concourent à l&#39;accomplissement des missions d&#39;enseignement. À ce titre, ils peuvent être chargés de toute étude ou mission spéciale ou générale. Ils peuvent assumer des responsabilités d&#39;encadrement, le plus souvent à l&#39;égard de personnels techniques mais également auprès d&#39;étudiants en cycles supérieurs lorsqu&#39;ils sont détenteurs des titres appropriés. Les ingénieurs de recherche peuvent égalemen</rdfs:comment>
+    <rdfs:comment xml:lang="ja">助教（じょきょう）は、日本の高等研究教育機関において、学生に対する教授、研究指導、または自らの研究に従事する教員のことであり、2007年4月1日より正式に導入された。大学の場合、現行の学校教育法では、教授、准教授、講師の次の職階に位置する。</rdfs:comment>
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.07t3gd" />
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q3151032" />
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q3151032" />
+    <owl:sameAs rdf:resource="http://yago-knowledge.org/resource/Research_associate" />
+    <owl:sameAs rdf:resource="http://ja.dbpedia.org/resource/助教" />
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Research_associate" />
+    <owl:sameAs rdf:resource="http://fr.dbpedia.org/resource/Ingénieur_de_recherche" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Academic_administration" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Research" />
+    <dbo:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1855050</dbo:wikiPageID>
+    <dbo:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">724488890</dbo:wikiPageRevisionID>
+    <dbo:wikiPageExternalLink rdf:resource="http://physiology.case.edu/people/postdoctoral_personnel/" />
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Research_associate" />
+    <prov:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Research_associate?oldid=724488890" />
+    <dbo:abstract xml:lang="en">Research associates are scholars and professionals that usually have an advanced degree beyond a master&#39;s degree. A research associate is an employee of the university or a research institute, and may be eligible to receive university/federal benefits. The research associate position does not explicitly require mentoring and is a regular staff position with appointment letters processed by Human Resources. In contrast to a research assistant, a research associate often has a graduate degree, such as a master&#39;s (e.g. Master of Science) or in some cases Master of Engineering or a doctoral degree (e.g. Doctor of Philosophy, Doctor of Medicine or Doctor of Pharmacy). In some cases it can be synonymous with postdoctoral research.</dbo:abstract>
+    <dbo:abstract xml:lang="fr">Les ingénieurs de recherche participent à la mise en œuvre des activités de recherche, de formation, de gestion, de diffusion des connaissances et de valorisation de l&#39;information scientifique et technique incombant aux établissements où ils exercent. Ils sont chargés de fonctions d&#39;orientation, d&#39;animation et de coordination dans des domaines techniques ou, le cas échéant, administratifs, et ils concourent à l&#39;accomplissement des missions d&#39;enseignement. À ce titre, ils peuvent être chargés de toute étude ou mission spéciale ou générale. Ils peuvent assumer des responsabilités d&#39;encadrement, le plus souvent à l&#39;égard de personnels techniques mais également auprès d&#39;étudiants en cycles supérieurs lorsqu&#39;ils sont détenteurs des titres appropriés. Les ingénieurs de recherche peuvent également être amenés dans certains cadres d&#39;emplois à mener des activités de recherche scientifique.</dbo:abstract>
+    <dbo:abstract xml:lang="ja">助教（じょきょう）は、日本の高等研究教育機関において、学生に対する教授、研究指導、または自らの研究に従事する教員のことであり、2007年4月1日より正式に導入された。大学の場合、現行の学校教育法では、教授、准教授、講師の次の職階に位置する。</dbo:abstract>
+    <ns7:hypernym rdf:resource="http://dbpedia.org/resource/Scholars" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Research_associate">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Research_associate" />
+  </rdf:Description>
+</rdf:RDF>

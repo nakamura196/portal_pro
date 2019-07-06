@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:dbo="http://dbpedia.org/ontology/"
+	xmlns:dct="http://purl.org/dc/terms/"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:dbp="http://dbpedia.org/property/"
+	xmlns:prov="http://www.w3.org/ns/prov#"
+	xmlns:ns8="http://purl.org/linguistics/gold/" >
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Day_of_the_Dog">
+    <dbo:illustrator rdf:resource="http://dbpedia.org/resource/Harrison_Fisher" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jane_Cable">
+    <dbo:illustrator rdf:resource="http://dbpedia.org/resource/Harrison_Fisher" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Harrison_Fisher">
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatAmericanIllustrators" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Organism100004475" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Person" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q483501" />
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person" />
+    <rdf:type rdf:resource="http://schema.org/Person" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/CausalAgent100007347" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Whole100003553" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q5" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/LivingThing100004258" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Person100007846" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Object100002684" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoLegalActor" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoLegalActorGeo" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PhysicalEntity100001930" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q24229398" />
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Painter110391653" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q215627" />
+    <rdf:type rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatArtistsFromNewYorkCity" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Artist" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatAmericanPainters" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatPeopleFromBrooklyn" />
+    <rdf:type rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Artist109812338" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Creator109614315" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Agent" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Illustrator109812068" />
+    <rdfs:label xml:lang="en">Harrison Fisher</rdfs:label>
+    <rdfs:label xml:lang="it">Harrison Fisher</rdfs:label>
+    <rdfs:label xml:lang="ja">ハリソン・フィッシャー</rdfs:label>
+    <rdfs:comment xml:lang="ja">ハリソン・フィッシャー（Harrison Fisher、1877年7月27日 - 1934年）は、アメリカ合衆国のイラストレーターである。彼の描く女性像は当時の商業美術界で人気があり、「千人の少女たちの父」（The Father of a Thousand Girls）の異名で知られた。</rdfs:comment>
+    <rdfs:comment xml:lang="en">Harrison Fisher (July 27, 1875 or 1877 – January 19, 1934) was an American illustrator.</rdfs:comment>
+    <rdfs:comment xml:lang="it">Le sue copertine e i suoi disegni illustrarono per anni diverse riviste statunitensi, tra cui Collier e Cosmopolitan.</rdfs:comment>
+    <owl:sameAs rdf:resource="http://ja.dbpedia.org/resource/ハリソン・フィッシャー" />
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Harrison_Fisher" />
+    <owl:sameAs rdf:resource="http://viaf.org/viaf/34838512" />
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q1989622" />
+    <owl:sameAs rdf:resource="http://it.dbpedia.org/resource/Harrison_Fisher" />
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q1989622" />
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.0c064w" />
+    <owl:sameAs rdf:resource="http://d-nb.info/gnd/1025498097" />
+    <owl:sameAs rdf:resource="http://yago-knowledge.org/resource/Harrison_Fisher" />
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/New_York_City" />
+    <dbo:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1934-1-19</dbo:deathDate>
+    <dbo:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1934-01-19</dbo:deathDate>
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/New_York_City" />
+    <dbo:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1875-07-27</dbo:birthDate>
+    <dbo:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1877-1-1</dbo:birthDate>
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:1934_deaths" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:People_from_Brooklyn" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:American_illustrators" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:1877_births" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Artists_from_New_York_City" />
+    <dbo:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4400345</dbo:wikiPageID>
+    <dbo:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">733205951</dbo:wikiPageRevisionID>
+    <dbo:wikiPageExternalLink rdf:resource="http://www.saturdayeveningpost.com/2012/03/29/art-entertainment/harrison-fisher.html" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.gutenberg.org/etext/17390" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.gutenberg.org/etext/17391" />
+    <foaf:name xml:lang="en">Harrison Fisher</foaf:name>
+    <dbp:name rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Harrison Fisher</dbp:name>
+    <foaf:depiction rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Harrison_Fisher.jpg" />
+    <dct:description xml:lang="en">American illustrator</dct:description>
+    <foaf:givenName xml:lang="en">Harrison</foaf:givenName>
+    <foaf:gender xml:lang="en">male</foaf:gender>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Harrison_Fisher" />
+    <foaf:surname xml:lang="en">Fisher</foaf:surname>
+    <dbo:thumbnail rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Harrison_Fisher.jpg?width=300" />
+    <prov:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Harrison_Fisher?oldid=733205951" />
+    <dbo:abstract xml:lang="it">Le sue copertine e i suoi disegni illustrarono per anni diverse riviste statunitensi, tra cui Collier e Cosmopolitan.</dbo:abstract>
+    <dbo:abstract xml:lang="ja">ハリソン・フィッシャー（Harrison Fisher、1877年7月27日 - 1934年）は、アメリカ合衆国のイラストレーターである。彼の描く女性像は当時の商業美術界で人気があり、「千人の少女たちの父」（The Father of a Thousand Girls）の異名で知られた。</dbo:abstract>
+    <dbo:abstract xml:lang="en">Harrison Fisher (July 27, 1875 or 1877 – January 19, 1934) was an American illustrator.</dbo:abstract>
+    <dbo:field rdf:resource="http://dbpedia.org/resource/Painting" />
+    <dbo:field rdf:resource="http://dbpedia.org/resource/Photography" />
+    <dbo:movement rdf:resource="http://dbpedia.org/resource/Capitalist_realism" />
+    <dbo:training rdf:resource="http://dbpedia.org/resource/San_Francisco_Art_Association" />
+    <dbp:caption rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Harrison Fisher</dbp:caption>
+    <dbp:id rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Fisher,+Harrison</dbp:id>
+    <dbp:sname rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Harrison Fisher</dbp:sname>
+    <dbp:sopt rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">t</dbp:sopt>
+    <dbp:works rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">discovered the It-girl, Clara Bow</dbp:works>
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Illustrator" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Lure_of_the_Mask">
+    <dbo:illustrator rdf:resource="http://dbpedia.org/resource/Harrison_Fisher" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Harrison_Fisher">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Harrison_Fisher" />
+  </rdf:Description>
+</rdf:RDF>

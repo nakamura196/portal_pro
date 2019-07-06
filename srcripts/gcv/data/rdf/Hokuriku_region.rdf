@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:dct="http://purl.org/dc/terms/"
+	xmlns:dbo="http://dbpedia.org/ontology/"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:prov="http://www.w3.org/ns/prov#"
+	xmlns:georss="http://www.georss.org/georss/"
+	xmlns:dbp="http://dbpedia.org/property/" >
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Minami-ku,_Niigata">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Hokuriku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tateyama,_Toyama">
+    <dbo:region rdf:resource="http://dbpedia.org/resource/Hokuriku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Wakasa,_Fukui">
+    <dbo:region rdf:resource="http://dbpedia.org/resource/Hokuriku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mihama,_Fukui">
+    <dbo:region rdf:resource="http://dbpedia.org/resource/Hokuriku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Uchinada,_Ishikawa">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Hokuriku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Akiha-ku,_Niigata">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Hokuriku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kōnan-ku,_Niigata">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Hokuriku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nishi-ku,_Niigata">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Hokuriku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nishikan-ku,_Niigata">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Hokuriku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Asahi,_Toyama">
+    <dbo:region rdf:resource="http://dbpedia.org/resource/Hokuriku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Echizen,_Fukui_(town)">
+    <dbo:region rdf:resource="http://dbpedia.org/resource/Hokuriku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Higashi-ku,_Niigata">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Hokuriku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hokuriku">
+    <dbo:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/Hokuriku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hokuriku_region">
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatRegionsOfAsia" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatRegionsOfJapan" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoLegalActorGeo" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Object100002684" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PhysicalEntity100001930" />
+    <rdf:type rdf:resource="http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Location100027167" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoGeoEntity" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoPermanentlyLocatedEntity" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Region108630039" />
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing" />
+    <rdfs:label xml:lang="zh">北陸地方</rdfs:label>
+    <rdfs:label xml:lang="nl">Hokuriku</rdfs:label>
+    <rdfs:label xml:lang="pl">Region Hokuriku</rdfs:label>
+    <rdfs:label xml:lang="ru">Хокурику (регион)</rdfs:label>
+    <rdfs:label xml:lang="de">Hokuriku</rdfs:label>
+    <rdfs:label xml:lang="es">Región de Hokuriku</rdfs:label>
+    <rdfs:label xml:lang="ar">منطقة هوكوريكو</rdfs:label>
+    <rdfs:label xml:lang="pt">Hokuriku</rdfs:label>
+    <rdfs:label xml:lang="it">Regione di Hokuriku</rdfs:label>
+    <rdfs:label xml:lang="ja">北陸地方</rdfs:label>
+    <rdfs:label xml:lang="en">Hokuriku region</rdfs:label>
+    <rdfs:label xml:lang="fr">Région de Hokuriku</rdfs:label>
+    <rdfs:comment xml:lang="fr">La région de Hokuriku (北陸地方, Hokuriku Chihō, littéralement Terre du Nord) est une zone géographique faisant partie de la région du Chūbu, sur Honshū, l&#39;île principale du Japon. On définit habituellement cette région comme comprenant les préfectures de Toyama, Ishikawa et Fukui (auxquelles on ajoute parfois la préfecture de Niigata). Cependant, on dit que les préfectures de Niigata et de Nagano forment à elles deux une région que l&#39;on nomme Shinetsu (contraction des noms des anciennes provinces correspondant à ces deux préfectures, à savoir Shinano et Echigo). La région formée par ces cinq préfectures est nommée Hoku-shin&#39;etsu (北信越). Ce dernier constitue d&#39;ailleurs l&#39;un des blocs législatifs utilisés pour l&#39;élection à la proportionnelle de certains membres de la Chambre des représentants.</rdfs:comment>
+    <rdfs:comment xml:lang="ar">25بك المحتوى هنا ينقصه الاستشهاد بمصادر. يرجى إيراد مصادر موثوق بها. أي معلومات غير موثقة يمكن التشكيك بها وإزالتها. (مارس 2016) منطقة هوكوريكو (باليابانية: 北陸地方 Hokuriku chihō) والتي تعني بشكل حرفي منطقة الأراضي الشمالية، هي جزء من المنطقة الواقعة على بحر اليابان ضمن منطقة تشوبو وهي المنطقة الوسطى في الجزيرة الرئيسية هونشو في أراضي اليابان. تتضمن هذه المنطقة ثلاث محافظات هي: محافظة توياما، محافظة إيشيكاوا ومحافظة فوكوئي. أحياناً تضم محافظة نيئيغاتا إلى هذه المنطقة وأحياناً لا. تبلغ مساحة المنطقة 12,621.99 كم مربع، وتعداد سكانها 3,110,925 نسمة، بحسب إحصاءات عام 2005.</rdfs:comment>
+    <rdfs:comment xml:lang="zh">北陸地方其名称来自日本古代五畿七道中的「北陆道」，一般指日本本州中部地區臨日本海沿岸的地方，包括福井县、石川县、富山县及新潟县。由于经济与文化的差異，有时北陆地方又不含新潟县。所以有前者「含新潟縣的北陸地方」的「北陸4縣」和後者的「北陸3縣」的區分。</rdfs:comment>
+    <rdfs:comment xml:lang="ja">北陸地方（ほくりくちほう）は、本州中央部に位置する中部地方のうち日本海に面する地域である。新潟県、富山県、石川県、福井県の4県、あるいは富山県、石川県、福井県の3県を指す。区別のため前者を「北陸4県」「新潟県を含む北陸地方」、後者を「北陸3県」などと表現することがある。北陸3県の繋がりについてはの節を参照。 名称は、畿内から見て北方にある五畿七道の北陸道に由来し、中世以前では、この地域を北国（ほっこく）と称していた。</rdfs:comment>
+    <rdfs:comment xml:lang="pt">Hokuriku region (北陸地方, Hokuriku chihō?, lit. &quot;Terra do Norte&quot;) é uma região japonesa, ao longo do Mar do Japão, no centro da principal ilha daquele país, Honshu. É uma região de definição um pouco variável, que inclui as províncias de Toyama, Ishikawa e Fukui, podendo incluir também a província de Niigata. No primeiro caso, as províncias de Niigata e de Nagano formam a região de Shin&#39;etsu, que, juntamente com a região de Hokuriku perfazem a região de Hoku-shin&#39;etsu (que significa literalmente Shin&#39;etsu do Norte).</rdfs:comment>
+    <rdfs:comment xml:lang="en">The Hokuriku region (北陸地方 Hokuriku chihō, Lit. &quot;Northlands region&quot;) is located in the northwestern part of Honshu, the main island of Japan. It lies along the Sea of Japan within the Chūbu region. It is almost equivalent to Koshi Province and Hokurikudō area in pre-modern Japan. The Hokuriku region includes the four prefectures of Ishikawa, Fukui, Niigata and Toyama, although Niigata is sometimes included in one of the following regions:</rdfs:comment>
+    <rdfs:comment xml:lang="nl">Hokuriku (Japans: 北陸地方, Hokuriku chihō; letterlijk noordland) is een deelregio van de regio Chubu. De regio is gelegen langs de Japanse Zee. In Hokuriku liggen van noord naar zuid de volgende prefecturen: 1.  
+*  Vlag van Niigata Niigata 2.  
+*  Vlag van Toyoma Toyama 3.  
+*  Vlag van Ishikawa Ishikawa 4.  
+*  Vlag van Fukui Fukui</rdfs:comment>
+    <rdfs:comment xml:lang="it">La regione di Hokuriku (北陸地方 Hokuriku chihō?) è una sottoregione della regione di Chūbu, in Giappone.</rdfs:comment>
+    <rdfs:comment xml:lang="es">Hokuriku (北陸地方 Hokuriku?) es la parte de la región de Chubu que da la cara al mar del Japón. Literalmente quiere decir tierra del norte y se refiere que antiguamente eran los territorios al norte de al antigua capital Kioto.</rdfs:comment>
+    <rdfs:comment xml:lang="pl">Region Hokuriku (jap. 北陸地方 Hokuriku-chihō, dosł. Region Północnej Ziemi) - region geograficzny w północno-zachodniej części wyspy Honsiu, w Japonii. Usytuowany jest wzdłuż wybrzeża Morza Japońskiego i jest częścią regionu Chūbu. Obszar Horuriku pokrywa się w znacznej mierze z historycznymi prowincjami: Koshi i Hokurikudō. W skład tego regionu wchodzą prefektury: Toyama, Ishikawa i Fukui. Czasem również prefektura Niigata jest zaliczana do tego regionu.</rdfs:comment>
+    <rdfs:comment xml:lang="de">Hokuriku (jap. 北陸地方, -chihō, dt. „Region Nordland“) ist eine Teilregion der japanischen Region Chūbu. Sie umfasst den Teil der Region, der dem Japanischen Meer zugewandt ist. Die Region umfasst die Präfektur Fukui, die Präfektur Ishikawa und die Präfektur Toyama. Die Grenzen sind nicht klar festgelegt, viele zählen auch noch Niigata dazu. Andernfalls bilden Niigata und Nagano die Region Shin’etsu, das dann mit Hokuriku die Region Hokuriku-Shin’etsu bzw. kurz Region Hokushin’etsu bildet. 
+* Präfektur Fukui in Chūbu 
+* Präfektur Ishikawa in Chūbu 
+* Präfektur Toyama in Chūbu 
+*</rdfs:comment>
+    <rdfs:comment xml:lang="ru">Регион Хокурику (яп. 北陸地方 хокурику тихо:, букв. &quot;Регион северных земель&quot;) расположен в северо-западной части Хонсю, крупнейшего из островов Японии. Он тянется вдоль Японского моря, входя в состав региона Тюбу. Регион Хокурику также соответствует древней области Коси и старой провинции Хокурикудо. Регион Хокурику включает в себя 4 префектуры: Исикава, Фукуи, Ниигата и Тояма, хотя Ниигату иногда включают в один из следующих регионов:</rdfs:comment>
+    <owl:sameAs rdf:resource="http://it.dbpedia.org/resource/Regione_di_Hokuriku" />
+    <owl:sameAs rdf:resource="http://pl.dbpedia.org/resource/Region_Hokuriku" />
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.0201jj" />
+    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/Hokuriku" />
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q381025" />
+    <owl:sameAs rdf:resource="http://cs.dbpedia.org/resource/Hokuriku" />
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Hokuriku_region" />
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q381025" />
+    <owl:sameAs rdf:resource="http://es.dbpedia.org/resource/Región_de_Hokuriku" />
+    <owl:sameAs rdf:resource="http://eu.dbpedia.org/resource/Hokuriku_eskualdea" />
+    <owl:sameAs rdf:resource="http://nl.dbpedia.org/resource/Hokuriku" />
+    <owl:sameAs rdf:resource="http://ko.dbpedia.org/resource/호쿠리쿠_지방" />
+    <owl:sameAs rdf:resource="http://d-nb.info/gnd/4843322-6" />
+    <owl:sameAs rdf:resource="http://id.dbpedia.org/resource/Wilayah_Hokuriku" />
+    <owl:sameAs rdf:resource="http://ja.dbpedia.org/resource/北陸地方" />
+    <owl:sameAs rdf:resource="http://pt.dbpedia.org/resource/Hokuriku" />
+    <owl:sameAs rdf:resource="http://yago-knowledge.org/resource/Hokuriku_region" />
+    <owl:sameAs rdf:resource="http://fr.dbpedia.org/resource/Région_de_Hokuriku" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Chūbu_region" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Hokuriku_region" />
+    <dbo:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">366757</dbo:wikiPageID>
+    <dbo:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">686392720</dbo:wikiPageRevisionID>
+    <dbo:wikiPageExternalLink rdf:resource="https://books.google.com/books?id=p2QnPijAEmEC" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.lonelyplanet.com/travel-tips-and-articles/lonely-planets-best-in-travel-2014-top-10-regions" />
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#float">37.9161</geo:lat>
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#float">139.036</geo:long>
+    <foaf:depiction rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Hokuriku-region2_Small.png" />
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Hokuriku_region" />
+    <geo:geometry rdf:datatype="http://www.openlinksw.com/schemas/virtrdf#Geometry">POINT(139.03639221191 37.916110992432)</geo:geometry>
+    <dbo:thumbnail rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Hokuriku-region2_Small.png?width=300" />
+    <prov:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Hokuriku_region?oldid=686392720" />
+    <dbo:abstract xml:lang="pt">Hokuriku region (北陸地方, Hokuriku chihō?, lit. &quot;Terra do Norte&quot;) é uma região japonesa, ao longo do Mar do Japão, no centro da principal ilha daquele país, Honshu. É uma região de definição um pouco variável, que inclui as províncias de Toyama, Ishikawa e Fukui, podendo incluir também a província de Niigata. No primeiro caso, as províncias de Niigata e de Nagano formam a região de Shin&#39;etsu, que, juntamente com a região de Hokuriku perfazem a região de Hoku-shin&#39;etsu (que significa literalmente Shin&#39;etsu do Norte).</dbo:abstract>
+    <dbo:abstract xml:lang="it">La regione di Hokuriku (北陸地方 Hokuriku chihō?) è una sottoregione della regione di Chūbu, in Giappone.</dbo:abstract>
+    <dbo:abstract xml:lang="en">The Hokuriku region (北陸地方 Hokuriku chihō, Lit. &quot;Northlands region&quot;) is located in the northwestern part of Honshu, the main island of Japan. It lies along the Sea of Japan within the Chūbu region. It is almost equivalent to Koshi Province and Hokurikudō area in pre-modern Japan. The Hokuriku region includes the four prefectures of Ishikawa, Fukui, Niigata and Toyama, although Niigata is sometimes included in one of the following regions: 
+*  Shin&#39;etsu (信越): includes Niigata and Nagano prefectures 
+*  Kōshin&#39;etsu (甲信越): includes Niigata, Nagano and Yamanashi prefectures 
+*  Hokushin&#39;etsu (北信越): includes both the Hokuriku and Shin&#39;etsu regions</dbo:abstract>
+    <dbo:abstract xml:lang="ru">Регион Хокурику (яп. 北陸地方 хокурику тихо:, букв. &quot;Регион северных земель&quot;) расположен в северо-западной части Хонсю, крупнейшего из островов Японии. Он тянется вдоль Японского моря, входя в состав региона Тюбу. Регион Хокурику также соответствует древней области Коси и старой провинции Хокурикудо. Регион Хокурику включает в себя 4 префектуры: Исикава, Фукуи, Ниигата и Тояма, хотя Ниигату иногда включают в один из следующих регионов: 
+*  Синэцу (яп. 信越): префектуры Ниигата и Нагано 
+*  Косинэцу (яп. 甲信越): префектуры Ниигата, Нагано и Яманаси 
+*  Хокусинэцу (яп. 北信越), объединяющий регионы Хокурику и Синэцу</dbo:abstract>
+    <dbo:abstract xml:lang="fr">La région de Hokuriku (北陸地方, Hokuriku Chihō, littéralement Terre du Nord) est une zone géographique faisant partie de la région du Chūbu, sur Honshū, l&#39;île principale du Japon. On définit habituellement cette région comme comprenant les préfectures de Toyama, Ishikawa et Fukui (auxquelles on ajoute parfois la préfecture de Niigata). Cependant, on dit que les préfectures de Niigata et de Nagano forment à elles deux une région que l&#39;on nomme Shinetsu (contraction des noms des anciennes provinces correspondant à ces deux préfectures, à savoir Shinano et Echigo). La région formée par ces cinq préfectures est nommée Hoku-shin&#39;etsu (北信越). Ce dernier constitue d&#39;ailleurs l&#39;un des blocs législatifs utilisés pour l&#39;élection à la proportionnelle de certains membres de la Chambre des représentants.</dbo:abstract>
+    <dbo:abstract xml:lang="nl">Hokuriku (Japans: 北陸地方, Hokuriku chihō; letterlijk noordland) is een deelregio van de regio Chubu. De regio is gelegen langs de Japanse Zee. In Hokuriku liggen van noord naar zuid de volgende prefecturen: 1.  
+*  Vlag van Niigata Niigata 2.  
+*  Vlag van Toyoma Toyama 3.  
+*  Vlag van Ishikawa Ishikawa 4.  
+*  Vlag van Fukui Fukui</dbo:abstract>
+    <dbo:abstract xml:lang="zh">北陸地方其名称来自日本古代五畿七道中的「北陆道」，一般指日本本州中部地區臨日本海沿岸的地方，包括福井县、石川县、富山县及新潟县。由于经济与文化的差異，有时北陆地方又不含新潟县。所以有前者「含新潟縣的北陸地方」的「北陸4縣」和後者的「北陸3縣」的區分。</dbo:abstract>
+    <dbo:abstract xml:lang="pl">Region Hokuriku (jap. 北陸地方 Hokuriku-chihō, dosł. Region Północnej Ziemi) - region geograficzny w północno-zachodniej części wyspy Honsiu, w Japonii. Usytuowany jest wzdłuż wybrzeża Morza Japońskiego i jest częścią regionu Chūbu. Obszar Horuriku pokrywa się w znacznej mierze z historycznymi prowincjami: Koshi i Hokurikudō. W skład tego regionu wchodzą prefektury: Toyama, Ishikawa i Fukui. Czasem również prefektura Niigata jest zaliczana do tego regionu.</dbo:abstract>
+    <dbo:abstract xml:lang="ar">25بك المحتوى هنا ينقصه الاستشهاد بمصادر. يرجى إيراد مصادر موثوق بها. أي معلومات غير موثقة يمكن التشكيك بها وإزالتها. (مارس 2016) منطقة هوكوريكو (باليابانية: 北陸地方 Hokuriku chihō) والتي تعني بشكل حرفي منطقة الأراضي الشمالية، هي جزء من المنطقة الواقعة على بحر اليابان ضمن منطقة تشوبو وهي المنطقة الوسطى في الجزيرة الرئيسية هونشو في أراضي اليابان. تتضمن هذه المنطقة ثلاث محافظات هي: محافظة توياما، محافظة إيشيكاوا ومحافظة فوكوئي. أحياناً تضم محافظة نيئيغاتا إلى هذه المنطقة وأحياناً لا. تبلغ مساحة المنطقة 12,621.99 كم مربع، وتعداد سكانها 3,110,925 نسمة، بحسب إحصاءات عام 2005. 
+* 32xبوابة اليابانمشاريع شقيقة في كومنز صور وملفات عن: منطقة هوكوريكو 25بك هذه بذرة مقالة عن اليابان. بحاجة للتوسيع. شارك في تحريرها.</dbo:abstract>
+    <dbo:abstract xml:lang="es">Hokuriku (北陸地方 Hokuriku?) es la parte de la región de Chubu que da la cara al mar del Japón. Literalmente quiere decir tierra del norte y se refiere que antiguamente eran los territorios al norte de al antigua capital Kioto.</dbo:abstract>
+    <dbo:abstract xml:lang="ja">北陸地方（ほくりくちほう）は、本州中央部に位置する中部地方のうち日本海に面する地域である。新潟県、富山県、石川県、福井県の4県、あるいは富山県、石川県、福井県の3県を指す。区別のため前者を「北陸4県」「新潟県を含む北陸地方」、後者を「北陸3県」などと表現することがある。北陸3県の繋がりについてはの節を参照。 名称は、畿内から見て北方にある五畿七道の北陸道に由来し、中世以前では、この地域を北国（ほっこく）と称していた。</dbo:abstract>
+    <dbo:abstract xml:lang="de">Hokuriku (jap. 北陸地方, -chihō, dt. „Region Nordland“) ist eine Teilregion der japanischen Region Chūbu. Sie umfasst den Teil der Region, der dem Japanischen Meer zugewandt ist. Die Region umfasst die Präfektur Fukui, die Präfektur Ishikawa und die Präfektur Toyama. Die Grenzen sind nicht klar festgelegt, viele zählen auch noch Niigata dazu. Andernfalls bilden Niigata und Nagano die Region Shin’etsu, das dann mit Hokuriku die Region Hokuriku-Shin’etsu bzw. kurz Region Hokushin’etsu bildet. Hokuriku deckt sich im Wesentlichen mit der historischen Region Hokurikudō des Gokishichidō-Systems bzw. der davor bestehenden Provinz Koshi. 
+* Präfektur Fukui in Chūbu 
+* Präfektur Ishikawa in Chūbu 
+* Präfektur Toyama in Chūbu 
+* Präfektur Niigata in Chūbu Regionen JapansRegionen Japans Normdaten (Geografikum): GND: 4843322-6  | NDL: 00646971 | VIAF: 259070461</dbo:abstract>
+    <georss:point>37.916111111111114 139.0363888888889</georss:point>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kita-ku,_Niigata">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Hokuriku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hokuriku_dialect">
+    <dbo:spokenIn rdf:resource="http://dbpedia.org/resource/Hokuriku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ishikawa_Prefecture">
+    <dbp:region rdf:resource="http://dbpedia.org/resource/Hokuriku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/West_Japan_Railway_Company">
+    <dbo:regionServed rdf:resource="http://dbpedia.org/resource/Hokuriku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Anamizu,_Ishikawa">
+    <dbo:region rdf:resource="http://dbpedia.org/resource/Hokuriku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Eiheiji,_Fukui">
+    <dbo:region rdf:resource="http://dbpedia.org/resource/Hokuriku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Funahashi,_Toyama">
+    <dbo:region rdf:resource="http://dbpedia.org/resource/Hokuriku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hōdatsushimizu,_Ishikawa">
+    <dbo:region rdf:resource="http://dbpedia.org/resource/Hokuriku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kamiichi,_Toyama">
+    <dbo:region rdf:resource="http://dbpedia.org/resource/Hokuriku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kawakita,_Ishikawa">
+    <dbo:region rdf:resource="http://dbpedia.org/resource/Hokuriku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Minamiechizen,_Fukui">
+    <dbo:region rdf:resource="http://dbpedia.org/resource/Hokuriku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nyūzen,_Toyama">
+    <dbo:region rdf:resource="http://dbpedia.org/resource/Hokuriku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Shika,_Ishikawa">
+    <dbo:region rdf:resource="http://dbpedia.org/resource/Hokuriku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tsubata,_Ishikawa">
+    <dbo:region rdf:resource="http://dbpedia.org/resource/Hokuriku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ōi,_Fukui">
+    <dbo:region rdf:resource="http://dbpedia.org/resource/Hokuriku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ikeda,_Fukui">
+    <dbo:region rdf:resource="http://dbpedia.org/resource/Hokuriku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Takahama,_Fukui">
+    <dbo:region rdf:resource="http://dbpedia.org/resource/Hokuriku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Awashimaura,_Niigata">
+    <dbo:region rdf:resource="http://dbpedia.org/resource/Hokuriku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hokuriku_Bank">
+    <dbo:regionServed rdf:resource="http://dbpedia.org/resource/Hokuriku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hokuriku_and_Koshinetsu_region">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Hokuriku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Noto,_Ishikawa">
+    <dbo:region rdf:resource="http://dbpedia.org/resource/Hokuriku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hokkoku_Bank">
+    <dbo:regionServed rdf:resource="http://dbpedia.org/resource/Hokuriku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nakanoto,_Ishikawa">
+    <dbo:region rdf:resource="http://dbpedia.org/resource/Hokuriku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/北陸地方">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Hokuriku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hokuriku_Region">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Hokuriku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Hokuriku_region">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Hokuriku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Beilu">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Hokuriku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/北陸">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Hokuriku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hokuriku_Collegiate_American_Football_League">
+    <dbp:region rdf:resource="http://dbpedia.org/resource/Hokuriku_region" />
+  </rdf:Description>
+</rdf:RDF>

@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:dct="http://purl.org/dc/terms/"
+	xmlns:dbo="http://dbpedia.org/ontology/"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:prov="http://www.w3.org/ns/prov#"
+	xmlns:ns7="http://purl.org/linguistics/gold/" >
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Iron-works">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Ironworks" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Carron_Company">
+    <ns7:hypernym rdf:resource="http://dbpedia.org/resource/Ironworks" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Iron_works">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Ironworks" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Engelsberg_Ironworks">
+    <ns7:hypernym rdf:resource="http://dbpedia.org/resource/Ironworks" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Siderurgy">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Ironworks" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Iron-Work">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Ironworks" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ironworks">
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Building" />
+    <rdfs:label xml:lang="ja">製鉄所</rdfs:label>
+    <rdfs:label xml:lang="en">Ironworks</rdfs:label>
+    <rdfs:label xml:lang="de">Eisenwerk</rdfs:label>
+    <rdfs:label xml:lang="it">Ferriera</rdfs:label>
+    <rdfs:comment xml:lang="it">La ferriera è uno stabilimento siderurgico nel quale si produce la ghisa, il ferro e l&#39;acciaio. In una ferriera, a seconda della produzione attuata, possiamo trovare: 
+* i parchi di materie prime: minerale di ferro e carbone 
+*  la cokeria, per la produzione del carbon coke 
+* l&#39;alto forno per la produzione della ghisa, con i suoi ricuperatori Cowper 
+* i forni per la produzione dell&#39;acciaio: a riverbero, Martin-Siemens, convertitori Bessemer e Thomas, forni elettrici ad arco o ad induzione, ecc. 
+* le attrezzature necessarie alla colata: siviere, lingottiere, ecc.</rdfs:comment>
+    <rdfs:comment xml:lang="en">An ironworks or iron works is a building or site where iron is smelted and where heavy iron and steel products are made. The term is both singular and plural, i.e. the singular of ironworks is ironworks. Ironworks succeed bloomeries when blast furnaces replaced former methods. An integrated ironworks in the 19th century usually included one or more blast furnaces and a number of puddling furnaces or a foundry with or without other kinds of ironworks. After the invention of the Bessemer process, converters became widespread, and the appellation steelworks replaced ironworks.</rdfs:comment>
+    <rdfs:comment xml:lang="ja">製鉄所（せいてつじょ・せいてつしょ）とは、製鉄を行い鉄鋼製品を作る一連の設備がまとまって存在する工場のことである。 本稿では、その中でも日本の鉄鋼業の主流である、鉄鉱石から鉄を取り出すところから最終製品の製造までを一つの敷地内で行う（間接製鋼法による）銑鋼一貫製鉄所を取り上げる。 日本における事実上の銑鋼一貫製鉄所は、新日鐵住金7（室蘭・鹿島・君津・和歌山・名古屋・八幡・大分）、JFEスチール4（千葉、京浜、倉敷、福山）、神戸製鋼所2（神戸・加古川）、日新製鋼1（呉）の14か所である（2015年現在）。 日本初の銑鋼一貫製鉄所としては一般的に北九州の官営八幡製鐵所（1901年（明治34年）操業開始）が挙げられるが、操業当初には生産が不安定で、開始の翌年から2年間稼動が停止（1904年まで）されている。一方、民間では岩手県の釜石鉱山田中製鉄所（1887年（明治20年）創業）が1903年（明治36年）より銑鋼一貫製鉄所となって稼動しているので、こちらの方が時期的に早い。</rdfs:comment>
+    <rdfs:comment xml:lang="de">Ein Eisenwerk, oft auch als Hüttenwerk, Eisenhütte oder kurz Hütte bezeichnet, ist eine Anlage zur Erzeugung von Roheisen und Stahl aus Eisenerz. Heute handelt es sich dabei in der Regel um Industrieanlagen. Der größte Eisen und Stahl erzeugende Standort in Deutschland ist Duisburg.</rdfs:comment>
+    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/Eisenwerk" />
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q10832530" />
+    <owl:sameAs rdf:resource="http://it.dbpedia.org/resource/Ferriera" />
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Ironworks" />
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q10832530" />
+    <owl:sameAs rdf:resource="http://d-nb.info/gnd/4026098-7" />
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.06ctrv" />
+    <owl:sameAs rdf:resource="http://ja.dbpedia.org/resource/製鉄所" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Iron_and_steel_mills" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Industrial_Revolution" />
+    <dbo:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1997191</dbo:wikiPageID>
+    <dbo:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">729279358</dbo:wikiPageRevisionID>
+    <foaf:depiction rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Adolph_Menzel_-_Eisenwalzwerk_-_Google_Art_Project.jpg" />
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Ironworks" />
+    <dbo:thumbnail rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Adolph_Menzel_-_Eisenwalzwerk_-_Google_Art_Project.jpg?width=300" />
+    <prov:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Ironworks?oldid=729279358" />
+    <dbo:abstract xml:lang="ja">製鉄所（せいてつじょ・せいてつしょ）とは、製鉄を行い鉄鋼製品を作る一連の設備がまとまって存在する工場のことである。 本稿では、その中でも日本の鉄鋼業の主流である、鉄鉱石から鉄を取り出すところから最終製品の製造までを一つの敷地内で行う（間接製鋼法による）銑鋼一貫製鉄所を取り上げる。 日本における事実上の銑鋼一貫製鉄所は、新日鐵住金7（室蘭・鹿島・君津・和歌山・名古屋・八幡・大分）、JFEスチール4（千葉、京浜、倉敷、福山）、神戸製鋼所2（神戸・加古川）、日新製鋼1（呉）の14か所である（2015年現在）。 日本初の銑鋼一貫製鉄所としては一般的に北九州の官営八幡製鐵所（1901年（明治34年）操業開始）が挙げられるが、操業当初には生産が不安定で、開始の翌年から2年間稼動が停止（1904年まで）されている。一方、民間では岩手県の釜石鉱山田中製鉄所（1887年（明治20年）創業）が1903年（明治36年）より銑鋼一貫製鉄所となって稼動しているので、こちらの方が時期的に早い。</dbo:abstract>
+    <dbo:abstract xml:lang="de">Ein Eisenwerk, oft auch als Hüttenwerk, Eisenhütte oder kurz Hütte bezeichnet, ist eine Anlage zur Erzeugung von Roheisen und Stahl aus Eisenerz. Heute handelt es sich dabei in der Regel um Industrieanlagen. Der größte Eisen und Stahl erzeugende Standort in Deutschland ist Duisburg. Die ersten Nachweise für die Eisenverhüttung kennt man aus der Zeit von zirka 2000–1500 v. Chr. Allerdings sind dies Einzelfälle und der alltägliche Umgang mit Eisen wird erst um 1000–900 v. Chr., also dem Beginn der Eisenzeit historisch fassbar. Damals wurde Eisenschwamm (Eisenluppe) mittels Holzkohle als Reduktionsmittel im sogenannten Rennfeuer erzeugt. Ab dem 13. Jahrhundert wurde vereinzelt bereits flüssiges Roheisen erzeugt und in Schmiedeeisen umgewandelt. 1735 wurde der erste mit Koks beheizte Hochofen erbaut. Ab 1864 wurde Stahl im Siemens-Martin-Ofen erzeugt. Seit 1950 wird die direkte Eisenreduktion industriell genutzt. Die Grundstoffe zur Herstellung von Roheisen sind Eisenerz und Koks. Je nach Art der Beimengungen (Gangarten) im Erz werden beispielsweise Kalkstein (bei kieselsäurehaltigen Beimengungen) oder Feldspat (bei kalkhaltigen Beimengungen) als so genannte „Zuschläge“ zugegeben. Die Aufbereitung erfolgt durch Flotation oder Magnetabscheidung. Das Erz wird zerkleinert. Oxidische Eisenerze werden mit Kohlenstoff reduziert, es entsteht Roheisen, aufgrund des hohen Kohlenstoffgehalts ein sprödes Material, das bei Erhitzen innerhalb eines kleinen Temperaturbereichs aufweicht (siehe Eisen-Kohlenstoff-Diagramm). Die Roheisengewinnung erfolgt vorwiegend im Hochofen. Das noch flüssige Roheisen wird anschließend im Konverter zu Stahl gefrischt.</dbo:abstract>
+    <dbo:abstract xml:lang="en">An ironworks or iron works is a building or site where iron is smelted and where heavy iron and steel products are made. The term is both singular and plural, i.e. the singular of ironworks is ironworks. Ironworks succeed bloomeries when blast furnaces replaced former methods. An integrated ironworks in the 19th century usually included one or more blast furnaces and a number of puddling furnaces or a foundry with or without other kinds of ironworks. After the invention of the Bessemer process, converters became widespread, and the appellation steelworks replaced ironworks. The processes carried at ironworks are usually described as ferrous metallurgy, but the term siderurgy is also occasionally used. This is derived from the Greek words sideros - iron and ergon or ergos - work. This is an unusual term in English, and it is best regarded as an anglicisation of a term used in French, Spanish, and other Romance languages.</dbo:abstract>
+    <dbo:abstract xml:lang="it">La ferriera è uno stabilimento siderurgico nel quale si produce la ghisa, il ferro e l&#39;acciaio. In una ferriera, a seconda della produzione attuata, possiamo trovare: 
+* i parchi di materie prime: minerale di ferro e carbone 
+*  la cokeria, per la produzione del carbon coke 
+* l&#39;alto forno per la produzione della ghisa, con i suoi ricuperatori Cowper 
+* i forni per la produzione dell&#39;acciaio: a riverbero, Martin-Siemens, convertitori Bessemer e Thomas, forni elettrici ad arco o ad induzione, ecc. 
+* le attrezzature necessarie alla colata: siviere, lingottiere, ecc. La ferriera non va confusa con la fonderia, che è lo stabilimento ove i metalli vengono fusi per ottenere dei getti.</dbo:abstract>
+    <ns7:hypernym rdf:resource="http://dbpedia.org/resource/Building" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ironworks_(disambiguation)">
+    <dbo:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/Ironworks" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/West_Point_Foundry">
+    <ns7:hypernym rdf:resource="http://dbpedia.org/resource/Ironworks" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Stewart_Iron_Works">
+    <dbo:industry rdf:resource="http://dbpedia.org/resource/Ironworks" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Markham_&amp;_Co.">
+    <ns7:hypernym rdf:resource="http://dbpedia.org/resource/Ironworks" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Dowlais_Ironworks">
+    <ns7:hypernym rdf:resource="http://dbpedia.org/resource/Ironworks" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Wendener_Hütte">
+    <ns7:hypernym rdf:resource="http://dbpedia.org/resource/Ironworks" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Etna_Iron_Works">
+    <ns7:hypernym rdf:resource="http://dbpedia.org/resource/Ironworks" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Forges_du_Saint-Maurice">
+    <dbo:type rdf:resource="http://dbpedia.org/resource/Ironworks" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bersham_Ironworks">
+    <ns7:hypernym rdf:resource="http://dbpedia.org/resource/Ironworks" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Horseley_Ironworks">
+    <ns7:hypernym rdf:resource="http://dbpedia.org/resource/Ironworks" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Patuxent_Iron_Works">
+    <ns7:hypernym rdf:resource="http://dbpedia.org/resource/Ironworks" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Wolff_&amp;_Zwicker_Iron_Works">
+    <ns7:hypernym rdf:resource="http://dbpedia.org/resource/Ironworks" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Eagle_Ironworks,_Oxford">
+    <ns7:hypernym rdf:resource="http://dbpedia.org/resource/Ironworks" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bringewood_Ironworks">
+    <ns7:hypernym rdf:resource="http://dbpedia.org/resource/Ironworks" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ironwork">
+    <owl:differentFrom rdf:resource="http://dbpedia.org/resource/Ironworks" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Haigh_Foundry">
+    <ns7:hypernym rdf:resource="http://dbpedia.org/resource/Ironworks" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Speedwell_Ironworks">
+    <ns7:hypernym rdf:resource="http://dbpedia.org/resource/Ironworks" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Royal_Ironworks_of_St_John,_Ipanema">
+    <ns7:hypernym rdf:resource="http://dbpedia.org/resource/Ironworks" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tredegar_Ironworks_(Wales)">
+    <ns7:hypernym rdf:resource="http://dbpedia.org/resource/Ironworks" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Eidsfos_Verk">
+    <ns7:hypernym rdf:resource="http://dbpedia.org/resource/Ironworks" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Iron_mill">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Ironworks" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Ironworks">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Ironworks" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Iron_work">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Ironworks" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hazledine_and_Company">
+    <ns7:hypernym rdf:resource="http://dbpedia.org/resource/Ironworks" />
+  </rdf:Description>
+</rdf:RDF>

@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:dct="http://purl.org/dc/terms/"
+	xmlns:dbo="http://dbpedia.org/ontology/"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:prov="http://www.w3.org/ns/prov#"
+	xmlns:ns7="http://purl.org/linguistics/gold/" >
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sidetur">
+    <dbo:product rdf:resource="http://dbpedia.org/resource/Beam_(structure)" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Construction_beam">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Beam_(structure)" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lipid_bilayer_mechanics">
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Beam_(structure)" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Architectural_steel">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Beam_(structure)" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Beam">
+    <dbo:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/Beam_(structure)" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Beam_(structure)">
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoPermanentlyLocatedEntity" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Abstraction100002137" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/MilitaryUnit" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Trouble107289014" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PsychologicalFeature100023100" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Noise107430211" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Static107431683" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatStatics" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Concept105835747" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Part105867413" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Content105809192" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Idea105833840" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Cognition100023271" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Component105868954" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Event100029378" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatArchitecturalElements" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Happening107283608" />
+    <rdfs:label xml:lang="ru">Балка (техника)</rdfs:label>
+    <rdfs:label xml:lang="es">Viga</rdfs:label>
+    <rdfs:label xml:lang="pl">Belka</rdfs:label>
+    <rdfs:label xml:lang="pt">Viga</rdfs:label>
+    <rdfs:label xml:lang="nl">Balk (bouwkunde)</rdfs:label>
+    <rdfs:label xml:lang="en">Beam (structure)</rdfs:label>
+    <rdfs:label xml:lang="zh">梁 (结构)</rdfs:label>
+    <rdfs:label xml:lang="de">Träger (Statik)</rdfs:label>
+    <rdfs:label xml:lang="ja">はり部材</rdfs:label>
+    <rdfs:label xml:lang="it">Trave</rdfs:label>
+    <rdfs:label xml:lang="ar">كمرة</rdfs:label>
+    <rdfs:label xml:lang="fr">Poutre (construction)</rdfs:label>
+    <rdfs:comment xml:lang="ru">Ба́лка — линейный элемент несущих конструкций, опирающийся на оба конца (в отличие от консоли) и работающий преимущественно на изгиб. Изготавливаются различных сечений (тавровая, двутавровая, коробчатая балка, брус и другие). Прочностные качества балки зависят от нескольких её характеристик: 
+*  площадь и форма её поперечного сечения; 
+*  длина балки; 
+*  материал балки; 
+*  способ её закрепления. Стальная балка может быть прокатной или сварной.</rdfs:comment>
+    <rdfs:comment xml:lang="de">Ein Träger ist im Bauingenieurwesen ein meist horizontal verlaufender, im Verhältnis zu seiner Länge schmaler und schlanker Balken, der die aufliegenden Lasten an Wände oder senkrechte Stützen ableitet. Anders als ein Bogen wird ein Träger vorwiegend auf Biegung belastet. Aufgrund der geringen Zugfestigkeit ist Stein als Material ungeeignet. Gefordert sind Werkstoffe mit hohen Zugfestigkeiten wie Holz, Metall oder Stahlbeton. Träger, die Maueröffnungen überspannen, nennt man Stürze. In der Baustatik wird das Verhalten der Träger im Fachgebiet der Balkentheorie behandelt.</rdfs:comment>
+    <rdfs:comment xml:lang="ja">構造力学においてはり部材（はりぶざい、英語: beam）とは、棒状の直線部材のうち、引張や圧縮などの軸力以外の力（せん断力や曲げモーメント）も作用する部材のことであり、特に、主として曲げる力に抵抗する部材のことを指す。簡易な例では、小川などにかける板状の橋などが該当する。 ここで、部材(英語: member)とは構造物を構成する要素のことであり、特に、棒状の（ある一方向の長さが他の二方向の長さに対して十分に長い）直線部材を単に部材と呼ぶ。</rdfs:comment>
+    <rdfs:comment xml:lang="en">A beam is a structural element that is capable of withstanding load primarily by resisting against bending. The bending force induced into the material of the beam as a result of the external loads, own weight, span and external reactions to these loads is called a bending moment. Beams are characterized by their profile (shape of cross-section), their length, and their material.</rdfs:comment>
+    <rdfs:comment xml:lang="nl">Een balk is een enkelvoudig ruimteoverspannend constructie-element waarvan de lengte vele malen groter is dan de breedte en de hoogte in doorsnede. De breedte is weer gelijk of kleiner dan de hoogte. In de volksmond wordt een balk of ligger vaak een steunbalk genoemd. Balken kunnen gemaakt zijn van hout, staal, gewapend- en voorgespannen beton. Ze zijn bedoeld om de belastingen die erop worden uitgeoefend over te brengen op de opleggingen zonder daarbij noemenswaardig van vorm te veranderen. Wanneer er sprake is van een samengestelde doorsnede, dat wil zeggen dat er horizontale, verticale en schuine elementen in voorkomen, spreken we van een ligger en niet meer van een balk. Samengevat: een balk is enkelvoudig, een ligger enkelvoudig of samengesteld in zijn doorsnede zoals hoed- en petligg</rdfs:comment>
+    <rdfs:comment xml:lang="es">En ingeniería y arquitectura se denomina viga, palabra proveniente del latín biga, (viga,del latín biga &#39;carro de dos caballos&#39;), a un elemento estructural lineal que trabaja principalmente a flexión. En las vigas, la longitud predomina sobre las otras dos dimensiones y suele ser horizontal.</rdfs:comment>
+    <rdfs:comment xml:lang="it">Per trave si intende un elemento strutturale con una dimensione predominante, atto a trasferire una sollecitazione tendenzialmente trasversale al proprio asse geometrico lungo tale asse, dalle sezioni investite dal carico fino ai vincoli, che garantiscono l&#39;equilibrio esterno della trave assicurandola al contesto circostante. Un sistema meccanico composto da travi vincolate reciprocamente e al suolo è detto &quot;travatura&quot; o &quot;telaio&quot;. Tale sistema rappresenta uno dei più importanti schemi strutturali utilizzati nelle costruzioni.</rdfs:comment>
+    <rdfs:comment xml:lang="fr">Une poutre est une pièce mécanique de forme ou d&#39;enveloppe convexe parallélépipédique, conçue pour résister à la flexion. Elle est placée en général en position horizontale, où elle sert alors à supporter des charges au-dessus du vide, les poids de la construction et du mobilier, et à les transmettre sur le côté aux piliers, colonnes ou au murs sur lesquels elle s&#39;appuie. La poutrelle est une poutre de faible section (moins de 20 cm d&#39;âme).</rdfs:comment>
+    <rdfs:comment xml:lang="pt">Uma viga é um elemento estrutural sujeito a cargas transversais. A viga é geralmente usada no sistema laje-viga-pilar para transferir os esforços verticais recebidos da laje para o pilar ou para transmitir uma carga concentrada, caso sirva de apoio a um pilar. Pode ser composta de madeira, ferro ou concreto(português brasileiro) ou betão (português europeu) armado. A viga transfere o peso das lajes e dos demais elementos (paredes, portas, etc.) às colunas.</rdfs:comment>
+    <rdfs:comment xml:lang="pl">Belka – poziomy lub ukośny element konstrukcyjny przyjmujący obciążenia z powierzchni poziomych i przenoszący je na podpory (ściany, słupy, filary, kolumny). Belka pracuje na zginanie i ścinanie (w belkach, zwłaszcza w elementach ukośnych występują także naprężenia rozciągające lub ściskające). Może być wykonana z drewna, stali, betonu, żelbetu, czasem z kamienia. Belką nazywamy także element prętowy zakrzywiony w planie. Nie jest belką element przenoszący obciążenia tylko wzdłuż jej osi.</rdfs:comment>
+    <rdfs:comment xml:lang="zh">梁是一种在荷载作用下主要发生弯曲变形的水平结构构件。跨度与外力组合，称为弯矩。 梁传统上用来描述建筑或土木工程的结构元素，但在更小结构如卡车或汽车大梁，机器框架和其他机械或结构系统中所包含的梁，也可以用类似的结构力学方法来分析设计。</rdfs:comment>
+    <rdfs:comment xml:lang="ar">العتبة (في العراق) أو العارضة أو الكمرة أو الجائز هو عنصر هيكلي له بُعد سائد (الطول) ، يستخدم لنقل الثقل إلى محوره الهندسي الطولي ، بهدف الحفاظ على التوازن الخارجي . النظام المؤلف من الجائز ومن العمود (الذي يسمى &quot;إطار&quot;), هو واحد من أهم الرسوم البيانية المستخدمة في البناء الهيكلي. العتبة هي عنصر جامد المتكئ على اساسين بصورة افقية ويقاوم القوى العامودية الفاعلة عليه. هذه القوى تنبع من حمل المبنى وثقل العتبة بالإضافة لضغوط اخرى تؤدي لجهود قص وانحناء.</rdfs:comment>
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Beam_(structure)" />
+    <owl:sameAs rdf:resource="http://it.dbpedia.org/resource/Trave" />
+    <owl:sameAs rdf:resource="http://fr.dbpedia.org/resource/Poutre_(construction)" />
+    <owl:sameAs rdf:resource="http://ja.dbpedia.org/resource/はり部材" />
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.02yj3w" />
+    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/Träger_(Statik)" />
+    <owl:sameAs rdf:resource="http://yago-knowledge.org/resource/Beam_(structure)" />
+    <owl:sameAs rdf:resource="http://eu.dbpedia.org/resource/Habe" />
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q3705329" />
+    <owl:sameAs rdf:resource="http://pl.dbpedia.org/resource/Belka" />
+    <owl:sameAs rdf:resource="http://ko.dbpedia.org/resource/들보" />
+    <owl:sameAs rdf:resource="http://nl.dbpedia.org/resource/Balk_(bouwkunde)" />
+    <owl:sameAs rdf:resource="http://pt.dbpedia.org/resource/Viga" />
+    <owl:sameAs rdf:resource="http://cs.dbpedia.org/resource/Nosník" />
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q3705329" />
+    <owl:sameAs rdf:resource="http://es.dbpedia.org/resource/Viga" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Structural_system" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Solid_mechanics" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Statics" />
+    <dbo:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">630099</dbo:wikiPageID>
+    <dbo:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">743986981</dbo:wikiPageRevisionID>
+    <dbo:wikiPageExternalLink rdf:resource="http://www.arch.virginia.edu/%7Ekm6e/references/glossary/struc-glossary.html" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.awc.org/" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.excelcalcs.com/component/option,com_remository/Itemid,36/func,select/id,48/" />
+    <dbo:wikiPageExternalLink rdf:resource="http://design.medeek.com/resources/beam/beam_calculator.pl" />
+    <dbo:wikiPageExternalLink rdf:resource="http://timberframeengineeringcouncil.org/library-landing.html" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.eng.umd.edu/HAMLET/" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.beams.com" />
+    <dbo:wikiPageExternalLink rdf:resource="http://physics.uwstout.edu/statstr/Strength/Beams/beam51.htm" />
+    <dbo:wikiPageExternalLink rdf:resource="http://physics.uwstout.edu/statstr/Strength/indexfbt.htm" />
+    <dbo:wikiPageExternalLink rdf:resource="https://skyciv.com/education/types-of-supports-in-structural-analysis/" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.excelcalcs.com/" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.childs-ceng.demon.co.uk/tutorial/tutorl.html" />
+    <dbo:wikiPageExternalLink rdf:resource="http://civilengineer.webinfolist.com/mech/bmcalc.htm" />
+    <dbo:wikiPageExternalLink rdf:resource="http://physics.uwstout.edu/statstr/Strength/Beams/beam41.htm" />
+    <dbo:wikiPageExternalLink rdf:resource="http://urban.arch.virginia.edu/%7Ekm6e/arch324/content/lectures/lec-08/pres.html" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.childs-ceng.demon.co.uk/" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.childs-ceng.demon.co.uk/tutorial/tu44.html" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.awc.org/Publications/download.html" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.childs-ceng.demon.co.uk/tutorial/tu5696.html" />
+    <dbo:wikiPageExternalLink rdf:resource="http://download.cnet.com/M-A-D-Propz/3000-2054_4-76007194.html?tag=mncol;1" />
+    <dbo:wikiPageExternalLink rdf:resource="http://bendingmomentdiagram.com" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.engr.umd.edu/HAMLET/BeamAnalysis/" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.indanasteel.com/p-beams.php" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.beams.com/" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.engr.umd.edu/" />
+    <dbo:wikiPageExternalLink rdf:resource="http://skyciv.com" />
+    <dbo:wikiPageExternalLink rdf:resource="http://urban.arch.virginia.edu/%7Ekm6e/arch324/content/lectures/lec-10/review-of-09.html" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.arch.virginia.edu/~km6e/arch324/" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.arch.virginia.edu/~km6e/arch324/highlights/home.html" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.awc.org/calculators/span/calc/default.htm" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.awc.org/pdf/WSDD/TOC.pdf" />
+    <foaf:depiction rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Bending.svg" />
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Beam_(structure)" />
+    <dbo:thumbnail rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Bending.svg?width=300" />
+    <prov:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Beam_(structure)?oldid=743986981" />
+    <dbo:abstract xml:lang="ar">العتبة (في العراق) أو العارضة أو الكمرة أو الجائز هو عنصر هيكلي له بُعد سائد (الطول) ، يستخدم لنقل الثقل إلى محوره الهندسي الطولي ، بهدف الحفاظ على التوازن الخارجي . النظام المؤلف من الجائز ومن العمود (الذي يسمى &quot;إطار&quot;), هو واحد من أهم الرسوم البيانية المستخدمة في البناء الهيكلي. العتبة هي عنصر جامد المتكئ على اساسين بصورة افقية ويقاوم القوى العامودية الفاعلة عليه. هذه القوى تنبع من حمل المبنى وثقل العتبة بالإضافة لضغوط اخرى تؤدي لجهود قص وانحناء.</dbo:abstract>
+    <dbo:abstract xml:lang="nl">Een balk is een enkelvoudig ruimteoverspannend constructie-element waarvan de lengte vele malen groter is dan de breedte en de hoogte in doorsnede. De breedte is weer gelijk of kleiner dan de hoogte. In de volksmond wordt een balk of ligger vaak een steunbalk genoemd. Balken kunnen gemaakt zijn van hout, staal, gewapend- en voorgespannen beton. Ze zijn bedoeld om de belastingen die erop worden uitgeoefend over te brengen op de opleggingen zonder daarbij noemenswaardig van vorm te veranderen. Wanneer er sprake is van een samengestelde doorsnede, dat wil zeggen dat er horizontale, verticale en schuine elementen in voorkomen, spreken we van een ligger en niet meer van een balk. Samengevat: een balk is enkelvoudig, een ligger enkelvoudig of samengesteld in zijn doorsnede zoals hoed- en petliggers.</dbo:abstract>
+    <dbo:abstract xml:lang="zh">梁是一种在荷载作用下主要发生弯曲变形的水平结构构件。跨度与外力组合，称为弯矩。 梁传统上用来描述建筑或土木工程的结构元素，但在更小结构如卡车或汽车大梁，机器框架和其他机械或结构系统中所包含的梁，也可以用类似的结构力学方法来分析设计。</dbo:abstract>
+    <dbo:abstract xml:lang="es">En ingeniería y arquitectura se denomina viga, palabra proveniente del latín biga, (viga,del latín biga &#39;carro de dos caballos&#39;), a un elemento estructural lineal que trabaja principalmente a flexión. En las vigas, la longitud predomina sobre las otras dos dimensiones y suele ser horizontal. El esfuerzo de flexión provoca tensiones de tracción y compresión, produciéndose las máximas en el cordón inferior y en el cordón superior respectivamente, las cuales se calculan relacionando el momento flector y el segundo momento de inercia. En las zonas cercanas a los apoyos se producen esfuerzos cortantes o punzonamiento. También pueden producirse tensiones por torsión, sobre todo en las vigas que forman el perímetro exterior de un forjado. Estructuralmente el comportamiento de una viga se estudia mediante un modelo de prisma mecánico.</dbo:abstract>
+    <dbo:abstract xml:lang="pt">Uma viga é um elemento estrutural sujeito a cargas transversais. A viga é geralmente usada no sistema laje-viga-pilar para transferir os esforços verticais recebidos da laje para o pilar ou para transmitir uma carga concentrada, caso sirva de apoio a um pilar. Pode ser composta de madeira, ferro ou concreto(português brasileiro) ou betão (português europeu) armado. A viga transfere o peso das lajes e dos demais elementos (paredes, portas, etc.) às colunas. A parte da engenharia civil que se dedica ao estudo das tensões recebidas pela estrutura e ao seu dimensionamento é a engenharia estrutural.Cabe ressaltar, entretanto, que as vigas não são uma particularidade da engenharia civil, uma vez que na engenharia mecânica existem diversos elementos de máquinas que tem comportamento equivalente, fato este que faz com nesta engenharia sejam estudadas diversas disciplinas direcionadas exclusivamente para a área de estruturas, conteúdo abordado em Mecânica dos Sólidos e Resistência dos Materiais.</dbo:abstract>
+    <dbo:abstract xml:lang="fr">Une poutre est une pièce mécanique de forme ou d&#39;enveloppe convexe parallélépipédique, conçue pour résister à la flexion. Elle est placée en général en position horizontale, où elle sert alors à supporter des charges au-dessus du vide, les poids de la construction et du mobilier, et à les transmettre sur le côté aux piliers, colonnes ou au murs sur lesquels elle s&#39;appuie. La poutrelle est une poutre de faible section (moins de 20 cm d&#39;âme). Une poutre est à l&#39;origine un produit du sciage du bois dont la section est carrée ou sensiblement carrée. Le côté d’une poutre est supérieur à 120 millimètres. L&#39;ensemble des poutres assemblées constitue la poutraison. La poutre visible est un élément d&#39;architecture traditionnel dans les bâtisses où l&#39;apparat est important. Aussi bien en architecture classique que moderne, ses faces sont alors en général travaillées donnant un aspect soigné, voire sculpté, pour par exemple former une ornementation ou un rythme de plafond. Les poutres de structure ne sont parfois qu&#39;une partie renforcée par une armature dans un élément de construction (par exemple dans un plancher pour soutenir une cloison).</dbo:abstract>
+    <dbo:abstract xml:lang="pl">Belka – poziomy lub ukośny element konstrukcyjny przyjmujący obciążenia z powierzchni poziomych i przenoszący je na podpory (ściany, słupy, filary, kolumny). Belka pracuje na zginanie i ścinanie (w belkach, zwłaszcza w elementach ukośnych występują także naprężenia rozciągające lub ściskające). Może być wykonana z drewna, stali, betonu, żelbetu, czasem z kamienia. Belką nazywamy także element prętowy zakrzywiony w planie. Nie jest belką element przenoszący obciążenia tylko wzdłuż jej osi. Elementy pracujące w układzie statycznym belki mają w budownictwie różne nazwy, w zależności od ich położenia i funkcji w budynku. W ściślejszym znaczeniu belka oznacza element w stropach belkowych. Belkę przenoszącą obciążenia z innych belek nazywamy podciągiem. W potocznym znaczeniu belka oznacza również każdy podłużny drewniany element konstrukcyjny o znacznym przekroju - zgodnie z polskimi normami taki element musi mieć przekrój od 120 × 200 mm do 220 × 280 mm.[potrzebny przypis]</dbo:abstract>
+    <dbo:abstract xml:lang="ja">構造力学においてはり部材（はりぶざい、英語: beam）とは、棒状の直線部材のうち、引張や圧縮などの軸力以外の力（せん断力や曲げモーメント）も作用する部材のことであり、特に、主として曲げる力に抵抗する部材のことを指す。簡易な例では、小川などにかける板状の橋などが該当する。 ここで、部材(英語: member)とは構造物を構成する要素のことであり、特に、棒状の（ある一方向の長さが他の二方向の長さに対して十分に長い）直線部材を単に部材と呼ぶ。</dbo:abstract>
+    <dbo:abstract xml:lang="ru">Ба́лка — линейный элемент несущих конструкций, опирающийся на оба конца (в отличие от консоли) и работающий преимущественно на изгиб. Изготавливаются различных сечений (тавровая, двутавровая, коробчатая балка, брус и другие). На практике, как правило, горизонтально расположенная балка воспринимает вертикальную поперечную весовую нагрузку, но в отдельных случаях необходимо учитывать влияние и вероятных горизонтальных поперечных сил (например, ветровую нагрузку или при учёте возможного землетрясения). Нагруженная балка, в свою очередь, воздействует на опоры, которыми могут являться колонны, подвесы, стены или другие балки (перекладины). Затем нагрузка передаётся далее и в итоге, в большинстве случаев, воспринимается конструктивными элементами, работающими на сжатие, — опорами. Отдельно можно выделить случай ферменной конструкции, в которой стержни покоятся на горизонтальной балке. Прочностные качества балки зависят от нескольких её характеристик: 
+*  площадь и форма её поперечного сечения; 
+*  длина балки; 
+*  материал балки; 
+*  способ её закрепления. В современных сооружениях используются, как правило, стальные, железобетонные или деревянные балки. Одним из самых распространённых типов поперечного сечения стальной балки является двутавровое сечение. Двутавровые балки используют при возведении каркасов зданий и мостов. Также применяют тавровые балки, швеллеры, балки с полым профилем (в частности, трубы), балки с угловым профилем сечения. Стальная балка может быть прокатной или сварной.</dbo:abstract>
+    <dbo:abstract xml:lang="en">A beam is a structural element that is capable of withstanding load primarily by resisting against bending. The bending force induced into the material of the beam as a result of the external loads, own weight, span and external reactions to these loads is called a bending moment. Beams are characterized by their profile (shape of cross-section), their length, and their material. Beams are traditionally descriptions of building or civil engineering structural elements, but smaller structures such as truck or automobile frames, machine frames, and other mechanical or structural systems contain beam structures that are designed and analyzed in a similar fashion.</dbo:abstract>
+    <dbo:abstract xml:lang="it">Per trave si intende un elemento strutturale con una dimensione predominante, atto a trasferire una sollecitazione tendenzialmente trasversale al proprio asse geometrico lungo tale asse, dalle sezioni investite dal carico fino ai vincoli, che garantiscono l&#39;equilibrio esterno della trave assicurandola al contesto circostante. Un sistema meccanico composto da travi vincolate reciprocamente e al suolo è detto &quot;travatura&quot; o &quot;telaio&quot;. Tale sistema rappresenta uno dei più importanti schemi strutturali utilizzati nelle costruzioni.</dbo:abstract>
+    <dbo:abstract xml:lang="de">Ein Träger ist im Bauingenieurwesen ein meist horizontal verlaufender, im Verhältnis zu seiner Länge schmaler und schlanker Balken, der die aufliegenden Lasten an Wände oder senkrechte Stützen ableitet. Anders als ein Bogen wird ein Träger vorwiegend auf Biegung belastet. Aufgrund der geringen Zugfestigkeit ist Stein als Material ungeeignet. Gefordert sind Werkstoffe mit hohen Zugfestigkeiten wie Holz, Metall oder Stahlbeton. Träger, die Maueröffnungen überspannen, nennt man Stürze. In der Baustatik wird das Verhalten der Träger im Fachgebiet der Balkentheorie behandelt.</dbo:abstract>
+    <ns7:hypernym rdf:resource="http://dbpedia.org/resource/Element" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gazela_Bridge">
+    <dbo:type rdf:resource="http://dbpedia.org/resource/Beam_(structure)" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Structural_beam">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Beam_(structure)" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Beam_(structure)">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Beam_(structure)" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Carrying_beam">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Beam_(structure)" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Simple_beam">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Beam_(structure)" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Fixed-end_beam">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Beam_(structure)" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Built-in_beam">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Beam_(structure)" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Encastre_beam">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Beam_(structure)" />
+  </rdf:Description>
+</rdf:RDF>

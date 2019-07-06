@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:dct="http://purl.org/dc/terms/"
+	xmlns:dbo="http://dbpedia.org/ontology/"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:dbp="http://dbpedia.org/property/"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	xmlns:prov="http://www.w3.org/ns/prov#"
+	xmlns:georss="http://www.georss.org/georss/"
+	xmlns:ns10="http://purl.org/linguistics/gold/" >
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Awajichō_Station">
+    <dbp:connections rdf:resource="http://dbpedia.org/resource/Ogawamachi_Station_(Tokyo)" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ogawamachi_Station">
+    <dbo:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/Ogawamachi_Station_(Tokyo)" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ogawamachi_Station_(Tokyo)">
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Terminal104412901" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Whole100003553" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q719456" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PhysicalEntity100001930" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Object100002684" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/ArchitecturalStructure" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Facility103315023" />
+    <rdf:type rdf:resource="http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Infrastructure" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Artifact100021939" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoGeoEntity" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatRailwayStationsInTokyo" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Station" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Station104306080" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/RailwayStation104049098" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoPermanentlyLocatedEntity" />
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing" />
+    <rdf:type rdf:resource="http://schema.org/Place" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatStationsOfTokyoMetropolitanBureauOfTransportation" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Place" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Location" />
+    <rdfs:label xml:lang="en">Ogawamachi Station (Tokyo)</rdfs:label>
+    <rdfs:label xml:lang="ru">Огавамати (станция, Токио)</rdfs:label>
+    <rdfs:label xml:lang="ja">小川町駅 (東京都)</rdfs:label>
+    <rdfs:label xml:lang="it">Ogawamachi (metropolitana di Tokyo)</rdfs:label>
+    <rdfs:label xml:lang="zh">小川町站 (東京都)</rdfs:label>
+    <rdfs:comment xml:lang="en">Ogawamachi Station (小川町駅 Ogawamachi-eki) is a railway station in Chiyoda, Tokyo, Japan. Its station number is S-07. The station opened on March 16, 1980.</rdfs:comment>
+    <rdfs:comment xml:lang="ja">小川町駅（おがわまちえき）は、東京都千代田区神田小川町一丁目にある、東京都交通局（都営地下鉄）新宿線の駅。駅番号はS 07。1980年3月16日に開業した。</rdfs:comment>
+    <rdfs:comment xml:lang="ru">Станция Огавамати (яп. 小川町駅 огавамати эки) — железнодорожная станция, расположенная в специальном районе Тиёда, Токио. Станция обозначена номером S-07. Станция была открыта 16 марта 1980 года.</rdfs:comment>
+    <rdfs:comment xml:lang="zh">小川町站（日语：小川町駅／おがわまちえき Ogawamachi eki */?）位於東京都千代田區神田小川町的都營地下鐵新宿線之車站。車站編號為S-07。</rdfs:comment>
+    <owl:sameAs rdf:resource="http://it.dbpedia.org/resource/Ogawamachi_(metropolitana_di_Tokyo)" />
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.0b75bpz" />
+    <owl:sameAs rdf:resource="http://ja.dbpedia.org/resource/小川町駅_(東京都)" />
+    <owl:sameAs rdf:resource="http://ko.dbpedia.org/resource/오가와마치_역_(도쿄_도)" />
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Ogawamachi_Station_(Tokyo)" />
+    <owl:sameAs rdf:resource="http://yago-knowledge.org/resource/Ogawamachi_Station_(Tokyo)" />
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q1074315" />
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q1074315" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Kanda,_Tokyo" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Railway_stations_opened_in_1980" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Railway_stations_in_Tokyo" />
+    <dbo:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">26305244</dbo:wikiPageID>
+    <dbo:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">696550074</dbo:wikiPageRevisionID>
+    <dbo:wikiPageExternalLink rdf:resource="http://www.kotsu.metro.tokyo.jp/subway/stations/ogawamachi/s07.html" />
+    <foaf:name xml:lang="en">Ogawamachi Station</foaf:name>
+    <dbp:name rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Toei Shinjuku Line</dbp:name>
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#float">35.695</geo:lat>
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#float">139.767</geo:long>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Ogawamachi_Station_(Tokyo)" />
+    <geo:geometry rdf:datatype="http://www.openlinksw.com/schemas/virtrdf#Geometry">POINT(139.76666259766 35.695049285889)</geo:geometry>
+    <prov:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Ogawamachi_Station_(Tokyo)?oldid=696550074" />
+    <dbo:abstract xml:lang="en">Ogawamachi Station (小川町駅 Ogawamachi-eki) is a railway station in Chiyoda, Tokyo, Japan. Its station number is S-07. The station opened on March 16, 1980.</dbo:abstract>
+    <dbo:abstract xml:lang="ru">Станция Огавамати (яп. 小川町駅 огавамати эки) — железнодорожная станция, расположенная в специальном районе Тиёда, Токио. Станция обозначена номером S-07. Станция была открыта 16 марта 1980 года.</dbo:abstract>
+    <dbo:abstract xml:lang="zh">小川町站（日语：小川町駅／おがわまちえき Ogawamachi eki */?）位於東京都千代田區神田小川町的都營地下鐵新宿線之車站。車站編號為S-07。</dbo:abstract>
+    <dbo:abstract xml:lang="ja">小川町駅（おがわまちえき）は、東京都千代田区神田小川町一丁目にある、東京都交通局（都営地下鉄）新宿線の駅。駅番号はS 07。1980年3月16日に開業した。</dbo:abstract>
+    <dbo:address xml:lang="en">1-6 Kanda-Ogawamachi,Chiyoda,Tokyo</dbo:address>
+    <dbo:agencyStationCode>S-07</dbo:agencyStationCode>
+    <dbo:openingYear rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1980</dbo:openingYear>
+    <dbo:passengersPerYear rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">66547</dbo:passengersPerYear>
+    <dbo:servingRailwayLine rdf:resource="http://dbpedia.org/resource/Toei_Shinjuku_Line" />
+    <georss:point>35.69505 139.76667</georss:point>
+    <dbp:col rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">yellowgreen</dbp:col>
+    <dbp:col rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">#6cbb5a</dbp:col>
+    <dbp:country rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Japan</dbp:country>
+    <dbp:dir rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">for ,</dbp:dir>
+    <dbp:dir rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">for , ,</dbp:dir>
+    <dbp:first rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</dbp:first>
+    <dbp:first rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</dbp:first>
+    <dbp:nativeName rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">小川町駅</dbp:nativeName>
+    <dbp:nativeNameLang rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">ja</dbp:nativeNameLang>
+    <dbp:operator rdf:resource="http://dbpedia.org/resource/Tokyo_Metropolitan_Bureau_of_Transportation" />
+    <dbp:service rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Local</dbp:service>
+    <dbp:nidx rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Toei Shinjuku Line</dbp:nidx>
+    <dbp:pfn rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</dbp:pfn>
+    <dbp:pfn rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</dbp:pfn>
+    <dbp:route rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Toei Shinjuku Line</dbp:route>
+    <ns10:hypernym rdf:resource="http://dbpedia.org/resource/Station" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Ogawamachi_Station_(Tokyo)">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Ogawamachi_Station_(Tokyo)" />
+  </rdf:Description>
+</rdf:RDF>

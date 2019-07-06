@@ -1,0 +1,93 @@
+{
+    "entities": [
+        {
+            "mentions": [
+                {
+                    "text": {
+                        "beginOffset": 24,
+                        "content": "ノ件\t S0001/Mo007/0031\t 1873-02-23\t 件\t 公開\t 本郷\t 文部"
+                    },
+                    "type": "PROPER"
+                },
+                {
+                    "text": {
+                        "beginOffset": 89,
+                        "content": "省之部"
+                    },
+                    "type": "COMMON"
+                }
+            ],
+            "metadata": {},
+            "name": "ノ件 S0001/Mo007/0031 1873-02-23 件 公開 本郷 文部",
+            "salience": 0.23422402,
+            "type": "ORGANIZATION"
+        },
+        {
+            "mentions": [
+                {
+                    "text": {
+                        "beginOffset": 3,
+                        "content": "人"
+                    },
+                    "type": "COMMON"
+                }
+            ],
+            "metadata": {},
+            "name": "人",
+            "salience": 0.21948819,
+            "type": "PERSON"
+        },
+        {
+            "mentions": [
+                {
+                    "text": {
+                        "beginOffset": 0,
+                        "content": "米"
+                    },
+                    "type": "PROPER"
+                }
+            ],
+            "metadata": {
+                "mid": "/m/09c7w0",
+                "wikipedia_url": "https://en.wikipedia.org/wiki/United_States"
+            },
+            "name": "米",
+            "salience": 0.1998647,
+            "type": "LOCATION"
+        },
+        {
+            "mentions": [
+                {
+                    "text": {
+                        "beginOffset": 6,
+                        "content": "ワシントン"
+                    },
+                    "type": "PROPER"
+                }
+            ],
+            "metadata": {
+                "mid": "/m/0rh6k",
+                "wikipedia_url": "https://en.wikipedia.org/wiki/Washington,_D.C."
+            },
+            "name": "ワシントン",
+            "salience": 0.1998647,
+            "type": "PERSON"
+        },
+        {
+            "mentions": [
+                {
+                    "text": {
+                        "beginOffset": 100,
+                        "content": "外国人"
+                    },
+                    "type": "COMMON"
+                }
+            ],
+            "metadata": {},
+            "name": "外国人",
+            "salience": 0.14655837,
+            "type": "PERSON"
+        }
+    ],
+    "language": "ja"
+}

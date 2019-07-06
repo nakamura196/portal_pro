@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:dbpedia-owl="http://dbpedia.org/ontology/"
+	xmlns:dcterms="http://purl.org/dc/terms/"
+	xmlns:prop-fr="http://fr.dbpedia.org/property/"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	xmlns:georss="http://www.georss.org/georss/"
+	xmlns:ns9="http://www.w3.org/ns/prov#" >
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Liste_des_gares_de_la_Loire-Atlantique">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Gare_de_Penhoët" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Liste_des_lignes_de_bus_de_Saint-Nazaire">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Gare_de_Penhoët" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Saint-Nazaire">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Gare_de_Penhoët" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Gare_de_La_Croix-de-Méan">
+    <prop-fr:garePrécédente rdf:resource="http://fr.dbpedia.org/resource/Gare_de_Penhoët" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Gare_de_Penhoët" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Gare_de_Penhoët">
+    <rdf:type rdf:resource="http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing" />
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Station" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Infrastructure" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Location" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Place" />
+    <rdf:type rdf:resource="http://schema.org/Place" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/RailwayStation" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/ArchitecturalStructure" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q55488" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q719456" />
+    <owl:sameAs rdf:resource="http://fr.dbpedia.org/resource/Gare_de_Penhoët" />
+    <owl:sameAs rdf:resource="http://hu.dbpedia.org/resource/Gare_de_Penhoët" />
+    <owl:sameAs rdf:resource="http://nl.dbpedia.org/resource/Station_Penhoët" />
+    <owl:sameAs rdf:resource="http://pl.dbpedia.org/resource/Gare_de_Penhoët" />
+    <owl:sameAs rdf:resource="http://fr.dbpedia.org/resource/Gare_de_Penho%C3%ABt" />
+    <dbpedia-owl:numberOfTracks rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">2</dbpedia-owl:numberOfTracks>
+    <dbpedia-owl:operator rdf:resource="http://fr.dbpedia.org/resource/Société_nationale_des_chemins_de_fer_français" />
+    <dbpedia-owl:servingRailwayLine rdf:resource="http://fr.dbpedia.org/resource/Gare_de_Penhoët__1" />
+    <dbpedia-owl:servingRailwayLine rdf:resource="http://fr.dbpedia.org/resource/Ligne_de_Tours_à_Saint-Nazaire" />
+    <dcterms:subject rdf:resource="http://fr.dbpedia.org/resource/Catégorie:Gare_de_la_Loire-Atlantique" />
+    <dcterms:subject rdf:resource="http://fr.dbpedia.org/resource/Catégorie:Gare_de_Saint-Nazaire" />
+    <dcterms:subject rdf:resource="http://fr.dbpedia.org/resource/Catégorie:Ligne_de_Tours_à_Saint-Nazaire" />
+    <dcterms:subject rdf:resource="http://fr.dbpedia.org/resource/Catégorie:TER_Pays_de_la_Loire" />
+    <prop-fr:wikiPageUsesTemplate rdf:resource="http://fr.dbpedia.org/resource/Modèle:Gares_TER_SNCF" />
+    <prop-fr:wikiPageUsesTemplate rdf:resource="http://fr.dbpedia.org/resource/Modèle:Desserte_gare" />
+    <prop-fr:wikiPageUsesTemplate rdf:resource="http://fr.dbpedia.org/resource/Modèle:Portail" />
+    <prop-fr:wikiPageUsesTemplate rdf:resource="http://fr.dbpedia.org/resource/Modèle:..." />
+    <prop-fr:wikiPageUsesTemplate rdf:resource="http://fr.dbpedia.org/resource/Modèle:Autres_projets" />
+    <prop-fr:wikiPageUsesTemplate rdf:resource="http://fr.dbpedia.org/resource/Modèle:Unité" />
+    <prop-fr:wikiPageUsesTemplate rdf:resource="http://fr.dbpedia.org/resource/Modèle:Desserte_gare/début" />
+    <prop-fr:wikiPageUsesTemplate rdf:resource="http://fr.dbpedia.org/resource/Modèle:Desserte_gare/fin" />
+    <prop-fr:wikiPageUsesTemplate rdf:resource="http://fr.dbpedia.org/resource/Modèle:Références" />
+    <prop-fr:wikiPageUsesTemplate rdf:resource="http://fr.dbpedia.org/resource/Modèle:Infobox_Gare" />
+    <rdfs:label xml:lang="fr">Gare de Penhoët</rdfs:label>
+    <prop-fr:activité xml:lang="fr">TER</prop-fr:activité>
+    <prop-fr:adresse xml:lang="fr">rue René Cassin</prop-fr:adresse>
+    <prop-fr:adresse rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">44600</prop-fr:adresse>
+    <prop-fr:altitude rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</prop-fr:altitude>
+    <prop-fr:commons xml:lang="fr">Category:Gare de Penhoët</prop-fr:commons>
+    <prop-fr:commonsTitre xml:lang="fr">Images de la gare de Penhoët</prop-fr:commonsTitre>
+    <prop-fr:exploitant rdf:resource="http://fr.dbpedia.org/resource/Société_nationale_des_chemins_de_fer_français" />
+    <prop-fr:géolocalisation xml:lang="fr">Saint-Nazaire/Loire-Atlantique/Pays de la Loire/France</prop-fr:géolocalisation>
+    <prop-fr:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">47.2899</prop-fr:latitude>
+    <prop-fr:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-2.20103</prop-fr:longitude>
+    <prop-fr:légende xml:lang="fr">ZGC arrivant en gare.</prop-fr:légende>
+    <prop-fr:nom xml:lang="fr">Penhoët</prop-fr:nom>
+    <prop-fr:pays rdf:resource="http://fr.dbpedia.org/resource/France" />
+    <prop-fr:propriétaire rdf:resource="http://fr.dbpedia.org/resource/Réseau_ferré_de_France" />
+    <prop-fr:propriétaire rdf:resource="http://fr.dbpedia.org/resource/Société_nationale_des_chemins_de_fer_français" />
+    <prop-fr:quartier xml:lang="fr">Méan-Penhoët</prop-fr:quartier>
+    <prop-fr:ville rdf:resource="http://fr.dbpedia.org/resource/Saint-Nazaire" />
+    <prop-fr:détail xml:lang="fr">Pays de la Loire</prop-fr:détail>
+    <prop-fr:lignes rdf:resource="http://fr.dbpedia.org/resource/Ligne_de_Tours_à_Saint-Nazaire" />
+    <dbpedia-owl:thumbnail rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/ZGC_arrivant_en_gare_de_Penhoët_par_Cramos.JPG?width=300" />
+    <foaf:depiction rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/ZGC_arrivant_en_gare_de_Penhoët_par_Cramos.JPG" />
+    <rdfs:comment xml:lang="fr">La gare de Penhoët est une gare ferroviaire française de la ligne de Tours à Saint-Nazaire, située dans le quartier Méan-Penhoët près des chantiers de l&#39;Atlantique à Saint-Nazaire, dans le département de la Loire-Atlantique, en région Pays de la Loire. C&#39;est un point d&#39;arrêt sans personnel de la Société nationale des chemins de fer français (SNCF) desservie par des trains express régionaux TER Pays de la Loire.</rdfs:comment>
+    <dbpedia-owl:city rdf:resource="http://fr.dbpedia.org/resource/Saint-Nazaire" />
+    <dbpedia-owl:country rdf:resource="http://fr.dbpedia.org/resource/France" />
+    <dbpedia-owl:owner rdf:resource="http://fr.dbpedia.org/resource/Réseau_ferré_de_France" />
+    <dbpedia-owl:owner rdf:resource="http://fr.dbpedia.org/resource/Société_nationale_des_chemins_de_fer_français" />
+    <foaf:name xml:lang="fr">Penhoët</foaf:name>
+    <dbpedia-owl:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">107076648</dbpedia-owl:wikiPageRevisionID>
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-2.20103</geo:long>
+    <georss:point rdf:datatype="http://www.w3.org/2001/XMLSchema#string">47.289903 -2.201028</georss:point>
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#float">47.2899</geo:lat>
+    <prop-fr:voies rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</prop-fr:voies>
+    <prop-fr:directionPrécédente rdf:resource="http://fr.dbpedia.org/resource/Gare_du_Croisic" />
+    <prop-fr:directionPrécédente xml:lang="fr">ou Saint-Nazaire</prop-fr:directionPrécédente>
+    <prop-fr:directionPrécédente rdf:resource="http://fr.dbpedia.org/resource/Gare_de_Saint-Nazaire" />
+    <prop-fr:directionSuivante rdf:resource="http://fr.dbpedia.org/resource/Gare_de_Redon" />
+    <prop-fr:directionSuivante rdf:resource="http://fr.dbpedia.org/resource/Gare_de_Nantes" />
+    <prop-fr:garePrécédente rdf:resource="http://fr.dbpedia.org/resource/Gare_de_Saint-Nazaire" />
+    <prop-fr:gareSuivante rdf:resource="http://fr.dbpedia.org/resource/Gare_de_La_Croix-de-Méan" />
+    <prop-fr:quais rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</prop-fr:quais>
+    <prop-fr:titreServices xml:lang="fr">Service</prop-fr:titreServices>
+    <dbpedia-owl:abstract xml:lang="fr">La gare de Penhoët est une gare ferroviaire française de la ligne de Tours à Saint-Nazaire, située dans le quartier Méan-Penhoët près des chantiers de l&#39;Atlantique à Saint-Nazaire, dans le département de la Loire-Atlantique, en région Pays de la Loire. C&#39;est un point d&#39;arrêt sans personnel de la Société nationale des chemins de fer français (SNCF) desservie par des trains express régionaux TER Pays de la Loire.</dbpedia-owl:abstract>
+    <ns9:wasDerivedFrom rdf:resource="http://fr.wikipedia.org/wiki/Gare_de_Penhoët?oldid=107076648" />
+    <dbpedia-owl:wikiPageOutDegree rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">48</dbpedia-owl:wikiPageOutDegree>
+    <dbpedia-owl:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3576887</dbpedia-owl:wikiPageID>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Fichier:ZGC_repartant_de_la_gare_de_Penhoët_par_Cramos.JPG" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Fichier:Abris_de_quai_de_la_gare_de_Penhoët_par_Cramos.JPG" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Catégorie:Gare_de_Saint-Nazaire" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Liste_des_gares_des_Pays_de_la_Loire" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Point_kilométrique" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Réseau_ferré_de_France" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Gare_de_La_Croix-de-Méan" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Ligne_de_Tours_à_Saint-Nazaire" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Liste_des_gares_de_France" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/École_de_design_Nantes_Atlantique" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Z_27500" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Penhoët" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Pays_de_la_Loire" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Société_nationale_des_chemins_de_fer_français" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/France" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/TER_Pays_de_la_Loire" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Chantiers_de_l&#39;Atlantique" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Département_français" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Gare_de_Nantes" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Liste_des_gares_de_la_Loire-Atlantique" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Gare_de_Saint-Nazaire" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Gare_ferroviaire" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Méan_(Loire-Atlantique)" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Catégorie:Ligne_de_Tours_à_Saint-Nazaire" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Gares_&amp;_Connexions" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Catégorie:TER_Pays_de_la_Loire" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Gare_de_Savenay" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Gare_de_Redon" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Loire-Atlantique" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Saint-Nazaire" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Catégorie:Gare_de_la_Loire-Atlantique" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Gare_du_Croisic" />
+    <dbpedia-owl:wikiPageLength rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">6949</dbpedia-owl:wikiPageLength>
+    <dbpedia-owl:isRouteStop rdf:resource="http://fr.dbpedia.org/resource/Gare_de_Penhoët__2" />
+    <foaf:isPrimaryTopicOf rdf:resource="http://fr.wikipedia.org/wiki/Gare_de_Penhoët" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Gare_de_Saint-Nazaire">
+    <prop-fr:gareSuivante rdf:resource="http://fr.dbpedia.org/resource/Gare_de_Penhoët" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Gare_de_Penhoët" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Liste_de_gares_en_France">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Gare_de_Penhoët" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Liste_des_gares_des_Pays_de_la_Loire">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Gare_de_Penhoët" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Schéma_de_la_ligne_de_Tours_à_Saint-Nazaire">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Gare_de_Penhoët" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.wikipedia.org/wiki/Gare_de_Penhoët">
+    <foaf:primaryTopic rdf:resource="http://fr.dbpedia.org/resource/Gare_de_Penhoët" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Gare_de_La_Croix-de-Méan__2">
+    <dbpedia-owl:routePrevious rdf:resource="http://fr.dbpedia.org/resource/Gare_de_Penhoët" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Gare_de_Saint-Nazaire__4">
+    <dbpedia-owl:routeNext rdf:resource="http://fr.dbpedia.org/resource/Gare_de_Penhoët" />
+  </rdf:Description>
+</rdf:RDF>

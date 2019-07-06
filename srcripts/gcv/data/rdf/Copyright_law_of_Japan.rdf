@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:dct="http://purl.org/dc/terms/"
+	xmlns:dbo="http://dbpedia.org/ontology/"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:prov="http://www.w3.org/ns/prov#" >
+  <rdf:Description rdf:about="http://dbpedia.org/resource/File_sharing_in_Japan">
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Copyright_law_of_Japan" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Copy_protection_in_Japan">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Copyright_law_of_Japan" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Japan&#39;s_copyright_law">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Copyright_law_of_Japan" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Japan_copyright_law">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Copyright_law_of_Japan" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Copyright_law_of_Japan">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing" />
+    <rdfs:label xml:lang="ja">著作権法</rdfs:label>
+    <rdfs:label xml:lang="ru">Авторское право в Японии</rdfs:label>
+    <rdfs:label xml:lang="en">Copyright law of Japan</rdfs:label>
+    <rdfs:label xml:lang="zh">著作权法 (日本)</rdfs:label>
+    <rdfs:comment xml:lang="ru">Японское авторское право состоят из двух частей: «авторские права» и «смежные права». Информация о Японском законе об авторском праве выложена на сайтах интеллектуальной собственности Верховного Суда, « Японский проект закона», Европейское Патентное ведомство, и информационный центр (КРОК).</rdfs:comment>
+    <rdfs:comment xml:lang="en">Japanese copyright laws (著作権法 Chosakukenhō) consist of two parts: &quot;Author&#39;s Rights&quot; and &quot;Neighbouring Rights.&quot; As such, &quot;copyright&quot; is a convenient collective term rather than a single concept in Japan. Japan was a party to the original Berne convention in 1899, so its copyright law is in sync with most international regulations.</rdfs:comment>
+    <rdfs:comment xml:lang="zh">著作权法是对日本的著作权立法的总称。日本著作权法主要由两部分组成：著作人权利和邻接权。基本上来说，日本的著作权立法和其他国家的著作权立法很相似，但是也存在细微的差别。</rdfs:comment>
+    <rdfs:comment xml:lang="ja">著作権法（ちょさくけんほう、昭和45年5月6日法律第48号）は、知的財産権の一つである著作権の範囲と内容について定める日本の法律である。</rdfs:comment>
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Right_to_Make_Transmittable" />
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q5169258" />
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.015rw7" />
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q5169258" />
+    <owl:sameAs rdf:resource="http://ja.dbpedia.org/resource/著作権法" />
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Copyright_law_of_Japan" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Copyright_law_by_country" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Japanese_law" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Japanese_copyright_law" />
+    <dbo:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">18935247</dbo:wikiPageID>
+    <dbo:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">739886539</dbo:wikiPageRevisionID>
+    <dbo:wikiPageExternalLink rdf:resource="http://www.ip.courts.go.jp/search/jiep0010?" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.cric.or.jp/english/index.html" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.japaneselawtranslation.go.jp/?re=02" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.epo.org/searching/asian/japan.html" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.tomeika.jur.kyushu-u.ac.jp/ip/index.html" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.ip.courts.go.jp/eng/index.html" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.ip.courts.go.jp/eng/documents/statistics.html" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.ip.courts.go.jp/eng/aboutus/jurisdiction.html" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.ip.courts.go.jp/eng/documents/index.html" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.iip.or.jp/e/" />
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Copyright_law_of_Japan" />
+    <prov:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Copyright_law_of_Japan?oldid=739886539" />
+    <dbo:abstract xml:lang="zh">著作权法是对日本的著作权立法的总称。日本著作权法主要由两部分组成：著作人权利和邻接权。基本上来说，日本的著作权立法和其他国家的著作权立法很相似，但是也存在细微的差别。</dbo:abstract>
+    <dbo:abstract xml:lang="en">Japanese copyright laws (著作権法 Chosakukenhō) consist of two parts: &quot;Author&#39;s Rights&quot; and &quot;Neighbouring Rights.&quot; As such, &quot;copyright&quot; is a convenient collective term rather than a single concept in Japan. Japan was a party to the original Berne convention in 1899, so its copyright law is in sync with most international regulations.</dbo:abstract>
+    <dbo:abstract xml:lang="ja">著作権法（ちょさくけんほう、昭和45年5月6日法律第48号）は、知的財産権の一つである著作権の範囲と内容について定める日本の法律である。</dbo:abstract>
+    <dbo:abstract xml:lang="ru">Японское авторское право состоят из двух частей: «авторские права» и «смежные права». Информация о Японском законе об авторском праве выложена на сайтах интеллектуальной собственности Верховного Суда, « Японский проект закона», Европейское Патентное ведомство, и информационный центр (КРОК).</dbo:abstract>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Copyright_in_Japan">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Copyright_law_of_Japan" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Copyright_law_in_Japan">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Copyright_law_of_Japan" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Japanese_copyright_law">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Copyright_law_of_Japan" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Copyright_law_of_Japan">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Copyright_law_of_Japan" />
+  </rdf:Description>
+</rdf:RDF>

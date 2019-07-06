@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:dct="http://purl.org/dc/terms/"
+	xmlns:dbo="http://dbpedia.org/ontology/"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:prov="http://www.w3.org/ns/prov#"
+	xmlns:ns7="http://purl.org/linguistics/gold/" >
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Japan_Institute_of_Labour">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Japan_Institute_for_Labour_Policy_and_Training" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Japan_Institute_for_Labour_Policy_and_Training">
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Settlement" />
+    <rdfs:label xml:lang="ja">労働政策研究・研修機構</rdfs:label>
+    <rdfs:label xml:lang="en">Japan Institute for Labour Policy and Training</rdfs:label>
+    <rdfs:comment xml:lang="en">The Japan Institute for Labour Policy and Training is an Independent Administrative Institution under the supervision of the Ministry of Health, Labour and Welfare of Japan. The institute is concerned with working conditions and safety for members of the Japanese work force.</rdfs:comment>
+    <rdfs:comment xml:lang="ja">独立行政法人労働政策研究・研修機構（ろうどうせいさくけんきゅう・けんしゅうきこう、英称：The Japan Institute for Labour Policy and Training）は、厚生労働省が所管する独立行政法人である。労働に関する総合的な調査研究、研修事業等をおこなう。略称はJILPT。</rdfs:comment>
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q6156651" />
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Japan_Institute_for_Labour_Policy_and_Training" />
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q6156651" />
+    <owl:sameAs rdf:resource="http://ja.dbpedia.org/resource/労働政策研究・研修機構" />
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.01vbjl" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Standards_organizations" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Independent_Administrative_Institutions_of_Japan" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Occupational_safety_and_health_organizations" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Safety_organizations" />
+    <dbo:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">319623</dbo:wikiPageID>
+    <dbo:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">744107471</dbo:wikiPageRevisionID>
+    <dbo:wikiPageExternalLink rdf:resource="http://www.jil.go.jp/english/index.html" />
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Japan_Institute_for_Labour_Policy_and_Training" />
+    <prov:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Japan_Institute_for_Labour_Policy_and_Training?oldid=744107471" />
+    <dbo:abstract xml:lang="ja">独立行政法人労働政策研究・研修機構（ろうどうせいさくけんきゅう・けんしゅうきこう、英称：The Japan Institute for Labour Policy and Training）は、厚生労働省が所管する独立行政法人である。労働に関する総合的な調査研究、研修事業等をおこなう。略称はJILPT。</dbo:abstract>
+    <dbo:abstract xml:lang="en">The Japan Institute for Labour Policy and Training is an Independent Administrative Institution under the supervision of the Ministry of Health, Labour and Welfare of Japan. The institute is concerned with working conditions and safety for members of the Japanese work force.</dbo:abstract>
+    <ns7:hypernym rdf:resource="http://dbpedia.org/resource/Sector" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Japan_Institute_of_Labour">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Japan_Institute_for_Labour_Policy_and_Training" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Japan_Institute_for_Labour_Policy_and_Training">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Japan_Institute_for_Labour_Policy_and_Training" />
+  </rdf:Description>
+</rdf:RDF>

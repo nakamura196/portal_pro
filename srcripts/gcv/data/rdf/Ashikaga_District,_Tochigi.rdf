@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:dct="http://purl.org/dc/terms/"
+	xmlns:dbo="http://dbpedia.org/ontology/"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:prov="http://www.w3.org/ns/prov#"
+	xmlns:ns7="http://purl.org/linguistics/gold/" >
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ashikaga">
+    <dbo:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/Ashikaga_District,_Tochigi" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ashikaga_District,_Tochigi">
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Settlement" />
+    <rdfs:label xml:lang="ja">足利郡</rdfs:label>
+    <rdfs:label xml:lang="en">Ashikaga District, Tochigi</rdfs:label>
+    <rdfs:comment xml:lang="ja">足利郡（あしかがぐん）は、栃木県（下野国）にあった郡。</rdfs:comment>
+    <rdfs:comment xml:lang="en">Ashikaga District (Japanese: 足利郡) was a district located in Tochigi Prefecture, Japan. It was dissolved in 1962.</rdfs:comment>
+    <owl:sameAs rdf:resource="http://ja.dbpedia.org/resource/足利郡" />
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Ashikaga_District,_Tochigi" />
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q11636831" />
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q11636831" />
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.012hpfj7" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Former_districts_of_Tochigi_Prefecture" />
+    <dbo:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">44821689</dbo:wikiPageID>
+    <dbo:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">642906237</dbo:wikiPageRevisionID>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Ashikaga_District,_Tochigi" />
+    <prov:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Ashikaga_District,_Tochigi?oldid=642906237" />
+    <dbo:abstract xml:lang="en">Ashikaga District (Japanese: 足利郡) was a district located in Tochigi Prefecture, Japan. It was dissolved in 1962.</dbo:abstract>
+    <dbo:abstract xml:lang="ja">足利郡（あしかがぐん）は、栃木県（下野国）にあった郡。</dbo:abstract>
+    <ns7:hypernym rdf:resource="http://dbpedia.org/resource/District" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Ashikaga_District,_Tochigi">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Ashikaga_District,_Tochigi" />
+  </rdf:Description>
+</rdf:RDF>

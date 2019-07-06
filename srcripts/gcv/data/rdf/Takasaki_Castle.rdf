@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:dct="http://purl.org/dc/terms/"
+	xmlns:dbo="http://dbpedia.org/ontology/"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	xmlns:prov="http://www.w3.org/ns/prov#"
+	xmlns:georss="http://www.georss.org/georss/"
+	xmlns:dbp="http://dbpedia.org/property/"
+	xmlns:ns10="http://purl.org/linguistics/gold/" >
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Takasaki_Castle">
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q23413" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Location" />
+    <rdf:type rdf:resource="http://schema.org/Place" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Place" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Building" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/ArchitecturalStructure" />
+    <rdf:type rdf:resource="http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing" />
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Castle" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q41176" />
+    <rdfs:label xml:lang="it">Castello di Takasaki</rdfs:label>
+    <rdfs:label xml:lang="fr">Château de Takasaki</rdfs:label>
+    <rdfs:label xml:lang="ja">高崎城</rdfs:label>
+    <rdfs:label xml:lang="de">Burg Takasaki</rdfs:label>
+    <rdfs:label xml:lang="en">Takasaki Castle</rdfs:label>
+    <rdfs:comment xml:lang="it">Il castello di Takasaki (高崎城 Takasaki-jō?) è un castello giapponese situato a Takasaki, nella prefettura di Gunma, Giappone.</rdfs:comment>
+    <rdfs:comment xml:lang="fr">Le château de Takasaki (高崎城, Takasaki-jō) est un château japonais situé à Takasaki au sud de la préfecture de Gunma au Japon. À la fin de l&#39;époque d&#39;Edo, le château de Tatebayashi héberge une branche du clan Matsudaira, daimyō du domaine de Takasaki, mais le château est gouverné par un grand nombre de clans différents tout au long de son histoire. Le château est aussi connu sous le nom Wada-jō (和田城).</rdfs:comment>
+    <rdfs:comment xml:lang="de">Die Burg Takasaki (jap. 高崎城, Takasaki-jō) befindet sich in der Stadt Takasaki in der Präfektur Gumma. In der Edo-Zeit residierten dort zuletzt die Matsudaira Ōkōchi mit einem Einkommen von 72.000 Koku als größere Fudai-Daimyō.</rdfs:comment>
+    <rdfs:comment xml:lang="ja">高崎城（たかさきじょう）（旧名：和田城）は日本の城。所在地は上野国群馬郡（現：群馬県高崎市高松町）　江戸時代は高崎藩の藩庁となった。</rdfs:comment>
+    <rdfs:comment xml:lang="en">Takasaki Castle (高崎城 Takasaki-jō) is a Japanese castle located in  Takasaki, southern Gunma Prefecture, Japan. At the end of the Edo period, Tatebayashi Castle was home to a branch of the Matsudaira clan, daimyō of Takasaki Domain, but the castle was ruled by a large number of different clans over its history. The castle was also known as &quot;Wada-jō&quot; (和田城).</rdfs:comment>
+    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/Burg_Takasaki" />
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q11669745" />
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Takasaki_Castle" />
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q11669745" />
+    <owl:sameAs rdf:resource="http://fr.dbpedia.org/resource/Château_de_Takasaki" />
+    <owl:sameAs rdf:resource="http://it.dbpedia.org/resource/Castello_di_Takasaki" />
+    <owl:sameAs rdf:resource="http://ja.dbpedia.org/resource/高崎城" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Castles_in_Gunma_Prefecture" />
+    <dbo:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">46784226</dbo:wikiPageID>
+    <dbo:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">672253410</dbo:wikiPageRevisionID>
+    <dbo:wikiPageExternalLink rdf:resource="http://www.japanese-castle-explorer.com/castle_profile.html?name=Takasaki" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.jcastle.info/castle/profile/119-Takasaki-Castle" />
+    <foaf:name xml:lang="en">高崎城</foaf:name>
+    <foaf:name xml:lang="en">Takasaki Castle</foaf:name>
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#float">36.3241</geo:lat>
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#float">139.004</geo:long>
+    <foaf:depiction rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Takasaki-jo_inui-yagura.jpg" />
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Takasaki_Castle" />
+    <geo:geometry rdf:datatype="http://www.openlinksw.com/schemas/virtrdf#Geometry">POINT(139.00424194336 36.324077606201)</geo:geometry>
+    <dbo:thumbnail rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Takasaki-jo_inui-yagura.jpg?width=300" />
+    <prov:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Takasaki_Castle?oldid=672253410" />
+    <dbo:abstract xml:lang="ja">高崎城（たかさきじょう）（旧名：和田城）は日本の城。所在地は上野国群馬郡（現：群馬県高崎市高松町）　江戸時代は高崎藩の藩庁となった。</dbo:abstract>
+    <dbo:abstract xml:lang="fr">Le château de Takasaki (高崎城, Takasaki-jō) est un château japonais situé à Takasaki au sud de la préfecture de Gunma au Japon. À la fin de l&#39;époque d&#39;Edo, le château de Tatebayashi héberge une branche du clan Matsudaira, daimyō du domaine de Takasaki, mais le château est gouverné par un grand nombre de clans différents tout au long de son histoire. Le château est aussi connu sous le nom Wada-jō (和田城).</dbo:abstract>
+    <dbo:abstract xml:lang="it">Il castello di Takasaki (高崎城 Takasaki-jō?) è un castello giapponese situato a Takasaki, nella prefettura di Gunma, Giappone.</dbo:abstract>
+    <dbo:abstract xml:lang="en">Takasaki Castle (高崎城 Takasaki-jō) is a Japanese castle located in  Takasaki, southern Gunma Prefecture, Japan. At the end of the Edo period, Tatebayashi Castle was home to a branch of the Matsudaira clan, daimyō of Takasaki Domain, but the castle was ruled by a large number of different clans over its history. The castle was also known as &quot;Wada-jō&quot; (和田城).</dbo:abstract>
+    <dbo:abstract xml:lang="de">Die Burg Takasaki (jap. 高崎城, Takasaki-jō) befindet sich in der Stadt Takasaki in der Präfektur Gumma. In der Edo-Zeit residierten dort zuletzt die Matsudaira Ōkōchi mit einem Einkommen von 72.000 Koku als größere Fudai-Daimyō.</dbo:abstract>
+    <dbo:builder rdf:resource="http://dbpedia.org/resource/Ii_Naomasa" />
+    <dbo:buildingEndDate>1597</dbo:buildingEndDate>
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Japan" />
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Takasaki,_Gunma" />
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Gunma_Prefecture" />
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Takasaki_Castle__location__1" />
+    <dbo:type rdf:resource="http://dbpedia.org/resource/Japanese_castle" />
+    <georss:point>36.32407777777778 139.0042388888889</georss:point>
+    <dbp:caption rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Inui-yagura of Takasaki Castle</dbp:caption>
+    <dbp:demolished rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1872</dbp:demolished>
+    <dbp:openToPublic rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">yes</dbp:openToPublic>
+    <dbp:used rdf:resource="http://dbpedia.org/resource/Edo_period" />
+    <ns10:hypernym rdf:resource="http://dbpedia.org/resource/Castle" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Takasaki_Castle">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Takasaki_Castle" />
+  </rdf:Description>
+</rdf:RDF>

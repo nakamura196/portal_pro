@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:dct="http://purl.org/dc/terms/"
+	xmlns:dbo="http://dbpedia.org/ontology/"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	xmlns:prov="http://www.w3.org/ns/prov#"
+	xmlns:georss="http://www.georss.org/georss/"
+	xmlns:dbp="http://dbpedia.org/property/"
+	xmlns:ns10="http://purl.org/linguistics/gold/" >
+  <rdf:Description rdf:about="http://dbpedia.org/resource/National_Register_of_Historic_Places_listings_in_Marion_County,_Indiana">
+    <dbp:address rdf:resource="http://dbpedia.org/resource/Fort_Benjamin_Harrison" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Fort_benjamin_harrison">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Fort_Benjamin_Harrison" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Camp_Edwin_F._Glenn">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Fort_Benjamin_Harrison" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Fort_Harrison_Terminal_Station">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Fort_Benjamin_Harrison" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Fort_Benjamin_Harrison">
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Artifact100021939" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Facility103315023" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Object100002684" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoPermanentlyLocatedEntity" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoGeoEntity" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PhysicalEntity100001930" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/HistoricPlace" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/MilitaryInstallation103763133" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatFortsInIndiana" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatMilitaryFacilitiesOnTheNationalRegisterOfHistoricPlacesInIndiana" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatClosedFacilitiesOfTheUnitedStatesArmy" />
+    <rdf:type rdf:resource="http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/MilitaryStructure" />
+    <rdf:type rdf:resource="http://schema.org/LandmarksOrHistoricalBuildings" />
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/MilitaryPost103763403" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Place" />
+    <rdf:type rdf:resource="http://umbel.org/umbel/rc/Place" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Location" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Garrison103420559" />
+    <rdf:type rdf:resource="http://schema.org/Place" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Whole100003553" />
+    <rdfs:label xml:lang="en">Fort Benjamin Harrison</rdfs:label>
+    <rdfs:comment xml:lang="en">Fort Benjamin Harrison was a U.S. Army post located in suburban Lawrence Township, Marion County, Indiana, northeast of Indianapolis. It is named for the 23rd United States President, Benjamin Harrison.</rdfs:comment>
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.0dvnwt" />
+    <owl:sameAs rdf:resource="http://yago-knowledge.org/resource/Fort_Benjamin_Harrison" />
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q5470807" />
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q5470807" />
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Fort_Benjamin_Harrison" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Closed_installations_of_the_United_States_Army" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Colonial_Revival_architecture_in_Indiana" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:National_Register_of_Historic_Places_in_Marion_County,_Indiana" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Historic_districts_in_Marion_County,_Indiana" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Historic_districts_on_the_National_Register_of_Historic_Places_in_Indiana" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Government_buildings_completed_in_1908" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Civilian_Conservation_Corps_in_Indiana" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:National_Register_of_Historic_Places_in_Indianapolis" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Forts_on_the_National_Register_of_Historic_Places_in_Indiana" />
+    <dbo:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5601769</dbo:wikiPageID>
+    <dbo:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">743484887</dbo:wikiPageRevisionID>
+    <dbo:wikiPageExternalLink rdf:resource="http://www.pathaddad.com/content/fortbenjaminharrison.html" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.fhra.org/" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.indianamilitary.org/FtHarrison/SoThinkMenu/FtHarrisonSTART.htm" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.nps.gov/nr/travel/indianapolis/ftbenjaminharrison.htm" />
+    <foaf:name xml:lang="en">Fort Benjamin Harrison Historic District</foaf:name>
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#float">39.8639</geo:lat>
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-86.0106</geo:long>
+    <foaf:depiction rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Fort_Benjamin_Harrison_FSA_8d03999.jpg" />
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Fort_Benjamin_Harrison" />
+    <geo:geometry rdf:datatype="http://www.openlinksw.com/schemas/virtrdf#Geometry">POINT(-86.010559082031 39.863887786865)</geo:geometry>
+    <dbo:thumbnail rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Fort_Benjamin_Harrison_FSA_8d03999.jpg?width=300" />
+    <prov:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Fort_Benjamin_Harrison?oldid=743484887" />
+    <dbo:abstract xml:lang="en">Fort Benjamin Harrison was a U.S. Army post located in suburban Lawrence Township, Marion County, Indiana, northeast of Indianapolis. It is named for the 23rd United States President, Benjamin Harrison.</dbo:abstract>
+    <dbo:added rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1995-09-06</dbo:added>
+    <dbo:architecturalStyle rdf:resource="http://dbpedia.org/resource/Colonial_Revival_architecture" />
+    <dbo:area rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.45687e+06</dbo:area>
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Lawrence_Township,_Marion_County,_Indiana" />
+    <dbo:nrhpReferenceNumber>93001581, 95001359 (Boundary Increase)</dbo:nrhpReferenceNumber>
+    <dbo:yearOfConstruction rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1908</dbo:yearOfConstruction>
+    <georss:point>39.86388888888889 -86.01055555555556</georss:point>
+    <dbp:builder rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Army Quartermaster Corps</dbp:builder>
+    <dbp:caption rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Graduates of the U.S. Army Chaplain School at Fort Benjamin Harrison pose for a photograph, April 1942</dbp:caption>
+    <dbp:coordDisplay rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">inline,title</dbp:coordDisplay>
+    <dbp:latDegrees rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">39</dbp:latDegrees>
+    <dbp:latDirection rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">N</dbp:latDirection>
+    <dbp:latMinutes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">51</dbp:latMinutes>
+    <dbp:latSeconds rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">50</dbp:latSeconds>
+    <dbp:locmapin rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">USA Indianapolis#Indiana#USA</dbp:locmapin>
+    <dbp:longDegrees rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">86</dbp:longDegrees>
+    <dbp:longDirection rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">W</dbp:longDirection>
+    <dbp:longMinutes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">0</dbp:longMinutes>
+    <dbp:longSeconds rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">38</dbp:longSeconds>
+    <dbp:nocat rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">yes</dbp:nocat>
+    <dbp:nrhpType rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">hd</dbp:nrhpType>
+    <dbp:wordnet_type rdf:resource="http://www.w3.org/2006/03/wn/wn20/instances/synset-location-noun-1" />
+    <ns10:hypernym rdf:resource="http://dbpedia.org/resource/Post" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Fort_Benjamin_Harrison,_Indiana">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Fort_Benjamin_Harrison" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ft._Benjamin_Harrison">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Fort_Benjamin_Harrison" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Benjamin_Harrison_AFB">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Fort_Benjamin_Harrison" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Fort_Benjamin_Harrison">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Fort_Benjamin_Harrison" />
+  </rdf:Description>
+</rdf:RDF>

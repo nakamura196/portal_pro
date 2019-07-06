@@ -1,0 +1,794 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:dbo="http://dbpedia.org/ontology/"
+	xmlns:dbp="http://dbpedia.org/property/"
+	xmlns:dct="http://purl.org/dc/terms/"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	xmlns:prov="http://www.w3.org/ns/prov#"
+	xmlns:ns9="http://dbpedia.org/ontology/PopulatedPlace/"
+	xmlns:georss="http://www.georss.org/georss/"
+	xmlns:ns11="http://purl.org/linguistics/gold/" >
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Shōzō_Iizuka">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Fukushima_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Aizumisato">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Fukushima_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Fukushima_Race_Course">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Fukushima_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Surikamigawa_Dam">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Fukushima_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Toshio_Tamogami">
+    <dbp:birthPlace rdf:resource="http://dbpedia.org/resource/Fukushima_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mami_Horikoshi">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Fukushima_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Akiyuki_Shinbo">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Fukushima_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Aizu_Line">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Fukushima_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jirōkichi_Yamada">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Fukushima_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Minamiaizu">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Fukushima_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Motofumi_Kobayashi">
+    <dbp:birthPlace rdf:resource="http://dbpedia.org/resource/Fukushima_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Aizuwakamatsu">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Fukushima_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kōriyama">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Fukushima_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mitsuru_Karahashi">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Fukushima_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ban&#39;etsu_East_Line">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Fukushima_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yūji_Koseki">
+    <dbo:hometown rdf:resource="http://dbpedia.org/resource/Fukushima_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Shinnosuke_Honda">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Fukushima_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Fukushima,_Japan">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Fukushima_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Adachi,_Fukushima">
+    <dbp:prefecture rdf:resource="http://dbpedia.org/resource/Fukushima_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Arakawa_River_(Fukushima)">
+    <dbo:state rdf:resource="http://dbpedia.org/resource/Fukushima_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ebisu_Circuit">
+    <dbp:location rdf:resource="http://dbpedia.org/resource/Fukushima_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Fukushima">
+    <dbo:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/Fukushima_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Fukushima_Airport">
+    <dbo:city rdf:resource="http://dbpedia.org/resource/Fukushima_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Fukushima_University">
+    <dbo:state rdf:resource="http://dbpedia.org/resource/Fukushima_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hirata,_Fukushima">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Fukushima_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ibō_Takahashi">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Fukushima_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ishikawa,_Fukushima">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Fukushima_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kazushi_Miyamoto">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Fukushima_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mishima,_Fukushima">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Fukushima_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nakajima,_Fukushima">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Fukushima_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Takeo_Takagi">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Fukushima_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/University_of_Aizu">
+    <dbo:state rdf:resource="http://dbpedia.org/resource/Fukushima_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Junko_Tabei">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Fukushima_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kōtarō_Yoshida_(martial_artist)">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Fukushima_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mitsuko_Mito">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Fukushima_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mount_Bandai">
+    <dbo:locatedInArea rdf:resource="http://dbpedia.org/resource/Fukushima_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Akimoto_Lake">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Fukushima_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ban&#39;etsu_West_Line">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Fukushima_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Azuma_Sakamoto">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Fukushima_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Akimoto_Lake__Reservoir__1">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Fukushima_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hidetoki_Takahashi">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Fukushima_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Shinmiyagawa_Dam">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Fukushima_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yojiro_Takahagi">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Fukushima_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Aizu_Liner">
+    <dbp:locale rdf:resource="http://dbpedia.org/resource/Fukushima_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Iwaki,_Fukushima">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Fukushima_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Asahi_Dam_(Fukushima)">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Fukushima_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Miharu_Dam">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Fukushima_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Saitō_Hajime">
+    <dbo:restingPlace rdf:resource="http://dbpedia.org/resource/Fukushima_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tadami_Dam">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Fukushima_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tadami_Line">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Fukushima_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yamakawa_Hiroshi">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Fukushima_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hitoshi_Ono">
+    <dbp:birthPlace rdf:resource="http://dbpedia.org/resource/Fukushima_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jūrokkyō_Dam">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Fukushima_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kaminojiri_Dam">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Fukushima_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Okawa_Dam">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Fukushima_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ouchi_Dam">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Fukushima_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Shingo_Dam">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Fukushima_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tagokura_Dam">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Fukushima_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yamasato_Dam">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Fukushima_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Takeda_Sōkaku">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Fukushima_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Iide_Mountains">
+    <dbp:state rdf:resource="http://dbpedia.org/resource/Fukushima_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mount_Iide">
+    <dbo:locatedInArea rdf:resource="http://dbpedia.org/resource/Fukushima_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Shōjō-ji">
+    <dbp:address rdf:resource="http://dbpedia.org/resource/Fukushima_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Seishiro_Okazaki">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Fukushima_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Shunroku_Hata">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Fukushima_Prefecture" />
+    <dbp:birthPlace rdf:resource="http://dbpedia.org/resource/Fukushima_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Goro_Yamada">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Fukushima_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Michael_Takahashi">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Fukushima_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Zenjirō_Horikiri">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Fukushima_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kiyoshi_Nakahata">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Fukushima_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Takehiro_Watanabe">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Fukushima_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Fukushima,_Fukushima">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Fukushima_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Abukuma_River">
+    <dbo:state rdf:resource="http://dbpedia.org/resource/Fukushima_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kitakata,_Fukushima">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Fukushima_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nihonmatsu,_Fukushima">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Fukushima_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sukagawa,_Fukushima">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Fukushima_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sōma,_Fukushima">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Fukushima_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Aizubange">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Fukushima_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Asakawa,_Fukushima">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Fukushima_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bandai,_Fukushima">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Fukushima_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Furudono,_Fukushima">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Fukushima_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Futaba,_Fukushima">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Fukushima_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hanawa,_Fukushima">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Fukushima_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hinoemata,_Fukushima">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Fukushima_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hirono,_Fukushima">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Fukushima_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Iitate,_Fukushima">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Fukushima_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Inawashiro,_Fukushima">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Fukushima_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Izumizaki,_Fukushima">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Fukushima_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kagamiishi,_Fukushima">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Fukushima_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kaneyama,_Fukushima">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Fukushima_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Katsurao,_Fukushima">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Fukushima_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kawamata,_Fukushima">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Fukushima_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kitashiobara,_Fukushima">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Fukushima_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Koori,_Fukushima">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Fukushima_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kunimi,_Fukushima">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Fukushima_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Miharu,_Fukushima">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Fukushima_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Namie,_Fukushima">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Fukushima_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Naraha,_Fukushima">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Fukushima_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nishiaizu,_Fukushima">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Fukushima_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nishigō,_Fukushima">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Fukushima_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Samegawa,_Fukushima">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Fukushima_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Shimogō,_Fukushima">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Fukushima_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Shinchi,_Fukushima">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Fukushima_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tadami,_Fukushima">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Fukushima_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tamakawa,_Fukushima">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Fukushima_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tamura,_Fukushima">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Fukushima_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tanagura,_Fukushima">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Fukushima_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ten&#39;ei,_Fukushima">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Fukushima_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tomioka,_Fukushima">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Fukushima_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yabuki,_Fukushima">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Fukushima_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yamatsuri,_Fukushima">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Fukushima_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yanaizu,_Fukushima">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Fukushima_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yugawa,_Fukushima">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Fukushima_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ōkuma,_Fukushima">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Fukushima_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ōtama,_Fukushima">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Fukushima_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lake_Inawashiro">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Fukushima_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Dean_Fujioka">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Fukushima_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Masahisa_Sato">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Fukushima_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Michiro_Endo">
+    <dbo:hometown rdf:resource="http://dbpedia.org/resource/Fukushima_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Motomiya,_Fukushima">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Fukushima_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Shigeyoshi_Suzuki">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Fukushima_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Toru_Muranishi">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Fukushima_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/AbukumaExpress">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Fukushima_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hitoshi_Sasaki_(footballer,_born_1891)">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Fukushima_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Miyagawa_Dam">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Fukushima_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Masaya_Matsukaze">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Fukushima_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Miki_Satō">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Fukushima_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Fukushima-ken">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Fukushima_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Fukushima_FC">
+    <dbo:ground rdf:resource="http://dbpedia.org/resource/Fukushima_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Shinji_Saito">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Fukushima_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Takarakuni_Minoru">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Fukushima_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yahei_Miura">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Fukushima_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Shōwa,_Fukushima">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Fukushima_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Aya_Mikami">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Fukushima_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Minamisōma">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Fukushima_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Komine_Castle">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Fukushima_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nakadōri">
+    <dbo:state rdf:resource="http://dbpedia.org/resource/Fukushima_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Aizu">
+    <dbo:state rdf:resource="http://dbpedia.org/resource/Fukushima_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kōriyama_City_Museum_of_Art">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Fukushima_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Shigezō_Sasaoka">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Fukushima_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Haruko_Sagara">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Fukushima_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Takahiro_Suzuki">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Fukushima_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Date,_Fukushima">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Fukushima_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ono,_Fukushima">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Fukushima_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Shirakawa,_Fukushima">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Fukushima_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Aizuwakamatsu_Castle">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Fukushima_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Fukushima_Prefecture">
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoGeoEntity" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoPermanentlyLocatedEntity" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Region108630985" />
+    <rdf:type rdf:resource="http://schema.org/Place" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Location100027167" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/AdministrativeDistrict108491826" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q3455524" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Prefecture108626947" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Object100002684" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoLegalActorGeo" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PhysicalEntity100001930" />
+    <rdf:type rdf:resource="http://umbel.org/umbel/rc/Location_Underspecified" />
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing" />
+    <rdf:type rdf:resource="http://umbel.org/umbel/rc/PopulatedPlace" />
+    <rdf:type rdf:resource="http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing" />
+    <rdf:type rdf:resource="http://schema.org/AdministrativeArea" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Location" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatPrefecturesOfJapan" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Place" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/PopulatedPlace" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/AdministrativeRegion" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Region" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/District108552138" />
+    <rdfs:label xml:lang="de">Präfektur Fukushima</rdfs:label>
+    <rdfs:label xml:lang="es">Prefectura de Fukushima</rdfs:label>
+    <rdfs:label xml:lang="ja">福島県</rdfs:label>
+    <rdfs:label xml:lang="zh">福岛县</rdfs:label>
+    <rdfs:label xml:lang="ar">فوكوشيما (محافظة)</rdfs:label>
+    <rdfs:label xml:lang="en">Fukushima Prefecture</rdfs:label>
+    <rdfs:label xml:lang="fr">Préfecture de Fukushima</rdfs:label>
+    <rdfs:label xml:lang="it">Prefettura di Fukushima</rdfs:label>
+    <rdfs:label xml:lang="pt">Fukushima</rdfs:label>
+    <rdfs:label xml:lang="nl">Fukushima (prefectuur)</rdfs:label>
+    <rdfs:label xml:lang="pl">Prefektura Fukushima</rdfs:label>
+    <rdfs:label xml:lang="ru">Фукусима (префектура)</rdfs:label>
+    <rdfs:comment xml:lang="en">Fukushima Prefecture (福島県 Fukushima-ken) is a prefecture of Japan located in the Tōhoku region on the island of Honshu. The capital is the city of Fukushima.</rdfs:comment>
+    <rdfs:comment xml:lang="pt">Fukushima ou Fucuxima (福島県, Fukushima-ken?) é uma província do Japão localizada na região de Tohoku, na ilha de Honshu. A capital é Fukushima.</rdfs:comment>
+    <rdfs:comment xml:lang="nl">De prefectuur Fukushima  (福島県,Fukushima-ken) is een Japanse prefectuur in de regio Tohoku in Honshu. Fukushima heeft een oppervlakte van 13.782,75 km² en had op 1 mei 2009 een bevolking van 2.045.516 inwoners. De bevolkingsdichtheid bedroeg 148 inw./km². De hoofdstad is Fukushima. De prefectuur werd op 11 maart 2011 ernstig getroffen door de zeebeving nabij Sendai. Er ontstond veel schade, onder andere aan de Kerncentrale Fukushima I in Okuma, waardoor er een kernramp ontstond. Meer dan 45.000 mensen werden uit de buurt geëvacueerd.</rdfs:comment>
+    <rdfs:comment xml:lang="fr">Fukushima (福島県, Fukushima-ken) est une préfecture du Japon située dans le Tōhoku. Fukushima signifie littéralement « île (島, shima) du bonheur/fortune (福, fuku) ». Sa capitale est la ville de Fukushima (福島市, fukushima-shi).</rdfs:comment>
+    <rdfs:comment xml:lang="ja">福島県（ふくしまけん）は、日本の都道府県のひとつ。東北地方の南部に位置する。県庁所在地は福島市。太平洋に面し奥羽山脈の東西にまたがって存在する。 面積は北海道、岩手県に次ぐ第3位。都道府県別の人口は第18位。人口密度は第39位である。</rdfs:comment>
+    <rdfs:comment xml:lang="zh">福島縣（日语：福島県／ふくしまけん Fukushima ken */?）是日本東北地方南部的一縣，位於北緯37度至38度之間（與中國的山東半島和美國的三藩市同緯度），南北距離133公里，東西距離166公里，總面積13,782.54平方公里，其面積在日本47個都道府縣中居第三位，僅次於北海道與岩手縣。</rdfs:comment>
+    <rdfs:comment xml:lang="it">Fukushima (福島県 Fukushima-ken?) è una prefettura giapponese di circa 2,1 milioni di abitanti, con capoluogo nell&#39;omonima città di Fukushima. Si trova nella regione di Tohoku, sull&#39;isola di Honshu.</rdfs:comment>
+    <rdfs:comment xml:lang="pl">Prefektura Fukushima (jap. 福島県 Fukushima-ken) – prefektura znajdująca się w regionie Tōhoku na wyspie Honsiu w Japonii. Jej stolicą jest miasto Fukushima.</rdfs:comment>
+    <rdfs:comment xml:lang="de">Die Präfektur Fukushima ([ɸɯˈkɯɕima], jap. 福島県, Fukushima-ken) ist eine Präfektur in Japan. Sie liegt in der Region Tōhoku auf der Insel Honshū. Sitz der Präfekturverwaltung ist die gleichnamige Stadt Fukushima.</rdfs:comment>
+    <rdfs:comment xml:lang="es">La prefectura de Fukushima (福島県, ふくしまけん; Fukushima-ken) está ubicada en la región de Tohoku en la isla Honshu, Japón. La capital es la ciudad de Fukushima.</rdfs:comment>
+    <rdfs:comment xml:lang="ar">25بك المحتوى هنا ينقصه الاستشهاد بمصادر. يرجى إيراد مصادر موثوق بها. أي معلومات غير موثقة يمكن التشكيك بها وإزالتها. (مارس 2016) محافظة فوكوشيما (باليابانية: 福島県) هي إحدى المحافظات في الـيابان عاصمتها مدينة فوكوشيما.</rdfs:comment>
+    <rdfs:comment xml:lang="ru">Фуку́сима (яп. 福島県 Фукусима-кэн) — префектура Японии, которая находится в регионе Тохоку. Площадь префектуры составляет 11 636,28 км², население — 1 038 364 человека (1 августа 2014), плотность населения — 89,24 чел./км². Административный центр — город Фукусима.</rdfs:comment>
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Historic_Sites_of_Fukushima_Prefecture" />
+    <owl:sameAs rdf:resource="http://sws.geonames.org/2112922/" />
+    <owl:sameAs rdf:resource="http://ko.dbpedia.org/resource/후쿠시마_현" />
+    <owl:sameAs rdf:resource="http://cs.dbpedia.org/resource/Prefektura_Fukušima" />
+    <owl:sameAs rdf:resource="http://it.dbpedia.org/resource/Prefettura_di_Fukushima" />
+    <owl:sameAs rdf:resource="http://fr.dbpedia.org/resource/Préfecture_de_Fukushima" />
+    <owl:sameAs rdf:resource="http://yago-knowledge.org/resource/Fukushima_Prefecture" />
+    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/Präfektur_Fukushima" />
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q71707" />
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q71707" />
+    <owl:sameAs rdf:resource="http://ja.dbpedia.org/resource/福島県" />
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Fukushima_Prefecture" />
+    <owl:sameAs rdf:resource="http://pt.dbpedia.org/resource/Fukushima" />
+    <owl:sameAs rdf:resource="http://nl.dbpedia.org/resource/Fukushima_(prefectuur)" />
+    <owl:sameAs rdf:resource="http://eu.dbpedia.org/resource/Fukushima_(prefetura)" />
+    <owl:sameAs rdf:resource="http://id.dbpedia.org/resource/Prefektur_Fukushima" />
+    <owl:sameAs rdf:resource="http://es.dbpedia.org/resource/Prefectura_de_Fukushima" />
+    <owl:sameAs rdf:resource="http://sw.cyc.com/concept/Mx4rvZcHdpwpEbGdrcN5Y29ycA" />
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.01f1ps" />
+    <owl:sameAs rdf:resource="http://pl.dbpedia.org/resource/Prefektura_Fukushima" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Fukushima_Prefecture" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Tōhoku_region" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Prefectures_of_Japan" />
+    <dbo:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">211914</dbo:wikiPageID>
+    <dbo:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">742062868</dbo:wikiPageRevisionID>
+    <dbo:wikiPageExternalLink rdf:resource="http://www.worldcat.org/oclc/58053128?referer=di&amp;ht=edition" />
+    <dbo:wikiPageExternalLink rdf:resource="https://books.google.com/books?id=p2QnPijAEmEC&amp;client=firefox-a" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.pref.fukushima.jp" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.pref.fukushima.lg.jp/site/portal-english/" />
+    <foaf:name xml:lang="en">Fukushima</foaf:name>
+    <foaf:homepage rdf:resource="http://www.pref.fukushima.lg.jp/site/portal-english/" />
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#float">37.4</geo:lat>
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#float">140.467</geo:long>
+    <foaf:depiction rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Flag_of_Fukushima_Prefecture.svg" />
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Fukushima_Prefecture" />
+    <geo:geometry rdf:datatype="http://www.openlinksw.com/schemas/virtrdf#Geometry">POINT(140.4666595459 37.400001525879)</geo:geometry>
+    <dbo:thumbnail rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Flag_of_Fukushima_Prefecture.svg?width=300" />
+    <prov:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Fukushima_Prefecture?oldid=742062868" />
+    <ns9:areaTotal rdf:datatype="http://dbpedia.org/datatype/squareKilometre">13782.76</ns9:areaTotal>
+    <ns9:populationDensity rdf:datatype="http://dbpedia.org/datatype/inhabitantsPerSquareKilometre">154.0</ns9:populationDensity>
+    <dbo:abstract xml:lang="pt">Fukushima ou Fucuxima (福島県, Fukushima-ken?) é uma província do Japão localizada na região de Tohoku, na ilha de Honshu. A capital é Fukushima.</dbo:abstract>
+    <dbo:abstract xml:lang="ru">Фуку́сима (яп. 福島県 Фукусима-кэн) — префектура Японии, которая находится в регионе Тохоку. Площадь префектуры составляет 11 636,28 км², население — 1 038 364 человека (1 августа 2014), плотность населения — 89,24 чел./км². Административный центр — город Фукусима.</dbo:abstract>
+    <dbo:abstract xml:lang="ar">25بك المحتوى هنا ينقصه الاستشهاد بمصادر. يرجى إيراد مصادر موثوق بها. أي معلومات غير موثقة يمكن التشكيك بها وإزالتها. (مارس 2016) محافظة فوكوشيما (باليابانية: 福島県) هي إحدى المحافظات في الـيابان عاصمتها مدينة فوكوشيما.</dbo:abstract>
+    <dbo:abstract xml:lang="fr">Fukushima (福島県, Fukushima-ken) est une préfecture du Japon située dans le Tōhoku. Fukushima signifie littéralement « île (島, shima) du bonheur/fortune (福, fuku) ». Sa capitale est la ville de Fukushima (福島市, fukushima-shi).</dbo:abstract>
+    <dbo:abstract xml:lang="nl">De prefectuur Fukushima  (福島県,Fukushima-ken) is een Japanse prefectuur in de regio Tohoku in Honshu. Fukushima heeft een oppervlakte van 13.782,75 km² en had op 1 mei 2009 een bevolking van 2.045.516 inwoners. De bevolkingsdichtheid bedroeg 148 inw./km². De hoofdstad is Fukushima. De prefectuur werd op 11 maart 2011 ernstig getroffen door de zeebeving nabij Sendai. Er ontstond veel schade, onder andere aan de Kerncentrale Fukushima I in Okuma, waardoor er een kernramp ontstond. Meer dan 45.000 mensen werden uit de buurt geëvacueerd.</dbo:abstract>
+    <dbo:abstract xml:lang="ja">福島県（ふくしまけん）は、日本の都道府県のひとつ。東北地方の南部に位置する。県庁所在地は福島市。太平洋に面し奥羽山脈の東西にまたがって存在する。 面積は北海道、岩手県に次ぐ第3位。都道府県別の人口は第18位。人口密度は第39位である。</dbo:abstract>
+    <dbo:abstract xml:lang="en">Fukushima Prefecture (福島県 Fukushima-ken) is a prefecture of Japan located in the Tōhoku region on the island of Honshu. The capital is the city of Fukushima.</dbo:abstract>
+    <dbo:abstract xml:lang="pl">Prefektura Fukushima (jap. 福島県 Fukushima-ken) – prefektura znajdująca się w regionie Tōhoku na wyspie Honsiu w Japonii. Jej stolicą jest miasto Fukushima.</dbo:abstract>
+    <dbo:abstract xml:lang="zh">福島縣（日语：福島県／ふくしまけん Fukushima ken */?）是日本東北地方南部的一縣，位於北緯37度至38度之間（與中國的山東半島和美國的三藩市同緯度），南北距離133公里，東西距離166公里，總面積13,782.54平方公里，其面積在日本47個都道府縣中居第三位，僅次於北海道與岩手縣。</dbo:abstract>
+    <dbo:abstract xml:lang="de">Die Präfektur Fukushima ([ɸɯˈkɯɕima], jap. 福島県, Fukushima-ken) ist eine Präfektur in Japan. Sie liegt in der Region Tōhoku auf der Insel Honshū. Sitz der Präfekturverwaltung ist die gleichnamige Stadt Fukushima.</dbo:abstract>
+    <dbo:abstract xml:lang="it">Fukushima (福島県 Fukushima-ken?) è una prefettura giapponese di circa 2,1 milioni di abitanti, con capoluogo nell&#39;omonima città di Fukushima. Si trova nella regione di Tohoku, sull&#39;isola di Honshu.</dbo:abstract>
+    <dbo:abstract xml:lang="es">La prefectura de Fukushima (福島県, ふくしまけん; Fukushima-ken) está ubicada en la región de Tohoku en la isla Honshu, Japón. La capital es la ciudad de Fukushima.</dbo:abstract>
+    <dbo:areaTotal rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.37828e+10</dbo:areaTotal>
+    <dbo:capital rdf:resource="http://dbpedia.org/resource/Fukushima,_Fukushima" />
+    <dbo:country rdf:resource="http://dbpedia.org/resource/Japan" />
+    <dbo:populationDensity rdf:datatype="http://www.w3.org/2001/XMLSchema#double">154.0</dbo:populationDensity>
+    <dbo:populationTotal rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">1928086</dbo:populationTotal>
+    <dbp:island rdf:resource="http://dbpedia.org/resource/Honshu" />
+    <dbp:municipalities rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">59</dbp:municipalities>
+    <dbp:popdate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2015-05-01</dbp:popdate>
+    <!--
+    <p: xmlns:p="http://dbpedia.org/property/rōmaji" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Fukushima-ken</p:>
+    -->
+    <georss:point>37.4 140.46666666666667</georss:point>
+    <dbp:arearank rdf:datatype="http://dbpedia.org/datatype/rod">3.0</dbp:arearank>
+    <dbp:bird rdf:resource="http://dbpedia.org/resource/Narcissus_flycatcher" />
+    <dbp:districts rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">13</dbp:districts>
+    <dbp:flag rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Flag of Fukushima Prefecture.svg</dbp:flag>
+    <dbp:flower rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Nemotoshakunage</dbp:flower>
+    <dbp:governor rdf:resource="http://dbpedia.org/resource/Masao_Uchibori" />
+    <dbp:isocode rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">JP-07</dbp:isocode>
+    <dbp:pcwater rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.9</dbp:pcwater>
+    <dbp:poprank rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">17</dbp:poprank>
+    <dbp:region rdf:resource="http://dbpedia.org/resource/Tōhoku_region" />
+    <dbp:tree rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Japanese zelkova</dbp:tree>
+    <dbp:japanesename rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">福島県</dbp:japanesename>
+    <ns11:hypernym rdf:resource="http://dbpedia.org/resource/Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kawauchi,_Fukushima">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Fukushima_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hatori_Dam">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Fukushima_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Katsuyuki_Saito">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Fukushima_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Takayoshi_Ono">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Fukushima_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Toshiki_Satō">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Fukushima_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Fukushima_prefecture">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Fukushima_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hotaru_Hazuki">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Fukushima_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Keikō_Sakai">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Fukushima_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hobara,_Fukushima">
+    <dbp:prefecture rdf:resource="http://dbpedia.org/resource/Fukushima_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Fukushima_Firebonds">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Fukushima_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Moe_Miura">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Fukushima_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yumi_Karahashi">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Fukushima_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yurie_Kobori">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Fukushima_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mio_Yūki">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Fukushima_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gishū_Nakayama">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Fukushima_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kinpei_Azusa">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Fukushima_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Run_Sasaki">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Fukushima_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ken_Yamaguchi">
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Fukushima_Prefecture" />
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Fukushima_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nobushige_Kumakubo">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Fukushima_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tensai_Okamura">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Fukushima_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tamanoshima_Arata">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Fukushima_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yaichi_Numata">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Fukushima_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Junko_Hoshino">
+    <dbo:residence rdf:resource="http://dbpedia.org/resource/Fukushima_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Junya_Watanabe">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Fukushima_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Madoka_Kimura">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Fukushima_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nihonmatsu_Castle">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Fukushima_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hukusima_prefecture">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Fukushima_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sanae_Miyuki">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Fukushima_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mount_Adatara">
+    <dbo:locatedInArea rdf:resource="http://dbpedia.org/resource/Fukushima_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mount_Azuma-kofuji">
+    <dbo:locatedInArea rdf:resource="http://dbpedia.org/resource/Fukushima_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Fukushima_Transportation">
+    <dbo:headquarter rdf:resource="http://dbpedia.org/resource/Fukushima_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yuka_Saitō_(voice_actress)">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Fukushima_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Echigo_Sanzan-Tadami_Quasi-National_Park">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Fukushima_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Metanarthecium">
+    <dbp:imageCaption rdf:resource="http://dbpedia.org/resource/Fukushima_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Wataru_Hokoyama">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Fukushima_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Abukuma-do">
+    <dbo:nearestCity rdf:resource="http://dbpedia.org/resource/Fukushima_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Chieko_Takamura">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Fukushima_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hiroshi_Takahashi_(artist)">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Fukushima_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kwon_Ri-se">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Fukushima_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ryūichi_Hiroki">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Fukushima_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Daizen_Shishido">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Fukushima_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kouji_Shishido">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Fukushima_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Noboru_Kousaka">
+    <dbo:region rdf:resource="http://dbpedia.org/resource/Fukushima_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jōban_Line">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Fukushima_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Suigun_Line">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Fukushima_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sakari_Momoi">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Fukushima_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Atsuko_Sakuraba">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Fukushima_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hayashi_Gonsuke_(diplomat)">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Fukushima_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mount_Shinobu">
+    <dbo:locatedInArea rdf:resource="http://dbpedia.org/resource/Fukushima_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Fukushima_Museum">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Fukushima_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Fukushima_city_concert_hall">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Fukushima_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Iwaki_City_Archaeological_Museum">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Fukushima_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Matsukawaura_Prefectural_Natural_Park">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Fukushima_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Morohashi_Museum_of_Modern_Art">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Fukushima_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hamadōri">
+    <dbo:state rdf:resource="http://dbpedia.org/resource/Fukushima_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Midori_Takahashi">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Fukushima_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kazuka_Minami">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Fukushima_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Naoki_Matsushita">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Fukushima_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Shinzo_Shinjo">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Fukushima_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Shuji_Kusano">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Fukushima_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Takuya_Sugiyama">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Fukushima_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Toshio_Yanagida_(baseball)">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Fukushima_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Koki_Tagashira">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Fukushima_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Rui_Tokisaki">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Fukushima_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Takahiro_Ohara">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Fukushima_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Takuji_Yokoyama">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Fukushima_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Takuya_Komine">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Fukushima_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/JP-07">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Fukushima_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/福島県">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Fukushima_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hukusima_Prefecture">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Fukushima_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/List_of_Historic_Sites_of_Japan_(Fukushima)">
+    <dbp:prefecture rdf:resource="http://dbpedia.org/resource/Fukushima_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Fukushima_Prefecture">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Fukushima_Prefecture" />
+  </rdf:Description>
+</rdf:RDF>

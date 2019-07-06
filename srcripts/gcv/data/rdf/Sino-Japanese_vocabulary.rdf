@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:dct="http://purl.org/dc/terms/"
+	xmlns:dbo="http://dbpedia.org/ontology/"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:prov="http://www.w3.org/ns/prov#"
+	xmlns:dbp="http://dbpedia.org/property/" >
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sino-Japanese_compound">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Sino-Japanese_vocabulary" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sino-Japanese">
+    <dbo:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/Sino-Japanese_vocabulary" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sino-Japanese_vocabulary">
+    <rdfs:label xml:lang="ja">漢語</rdfs:label>
+    <rdfs:label xml:lang="en">Sino-Japanese vocabulary</rdfs:label>
+    <rdfs:label xml:lang="pl">Kango</rdfs:label>
+    <rdfs:label xml:lang="ru">Китаизмы в японском языке</rdfs:label>
+    <rdfs:comment xml:lang="pl">Kango (jap. 漢語 dosł. słowa Hanów, chińskie) - część słownictwa japońskiego pochodzenia chińskiego, zapisywana chińskimi znakami (kanji) i czytana po sinojapońsku (on-yomi). Pewna jej grupa została utworzona niezależnie.</rdfs:comment>
+    <rdfs:comment xml:lang="ja">日本語における漢語（かんご）とは、語種の一区分である。比較的古い時代の中国語から借用された形態素、すなわち漢字の字音から構成される語彙体系である。漢字の音読みと対応する語彙体系であるので字音語と称することもある。固有語である「和語」、漢語以外の借用語である「外来語（洋語）」と対立する概念である。 漢語の原義は「漢民族の言語」であり、本来は漢民族が母語である中国語を自称する際の用語なのだが、日本においては国語として定着した中国由来の語彙体系を「漢語」と総称することが多い。また、漢字の字音は複合の自由度が高く、日本で独自に造語されたいわゆる「和製漢語」も多い。 日本語以外でも、朝鮮語、ベトナム語などの言語は同様の語彙体系を有している。これら言語が有する中国由来の語彙体系をまとめて「漢語系語彙（Sinoxenic vocabulary）」と呼ぶことがある。</rdfs:comment>
+    <rdfs:comment xml:lang="en">Sino-Japanese vocabulary or kango (Japanese: 漢語, &quot;Han words&quot;) refers to that portion of the Japanese vocabulary that originated in Chinese or has been created from elements borrowed from Chinese. Some grammatical structures and sentence patterns can also be identified as Sino-Japanese. Sino-Japanese vocabulary is referred to in Japanese as kango (漢語), meaning &#39;Chinese words&#39;. Kango is one of three broad categories into which the Japanese vocabulary is divided. The others are native Japanese vocabulary (yamato kotoba) and borrowings from other, mainly Western languages (gairaigo). It is estimated that approximately 60% of the words contained in a modern Japanese dictionary are kango, and they comprise about 18% of words used in speech.</rdfs:comment>
+    <rdfs:comment xml:lang="ru">Канго (яп. 漢語, китаизмы в японском языке) — часть лексики японского языка, которая была заимствована из китайского языка или составлена в Японии из заимствованных элементов. Канго — это один из основных пластов лексики японского. Другие — ямато котоба (яп. 大和言葉, исконно японские слова) и гайрайго (яп. 外来語, заимствования из европейских языков). Около 60 % словарного состава современного языка составляют канго, что было подсчитано Государственным институтом исследования японского языка (яп. 国立国語研究所 кокурицу кокуго кэнкю:дзё) в исследовательской работе для цикла передач канала NHK, выходивших в эфир с апреля по июнь 1989.</rdfs:comment>
+    <owl:sameAs rdf:resource="http://pl.dbpedia.org/resource/Kango" />
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.02j9d7" />
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Sino-Japanese_vocabulary" />
+    <owl:sameAs rdf:resource="http://ja.dbpedia.org/resource/漢語" />
+    <owl:sameAs rdf:resource="http://id.dbpedia.org/resource/Kosakata_Sino-Jepang" />
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q4222379" />
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q4222379" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Archaic_Japanese_language" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Chinese_language" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Japanese_phonology" />
+    <dbo:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">504128</dbo:wikiPageID>
+    <dbo:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">744561577</dbo:wikiPageRevisionID>
+    <dbo:wikiPageExternalLink rdf:resource="http://students.washington.edu/coopercm/DOCtoolsExperimental/BAXTER.PDF" />
+    <dbo:wikiPageExternalLink rdf:resource="http://books.google.com/books?id=h5e8Za8sEJAC&amp;printsec=frontcover&amp;source=gbs_ge_summary_r&amp;cad=0#v=onepage&amp;q&amp;f=false" />
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Sino-Japanese_vocabulary" />
+    <prov:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Sino-Japanese_vocabulary?oldid=744561577" />
+    <dbo:abstract xml:lang="en">Sino-Japanese vocabulary or kango (Japanese: 漢語, &quot;Han words&quot;) refers to that portion of the Japanese vocabulary that originated in Chinese or has been created from elements borrowed from Chinese. Some grammatical structures and sentence patterns can also be identified as Sino-Japanese. Sino-Japanese vocabulary is referred to in Japanese as kango (漢語), meaning &#39;Chinese words&#39;. Kango is one of three broad categories into which the Japanese vocabulary is divided. The others are native Japanese vocabulary (yamato kotoba) and borrowings from other, mainly Western languages (gairaigo). It is estimated that approximately 60% of the words contained in a modern Japanese dictionary are kango, and they comprise about 18% of words used in speech. Kango, the use of Chinese-derived words in Japanese, is to be distinguished from kanbun, which is actual Chinese written by Japanese in Japan. Both kango in modern Japanese and classical kanbun have Sino-xenic linguistic and phonetic elements also found in Korean and Vietnamese: that is, they are &quot;Sino-foreign,&quot; not purely Chinese.</dbo:abstract>
+    <dbo:abstract xml:lang="pl">Kango (jap. 漢語 dosł. słowa Hanów, chińskie) - część słownictwa japońskiego pochodzenia chińskiego, zapisywana chińskimi znakami (kanji) i czytana po sinojapońsku (on-yomi). Pewna jej grupa została utworzona niezależnie. Użyciu tego słownictwa towarzyszą wzory gramatyczne i zdaniowe, traktowane także jako sinojapońskie. Kango stanowią jedną z trzech kategorii, na które można podzielić słownictwo japońskie. Pozostałe dwa to: słownictwo czysto japońskie, zwane yamato-kotoba (大和言葉) lub wago (和語) oraz słownictwo pochodzące z języków zachodnich, zwane gairaigo (外来語). Około 60% słów używanych we współczesnym języku japońskim, to kango.</dbo:abstract>
+    <dbo:abstract xml:lang="ja">日本語における漢語（かんご）とは、語種の一区分である。比較的古い時代の中国語から借用された形態素、すなわち漢字の字音から構成される語彙体系である。漢字の音読みと対応する語彙体系であるので字音語と称することもある。固有語である「和語」、漢語以外の借用語である「外来語（洋語）」と対立する概念である。 漢語の原義は「漢民族の言語」であり、本来は漢民族が母語である中国語を自称する際の用語なのだが、日本においては国語として定着した中国由来の語彙体系を「漢語」と総称することが多い。また、漢字の字音は複合の自由度が高く、日本で独自に造語されたいわゆる「和製漢語」も多い。 日本語以外でも、朝鮮語、ベトナム語などの言語は同様の語彙体系を有している。これら言語が有する中国由来の語彙体系をまとめて「漢語系語彙（Sinoxenic vocabulary）」と呼ぶことがある。</dbo:abstract>
+    <dbo:abstract xml:lang="ru">Канго (яп. 漢語, китаизмы в японском языке) — часть лексики японского языка, которая была заимствована из китайского языка или составлена в Японии из заимствованных элементов. Канго — это один из основных пластов лексики японского. Другие — ямато котоба (яп. 大和言葉, исконно японские слова) и гайрайго (яп. 外来語, заимствования из европейских языков). Около 60 % словарного состава современного языка составляют канго, что было подсчитано Государственным институтом исследования японского языка (яп. 国立国語研究所 кокурицу кокуго кэнкю:дзё) в исследовательской работе для цикла передач канала NHK, выходивших в эфир с апреля по июнь 1989.</dbo:abstract>
+    <dbp:date rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">June 2016</dbp:date>
+    <dbp:reason rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">What is &quot;original&quot;?</dbp:reason>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Wasei_Kango">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Sino-Japanese_vocabulary" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Sino-Japanese_vocabulary">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Sino-Japanese_vocabulary" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sino-Japanese_words">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Sino-Japanese_vocabulary" />
+  </rdf:Description>
+</rdf:RDF>

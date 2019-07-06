@@ -1,0 +1,57 @@
+{
+    "entities": [
+        {
+            "mentions": [
+                {
+                    "text": {
+                        "beginOffset": 0,
+                        "content": "書類"
+                    },
+                    "type": "COMMON"
+                },
+                {
+                    "text": {
+                        "beginOffset": 87,
+                        "content": "書類"
+                    },
+                    "type": "COMMON"
+                }
+            ],
+            "metadata": {},
+            "name": "書類",
+            "salience": 0.45436764,
+            "type": "OTHER"
+        },
+        {
+            "mentions": [
+                {
+                    "text": {
+                        "beginOffset": 9,
+                        "content": "部\t F0007/II\t 1932-05-99\t シリーズ\t 公開\t 柏\t 主に教学局"
+                    },
+                    "type": "PROPER"
+                }
+            ],
+            "metadata": {},
+            "name": "部 F0007/II 1932-05-99 シリーズ 公開 柏 主に教学局",
+            "salience": 0.28072715,
+            "type": "ORGANIZATION"
+        },
+        {
+            "mentions": [
+                {
+                    "text": {
+                        "beginOffset": 78,
+                        "content": "発行"
+                    },
+                    "type": "COMMON"
+                }
+            ],
+            "metadata": {},
+            "name": "発行",
+            "salience": 0.2649052,
+            "type": "EVENT"
+        }
+    ],
+    "language": "ja"
+}

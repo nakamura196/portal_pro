@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:dcterms="http://purl.org/dc/terms/"
+	xmlns:prop-fr="http://fr.dbpedia.org/property/"
+	xmlns:dbpedia-owl="http://dbpedia.org/ontology/"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:ns7="http://www.w3.org/ns/prov#" >
+  <rdf:Description rdf:about="http://fr.wikipedia.org/wiki/Izu_Mito_Sea_Paradise">
+    <foaf:primaryTopic rdf:resource="http://fr.dbpedia.org/resource/Izu_Mito_Sea_Paradise" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Requin-baleine">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Izu_Mito_Sea_Paradise" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Paradise">
+    <dbpedia-owl:wikiPageDisambiguates rdf:resource="http://fr.dbpedia.org/resource/Izu_Mito_Sea_Paradise" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Izu_Mito_Sea_Paradise" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Marineland_d&#39;Antibes">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Izu_Mito_Sea_Paradise" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Izu_Mito_Sea_Paradise">
+    <owl:sameAs rdf:resource="http://fr.dbpedia.org/resource/Izu_Mito_Sea_Paradise" />
+    <dcterms:subject rdf:resource="http://fr.dbpedia.org/resource/Catégorie:Préfecture_de_Shizuoka" />
+    <dcterms:subject rdf:resource="http://fr.dbpedia.org/resource/Catégorie:Aquarium_public_au_Japon" />
+    <dcterms:subject rdf:resource="http://fr.dbpedia.org/resource/Catégorie:Delphinarium" />
+    <prop-fr:wikiPageUsesTemplate rdf:resource="http://fr.dbpedia.org/resource/Modèle:Ébauche" />
+    <prop-fr:wikiPageUsesTemplate rdf:resource="http://fr.dbpedia.org/resource/Modèle:Lien_web" />
+    <prop-fr:wikiPageUsesTemplate rdf:resource="http://fr.dbpedia.org/resource/Modèle:En" />
+    <prop-fr:wikiPageUsesTemplate rdf:resource="http://fr.dbpedia.org/resource/Modèle:Portail" />
+    <prop-fr:wikiPageUsesTemplate rdf:resource="http://fr.dbpedia.org/resource/Modèle:Ja" />
+    <rdfs:label xml:lang="fr">Izu Mito Sea Paradise</rdfs:label>
+    <prop-fr:consultéLe rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2010-04-15+02:00</prop-fr:consultéLe>
+    <prop-fr:consultéLe rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2010-04-14+02:00</prop-fr:consultéLe>
+    <prop-fr:site xml:lang="fr">seapara.jp</prop-fr:site>
+    <prop-fr:site rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">0</prop-fr:site>
+    <prop-fr:titre xml:lang="fr">Izu Mito Sea Paradise</prop-fr:titre>
+    <prop-fr:titre xml:lang="fr">Site du parc aquatique</prop-fr:titre>
+    <prop-fr:url xml:lang="fr">http://0-oo.net/aqua/izu-mito-sea-paradise</prop-fr:url>
+    <prop-fr:url xml:lang="fr">http://www.seapara.jp/</prop-fr:url>
+    <rdfs:comment xml:lang="fr">L&#39;Izu Mito Sea Paradise est un parc aquatique japonais comprenant un aquarium et un delphinarium. Il est situé à Numazu, à l&#39;extrémité de la péninsule d&#39;Izu, dans la préfecture de Shizuoka.</rdfs:comment>
+    <dbpedia-owl:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">65107825</dbpedia-owl:wikiPageRevisionID>
+    <foaf:homepage rdf:resource="http://seapara.jp" />
+    <dbpedia-owl:abstract xml:lang="fr">L&#39;Izu Mito Sea Paradise est un parc aquatique japonais comprenant un aquarium et un delphinarium. Il est situé à Numazu, à l&#39;extrémité de la péninsule d&#39;Izu, dans la préfecture de Shizuoka.</dbpedia-owl:abstract>
+    <ns7:wasDerivedFrom rdf:resource="http://fr.wikipedia.org/wiki/Izu_Mito_Sea_Paradise?oldid=65107825" />
+    <dbpedia-owl:wikiPageOutDegree rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">9</dbpedia-owl:wikiPageOutDegree>
+    <dbpedia-owl:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4644787</dbpedia-owl:wikiPageID>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Delphinarium" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Aquarium" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Catégorie:Préfecture_de_Shizuoka" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Péninsule_d&#39;Izu" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Catégorie:Aquarium_public_au_Japon" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Numazu" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Préfecture_de_Shizuoka" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Catégorie:Delphinarium" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Japon" />
+    <dbpedia-owl:wikiPageLength rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">702</dbpedia-owl:wikiPageLength>
+    <foaf:isPrimaryTopicOf rdf:resource="http://fr.wikipedia.org/wiki/Izu_Mito_Sea_Paradise" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Liste_des_parcs_de_loisirs_d&#39;Asie">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://fr.dbpedia.org/resource/Izu_Mito_Sea_Paradise" />
+  </rdf:Description>
+</rdf:RDF>

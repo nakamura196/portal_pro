@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:dct="http://purl.org/dc/terms/"
+	xmlns:dbo="http://dbpedia.org/ontology/"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:prov="http://www.w3.org/ns/prov#"
+	xmlns:dbp="http://dbpedia.org/property/" >
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Simpson&#39;s_Rule">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Simpson&#39;s_rule" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Simpsons_rule">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Simpson&#39;s_rule" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Simpsons_Rule">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Simpson&#39;s_rule" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Simpson&#39;s_formula">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Simpson&#39;s_rule" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Simpson&#39;s_formulas">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Simpson&#39;s_rule" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Simpson_formula">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Simpson&#39;s_rule" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Simpson">
+    <dbo:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/Simpson&#39;s_rule" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Simpson&#39;s_rule">
+    <rdfs:label xml:lang="zh">辛普森積分法</rdfs:label>
+    <rdfs:label xml:lang="es">Regla de Simpson</rdfs:label>
+    <rdfs:label xml:lang="ru">Формула Симпсона</rdfs:label>
+    <rdfs:label xml:lang="pl">Metoda Simpsona</rdfs:label>
+    <rdfs:label xml:lang="pt">Fórmula de Simpson</rdfs:label>
+    <rdfs:label xml:lang="en">Simpson&#39;s rule</rdfs:label>
+    <rdfs:label xml:lang="fr">Méthode de Simpson</rdfs:label>
+    <rdfs:label xml:lang="ar">قاعدة سمبسون</rdfs:label>
+    <rdfs:label xml:lang="ja">シンプソンの公式</rdfs:label>
+    <rdfs:label xml:lang="de">Simpsonregel</rdfs:label>
+    <rdfs:label xml:lang="nl">Regel van Simpson</rdfs:label>
+    <rdfs:label xml:lang="it">Regola di Cavalieri-Simpson</rdfs:label>
+    <rdfs:comment xml:lang="pt">Em Análise numérica, a fórmula de Simpson (em nome de Thomas Simpson, um matemático inglês) também conhecida como regra de Simpson é uma forma de se obter uma aproximação da integral definida: A regra de Simpson baseia-se em aproximar a integral definida pela área sob arcos de parábola que interpolam a função.</rdfs:comment>
+    <rdfs:comment xml:lang="es">En análisis numérico, la regla o método de Simpson (nombrada así en honor de Thomas Simpson) y a veces llamada regla de Kepler es un método de integración numérica que se utiliza para obtener la aproximación de la integral: .</rdfs:comment>
+    <rdfs:comment xml:lang="pl">Całkowanie metodą Simpsona – jedna z metod przybliżania wartości całki oznaczonej funkcji rzeczywistej. Metoda ma zastosowanie do funkcji stablicowanych w nieparzystej liczbie równo odległych punktów (wliczając końce przedziału całkowania). Metoda opiera się na przybliżaniu funkcji całkowanej przez interpolację wielomianem drugiego stopnia. Znając wartości funkcji w 3 punktach (przy czym ), przybliża się funkcję wielomianem Lagrange&#39;a i, całkując w przedziale , otrzymuje przybliżoną wartość całki: Błąd, który przy tym popełniamy, jest równy: ,gdzie: . . , otrzymując: . . ; , ; .</rdfs:comment>
+    <rdfs:comment xml:lang="ru">Формула Симпсона (также Ньютона-Симпсона) относится к приёмам численного интегрирования. Получила название в честь британского математика Томаса Симпсона (1710—1761). Суть метода заключается в приближении подынтегральной функции на отрезке интерполяционным многочленом второй степени , то есть приближение графика функции на отрезке параболой. Метод Симпсона имеет порядок погрешности 4 и алгебраический порядок точности 3.</rdfs:comment>
+    <rdfs:comment xml:lang="nl">De regel van Simpson is een benaderingsformule om de numerieke waarde van een integraal te berekenen. De regel, die ontwikkeld is door Thomas Simpson, is een speciaal geval van een formule van Newton-Cotes. De regel van Simpson benadert de integraal van een functie f over het interval [a,b] als een gewogen som van de functiewaarden in de eindpunten a en b en het midden (a+b)/2 van het interval. Deze benadering wordt verkregen als de integraal van de tweedegraadspolynoom die de functie benadert met waarden en .</rdfs:comment>
+    <rdfs:comment xml:lang="fr">En analyse numérique, la méthode de Simpson, du nom de Thomas Simpson, est une technique de calcul numérique d&#39;une intégrale, c&#39;est-à-dire, le calcul approché de : Cette méthode utilise l&#39;approximation d&#39;ordre 2 de f par un polynôme quadratique P prenant les mêmes valeurs que f aux points d&#39;abscisse a, b et m = (a + b)/2. Pour déterminer l&#39;expression de cette parabole (polynôme de degré 2), on utilise l&#39;interpolation lagrangienne. Le résultat peut être mis sous la forme : Un autre moyen d&#39;arriver à ce résultat est d&#39;appliquer les formules de Newton-Cotes avec n = 2. où où : pour</rdfs:comment>
+    <rdfs:comment xml:lang="en">In numerical analysis, Simpson&#39;s rule is a method for numerical integration, the numerical approximation of definite integrals. Specifically, it is the following approximation: for points that are equally spaced. For unequally spaced points, please see Cartwright. Simpson&#39;s rule also corresponds to the three-point Newton-Cotes quadrature rule. The method is credited to the mathematician Thomas Simpson (1710–1761) of Leicestershire, England. Kepler used similar formulas over 100 years prior. For this reason the method is sometimes called Kepler&#39;s rule, or Keplersche Fassregel in German.</rdfs:comment>
+    <rdfs:comment xml:lang="it">Per regola di Cavalieri-Simpson o regola di Simpson si intende un metodo per il calcolo numerico approssimato di integrali definiti della forma: . Come tutti i procedimenti per il calcolo approssimato di integrali definiti e per altri calcoli approssimati a partire da funzioni di variabile reale, tale metodo si utilizza per funzioni</rdfs:comment>
+    <rdfs:comment xml:lang="ja">シンプソンの公式(シンプソンのこうしき、Simpson&#39;s rule) とは、数値解析の分野において、次の積分の近似値を得る方法である。 「シンプソンの公式」という名前は、トーマス・シンプソンにちなんだものである。</rdfs:comment>
+    <rdfs:comment xml:lang="ar">قاعدة سمبسون (بالإنجليزية: Simpson&#39;s rule) في التحليل العددي هي طريقة من طرق التكامل العددي و هي في الحقيقة حالة خاصة من صيغ نيوتن-كوتس المغلقة لتقريب تكامل الدالة f باستخدام كثيرة الحدود التربيعية وهي طريقة محسنة لطريقة شبه المنحرف كما أنها أسرع تقارباً و أدق ويفسر ذلك من خلال أن قاعدة سمبسون تحتوي على نقطة المنتصف التي توفر توازن أفضل للتقريب. لأنه كلما زادت عدد التقسيمات في الفترة الجزئية كانت الطريقة أدق.و تحسب صيغة شبه المنحرف القيمة الفعلية للتكامل عندما تكون f دالة كثيرة حدود من الدرجة الأولى على الأكثر . بينما صيغة سمبسون فإنها تحسب القيمة الفعلية للتكامل إذا كانت f دالة كثيرة الحدود من الدرجة الثالثة أو أقل.</rdfs:comment>
+    <rdfs:comment xml:lang="zh">辛普森法則（Simpson&#39;s rule）是一種數值積分方法，是牛顿-寇次公式的特殊形式，以二次曲線逼近的方式取代矩形或梯形積分公式，以求得定積分的數值近似解。其近似值如下： 該方法係由英格蘭人湯馬士·辛普森所創立。</rdfs:comment>
+    <owl:sameAs rdf:resource="http://fr.dbpedia.org/resource/Méthode_de_Simpson" />
+    <owl:sameAs rdf:resource="http://nl.dbpedia.org/resource/Regel_van_Simpson" />
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Simpson&#39;s_rule" />
+    <owl:sameAs rdf:resource="http://pl.dbpedia.org/resource/Metoda_Simpsona" />
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.01g4dj" />
+    <owl:sameAs rdf:resource="http://es.dbpedia.org/resource/Regla_de_Simpson" />
+    <owl:sameAs rdf:resource="http://id.dbpedia.org/resource/Kaidah_Simpson" />
+    <owl:sameAs rdf:resource="http://it.dbpedia.org/resource/Regola_di_Cavalieri-Simpson" />
+    <owl:sameAs rdf:resource="http://ko.dbpedia.org/resource/심프슨_공식" />
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q722507" />
+    <owl:sameAs rdf:resource="http://pt.dbpedia.org/resource/Fórmula_de_Simpson" />
+    <owl:sameAs rdf:resource="http://ja.dbpedia.org/resource/シンプソンの公式" />
+    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/Simpsonregel" />
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q722507" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Articles_with_example_C_code" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Integral_calculus" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Numerical_integration_(quadrature)" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Numerical_analysis" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Articles_with_example_Python_code" />
+    <dbo:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">219962</dbo:wikiPageID>
+    <dbo:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">744197745</dbo:wikiPageRevisionID>
+    <dbo:wikiPageExternalLink rdf:resource="http://hamsoft-hq.com/toys/junk.php?id=4" />
+    <dbo:wikiPageExternalLink rdf:resource="http://mathworld.wolfram.com/Newton-CotesFormulas.html" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.ccs.neu.edu/home/dorai/t-y-scheme/t-y-scheme-Z-H-22.html#node_chap_C" />
+    <dbo:wikiPageExternalLink rdf:resource="http://math.fullerton.edu/mathews/n2003/Simpson38RuleMod.html" />
+    <dbo:wikiPageExternalLink rdf:resource="http://math.fullerton.edu/mathews/n2003/SimpsonsRuleMod.html" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.howtoexcel.info/Civil_Engineering/Earthwork_Volume.htm" />
+    <dbo:wikiPageExternalLink rdf:resource="http://numericalmethods.eng.usf.edu" />
+    <dbo:wikiPageExternalLink rdf:resource="http://numericalmethods.eng.usf.edu/topics/simpsons_13rd_rule.html" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.autarkaw.com" />
+    <dbo:wikiPageExternalLink rdf:resource="https://books.google.com/books?id=bh5w6E-M-PUC&amp;pg=PA122&amp;dq=extended-simpson%27s-rule" />
+    <dbo:wikiPageExternalLink rdf:resource="https://books.google.com/books?id=bQc9AAAAYAAJ&amp;pg=PA198" />
+    <dbo:wikiPageExternalLink rdf:resource="http://docs.scipy.org/doc/scipy/reference/generated/scipy.integrate.simps.html" />
+    <foaf:depiction rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Simpsons_method_illustration.svg" />
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Simpson&#39;s_rule" />
+    <dbo:thumbnail rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Simpsons_method_illustration.svg?width=300" />
+    <prov:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Simpson&#39;s_rule?oldid=744197745" />
+    <dbo:abstract xml:lang="es">En análisis numérico, la regla o método de Simpson (nombrada así en honor de Thomas Simpson) y a veces llamada regla de Kepler es un método de integración numérica que se utiliza para obtener la aproximación de la integral: .</dbo:abstract>
+    <dbo:abstract xml:lang="ru">Формула Симпсона (также Ньютона-Симпсона) относится к приёмам численного интегрирования. Получила название в честь британского математика Томаса Симпсона (1710—1761). Суть метода заключается в приближении подынтегральной функции на отрезке интерполяционным многочленом второй степени , то есть приближение графика функции на отрезке параболой. Метод Симпсона имеет порядок погрешности 4 и алгебраический порядок точности 3.</dbo:abstract>
+    <dbo:abstract xml:lang="zh">辛普森法則（Simpson&#39;s rule）是一種數值積分方法，是牛顿-寇次公式的特殊形式，以二次曲線逼近的方式取代矩形或梯形積分公式，以求得定積分的數值近似解。其近似值如下： 該方法係由英格蘭人湯馬士·辛普森所創立。</dbo:abstract>
+    <dbo:abstract xml:lang="nl">De regel van Simpson is een benaderingsformule om de numerieke waarde van een integraal te berekenen. De regel, die ontwikkeld is door Thomas Simpson, is een speciaal geval van een formule van Newton-Cotes. De regel van Simpson benadert de integraal van een functie f over het interval [a,b] als een gewogen som van de functiewaarden in de eindpunten a en b en het midden (a+b)/2 van het interval. Deze benadering wordt verkregen als de integraal van de tweedegraadspolynoom die de functie benadert met waarden en . Voor een goede benadering is het van belang dat de variatie van de integrand over het interval niet te groot is. In praktijk wordt daarom het interval verdeeld in een aantal subintervallen, en wordt op elk subinterval de regel van Simpson toegepast. Als de intervallen tussen de functiewaarden van gelijke lengte h zijn, wordt de benadering: Als het interval gehalveerd wordt, verkleint de fout met een factor 32. De regel van Simpson is daarmee efficiënter dan de meer eenvoudige trapeziumregel. Deze beide methoden zijn ingebouwd in de methode van Romberg.</dbo:abstract>
+    <dbo:abstract xml:lang="fr">En analyse numérique, la méthode de Simpson, du nom de Thomas Simpson, est une technique de calcul numérique d&#39;une intégrale, c&#39;est-à-dire, le calcul approché de : Cette méthode utilise l&#39;approximation d&#39;ordre 2 de f par un polynôme quadratique P prenant les mêmes valeurs que f aux points d&#39;abscisse a, b et m = (a + b)/2. Pour déterminer l&#39;expression de cette parabole (polynôme de degré 2), on utilise l&#39;interpolation lagrangienne. Le résultat peut être mis sous la forme : Un polynôme étant une fonction très facile à intégrer, on approche l&#39;intégrale de la fonction f sur l&#39;intervalle [a, b], par l&#39;intégrale de P sur ce même intervalle. On a ainsi, la simple formule : Un autre moyen d&#39;arriver à ce résultat est d&#39;appliquer les formules de Newton-Cotes avec n = 2. Si f est 4 fois continument différentiable sur [a, b], l&#39;erreur d&#39;approximation vaut : où Cette expression du terme d&#39;erreur signifie que la méthode de Simpson est exacte (c&#39;est-à-dire que le terme d&#39;erreur s&#39;annule) pour tout polynôme de degré inférieur ou égal à 3. De plus, cette méthode est d&#39;ordre 4 pour toute fonction continûment dérivable quatre fois sur [a, b]. Par ailleurs, il apparait que plus l&#39;intervalle est petit, plus l&#39;approximation de la valeur de l&#39;intégrale est bonne. Par conséquent, pour obtenir un résultat correct, on subdivise chaque intervalle [a, m] et [m, b] en sous-intervalles et on additionne la valeur obtenue sur chaque intervalle. Soit : où : 
+*  n est le nombre de sous-intervalles de [a, b] avec n pair ; 
+*  h = (b – a)/n est la longueur de ces sous-intervalles ; 
+* pour Pour cette formule composite, le terme d&#39;erreur devient égal à ce qui signifie que la méthode composite fournit aussi des résultats exacts pour des polynômes de degré inférieur ou égal à 3. À la fois à cause de sa simplicité de mise en œuvre, et de sa bonne précision, cette méthode est la plus utilisée par les calculatrices pour tous calculs approchés d&#39;intégrales de fonctions explicites.</dbo:abstract>
+    <dbo:abstract xml:lang="en">In numerical analysis, Simpson&#39;s rule is a method for numerical integration, the numerical approximation of definite integrals. Specifically, it is the following approximation: for points that are equally spaced. For unequally spaced points, please see Cartwright. Simpson&#39;s rule also corresponds to the three-point Newton-Cotes quadrature rule. The method is credited to the mathematician Thomas Simpson (1710–1761) of Leicestershire, England. Kepler used similar formulas over 100 years prior. For this reason the method is sometimes called Kepler&#39;s rule, or Keplersche Fassregel in German.</dbo:abstract>
+    <dbo:abstract xml:lang="ja">シンプソンの公式(シンプソンのこうしき、Simpson&#39;s rule) とは、数値解析の分野において、次の積分の近似値を得る方法である。 「シンプソンの公式」という名前は、トーマス・シンプソンにちなんだものである。</dbo:abstract>
+    <dbo:abstract xml:lang="pl">Całkowanie metodą Simpsona – jedna z metod przybliżania wartości całki oznaczonej funkcji rzeczywistej. Metoda ma zastosowanie do funkcji stablicowanych w nieparzystej liczbie równo odległych punktów (wliczając końce przedziału całkowania). Metoda opiera się na przybliżaniu funkcji całkowanej przez interpolację wielomianem drugiego stopnia. Znając wartości funkcji w 3 punktach (przy czym ), przybliża się funkcję wielomianem Lagrange&#39;a i, całkując w przedziale , otrzymuje przybliżoną wartość całki: Błąd, który przy tym popełniamy, jest równy: ,gdzie: . Nie znamy położenia punktu c, więc posługujemy się poniższym szacowaniem, mającym zastosowanie w obliczeniach numerycznych: . Znając wartości funkcji w 2k+1 kolejnych, równo odległych punktach (gdzie n=2k), możemy iterować powyższy wzór na k przedziałów: , otrzymując: . Wartość błędu, jakim są obarczone wyliczenia, wyraża się wzorem: . By czytelnik mógł go odnieść do rysunku: ; , ; . Geometrycznie metoda ta odpowiada zastąpieniu w każdym z kolejnych k przedziałów zmiennej x łuku wykresu funkcji y=f(x) łukiem paraboli przeprowadzonej przez trzy kolejne węzły interpolacji (punkty wykresu o znanych współrzędnych) odpowiadające początkowi, środkowi i końcowi kolejnego przedziału.</dbo:abstract>
+    <dbo:abstract xml:lang="it">Per regola di Cavalieri-Simpson o regola di Simpson si intende un metodo per il calcolo numerico approssimato di integrali definiti della forma: . Come tutti i procedimenti per il calcolo approssimato di integrali definiti e per altri calcoli approssimati a partire da funzioni di variabile reale, tale metodo si utilizza per funzioni delle quali non si conosce la funzione primitiva, oppure della cui primitiva si conoscono solo caratteristiche dalle quali non si riesce a ricavare una espressione tramite funzioni elementari che possa essere ragionevolmente utilizzata per i calcoli richiesti.Questi metodi approssimati si utilizzano inoltre nei casi in cui non è nota una espressione analitica della funzione da integrare, ma si conoscono soltanto alcuni suoi valori (ottenuti sperimentalmente o ricavati da altre fonti), oppure quando è noto soltanto il suo diagramma (tracciato con l&#39;ausilio di appositi strumenti o ricavato dalla letteratura).</dbo:abstract>
+    <dbo:abstract xml:lang="ar">قاعدة سمبسون (بالإنجليزية: Simpson&#39;s rule) في التحليل العددي هي طريقة من طرق التكامل العددي و هي في الحقيقة حالة خاصة من صيغ نيوتن-كوتس المغلقة لتقريب تكامل الدالة f باستخدام كثيرة الحدود التربيعية وهي طريقة محسنة لطريقة شبه المنحرف كما أنها أسرع تقارباً و أدق ويفسر ذلك من خلال أن قاعدة سمبسون تحتوي على نقطة المنتصف التي توفر توازن أفضل للتقريب. لأنه كلما زادت عدد التقسيمات في الفترة الجزئية كانت الطريقة أدق.و تحسب صيغة شبه المنحرف القيمة الفعلية للتكامل عندما تكون f دالة كثيرة حدود من الدرجة الأولى على الأكثر . بينما صيغة سمبسون فإنها تحسب القيمة الفعلية للتكامل إذا كانت f دالة كثيرة الحدود من الدرجة الثالثة أو أقل. في الواقع تعتبر صيغة سمبسون من أكثر الصيغ استخداما حيث انها تستخدم على نطاق واسع لحل المسائل التطبيقية التي تتضمن تكاملات محدودة لدقتها الحسابية وسهولة استخدامها.</dbo:abstract>
+    <dbo:abstract xml:lang="pt">Em Análise numérica, a fórmula de Simpson (em nome de Thomas Simpson, um matemático inglês) também conhecida como regra de Simpson é uma forma de se obter uma aproximação da integral definida: A regra de Simpson baseia-se em aproximar a integral definida pela área sob arcos de parábola que interpolam a função.</dbo:abstract>
+    <dbp:id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">6518</dbp:id>
+    <dbp:id rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">p/s085450</dbp:id>
+    <dbp:title rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Simpson&#39;s Rule</dbp:title>
+    <dbp:title rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Simpson formula</dbp:title>
+    <dbp:title rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Code for Simpson&#39;s rule</dbp:title>
+    <dbp:urlname rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">SimpsonsRule</dbp:urlname>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Simpson_formulas">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Simpson&#39;s_rule" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Simpson_rule">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Simpson&#39;s_rule" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Simpson&#39;s_method">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Simpson&#39;s_rule" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Simpson_method">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Simpson&#39;s_rule" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Composite_Simpson&#39;s_Method">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Simpson&#39;s_rule" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Composite_Simpson&#39;s_method">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Simpson&#39;s_rule" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Composite_simpson&#39;s_rule">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Simpson&#39;s_rule" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Simpson_Rule">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Simpson&#39;s_rule" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Simpsons&#39;_Rule">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Simpson&#39;s_rule" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Simpson&#39;s_rule">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Simpson&#39;s_rule" />
+  </rdf:Description>
+</rdf:RDF>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:dct="http://purl.org/dc/terms/"
+	xmlns:dbo="http://dbpedia.org/ontology/"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:prov="http://www.w3.org/ns/prov#"
+	xmlns:ns7="http://purl.org/linguistics/gold/" >
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Deflection">
+    <dbo:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/Deflection_(engineering)" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Deflection_(engineering)">
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/University" />
+    <rdfs:label xml:lang="fr">Flèche (résistance des matériaux)</rdfs:label>
+    <rdfs:label xml:lang="en">Deflection (engineering)</rdfs:label>
+    <rdfs:label xml:lang="zh">撓度</rdfs:label>
+    <rdfs:label xml:lang="es">Flecha (ingeniería)</rdfs:label>
+    <rdfs:label xml:lang="de">Durchbiegung</rdfs:label>
+    <rdfs:comment xml:lang="es">Se denomina flecha, en ingeniería, a la máxima distancia entre la fibra neutra del estado en reposo y solicitado (bajo carga).</rdfs:comment>
+    <rdfs:comment xml:lang="en">In engineering, deflection is the degree to which a structural element is displaced under a load. It may refer to an angle or a distance. The deflection distance of a member under a load is directly related to the slope of the deflected shape of the member under that load and can be calculated by integrating the function that mathematically describes the slope of the member under that load. Deflection can be calculated by standard formula (will only give the deflection of common beam configurations and load cases at discrete locations), or by methods such as virtual work, direct integration, Castigliano&#39;s method, Macaulay&#39;s method or the direct stiffness method, amongst others. The deflection of beam elements is usually calculated on the basis of the Euler–Bernoulli beam equation while tha</rdfs:comment>
+    <rdfs:comment xml:lang="fr">En résistance des matériaux, la flèche est usuellement la valeur maximale de la déformation acceptable (&quot;déformée&quot;) d&#39;une poutre. En l&#39;absence d&#39;effort normal important, la déformée d&#39;une poutre est liée au moment fléchissant par la relation où</rdfs:comment>
+    <rdfs:comment xml:lang="de">Als Durchbiegung von Tragwerken wird der orthogonale Anteil des Versatzes der verformten Lage zur unverformten Lage bezeichnet. Ihre Größe hängt im linear elastischen Bereich von der Belastung, und der Steifigkeit des Gegenstandes ab und damit von der Form und Größe seines Querschnitts sowie der Elastizitätsmoduln seines Materials. Einfluss haben im Allgemeinen auch die Auflagerrandbedigungen. dargestellt, die den Weg</rdfs:comment>
+    <rdfs:comment xml:lang="zh">撓度（Deflection）是一種用來衡量結構單元受外力下的「相對位置變化量」（或稱為「變形量」）。變形可以用角度量或者位移量的方式來表示。在觀察某物體的變形量之前，需先瞭解何為工程上的自由度。工程上的自由度可以分為旋轉的自由度及移動的自由度。另外，平面構件與立體構件也各有不同的自由度。 一構件（組，下同）於外力之下的撓度是直接與該構件變形量的斜率有關，可以用數學的方法計算該力在構件上的作用，以構件在受外力下，其變化量的斜率。撓度可以以以下幾種方式做分析計算，例如「標準方程式」，不過此法只僅僅用在常見的工程結構梁，並且外力施加在離散的位置上。其他的方式有虛功法、直接積分法、卡式定律、馬式定律或直接剛性定律等等。梁單元（Beam element）的分析以歐拉﹣伯努力棟樑方程為基礎，而殼件或是平板件會利用殼件理論（Theory of plates or shells）計算。 建築物結構的設計算會應用到撓度。建築師和工程師針對不同的應用需求選擇材料，建築框架中用到的梁會以撓度及其其他因素來進行設計。</rdfs:comment>
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q3074663" />
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.043qnk4" />
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q3074663" />
+    <owl:sameAs rdf:resource="http://fr.dbpedia.org/resource/Flèche_(résistance_des_matériaux)" />
+    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/Durchbiegung" />
+    <owl:sameAs rdf:resource="http://es.dbpedia.org/resource/Flecha_(ingeniería)" />
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Deflection_(engineering)" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Engineering_mechanics" />
+    <dbo:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">17318563</dbo:wikiPageID>
+    <dbo:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">740278924</dbo:wikiPageRevisionID>
+    <dbo:wikiPageExternalLink rdf:resource="http://civilengineer.webinfolist.com/str/sdcalc.htm" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.mathalino.com/reviewer/mechanics-and-strength-of-materials/chapter-6-beam-deflections" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.clag.org.uk/beam.html" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.engineersedge.com/beam_calc_menu.shtml" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.advancepipeliner.com/Resources/Others/Beams/Beam_Deflection_Formulae.pdf" />
+    <foaf:depiction rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Cantilever_beam_deflection.svg" />
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Deflection_(engineering)" />
+    <dbo:thumbnail rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Cantilever_beam_deflection.svg?width=300" />
+    <prov:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Deflection_(engineering)?oldid=740278924" />
+    <dbo:abstract xml:lang="de">Als Durchbiegung von Tragwerken wird der orthogonale Anteil des Versatzes der verformten Lage zur unverformten Lage bezeichnet. Ihre Größe hängt im linear elastischen Bereich von der Belastung, und der Steifigkeit des Gegenstandes ab und damit von der Form und Größe seines Querschnitts sowie der Elastizitätsmoduln seines Materials. Einfluss haben im Allgemeinen auch die Auflagerrandbedigungen. Für längliche Gegenstände wie Balken oder Stäbe lässt sich die Durchbiegung im elastischen Bereich mit Hilfe der Balkentheorie leicht berechnen, wenn die Belastung und die Biegesteifigkeit bekannt sind. Die Verformung wird dann durch die Biegelinie dargestellt, die den Weg angibt, um den sich ein Punkt des Balkens bei der Verformung orthogonal zur Stabachse bewegt (x ist eine Laufvariable des Stabachsenkoordinatensystems, vereinfacht gesagt: die Position auf dem Balken). Wenn man eine vernachlässigbare Biegesteifigkeit nicht berücksichtigt, z. B. bei Drähten zwischen Tragmasten, nimmt die Stabachse unter Eigengewicht eines konstanten Gravitationsfeldes mit konstanter Massenverteilung je verformter Stabachsenlänge eine Kettenlinie an.</dbo:abstract>
+    <dbo:abstract xml:lang="fr">En résistance des matériaux, la flèche est usuellement la valeur maximale de la déformation acceptable (&quot;déformée&quot;) d&#39;une poutre. En l&#39;absence d&#39;effort normal important, la déformée d&#39;une poutre est liée au moment fléchissant par la relation où est la dérivée seconde de la déformée, E est le module d&#39;élasticité (module d&#39;Young) du matériau, et I le moment quadratique, facteur géométrique li au profil transverse de la poutre. Pour obtenir l&#39;équation de la déformée, on intègre deux fois en déterminant les constantes d&#39;intégration à l&#39;aide des conditions aux limites. Attention, cette formule suppose d&#39;être dans le cadre de petites perturbations ; en particulier, la dérivée seconde de la déformée est alors une bonne approximation de la courbure, d&#39;où la formule ci-dessus.</dbo:abstract>
+    <dbo:abstract xml:lang="es">Se denomina flecha, en ingeniería, a la máxima distancia entre la fibra neutra del estado en reposo y solicitado (bajo carga).</dbo:abstract>
+    <dbo:abstract xml:lang="en">In engineering, deflection is the degree to which a structural element is displaced under a load. It may refer to an angle or a distance. The deflection distance of a member under a load is directly related to the slope of the deflected shape of the member under that load and can be calculated by integrating the function that mathematically describes the slope of the member under that load. Deflection can be calculated by standard formula (will only give the deflection of common beam configurations and load cases at discrete locations), or by methods such as virtual work, direct integration, Castigliano&#39;s method, Macaulay&#39;s method or the direct stiffness method, amongst others. The deflection of beam elements is usually calculated on the basis of the Euler–Bernoulli beam equation while that of a plate or shell element is calculated using plate or shell theory. An example of the use of deflection in this context is in building construction. Architects and engineers select materials for various applications. The beams used for frame work are selected on the basis of deflection, amongst other factors.</dbo:abstract>
+    <dbo:abstract xml:lang="zh">撓度（Deflection）是一種用來衡量結構單元受外力下的「相對位置變化量」（或稱為「變形量」）。變形可以用角度量或者位移量的方式來表示。在觀察某物體的變形量之前，需先瞭解何為工程上的自由度。工程上的自由度可以分為旋轉的自由度及移動的自由度。另外，平面構件與立體構件也各有不同的自由度。 一構件（組，下同）於外力之下的撓度是直接與該構件變形量的斜率有關，可以用數學的方法計算該力在構件上的作用，以構件在受外力下，其變化量的斜率。撓度可以以以下幾種方式做分析計算，例如「標準方程式」，不過此法只僅僅用在常見的工程結構梁，並且外力施加在離散的位置上。其他的方式有虛功法、直接積分法、卡式定律、馬式定律或直接剛性定律等等。梁單元（Beam element）的分析以歐拉﹣伯努力棟樑方程為基礎，而殼件或是平板件會利用殼件理論（Theory of plates or shells）計算。 建築物結構的設計算會應用到撓度。建築師和工程師針對不同的應用需求選擇材料，建築框架中用到的梁會以撓度及其其他因素來進行設計。</dbo:abstract>
+    <ns7:hypernym rdf:resource="http://dbpedia.org/resource/Degree" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Deflection_(engineering)">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Deflection_(engineering)" />
+  </rdf:Description>
+</rdf:RDF>

@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:dbo="http://dbpedia.org/ontology/"
+	xmlns:dct="http://purl.org/dc/terms/"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:prov="http://www.w3.org/ns/prov#"
+	xmlns:dbp="http://dbpedia.org/property/"
+	xmlns:ns8="http://purl.org/linguistics/gold/" >
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mayumi_Itsuwa">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Nakano,_Tokyo" />
+    <dbo:hometown rdf:resource="http://dbpedia.org/resource/Nakano,_Tokyo" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Alice_Japan">
+    <dbo:locationCity rdf:resource="http://dbpedia.org/resource/Nakano,_Tokyo" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Japan_Home_Video">
+    <dbo:locationCity rdf:resource="http://dbpedia.org/resource/Nakano,_Tokyo" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kiyoshiro_Imawano">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Nakano,_Tokyo" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nakano_Sun_Plaza">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Nakano,_Tokyo" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Horikoshi_High_School">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Nakano,_Tokyo" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nakano-Ku">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Nakano,_Tokyo" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Genki_(company)">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Nakano,_Tokyo" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Marika_Matsumoto">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Nakano,_Tokyo" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Soft_On_Demand">
+    <dbo:locationCity rdf:resource="http://dbpedia.org/resource/Nakano,_Tokyo" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nakano">
+    <dbo:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/Nakano,_Tokyo" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nakano,_Tokyo">
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Settlement" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoLegalActor" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoLegalActorGeo" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/City" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Person100007846" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Object100002684" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PhysicalEntity100001930" />
+    <rdf:type rdf:resource="http://umbel.org/umbel/rc/Location_Underspecified" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q515" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q486972" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatWardsOfTokyo" />
+    <rdf:type rdf:resource="http://umbel.org/umbel/rc/PopulatedPlace" />
+    <rdf:type rdf:resource="http://schema.org/City" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Ward110767020" />
+    <rdf:type rdf:resource="http://umbel.org/umbel/rc/Village" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Organism100004475" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Whole100003553" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/LivingThing100004258" />
+    <rdf:type rdf:resource="http://umbel.org/umbel/rc/City" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/CausalAgent100007347" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/PopulatedPlace" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Location" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Place" />
+    <rdf:type rdf:resource="http://schema.org/Place" />
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing" />
+    <rdfs:label xml:lang="ja">中野区</rdfs:label>
+    <rdfs:label xml:lang="en">Nakano, Tokyo</rdfs:label>
+    <rdfs:label xml:lang="ru">Накано (специальный район)</rdfs:label>
+    <rdfs:label xml:lang="nl">Nakano (Tokio)</rdfs:label>
+    <rdfs:label xml:lang="it">Nakano (Tōkyō)</rdfs:label>
+    <rdfs:label xml:lang="pl">Nakano (Tokio)</rdfs:label>
+    <rdfs:label xml:lang="fr">Nakano</rdfs:label>
+    <rdfs:label xml:lang="es">Nakano (Tokio)</rdfs:label>
+    <rdfs:label xml:lang="de">Nakano</rdfs:label>
+    <rdfs:label xml:lang="zh">中野區</rdfs:label>
+    <rdfs:label xml:lang="ar">ناكانو (طوكيو)</rdfs:label>
+    <rdfs:comment xml:lang="ar">25بك المحتوى هنا ينقصه الاستشهاد بمصادر. يرجى إيراد مصادر موثوق بها. أي معلومات غير موثقة يمكن التشكيك بها وإزالتها. (مارس 2016) ناكانو (باليابانية: 中野区 ناكانو-كو) وتعني &quot;حي ناكانو&quot; هو أحد أحياء طوكيو ال 23.</rdfs:comment>
+    <rdfs:comment xml:lang="ru">Нака́но (яп. 中野区 Накано-ку) — один из 23 специальных районов Токио.</rdfs:comment>
+    <rdfs:comment xml:lang="es">Nakano (中野区 Nakano-ku?) es uno de los 23 barrios especiales de Tokio, Japón. Es común que se autodenomine en otros idiomas como &quot;Ciudad de Nakano&quot;. En 2005, la población se estimaba en 298.000 habitantes, con una densidad de 19.110 personas por km², en un área de 15,59 km² Por Nakano pasan los ríos Kanda, Myosho-ji y Zenpuku-ji, además del canal Aratama.</rdfs:comment>
+    <rdfs:comment xml:lang="en">Nakano (中野区 Nakano-ku) is a special ward in Tokyo, Japan. The English translation of its Japanese self-designation is Nakano City. As of May 1, 2015, the ward has an estimated population of 322,731 and a population density of 20,701 persons per km². The total area is 15.59 km².</rdfs:comment>
+    <rdfs:comment xml:lang="nl">Nakano (中野区,  Nakano-ku) is een van de 23 speciale wijken van Tokio. Nakano heeft de status van stad en noemt zich in het Engels ook Nakano City. In 2009 had de wijk 314540 inwoners. De bevolkingsdichtheid bedroeg 20176 inw./km². De oppervlakte van de wijk is 15,59 km².</rdfs:comment>
+    <rdfs:comment xml:lang="pl">Nakano (jap. 中野区 Nakano-ku) - jeden z 23 specjalnych okręgów (dzielnic) japońskiej stolicy Tokio.</rdfs:comment>
+    <rdfs:comment xml:lang="de">Nakano (jap. 中野区, -ku) ist einer der 23 Stadtbezirke Tokios, der Hauptstadt Japans.</rdfs:comment>
+    <rdfs:comment xml:lang="ja">中野区（なかのく）は、東京都の特別区のひとつで、23区西部に区分される。 郵便番号（上3桁）164・165</rdfs:comment>
+    <rdfs:comment xml:lang="it">Nakano (中野区 Nakano-ku?) è uno dei 23 quartieri speciali di Tōkyō. Nel 2005 la popolazione stimata era di 297.998 persone per una densità di 19.110 abitanti per km².</rdfs:comment>
+    <rdfs:comment xml:lang="zh">中野区（日语：中野区／なかのく Nakano ku */?）是日本人口密度最高的底层住宅区域，位處東京都西部。区内产业主要以第三产业的服务业为中心，而事业所及从业人员个数则处于东京23区的中下位。</rdfs:comment>
+    <rdfs:comment xml:lang="fr">Nakano (中野区, Nakano-ku) est un des 23 arrondissements spéciaux (区, ku) formant Tōkyō, au Japon. L&#39;arrondissement a été fondé le 1er octobre 1932. La population de l&#39;arrondissement est de 310 922 habitants dont 15 000 étrangers pour une superficie de 15,59 km2, la densité est de 19 944 habitants au km2 (mars 2011).</rdfs:comment>
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Nakano,_Tokyo" />
+    <owl:sameAs rdf:resource="http://nl.dbpedia.org/resource/Nakano_(Tokio)" />
+    <owl:sameAs rdf:resource="http://it.dbpedia.org/resource/Nakano_(Tōkyō)" />
+    <owl:sameAs rdf:resource="http://pl.dbpedia.org/resource/Nakano_(Tokio)" />
+    <owl:sameAs rdf:resource="http://id.dbpedia.org/resource/Nakano,_Tokyo" />
+    <owl:sameAs rdf:resource="http://ko.dbpedia.org/resource/나카노_구" />
+    <owl:sameAs rdf:resource="http://sws.geonames.org/8715035/" />
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.01wky7" />
+    <owl:sameAs rdf:resource="http://sws.geonames.org/1855848/" />
+    <owl:sameAs rdf:resource="http://fr.dbpedia.org/resource/Nakano" />
+    <owl:sameAs rdf:resource="http://es.dbpedia.org/resource/Nakano_(Tokio)" />
+    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/Nakano" />
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q234087" />
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q234087" />
+    <owl:sameAs rdf:resource="http://ja.dbpedia.org/resource/中野区" />
+    <owl:sameAs rdf:resource="http://eu.dbpedia.org/resource/Nakano" />
+    <owl:sameAs rdf:resource="http://yago-knowledge.org/resource/Nakano,_Tokyo" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Nakano,_Tokyo" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Wards_of_Tokyo" />
+    <dbo:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">328930</dbo:wikiPageID>
+    <dbo:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">723939067</dbo:wikiPageRevisionID>
+    <dbo:wikiPageExternalLink rdf:resource="http://www.city.tokyo-nakano.lg.jp" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.nakanojouganji.jp/rekisi_eng.html" />
+    <foaf:name xml:lang="en">Nakano City</foaf:name>
+    <foaf:name xml:lang="en">Nakano</foaf:name>
+    <foaf:homepage rdf:resource="http://www.city.tokyo-nakano.lg.jp" />
+    <foaf:depiction rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Nakano_Oka1.jpg" />
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Nakano,_Tokyo" />
+    <dbo:thumbnail rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Nakano_Oka1.jpg?width=300" />
+    <prov:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Nakano,_Tokyo?oldid=723939067" />
+    <dbo:abstract xml:lang="ar">25بك المحتوى هنا ينقصه الاستشهاد بمصادر. يرجى إيراد مصادر موثوق بها. أي معلومات غير موثقة يمكن التشكيك بها وإزالتها. (مارس 2016) ناكانو (باليابانية: 中野区 ناكانو-كو) وتعني &quot;حي ناكانو&quot; هو أحد أحياء طوكيو ال 23.</dbo:abstract>
+    <dbo:abstract xml:lang="nl">Nakano (中野区,  Nakano-ku) is een van de 23 speciale wijken van Tokio. Nakano heeft de status van stad en noemt zich in het Engels ook Nakano City. In 2009 had de wijk 314540 inwoners. De bevolkingsdichtheid bedroeg 20176 inw./km². De oppervlakte van de wijk is 15,59 km².</dbo:abstract>
+    <dbo:abstract xml:lang="de">Nakano (jap. 中野区, -ku) ist einer der 23 Stadtbezirke Tokios, der Hauptstadt Japans.</dbo:abstract>
+    <dbo:abstract xml:lang="ru">Нака́но (яп. 中野区 Накано-ку) — один из 23 специальных районов Токио.</dbo:abstract>
+    <dbo:abstract xml:lang="pl">Nakano (jap. 中野区 Nakano-ku) - jeden z 23 specjalnych okręgów (dzielnic) japońskiej stolicy Tokio.</dbo:abstract>
+    <dbo:abstract xml:lang="en">Nakano (中野区 Nakano-ku) is a special ward in Tokyo, Japan. The English translation of its Japanese self-designation is Nakano City. As of May 1, 2015, the ward has an estimated population of 322,731 and a population density of 20,701 persons per km². The total area is 15.59 km².</dbo:abstract>
+    <dbo:abstract xml:lang="ja">中野区（なかのく）は、東京都の特別区のひとつで、23区西部に区分される。 郵便番号（上3桁）164・165</dbo:abstract>
+    <dbo:abstract xml:lang="fr">Nakano (中野区, Nakano-ku) est un des 23 arrondissements spéciaux (区, ku) formant Tōkyō, au Japon. L&#39;arrondissement a été fondé le 1er octobre 1932. La population de l&#39;arrondissement est de 310 922 habitants dont 15 000 étrangers pour une superficie de 15,59 km2, la densité est de 19 944 habitants au km2 (mars 2011).</dbo:abstract>
+    <dbo:abstract xml:lang="es">Nakano (中野区 Nakano-ku?) es uno de los 23 barrios especiales de Tokio, Japón. Es común que se autodenomine en otros idiomas como &quot;Ciudad de Nakano&quot;. En 2005, la población se estimaba en 298.000 habitantes, con una densidad de 19.110 personas por km², en un área de 15,59 km² Por Nakano pasan los ríos Kanda, Myosho-ji y Zenpuku-ji, además del canal Aratama. El barrio fue creado como barrio ordinario el 1 de octubre de 1932, con la fusión de los pueblos de Nogata y Nakano, como parte de la antigua ciudad de Tokio. El 15 de marzo de 1947, Nakano pasó a ser un barrio especial. Nakano es el lugar de nacimiento del compositor Ryuichi Sakamoto.</dbo:abstract>
+    <dbo:abstract xml:lang="it">Nakano (中野区 Nakano-ku?) è uno dei 23 quartieri speciali di Tōkyō. Nel 2005 la popolazione stimata era di 297.998 persone per una densità di 19.110 abitanti per km².</dbo:abstract>
+    <dbo:abstract xml:lang="zh">中野区（日语：中野区／なかのく Nakano ku */?）是日本人口密度最高的底层住宅区域，位處東京都西部。区内产业主要以第三产业的服务业为中心，而事业所及从业人员个数则处于东京23区的中下位。</dbo:abstract>
+    <dbo:populationAsOf rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2015-05-01</dbo:populationAsOf>
+    <dbo:populationTotal rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">322731</dbo:populationTotal>
+    <dbo:region rdf:resource="http://dbpedia.org/resource/Kantō_region" />
+    <dbo:type rdf:resource="http://dbpedia.org/resource/Special_wards_of_Tokyo" />
+    <dbp:areaKm rdf:datatype="http://www.w3.org/2001/XMLSchema#double">15.59</dbp:areaKm>
+    <dbp:densityKm rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">auto</dbp:densityKm>
+    <dbp:flower rdf:resource="http://dbpedia.org/resource/Azalea" />
+    <dbp:imageCaption rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Skyline around Nakano station</dbp:imageCaption>
+    <dbp:imageFlag rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Flag of Nakano, Tokyo.svg</dbp:imageFlag>
+    <dbp:imageMap rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Nakano-ku in Tokyo Prefecture Ja.svg</dbp:imageMap>
+    <dbp:imageSkyline rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Nakano Oka1.jpg</dbp:imageSkyline>
+    <dbp:latDeg rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">35</dbp:latDeg>
+    <dbp:latMin rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">42</dbp:latMin>
+    <dbp:latSec rdf:datatype="http://www.w3.org/2001/XMLSchema#double">26.63</dbp:latSec>
+    <dbp:lonDeg rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">139</dbp:lonDeg>
+    <dbp:lonMin rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">39</dbp:lonMin>
+    <dbp:lonSec rdf:datatype="http://www.w3.org/2001/XMLSchema#double">49.81</dbp:lonSec>
+    <dbp:mayor rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Daisuke Tanaka</dbp:mayor>
+    <dbp:tree rdf:resource="http://dbpedia.org/resource/Castanopsis" />
+    <dbp:cityHallAddress rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</dbp:cityHallAddress>
+    <dbp:cityHallPostalCode rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">164</dbp:cityHallPostalCode>
+    <dbp:prefecture rdf:resource="http://dbpedia.org/resource/Tokyo" />
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Ward" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yuji_Tanaka">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Nakano,_Tokyo" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Daisuke_Gōri">
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Nakano,_Tokyo" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kentaro_Shigematsu">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Nakano,_Tokyo" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Masatō_Ibu">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Nakano,_Tokyo" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ray_Fujita">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Nakano,_Tokyo" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nobuo_Matsuno">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Nakano,_Tokyo" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tokyo_Polytechnic_University">
+    <dbo:campus rdf:resource="http://dbpedia.org/resource/Nakano,_Tokyo" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kanako_Yanagihara">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Nakano,_Tokyo" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Masaru_Nashimoto">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Nakano,_Tokyo" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hosen_Gakuen_College">
+    <dbo:city rdf:resource="http://dbpedia.org/resource/Nakano,_Tokyo" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Miss_International_2001">
+    <dbp:venue rdf:resource="http://dbpedia.org/resource/Nakano,_Tokyo" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Shoko_Sawada">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Nakano,_Tokyo" />
+    <dbo:hometown rdf:resource="http://dbpedia.org/resource/Nakano,_Tokyo" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Seven_Arcs">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Nakano,_Tokyo" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Milk_Ichigo">
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Nakano,_Tokyo" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Takahiro_Yamaguchi">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Nakano,_Tokyo" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/San&#39;yūtei_Enraku_V">
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Nakano,_Tokyo" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kazushi_Hagiwara">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Nakano,_Tokyo" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/New_Japan_Pro_Wrestling">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Nakano,_Tokyo" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mayumi_Kojima">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Nakano,_Tokyo" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/TMS_Entertainment">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Nakano,_Tokyo" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hideo_Kachi">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Nakano,_Tokyo" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ken_Mogi">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Nakano,_Tokyo" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Masa_Saito">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Nakano,_Tokyo" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Public_Pressure">
+    <dbo:recordedIn rdf:resource="http://dbpedia.org/resource/Nakano,_Tokyo" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Saturnight">
+    <dbo:recordedIn rdf:resource="http://dbpedia.org/resource/Nakano,_Tokyo" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hibiki_Yoshizaki">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Nakano,_Tokyo" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Madhouse_(company)">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Nakano,_Tokyo" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mercian_Corporation">
+    <dbo:locationCity rdf:resource="http://dbpedia.org/resource/Nakano,_Tokyo" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Pro_Wrestling_Wave">
+    <dbp:location rdf:resource="http://dbpedia.org/resource/Nakano,_Tokyo" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ufotable">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Nakano,_Tokyo" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Live_in_Japan_(Sarah_Vaughan_album)">
+    <dbo:recordedIn rdf:resource="http://dbpedia.org/resource/Nakano,_Tokyo" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nakano-ku,_Tokyo">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Nakano,_Tokyo" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Rieko_Miura">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Nakano,_Tokyo" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Michiyo_Yasuda">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Nakano,_Tokyo" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yoko_Yamamoto">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Nakano,_Tokyo" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nobuyoshi_Hosokawa">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Nakano,_Tokyo" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ryota_Inoue_(footballer)">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Nakano,_Tokyo" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nakano_Broadway">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Nakano,_Tokyo" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Nakano,_Tokyo">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Nakano,_Tokyo" />
+  </rdf:Description>
+</rdf:RDF>

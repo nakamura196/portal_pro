@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:dct="http://purl.org/dc/terms/"
+	xmlns:dbo="http://dbpedia.org/ontology/"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:prov="http://www.w3.org/ns/prov#"
+	xmlns:georss="http://www.georss.org/georss/"
+	xmlns:ns9="http://purl.org/linguistics/gold/" >
+  <rdf:Description rdf:about="http://dbpedia.org/resource/University_of_Tokyo,_Komaba_Campus">
+    <rdf:type rdf:resource="http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/University" />
+    <rdfs:label xml:lang="en">University of Tokyo, Komaba Campus</rdfs:label>
+    <rdfs:label xml:lang="ja">東京大学駒場地区キャンパス</rdfs:label>
+    <rdfs:comment xml:lang="ja">東京大学 &gt; 東京大学駒場地区キャンパス 東京大学 駒場地区キャンパス（とうきょうだいがく こまばちくキャンパス）は、東京都目黒区駒場に所在する東京大学のキャンパスの一つであり、同大学の本郷地区キャンパス・柏地区キャンパスと並ぶ規模をもつ。「駒場キャンパス」あるいは「駒場」とも呼ばれる。</rdfs:comment>
+    <rdfs:comment xml:lang="en">The University of Tokyo, Komaba Campus is one of the five university campuses and home to the department of the College of Arts and Sciences, the Graduate School of Arts and Sciences, the Graduate School of Mathematical Sciences, and a number of advanced research facilities and campus services. It is the campus for all freshmen and sophomores in undergraduate school. Every University of Tokyo student spends at least two years in the Komaba Campus. University of Tokyo is the only university in Japan that has a system of two years of general education before the students choose their majors. In this system, the Komaba Campus is the cornerstone of the general education, and was designated as the “center of excellence” for three new areas of research by the Japanese Ministry of Education and S</rdfs:comment>
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q7896466" />
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q7896466" />
+    <owl:sameAs rdf:resource="http://ja.dbpedia.org/resource/東京大学駒場地区キャンパス" />
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/University_of_Tokyo,_Komaba_Campus" />
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.03m7d4k" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:University_of_Tokyo" />
+    <dbo:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">15409922</dbo:wikiPageID>
+    <dbo:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">734963428</dbo:wikiPageRevisionID>
+    <dbo:wikiPageExternalLink rdf:resource="http://www.a103.net/komabasai" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.ut-life.net/" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.undou-kai.com/club/senseki.htm" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.c.u-tokyo.ac.jp/" />
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#float">35.6606</geo:lat>
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#float">139.684</geo:long>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/University_of_Tokyo,_Komaba_Campus" />
+    <geo:geometry rdf:datatype="http://www.openlinksw.com/schemas/virtrdf#Geometry">POINT(139.68360900879 35.660556793213)</geo:geometry>
+    <prov:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/University_of_Tokyo,_Komaba_Campus?oldid=734963428" />
+    <dbo:abstract xml:lang="en">The University of Tokyo, Komaba Campus is one of the five university campuses and home to the department of the College of Arts and Sciences, the Graduate School of Arts and Sciences, the Graduate School of Mathematical Sciences, and a number of advanced research facilities and campus services. It is the campus for all freshmen and sophomores in undergraduate school. Every University of Tokyo student spends at least two years in the Komaba Campus. University of Tokyo is the only university in Japan that has a system of two years of general education before the students choose their majors. In this system, the Komaba Campus is the cornerstone of the general education, and was designated as the “center of excellence” for three new areas of research by the Japanese Ministry of Education and Science. There are over 7,000 students in the junior division (freshmen and sophomores) for College of Arts and Sciences, about 450 students in the senior division, and 1,400 graduate students.</dbo:abstract>
+    <dbo:abstract xml:lang="ja">東京大学 &gt; 東京大学駒場地区キャンパス 東京大学 駒場地区キャンパス（とうきょうだいがく こまばちくキャンパス）は、東京都目黒区駒場に所在する東京大学のキャンパスの一つであり、同大学の本郷地区キャンパス・柏地区キャンパスと並ぶ規模をもつ。「駒場キャンパス」あるいは「駒場」とも呼ばれる。</dbo:abstract>
+    <georss:point>35.660555555555554 139.6836111111111</georss:point>
+    <ns9:hypernym rdf:resource="http://dbpedia.org/resource/Campuses" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/University_of_Tokyo,_Komaba_Campus">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/University_of_Tokyo,_Komaba_Campus" />
+  </rdf:Description>
+</rdf:RDF>

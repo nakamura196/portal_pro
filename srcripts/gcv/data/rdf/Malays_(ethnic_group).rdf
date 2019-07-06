@@ -1,0 +1,394 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:dct="http://purl.org/dc/terms/"
+	xmlns:dbo="http://dbpedia.org/ontology/"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:prov="http://www.w3.org/ns/prov#"
+	xmlns:dbp="http://dbpedia.org/property/"
+	xmlns:ns8="http://purl.org/linguistics/gold/" >
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Karo_people_(Indonesia)">
+    <dbo:related rdf:resource="http://dbpedia.org/resource/Malays_(ethnic_group)" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Budu_(sauce)">
+    <dbo:creatorOfDish rdf:resource="http://dbpedia.org/resource/Malays_(ethnic_group)" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mohamed_Rahmat">
+    <dbp:ethnicity rdf:resource="http://dbpedia.org/resource/Malays_(ethnic_group)" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Malay_customs">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Malays_(ethnic_group)" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Minangkabau_people">
+    <dbp:relatedC rdf:resource="http://dbpedia.org/resource/Malays_(ethnic_group)" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Malays_in_Egypt">
+    <dbp:relatedC rdf:resource="http://dbpedia.org/resource/Malays_(ethnic_group)" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Batak">
+    <dbo:related rdf:resource="http://dbpedia.org/resource/Malays_(ethnic_group)" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ahmad_Albab">
+    <dbo:language rdf:resource="http://dbpedia.org/resource/Malays_(ethnic_group)" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Betawi_people">
+    <dbo:related rdf:resource="http://dbpedia.org/resource/Malays_(ethnic_group)" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Geography_of_Madagascar">
+    <dbo:ethnicGroup rdf:resource="http://dbpedia.org/resource/Malays_(ethnic_group)" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sumatra">
+    <dbo:ethnicGroup rdf:resource="http://dbpedia.org/resource/Malays_(ethnic_group)" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bengkulu">
+    <dbp:demographics1Info rdf:resource="http://dbpedia.org/resource/Malays_(ethnic_group)" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Riau">
+    <dbp:demographics1Info rdf:resource="http://dbpedia.org/resource/Malays_(ethnic_group)" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nias">
+    <dbo:ethnicGroup rdf:resource="http://dbpedia.org/resource/Malays_(ethnic_group)" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Banjar_people">
+    <dbo:related rdf:resource="http://dbpedia.org/resource/Malays_(ethnic_group)" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nasi_tumpang">
+    <dbo:creatorOfDish rdf:resource="http://dbpedia.org/resource/Malays_(ethnic_group)" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ethnic_Malay">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Malays_(ethnic_group)" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bahulu">
+    <dbo:creatorOfDish rdf:resource="http://dbpedia.org/resource/Malays_(ethnic_group)" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Malay_(ethnic_group)">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Malays_(ethnic_group)" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Cocos_Malays">
+    <dbo:related rdf:resource="http://dbpedia.org/resource/Malays_(ethnic_group)" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Malay">
+    <dbo:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/Malays_(ethnic_group)" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Malays_(ethnic_group)">
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatEthnoreligiousGroups" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatEthnicGroupsInSumatra" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Group100031264" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Abstraction100002137" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatEthnicGroupsInMalaysia" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatEthnicGroupsInSarawak" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatEthnicGroupsInSoutheastAsia" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Band" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatEthnicGroupsInBrunei" />
+    <rdf:type rdf:resource="http://umbel.org/umbel/rc/CommunityOrganization" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/EthnicGroup107967382" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/EthnicGroup" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q41710" />
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing" />
+    <rdfs:label xml:lang="ja">マレー人</rdfs:label>
+    <rdfs:label xml:lang="en">Malays (ethnic group)</rdfs:label>
+    <rdfs:label xml:lang="de">Malaien</rdfs:label>
+    <rdfs:label xml:lang="zh">马来族</rdfs:label>
+    <rdfs:label xml:lang="ar">الملايو (شعب)</rdfs:label>
+    <rdfs:label xml:lang="es">Etnia malaya</rdfs:label>
+    <rdfs:label xml:lang="pt">Malaios</rdfs:label>
+    <rdfs:label xml:lang="fr">Malais (peuple)</rdfs:label>
+    <rdfs:label xml:lang="pl">Malajowie</rdfs:label>
+    <rdfs:label xml:lang="it">Malesi</rdfs:label>
+    <rdfs:label xml:lang="ru">Малайцы</rdfs:label>
+    <rdfs:label xml:lang="nl">Maleiers</rdfs:label>
+    <rdfs:comment xml:lang="ru">Малайцы: 1.  
+*  Собственно малайцы — австронезийский народ в Юго-Восточной Азии, говорящий на малайском языке австронезийской семьи языков. В древности малайцы пользовались южноиндийской письменностью, с 14—15 вв. — арабским алфавитом. Регионы со значительным числом малайского населения: Бруней, Тимор, Индонезия, Мадагаскар, Малайзия, Филиппины, Сингапур, Паттани (в Таиланде). Другие регионы, где живут малайцы: Австралия, Канада, Коморы, Германия, Япония, Мьянма, Нидерланды, Палау, Саудовская Аравия, Южная Африка, Хайнань, Гонконг, Майотта, Новая Каледония, Северные Марианские острова, Реюньон. 2.  
+*  Родственные малайцам народы малайско-полинезийской ветви языков. Иногда этот термин употребляют и в таком, более широком смысле. Языки: малайский, индонезийский, тагальский, яванский, тетум</rdfs:comment>
+    <rdfs:comment xml:lang="ja">マレー人とは、本来はマレー半島、スマトラ島東海岸、ボルネオ島沿岸部などに住んでマレー語を話し、マレー人と自称する人々（民族）のことを指し、マレー語ではムラユ Melayu と呼ぶ。漢字では馬来人と表記した。移住により南アフリカの人種構成にも影響を与えた。 広義には台湾（台湾原住民）を原住地として、マレーシア、シンガポール、ブルネイ、インドネシア、フィリピン、タイ南部、カンボジアの一部など東南アジア島嶼部（マレー諸島）の国々に住む人々の総称であるが、これは人種的な意味（南方系古モンゴロイドのインドシナ人種とオーストラロイドの混血であるインドネシア・マレー人種）で用いることが多い。</rdfs:comment>
+    <rdfs:comment xml:lang="es">Los malayos son cualquier miembro de un grupo étnico que probablemente provienen de Borneo y se expandieron dentro de Sumatra y la península de Malaca. Constituyen más de la mitad de la población de la Malasia Peninsular. Son principalmente gente rural, sembrando arroz para alimentación y caucho como cultivo comercial. Fuertemente influenciados por la India, fueron hinduizados antes de convertirse al islam en el siglo XV. Su cultura ha sido también afectada por las culturas tai, javanesa y la de Sumatra. La sociedad malaya ha sido tradicionalmente algo feudal; la distinción de clases sigue siendo designada y los matrimonios arreglados por los parientes, bajo regencia de la ley islámica.</rdfs:comment>
+    <rdfs:comment xml:lang="nl">De Maleiers vormen de grootste bevolkingsgroep in Zuidoost-Azië. In Maleisië noemen de Maleiers zichzelf orang Melayu.</rdfs:comment>
+    <rdfs:comment xml:lang="pt">Os malaios (em malaio Melayu) são um grupo étnico austronésio que vivem predominantemente na Península Malaia e partes das ilhas de Sumatra e Bornéu. O grupo étnico malaio distingue-se do conceito de &quot;raça malaia&quot; que abrange um grupo mais extenso de povos, incluindo indonésios, filipinos e os malgaxes (grupo étnico predominante em Madagascar). Malásia, Indonésia e Brunei professam quase em sua totalidade a fé muçulmana, enquanto as Filipinas e Timor-Leste são países de maioria católica romana.</rdfs:comment>
+    <rdfs:comment xml:lang="fr">MalaisFichier:COLLECTIE TROPENMUSEUM De prinsen van Deli Langkat en Serdang TMnr 10001178.jpg Les princes des sultanats de Deli, Langkat et Serdang à l&#39;époque des Indes néerlandaises On appelle Malais (orang Melayu) les populations de la côte est de l&#39;île indonésienne de Sumatra, des îles Riau, également indonésiennes, du littoral de l&#39;île de Bornéo, de la péninsule Malaise, de Singapour et du sud de la Thaïlande (provinces de Yala, Pattani, Narathiwat et Songkhla) qui parlent des langues appartenant au groupe linguistique dit &quot;malais&quot;.</rdfs:comment>
+    <rdfs:comment xml:lang="zh">马来族（马来语：Melayu），习惯上多称为马来人，分布于东南亚。马来族有狭义和广义之分，前者指分布于婆罗洲、马来半岛南部及苏门答腊东南部的一个民族，该民族在马来西亚人口最多，又称巫族。而广义上，马来族有时候也用来指馬來語（印尼語）族群甚至整个南島語系族群。 从15世纪馬六甲蘇丹王朝始，大量马来人由古代印度教转為皈依伊斯蘭教，主要分布于东南亚的马来半岛、圣诞岛、科科斯（基林）群岛、印度尼西亚、新加坡、文莱、菲律賓和大洋洲等。菲律賓的马来人由於西班牙殖民緣故而信奉天主教（除了摩洛人）。 中華民國行政院原住民族委員會在介紹台灣原住民與世界南島語系民族的關係時表明「台灣原住民族屬於南島語系，在人種上屬馬來人，台灣是南島語族分佈的最北端」。除此之外，南島語系民族還分佈在非洲的南非與馬達加斯加。</rdfs:comment>
+    <rdfs:comment xml:lang="pl">Malajowie - zróżnicowana grupa etniczna zamieszkująca Półwysep Malajski oraz część Archipelagu Malajskiego, tereny współczesnej Malezji, Singapuru, Brunei, Indonezji i Tajlandii. Wskutek imigracji (głównie z Chin i południowej Azji), stali się mniejszością w Singapurze. Zajmują się myślistwem, rybołówstwem, handlem morskim. Mają rozwinięte rzemiosło (tkactwo, ceramika) oraz bogaty folklor (m.in. lalkowy teatr cieni). Posługują się językiem malajskim. W większości wyznają islam w odmianie sunnickiej, który jest elementem ich tożsamości etnicznej.</rdfs:comment>
+    <rdfs:comment xml:lang="en">Malays (Malay: Orang Melayu, Jawi: اورڠ ملايو) are an ethnic group of Austronesian peoples predominantly inhabiting the Malay Peninsula, eastern Sumatra and coastal Borneo, as well as the smaller islands which lie between these locations — areas that are collectively known as the Malay world. These locations today are part of the modern nations of Malaysia, Indonesia, Singapore, Brunei, and southern Thailand.</rdfs:comment>
+    <rdfs:comment xml:lang="it">I malesi (in malese: Melayu) sono un gruppo etnico che per lo più abita la penisola malese, la costa orientale di Sumatra e la costa del Borneo. Oltre alla Malesia, dove rappresentano il 60,3% della popolazione, gli stati in cui si trovano comunità malesi sono Singapore, Brunei, la Birmania del Sud, la Thailandia del Sud e l&#39;Indonesia occidentale.</rdfs:comment>
+    <rdfs:comment xml:lang="ar">الملايو وهُم مَجموعة عِرقية من الشعوب الأسترونيزية ويَعيشون في شبه جزيرة ملايو (ماليزيا حالياً) وفي جزيرة سومطرة (إندونيسيا حالياً) و جزيرة سنغافورة وفي أقصى جنوب تايلاند وعلى السواحل الجنوبية لبورما وفي سواحل جزيرة بورنيو المقسمة بين إندونيسيا و ماليزيا ومن ضمنها بروناي وفي كالمنتان الغربية و سواحل سراوق و صباح ويسمي الملايون هذه الجزر بعالم ملايو، والملايو اليوم منتشرون في دول من ماليزيا و إندونيسيا و سنغافورة و بروناي و ميانمار و تايلاند، أسس الملايو في السابق سلطنة ملقا ويَبلُغ تِعدادَهم الآن حوالي 27.8 مليون نسمة، منهم 14,749,378 في ماليزيا و 8,789,585 في إندونيسيا و 3,354,475 في تايلاند و 653,449 في سنغافورة و 261,902 في بروناي ويتكلمون باللغة الملاوية ويعتنق أغلبهم الإسلام بمذهبهِ السني.</rdfs:comment>
+    <rdfs:comment xml:lang="de">Die Malaien (Orang Melayu) sind eine Ethnie in Südostasien. Sie gehören zu den austronesischen Volksgruppen und sprechen die malaiische Sprache, deren moderne Ausprägungen das Malaysische und das Indonesische sind. Heute werden etwa 22 Millionen Menschen zu den Malaien gezählt, welche hauptsächlich auf der Malaiischen Halbinsel, im Osten von Sumatra und an den Küsten Borneos leben. Die Bevölkerungsmehrheit stellen die Malaien in Malaysia (50,4 %), im Sultanat Brunei (66 %) sowie in den drei südlichsten Provinzen Thailands (dort bis zu 88 %). Die große Mehrheit der Malaien (&gt; 99,9 %) sind sunnitische Muslime.</rdfs:comment>
+    <owl:differentFrom rdf:resource="http://dbpedia.org/resource/Malaysians" />
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Rumah_Melayu" />
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/South_Thailand_insurgency" />
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Jawi_alphabet" />
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Malay_Islamic_identity" />
+    <owl:sameAs rdf:resource="http://fr.dbpedia.org/resource/Malais_(peuple)" />
+    <owl:sameAs rdf:resource="http://ja.dbpedia.org/resource/マレー人" />
+    <owl:sameAs rdf:resource="http://cs.dbpedia.org/resource/Malajci" />
+    <owl:sameAs rdf:resource="http://nl.dbpedia.org/resource/Maleiers" />
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q142702" />
+    <owl:sameAs rdf:resource="http://es.dbpedia.org/resource/Etnia_malaya" />
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q142702" />
+    <owl:sameAs rdf:resource="http://pt.dbpedia.org/resource/Malaios" />
+    <owl:sameAs rdf:resource="http://ko.dbpedia.org/resource/말레이_민족" />
+    <owl:sameAs rdf:resource="http://yago-knowledge.org/resource/Ethnic_Malays" />
+    <owl:sameAs rdf:resource="http://eu.dbpedia.org/resource/Malaysiar_herria" />
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Malays_(ethnic_group)" />
+    <owl:sameAs rdf:resource="http://id.dbpedia.org/resource/Suku_Melayu" />
+    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/Malaien" />
+    <owl:sameAs rdf:resource="http://pl.dbpedia.org/resource/Malajowie" />
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.01pn8r" />
+    <owl:sameAs rdf:resource="http://it.dbpedia.org/resource/Malesi" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Maritime_Southeast_Asia" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Malay_Peninsula" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Malaya" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Ethnic_groups_in_Southeast_Asia" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Ethnic_groups_in_Sarawak" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Ethnic_groups_in_Sumatra" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Ethnic_groups_in_Malaysia" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Ethnic_groups_in_Brunei" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Malay_people" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Ethnoreligious_groups_in_Asia" />
+    <dbo:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">279720</dbo:wikiPageID>
+    <dbo:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">745076368</dbo:wikiPageRevisionID>
+    <dbo:wikiPageExternalLink rdf:resource="http://www.hbp.usm.my/conservation/malayvernacular.htm" />
+    <dbo:wikiPageExternalLink rdf:resource="http://digitaleprints.um.edu.my/493/3/BAB2.pdf" />
+    <dbo:wikiPageExternalLink rdf:resource="http://news.bbc.co.uk/2/hi/8406506.stm" />
+    <dbo:wikiPageExternalLink rdf:resource="http://asalehudin.wordpress.com/2009/04/25/serampang-duabelas-tari-tradisional-melayu-kesultanan-serdang-sumatra-utara/" />
+    <dbo:wikiPageExternalLink rdf:resource="https://www.cia.gov/library/publications/the-world-factbook/geos/bx.html" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.pereplet.ru/news/index.cgi?id=30786#30786" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.pelitabrunei.gov.bn/news/pelita/01julai/berita14.htm" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.kkbs.gov.bn/html/pakaian_tradisi.htm" />
+    <dbo:wikiPageExternalLink rdf:resource="http://iussp.org/sites/default/files/event_call_for_papers/IUSSP%20Ethnicity%20Indonesia%20Poster%20Section%20G%202708%202013%20revised.pdf" />
+    <dbo:wikiPageExternalLink rdf:resource="http://fabserver.utm.my/download/ConferenceSemiar/SelectingTimber.pdf" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.usm.my/index.php/about-usm/news-archive/67-papercutting-/7078-New-interest-in-an-older-Lembah-Bujang-.html" />
+    <dbo:wikiPageExternalLink rdf:resource="https://books.google.com/books?id=lmazmo6_RYMC" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.asianscholarship.org/asf/ejourn/articles/umaiyah_haji_umar.doc" />
+    <dbo:wikiPageExternalLink rdf:resource="https://www.cia.gov/library/publications/the-world-factbook/geos/sn.html" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.royalark.net/Malaysia/malacca.htm" />
+    <dbo:wikiPageExternalLink rdf:resource="http://thestar.com.my/news/story.asp?file=/2008/8/26/nation/22168989&amp;sec=nation" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.omniglot.com/writing/malay.htm" />
+    <dbo:wikiPageExternalLink rdf:resource="http://kcm.co.kr/bethany_eng/clusters/8101.html" />
+    <dbo:wikiPageExternalLink rdf:resource="http://kcm.co.kr/bethany_eng/p_code3/1892.html" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.youtube.com/watch?v=7ZCHUMYs2CM&amp;feature=plcp" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.coac.org.my/codenavia/portals/coacv2/code/main/main_art.php?parentID=11374494101180&amp;artID=11432750280711" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.guoxue.com/shibu/24shi/yuanshi/yuas_210.htm" />
+    <dbo:wikiPageExternalLink rdf:resource="http://sp2010.bps.go.id/files/ebook/kewarganegaraan%20penduduk%20indonesia/" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.malaysianmonarchy.org.my/malaysianmonarchy/?q=en/dress" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.sabrizain.org/malaya/library/bkmlang.pdf" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.sabrizain.org/malaya/library/documents/146A9E1B75DB8163AE2228D170EC7D871787832B.html" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.malaysia.com/nasi-lemak-food.html" />
+    <dbo:wikiPageExternalLink rdf:resource="http://melayuonline.com/eng/about/dig/2" />
+    <dbo:wikiPageExternalLink rdf:resource="http://kebunketereh.com/?p=387" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.mysarawak.org/2009/04/20/seni-bermukun-semakin-malap.html" />
+    <dbo:wikiPageExternalLink rdf:resource="http://worldpopulationreview.com/countries/thailand-population/" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www1.american.edu/ted/malayprk.htm" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.sabrizain.org/malaya/early.htm" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.epu.gov.my/html/themes/epu/images/common/pdf/eco_stat/pdf/1.2.5.pdf" />
+    <dbo:wikiPageExternalLink rdf:resource="http://us.detikfood.com/read/2010/06/21/160229/1382992/908/gulai-ketam-asam-asam-pedas" />
+    <dbo:wikiPageExternalLink rdf:resource="https://books.google.com/books?id=9HUDXkJIE3EC&amp;pg=PT841" />
+    <dbo:wikiPageExternalLink rdf:resource="http://eprints.utm.my/1421/1/JT37B4.pdf" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.scribd.com/doc/82001895" />
+    <foaf:name xml:lang="en">Malays</foaf:name>
+    <foaf:name xml:lang="en">اورڠ ملايو</foaf:name>
+    <foaf:name xml:lang="en">Orang Melayu</foaf:name>
+    <foaf:depiction rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Malay_couple.jpg" />
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Malays_(ethnic_group)" />
+    <dbo:thumbnail rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Malay_couple.jpg?width=300" />
+    <prov:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Malays_(ethnic_group)?oldid=745076368" />
+    <dbo:abstract xml:lang="pl">Malajowie - zróżnicowana grupa etniczna zamieszkująca Półwysep Malajski oraz część Archipelagu Malajskiego, tereny współczesnej Malezji, Singapuru, Brunei, Indonezji i Tajlandii. Wskutek imigracji (głównie z Chin i południowej Azji), stali się mniejszością w Singapurze. Zajmują się myślistwem, rybołówstwem, handlem morskim. Mają rozwinięte rzemiosło (tkactwo, ceramika) oraz bogaty folklor (m.in. lalkowy teatr cieni). Posługują się językiem malajskim. W większości wyznają islam w odmianie sunnickiej, który jest elementem ich tożsamości etnicznej.</dbo:abstract>
+    <dbo:abstract xml:lang="zh">马来族（马来语：Melayu），习惯上多称为马来人，分布于东南亚。马来族有狭义和广义之分，前者指分布于婆罗洲、马来半岛南部及苏门答腊东南部的一个民族，该民族在马来西亚人口最多，又称巫族。而广义上，马来族有时候也用来指馬來語（印尼語）族群甚至整个南島語系族群。 从15世纪馬六甲蘇丹王朝始，大量马来人由古代印度教转為皈依伊斯蘭教，主要分布于东南亚的马来半岛、圣诞岛、科科斯（基林）群岛、印度尼西亚、新加坡、文莱、菲律賓和大洋洲等。菲律賓的马来人由於西班牙殖民緣故而信奉天主教（除了摩洛人）。 中華民國行政院原住民族委員會在介紹台灣原住民與世界南島語系民族的關係時表明「台灣原住民族屬於南島語系，在人種上屬馬來人，台灣是南島語族分佈的最北端」。除此之外，南島語系民族還分佈在非洲的南非與馬達加斯加。</dbo:abstract>
+    <dbo:abstract xml:lang="nl">De Maleiers vormen de grootste bevolkingsgroep in Zuidoost-Azië. In Maleisië noemen de Maleiers zichzelf orang Melayu.</dbo:abstract>
+    <dbo:abstract xml:lang="es">Los malayos son cualquier miembro de un grupo étnico que probablemente provienen de Borneo y se expandieron dentro de Sumatra y la península de Malaca. Constituyen más de la mitad de la población de la Malasia Peninsular. Son principalmente gente rural, sembrando arroz para alimentación y caucho como cultivo comercial. Fuertemente influenciados por la India, fueron hinduizados antes de convertirse al islam en el siglo XV. Su cultura ha sido también afectada por las culturas tai, javanesa y la de Sumatra. La sociedad malaya ha sido tradicionalmente algo feudal; la distinción de clases sigue siendo designada y los matrimonios arreglados por los parientes, bajo regencia de la ley islámica.</dbo:abstract>
+    <dbo:abstract xml:lang="ar">الملايو وهُم مَجموعة عِرقية من الشعوب الأسترونيزية ويَعيشون في شبه جزيرة ملايو (ماليزيا حالياً) وفي جزيرة سومطرة (إندونيسيا حالياً) و جزيرة سنغافورة وفي أقصى جنوب تايلاند وعلى السواحل الجنوبية لبورما وفي سواحل جزيرة بورنيو المقسمة بين إندونيسيا و ماليزيا ومن ضمنها بروناي وفي كالمنتان الغربية و سواحل سراوق و صباح ويسمي الملايون هذه الجزر بعالم ملايو، والملايو اليوم منتشرون في دول من ماليزيا و إندونيسيا و سنغافورة و بروناي و ميانمار و تايلاند، أسس الملايو في السابق سلطنة ملقا ويَبلُغ تِعدادَهم الآن حوالي 27.8 مليون نسمة، منهم 14,749,378 في ماليزيا و 8,789,585 في إندونيسيا و 3,354,475 في تايلاند و 653,449 في سنغافورة و 261,902 في بروناي ويتكلمون باللغة الملاوية ويعتنق أغلبهم الإسلام بمذهبهِ السني.</dbo:abstract>
+    <dbo:abstract xml:lang="fr">MalaisFichier:COLLECTIE TROPENMUSEUM De prinsen van Deli Langkat en Serdang TMnr 10001178.jpg Les princes des sultanats de Deli, Langkat et Serdang à l&#39;époque des Indes néerlandaises On appelle Malais (orang Melayu) les populations de la côte est de l&#39;île indonésienne de Sumatra, des îles Riau, également indonésiennes, du littoral de l&#39;île de Bornéo, de la péninsule Malaise, de Singapour et du sud de la Thaïlande (provinces de Yala, Pattani, Narathiwat et Songkhla) qui parlent des langues appartenant au groupe linguistique dit &quot;malais&quot;. Toutefois, le fait de parler une langue appartenant à ce groupe linguistique ne suffit pas à caractériser un Malais. C&#39;est évident pour les locuteurs de langues classées &quot;Trade Malay&quot; (&quot;malais du commerce&quot;). Mais des populations voisines des Malais, comme les Minangkabau de l&#39;ouest de Sumatra ou les Musi de la région de Palembang dans le sud de Sumatra, ne se considèrent pas comme &quot;Malais&quot; qui est en l&#39;occurrence un terme identitaire. Il faut en outre insister sur le fait que les Malais n&#39;habitent pas uniquement la péninsule Malaise, qui n&#39;est d&#39;ailleurs pas le territoire d&#39;origine des Malais. Malayu désignait d&#39;ailleurs un royaume de l&#39;est de Sumatra, dont le nom est attesté par des textes chinois dès le VIIe siècle de notre ère. Quant au nom de &quot;Malaisie&quot; (Tanah Melayu), d&#39;un point de vue malaisien, il désigne seulement la partie malaisienne de la péninsule de Malacca. Mais en français, &quot;Malaisie&quot; désigne aussi la fédération (Persekutuan Malaysia), qui outre la péninsule, comprend les Etats de Sabah et Sarawak dans le nord de Bornéo (le nom local de la fédération est &quot;Malaysia&quot;). Le nom &quot;Malaisie&quot; a pour origine l&#39;expression Malaisie britannique (British Malaya en anglais), créée au XIXe siècle pour désigner les sultanats de la péninsule sous protectorat britannique, et pour les distinguer des sultanats malais de Sumatra et du sud de Bornéo, sous souveraineté néerlandaise.</dbo:abstract>
+    <dbo:abstract xml:lang="de">Die Malaien (Orang Melayu) sind eine Ethnie in Südostasien. Sie gehören zu den austronesischen Volksgruppen und sprechen die malaiische Sprache, deren moderne Ausprägungen das Malaysische und das Indonesische sind. Heute werden etwa 22 Millionen Menschen zu den Malaien gezählt, welche hauptsächlich auf der Malaiischen Halbinsel, im Osten von Sumatra und an den Küsten Borneos leben. Die Bevölkerungsmehrheit stellen die Malaien in Malaysia (50,4 %), im Sultanat Brunei (66 %) sowie in den drei südlichsten Provinzen Thailands (dort bis zu 88 %). Die große Mehrheit der Malaien (&gt; 99,9 %) sind sunnitische Muslime. In der Vergangenheit wurde der Begriff „Malaien“, geprägt durch die Rassentheorie des deutschen Wissenschaftlers Johann Friedrich Blumenbach aus dem 18. Jahrhundert, für nahezu sämtliche südostasiatischen Völker gebraucht und als eine von fünf menschlichen Rassen auf der Welt benannt, welche eine Übergangsrasse zwischen der „äthiopischen“ und der „mongolischen“ Rasse darstellen würde. Diese Deutung des Begriffs „Malaien“ wird heute nicht mehr benutzt.</dbo:abstract>
+    <dbo:abstract xml:lang="ja">マレー人とは、本来はマレー半島、スマトラ島東海岸、ボルネオ島沿岸部などに住んでマレー語を話し、マレー人と自称する人々（民族）のことを指し、マレー語ではムラユ Melayu と呼ぶ。漢字では馬来人と表記した。移住により南アフリカの人種構成にも影響を与えた。 広義には台湾（台湾原住民）を原住地として、マレーシア、シンガポール、ブルネイ、インドネシア、フィリピン、タイ南部、カンボジアの一部など東南アジア島嶼部（マレー諸島）の国々に住む人々の総称であるが、これは人種的な意味（南方系古モンゴロイドのインドシナ人種とオーストラロイドの混血であるインドネシア・マレー人種）で用いることが多い。</dbo:abstract>
+    <dbo:abstract xml:lang="ru">Малайцы: 1.  
+*  Собственно малайцы — австронезийский народ в Юго-Восточной Азии, говорящий на малайском языке австронезийской семьи языков. В древности малайцы пользовались южноиндийской письменностью, с 14—15 вв. — арабским алфавитом. Регионы со значительным числом малайского населения: Бруней, Тимор, Индонезия, Мадагаскар, Малайзия, Филиппины, Сингапур, Паттани (в Таиланде). Другие регионы, где живут малайцы: Австралия, Канада, Коморы, Германия, Япония, Мьянма, Нидерланды, Палау, Саудовская Аравия, Южная Африка, Хайнань, Гонконг, Майотта, Новая Каледония, Северные Марианские острова, Реюньон. 2.  
+*  Родственные малайцам народы малайско-полинезийской ветви языков. Иногда этот термин употребляют и в таком, более широком смысле. Языки: малайский, индонезийский, тагальский, яванский, тетум и другие. Общее число австронезийских языков превосходит 1000, что связано с изолированной жизнью народов на большом числе островов. Религии: ислам, христианство, индуизм, буддизм, племенные религии. Сюда же относятся такие этнические группы, как тямы, джарай, аборигены Тайваня, Полинезии, Микронезии и другие народы австронезийской языковой семьи. В целом эти народы заселяют большую группу островов, называемую Малайским архипелагом, и другие соседние территории. Они основали в древности ряд исламских султанатов, королевство Паттани, королевство Тямпа (Чампа) во Вьетнаме. Малайцы родственны полинезийцам и микронезийцам, населяющим острова Тихого океана. Цвет кожи малайцев — от светло-бронзового до тёмно-коричневого.</dbo:abstract>
+    <dbo:abstract xml:lang="pt">Os malaios (em malaio Melayu) são um grupo étnico austronésio que vivem predominantemente na Península Malaia e partes das ilhas de Sumatra e Bornéu. O grupo étnico malaio distingue-se do conceito de &quot;raça malaia&quot; que abrange um grupo mais extenso de povos, incluindo indonésios, filipinos e os malgaxes (grupo étnico predominante em Madagascar). Malásia, Indonésia e Brunei professam quase em sua totalidade a fé muçulmana, enquanto as Filipinas e Timor-Leste são países de maioria católica romana.</dbo:abstract>
+    <dbo:abstract xml:lang="it">I malesi (in malese: Melayu) sono un gruppo etnico che per lo più abita la penisola malese, la costa orientale di Sumatra e la costa del Borneo. Oltre alla Malesia, dove rappresentano il 60,3% della popolazione, gli stati in cui si trovano comunità malesi sono Singapore, Brunei, la Birmania del Sud, la Thailandia del Sud e l&#39;Indonesia occidentale. Il gruppo etnico malese è distinto dal concetto di razza malese, che comprende un più ampio gruppo di etnie, tra cui molte di quelle indonesiane e filippine. L&#39;idioma malese fa parte della famiglia linguistica maleo-polinesiaca, che a sua volta è compresa nelle lingue austronesiane.</dbo:abstract>
+    <dbo:abstract xml:lang="en">Malays (Malay: Orang Melayu, Jawi: اورڠ ملايو) are an ethnic group of Austronesian peoples predominantly inhabiting the Malay Peninsula, eastern Sumatra and coastal Borneo, as well as the smaller islands which lie between these locations — areas that are collectively known as the Malay world. These locations today are part of the modern nations of Malaysia, Indonesia, Singapore, Brunei, and southern Thailand. There is considerable genetic, linguistic, cultural, and social diversity among the many Malay subgroups, mainly due to hundreds of years of immigration and assimilation of various regional ethnicity and tribes within Maritime Southeast Asia. Historically, the Malay population is descended primarily from the earlier Malayic-speaking Austronesians and Austroasiatic tribes who founded several ancient maritime trading states and kingdoms, notably Brunei, Kedah, Langkasuka, Gangga Negara, Chi Tu, Nakhon Si Thammarat, Pahang, Melayu and Srivijaya The advent of the Malacca Sultanate in the 15th century triggered a major revolution in Malay history, the significance of which lies in its far-reaching political and cultural legacy. Common definitive markers of a Malayness - the religion of Islam, the Malay language and traditions - are thought to have been promulgated during this era, resulting in the ethnogenesis of the Malay as a major ethnoreligious group in the region. In literature, architecture, culinary traditions, traditional dress, performing arts, martial arts, and royal court traditions, Malacca set a standard that later Malay sultanates emulated. The golden age of the Malay sultanates in the Malay Peninsula, Sumatra and Borneo saw many of their inhabitants, particularly from various tribal communities like the Batak, Dayak, Orang Asli and the Orang laut become subject to Islamisation and Malayisation. Today, some Malays have recent forbears from other parts of Maritime Southeast Asia, termed as anak dagang (&quot;traders&quot;) and who predominantly consist of Javanese people, Bugis, Minangkabau people and Acehnese peoples, while some are also descended from more recent immigrants from other countries. Throughout their history, the Malays have been known as a coastal-trading community with fluid cultural characteristics. They absorbed, shared and transmitted numerous cultural features of other local ethnic groups, such as those of Minang, Acehnese, and to some degree Javanese culture; however Malay culture differs by being more overtly Islamic than the multi-religious Javanese culture. Ethnic Malays are also the major source of the ethnocultural development of the related Betawi, Banjar, Cape Malay, Peranakan and Sri Lankan Malay cultures, as well as the development of Malay trade and creole languages like Ambonese Malay, Baba Malay, the Betawi language and Manado Malay.</dbo:abstract>
+    <dbo:language rdf:resource="http://dbpedia.org/resource/Musi_language" />
+    <dbo:language rdf:resource="http://dbpedia.org/resource/Jambi_Malay" />
+    <dbo:language rdf:resource="http://dbpedia.org/resource/Malayan_languages" />
+    <dbo:language rdf:resource="http://dbpedia.org/resource/Malaysian_language" />
+    <dbo:language rdf:resource="http://dbpedia.org/resource/Berau_Malay_language" />
+    <dbo:language rdf:resource="http://dbpedia.org/resource/Burmese_language" />
+    <dbo:language rdf:resource="http://dbpedia.org/resource/Bengkulu_language" />
+    <dbo:language rdf:resource="http://dbpedia.org/resource/Terengganu_Malay" />
+    <dbo:language rdf:resource="http://dbpedia.org/resource/Bangkok_Malay" />
+    <dbo:language rdf:resource="http://dbpedia.org/resource/Vernacular" />
+    <dbo:language rdf:resource="http://dbpedia.org/resource/Kelantan-Pattani_Malay" />
+    <dbo:language rdf:resource="http://dbpedia.org/resource/Malay_language" />
+    <dbo:language rdf:resource="http://dbpedia.org/resource/Sarawak_Malay" />
+    <dbo:language rdf:resource="http://dbpedia.org/resource/Overseas_Malays" />
+    <dbo:language rdf:resource="http://dbpedia.org/resource/Pahang_Malay" />
+    <dbo:language rdf:resource="http://dbpedia.org/resource/Thai_language" />
+    <dbo:language rdf:resource="http://dbpedia.org/resource/Indonesian_language" />
+    <dbo:language rdf:resource="http://dbpedia.org/resource/Kedah_Malay" />
+    <dbo:language rdf:resource="http://dbpedia.org/resource/Brunei_Malay" />
+    <dbo:language rdf:resource="http://dbpedia.org/resource/Pontianak_Malay" />
+    <dbo:language rdf:resource="http://dbpedia.org/resource/Bangka_Malay" />
+    <dbo:language rdf:resource="http://dbpedia.org/resource/Perak_Malay" />
+    <dbo:populationPlace rdf:resource="http://dbpedia.org/resource/Sri_Lankan_Malays" />
+    <dbo:populationPlace rdf:resource="http://dbpedia.org/resource/Overseas_Malays" />
+    <dbo:populationPlace rdf:resource="http://dbpedia.org/resource/Malay_world" />
+    <dbo:populationPlace rdf:resource="http://dbpedia.org/resource/Malay_Singaporean" />
+    <dbo:populationPlace rdf:resource="http://dbpedia.org/resource/Burmese_Malays" />
+    <dbo:populationPlace rdf:resource="http://dbpedia.org/resource/Bruneian_Malay_people" />
+    <dbo:populationPlace rdf:resource="http://dbpedia.org/resource/Cocos_Malays" />
+    <dbo:populationPlace rdf:resource="http://dbpedia.org/resource/Thai_Malays" />
+    <dbo:populationPlace rdf:resource="http://dbpedia.org/resource/Malay_Indonesian" />
+    <dbo:populationPlace rdf:resource="http://dbpedia.org/resource/Cape_Malays" />
+    <dbo:populationPlace rdf:resource="http://dbpedia.org/resource/Malaysian_Malay" />
+    <dbo:populationPlace rdf:resource="http://dbpedia.org/resource/United_Kingdom" />
+    <dbo:religion rdf:resource="http://dbpedia.org/resource/Sunni_Islam" />
+    <dbp:caption rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">A Malay couple in traditional attire after their akad nikah  ceremony. The groom is wearing a baju melayu paired with songkok and songket, while the bride is clad in baju kurung with a tudung.</dbp:caption>
+    <dbp:footnotes rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">note: Highly naturalised population of mixed origins, but using the &#39;Malay&#39; identity</dbp:footnotes>
+    <dbp:pop rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5365399</dbp:pop>
+    <dbp:pop rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">~200,000</dbp:pop>
+    <dbp:pop rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">653449</dbp:pop>
+    <dbp:pop rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">33183</dbp:pop>
+    <dbp:pop rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1964384</dbp:pop>
+    <dbp:pop rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">~33,000</dbp:pop>
+    <dbp:pop rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">40189</dbp:pop>
+    <dbp:pop rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">~27,000</dbp:pop>
+    <dbp:pop rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">.</dbp:pop>
+    <dbp:poptime rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">million</dbp:poptime>
+    <dbp:title rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Links to related articles</dbp:title>
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Group" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Thai_Malays">
+    <dbo:related rdf:resource="http://dbpedia.org/resource/Malays_(ethnic_group)" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bengkulu_people">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Malays_(ethnic_group)" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lat">
+    <dbo:ethnicity rdf:resource="http://dbpedia.org/resource/Malays_(ethnic_group)" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Malacca_Straits_Mosque">
+    <dbp:architectureStyle rdf:resource="http://dbpedia.org/resource/Malays_(ethnic_group)" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Malaysians">
+    <owl:differentFrom rdf:resource="http://dbpedia.org/resource/Malays_(ethnic_group)" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Natuna_Besar">
+    <dbo:ethnicGroup rdf:resource="http://dbpedia.org/resource/Malays_(ethnic_group)" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jemput-jemput">
+    <dbo:creatorOfDish rdf:resource="http://dbpedia.org/resource/Malays_(ethnic_group)" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Malay_people">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Malays_(ethnic_group)" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ethnic_Malays">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Malays_(ethnic_group)" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Pahangite_Malay_people">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Malays_(ethnic_group)" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Asahan_Malays">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Malays_(ethnic_group)" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bangka_people">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Malays_(ethnic_group)" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Deli_Malays">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Malays_(ethnic_group)" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jambi_Malays">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Malays_(ethnic_group)" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Johorean_Malay_people">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Malays_(ethnic_group)" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Langkat_Malays">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Malays_(ethnic_group)" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Malaccan_Malay_people">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Malays_(ethnic_group)" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Pahangese_Malay_people">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Malays_(ethnic_group)" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Palembang_people">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Malays_(ethnic_group)" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Penangite_Malay_people">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Malays_(ethnic_group)" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Perlisian_Malay_people">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Malays_(ethnic_group)" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Pontianak_Malays">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Malays_(ethnic_group)" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Riau_Malays">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Malays_(ethnic_group)" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sambas_people">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Malays_(ethnic_group)" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sarawakian_Malay_people">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Malays_(ethnic_group)" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Selangorian_Malay_people">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Malays_(ethnic_group)" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Serdang_Malays">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Malays_(ethnic_group)" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tamiang_Malays">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Malays_(ethnic_group)" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Malays">
+    <dbo:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/Malays_(ethnic_group)" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Musang_Berjanggut">
+    <dbo:language rdf:resource="http://dbpedia.org/resource/Malays_(ethnic_group)" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Zulkiflee_Anwar_Haque">
+    <dbo:ethnicity rdf:resource="http://dbpedia.org/resource/Malays_(ethnic_group)" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Labu_dan_Labi">
+    <dbo:language rdf:resource="http://dbpedia.org/resource/Malays_(ethnic_group)" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Malays_people">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Malays_(ethnic_group)" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Asri_Zainul_Abidin">
+    <dbo:ethnicity rdf:resource="http://dbpedia.org/resource/Malays_(ethnic_group)" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Malayans">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Malays_(ethnic_group)" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Apprentice_(film)">
+    <dbo:language rdf:resource="http://dbpedia.org/resource/Malays_(ethnic_group)" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Malay_People">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Malays_(ethnic_group)" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Malay-Austronesians">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Malays_(ethnic_group)" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Demographics_of_Sarawak">
+    <dbp:label rdf:resource="http://dbpedia.org/resource/Malays_(ethnic_group)" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Malay_architecture">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Malays_(ethnic_group)" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Deutero-Malay">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Malays_(ethnic_group)" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Deutero-Malays">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Malays_(ethnic_group)" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Malay_Architecture">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Malays_(ethnic_group)" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Malays_(ethnic_group)">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Malays_(ethnic_group)" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Malay_culture">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Malays_(ethnic_group)" />
+  </rdf:Description>
+</rdf:RDF>

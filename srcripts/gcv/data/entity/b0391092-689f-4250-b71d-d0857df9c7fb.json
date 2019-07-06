@@ -1,0 +1,57 @@
+{
+    "entities": [
+        {
+            "mentions": [
+                {
+                    "text": {
+                        "beginOffset": 0,
+                        "content": "授業"
+                    },
+                    "type": "COMMON"
+                }
+            ],
+            "metadata": {},
+            "name": "授業",
+            "salience": 0.36340925,
+            "type": "EVENT"
+        },
+        {
+            "mentions": [
+                {
+                    "text": {
+                        "beginOffset": 12,
+                        "content": "書籍借用ノ件\t S0001/Mo015/0193\t 1875-10-19\t 件\t 公開\t 本郷\t 学務"
+                    },
+                    "type": "PROPER"
+                },
+                {
+                    "text": {
+                        "beginOffset": 89,
+                        "content": "課之部"
+                    },
+                    "type": "COMMON"
+                }
+            ],
+            "metadata": {},
+            "name": "書籍借用ノ件 S0001/Mo015/0193 1875-10-19 件 公開 本郷 学務",
+            "salience": 0.3532835,
+            "type": "ORGANIZATION"
+        },
+        {
+            "mentions": [
+                {
+                    "text": {
+                        "beginOffset": 100,
+                        "content": "雑事"
+                    },
+                    "type": "COMMON"
+                }
+            ],
+            "metadata": {},
+            "name": "雑事",
+            "salience": 0.28330725,
+            "type": "OTHER"
+        }
+    ],
+    "language": "ja"
+}

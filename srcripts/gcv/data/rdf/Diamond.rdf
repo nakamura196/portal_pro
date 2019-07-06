@@ -1,0 +1,628 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:dct="http://purl.org/dc/terms/"
+	xmlns:dbo="http://dbpedia.org/ontology/"
+	xmlns:dbp="http://dbpedia.org/property/"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+	xmlns:prov="http://www.w3.org/ns/prov#"
+	xmlns:ns9="http://purl.org/linguistics/gold/" >
+  <rdf:Description rdf:about="http://dbpedia.org/resource/John_Diamond,_Baron_Diamond">
+    <ns9:hypernym rdf:resource="http://dbpedia.org/resource/Diamond" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Renard_diamond_mine">
+    <dbp:products rdf:resource="http://dbpedia.org/resource/Diamond" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/InterContinental_Boston">
+    <ns9:hypernym rdf:resource="http://dbpedia.org/resource/Diamond" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Polish_Mint">
+    <dbo:product rdf:resource="http://dbpedia.org/resource/Diamond" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Moussaieff_Red_Diamond">
+    <ns9:hypernym rdf:resource="http://dbpedia.org/resource/Diamond" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Orlov_(diamond)">
+    <ns9:hypernym rdf:resource="http://dbpedia.org/resource/Diamond" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ofir_Resources">
+    <dbo:product rdf:resource="http://dbpedia.org/resource/Diamond" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Peter_the_Great_(Fabergé_egg)">
+    <dbp:materials rdf:resource="http://dbpedia.org/resource/Diamond" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/4-C&#39;s_of_Diamond_Grading">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Diamond" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Diamond_powder">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Diamond" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/ALROSA">
+    <dbo:industry rdf:resource="http://dbpedia.org/resource/Diamond" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Millennium_Star">
+    <ns9:hypernym rdf:resource="http://dbpedia.org/resource/Diamond" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jacksonville_Baseball_Complex">
+    <ns9:hypernym rdf:resource="http://dbpedia.org/resource/Diamond" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jacob_Diamond">
+    <ns9:hypernym rdf:resource="http://dbpedia.org/resource/Diamond" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Amsterdam_Diamond">
+    <ns9:hypernym rdf:resource="http://dbpedia.org/resource/Diamond" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bharat_Diamond_Bourse">
+    <dbp:type rdf:resource="http://dbpedia.org/resource/Diamond" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kappa_Delta">
+    <dbp:jewel rdf:resource="http://dbpedia.org/resource/Diamond" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lesedi_La_Rona">
+    <ns9:hypernym rdf:resource="http://dbpedia.org/resource/Diamond" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/National_Mineral_Development_Corporation">
+    <dbo:product rdf:resource="http://dbpedia.org/resource/Diamond" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Cullinan_Diamond">
+    <ns9:hypernym rdf:resource="http://dbpedia.org/resource/Diamond" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Heart_of_the_Ocean">
+    <ns9:hypernym rdf:resource="http://dbpedia.org/resource/Diamond" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jules_Porgès">
+    <dbo:occupation rdf:resource="http://dbpedia.org/resource/Diamond" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_4_C&#39;s_Of_Diamonds">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Diamond" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Industrial_diamond">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Diamond" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Briolette_of_India">
+    <ns9:hypernym rdf:resource="http://dbpedia.org/resource/Diamond" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Diamond">
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Mineral" />
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q7946" />
+    <rdf:type rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#ChemicalObject" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/ChemicalSubstance" />
+    <rdfs:label xml:lang="zh">钻石</rdfs:label>
+    <rdfs:label xml:lang="de">Diamant</rdfs:label>
+    <rdfs:label xml:lang="en">Diamond</rdfs:label>
+    <rdfs:label xml:lang="ja">ダイヤモンド</rdfs:label>
+    <rdfs:label xml:lang="ru">Алмаз</rdfs:label>
+    <rdfs:label xml:lang="it">Diamante</rdfs:label>
+    <rdfs:label xml:lang="fr">Diamant</rdfs:label>
+    <rdfs:label xml:lang="pl">Diament</rdfs:label>
+    <rdfs:label xml:lang="nl">Diamant</rdfs:label>
+    <rdfs:label xml:lang="ar">ألماس</rdfs:label>
+    <rdfs:label xml:lang="pt">Diamante</rdfs:label>
+    <rdfs:label xml:lang="es">Diamante</rdfs:label>
+    <rdfs:comment xml:lang="fr">Le diamant est un minéral composé de carbone (tout comme le graphite et la lonsdaléite), dont il représente l&#39;allotrope de haute pression, qui cristallise dans le système cristallin cubique. C&#39;est le matériau naturel le plus dur (dureté de 10 (maximum) selon l&#39;échelle de Mohs).</rdfs:comment>
+    <rdfs:comment xml:lang="ar">الألماس متآصل للكربون ذو تركيب بلوري تكعيبي ويتخذ أشكال مضاعفة لذلك البناء التكعيبي ذو الثمانية أوجه وبخاصة الاثني عشر وجه، وتحدث طفرات في تكوينه أحيانا فيبدو كروي الشكل إلا أن العوامل الخارجية تساعد على ذلك التشكيل. يتكون من عنصر الكربون (فقط) تحت الضغط والحرارة العاليتين وبظروف غير معلومة في أعماق الكرة الأرضية، وبالرغم من أن الكربون هو المكون الأساسي للجرافيت والفحم إلا أن خصائص كل منهما تختلف عن الأخر بشكل كبير، هذا الاختلاف غير ناجم عن التركيب الذري وإنما بسبب الشبكة الكرستالية للألماس الشفاف والشبكة القاتمة للجرافيت حيث يؤدي الاختلاف في تركيب الشبكة إلى هذا الفرق الشاسع في الخصائص.</rdfs:comment>
+    <rdfs:comment xml:lang="es">En mineralogía, el diamante (del griego antiguo αδάμας, adámas, que significa invencible o inalterable) es un alótropo del carbono donde los átomos de carbono están dispuestos en una variante de la estructura cristalina cúbica centrada en la cara denominada «red de diamante». El diamante es la segunda forma más estable de carbono, después del grafito; sin embargo, la tasa de conversión de diamante a grafito es despreciable a condiciones ambientales. El diamante tiene renombre específicamente como un material con características físicas superlativas, muchas de las cuales derivan del fuerte enlace covalente entre sus átomos. En particular, el diamante tiene la más alta dureza y conductividad térmica de todos los materiales conocidos por el ser humano. Estas propiedades determinan que la apli</rdfs:comment>
+    <rdfs:comment xml:lang="pt">O diamante é um cristal sob uma forma alotrópica do carbono, de fórmula química C. É a forma triangular estável do carbono em pressões acima de 60 Kbar. Comercializados como pedras preciosas, os diamantes possuem um alto valor agregado. Normalmente, o diamante cristaliza com estrutura cúbica e pode ser sintetizado industrialmente. Outra forma de cristalização do diamante é a hexagonal, menos comum na natureza e com dureza menor (9,5 na escala de Mohs). A característica que difere os diamantes de outras formas alotrópicas, é o fato de cada átomo de carbono estar hibridizado em sp³, e encontrar-se ligado a outros 4 átomos de carbono por meio de ligações covalentes em um arranjo tridimensional tetraédrico. O diamante pode ser convertido em grafite, o alótropo termodinamicamente estável em bai</rdfs:comment>
+    <rdfs:comment xml:lang="de">Diamant ist die kubische Modifikation des Kohlenstoffs und als natürlich vorkommender Feststoff ein Mineral aus der Mineralklasse der Elemente. Diamant bildet meist oktaederförmige Kristalle, oft mit gebogenen und streifigen Flächen. Weitere beobachtete Formen sind das Tetraeder, Dodekaeder und der Würfel. Die Kristalle sind transparent, farblos oder durch Verunreinigungen (z. B. Stickstoff) oder Kristallgitterdefekte grün, gelb, braun und seltener auch orange, blau, rosa, rot oder grau bis schwarz gefärbt.</rdfs:comment>
+    <rdfs:comment xml:lang="it">Il diamante è una delle tante forme allotropiche in cui può presentarsi il carbonio; in particolare il diamante è costituito da un reticolo cristallino di atomi di carbonio disposti secondo una struttura tetraedrica.</rdfs:comment>
+    <rdfs:comment xml:lang="ja">ダイヤモンド（英語: diamond [ˈdaɪəmənd]）は、炭素 (C) の同素体の1つであり、実験で確かめられている中では天然で最も硬い物質である。日本語で金剛石（こんごうせき）ともいう。ダイヤとも略される。結晶構造は多くが8面体で、12面体や6面体もある。宝石や研磨材として利用されている。ダイヤモンドの結晶の原子に不対電子が存在しないため、電気を通さない。 地球内部の非常に高温高圧な環境で生成されるダイヤモンドは定まった形で産出されず、また、角ばっているわけではないが、そのカットされた宝飾品の形から、菱形、トランプの絵柄（スート）、野球の内野、記号（◇）を指してダイヤモンドとも言われている。 ダイヤモンドという名前は、ギリシア語の αδάμας（adámas 征服し得ない、屈しない）に由来する。イタリア語・スペイン語・ポルトガル語では diamánte（ディアマンテ）、フランス語では diamant（ディアマン）、ポーランド語では diáment（ディヤメント）、漢語表現では金剛石という。ロシア語では диама́нт（ヂヤマント）というよりは алма́з（アルマース）という方が普通であるが、これは特に磨かれていないダイヤモンド原石のことを指す場合がある。磨かれたものについては бриллиа́нт（ブリリヤント）で総称されるのが普通。</rdfs:comment>
+    <rdfs:comment xml:lang="ru">Алма́з (от др.-греч. ἀδάμας — «несокрушимый», через араб. ألماس‎ ’almās) — минерал, кубическая аллотропная форма углерода. При нормальных условиях метастабилен, то есть может существовать неограниченно долго. В вакууме или в инертном газе при повышенных температурах постепенно переходит в графит. Самый крепкий по шкале эталонных минералов твёрдости Мооса.</rdfs:comment>
+    <rdfs:comment xml:lang="nl">Diamant (Oudgrieks: ἀδάμας of adamas, &quot;onverslaanbaar&quot;) is een allotrope verschijningsvorm van koolstof die als delfstof aangetroffen wordt, maar ook in laboratoria gemaakt kan worden. In diamant hebben de koolstof-koolstofbindingen een viervlakstructuur waardoor de atomen in drie dimensies gebonden zijn; dit verklaart deels de hardheid waar het mineraal zijn naam aan dankt. Daarentegen heeft grafiet, de koolstofvorm die op aarde het meest voorkomt, een vlakke kristalstructuur waardoor het veel zachter is en schilferende laagjes vormt. Diamant is voor zover bekend het hardste materiaal dat in de natuur voorkomt en is dan ook het ijkpunt voor hardheid 10 op de hardheidsschaal van Mohs. Slechts enkele industrieel vervaardigde, eveneens uit zuivere koolstof opgebouwde materialen zijn harder.</rdfs:comment>
+    <rdfs:comment xml:lang="pl">Diament – bardzo rzadki minerał z gromady pierwiastków rodzimych. Nazwa pochodzi od stgr. ἀδάμας adamas (dopełniacz ἀδάμαντος adamantos, łac. diamentum), co znaczy „niepokonany, niezniszczalny” i nawiązuje do wyjątkowej twardości tego minerału. Jest najtwardszą znaną substancją z występujących w przyrodzie. Po raz pierwszy diament spalił pod szklanym kloszem Antoine Lavoisier, używając promieni słonecznych skupionych soczewką. Udowodnił w ten sposób, że diament to czysty węgiel.</rdfs:comment>
+    <rdfs:comment xml:lang="en">Diamond (pronunciation: /ˈdaɪəmənd/ or /ˈdaɪmənd/) is a metastable allotrope of carbon, where the carbon atoms are arranged in a variation of the face-centered cubic crystal structure called a diamond lattice. Diamond is less stable than graphite, but the conversion rate from diamond to graphite is negligible at standard conditions. Diamond is renowned as a material with superlative physical qualities, most of which originate from the strong covalent bonding between its atoms. In particular, diamond has the highest hardness and thermal conductivity of any bulk material. Those properties determine the major industrial application of diamond in cutting and polishing tools and the scientific applications in diamond knives and diamond anvil cells.</rdfs:comment>
+    <rdfs:comment xml:lang="zh">鑽石（古希腊文：ἀδάμας；法文、德文：Diamant；英文：Diamond），化学和工业中称为金剛石。金剛石是碳元素组成的無色晶体，為目前已知自然存在最硬物質。</rdfs:comment>
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Diamond_(gemstone)" />
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Aggregated_diamond_nanorod" />
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Diamonds_as_an_investment" />
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/List_of_diamond_mines" />
+    <owl:sameAs rdf:resource="http://pt.dbpedia.org/resource/Diamante" />
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.027_y" />
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q5283" />
+    <owl:sameAs rdf:resource="http://id.dbpedia.org/resource/Intan" />
+    <owl:sameAs rdf:resource="http://cs.dbpedia.org/resource/Diamant" />
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q5283" />
+    <owl:sameAs rdf:resource="http://ja.dbpedia.org/resource/ダイヤモンド" />
+    <owl:sameAs rdf:resource="http://es.dbpedia.org/resource/Diamante" />
+    <owl:sameAs rdf:resource="http://ko.dbpedia.org/resource/다이아몬드" />
+    <owl:sameAs rdf:resource="http://fr.dbpedia.org/resource/Diamant" />
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Diamond" />
+    <owl:sameAs rdf:resource="http://nl.dbpedia.org/resource/Diamant" />
+    <owl:sameAs rdf:resource="http://d-nb.info/gnd/4012069-7" />
+    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/Diamant" />
+    <owl:sameAs rdf:resource="http://pl.dbpedia.org/resource/Diament" />
+    <owl:sameAs rdf:resource="http://el.dbpedia.org/resource/Διαμάντι" />
+    <owl:sameAs rdf:resource="http://it.dbpedia.org/resource/Diamante" />
+    <owl:sameAs rdf:resource="http://eu.dbpedia.org/resource/Diamante" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Luminescent_minerals" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Transparent_materials" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Diamond" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Impact_event_minerals" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Group_IV_semiconductors" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Abrasives" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Native_element_minerals" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Articles_containing_video_clips" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Economic_geology" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Cubic_minerals" />
+    <dbo:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">8082</dbo:wikiPageID>
+    <dbo:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">740137973</dbo:wikiPageRevisionID>
+    <dbo:wikiPageExternalLink rdf:resource="http://lgdl.gia.edu/pdfs/W97_fluoresce.pdf" />
+    <dbo:wikiPageExternalLink rdf:resource="https://books.google.com/?id=ZtfFEoXkU8wC&amp;pg=PP1" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.mine2mistress.com" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.secretsofthegemtrade.com" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.theatlantic.com/doc/198202/diamond" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.folds.net/diamond/index.html" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.farlang.com/diamonds/hershey-diamond-chapters/page_001" />
+    <dbo:wikiPageExternalLink rdf:resource="http://en.wikibooks.org/wiki/Development_Cooperation_Handbook/Stories/Unsustainable_Growth" />
+    <dbo:wikiPageExternalLink rdf:resource="http://atlas.cid.harvard.edu/explore/tree_map/export/show/all/7102/2014/" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.ioffe.ru/SVA/NSM/Semicond/Diamond/index.html" />
+    <dbo:wikiPageExternalLink rdf:resource="https://books.google.com/?id=msU4jkdCEhIC&amp;pg=PP1" />
+    <dbo:wikiPageExternalLink rdf:resource="https://books.google.com/?id=pRFUZdHb688C" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.pbs.org/wgbh/nova/diamond/sky.html" />
+    <foaf:name xml:lang="en">Diamond</foaf:name>
+    <foaf:depiction rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Rough_diamond.jpg" />
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Diamond" />
+    <dbo:thumbnail rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Rough_diamond.jpg?width=300" />
+    <skos:closeMatch rdf:resource="http://www.springernature.com/scigraph/things/subjects/diamond" />
+    <prov:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Diamond?oldid=740137973" />
+    <dbo:abstract xml:lang="ar">الألماس متآصل للكربون ذو تركيب بلوري تكعيبي ويتخذ أشكال مضاعفة لذلك البناء التكعيبي ذو الثمانية أوجه وبخاصة الاثني عشر وجه، وتحدث طفرات في تكوينه أحيانا فيبدو كروي الشكل إلا أن العوامل الخارجية تساعد على ذلك التشكيل. يتكون من عنصر الكربون (فقط) تحت الضغط والحرارة العاليتين وبظروف غير معلومة في أعماق الكرة الأرضية، وبالرغم من أن الكربون هو المكون الأساسي للجرافيت والفحم إلا أن خصائص كل منهما تختلف عن الأخر بشكل كبير، هذا الاختلاف غير ناجم عن التركيب الذري وإنما بسبب الشبكة الكرستالية للألماس الشفاف والشبكة القاتمة للجرافيت حيث يؤدي الاختلاف في تركيب الشبكة إلى هذا الفرق الشاسع في الخصائص. عـُرف الألماس منذ القدم كأحد الأحجار ذات القيمة التجارية. وازدادت شعبية الألماس في القرن التاسع عشر مع ازدياد الإنتاج العالمي وتحسن الطرق التجارية في أرجاء العالم ودخول الطرق العلمية في القطع والصقل والاحتكار العالمي لتلك السلعة من قبل بعض الشركات. وللألماس صفات فيزيائية كثيرة ولكن أشهرها الصلابة والقساوة فهو وحده من بين كل المواد على درجة الصلابة 10\10 في سلم درجات (موس) العالمي للأحجار (أصلبها 10 - وأضعفها 1). وللنظام البلوري خاصة تشتيت الضوء ولكن في الألماس تعتبر عالية للضوء. لهذا السبب، فإن الألماس حجر ذو قيمة مهمة في صناعة الحلي بالإضافة إلى استعمالات صناعية أخرى مثل استخدام الألماس على رأس انابيب حفر الآبار العميقة كالماء والبترول والغاز الطبيعي بالإضافة إلى استخداماته في الأجهزة الإلكترونية والأجهزة الطبية والمعدات الصناعية وقص الزجاج وغيرها.</dbo:abstract>
+    <dbo:abstract xml:lang="nl">Diamant (Oudgrieks: ἀδάμας of adamas, &quot;onverslaanbaar&quot;) is een allotrope verschijningsvorm van koolstof die als delfstof aangetroffen wordt, maar ook in laboratoria gemaakt kan worden. In diamant hebben de koolstof-koolstofbindingen een viervlakstructuur waardoor de atomen in drie dimensies gebonden zijn; dit verklaart deels de hardheid waar het mineraal zijn naam aan dankt. Daarentegen heeft grafiet, de koolstofvorm die op aarde het meest voorkomt, een vlakke kristalstructuur waardoor het veel zachter is en schilferende laagjes vormt. Diamant is voor zover bekend het hardste materiaal dat in de natuur voorkomt en is dan ook het ijkpunt voor hardheid 10 op de hardheidsschaal van Mohs. Slechts enkele industrieel vervaardigde, eveneens uit zuivere koolstof opgebouwde materialen zijn harder.</dbo:abstract>
+    <dbo:abstract xml:lang="it">Il diamante è una delle tante forme allotropiche in cui può presentarsi il carbonio; in particolare il diamante è costituito da un reticolo cristallino di atomi di carbonio disposti secondo una struttura tetraedrica.</dbo:abstract>
+    <dbo:abstract xml:lang="ru">Алма́з (от др.-греч. ἀδάμας — «несокрушимый», через араб. ألماس‎ ’almās) — минерал, кубическая аллотропная форма углерода. При нормальных условиях метастабилен, то есть может существовать неограниченно долго. В вакууме или в инертном газе при повышенных температурах постепенно переходит в графит. Самый крепкий по шкале эталонных минералов твёрдости Мооса.</dbo:abstract>
+    <dbo:abstract xml:lang="es">En mineralogía, el diamante (del griego antiguo αδάμας, adámas, que significa invencible o inalterable) es un alótropo del carbono donde los átomos de carbono están dispuestos en una variante de la estructura cristalina cúbica centrada en la cara denominada «red de diamante». El diamante es la segunda forma más estable de carbono, después del grafito; sin embargo, la tasa de conversión de diamante a grafito es despreciable a condiciones ambientales. El diamante tiene renombre específicamente como un material con características físicas superlativas, muchas de las cuales derivan del fuerte enlace covalente entre sus átomos. En particular, el diamante tiene la más alta dureza y conductividad térmica de todos los materiales conocidos por el ser humano. Estas propiedades determinan que la aplicación industrial principal del diamante sea en herramientas de corte y de pulido además de otras aplicaciones. El diamante es uno de los minerales más preciados del mundo por sus características físicas. El diamante tiene características ópticas destacables. Debido a su estructura cristalina extremadamente rígida, puede ser contaminada por pocos tipos de impurezas, como el boro y el nitrógeno. Combinado con su gran transparencia (correspondiente a una amplia banda prohibida de 5,5 eV), esto resulta en la apariencia clara e incolora de la mayoría de diamantes naturales. Pequeñas cantidades de defectos o impurezas (aproximadamente una parte por millón) inducen un color de diamante azul (boro), amarillo (nitrógeno), marrón (defectos cristalinos), verde, violeta, rosado, negro, naranja o rojo. El diamante también tiene una dispersión refractiva relativamente alta, esto es, habilidad para dispersar luz de diferentes colores, lo que resulta en su lustre característico. Sus propiedades ópticas y mecánicas excelentes, combinadas con una mercadotecnia eficiente, hacen que el diamante sea la gema más popular. La mayoría de diamantes naturales se forman en condiciones de presión y temperatura extremas, existentes a profundidades de 140 km a 190 km en el manto terrestre. Los minerales que contienen carbono proveen la fuente de carbono, y el crecimiento tiene lugar en períodos de 1 a 3,3 mil millones de años, lo que corresponde a, aproximadamente, el 25 % a 75 % de la edad de la Tierra. Los diamantes son llevados cerca de la superficie de la Tierra a través de erupciones volcánicas profundas por un magma, que se enfría en rocas ígneas conocidas como kimberlitas y lamproitas. Los diamantes también pueden ser producidos sintéticamente en un proceso de alta presión y alta temperatura que simula aproximadamente las condiciones en el manto de la Tierra. Una alternativa, y técnica completamente diferente, es la deposición química de vapor. Algunos materiales distintos al diamante, incluyendo a la zirconia cúbica y carburo de silicio son denominados frecuentemente como simulantes de diamantes, semejando al diamante en apariencia y muchas propiedades. Se han desarrollado técnicas gemológicas especiales para distinguir los diamantes sintéticos y los naturales, y simulantes de diamantes.</dbo:abstract>
+    <dbo:abstract xml:lang="en">Diamond (pronunciation: /ˈdaɪəmənd/ or /ˈdaɪmənd/) is a metastable allotrope of carbon, where the carbon atoms are arranged in a variation of the face-centered cubic crystal structure called a diamond lattice. Diamond is less stable than graphite, but the conversion rate from diamond to graphite is negligible at standard conditions. Diamond is renowned as a material with superlative physical qualities, most of which originate from the strong covalent bonding between its atoms. In particular, diamond has the highest hardness and thermal conductivity of any bulk material. Those properties determine the major industrial application of diamond in cutting and polishing tools and the scientific applications in diamond knives and diamond anvil cells. Because of its extremely rigid lattice, it can be contaminated by very few types of impurities, such as boron and nitrogen. Small amounts of defects or impurities (about one per million of lattice atoms) color diamond blue (boron), yellow (nitrogen), brown (lattice defects), green (radiation exposure), purple, pink, orange or red. Diamond also has relatively high optical dispersion (ability to disperse light of different colors). Most natural diamonds are formed at high temperature and pressure at depths of 140 to 190 kilometers (87 to 118 mi) in the Earth&#39;s mantle. Carbon-containing minerals provide the carbon source, and the growth occurs over periods from 1 billion to 3.3 billion years (25% to 75% of the age of the Earth). Diamonds are brought close to the Earth&#39;s surface through deep volcanic eruptions by magma, which cools into igneous rocks known as kimberlites and lamproites. Diamonds can also be produced synthetically in a HPHT method which approximately simulates the conditions in the Earth&#39;s mantle. An alternative, and completely different growth technique is chemical vapor deposition (CVD). Several non-diamond materials, which include cubic zirconia and silicon carbide and are often called diamond simulants, resemble diamond in appearance and many properties. Special gemological techniques have been developed to distinguish natural diamonds, synthetic diamonds, and diamond simulants. The word is from the ancient Greek ἀδάμας – adámas &quot;unbreakable&quot;.</dbo:abstract>
+    <dbo:abstract xml:lang="zh">鑽石（古希腊文：ἀδάμας；法文、德文：Diamant；英文：Diamond），化学和工业中称为金剛石。金剛石是碳元素组成的無色晶体，為目前已知自然存在最硬物質。</dbo:abstract>
+    <dbo:abstract xml:lang="ja">ダイヤモンド（英語: diamond [ˈdaɪəmənd]）は、炭素 (C) の同素体の1つであり、実験で確かめられている中では天然で最も硬い物質である。日本語で金剛石（こんごうせき）ともいう。ダイヤとも略される。結晶構造は多くが8面体で、12面体や6面体もある。宝石や研磨材として利用されている。ダイヤモンドの結晶の原子に不対電子が存在しないため、電気を通さない。 地球内部の非常に高温高圧な環境で生成されるダイヤモンドは定まった形で産出されず、また、角ばっているわけではないが、そのカットされた宝飾品の形から、菱形、トランプの絵柄（スート）、野球の内野、記号（◇）を指してダイヤモンドとも言われている。 ダイヤモンドという名前は、ギリシア語の αδάμας（adámas 征服し得ない、屈しない）に由来する。イタリア語・スペイン語・ポルトガル語では diamánte（ディアマンテ）、フランス語では diamant（ディアマン）、ポーランド語では diáment（ディヤメント）、漢語表現では金剛石という。ロシア語では диама́нт（ヂヤマント）というよりは алма́з（アルマース）という方が普通であるが、これは特に磨かれていないダイヤモンド原石のことを指す場合がある。磨かれたものについては бриллиа́нт（ブリリヤント）で総称されるのが普通。 4月の誕生石である。石言葉は「永遠の絆・純潔・不屈」など。</dbo:abstract>
+    <dbo:abstract xml:lang="pl">Diament – bardzo rzadki minerał z gromady pierwiastków rodzimych. Nazwa pochodzi od stgr. ἀδάμας adamas (dopełniacz ἀδάμαντος adamantos, łac. diamentum), co znaczy „niepokonany, niezniszczalny” i nawiązuje do wyjątkowej twardości tego minerału. Jest najtwardszą znaną substancją z występujących w przyrodzie. Po raz pierwszy diament spalił pod szklanym kloszem Antoine Lavoisier, używając promieni słonecznych skupionych soczewką. Udowodnił w ten sposób, że diament to czysty węgiel.</dbo:abstract>
+    <dbo:abstract xml:lang="de">Diamant ist die kubische Modifikation des Kohlenstoffs und als natürlich vorkommender Feststoff ein Mineral aus der Mineralklasse der Elemente. Diamant bildet meist oktaederförmige Kristalle, oft mit gebogenen und streifigen Flächen. Weitere beobachtete Formen sind das Tetraeder, Dodekaeder und der Würfel. Die Kristalle sind transparent, farblos oder durch Verunreinigungen (z. B. Stickstoff) oder Kristallgitterdefekte grün, gelb, braun und seltener auch orange, blau, rosa, rot oder grau bis schwarz gefärbt. Diamant ist der härteste natürliche Stoff. In der Härteskala nach Mohs hat er die Härte 10. Seine Schleifhärte nach Rosiwal (auch absolute Härte) ist 140-mal größer als die des Korunds. Die Härte des Diamanten ist allerdings in verschiedenen Kristallrichtungen unterschiedlich (Anisotropie). Dadurch ist es möglich, Diamant mit Diamant zu schleifen. In dem dazu verwendeten Diamantpulver liegen die Kristalle in jeder Orientierung vor (statistische Isotropie), damit wirken immer auch die härtesten unter ihnen auf den zu schleifenden Körper. Diamant ist optisch isotrop mit hoher Lichtbrechung und hoher Dispersion. Er zeigt Fluoreszenz und Phosphoreszenz und ist triboelektrisch. Er verfügt über die höchste Wärmeleitfähigkeit aller bekannten Minerale. Das Gewicht einzelner Diamanten wird traditionell in Karat angegeben, einer Einheit, die exakt 0,2 Gramm entspricht (siehe Abschnitt „“).</dbo:abstract>
+    <dbo:abstract xml:lang="pt">O diamante é um cristal sob uma forma alotrópica do carbono, de fórmula química C. É a forma triangular estável do carbono em pressões acima de 60 Kbar. Comercializados como pedras preciosas, os diamantes possuem um alto valor agregado. Normalmente, o diamante cristaliza com estrutura cúbica e pode ser sintetizado industrialmente. Outra forma de cristalização do diamante é a hexagonal, menos comum na natureza e com dureza menor (9,5 na escala de Mohs). A característica que difere os diamantes de outras formas alotrópicas, é o fato de cada átomo de carbono estar hibridizado em sp³, e encontrar-se ligado a outros 4 átomos de carbono por meio de ligações covalentes em um arranjo tridimensional tetraédrico. O diamante pode ser convertido em grafite, o alótropo termodinamicamente estável em baixas pressões, aplicando-se temperaturas acima de 1.500 °C sob vácuo ou atmosfera inerte. Em condições ambientes, essa conversão é extremamente lenta, tornando-se negligenciada. Cristaliza no sistema cúbico, geralmente em cristais com forma octaédrica (8 faces) ou hexaquisoctaédrica (48 faces), frequentemente com superfícies curvas, arredondadas, incolores ou coradas. Os diamantes de cor escura são pouco conhecidos e o seu valor como gema é menor devido ao seu aspecto pouco atrativo. Diferente do que se pensou durante anos, os diamantes não são eternos pois o carbono definha com o tempo, mas os diamantes duram mais que qualquer ser humano. Sendo carbono puro, o diamante arde quando exposto a uma chama, transformando-se em dióxido de carbono. É solúvel em diversos ácidos e infusível, exceto a altas pressões. O diamante é o mais duro material de ocorrência natural que se conhece, com uma dureza de 10 (valor máximo da escala de Mohs). Isto significa que não pode ser riscado por nenhum outro mineral ou substância, exceto o próprio diamante, funcionando como um importante material abrasivo. No entanto, é muito frágil, esse fato deve-se à clivagem octaédrica perfeita segundo {111}. Estas duas características fizeram com que o diamante não fosse talhado durante muitos anos. A maior jazida do mundo, revelada pela Rússia ao mundo em 2012, porém de conhecimento do Kremlin desde 1970, tem capacidade para suprir diamantes, mesmo para uso industrial, pelos próximos 3 mil anos. A jazida conta com trilhões de quilates, e conta com 10 vezes mais diamantes do que todas as jazidas conhecidas existentes no mundo hoje, juntas. Ela situa-se numa cratera com extensão de 100 km entre a região de Krasnoiarsk e da república da Iakútia na Sibéria, Rússia. Tal cratera teve origem há 35 milhões de anos atrás, com a queda de um asteroide, e seus diamantes são duas vezes mais resistentes, duros, do que os encontrados em outro lugares, sua origem é decorrente da pressão e do calor gerado no impacto. Tal durabilidade é do interesse de certos setores industriais pois é ótimo e de extrema utilidade para confecção de equipamentos da indústria eletrônica e ótica, assim como em equipamentos para perfuração do solo. Outras jazidas no mundo são de África do Sul.Outras jazidas importantes situam-se na Rússia (segundo maior produtor) e na Austrália (terceiro maior produtor), entre outras de menor importância. A densidade é de 3,48. O brilho é adamantino, derivado do elevadíssimo índice de refracção (2,42). Recorde-se que todos os minerais com índice de refracção maior ou igual a 1,9 possuem este brilho. No entanto, os cristais não cortados podem apresentar um brilho gorduroso. Pode apresentar fluorescência, ou seja, a incidência dos raios ultravioleta produzem luminescência com cores variadas originando colorações azul, rosa, amarela ou verde.</dbo:abstract>
+    <dbo:abstract xml:lang="fr">Le diamant est un minéral composé de carbone (tout comme le graphite et la lonsdaléite), dont il représente l&#39;allotrope de haute pression, qui cristallise dans le système cristallin cubique. C&#39;est le matériau naturel le plus dur (dureté de 10 (maximum) selon l&#39;échelle de Mohs).</dbo:abstract>
+    <dbp:alt rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">A clear octahedral stone protrudes from a black rock.</dbp:alt>
+    <dbp:b rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">no</dbp:b>
+    <dbp:birefringence rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">None</dbp:birefringence>
+    <dbp:boxbgcolor rdf:datatype="http://dbpedia.org/datatype/second">604800.0</dbp:boxbgcolor>
+    <dbp:caption rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">The slightly misshapen octahedral shape of this rough diamond crystal in matrix is typical of the mineral. Its lustrous faces also indicate that this crystal is from a primary deposit.</dbp:caption>
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Native_element_minerals" />
+    <dbp:cleavage rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">111</dbp:cleavage>
+    <dbp:color rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Typically yellow, brown, or gray to colorless. Less often blue, green, black, translucent white, pink, violet, orange, purple, and red.</dbp:color>
+    <dbp:commons rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Diamond</dbp:commons>
+    <dbp:crystalSystem rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Cubic</dbp:crystalSystem>
+    <dbp:density rdf:datatype="http://www.w3.org/2001/XMLSchema#double">3.5</dbp:density>
+    <dbp:diaphaneity rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Transparent to subtransparent to translucent</dbp:diaphaneity>
+    <dbp:dispersion rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.044</dbp:dispersion>
+    <dbp:formula rdf:resource="http://dbpedia.org/resource/Carbon" />
+    <dbp:fracture rdf:resource="http://dbpedia.org/resource/Conchoidal_fracture" />
+    <dbp:habit rdf:resource="http://dbpedia.org/resource/Octahedral" />
+    <dbp:luster rdf:resource="http://dbpedia.org/resource/Adamantine_lustre" />
+    <dbp:melt rdf:resource="http://dbpedia.org/resource/Carbon" />
+    <dbp:mohs rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">10</dbp:mohs>
+    <dbp:n rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">no</dbp:n>
+    <dbp:opticalprop rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Isotropic</dbp:opticalprop>
+    <dbp:pleochroism rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">None</dbp:pleochroism>
+    <dbp:polish rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Adamantine</dbp:polish>
+    <dbp:q rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Diamond</dbp:q>
+    <dbp:refractive rdf:datatype="http://www.w3.org/2001/XMLSchema#double">2.418</dbp:refractive>
+    <dbp:s rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">no</dbp:s>
+    <dbp:streak rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Colorless</dbp:streak>
+    <dbp:strunz rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</dbp:strunz>
+    <dbp:system rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Hexoctahedral class</dbp:system>
+    <dbp:system rdf:resource="http://dbpedia.org/resource/Cubic_crystal_system" />
+    <dbp:twinning rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Spinel law common</dbp:twinning>
+    <dbp:v rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">no</dbp:v>
+    <dbp:wikt rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">diamond</dbp:wikt>
+    <dbp:wordnet_type rdf:resource="http://www.w3.org/2006/03/wn/wn20/instances/synset-mineral-noun-1" />
+    <ns9:hypernym rdf:resource="http://dbpedia.org/resource/Allotrope" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Geography_of_Gabon">
+    <dbp:naturalResources rdf:resource="http://dbpedia.org/resource/Diamond" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Koh-i-Noor">
+    <ns9:hypernym rdf:resource="http://dbpedia.org/resource/Diamond" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Brilliant_(diamond_cut)">
+    <ns9:hypernym rdf:resource="http://dbpedia.org/resource/Diamond" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Diamond_(disambiguation)">
+    <dbo:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/Diamond" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ernest_Oppenheimer">
+    <ns9:hypernym rdf:resource="http://dbpedia.org/resource/Diamond" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/HMS_Diamond_(1874)">
+    <dbp:shipNamesake rdf:resource="http://dbpedia.org/resource/Diamond" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Winter_(Fabergé_egg)">
+    <dbp:materials rdf:resource="http://dbpedia.org/resource/Diamond" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ocean_Dream_Diamond">
+    <ns9:hypernym rdf:resource="http://dbpedia.org/resource/Diamond" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Spanish_Inquisition_Necklace">
+    <ns9:hypernym rdf:resource="http://dbpedia.org/resource/Diamond" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Diamonds">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Diamond" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Pyrope">
+    <dbp:prop1text rdf:resource="http://dbpedia.org/resource/Diamond" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Isotopically_pure_diamond">
+    <ns9:hypernym rdf:resource="http://dbpedia.org/resource/Diamond" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Great_Chrysanthemum_Diamond">
+    <ns9:hypernym rdf:resource="http://dbpedia.org/resource/Diamond" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Heart_of_Eternity_Diamond">
+    <ns9:hypernym rdf:resource="http://dbpedia.org/resource/Diamond" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Pink_Star_(diamond)">
+    <ns9:hypernym rdf:resource="http://dbpedia.org/resource/Diamond" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Pumpkin_Diamond">
+    <ns9:hypernym rdf:resource="http://dbpedia.org/resource/Diamond" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Diego_Alvarez_(Chander_Pahar)">
+    <dbo:occupation rdf:resource="http://dbpedia.org/resource/Diamond" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Great_Table_diamond">
+    <ns9:hypernym rdf:resource="http://dbpedia.org/resource/Diamond" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Iota_Nu_Delta">
+    <dbp:jewel rdf:resource="http://dbpedia.org/resource/Diamond" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Regent_Diamond">
+    <ns9:hypernym rdf:resource="http://dbpedia.org/resource/Diamond" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Wright_&amp;_Teague">
+    <dbo:product rdf:resource="http://dbpedia.org/resource/Diamond" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lambda_Psi_Delta">
+    <dbp:jewel rdf:resource="http://dbpedia.org/resource/Diamond" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Dallas_Blocker">
+    <dbo:associatedBand rdf:resource="http://dbpedia.org/resource/Diamond" />
+    <dbo:associatedMusicalArtist rdf:resource="http://dbpedia.org/resource/Diamond" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Eclarity">
+    <dbo:product rdf:resource="http://dbpedia.org/resource/Diamond" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Still_Me_Still_Now">
+    <ns9:hypernym rdf:resource="http://dbpedia.org/resource/Diamond" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Diamond_industry">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Diamond" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Industrial_Diamond">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Diamond" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Brown_diamonds">
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Diamond" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Imperial_Coronation_Egg">
+    <dbp:materials rdf:resource="http://dbpedia.org/resource/Diamond" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tavernier_Blue">
+    <ns9:hypernym rdf:resource="http://dbpedia.org/resource/Diamond" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Delta_Zeta">
+    <dbp:jewel rdf:resource="http://dbpedia.org/resource/Diamond" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Reeds_Jewelers">
+    <dbo:product rdf:resource="http://dbpedia.org/resource/Diamond" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gem_Diamonds">
+    <dbo:industry rdf:resource="http://dbpedia.org/resource/Diamond" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Star_Uranium">
+    <dbo:product rdf:resource="http://dbpedia.org/resource/Diamond" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/United_Uranium">
+    <dbo:product rdf:resource="http://dbpedia.org/resource/Diamond" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Detonation_nanodiamond">
+    <ns9:hypernym rdf:resource="http://dbpedia.org/resource/Diamond" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gatchina_Palace_(Fabergé_egg)">
+    <dbp:materials rdf:resource="http://dbpedia.org/resource/Diamond" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Alpha_Phi_Omega">
+    <dbp:jewel rdf:resource="http://dbpedia.org/resource/Diamond" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Apollo_Diamond">
+    <dbo:industry rdf:resource="http://dbpedia.org/resource/Diamond" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Eureka_Diamond">
+    <ns9:hypernym rdf:resource="http://dbpedia.org/resource/Diamond" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Excelsior_Diamond">
+    <ns9:hypernym rdf:resource="http://dbpedia.org/resource/Diamond" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kappa_Alpha_Psi">
+    <dbp:symbol rdf:resource="http://dbpedia.org/resource/Diamond" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kappa_Phi_Lambda">
+    <dbp:jewel rdf:resource="http://dbpedia.org/resource/Diamond" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ebelyakh_River_diamond_mine">
+    <dbp:products rdf:resource="http://dbpedia.org/resource/Diamond" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Beta_Theta_Pi">
+    <dbp:symbol rdf:resource="http://dbpedia.org/resource/Diamond" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Psi_Upsilon">
+    <dbp:symbol rdf:resource="http://dbpedia.org/resource/Diamond" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Alpha_Xi_Delta">
+    <dbp:jewel rdf:resource="http://dbpedia.org/resource/Diamond" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Chi_Omega">
+    <dbp:jewel rdf:resource="http://dbpedia.org/resource/Diamond" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Atlas_Jewellery">
+    <dbo:product rdf:resource="http://dbpedia.org/resource/Diamond" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mu_Epsilon_Theta">
+    <dbp:jewel rdf:resource="http://dbpedia.org/resource/Diamond" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Great_Consolidated_Diamonds">
+    <dbo:genre rdf:resource="http://dbpedia.org/resource/Diamond" />
+    <dbo:industry rdf:resource="http://dbpedia.org/resource/Diamond" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tsarevich_(Fabergé_egg)">
+    <dbp:materials rdf:resource="http://dbpedia.org/resource/Diamond" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Shock_diamond">
+    <owl:differentFrom rdf:resource="http://dbpedia.org/resource/Diamond" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Brother_Love&#39;s_Travelling_Salvation_Show">
+    <ns9:hypernym rdf:resource="http://dbpedia.org/resource/Diamond" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Friedel_Sellschop">
+    <dbo:knownFor rdf:resource="http://dbpedia.org/resource/Diamond" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Touching_You,_Touching_Me">
+    <ns9:hypernym rdf:resource="http://dbpedia.org/resource/Diamond" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Williamson_pink_diamond">
+    <ns9:hypernym rdf:resource="http://dbpedia.org/resource/Diamond" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/International_Gemological_Institute">
+    <ns9:hypernym rdf:resource="http://dbpedia.org/resource/Diamond" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Paragon_(diamond)">
+    <ns9:hypernym rdf:resource="http://dbpedia.org/resource/Diamond" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Pelican_(Fabergé_egg)">
+    <dbp:materials rdf:resource="http://dbpedia.org/resource/Diamond" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Grib_diamond_mine">
+    <dbp:products rdf:resource="http://dbpedia.org/resource/Diamond" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bortz">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Diamond" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Taylor–Burton_Diamond">
+    <ns9:hypernym rdf:resource="http://dbpedia.org/resource/Diamond" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Alexander_Palace_(Fabergé_egg)">
+    <dbp:materials rdf:resource="http://dbpedia.org/resource/Diamond" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Romanov_Tercentenary_(Fabergé_egg)">
+    <dbp:materials rdf:resource="http://dbpedia.org/resource/Diamond" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ashberg_Diamond">
+    <ns9:hypernym rdf:resource="http://dbpedia.org/resource/Diamond" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Natural_diamond">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Diamond" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Asokwa">
+    <dbo:type rdf:resource="http://dbpedia.org/resource/Diamond" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Máirín_Diamond">
+    <ns9:hypernym rdf:resource="http://dbpedia.org/resource/Diamond" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mitre-crozier_appliqué">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Diamond" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Cora_Sun-Drop_Diamond">
+    <ns9:hypernym rdf:resource="http://dbpedia.org/resource/Diamond" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Internationalnaya_diamond_mine">
+    <dbp:products rdf:resource="http://dbpedia.org/resource/Diamond" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yubileynaya_diamond_mine">
+    <dbp:products rdf:resource="http://dbpedia.org/resource/Diamond" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/English_Dresden">
+    <ns9:hypernym rdf:resource="http://dbpedia.org/resource/Diamond" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ocean_Paradise_Diamond">
+    <ns9:hypernym rdf:resource="http://dbpedia.org/resource/Diamond" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/African_Diamond_Producers_Association">
+    <dbo:industry rdf:resource="http://dbpedia.org/resource/Diamond" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yanou">
+    <dbo:associatedBand rdf:resource="http://dbpedia.org/resource/Diamond" />
+    <dbo:associatedMusicalArtist rdf:resource="http://dbpedia.org/resource/Diamond" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Akira_Fujishima">
+    <dbo:field rdf:resource="http://dbpedia.org/resource/Diamond" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Russian_cruiser_Almaz">
+    <dbp:shipNamesake rdf:resource="http://dbpedia.org/resource/Diamond" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kiliaen_van_Rensselaer_(merchant)">
+    <dbo:occupation rdf:resource="http://dbpedia.org/resource/Diamond" />
+    <ns9:hypernym rdf:resource="http://dbpedia.org/resource/Diamond" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/This_Is_Me_Now">
+    <ns9:hypernym rdf:resource="http://dbpedia.org/resource/Diamond" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jubilee_Diamond">
+    <ns9:hypernym rdf:resource="http://dbpedia.org/resource/Diamond" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mobilong_diamond_mine">
+    <dbp:products rdf:resource="http://dbpedia.org/resource/Diamond" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Florentine_Diamond">
+    <ns9:hypernym rdf:resource="http://dbpedia.org/resource/Diamond" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Krupp_Diamond">
+    <ns9:hypernym rdf:resource="http://dbpedia.org/resource/Diamond" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sir_Carl_Meyer,_1st_Baronet">
+    <dbo:knownFor rdf:resource="http://dbpedia.org/resource/Diamond" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Synthetic_diamond">
+    <ns9:hypernym rdf:resource="http://dbpedia.org/resource/Diamond" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Allnatt_Diamond">
+    <ns9:hypernym rdf:resource="http://dbpedia.org/resource/Diamond" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/John_D._Grady">
+    <dbo:occupation rdf:resource="http://dbpedia.org/resource/Diamond" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Desire_for_Freedom">
+    <ns9:hypernym rdf:resource="http://dbpedia.org/resource/Diamond" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jim_Diamond_(1988_album)">
+    <ns9:hypernym rdf:resource="http://dbpedia.org/resource/Diamond" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jim_Diamond_(1993_album)">
+    <ns9:hypernym rdf:resource="http://dbpedia.org/resource/Diamond" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Black_Orlov">
+    <ns9:hypernym rdf:resource="http://dbpedia.org/resource/Diamond" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Akbar_Shah_(diamond)">
+    <ns9:hypernym rdf:resource="http://dbpedia.org/resource/Diamond" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Type-II_diamond">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Diamond" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Industrial_diamonds">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Diamond" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lighobong_diamond_mine">
+    <dbp:products rdf:resource="http://dbpedia.org/resource/Diamond" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Polished_diamond">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Diamond" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Amarillo_Starlight">
+    <ns9:hypernym rdf:resource="http://dbpedia.org/resource/Diamond" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mitre-crozier_applique">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Diamond" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Empress_Eugénie_(diamond)">
+    <ns9:hypernym rdf:resource="http://dbpedia.org/resource/Diamond" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Cockerel_(Fabergé_egg)">
+    <dbp:materials rdf:resource="http://dbpedia.org/resource/Diamond" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Daimonds">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Diamond" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Portuguese_Diamond">
+    <ns9:hypernym rdf:resource="http://dbpedia.org/resource/Diamond" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Delta_Phi_Omega">
+    <dbp:gems rdf:resource="http://dbpedia.org/resource/Diamond" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Alexander_Malcolm_Jacob">
+    <ns9:hypernym rdf:resource="http://dbpedia.org/resource/Diamond" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Zamitsa_diamond_mine">
+    <dbp:products rdf:resource="http://dbpedia.org/resource/Diamond" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Diamonad">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Diamond" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Star_of_the_South">
+    <ns9:hypernym rdf:resource="http://dbpedia.org/resource/Diamond" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nassak_Diamond">
+    <ns9:hypernym rdf:resource="http://dbpedia.org/resource/Diamond" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Aikhal_diamond_mine">
+    <dbp:products rdf:resource="http://dbpedia.org/resource/Diamond" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Argyle_Pink_Jubilee">
+    <ns9:hypernym rdf:resource="http://dbpedia.org/resource/Diamond" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Cempaka_diamond_mine">
+    <dbp:products rdf:resource="http://dbpedia.org/resource/Diamond" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Catherine_the_Great_(Fabergé_egg)">
+    <dbp:materials rdf:resource="http://dbpedia.org/resource/Diamond" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ebelyakh_diamond_mine">
+    <dbp:products rdf:resource="http://dbpedia.org/resource/Diamond" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Recycled_diamond">
+    <ns9:hypernym rdf:resource="http://dbpedia.org/resource/Diamond" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Camafuca_diamond_mine">
+    <dbp:products rdf:resource="http://dbpedia.org/resource/Diamond" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Moon_of_Baroda">
+    <ns9:hypernym rdf:resource="http://dbpedia.org/resource/Diamond" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Maiskoye_diamond_mine">
+    <dbp:products rdf:resource="http://dbpedia.org/resource/Diamond" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nizam_of_Hyderabad_necklace">
+    <ns9:hypernym rdf:resource="http://dbpedia.org/resource/Diamond" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/One_More_Mountain_to_Climb">
+    <ns9:hypernym rdf:resource="http://dbpedia.org/resource/Diamond" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tereshchenko_diamond">
+    <ns9:hypernym rdf:resource="http://dbpedia.org/resource/Diamond" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Voorspoed_diamond_mine">
+    <dbp:products rdf:resource="http://dbpedia.org/resource/Diamond" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Let&#39;s_Start_All_Over_Again">
+    <ns9:hypernym rdf:resource="http://dbpedia.org/resource/Diamond" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Pink_Panther_jewel">
+    <ns9:hypernym rdf:resource="http://dbpedia.org/resource/Diamond" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Star_of_New_Zealand">
+    <ns9:hypernym rdf:resource="http://dbpedia.org/resource/Diamond" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Diamond">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Diamond" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Happy_Summer_Days">
+    <ns9:hypernym rdf:resource="http://dbpedia.org/resource/Diamond" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Butuobinskaya_diamond_mine">
+    <dbp:products rdf:resource="http://dbpedia.org/resource/Diamond" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Dalnyaya_diamond_mine">
+    <dbp:products rdf:resource="http://dbpedia.org/resource/Diamond" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nurbinskaya_diamond_mine">
+    <dbp:products rdf:resource="http://dbpedia.org/resource/Diamond" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Verkhne-Munskoye_diamond_mine">
+    <dbp:products rdf:resource="http://dbpedia.org/resource/Diamond" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Impact_diamonds">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Diamond" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Diamond_trade">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Diamond" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Diamond_trading">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Diamond" />
+  </rdf:Description>
+</rdf:RDF>

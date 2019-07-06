@@ -1,0 +1,501 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:dbo="http://dbpedia.org/ontology/"
+	xmlns:dct="http://purl.org/dc/terms/"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	xmlns:prov="http://www.w3.org/ns/prov#"
+	xmlns:ns8="http://dbpedia.org/ontology/PopulatedPlace/"
+	xmlns:georss="http://www.georss.org/georss/"
+	xmlns:dbp="http://dbpedia.org/property/"
+	xmlns:ns11="http://purl.org/linguistics/gold/" >
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Olympus_Corporation">
+    <dbo:foundationPlace rdf:resource="http://dbpedia.org/resource/Shinjuku" />
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Shinjuku" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Taito">
+    <dbo:locationCity rdf:resource="http://dbpedia.org/resource/Shinjuku" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yukiko_Okada">
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Shinjuku" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Isetan_Mitsukoshi_Holdings">
+    <dbo:locationCity rdf:resource="http://dbpedia.org/resource/Shinjuku" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Myco_(singer)">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Shinjuku" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Reichi_Nakaido">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Shinjuku" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jūgatsu_Toi">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Shinjuku" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kai_Atō">
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Shinjuku" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/新宿区">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Shinjuku" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Seikima-II">
+    <dbo:hometown rdf:resource="http://dbpedia.org/resource/Shinjuku" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Dadavida">
+    <dbo:recordedIn rdf:resource="http://dbpedia.org/resource/Shinjuku" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Takashi_Mukaibo">
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Shinjuku" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ishikawa_(restaurant)">
+    <dbp:city rdf:resource="http://dbpedia.org/resource/Shinjuku" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ministry_of_Defense_(Japan)">
+    <dbo:headquarter rdf:resource="http://dbpedia.org/resource/Shinjuku" />
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Shinjuku" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kenji_Utsumi">
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Shinjuku" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mitsuko_Aoyama">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Shinjuku" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Shinjuku_(disambiguation)">
+    <dbo:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/Shinjuku" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yuichiro_Nagai">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Shinjuku" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Wakanohana_Kanji_I">
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Shinjuku" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kōichi_Kitamura">
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Shinjuku" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Isao_Tamagawa">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Shinjuku" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Maya_Okamoto">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Shinjuku" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kei_Suma">
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Shinjuku" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Takao_Iwami">
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Shinjuku" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nobuyuki_Sekiyama">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Shinjuku" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kōsuke_Toyohara">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Shinjuku" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Shinjuku">
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatOlympicAthleticsVenues" />
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/PopulatedPlace" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Settlement" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Place" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Location" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/AdministrativeDistrict108491826" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Area108497294" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Location100027167" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/District108552138" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Region108630985" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Scene108645963" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Venue108677628" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoPermanentlyLocatedEntity" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoGeoEntity" />
+    <rdf:type rdf:resource="http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PhysicalEntity100001930" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Object100002684" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatNeighborhoodsOfTokyo" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoLegalActorGeo" />
+    <rdf:type rdf:resource="http://schema.org/Place" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Section108648322" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Vicinity108641113" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Wikicat1964SummerOlympicVenues" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q486972" />
+    <rdfs:label xml:lang="ja">新宿区</rdfs:label>
+    <rdfs:label xml:lang="fr">Shinjuku</rdfs:label>
+    <rdfs:label xml:lang="ar">شينجوكو (طوكيو)</rdfs:label>
+    <rdfs:label xml:lang="de">Shinjuku</rdfs:label>
+    <rdfs:label xml:lang="ru">Синдзюку</rdfs:label>
+    <rdfs:label xml:lang="pl">Shinjuku (Tokio)</rdfs:label>
+    <rdfs:label xml:lang="it">Shinjuku</rdfs:label>
+    <rdfs:label xml:lang="pt">Shinjuku</rdfs:label>
+    <rdfs:label xml:lang="en">Shinjuku</rdfs:label>
+    <rdfs:label xml:lang="zh">新宿區</rdfs:label>
+    <rdfs:label xml:lang="nl">Shinjuku</rdfs:label>
+    <rdfs:label xml:lang="es">Shinjuku (Tokio)</rdfs:label>
+    <rdfs:comment xml:lang="pt">Shinjuku (新宿) é um dos 23 &quot;bairros&quot; ou &quot;distritos&quot; (ku) de Tóquio. Porém, desde 1943, quando Tóquio, passou de município a província, englobando cidades e vilas vizinhas, Shinjuku ganhou status análogo ao de cidade, enquanto Tóquio deixou de existir formalmente como cidade. Shinjuku é um centro comercial e administrativo, considerado o mais importante da província, e por analogia pode ser considerada a capital do Japão. A estação de Shinjuku é considerada a mais movimentada do mundo, com mais de 3 milhões de usuários diários.</rdfs:comment>
+    <rdfs:comment xml:lang="de">Shinjuku (jap. 新宿区 -ku, „Bezirk ~“, engl. &quot;~ City&quot;) ist ein („Sonder-“)Bezirk und Verwaltungssitz der japanischen Präfektur Tokio. Er liegt im Westen Tokios.</rdfs:comment>
+    <rdfs:comment xml:lang="it">Shinjuku (新宿区 Shinjuku-ku?) è uno dei 23 quartieri speciali di Tokyo in Giappone. È un importante centro commerciale ed amministrativo, così come la sede del nodo ferroviario più trafficato al mondo, la stazione di Shinjuku. Shinjuku è la sede del Palazzo del Governo Metropolitano di Tokyo, uno dei più alti edifici di Tokyo, dove viene gestita l&#39;amministrazione politica e pubblica di Tokyo. Nel 2008 il quartiere aveva un popolazione stimata di 312.418 abitanti ed una densità di popolazione di 17.140 persone per km². L&#39;area totale è di 18,23 km². Il quartiere venne fondato il 15 marzo 1947. 
+* 
+*</rdfs:comment>
+    <rdfs:comment xml:lang="ar">25بك المحتوى هنا ينقصه الاستشهاد بمصادر. يرجى إيراد مصادر موثوق بها. أي معلومات غير موثقة يمكن التشكيك بها وإزالتها. (مارس 2016) شينجوكو (باليابانية: 新宿区 شنجوكو-كو) وتعني &quot;حي شينجوكو&quot; هو أحد أحياء طوكيو ال 23. تعتبر من أهم مراكز التجارة والإدارة والسكن في العاصمة اليابانية. تقع بها محطة شينجوكو التي تحتل عصب مهم في شبكة القطارات في العاصمة اليابانية ومبنى حكومة محافظة طوكيو. .</rdfs:comment>
+    <rdfs:comment xml:lang="en">Shinjuku (新宿区 Shinjuku-ku, &quot;New Lodge&quot;) is a special ward in Tokyo, Japan. It is a major commercial and administrative centre, housing the busiest railway station in the world (Shinjuku Station) and the Tokyo Metropolitan Government Building, the administration centre for the government of Tokyo. As of 2015, the ward has an estimated population of 337,556 and a population density of 18,517 people per km². The total area is 18.23 km².</rdfs:comment>
+    <rdfs:comment xml:lang="pl">Shinjuku (jap. 新宿区 Shinjuku-ku) – jeden z 23 specjalnych okręgów (dzielnic) japońskiej stolicy, Tokio. Okręg Shinjuku-ku został utworzony w 1947 r. po połączeniu trzech mniejszych okręgów-dzielnic: Ushigome-ku, Yotsuya-ku oraz Yodobashi-ku. W 2008 r. liczba ludności w okręgu wynosiła 312 418 mieszkańców, a gęstość zaludnienia 17 140 osób na km². Okręg zajmuje obszar 18,23 km². W Shinjuku mieszka stosunkowo wielu obcokrajowców, m.in.: Koreańczycy, Chińczycy, Francuzi i Filipińczycy. Ich liczba w 2005 r. wynosiła 29 353 osób.</rdfs:comment>
+    <rdfs:comment xml:lang="ru">Синдзюку (яп. 新宿区 Синдзюку-ку) — один из 23 специальных районов Токио, административный центр префектуры Токио. Город был основан путём объединения трёх близлежащих районов Усигомэ-ку, Ёцуя-ку и Ёдобаси-ку. Площадь города составляет 18,23 км², население — 333 684 человека (1 августа 2014), плотность населения — 18 304,11 чел./км².Соседние специальные районы Токио: Тиёда на востоке; Бункё и Тосима на севере; Накано на западе, Сибуя и Минато на юге.</rdfs:comment>
+    <rdfs:comment xml:lang="ja">新宿区（しんじゅくく）は、東京都の特別区のひとつで、23区西部に区分される。 郵便番号（上3桁）160・161・162・163・169</rdfs:comment>
+    <rdfs:comment xml:lang="nl">Shinjuku (新宿区,  Shinjuku-ku) is een van de 23 speciale wijken van Tokio. Shinjuku heeft het statuut van stad en noemt zich in het Engels ook Shinjuku City. Op 1 maart 2008 had de stad 310.796 inwoners. De bevolkingsdichtheid bedroeg 17050 inw./km². De oppervlakte van de stad is 18,23 km². Het is een belangrijk zaken-en bestuurscentrum van Tokio. Het Station Shinjuku is een van de belangrijkste spoorwegstations in Tokio, waar iedere werkdag meer dan 3,60 miljoen mensen in en uitstappen.</rdfs:comment>
+    <rdfs:comment xml:lang="zh">新宿区（日语：新宿区／しんじゅくく Shinjuku ku */?）是日本東京都內23個特別區之一，也是東京乃至於整個日本最著名的繁华商业区，東京都廳（都政府）位於新宿區內，是整個東京都的行政中樞。</rdfs:comment>
+    <rdfs:comment xml:lang="es">Shinjuku (新宿区 -ku Shinjuku?) es uno de los 23 Barrios Especiales de Tokio. Es el más importante centro comercial y administrativo de Tokio. En el mismo, se encuentra su famosa estación de trenes, que es la más utilizada del mundo, (un promedio de 3 millones de personas emplean la estación diariamente), además del Tochou (都庁) o edificio del Gobierno Metropolitano de Tokio, el cual es el centro de la administración de Tokio y símbolo urbano más importante de la parte oriental de Tokio. En el área cercana de la estación de Shinjuku se encuentra una gran concentración de tiendas de electrónica, centros comerciales como Odakyu, cines, resturantes y bares. Muchos hoteles internacionales poseen una sucursal en este barrio, especialmente hacia el oeste del barrio.</rdfs:comment>
+    <rdfs:comment xml:lang="fr">Shinjuku (新宿区, Shinjuku-ku) est l&#39;un des 23 arrondissements spéciaux (区, ku) fondés en 1947 en remplacement de la municipalité de Tokyo. En 2008, sa population était de 313 806 personnes pour une superficie de 18,23 km2. C&#39;est là que se trouve le gouvernement de la préfecture de Tokyo. Shinjuku est l&#39;arrondissement de Tokyo comptant le plus grand nombre d&#39;étrangers. Au 1er octobre 2005, on en comptait 29 353 de 107 nationalités différentes.[réf. nécessaire] Il s&#39;agit d&#39;abord de ressortissants de Corée (du Nord et du Sud), de Chine, du Vietnam, de Birmanie et des Philippines.</rdfs:comment>
+    <owl:sameAs rdf:resource="http://yago-knowledge.org/resource/Shinjuku,_Tokyo" />
+    <owl:sameAs rdf:resource="http://eu.dbpedia.org/resource/Shinjuku" />
+    <owl:sameAs rdf:resource="http://ja.dbpedia.org/resource/新宿区" />
+    <owl:sameAs rdf:resource="http://fr.dbpedia.org/resource/Shinjuku" />
+    <owl:sameAs rdf:resource="http://it.dbpedia.org/resource/Shinjuku" />
+    <owl:sameAs rdf:resource="http://el.dbpedia.org/resource/Σιντζούκου" />
+    <owl:sameAs rdf:resource="http://sws.geonames.org/1852083/" />
+    <owl:sameAs rdf:resource="http://ko.dbpedia.org/resource/신주쿠_구" />
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q179645" />
+    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/Shinjuku" />
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Shinjuku" />
+    <owl:sameAs rdf:resource="http://cs.dbpedia.org/resource/Šindžuku_(Tokio)" />
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.012xj2" />
+    <owl:sameAs rdf:resource="http://pl.dbpedia.org/resource/Shinjuku_(Tokio)" />
+    <owl:sameAs rdf:resource="http://nl.dbpedia.org/resource/Shinjuku" />
+    <owl:sameAs rdf:resource="http://id.dbpedia.org/resource/Shinjuku" />
+    <owl:sameAs rdf:resource="http://es.dbpedia.org/resource/Shinjuku_(Tokio)" />
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q179645" />
+    <owl:sameAs rdf:resource="http://pt.dbpedia.org/resource/Shinjuku" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:1964_Summer_Olympic_venues" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Olympic_athletics_venues" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Wards_of_Tokyo" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Shinjuku" />
+    <dbo:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">147734</dbo:wikiPageID>
+    <dbo:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">743113123</dbo:wikiPageRevisionID>
+    <dbo:wikiPageExternalLink rdf:resource="http://www.city.shinjuku.tokyo.jp/foreign/english/" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.city.shinjuku.tokyo.jp/foreign/english/aramashi/rekishi/rekishi.html" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.city.shinjuku.lg.jp/" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.city.shinjuku.lg.jp" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.gojapango.com/tokyo/shinjuku.htm" />
+    <foaf:name xml:lang="en">Shinjuku City</foaf:name>
+    <foaf:homepage rdf:resource="http://www.city.shinjuku.lg.jp" />
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#float">35.6938</geo:lat>
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#float">139.704</geo:long>
+    <foaf:depiction rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Skyscrapers_of_Shinjuku_2009_January.jpg" />
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Shinjuku" />
+    <geo:geometry rdf:datatype="http://www.openlinksw.com/schemas/virtrdf#Geometry">POINT(139.70355224609 35.693840026855)</geo:geometry>
+    <dbo:thumbnail rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Skyscrapers_of_Shinjuku_2009_January.jpg?width=300" />
+    <prov:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Shinjuku?oldid=743113123" />
+    <ns8:areaTotal rdf:datatype="http://dbpedia.org/datatype/squareKilometre">18.23</ns8:areaTotal>
+    <ns8:populationDensity rdf:datatype="http://dbpedia.org/datatype/inhabitantsPerSquareKilometre">18517.0</ns8:populationDensity>
+    <dbo:abstract xml:lang="pl">Shinjuku (jap. 新宿区 Shinjuku-ku) – jeden z 23 specjalnych okręgów (dzielnic) japońskiej stolicy, Tokio. Okręg Shinjuku-ku został utworzony w 1947 r. po połączeniu trzech mniejszych okręgów-dzielnic: Ushigome-ku, Yotsuya-ku oraz Yodobashi-ku. W 2008 r. liczba ludności w okręgu wynosiła 312 418 mieszkańców, a gęstość zaludnienia 17 140 osób na km². Okręg zajmuje obszar 18,23 km². W Shinjuku mieszka stosunkowo wielu obcokrajowców, m.in.: Koreańczycy, Chińczycy, Francuzi i Filipińczycy. Ich liczba w 2005 r. wynosiła 29 353 osób. W węższym znaczeniu nazwą Shinjuku określa się jedno z ważniejszych &quot;podcentrów&quot; Tokio, obejmujące dzielnicę wokół dworca Shinjuku w zachodniej części Shinjuku-ku. Wykracza ono poza południowe granice okręgu na teren Shibuya-ku.</dbo:abstract>
+    <dbo:abstract xml:lang="nl">Shinjuku (新宿区,  Shinjuku-ku) is een van de 23 speciale wijken van Tokio. Shinjuku heeft het statuut van stad en noemt zich in het Engels ook Shinjuku City. Op 1 maart 2008 had de stad 310.796 inwoners. De bevolkingsdichtheid bedroeg 17050 inw./km². De oppervlakte van de stad is 18,23 km². Het is een belangrijk zaken-en bestuurscentrum van Tokio. Het Station Shinjuku is een van de belangrijkste spoorwegstations in Tokio, waar iedere werkdag meer dan 3,60 miljoen mensen in en uitstappen.</dbo:abstract>
+    <dbo:abstract xml:lang="fr">Shinjuku (新宿区, Shinjuku-ku) est l&#39;un des 23 arrondissements spéciaux (区, ku) fondés en 1947 en remplacement de la municipalité de Tokyo. En 2008, sa population était de 313 806 personnes pour une superficie de 18,23 km2. C&#39;est là que se trouve le gouvernement de la préfecture de Tokyo. Shinjuku est l&#39;arrondissement de Tokyo comptant le plus grand nombre d&#39;étrangers. Au 1er octobre 2005, on en comptait 29 353 de 107 nationalités différentes.[réf. nécessaire] Il s&#39;agit d&#39;abord de ressortissants de Corée (du Nord et du Sud), de Chine, du Vietnam, de Birmanie et des Philippines. De façon plus restreinte, Shinjuku est un quartier situé autour de la gare de Shinjuku. C&#39;est l&#39;un des quartiers les plus animés de Tokyo, mais aussi un haut lieu des affaires abritant le siège de nombreuses grandes sociétés. La plupart des grands magasins japonais (Isetan, Keiō, Odakyu, Marui, Mitsukoshi, Seibu, Takashimaya et Tōkyū) sont présents à Shinjuku. On y trouve aussi des cinémas, restaurants, bars, et des hôtels internationaux.</dbo:abstract>
+    <dbo:abstract xml:lang="ar">25بك المحتوى هنا ينقصه الاستشهاد بمصادر. يرجى إيراد مصادر موثوق بها. أي معلومات غير موثقة يمكن التشكيك بها وإزالتها. (مارس 2016) شينجوكو (باليابانية: 新宿区 شنجوكو-كو) وتعني &quot;حي شينجوكو&quot; هو أحد أحياء طوكيو ال 23. تعتبر من أهم مراكز التجارة والإدارة والسكن في العاصمة اليابانية. تقع بها محطة شينجوكو التي تحتل عصب مهم في شبكة القطارات في العاصمة اليابانية ومبنى حكومة محافظة طوكيو. .</dbo:abstract>
+    <dbo:abstract xml:lang="es">Shinjuku (新宿区 -ku Shinjuku?) es uno de los 23 Barrios Especiales de Tokio. Es el más importante centro comercial y administrativo de Tokio. En el mismo, se encuentra su famosa estación de trenes, que es la más utilizada del mundo, (un promedio de 3 millones de personas emplean la estación diariamente), además del Tochou (都庁) o edificio del Gobierno Metropolitano de Tokio, el cual es el centro de la administración de Tokio y símbolo urbano más importante de la parte oriental de Tokio. En el área cercana de la estación de Shinjuku se encuentra una gran concentración de tiendas de electrónica, centros comerciales como Odakyu, cines, resturantes y bares. Muchos hoteles internacionales poseen una sucursal en este barrio, especialmente hacia el oeste del barrio. En el año 2008, la población estimada de este barrio fue de 312.418, con una densidad poblacional de 17.140 personas por km², con una área total de 18,23 km². Shinjuku posee la más alta tasa de inmigrantes registrados que cualquier otro barrio en Tokio. El día 1 de octubre del año 2005, 29.353 personas con 107 nacionalidades estuvieron registradas en Shinjuku, siendo los habitantes de Corea (Corea del Norte y Corea del Sur), China y Francia los más recurrentes.</dbo:abstract>
+    <dbo:abstract xml:lang="en">Shinjuku (新宿区 Shinjuku-ku, &quot;New Lodge&quot;) is a special ward in Tokyo, Japan. It is a major commercial and administrative centre, housing the busiest railway station in the world (Shinjuku Station) and the Tokyo Metropolitan Government Building, the administration centre for the government of Tokyo. As of 2015, the ward has an estimated population of 337,556 and a population density of 18,517 people per km². The total area is 18.23 km².</dbo:abstract>
+    <dbo:abstract xml:lang="pt">Shinjuku (新宿) é um dos 23 &quot;bairros&quot; ou &quot;distritos&quot; (ku) de Tóquio. Porém, desde 1943, quando Tóquio, passou de município a província, englobando cidades e vilas vizinhas, Shinjuku ganhou status análogo ao de cidade, enquanto Tóquio deixou de existir formalmente como cidade. Shinjuku é um centro comercial e administrativo, considerado o mais importante da província, e por analogia pode ser considerada a capital do Japão. A estação de Shinjuku é considerada a mais movimentada do mundo, com mais de 3 milhões de usuários diários.</dbo:abstract>
+    <dbo:abstract xml:lang="zh">新宿区（日语：新宿区／しんじゅくく Shinjuku ku */?）是日本東京都內23個特別區之一，也是東京乃至於整個日本最著名的繁华商业区，東京都廳（都政府）位於新宿區內，是整個東京都的行政中樞。</dbo:abstract>
+    <dbo:abstract xml:lang="ru">Синдзюку (яп. 新宿区 Синдзюку-ку) — один из 23 специальных районов Токио, административный центр префектуры Токио. Город был основан путём объединения трёх близлежащих районов Усигомэ-ку, Ёцуя-ку и Ёдобаси-ку. Площадь города составляет 18,23 км², население — 333 684 человека (1 августа 2014), плотность населения — 18 304,11 чел./км².Соседние специальные районы Токио: Тиёда на востоке; Бункё и Тосима на севере; Накано на западе, Сибуя и Минато на юге.</dbo:abstract>
+    <dbo:abstract xml:lang="ja">新宿区（しんじゅくく）は、東京都の特別区のひとつで、23区西部に区分される。 郵便番号（上3桁）160・161・162・163・169</dbo:abstract>
+    <dbo:abstract xml:lang="it">Shinjuku (新宿区 Shinjuku-ku?) è uno dei 23 quartieri speciali di Tokyo in Giappone. È un importante centro commerciale ed amministrativo, così come la sede del nodo ferroviario più trafficato al mondo, la stazione di Shinjuku. Shinjuku è la sede del Palazzo del Governo Metropolitano di Tokyo, uno dei più alti edifici di Tokyo, dove viene gestita l&#39;amministrazione politica e pubblica di Tokyo. Shinjuku è un importante nodo del trasporto urbano: si stima che attraverso le tre linee della metropolitana, due linee urbane ferroviarie private, e diverse linee ferroviarie della JR passino in media 3,6 milioni di persone ogni giorno. È anche la sede di una grossa concentrazione di grandi magazzini, cinema, hotel, bar, ecc. La città di Shinjuku si sviluppò nella sua forma corrente dopo il Grande Terremoto del Kanto (Kantō-daishinsai) del 1923, dato che l&#39;area era sismicamente stabile e scampò alla gran parte delle devastazioni. Di conseguenza Shinjuku occidentale è una delle poche aree di Tokyo con molti grattacieli. Nel 1698, durante il periodo Edo, Shinjuku (o Naitō Shinjuku) si sviluppò come nuova (shin) stazione (shuku o juku) sulla Kōshū Kaidō. Naitō era un daimyo il cui palazzo si trovava nell&#39;area; questa terra è ora un parco pubblico, lo Shinjuku Gyoen. Nel 2008 il quartiere aveva un popolazione stimata di 312.418 abitanti ed una densità di popolazione di 17.140 persone per km². L&#39;area totale è di 18,23 km². Le zone principali del quartiere sono Ichigaya, il quartiere a luci rosse Kabukichō, Okubo, Shinanomachi, Shinjuku ni-chome e Takadanobaba. Shinjuku è la sede della più grande, meglio conosciuta e più attiva comunità gay del Giappone, Shinjuku ni-chome. È anche sede della Waseda University, della Tokyo Fuji University, della squadra di baseball dei Yakult Swallows ed ospita una caserma della Forza di autodifesa giapponese. Il quartiere venne fondato il 15 marzo 1947. 
+* Segni al neon lungo Yasukuni-dori in Shinjuku 
+* Yasukuni-dori di giorno 
+* Palazzo del Governo Metropolitano di Tokyo (Tōkyō Tochōsha) 
+* Shinjuku di notte</dbo:abstract>
+    <dbo:abstract xml:lang="de">Shinjuku (jap. 新宿区 -ku, „Bezirk ~“, engl. &quot;~ City&quot;) ist ein („Sonder-“)Bezirk und Verwaltungssitz der japanischen Präfektur Tokio. Er liegt im Westen Tokios.</dbo:abstract>
+    <dbo:areaTotal rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.823e+07</dbo:areaTotal>
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Kantō_region" />
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Tokyo" />
+    <dbo:leaderTitle xml:lang="en">Tourism Ambassador</dbo:leaderTitle>
+    <dbo:leaderTitle xml:lang="en">Mayor</dbo:leaderTitle>
+    <dbo:populationAsOf rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2015-05-01</dbo:populationAsOf>
+    <dbo:populationDensity rdf:datatype="http://www.w3.org/2001/XMLSchema#double">18517.0</dbo:populationDensity>
+    <dbo:populationTotal rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">337556</dbo:populationTotal>
+    <dbo:timeZone rdf:resource="http://dbpedia.org/resource/Japan_Standard_Time" />
+    <dbo:type rdf:resource="http://dbpedia.org/resource/Special_wards_of_Tokyo" />
+    <dbo:utcOffset>+9</dbo:utcOffset>
+    <georss:point>35.69383888888889 139.70355</georss:point>
+    <dbp:blank1InfoSec rdf:resource="http://dbpedia.org/resource/Zelkova_serrata" />
+    <dbp:blank1NameSec rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">- Tree</dbp:blank1NameSec>
+    <dbp:blank2InfoSec rdf:resource="http://dbpedia.org/resource/Azalea" />
+    <dbp:blank2NameSec rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">- Flower</dbp:blank2NameSec>
+    <dbp:blankInfoSec rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</dbp:blankInfoSec>
+    <dbp:blankNameSec rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Phone number</dbp:blankNameSec>
+    <dbp:blankNameSec rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">City Symbols</dbp:blankNameSec>
+    <dbp:coordinatesDisplay rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">inline,title</dbp:coordinatesDisplay>
+    <dbp:coordinatesRegion rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">JP</dbp:coordinatesRegion>
+    <dbp:imageCaption rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Skyscrapers of Shinjuku with Mt Fuji in the background</dbp:imageCaption>
+    <dbp:imageFlag rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Flag of Shinjuku, Tokyo.svg</dbp:imageFlag>
+    <dbp:imageMap rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Shinjuku-ku in Tokyo Prefecture Ja.svg</dbp:imageMap>
+    <dbp:imageSkyline rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Skyscrapers of Shinjuku 2009 January.jpg</dbp:imageSkyline>
+    <dbp:latd rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">35</dbp:latd>
+    <dbp:latm rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">41</dbp:latm>
+    <dbp:latns rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">N</dbp:latns>
+    <dbp:lats rdf:datatype="http://www.w3.org/2001/XMLSchema#double">37.82</dbp:lats>
+    <dbp:leaderName rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Godzilla</dbp:leaderName>
+    <dbp:leaderName rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Kenichi Yoshizumi</dbp:leaderName>
+    <dbp:longd rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">139</dbp:longd>
+    <dbp:longew rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">E</dbp:longew>
+    <dbp:longm rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">42</dbp:longm>
+    <dbp:longs rdf:datatype="http://www.w3.org/2001/XMLSchema#double">12.78</dbp:longs>
+    <dbp:mapCaption rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Location of Shinjuku in Tokyo</dbp:mapCaption>
+    <dbp:nativeNameLang rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">ja</dbp:nativeNameLang>
+    <dbp:pushpinMap rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Japan</dbp:pushpinMap>
+    <dbp:subdivisionName rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Japan</dbp:subdivisionName>
+    <dbp:subdivisionType rdf:resource="http://dbpedia.org/resource/Prefectures_of_Japan" />
+    <dbp:subdivisionType rdf:resource="http://dbpedia.org/resource/List_of_sovereign_states" />
+    <dbp:subdivisionType rdf:resource="http://dbpedia.org/resource/List_of_regions_of_Japan" />
+    <ns11:hypernym rdf:resource="http://dbpedia.org/resource/Ward" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tokyo_Metropolitan_Government_Building">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Shinjuku" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Meiji_Jingu_Stadium">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Shinjuku" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hoya_Corporation">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Shinjuku" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Benkyo_Tamaoki">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Shinjuku" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kazuyoshi_Akaba">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Shinjuku" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yoichiro_Esaki">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Shinjuku" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Anicom">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Shinjuku" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hozunyam">
+    <dbo:residence rdf:resource="http://dbpedia.org/resource/Shinjuku" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kazutoki_Kono">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Shinjuku" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Takashi_Tachikawa">
+    <dbp:birthplace rdf:resource="http://dbpedia.org/resource/Shinjuku" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gaba_Corporation">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Shinjuku" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kichisaburō_Nomura">
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Shinjuku" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Soka_Gakkai">
+    <dbo:headquarter rdf:resource="http://dbpedia.org/resource/Shinjuku" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tokyo_University_of_Science">
+    <dbo:city rdf:resource="http://dbpedia.org/resource/Shinjuku" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hakubunkan">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Shinjuku" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ichijinsha">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Shinjuku" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Fujiko_Fujio">
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Shinjuku" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Meiji_Memorial_Picture_Gallery">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Shinjuku" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nakamura_Tsune">
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Shinjuku" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Shinjyuku">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Shinjuku" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Toshiya_Fujita_(director)">
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Shinjuku" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hideaki_Nitani">
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Shinjuku" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jun_Togawa">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Shinjuku" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kaneto_Shiozawa">
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Shinjuku" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Masahiro_Yamada_(screenwriter)">
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Shinjuku" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Masao_Yoshida_(nuclear_engineer)">
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Shinjuku" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mokichi_Saitō">
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Shinjuku" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nozomi_Momoi">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Shinjuku" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Risako_Mitsui">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Shinjuku" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Shiho_Niiyama">
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Shinjuku" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yoshitarō_Nomura">
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Shinjuku" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Shinjyuku,_Tokyo">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Shinjuku" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jun_Tamano">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Shinjuku" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Oku_Mumeo">
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Shinjuku" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Komeito">
+    <dbo:headquarter rdf:resource="http://dbpedia.org/resource/Shinjuku" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Natsume_(company)">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Shinjuku" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Susumu_Hirasawa">
+    <dbo:hometown rdf:resource="http://dbpedia.org/resource/Shinjuku" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Football_at_the_1964_Summer_Olympics">
+    <dbp:stadium rdf:resource="http://dbpedia.org/resource/Shinjuku" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nihon_Kohden">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Shinjuku" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kogakuin_Crash_Machines_football">
+    <dbp:location rdf:resource="http://dbpedia.org/resource/Shinjuku" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Takeshi_Yoshioka">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Shinjuku" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Waseda_Big_Bears_football">
+    <dbp:location rdf:resource="http://dbpedia.org/resource/Shinjuku" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Colin_Killoran">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Shinjuku" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kei_Tomiyama">
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Shinjuku" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Niall_Killoran">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Shinjuku" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kentarō_Haneda">
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Shinjuku" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2012_Emperor&#39;s_Cup">
+    <dbp:stadium rdf:resource="http://dbpedia.org/resource/Shinjuku" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2012_Kashiwa_Reysol_season">
+    <dbp:location rdf:resource="http://dbpedia.org/resource/Shinjuku" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mamoru_Sasaki">
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Shinjuku" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sinzyuku">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Shinjuku" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sinzyuku,_Tokyo">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Shinjuku" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jinzō_Toriumi">
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Shinjuku" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nara_Kotsu_Bus_Lines">
+    <dbp:destinations rdf:resource="http://dbpedia.org/resource/Shinjuku" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sompo_Japan_Nipponkoa_Holdings">
+    <dbo:locationCity rdf:resource="http://dbpedia.org/resource/Shinjuku" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/新宿">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Shinjuku" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Shinjuku,_Tokyo">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Shinjuku" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Taisei_Corporation">
+    <dbo:locationCity rdf:resource="http://dbpedia.org/resource/Shinjuku" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Church_of_Misery">
+    <dbo:hometown rdf:resource="http://dbpedia.org/resource/Shinjuku" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mami_Ayukawa">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Shinjuku" />
+    <dbo:hometown rdf:resource="http://dbpedia.org/resource/Shinjuku" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yukio_Ozaki">
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Shinjuku" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jitsuo_Inagaki">
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Shinjuku" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Shinjuku-ku,_Tokyo">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Shinjuku" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Miles_in_Tokyo">
+    <dbo:recordedIn rdf:resource="http://dbpedia.org/resource/Shinjuku" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Shinjuku-ku">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Shinjuku" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hirotada_Ototake">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Shinjuku" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Japan_Ground_Self-Defense_Force">
+    <dbo:garrison rdf:resource="http://dbpedia.org/resource/Shinjuku" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kōji_Wakamatsu">
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Shinjuku" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Shuttle_Japan">
+    <dbo:locationCity rdf:resource="http://dbpedia.org/resource/Shinjuku" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sompo_Japan_Nipponkoa">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Shinjuku" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/School_of_International_Liberal_Studies">
+    <dbo:city rdf:resource="http://dbpedia.org/resource/Shinjuku" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Atsuro_Watabe">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Shinjuku" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Japan_Society_of_Civil_Engineers">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Shinjuku" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bunzō_Hayata">
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Shinjuku" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Keizō_Kanie">
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Shinjuku" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Junnosuke_Schneider">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Shinjuku" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Shinjyuku-ku">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Shinjuku" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Shinjuku,_JP-13">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Shinjuku" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Daiki_Asama">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Shinjuku" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yosuke_Kamigata">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Shinjuku" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Shinjyuku_City">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Shinjuku" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kōzō_Watanabe_(Liberal_Democratic_Party_politician)">
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Shinjuku" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mineho_Ozaki">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Shinjuku" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Downtown_Tokyo">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Shinjuku" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Shinjuku">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Shinjuku" />
+  </rdf:Description>
+</rdf:RDF>

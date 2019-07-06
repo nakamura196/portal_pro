@@ -1,0 +1,1173 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:dbo="http://dbpedia.org/ontology/"
+	xmlns:dct="http://purl.org/dc/terms/"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	xmlns:prov="http://www.w3.org/ns/prov#"
+	xmlns:ns8="http://dbpedia.org/ontology/PopulatedPlace/"
+	xmlns:georss="http://www.georss.org/georss/"
+	xmlns:dbp="http://dbpedia.org/property/" >
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kuraishi,_Aomori">
+    <dbo:region rdf:resource="http://dbpedia.org/resource/Tōhoku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sanriku,_Iwate">
+    <dbo:region rdf:resource="http://dbpedia.org/resource/Tōhoku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Aizumisato">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Tōhoku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Iizaka,_Fukushima">
+    <dbo:region rdf:resource="http://dbpedia.org/resource/Tōhoku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Minamiaizu">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Tōhoku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ōsaki,_Miyagi">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Tōhoku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Aizuwakamatsu">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Tōhoku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Happō,_Akita">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Tōhoku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kōriyama">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Tōhoku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mitane,_Akita">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Tōhoku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mount_Asahi_(Yamagata)">
+    <dbo:locatedInArea rdf:resource="http://dbpedia.org/resource/Tōhoku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mount_Hachimantai">
+    <dbo:locatedInArea rdf:resource="http://dbpedia.org/resource/Tōhoku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mount_Hayachine">
+    <dbo:locatedInArea rdf:resource="http://dbpedia.org/resource/Tōhoku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ōhasama,_Iwate">
+    <dbo:region rdf:resource="http://dbpedia.org/resource/Tōhoku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Fukuchi,_Aomori">
+    <dbo:region rdf:resource="http://dbpedia.org/resource/Tōhoku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ikarigaseki,_Aomori">
+    <dbo:region rdf:resource="http://dbpedia.org/resource/Tōhoku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Iwaki,_Aomori">
+    <dbo:region rdf:resource="http://dbpedia.org/resource/Tōhoku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kanagi,_Aomori">
+    <dbo:region rdf:resource="http://dbpedia.org/resource/Tōhoku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kanita,_Aomori">
+    <dbo:region rdf:resource="http://dbpedia.org/resource/Tōhoku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kodomari,_Aomori">
+    <dbo:region rdf:resource="http://dbpedia.org/resource/Tōhoku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Minmaya,_Aomori">
+    <dbo:region rdf:resource="http://dbpedia.org/resource/Tōhoku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Momoishi,_Aomori">
+    <dbo:region rdf:resource="http://dbpedia.org/resource/Tōhoku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nagawa,_Aomori">
+    <dbo:region rdf:resource="http://dbpedia.org/resource/Tōhoku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Namioka,_Aomori">
+    <dbo:region rdf:resource="http://dbpedia.org/resource/Tōhoku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nangō,_Aomori">
+    <dbo:region rdf:resource="http://dbpedia.org/resource/Tōhoku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Onoe,_Aomori">
+    <dbo:region rdf:resource="http://dbpedia.org/resource/Tōhoku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Shiura,_Aomori">
+    <dbo:region rdf:resource="http://dbpedia.org/resource/Tōhoku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tairadate,_Aomori">
+    <dbo:region rdf:resource="http://dbpedia.org/resource/Tōhoku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tenmabayashi,_Aomori">
+    <dbo:region rdf:resource="http://dbpedia.org/resource/Tōhoku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Chōkai_Quasi-National_Park">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Tōhoku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kurikoma_Quasi-National_Park">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Tōhoku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Zaō_Quasi-National_Park">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Tōhoku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Fujisawa,_Iwate">
+    <dbo:region rdf:resource="http://dbpedia.org/resource/Tōhoku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hirata,_Fukushima">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Tōhoku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ishikawa,_Fukushima">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Tōhoku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kawasaki,_Miyagi">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Tōhoku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mishima,_Fukushima">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Tōhoku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nakajima,_Fukushima">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Tōhoku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Shimoda,_Aomori">
+    <dbo:region rdf:resource="http://dbpedia.org/resource/Tōhoku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yamagata,_Iwate">
+    <dbo:region rdf:resource="http://dbpedia.org/resource/Tōhoku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mount_Bandai">
+    <dbo:locatedInArea rdf:resource="http://dbpedia.org/resource/Tōhoku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Imoni">
+    <dbo:region rdf:resource="http://dbpedia.org/resource/Tōhoku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tōhoku_Region">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Tōhoku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Esashi,_Iwate">
+    <dbo:region rdf:resource="http://dbpedia.org/resource/Tōhoku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Iwaki,_Fukushima">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Tōhoku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kitakami_Mountains">
+    <dbp:region rdf:resource="http://dbpedia.org/resource/Tōhoku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mizusawa,_Iwate">
+    <dbo:region rdf:resource="http://dbpedia.org/resource/Tōhoku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mount_Chōkai">
+    <dbo:locatedInArea rdf:resource="http://dbpedia.org/resource/Tōhoku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hachimantai">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Tōhoku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hirakawa,_Aomori">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Tōhoku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Katagami,_Akita">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Tōhoku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/National_Institute_of_Advanced_Industrial_Science_and_Technology">
+    <dbp:campuses rdf:resource="http://dbpedia.org/resource/Tōhoku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nishiwaga,_Iwate">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Tōhoku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ōshū,_Iwate">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Tōhoku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kawauchi,_Aomori">
+    <dbo:region rdf:resource="http://dbpedia.org/resource/Tōhoku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Miyauchi,_Yamagata">
+    <dbo:region rdf:resource="http://dbpedia.org/resource/Tōhoku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mount_Iide">
+    <dbo:locatedInArea rdf:resource="http://dbpedia.org/resource/Tōhoku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hakkōda_Mountains">
+    <dbp:region rdf:resource="http://dbpedia.org/resource/Tōhoku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Aomori,_Aomori">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Tōhoku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Fukushima,_Fukushima">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Tōhoku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Asahi,_Yamagata_(Nishimurayama)">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Tōhoku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Goshogawara,_Aomori">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Tōhoku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hachinohe,_Aomori">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Tōhoku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hanamaki,_Iwate">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Tōhoku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Higashine,_Yamagata">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Tōhoku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hirosaki">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Tōhoku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ishinomaki,_Miyagi">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Tōhoku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Iwanuma">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Tōhoku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kakuda,_Miyagi">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Tōhoku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kamaishi,_Iwate">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Tōhoku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kaminoyama,_Yamagata">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Tōhoku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kazuno,_Akita">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Tōhoku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kesennuma">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Tōhoku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kitakami,_Iwate">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Tōhoku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kitakata,_Fukushima">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Tōhoku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kuji,_Iwate">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Tōhoku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kunohe,_Iwate">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Tōhoku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kuroishi,_Aomori">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Tōhoku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Misawa,_Aomori">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Tōhoku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Miyako,_Iwate">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Tōhoku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Morioka">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Tōhoku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Murayama,_Yamagata">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Tōhoku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mutsu,_Aomori">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Tōhoku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nagai,_Yamagata">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Tōhoku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nan&#39;yō">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Tōhoku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Natori,_Miyagi">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Tōhoku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nihonmatsu,_Fukushima">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Tōhoku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ninohe,_Iwate">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Tōhoku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Noshiro,_Akita">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Tōhoku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Obanazawa,_Yamagata">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Tōhoku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Oga,_Akita">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Tōhoku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Rikuzentakata,_Iwate">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Tōhoku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sagae,_Yamagata">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Tōhoku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sakata,_Yamagata">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Tōhoku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Shingō,_Aomori">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Tōhoku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Shinjō,_Yamagata">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Tōhoku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Shiogama">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Tōhoku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Shiroishi,_Miyagi">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Tōhoku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sukagawa,_Fukushima">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Tōhoku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sōma,_Fukushima">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Tōhoku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tagajō">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Tōhoku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tendō,_Yamagata">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Tōhoku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Towada,_Aomori">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Tōhoku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tsuruoka,_Yamagata">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Tōhoku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tōno,_Iwate">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Tōhoku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yamagata,_Yamagata">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Tōhoku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yokohama,_Aomori">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Tōhoku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yokote,_Akita">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Tōhoku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yonezawa,_Yamagata">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Tōhoku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yuzawa,_Akita">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Tōhoku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ōdate">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Tōhoku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ōfunato">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Tōhoku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Aizubange">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Tōhoku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ajigasawa,_Aomori">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Tōhoku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Aoba-ku,_Sendai">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Tōhoku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Asakawa,_Fukushima">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Tōhoku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bandai,_Fukushima">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Tōhoku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Daisen,_Akita">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Tōhoku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Fudai,_Iwate">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Tōhoku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Fujisaki,_Aomori">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Tōhoku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Fujisato,_Akita">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Tōhoku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Fukaura,_Aomori">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Tōhoku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Funagata,_Yamagata">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Tōhoku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Furudono,_Fukushima">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Tōhoku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Futaba,_Fukushima">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Tōhoku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gojōme,_Akita">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Tōhoku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Goka,_Ibaraki">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Tōhoku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gonohe,_Aomori">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Tōhoku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hachirōgata,_Akita">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Tōhoku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hanawa,_Fukushima">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Tōhoku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hashikami,_Aomori">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Tōhoku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Higashidōri,_Aomori">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Tōhoku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Higashimatsushima">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Tōhoku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Higashinaruse,_Akita">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Tōhoku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hinoemata,_Fukushima">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Tōhoku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hiraizumi,_Iwate">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Tōhoku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hiranai,_Aomori">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Tōhoku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hirono,_Fukushima">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Tōhoku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hirono,_Iwate">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Tōhoku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ichinohe,_Iwate">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Tōhoku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Iide,_Yamagata">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Tōhoku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Iitate,_Fukushima">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Tōhoku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ikawa,_Akita">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Tōhoku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Imabetsu,_Aomori">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Tōhoku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Inakadate,_Aomori">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Tōhoku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Inawashiro,_Fukushima">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Tōhoku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Itayanagi,_Aomori">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Tōhoku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Iwaizumi,_Iwate">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Tōhoku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Izumizaki,_Fukushima">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Tōhoku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kagamiishi,_Fukushima">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Tōhoku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kahoku,_Yamagata">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Tōhoku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kami,_Miyagi">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Tōhoku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kamikoani,_Akita">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Tōhoku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kanegasaki,_Iwate">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Tōhoku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kaneyama,_Fukushima">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Tōhoku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kaneyama,_Yamagata">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Tōhoku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Karumai,_Iwate">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Tōhoku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Katsurao,_Fukushima">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Tōhoku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kawamata,_Fukushima">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Tōhoku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kawanishi,_Yamagata">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Tōhoku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kazamaura,_Aomori">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Tōhoku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kitaakita">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Tōhoku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kitashiobara,_Fukushima">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Tōhoku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Koori,_Fukushima">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Tōhoku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kosaka,_Akita">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Tōhoku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kunimi,_Fukushima">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Tōhoku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kurihara,_Miyagi">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Tōhoku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kuzumaki,_Iwate">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Tōhoku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mamurogawa">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Tōhoku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Marumori,_Miyagi">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Tōhoku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Matsushima,_Miyagi">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Tōhoku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Miharu,_Fukushima">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Tōhoku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Misato,_Akita">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Tōhoku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mogami,_Yamagata">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Tōhoku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Murata,_Miyagi">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Tōhoku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nakayama,_Yamagata">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Tōhoku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Namie,_Fukushima">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Tōhoku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nanbu,_Aomori">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Tōhoku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Naraha,_Fukushima">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Tōhoku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nikaho,_Akita">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Tōhoku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nishiaizu,_Fukushima">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Tōhoku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nishigō,_Fukushima">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Tōhoku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nishikawa,_Yamagata">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Tōhoku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nishimeya,_Aomori">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Tōhoku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Noda,_Iwate">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Tōhoku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Noheji,_Aomori">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Tōhoku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Oguni,_Yamagata">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Tōhoku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Onagawa,_Miyagi">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Tōhoku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Rifu">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Tōhoku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Rokkasho,_Aomori">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Tōhoku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Rokunohe,_Aomori">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Tōhoku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sakegawa,_Yamagata">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Tōhoku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Samegawa,_Fukushima">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Tōhoku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sannohe,_Aomori">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Tōhoku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Semboku,_Akita">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Tōhoku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Shibata,_Miyagi">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Tōhoku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Shichigahama,_Miyagi">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Tōhoku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Shichikashuku,_Miyagi">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Tōhoku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Shichinohe,_Aomori">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Tōhoku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Shikama,_Miyagi">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Tōhoku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Shimogō,_Fukushima">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Tōhoku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Shinchi,_Fukushima">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Tōhoku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Shirataka">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Tōhoku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Shiwa,_Iwate">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Tōhoku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Shizukuishi,_Iwate">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Tōhoku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Shōnai,_Yamagata">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Tōhoku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sumita,_Iwate">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Tōhoku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tadami,_Fukushima">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Tōhoku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Taiwa,_Miyagi">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Tōhoku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Takahata,_Yamagata">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Tōhoku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Takizawa,_Iwate">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Tōhoku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Takko,_Aomori">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Tōhoku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tamakawa,_Fukushima">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Tōhoku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tamura,_Fukushima">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Tōhoku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tanagura,_Fukushima">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Tōhoku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tanohata,_Iwate">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Tōhoku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ten&#39;ei,_Fukushima">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Tōhoku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tomioka,_Fukushima">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Tōhoku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tomiya,_Miyagi">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Tōhoku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tozawa,_Yamagata">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Tōhoku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tsugaru,_Aomori">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Tōhoku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tsuruta,_Aomori">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Tōhoku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tōhoku,_Aomori">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Tōhoku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Wakuya,_Miyagi">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Tōhoku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Watari,_Miyagi">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Tōhoku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yabuki,_Fukushima">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Tōhoku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yahaba,_Iwate">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Tōhoku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yamada,_Iwate">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Tōhoku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yamanobe,_Yamagata">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Tōhoku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yamatsuri,_Fukushima">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Tōhoku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yanaizu,_Fukushima">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Tōhoku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yomogita,_Aomori">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Tōhoku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yugawa,_Fukushima">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Tōhoku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yurihonjō">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Tōhoku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yuza">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Tōhoku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Zaō,_Miyagi">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Tōhoku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ōe,_Yamagata">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Tōhoku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ōgata,_Akita">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Tōhoku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ōgawara,_Miyagi">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Tōhoku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ōhira,_Miyagi">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Tōhoku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ōishida">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Tōhoku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ōkuma,_Fukushima">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Tōhoku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ōkura,_Yamagata">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Tōhoku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ōma,_Aomori">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Tōhoku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ōsato,_Miyagi">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Tōhoku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ōtama,_Fukushima">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Tōhoku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ōtsuchi,_Iwate">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Tōhoku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ōwani,_Aomori">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Tōhoku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Akayu,_Yamagata">
+    <dbo:region rdf:resource="http://dbpedia.org/resource/Tōhoku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Aoba_(train)">
+    <dbp:locale rdf:resource="http://dbpedia.org/resource/Tōhoku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Towada-Hachimantai_National_Park">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Tōhoku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sotogahama,_Aomori">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Tōhoku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mount_Gassan">
+    <dbo:locatedInArea rdf:resource="http://dbpedia.org/resource/Tōhoku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Motomiya,_Fukushima">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Tōhoku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tashirojima">
+    <dbp:countryAdminDivisions rdf:resource="http://dbpedia.org/resource/Tōhoku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nakasato,_Aomori">
+    <dbo:region rdf:resource="http://dbpedia.org/resource/Tōhoku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sōma,_Aomori">
+    <dbo:region rdf:resource="http://dbpedia.org/resource/Tōhoku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Takeshi_Umehara">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Tōhoku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Akita_Prefecture">
+    <dbp:region rdf:resource="http://dbpedia.org/resource/Tōhoku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Aomori_Prefecture">
+    <dbp:region rdf:resource="http://dbpedia.org/resource/Tōhoku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Iwate,_Iwate">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Tōhoku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mikawa,_Yamagata">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Tōhoku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Miyagi_Prefecture">
+    <dbp:region rdf:resource="http://dbpedia.org/resource/Tōhoku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Northern_Fujiwara">
+    <dbp:homeProvince rdf:resource="http://dbpedia.org/resource/Tōhoku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sakai,_Ibaraki">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Tōhoku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Shōwa,_Fukushima">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Tōhoku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tome,_Miyagi">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Tōhoku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ugo,_Akita">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Tōhoku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yamamoto,_Miyagi">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Tōhoku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Minamisōma">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Tōhoku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nakadomari,_Aomori">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Tōhoku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Toyosato,_Miyagi">
+    <dbo:region rdf:resource="http://dbpedia.org/resource/Tōhoku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tohoku_region">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Tōhoku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Akita,_Akita">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Tōhoku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Date,_Fukushima">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Tōhoku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ono,_Fukushima">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Tōhoku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sai,_Aomori">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Tōhoku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Shirakawa,_Fukushima">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Tōhoku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tone,_Ibaraki">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Tōhoku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Fukushima_Prefecture">
+    <dbp:region rdf:resource="http://dbpedia.org/resource/Tōhoku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kawauchi,_Fukushima">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Tōhoku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tōhoku_region">
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Region108630985" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/PopulatedPlace" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Settlement" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Place" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Location" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/AdministrativeDistrict108491826" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Object100002684" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoLegalActorGeo" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PhysicalEntity100001930" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatRegionsOfAsia" />
+    <rdf:type rdf:resource="http://schema.org/Place" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoPermanentlyLocatedEntity" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoGeoEntity" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatRegionsOfJapan" />
+    <rdf:type rdf:resource="http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q486972" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Region108630039" />
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Location100027167" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/District108552138" />
+    <rdfs:label xml:lang="ar">منطقة توهوكو</rdfs:label>
+    <rdfs:label xml:lang="ru">Тохоку</rdfs:label>
+    <rdfs:label xml:lang="pl">Region Tōhoku</rdfs:label>
+    <rdfs:label xml:lang="pt">Região de Tōhoku</rdfs:label>
+    <rdfs:label xml:lang="zh">东北地方 (日本)</rdfs:label>
+    <rdfs:label xml:lang="nl">Tohoku (regio)</rdfs:label>
+    <rdfs:label xml:lang="en">Tōhoku region</rdfs:label>
+    <rdfs:label xml:lang="fr">Région de Tōhoku</rdfs:label>
+    <rdfs:label xml:lang="ja">東北地方</rdfs:label>
+    <rdfs:label xml:lang="de">Tōhoku</rdfs:label>
+    <rdfs:label xml:lang="it">Regione di Tōhoku</rdfs:label>
+    <rdfs:label xml:lang="es">Región de Tōhoku</rdfs:label>
+    <rdfs:comment xml:lang="ar">25بك المحتوى هنا ينقصه الاستشهاد بمصادر. يرجى إيراد مصادر موثوق بها. أي معلومات غير موثقة يمكن التشكيك بها وإزالتها. (مارس 2016) منطقة توهوكو (باليابانية: 東北地方 توهوكو تشيهو) هي أحد المناطق الجغرافية في اليابان. تعني كلمة &quot;توهوكو&quot; الشمال الشرقي، حيث أن تلك المنطقة تحتل الشمال الشرقي من جزيرة هونشو أكبر جزر اليابان. يبلغ تعداد سكان المنطقة 9,326,926 نسمة في 1 يناير 2011، بكثافة 139.4 نسمة / كم2. تضم المنطقة ست محافظات هي : محافظة أكيتا، محافظة أوموري، محافظة فوكوشيما، محافظة إيواته، محافظة مياغي، ومحافظة ياماغاتا، وتعتبر مدينة سنداي أكبر مدن المنطقة.</rdfs:comment>
+    <rdfs:comment xml:lang="zh">东北地方是日本本州岛上的一个地区，因位於本州的東北部而得名，向北与北海道岛隔津轻海峡相望，向南与中部地方、關東地方相连，東側及西側分別瀕臨太平洋及日本海。东北地方古稱「奧羽」，現今則設有6縣，從北至南分別為青森县、秋田县、岩手县、山形县、宫城县和福岛县，總面積約占本州的三成。在廣域的地理分區上，東北地方屬於東日本，但有時在氣象、歷史地理學等領域中與北海道共同劃歸於北日本。</rdfs:comment>
+    <rdfs:comment xml:lang="es">La región de Tōhoku (japonés: 東北地方; Romanización Hepburn: Tōhoku-chihō) es un área geográfica en la isla principal del Japón, Honshū. Esta zona es conocida también como Michinoku (みちのく). Esta región es considerada el último refugio de los ainu en Honshū y fue escenario de muchas batallas, Tōhoku conserva la reputación de región alejada y hostil, ofreciendo un paisaje impresionante y un clima áspero. Tōhoku ha sido inmortalizada por la obra del poeta haiku Matsuo Bashō, Oku no Hosomichi (El estrecho camino a través del norte profundo). Población: 9 335 636 habitantes.</rdfs:comment>
+    <rdfs:comment xml:lang="de">Die Region Tōhoku (jap. 東北地方, Tōhoku-chihō) befindet sich auf der Insel Honshū, der größten Insel Japans. Tōhoku ist relativ dünn besiedelt mit wenigen Großstädten. In den Bergen gibt es viele heiße Quellen. Die Küste besteht hauptsächlich aus Felsenküste. Früher lebten hier die Ezo. Auf Japanisch bedeutet Tōhoku „der Nordosten.“ Am 11. März 2011 zerstörte das größte Erdbeben in der Geschichte Japans sowie ein anschließender Tsunami weite Teile der Küstenregion im Nordosten.</rdfs:comment>
+    <rdfs:comment xml:lang="pt">A Região de Tohoku (em japonês: 東北地方; transl. Tōhoku-chihō) é uma área geográfica do Japão. Tōhoku significa, em japonês, &quot;nordeste.&quot; A região, que ocupa a porção nordeste da maior ilha do Japão, Honshu, é também chamada de Michinoku (みちのく). A região consiste em seis províncias: Akita, Aomori, Fukushima, Iwate, Miyagi e Yamagata.</rdfs:comment>
+    <rdfs:comment xml:lang="ja">東北地方（とうほくちほう）は、日本の地域のひとつであり、本州東北部に位置している。「奥羽地方（おううちほう）」ともいう。 その範囲に法律上の明確な定義はないものの、一般には青森県、岩手県、宮城県、秋田県、山形県、福島県の6県を指す。これら6県は、本州の約3割の面積を占める。東北地方は東日本に位置するが、気象や歴史地理学などでは北海道と一緒に北日本とされる。</rdfs:comment>
+    <rdfs:comment xml:lang="pl">Region Tōhoku (jap. 東北地方 Tōhoku-chihō) – jedna z geograficznych krain Japonii. Region Tōhoku (tōhoku po japońsku znaczy północno-wschodni) znajduje się w północno-wschodniej części największej wyspy Japonii, Honsiu. Tōhoku składa się z sześciu prefektur: Aomori, Akita, Iwate, Yamagata, Fukushima oraz Miyagi. Region ten najbardziej ucierpiał w czasie trzęsienia ziemi i tsunami w 2011.</rdfs:comment>
+    <rdfs:comment xml:lang="it">La regione di Tōhoku (東北地方 Tōhoku-chihō?) è una delle otto regioni del Giappone, situata nella parte nordorientale dell&#39;isola Honshu. Tōhoku in lingua giapponese significa &quot;nord est&quot;. L&#39;area è nota anche come Michinoku (みちのく?), si estende per circa 67.000 km², e ospita circa 9,6 milioni di abitanti. La regione comprende sei prefetture: Akita, Aomori, Fukushima, Iwate, Miyagi e Yamagata.</rdfs:comment>
+    <rdfs:comment xml:lang="nl">Tohoku  (Japans: 東北地方, Tōhoku-chihō) is een regio (gewest) van Japan. Tohoku betekent &#39;noordoosten&#39; in het Japans. Dit gewest ligt dan ook in het noordoosten van Japans grootste eiland, Honshu. De regio wordt soms Michinoku (みちのく) genoemd. In Tohoku liggen de volgende prefecturen: 1.  
+*  Vlag van Akita Akita 2.  
+*  Vlag van Aomori Aomori 3.  
+*  Vlag van Fukushima Fukushima 4.  
+*  Vlag van Iwate Iwate 5.  
+*  Vlag van Miyagi Miyagi 6.  
+*  Vlag van Yamagata Yamagata</rdfs:comment>
+    <rdfs:comment xml:lang="fr">La région de Tōhoku (東北地方, Tōhoku-chihō) est une des régions du Japon. Tōhoku signifie nord-est en japonais ; cette région couvre en effet le nord-est de l&#39;île de Honshū, l&#39;île principale du Japon. Cette région est parfois également nommée Michinoku (みちのく).</rdfs:comment>
+    <rdfs:comment xml:lang="en">The Tōhoku region (東北地方 Tōhoku-chihō) (literally, &quot;Northeast Region&quot;) consists of the northeastern portion of Honshu, the largest island of Japan. This traditional region consists of six prefectures (ken): Akita, Aomori, Fukushima, Iwate, Miyagi and Yamagata. Tōhoku retains a reputation as a remote, scenic region with a harsh climate. In the 20th century, tourism became a major industry in the Tōhoku region.</rdfs:comment>
+    <rdfs:comment xml:lang="ru">Тохоку или Оу (яп. 東北地方 То:хоку тихо:, «северо-восточный регион») — регион восточной Японии на острове Хонсю. Центр региона — префектура Мияги. В регион входят 6 префектур: Акита, Аомори, Иватэ, Мияги, Фукусима и Ямагата.</rdfs:comment>
+    <owl:sameAs rdf:resource="http://sws.geonames.org/2110769/" />
+    <owl:sameAs rdf:resource="http://pt.dbpedia.org/resource/Região_de_Tōhoku" />
+    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/Tōhoku" />
+    <owl:sameAs rdf:resource="http://es.dbpedia.org/resource/Región_de_Tōhoku" />
+    <owl:sameAs rdf:resource="http://fr.dbpedia.org/resource/Région_de_Tōhoku" />
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Tōhoku_region" />
+    <owl:sameAs rdf:resource="http://yago-knowledge.org/resource/Tohoku" />
+    <owl:sameAs rdf:resource="http://d-nb.info/gnd/4703084-7" />
+    <owl:sameAs rdf:resource="http://it.dbpedia.org/resource/Regione_di_Tōhoku" />
+    <owl:sameAs rdf:resource="http://id.dbpedia.org/resource/Wilayah_Tōhoku" />
+    <owl:sameAs rdf:resource="http://ko.dbpedia.org/resource/도호쿠_지방" />
+    <owl:sameAs rdf:resource="http://nl.dbpedia.org/resource/Tohoku_(regio)" />
+    <owl:sameAs rdf:resource="http://eu.dbpedia.org/resource/Tōhoku_eskualdea" />
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.01ctvk" />
+    <owl:sameAs rdf:resource="http://pl.dbpedia.org/resource/Region_Tōhoku" />
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Tōhoku_region" />
+    <owl:sameAs rdf:resource="http://ja.dbpedia.org/resource/東北地方" />
+    <owl:sameAs rdf:resource="http://cs.dbpedia.org/resource/Tóhoku" />
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q129465" />
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q129465" />
+    <owl:sameAs rdf:resource="http://yago-knowledge.org/resource/Tōhoku_region" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Tōhoku_region" />
+    <dbo:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">202954</dbo:wikiPageID>
+    <dbo:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">736990807</dbo:wikiPageRevisionID>
+    <dbo:wikiPageExternalLink rdf:resource="https://books.google.com/books?id=p2QnPijAEmEC&amp;client=firefox-a" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.pref.iwate.jp/~hp0312/seikatsu-sodan/en/index.html" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.pref.yamagata.jp/ou/shokokanko/110012/kokusai/foreign/englishtop.html" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.pref.aomori.lg.jp/foreigners/index.html" />
+    <dbo:wikiPageExternalLink rdf:resource="http://lcweb2.loc.gov/frd/cs/jptoc.html" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.pref.miyagi.jp/" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.pref.akita.jp/koho/foreign/en/index.html" />
+    <dbo:wikiPageExternalLink rdf:resource="http://wwwcms.pref.fukushima.jp/pcp_portal/PortalServlet;jsessionid=6AC237B11C572DB98137E4466997115C?DISPLAY_ID=DIRECT&amp;NEXT_DISPLAY_ID=U000000&amp;LANG_ID=13" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.worldcat.org/title/japan-encyclopedia/oclc/58053128?ht=edition&amp;referer=di" />
+    <foaf:name xml:lang="en">Tōhoku region</foaf:name>
+    <foaf:name xml:lang="en">東北地方</foaf:name>
+    <foaf:homepage rdf:resource="http://www.pref.akita.jp/koho/foreign/en/index.html" />
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#float">38.9</geo:lat>
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#float">140.683</geo:long>
+    <foaf:depiction rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Japan_Tohoku_Region_large.png" />
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Tōhoku_region" />
+    <geo:geometry rdf:datatype="http://www.openlinksw.com/schemas/virtrdf#Geometry">POINT(140.68333435059 38.900001525879)</geo:geometry>
+    <dbo:thumbnail rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Japan_Tohoku_Region_large.png?width=300" />
+    <prov:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Tōhoku_region?oldid=736990807" />
+    <ns8:areaTotal rdf:datatype="http://dbpedia.org/datatype/squareKilometre">66889.55</ns8:areaTotal>
+    <dbo:abstract xml:lang="ja">東北地方（とうほくちほう）は、日本の地域のひとつであり、本州東北部に位置している。「奥羽地方（おううちほう）」ともいう。 その範囲に法律上の明確な定義はないものの、一般には青森県、岩手県、宮城県、秋田県、山形県、福島県の6県を指す。これら6県は、本州の約3割の面積を占める。東北地方は東日本に位置するが、気象や歴史地理学などでは北海道と一緒に北日本とされる。</dbo:abstract>
+    <dbo:abstract xml:lang="ar">25بك المحتوى هنا ينقصه الاستشهاد بمصادر. يرجى إيراد مصادر موثوق بها. أي معلومات غير موثقة يمكن التشكيك بها وإزالتها. (مارس 2016) منطقة توهوكو (باليابانية: 東北地方 توهوكو تشيهو) هي أحد المناطق الجغرافية في اليابان. تعني كلمة &quot;توهوكو&quot; الشمال الشرقي، حيث أن تلك المنطقة تحتل الشمال الشرقي من جزيرة هونشو أكبر جزر اليابان. يبلغ تعداد سكان المنطقة 9,326,926 نسمة في 1 يناير 2011، بكثافة 139.4 نسمة / كم2. تضم المنطقة ست محافظات هي : محافظة أكيتا، محافظة أوموري، محافظة فوكوشيما، محافظة إيواته، محافظة مياغي، ومحافظة ياماغاتا، وتعتبر مدينة سنداي أكبر مدن المنطقة. 
+* 32xبوابة جغرافيا 
+* 32xبوابة اليابانمشاريع شقيقة في كومنز صور وملفات عن: منطقة توهوكو 25بك هذه بذرة مقالة عن جغرافيا اليابان بحاجة للتوسيع. شارك في تحريرها.</dbo:abstract>
+    <dbo:abstract xml:lang="it">La regione di Tōhoku (東北地方 Tōhoku-chihō?) è una delle otto regioni del Giappone, situata nella parte nordorientale dell&#39;isola Honshu. Tōhoku in lingua giapponese significa &quot;nord est&quot;. L&#39;area è nota anche come Michinoku (みちのく?), si estende per circa 67.000 km², e ospita circa 9,6 milioni di abitanti. La regione comprende sei prefetture: Akita, Aomori, Fukushima, Iwate, Miyagi e Yamagata.</dbo:abstract>
+    <dbo:abstract xml:lang="fr">La région de Tōhoku (東北地方, Tōhoku-chihō) est une des régions du Japon. Tōhoku signifie nord-est en japonais ; cette région couvre en effet le nord-est de l&#39;île de Honshū, l&#39;île principale du Japon. Cette région est parfois également nommée Michinoku (みちのく).</dbo:abstract>
+    <dbo:abstract xml:lang="es">La región de Tōhoku (japonés: 東北地方; Romanización Hepburn: Tōhoku-chihō) es un área geográfica en la isla principal del Japón, Honshū. Esta zona es conocida también como Michinoku (みちのく). Esta región es considerada el último refugio de los ainu en Honshū y fue escenario de muchas batallas, Tōhoku conserva la reputación de región alejada y hostil, ofreciendo un paisaje impresionante y un clima áspero. Tōhoku ha sido inmortalizada por la obra del poeta haiku Matsuo Bashō, Oku no Hosomichi (El estrecho camino a través del norte profundo). Población: 9 335 636 habitantes.</dbo:abstract>
+    <dbo:abstract xml:lang="de">Die Region Tōhoku (jap. 東北地方, Tōhoku-chihō) befindet sich auf der Insel Honshū, der größten Insel Japans. Tōhoku ist relativ dünn besiedelt mit wenigen Großstädten. In den Bergen gibt es viele heiße Quellen. Die Küste besteht hauptsächlich aus Felsenküste. Früher lebten hier die Ezo. Auf Japanisch bedeutet Tōhoku „der Nordosten.“ Am 11. März 2011 zerstörte das größte Erdbeben in der Geschichte Japans sowie ein anschließender Tsunami weite Teile der Küstenregion im Nordosten.</dbo:abstract>
+    <dbo:abstract xml:lang="en">The Tōhoku region (東北地方 Tōhoku-chihō) (literally, &quot;Northeast Region&quot;) consists of the northeastern portion of Honshu, the largest island of Japan. This traditional region consists of six prefectures (ken): Akita, Aomori, Fukushima, Iwate, Miyagi and Yamagata. Tōhoku retains a reputation as a remote, scenic region with a harsh climate. In the 20th century, tourism became a major industry in the Tōhoku region.</dbo:abstract>
+    <dbo:abstract xml:lang="nl">Tohoku  (Japans: 東北地方, Tōhoku-chihō) is een regio (gewest) van Japan. Tohoku betekent &#39;noordoosten&#39; in het Japans. Dit gewest ligt dan ook in het noordoosten van Japans grootste eiland, Honshu. De regio wordt soms Michinoku (みちのく) genoemd. In Tohoku liggen de volgende prefecturen: 1.  
+*  Vlag van Akita Akita 2.  
+*  Vlag van Aomori Aomori 3.  
+*  Vlag van Fukushima Fukushima 4.  
+*  Vlag van Iwate Iwate 5.  
+*  Vlag van Miyagi Miyagi 6.  
+*  Vlag van Yamagata Yamagata</dbo:abstract>
+    <dbo:abstract xml:lang="ru">Тохоку или Оу (яп. 東北地方 То:хоку тихо:, «северо-восточный регион») — регион восточной Японии на острове Хонсю. Центр региона — префектура Мияги. В регион входят 6 префектур: Акита, Аомори, Иватэ, Мияги, Фукусима и Ямагата.</dbo:abstract>
+    <dbo:abstract xml:lang="zh">东北地方是日本本州岛上的一个地区，因位於本州的東北部而得名，向北与北海道岛隔津轻海峡相望，向南与中部地方、關東地方相连，東側及西側分別瀕臨太平洋及日本海。东北地方古稱「奧羽」，現今則設有6縣，從北至南分別為青森县、秋田县、岩手县、山形县、宫城县和福岛县，總面積約占本州的三成。在廣域的地理分區上，東北地方屬於東日本，但有時在氣象、歷史地理學等領域中與北海道共同劃歸於北日本。</dbo:abstract>
+    <dbo:abstract xml:lang="pl">Region Tōhoku (jap. 東北地方 Tōhoku-chihō) – jedna z geograficznych krain Japonii. Region Tōhoku (tōhoku po japońsku znaczy północno-wschodni) znajduje się w północno-wschodniej części największej wyspy Japonii, Honsiu. Tōhoku składa się z sześciu prefektur: Aomori, Akita, Iwate, Yamagata, Fukushima oraz Miyagi. Region ten najbardziej ucierpiał w czasie trzęsienia ziemi i tsunami w 2011.</dbo:abstract>
+    <dbo:abstract xml:lang="pt">A Região de Tohoku (em japonês: 東北地方; transl. Tōhoku-chihō) é uma área geográfica do Japão. Tōhoku significa, em japonês, &quot;nordeste.&quot; A região, que ocupa a porção nordeste da maior ilha do Japão, Honshu, é também chamada de Michinoku (みちのく). A região consiste em seis províncias: Akita, Aomori, Fukushima, Iwate, Miyagi e Yamagata.</dbo:abstract>
+    <dbo:areaTotal rdf:datatype="http://www.w3.org/2001/XMLSchema#double">6.68896e+10</dbo:areaTotal>
+    <dbo:populationTotal rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">9020531</dbo:populationTotal>
+    <dbo:timeZone rdf:resource="http://dbpedia.org/resource/Japan_Standard_Time" />
+    <dbo:type rdf:resource="http://dbpedia.org/resource/Regions_of_Japan" />
+    <dbo:utcOffset>+9</dbo:utcOffset>
+    <georss:point>38.9 140.68333333333334</georss:point>
+    <dbp:coordinatesDisplay rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">inline,title</dbp:coordinatesDisplay>
+    <dbp:imageAlt rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Map showing the Tōhoku region of Japan. It comprises the northeast area of the island of Honshu.</dbp:imageAlt>
+    <dbp:imageCaption rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">The Tōhoku region in Japan</dbp:imageCaption>
+    <dbp:imageSkyline rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Japan Tohoku Region large.png</dbp:imageSkyline>
+    <dbp:nativeNameLang rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">ja</dbp:nativeNameLang>
+    <dbp:populationAsOf rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2015</dbp:populationAsOf>
+    <dbp:populationDensityKm rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">auto</dbp:populationDensityKm>
+    <dbp:unitPref rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Metric</dbp:unitPref>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yamagata_Prefecture">
+    <dbp:region rdf:resource="http://dbpedia.org/resource/Tōhoku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Aikawa,_Akita">
+    <dbo:region rdf:resource="http://dbpedia.org/resource/Tōhoku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ashiro,_Iwate">
+    <dbo:region rdf:resource="http://dbpedia.org/resource/Tōhoku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Daitō,_Iwate">
+    <dbo:region rdf:resource="http://dbpedia.org/resource/Tōhoku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hanaizumi,_Iwate">
+    <dbo:region rdf:resource="http://dbpedia.org/resource/Tōhoku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Higashiyama,_Iwate">
+    <dbo:region rdf:resource="http://dbpedia.org/resource/Tōhoku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hobara,_Fukushima">
+    <dbo:region rdf:resource="http://dbpedia.org/resource/Tōhoku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Inagaki,_Aomori">
+    <dbo:region rdf:resource="http://dbpedia.org/resource/Tōhoku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Isawa,_Iwate">
+    <dbo:region rdf:resource="http://dbpedia.org/resource/Tōhoku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ishidoriya,_Iwate">
+    <dbo:region rdf:resource="http://dbpedia.org/resource/Tōhoku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Iwasaki,_Aomori">
+    <dbo:region rdf:resource="http://dbpedia.org/resource/Tōhoku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jōbōji,_Iwate">
+    <dbo:region rdf:resource="http://dbpedia.org/resource/Tōhoku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kamikita,_Aomori">
+    <dbo:region rdf:resource="http://dbpedia.org/resource/Tōhoku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kashiwa,_Aomori">
+    <dbo:region rdf:resource="http://dbpedia.org/resource/Tōhoku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kawai,_Iwate">
+    <dbo:region rdf:resource="http://dbpedia.org/resource/Tōhoku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kawasaki,_Iwate">
+    <dbo:region rdf:resource="http://dbpedia.org/resource/Tōhoku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kizukuri,_Aomori">
+    <dbo:region rdf:resource="http://dbpedia.org/resource/Tōhoku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Koromogawa,_Iwate">
+    <dbo:region rdf:resource="http://dbpedia.org/resource/Tōhoku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Maesawa,_Iwate">
+    <dbo:region rdf:resource="http://dbpedia.org/resource/Tōhoku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Matsuo,_Iwate">
+    <dbo:region rdf:resource="http://dbpedia.org/resource/Tōhoku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Miyamori,_Iwate">
+    <dbo:region rdf:resource="http://dbpedia.org/resource/Tōhoku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Morita,_Aomori">
+    <dbo:region rdf:resource="http://dbpedia.org/resource/Tōhoku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Murone,_Iwate">
+    <dbo:region rdf:resource="http://dbpedia.org/resource/Tōhoku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Niisato,_Iwate">
+    <dbo:region rdf:resource="http://dbpedia.org/resource/Tōhoku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nishine,_Iwate">
+    <dbo:region rdf:resource="http://dbpedia.org/resource/Tōhoku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sawauchi,_Iwate">
+    <dbo:region rdf:resource="http://dbpedia.org/resource/Tōhoku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Senmaya,_Iwate">
+    <dbo:region rdf:resource="http://dbpedia.org/resource/Tōhoku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Shariki,_Aomori">
+    <dbo:region rdf:resource="http://dbpedia.org/resource/Tōhoku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tamayama,_Iwate">
+    <dbo:region rdf:resource="http://dbpedia.org/resource/Tōhoku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Taneichi,_Iwate">
+    <dbo:region rdf:resource="http://dbpedia.org/resource/Tōhoku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tarō,_Iwate">
+    <dbo:region rdf:resource="http://dbpedia.org/resource/Tōhoku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tokiwa,_Aomori">
+    <dbo:region rdf:resource="http://dbpedia.org/resource/Tōhoku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Towadako,_Aomori">
+    <dbo:region rdf:resource="http://dbpedia.org/resource/Tōhoku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tōwa,_Iwate">
+    <dbo:region rdf:resource="http://dbpedia.org/resource/Tōhoku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Wakinosawa,_Aomori">
+    <dbo:region rdf:resource="http://dbpedia.org/resource/Tōhoku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yuda,_Iwate">
+    <dbo:region rdf:resource="http://dbpedia.org/resource/Tōhoku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ōhata,_Aomori">
+    <dbo:region rdf:resource="http://dbpedia.org/resource/Tōhoku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ōno,_Iwate">
+    <dbo:region rdf:resource="http://dbpedia.org/resource/Tōhoku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Minamisanriku">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Tōhoku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sendai">
+    <dbo:region rdf:resource="http://dbpedia.org/resource/Tōhoku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tohoku_Collegiate_American_Football_Association">
+    <dbp:region rdf:resource="http://dbpedia.org/resource/Tōhoku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hiraka,_Aomori">
+    <dbo:region rdf:resource="http://dbpedia.org/resource/Tōhoku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Shonai_Bank">
+    <dbo:regionServed rdf:resource="http://dbpedia.org/resource/Tōhoku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yamagata_Bank">
+    <dbo:regionServed rdf:resource="http://dbpedia.org/resource/Tōhoku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mount_Akita-Komagatake">
+    <dbo:locatedInArea rdf:resource="http://dbpedia.org/resource/Tōhoku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Misato,_Miyagi">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Tōhoku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mount_Azuma-kofuji">
+    <dbo:locatedInArea rdf:resource="http://dbpedia.org/resource/Tōhoku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ichinoseki,_Iwate">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Tōhoku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mount_Hiuchigatake">
+    <dbo:locatedInArea rdf:resource="http://dbpedia.org/resource/Tōhoku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Oirase,_Aomori">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Tōhoku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Great_Sasuke">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Tōhoku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tohoku_Region">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Tōhoku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Akita_Bank">
+    <dbo:regionServed rdf:resource="http://dbpedia.org/resource/Tōhoku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tōhoku_Main_Line">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Tōhoku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tohoku">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Tōhoku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tōhoku">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Tōhoku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tohoku,_Japan">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Tōhoku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/東北地方">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Tōhoku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Touhoku">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Tōhoku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Touhoku_region">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Tōhoku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Tōhoku_region">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Tōhoku_region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sanganji_shell_mound">
+    <dbp:region rdf:resource="http://dbpedia.org/resource/Tōhoku_region" />
+  </rdf:Description>
+</rdf:RDF>

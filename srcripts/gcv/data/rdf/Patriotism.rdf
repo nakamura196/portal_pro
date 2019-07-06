@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:dct="http://purl.org/dc/terms/"
+	xmlns:dbo="http://dbpedia.org/ontology/"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:prov="http://www.w3.org/ns/prov#"
+	xmlns:dbp="http://dbpedia.org/property/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:ns9="http://purl.org/linguistics/gold/" >
+  <rdf:Description rdf:about="http://dbpedia.org/resource/General_Society_of_Colonial_Wars">
+    <dbo:type rdf:resource="http://dbpedia.org/resource/Patriotism" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/National_pride">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Patriotism" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Chauvinism">
+    <ns9:hypernym rdf:resource="http://dbpedia.org/resource/Patriotism" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nationalism">
+    <owl:differentFrom rdf:resource="http://dbpedia.org/resource/Patriotism" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Patriotism">
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Weapon" />
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing" />
+    <rdfs:label xml:lang="ar">وطنية</rdfs:label>
+    <rdfs:label xml:lang="ru">Патриотизм</rdfs:label>
+    <rdfs:label xml:lang="pt">Patriotismo</rdfs:label>
+    <rdfs:label xml:lang="fr">Patriotisme</rdfs:label>
+    <rdfs:label xml:lang="en">Patriotism</rdfs:label>
+    <rdfs:label xml:lang="it">Patriottismo</rdfs:label>
+    <rdfs:label xml:lang="pl">Patriotyzm</rdfs:label>
+    <rdfs:label xml:lang="zh">愛國主義</rdfs:label>
+    <rdfs:label xml:lang="nl">Vaderlandsliefde</rdfs:label>
+    <rdfs:label xml:lang="es">Patriotismo</rdfs:label>
+    <rdfs:label xml:lang="de">Patriotismus</rdfs:label>
+    <rdfs:label xml:lang="ja">愛国心</rdfs:label>
+    <rdfs:comment xml:lang="pl">Patriotyzm (łac. patria,-ae = ojczyzna, gr. patriotes) – postawa szacunku, umiłowania i oddania własnej ojczyźnie oraz chęć ponoszenia za nią ofiar; pełna gotowość do jej obrony, w każdej chwili. Charakteryzuje się też przedkładaniem celów ważnych dla ojczyzny nad osobiste, a także gotowością do pracy dla jej dobra i w razie potrzeby poświęcenia dla niej własnego zdrowia lub życia. Patriotyzm to również umiłowanie i pielęgnowanie narodowej tradycji, kultury czy języka. Patriotyzm oparty jest na poczuciu więzi społecznej, wspólnoty kulturowej oraz solidarności z własnym narodem i społecznością.</rdfs:comment>
+    <rdfs:comment xml:lang="en">Patriotism is an emotional attachment to a nation which an individual recognizes as their homeland. This attachment, also known as national feeling or national pride, can be viewed in terms of different features relating to one&#39;s own nation, including ethnic, cultural, political or historical aspects. It encompasses a set of concepts closely related to those of nationalism. An excess of patriotism in the defense of a nation is called chauvinism; another related term is jingoism.</rdfs:comment>
+    <rdfs:comment xml:lang="zh">爱国主义指以激發愛國情緒來進行集體行動或政治動員的意識型態，和國際主義（internationalism）及世界主義（globalism）對立。 它常和國族主義意識型態一起討論，19世紀後國族主義的歷史發展使18世紀啟蒙思想的古典爱国主义意義產生轉變。</rdfs:comment>
+    <rdfs:comment xml:lang="es">El patriotismo es un pensamiento que vincula a un individuo con su patria. Es el sentimiento que tiene un ser humano por la tierra natal o adoptiva a la que se siente ligado por unos determinados valores, afectos, cultura e historia; es el equivalente colectivo al orgullo que siente una persona por pertenecer a una familia o también a una nación. El exceso en la defensa de una patria es denominado chovinismo; mientras que otros términos relacionados son jingoísta y patriotero.</rdfs:comment>
+    <rdfs:comment xml:lang="ar">الوطنية وتُعْرَفُ بالفخر القومي كذلك، هي التَعَلُّقُ العاطفي بأُمة يعترف بها الفرد وطنا. والوطني هو من يحب بلاده، ويدعم سلطتها ويصون مصالحها. يمكن النظر إلى هذا الارتباط من خلال العلامات المميزة للأمة والتي قد تشمل جوانب إثنية وثقافية، سياسية وتاريخية. تنبع المشاعر الوطنية من حِسٍّ بالارتباط والانتماء، والتضامن والالتزام. وتتضمن مجموعة مفاهيم ومدارك وثيقة الصلة بالقومية، لأن واقع الحال يفيد بأن المصالح مِلكٌ للأمة، وليس للبلاد بالمعنى الحرفي. تُستخدم الوطنية والقومية بشكلٍ متعاوض في كثير من الأحيان، وإن أمكن التمييز بينهما نظريًا.</rdfs:comment>
+    <rdfs:comment xml:lang="it">Il patriottismo indica l&#39;attitudine di gruppi o individui favorevole alla patria. Di norma esso si riferisce ad una nazione e/o uno Stato-nazione, ma la patria (o madrepatria) può anche essere una regione o una città. Si esprime attraverso una molteplicità di sentimenti quali: orgoglio per i progressi conseguiti o la cultura sviluppata dalla patria, il desiderio di conservarne il carattere ed i costumi, l&#39;identificazione con altri membri della nazione.</rdfs:comment>
+    <rdfs:comment xml:lang="ru">Патриоти́зм (греч. πατριώτης — соотечественник, πατρίς — Отечество) — нравственный и политический принцип, социальное чувство, содержанием которого является любовь к Отечеству и готовность пожертвовать своими частными интересами во благо интересов Отечества. Патриотизм предполагает гордость достижениями и культурой своей родины, желание сохранять её характер и культурные особенности и идентификация себя (особое эмоциональное переживание своей принадлежности к стране и своему гражданству, языку, традициям) с другими членами народа, стремление защищать интересы родины и своего народа.Любовь к своей Родине, стране, народу, привязанность к месту своего рождения, к месту жительства.</rdfs:comment>
+    <rdfs:comment xml:lang="fr">Le patriotisme désigne le dévouement d&#39;un individu envers son pays qu&#39;il reconnait comme étant sa patrie.</rdfs:comment>
+    <rdfs:comment xml:lang="nl">Vaderlandsliefde (ook wel patriottisme) is een gevoel van trots voor (bepaalde aspecten van) het land van herkomst of (mocht er emigratie plaatsvinden) land waarin een persoon woonachtig is. Vaderlandsliefde, die ook sterk wordt aangewakkerd bij bezetting van een land door een vreemde mogendheid, wordt in de regel niet als negatief ervaren, echter verwante begrippen als &#39;nationalisme&#39; en &#39;chauvinisme&#39; wel, vanwege misbruik van die termen door extremisten. Vaderlandsliefde in de normale, niet-extremistische vorm en respect voor andere landen kunnen echter probleemloos samengaan.</rdfs:comment>
+    <rdfs:comment xml:lang="ja">愛国心（あいこくしん）、愛国主義（あいこくしゅぎ、パトリオティズム、英: patriotism）は、国民が自らが育った、あるいは所属する社会共同体や政治共同体などに対して愛着ないし忠誠を抱く思想、心情である。このような思想心情を他人に比べ強く持つとされる、或いはそのように自負する人達を愛国者と称する。</rdfs:comment>
+    <rdfs:comment xml:lang="de">Als Patriotismus wird eine emotionale Verbundenheit mit der eigenen Nation bezeichnet. Im Deutschen wird anstelle des Lehnwortes auch der Begriff „Vaterlandsliebe“ synonym verwendet. Diese Bindung wird auch als Nationalgefühl oder Nationalstolz bezeichnet und kann sich auf ganz verschiedene als Merkmale der eigenen Nation angesehene Aspekte beziehen, etwa ethnische, kulturelle, politische oder historische.</rdfs:comment>
+    <rdfs:comment xml:lang="pt">Patriotismo, do grego patriotes (patrício), é o sentimento de orgulho, amor,devolução e devoção à pátria, aos seus símbolos (bandeira, hino, brasão, mitos históricos, riquezas naturais, patrimônios materiais e imaterial). É razão do amor dos que querem servir o seu país e ser solidário com os seus compatriotas. Ao longo da história, o amor à pátria vinha sendo considerado um simples apego ao solo. Tal noção mudou no século XVIII, que passou a assimilar noções de costumes e tradições, o orgulho da própria história e a devoção ao seu bem-estar.</rdfs:comment>
+    <owl:sameAs rdf:resource="http://el.dbpedia.org/resource/Πατριωτισμός" />
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Patriotism" />
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q6241" />
+    <owl:sameAs rdf:resource="http://pt.dbpedia.org/resource/Patriotismo" />
+    <owl:sameAs rdf:resource="http://nl.dbpedia.org/resource/Vaderlandsliefde" />
+    <owl:sameAs rdf:resource="http://cs.dbpedia.org/resource/Patriotismus" />
+    <owl:sameAs rdf:resource="http://eu.dbpedia.org/resource/Abertzaletasun" />
+    <owl:sameAs rdf:resource="http://pl.dbpedia.org/resource/Patriotyzm" />
+    <owl:sameAs rdf:resource="http://es.dbpedia.org/resource/Patriotismo" />
+    <owl:sameAs rdf:resource="http://ko.dbpedia.org/resource/애국주의" />
+    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/Patriotismus" />
+    <owl:sameAs rdf:resource="http://it.dbpedia.org/resource/Patriottismo" />
+    <owl:sameAs rdf:resource="http://fr.dbpedia.org/resource/Patriotisme" />
+    <owl:sameAs rdf:resource="http://id.dbpedia.org/resource/Patriotisme" />
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q6241" />
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.06473" />
+    <owl:sameAs rdf:resource="http://ja.dbpedia.org/resource/愛国心" />
+    <owl:sameAs rdf:resource="http://d-nb.info/gnd/4132835-8" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Nationalism" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Political_terminology" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Patriotism" />
+    <dbo:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">24552</dbo:wikiPageID>
+    <dbo:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">744980191</dbo:wikiPageRevisionID>
+    <foaf:depiction rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Patriotism_by_Francisco_Pérez_del_Valle_(Madrid)_01.jpg" />
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Patriotism" />
+    <dbo:thumbnail rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Patriotism_by_Francisco_Pérez_del_Valle_(Madrid)_01.jpg?width=300" />
+    <prov:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Patriotism?oldid=744980191" />
+    <dbo:abstract xml:lang="ru">Патриоти́зм (греч. πατριώτης — соотечественник, πατρίς — Отечество) — нравственный и политический принцип, социальное чувство, содержанием которого является любовь к Отечеству и готовность пожертвовать своими частными интересами во благо интересов Отечества. Патриотизм предполагает гордость достижениями и культурой своей родины, желание сохранять её характер и культурные особенности и идентификация себя (особое эмоциональное переживание своей принадлежности к стране и своему гражданству, языку, традициям) с другими членами народа, стремление защищать интересы родины и своего народа.Любовь к своей Родине, стране, народу, привязанность к месту своего рождения, к месту жительства.</dbo:abstract>
+    <dbo:abstract xml:lang="zh">爱国主义指以激發愛國情緒來進行集體行動或政治動員的意識型態，和國際主義（internationalism）及世界主義（globalism）對立。 它常和國族主義意識型態一起討論，19世紀後國族主義的歷史發展使18世紀啟蒙思想的古典爱国主义意義產生轉變。</dbo:abstract>
+    <dbo:abstract xml:lang="ja">愛国心（あいこくしん）、愛国主義（あいこくしゅぎ、パトリオティズム、英: patriotism）は、国民が自らが育った、あるいは所属する社会共同体や政治共同体などに対して愛着ないし忠誠を抱く思想、心情である。このような思想心情を他人に比べ強く持つとされる、或いはそのように自負する人達を愛国者と称する。</dbo:abstract>
+    <dbo:abstract xml:lang="de">Als Patriotismus wird eine emotionale Verbundenheit mit der eigenen Nation bezeichnet. Im Deutschen wird anstelle des Lehnwortes auch der Begriff „Vaterlandsliebe“ synonym verwendet. Diese Bindung wird auch als Nationalgefühl oder Nationalstolz bezeichnet und kann sich auf ganz verschiedene als Merkmale der eigenen Nation angesehene Aspekte beziehen, etwa ethnische, kulturelle, politische oder historische. Im Unterschied zu einer historisch-kulturellen Bindung steht der Verfassungspatriotismus für das positive Bekenntnis zu den in einer staatlichen Verfassung verankerten übernationalen ethischen und politischen Grundrechten und Wertvorstellungen. Diese beziehen sich in der Tradition westlicher Rechtsstaaten auf die unveräußerliche Menschenwürde und davon abgeleitete Menschenrechte, für die universale Geltung beansprucht wird. Patriotismus wird heute allgemein von Nationalismus und dem Chauvinismus abgegrenzt, insofern Patrioten und Patriotinnen sich mit dem eigenen Volk und Land identifizieren, ohne dieses über andere zu stellen und andere Völker ausdrücklich abzuwerten. Er bezieht sich auf die im staatsbürgerlichen Ethos wurzelnde, zugleich gefühlsbetonte, oft leidenschaftlich gesteigerte Hingabe an das überpersönliche staatliche Ganze, das in dieser Form nicht nur als rechtliche und politische Ordnung, sondern als die den einzelnen tragende Gemeinschaft empfunden wird. Inwieweit dieser Unterschied tatsächlich besteht und historisch wirksam wurde, ist in vielen Ländern umstritten.In Mitteleuropa hat sich der Patriotismus aus dem revolutionär verstandenen Liberalismus und Nationalismus des Bürgertums entwickelt, das gegen den Feudalismus einen demokratisch verfassten Nationalstaat anstrebte. Diese als Macht von unten aufgefasste Volksherrschaft hat sich seit der Amerikanischen Revolution von 1776 und der Französischen Revolution von 1789 langfristig in den meisten europäischen Staaten als Verfassung und Selbstverständnis durchgesetzt, nachdem sie zunächst nur ein Thema intellektueller Eliten war und dann vielfachen historischen Rückschlägen unterlag. Heute ist Patriotismus als überwiegend positiv verstandener Begriff in den Völkern der meisten Staaten verankert.</dbo:abstract>
+    <dbo:abstract xml:lang="es">El patriotismo es un pensamiento que vincula a un individuo con su patria. Es el sentimiento que tiene un ser humano por la tierra natal o adoptiva a la que se siente ligado por unos determinados valores, afectos, cultura e historia; es el equivalente colectivo al orgullo que siente una persona por pertenecer a una familia o también a una nación. El exceso en la defensa de una patria es denominado chovinismo; mientras que otros términos relacionados son jingoísta y patriotero.</dbo:abstract>
+    <dbo:abstract xml:lang="it">Il patriottismo indica l&#39;attitudine di gruppi o individui favorevole alla patria. Di norma esso si riferisce ad una nazione e/o uno Stato-nazione, ma la patria (o madrepatria) può anche essere una regione o una città. Si esprime attraverso una molteplicità di sentimenti quali: orgoglio per i progressi conseguiti o la cultura sviluppata dalla patria, il desiderio di conservarne il carattere ed i costumi, l&#39;identificazione con altri membri della nazione. Il patriottismo ha anche una connotazione etica poiché implica che la madrepatria (comunque definita) sia uno standard o un valore morale in sé, come esprimono formule quali &quot;per la Patria, nel bene e nel male&quot;. Ai patrioti si richiede, inoltre, di anteporre gli interessi della nazione anche ai propri ed a quelli dello stesso gruppo di appartenenza il che, in tempo di guerra, può anche significare mettere a rischio o donare la propria vita. Anche per questo la morte in battaglia per la madrepatria è l&#39;archetipo estremo di patriottismo.</dbo:abstract>
+    <dbo:abstract xml:lang="ar">الوطنية وتُعْرَفُ بالفخر القومي كذلك، هي التَعَلُّقُ العاطفي بأُمة يعترف بها الفرد وطنا. والوطني هو من يحب بلاده، ويدعم سلطتها ويصون مصالحها. يمكن النظر إلى هذا الارتباط من خلال العلامات المميزة للأمة والتي قد تشمل جوانب إثنية وثقافية، سياسية وتاريخية. تنبع المشاعر الوطنية من حِسٍّ بالارتباط والانتماء، والتضامن والالتزام. وتتضمن مجموعة مفاهيم ومدارك وثيقة الصلة بالقومية، لأن واقع الحال يفيد بأن المصالح مِلكٌ للأمة، وليس للبلاد بالمعنى الحرفي. تُستخدم الوطنية والقومية بشكلٍ متعاوض في كثير من الأحيان، وإن أمكن التمييز بينهما نظريًا. الوطنية مفهومٌ أخلاقي، وأحد أوجه الإيثار لدفعها المواطنين إلى التضحية براحتهم، وربما بحياتهم، من أجل بلادهم. رفض ألسدير ماكنتاير مقارنتها بالأخلاقيات، واعتبرها حجر الأساس الذي تقوم عليه الأخيرة. وَصَفها جورج هيغل بالـ&quot;مشاعر السياسية&quot;، واعتبر تضحية المرء بفرديته لصالح الدولة أعظم اختبارٍ للوطنية، غير أنه اشترط وجود الحوكمة. بالنسبة لجان جاك روسو، لم تنفصل الوطنية عن الحرية، وجادل باستحالتها في مجتمع مستعبد، كما عَبَّرَ عن ارتيابه ممن يُظهرون انتمائهم للإنسانية دون التزامٍ لأقوامهم. تقليديًا، اقترنت الوطنية بالحركات القومية اليمينية أكثر من اليسار. هذا لا ينفي الوطنية عن اليسار أو يقترحُ امتلاك اليمينِ لحقوقها الحصرية، إنّما لميلِ اليَمينِ إلى تقديم الولاء على العدل. وضع نيكولو ماكيافيلي تقييمًا رفيعًا للوطنية في كتاب الأمير، واستبعدَ الحرية عن بلادٍ دون شعوب حاضرة لتقديم التضحياتِ اللازمةِ لأوطانها. كان كتابه مناشدة لتخليصِ إيطاليا من الهيمنة الأجنبية والحكامِ الضُعفاءِ قصيري النظر، بِغَضِّ النظر عن عدل أو ظلم الوسائل. ومثاليًا، الوطنية مهمة للدولة نظرًا لاحتياجها إلى جنود وشرطة، بيروقراطيين وضباط استخبارات، وغير ذلك من وظائفَ مهددة للسلامة الجسدية والنفسية. في بلدٍ ديمقراطي، تُوَفِّرُ الوطنية شعورًا بالولاء والتفاني وتُقَدِّمُ للمواطنين غرضًا حياتيًّا يرتكز عليه النظام. برغم عالمية اعتبارها فضيلة ضرورية، تعددت مظاهر وحجج معاداة الوطنية التي قد تتخذ أشكالاً متطرفة مثل الشوفينية والجينغوية. فهي مفهومٌ مُعَقَّد دون حلٍ نظري متكامل، تعددت أشكالها من وطنية معنية بصالح مواطني البلد، إلى الطاعةِ العمياء للحاكم.</dbo:abstract>
+    <dbo:abstract xml:lang="en">Patriotism is an emotional attachment to a nation which an individual recognizes as their homeland. This attachment, also known as national feeling or national pride, can be viewed in terms of different features relating to one&#39;s own nation, including ethnic, cultural, political or historical aspects. It encompasses a set of concepts closely related to those of nationalism. An excess of patriotism in the defense of a nation is called chauvinism; another related term is jingoism. The English term patriot is first attested in the Elizabethan era, via Middle French from Late Latin (6th century) patriota, meaning &quot;countryman&quot;, ultimately from Greek  πατριώτης (patriōtēs), meaning &quot;from the same country&quot;, from  πατρίς (patris), meaning &quot;fatherland&quot;. The abstract noun patriotism appears in the early 18th century.</dbo:abstract>
+    <dbo:abstract xml:lang="nl">Vaderlandsliefde (ook wel patriottisme) is een gevoel van trots voor (bepaalde aspecten van) het land van herkomst of (mocht er emigratie plaatsvinden) land waarin een persoon woonachtig is. Vaderlandsliefde, die ook sterk wordt aangewakkerd bij bezetting van een land door een vreemde mogendheid, wordt in de regel niet als negatief ervaren, echter verwante begrippen als &#39;nationalisme&#39; en &#39;chauvinisme&#39; wel, vanwege misbruik van die termen door extremisten. Vaderlandsliefde in de normale, niet-extremistische vorm en respect voor andere landen kunnen echter probleemloos samengaan.</dbo:abstract>
+    <dbo:abstract xml:lang="fr">Le patriotisme désigne le dévouement d&#39;un individu envers son pays qu&#39;il reconnait comme étant sa patrie.</dbo:abstract>
+    <dbo:abstract xml:lang="pl">Patriotyzm (łac. patria,-ae = ojczyzna, gr. patriotes) – postawa szacunku, umiłowania i oddania własnej ojczyźnie oraz chęć ponoszenia za nią ofiar; pełna gotowość do jej obrony, w każdej chwili. Charakteryzuje się też przedkładaniem celów ważnych dla ojczyzny nad osobiste, a także gotowością do pracy dla jej dobra i w razie potrzeby poświęcenia dla niej własnego zdrowia lub życia. Patriotyzm to również umiłowanie i pielęgnowanie narodowej tradycji, kultury czy języka. Patriotyzm oparty jest na poczuciu więzi społecznej, wspólnoty kulturowej oraz solidarności z własnym narodem i społecznością.</dbo:abstract>
+    <dbo:abstract xml:lang="pt">Patriotismo, do grego patriotes (patrício), é o sentimento de orgulho, amor,devolução e devoção à pátria, aos seus símbolos (bandeira, hino, brasão, mitos históricos, riquezas naturais, patrimônios materiais e imaterial). É razão do amor dos que querem servir o seu país e ser solidário com os seus compatriotas. Ao longo da história, o amor à pátria vinha sendo considerado um simples apego ao solo. Tal noção mudou no século XVIII, que passou a assimilar noções de costumes e tradições, o orgulho da própria história e a devoção ao seu bem-estar. Através de atitudes de devoção para com a sua pátria, pode-se identificar um patriota. Muitas vezes, o nacionalismo é confundido com patriotismo. Porém, podemos dizer que o nacionalismo é considerado uma ideologia ou um idealismo que leva as pessoas a serem patriotas. O nacionalismo tem várias acepções, entre elas: 
+*  Salvaguarda dos interesses e exaltação dos valores nacionais; 
+*  Sentimento de pertencer a um grupo por vínculos raciais, linguísticos e históricos, que reivindica o direito de formar uma nação autônoma; 
+*  Ideologia que enaltece o estado nacional como forma ideal de organização política, com suas exigências absolutas de lealdade por parte dos cidadãos. Ser um nacionalista não implica algum ponto de vista político particular, à excepção de uma opinião da nação como um princípio organizado fundamentalmente na política. Agora, ser um patriota implica fazer algo de bom pelo seu país ou nação. O historiador Lord Acton, afirmou que patriotismo prende-se com os deveres morais que temos para com a comunidade política. Patriotismo é o espírito de solidariedade entre pessoas que tenham interesses comuns, constituindo um Estado, e que, ao viver sob mesmas leis, as respeitem com ânimo maior que o ânimo que empregam na defesa de interesses privados e ambições particulares, sem avareza. Estas pessoas consideram que suas riquezas particulares e seu bem-estar também constituem um tesouro público, e, por outro lado, policiam para que o tesouro realmente público não se torne património de particulares. É um sentimento que, ao lado das leis, sustentam um Governo. Toda vez que tais pessoas deixam de cumprir as leis, elas enfraquecem o Estado e, consequente e contraditoriamente, sua própria liberdade. No entanto há quem sugere que o verdadeiro patriotismo, ao traduzir-se no impulso para defender a pátria, pode e deve estar contra uma injusta opressão estatal principalmente quando esteja a tomar medidas que põem em risco a independência nacional e a sua autodeterminação. Há diferentes tipos de patriotismo, e diferentes pessoas que são patriotas, diferentes maneiras de mostrar como são devotos ao seu lugar de origem: 
+*  Cultura: cantores, compositores e poetas, que são famosos no mundo inteiro, espalham o encanto do país em que vivem. E não negam suas raízes; 
+*  Guerra: pessoas que se oferecem ou são rigorosamente selecionadas para defenderem seu país em uma guerra. 
+*  Desportos: há grande parte da população que tem orgulho de sua pátria quando ela está representada por atletas do seu país em competição;</dbo:abstract>
+    <ns9:hypernym rdf:resource="http://dbpedia.org/resource/Attachment" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Claudiu_Teohari">
+    <dbp:subject rdf:resource="http://dbpedia.org/resource/Patriotism" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ethics_(Bonhoeffer)">
+    <dbo:nonFictionSubject rdf:resource="http://dbpedia.org/resource/Patriotism" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Broad_Left_Front_(Peru)">
+    <dbo:ideology rdf:resource="http://dbpedia.org/resource/Patriotism" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hellenic_Front">
+    <dbo:ideology rdf:resource="http://dbpedia.org/resource/Patriotism" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Patriotic">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Patriotism" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Adriano_Hernández">
+    <dbo:occupation rdf:resource="http://dbpedia.org/resource/Patriotism" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Order_of_the_Founders_and_Patriots_of_America">
+    <dbo:type rdf:resource="http://dbpedia.org/resource/Patriotism" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/For_Peace_and_Stability_(parliamentary_group)">
+    <dbo:ideology rdf:resource="http://dbpedia.org/resource/Patriotism" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Petar_Preradović">
+    <dc:subject rdf:resource="http://dbpedia.org/resource/Patriotism" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hadrawi">
+    <dc:subject rdf:resource="http://dbpedia.org/resource/Patriotism" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Silvio_Spaventa">
+    <dbo:profession rdf:resource="http://dbpedia.org/resource/Patriotism" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Daughters_of_the_American_Revolution">
+    <dbp:focus rdf:resource="http://dbpedia.org/resource/Patriotism" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sons_of_the_American_Revolution">
+    <dbo:type rdf:resource="http://dbpedia.org/resource/Patriotism" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Martín_Teófilo_Delgado">
+    <dbo:occupation rdf:resource="http://dbpedia.org/resource/Patriotism" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Llévame_Donde_Nací">
+    <dbo:type rdf:resource="http://dbpedia.org/resource/Patriotism" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Enrico_Albanese">
+    <dbo:field rdf:resource="http://dbpedia.org/resource/Patriotism" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/National_Unity_Association">
+    <dbo:ideology rdf:resource="http://dbpedia.org/resource/Patriotism" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/American_Legion_Auxiliary">
+    <dbo:type rdf:resource="http://dbpedia.org/resource/Patriotism" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Patriot">
+    <dbo:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/Patriotism" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/United_Daughters_of_the_Confederacy">
+    <dbo:type rdf:resource="http://dbpedia.org/resource/Patriotism" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/American_patriotism">
+    <ns9:hypernym rdf:resource="http://dbpedia.org/resource/Patriotism" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Society_of_the_Cincinnati">
+    <dbo:type rdf:resource="http://dbpedia.org/resource/Patriotism" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sons_of_Confederate_Veterans">
+    <dbo:type rdf:resource="http://dbpedia.org/resource/Patriotism" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sons_of_Union_Veterans_of_the_Civil_War">
+    <dbo:type rdf:resource="http://dbpedia.org/resource/Patriotism" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Patriotic_Party_(South_Korea)">
+    <dbo:ideology rdf:resource="http://dbpedia.org/resource/Patriotism" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sons_of_the_American_Legion">
+    <dbo:type rdf:resource="http://dbpedia.org/resource/Patriotism" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Patroit">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Patriotism" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Farah_Hussein_Sharmarke">
+    <dc:subject rdf:resource="http://dbpedia.org/resource/Patriotism" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jingoism">
+    <ns9:hypernym rdf:resource="http://dbpedia.org/resource/Patriotism" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/British_patriotism">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Patriotism" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Party_for_Justice,_Integration_and_Unity">
+    <dbo:ideology rdf:resource="http://dbpedia.org/resource/Patriotism" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Islami_Jamiat-e-Talaba">
+    <dbo:ideology rdf:resource="http://dbpedia.org/resource/Patriotism" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/National_Liberation_Front_(Greece)">
+    <dbo:ideology rdf:resource="http://dbpedia.org/resource/Patriotism" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yamyam">
+    <dc:subject rdf:resource="http://dbpedia.org/resource/Patriotism" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Royal_Society_of_St_George">
+    <dbo:type rdf:resource="http://dbpedia.org/resource/Patriotism" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Union,_Progress_and_Democracy">
+    <dbo:ideology rdf:resource="http://dbpedia.org/resource/Patriotism" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/United_Popular_Front">
+    <dbo:ideology rdf:resource="http://dbpedia.org/resource/Patriotism" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/National_Ideal_for_Unity">
+    <dbo:ideology rdf:resource="http://dbpedia.org/resource/Patriotism" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nikolay_Haytov">
+    <dbo:occupation rdf:resource="http://dbpedia.org/resource/Patriotism" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Active_Citizens">
+    <dbo:ideology rdf:resource="http://dbpedia.org/resource/Patriotism" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Scottish_patriot">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Patriotism" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/National_Organization_of_Crete">
+    <dbp:ideology rdf:resource="http://dbpedia.org/resource/Patriotism" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Patriotic_sentiment">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Patriotism" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hassan_Dhuxul_Laabsaalax">
+    <dc:subject rdf:resource="http://dbpedia.org/resource/Patriotism" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Maxamed_Axmed_Bakaal_Cirro">
+    <dc:subject rdf:resource="http://dbpedia.org/resource/Patriotism" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Unpatriotic">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Patriotism" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/وَطَنِيَّه،_حُب_الوَطَن">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Patriotism" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Patriotic_duty">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Patriotism" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Patriotism">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Patriotism" />
+  </rdf:Description>
+</rdf:RDF>

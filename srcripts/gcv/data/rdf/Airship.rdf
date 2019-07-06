@@ -1,0 +1,379 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:dct="http://purl.org/dc/terms/"
+	xmlns:dbo="http://dbpedia.org/ontology/"
+	xmlns:dbp="http://dbpedia.org/property/"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:prov="http://www.w3.org/ns/prov#"
+	xmlns:ns8="http://purl.org/linguistics/gold/" >
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Airship">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing" />
+    <rdfs:label xml:lang="nl">Luchtschip</rdfs:label>
+    <rdfs:label xml:lang="ja">飛行船</rdfs:label>
+    <rdfs:label xml:lang="es">Dirigible</rdfs:label>
+    <rdfs:label xml:lang="zh">飞艇 (轻航空器)</rdfs:label>
+    <rdfs:label xml:lang="en">Airship</rdfs:label>
+    <rdfs:label xml:lang="ar">سفينة هوائية</rdfs:label>
+    <rdfs:label xml:lang="it">Dirigibile</rdfs:label>
+    <rdfs:label xml:lang="pt">Dirigível</rdfs:label>
+    <rdfs:label xml:lang="fr">Ballon dirigeable</rdfs:label>
+    <rdfs:label xml:lang="ru">Дирижабль</rdfs:label>
+    <rdfs:label xml:lang="de">Luftschiff</rdfs:label>
+    <rdfs:label xml:lang="pl">Sterowiec</rdfs:label>
+    <rdfs:comment xml:lang="fr">Un ballon dirigeable est un aéronef léger, également appelé aérostat, renfermant des dispositifs destinés à assurer la sustentation ainsi que des systèmes de propulsion lui conférant une dirigeabilité totale. Les dirigeables se distinguent des autres types de ballons, les montgolfières et ballons à gaz libres qui subissent les vents et ne sont donc manœuvrables que verticalement.</rdfs:comment>
+    <rdfs:comment xml:lang="pt">Dirigível é um aeróstato que pode ser controlado. Ao contrário dos aeródinos, os dirigíveis sustentam-se através de uma grande cavidade que é preenchida com um gás menos denso que o ar atmosférico, como por exemplo o gás hélio ou mesmo o inflamável gás hidrogênio.</rdfs:comment>
+    <rdfs:comment xml:lang="it">Il dirigibile o aeronave è ogni aerostato la cui direzione possa essere controllata mediante comandi aerodinamici e/o propulsivi. Il primo dirigibile fu costruito nel 1852.</rdfs:comment>
+    <rdfs:comment xml:lang="nl">Een luchtschip is een bestuurbaar luchtvaartuig dat lichter is dan lucht. Het bestaat uit een omhulsel dat vanwege de benodigde hefkracht is gevuld met een gas lichter dan lucht: meestal waterstof of helium. Hieronder hangen een cabine (ook wel gondel genoemd) en een aantal motoren voorzien van propellers waardoor het luchtschip zich actief kan verplaatsen. Een luchtschip is net als een ballon lichter dan lucht, maar vliegt op motorkracht en is gestroomlijnd, en is dus veel minder afhankelijk van de wind dan een ballon.</rdfs:comment>
+    <rdfs:comment xml:lang="es">Un dirigible es un aerostato autopropulsado y con capacidad de maniobra para ser manejado como una aeronave. La sustentación aerostática se logra mediante depósitos llenos de un gas de menor densidad a la atmósfera circundante. Difiere de la sustentación aerodinámica, obtenida mediante el movimiento rápido de un perfil alar, como en el ala de un aeroplano o las aspas de un helicóptero.</rdfs:comment>
+    <rdfs:comment xml:lang="ja">飛行船（ひこうせん、英：airship）とは、空気より比重の小さい気体をつめた気嚢によって機体を浮揚させ、これに推進用の動力や舵をとるための尾翼などを取り付けて操縦可能にした航空機の一種である。</rdfs:comment>
+    <rdfs:comment xml:lang="ar">25بك المحتوى هنا ينقصه الاستشهاد بمصادر. يرجى إيراد مصادر موثوق بها. أي معلومات غير موثقة يمكن التشكيك بها وإزالتها. (مارس 2016) السفينة الهوائية مركبة هوائية أخف من الهواء. وجسم السفينة الهوائية كبير الحجم ويحتوي على غاز أخف من الهواء، وهذا الغاز هو المسؤول عن رفع السفينة الهوائية وبقائها محلقة في الهواء بنفس الطريقة التي يرتفع بها بالون الغاز (المنطاد). ولكن السفينة الهوائية تختلف عن المنطاد، حيث إنَّ لها محركًا يدفعها في الجو. وفي معظم السفن الهوائية معدات لتوجيه حركتها، بينما تعتمد حركة المناطيد على الرياح ولا يمكن توجيهها، ولكنها تتحرك في الاتجاه الذي تهب فيه الريح. وتختلف السفن الهوائية عن كل من الطائرة العادية والطائرة المروحية من حيث إن كلتيهما أثقل وزنا من الهواء. كما أنها تستعمل محركات ومراوح أو أجنحة لتحفظها مرفوعة.</rdfs:comment>
+    <rdfs:comment xml:lang="ru">Дирижа́бль (от фр. dirigeable — управляемый) — летательный аппарат легче воздуха, представляющий собой комбинацию аэростата с силовой установкой (обычно это двигатель внутреннего сгорания с воздушным винтом) и системой управления ориентацией (рули управления), благодаря чему дирижабль может двигаться в любом направлении независимо от направления воздушных потоков.</rdfs:comment>
+    <rdfs:comment xml:lang="de">Ein Luftschiff ist ein lenkbares Luftfahrzeug, dessen Auftrieb auf aerostatischen Kräften beruht und das über eine eigene Antriebseinheit verfügt. Das Haupteinsatzgebiet heutiger Luftschiffe sind touristische Rundfahrten, Luftwerbung, Überwachungsaufgaben und vereinzelt auch Forschungsaufgaben. Der Luftschiffergruß lautet „Glück ab!“, vgl. im Bergbau „Glück auf!“</rdfs:comment>
+    <rdfs:comment xml:lang="en">An airship or dirigible is a type of aerostat or lighter-than-air aircraft that can navigate through the air under its own power. Aerostats gain their lift from large gas bags filled with a lifting gas that is less dense than the surrounding air. The envelope of an airship may form a single gas bag, or may contain a number of internal gas-filled cells. An airship also has engines, crew, and optionally also payload accommodation, typically housed in one or more &quot;gondolas&quot; suspended below the envelope.</rdfs:comment>
+    <rdfs:comment xml:lang="zh">飞船（英语：Airship）是一種輕於空氣的航空器，也是人类第一种可以受控进行自由飞行的航空器。一般具有一個巨大的氣囊和推进、操纵系统。飞艇通过向艇体气囊中充入轻于空气的气体（如氦气等）升空，用发动机带动螺旋桨推动艇身，以艇尾尾面操纵航行方向。根據其材料結構的不同，飛艇可以分為硬式飛艇、軟式飛艇和半硬式飛艇（半软式飞艇）。飞艇曾被广泛用于海上巡逻、反潜、远程轰炸和空运兵力，也曾作为一种空中民用交通工具19世纪末20世纪初风靡一时。飞机出现后飞艇的主要作用变为以观光为主的商业运输，并在现代广告业中发挥着重要作用。</rdfs:comment>
+    <rdfs:comment xml:lang="pl">Sterowiec – aerostat z własnym napędem.</rdfs:comment>
+    <owl:differentFrom rdf:resource="http://dbpedia.org/resource/Balloon_(aircraft)" />
+    <owl:sameAs rdf:resource="http://pt.dbpedia.org/resource/Dirigível" />
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.0fx72" />
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Airship" />
+    <owl:sameAs rdf:resource="http://ko.dbpedia.org/resource/비행선" />
+    <owl:sameAs rdf:resource="http://es.dbpedia.org/resource/Dirigible" />
+    <owl:sameAs rdf:resource="http://fr.dbpedia.org/resource/Ballon_dirigeable" />
+    <owl:sameAs rdf:resource="http://cs.dbpedia.org/resource/Vzducholoď" />
+    <owl:sameAs rdf:resource="http://eu.dbpedia.org/resource/Baloi_gidatu" />
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q133585" />
+    <owl:sameAs rdf:resource="http://pl.dbpedia.org/resource/Sterowiec" />
+    <owl:sameAs rdf:resource="http://ja.dbpedia.org/resource/飛行船" />
+    <owl:sameAs rdf:resource="http://it.dbpedia.org/resource/Dirigibile" />
+    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/Luftschiff" />
+    <owl:sameAs rdf:resource="http://nl.dbpedia.org/resource/Luchtschip" />
+    <owl:sameAs rdf:resource="http://d-nb.info/gnd/4036587-6" />
+    <owl:sameAs rdf:resource="http://id.dbpedia.org/resource/Kapal_udara" />
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q133585" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Aeronautics" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Airships" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Gases" />
+    <dbo:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">58005</dbo:wikiPageID>
+    <dbo:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">744534143</dbo:wikiPageRevisionID>
+    <dbo:wikiPageExternalLink rdf:resource="http://www.vanwagneraerial.com/blimps" />
+    <dbo:wikiPageExternalLink rdf:resource="http://biblion.epfl.ch/EPFL/theses/2004/2986/EPFL_TH2986_app_screen.pdf" />
+    <dbo:wikiPageExternalLink rdf:resource="http://biblion.epfl.ch/EPFL/theses/2004/2986/EPFL_TH2986_screen.pdf" />
+    <dbo:wikiPageExternalLink rdf:resource="https://books.google.com/?id=3IfNAAAAMAAJ&amp;pg=PA8283" />
+    <dbo:wikiPageExternalLink rdf:resource="http://ballonboek.nl" />
+    <dbo:wikiPageExternalLink rdf:resource="https://books.google.com/books?id=uraKiSbbW1YC&amp;printsec=frontcover" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.zeno.org/Lueger-1904" />
+    <dbo:wikiPageExternalLink rdf:resource="https://books.google.com/?id=gtQWAAAAYAAJ&amp;pg=PA117" />
+    <dbo:wikiPageExternalLink rdf:resource="https://web.archive.org/web/20071011044542/http:/www.officineleonardo.com/storia/uk/0001.html" />
+    <dbp:reference rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Brooks, Peter, Zeppelin: Rigid Airships 1893–1940, 2004, ISBN 0-85177-845-3</dbp:reference>
+    <dbp:reference rdf:datatype="http://www.w3.org/2001/XMLSchema#gMonthDay">--06-30</dbp:reference>
+    <dbp:reference rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Brooks, Peter, W., Zeppelin: Rigid Airships 1893–1940, Washington, Smithsonian Institution Press, 1992, ISBN 1-56098-228-4</dbp:reference>
+    <dbp:reference rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Lueger, Otto: Lexikon der gesamten Technik und ihrer Hilfswissenschaften, Bd. 1 Stuttgart, Leipzig 1920. digital scan</dbp:reference>
+    <foaf:depiction rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Zeppellin_NT_amk.JPG" />
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Airship" />
+    <dbo:thumbnail rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Zeppellin_NT_amk.JPG?width=300" />
+    <prov:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Airship?oldid=744534143" />
+    <dbo:abstract xml:lang="ru">Дирижа́бль (от фр. dirigeable — управляемый) — летательный аппарат легче воздуха, представляющий собой комбинацию аэростата с силовой установкой (обычно это двигатель внутреннего сгорания с воздушным винтом) и системой управления ориентацией (рули управления), благодаря чему дирижабль может двигаться в любом направлении независимо от направления воздушных потоков.</dbo:abstract>
+    <dbo:abstract xml:lang="es">Un dirigible es un aerostato autopropulsado y con capacidad de maniobra para ser manejado como una aeronave. La sustentación aerostática se logra mediante depósitos llenos de un gas de menor densidad a la atmósfera circundante. Difiere de la sustentación aerodinámica, obtenida mediante el movimiento rápido de un perfil alar, como en el ala de un aeroplano o las aspas de un helicóptero. Fue el primer artefacto volador capaz de ser controlado en un vuelo de larga duración. Su uso principal tuvo lugar aproximadamente entre 1900 y la década de 1930, para disminuir paulatinamente cuando los aeroplanos superaron sus capacidades y tras haber sufrido varios accidentes de relevancia; el más notable de los cuales fue sin duda el incendio del Hindenburg. Actualmente se los utiliza en una serie de aplicaciones secundarias, especialmente publicidad.</dbo:abstract>
+    <dbo:abstract xml:lang="fr">Un ballon dirigeable est un aéronef léger, également appelé aérostat, renfermant des dispositifs destinés à assurer la sustentation ainsi que des systèmes de propulsion lui conférant une dirigeabilité totale. Les dirigeables se distinguent des autres types de ballons, les montgolfières et ballons à gaz libres qui subissent les vents et ne sont donc manœuvrables que verticalement. Pour se déplacer, les dirigeables utilisent la propulsion par hélices, qui peuvent être mues par des moteurs à explosion, par des moteurs électriques ou par un pédalier, ou plus récemment par des moteurs électriques reliés à des tissus capteurs photovoltaïques.</dbo:abstract>
+    <dbo:abstract xml:lang="ar">25بك المحتوى هنا ينقصه الاستشهاد بمصادر. يرجى إيراد مصادر موثوق بها. أي معلومات غير موثقة يمكن التشكيك بها وإزالتها. (مارس 2016) السفينة الهوائية مركبة هوائية أخف من الهواء. وجسم السفينة الهوائية كبير الحجم ويحتوي على غاز أخف من الهواء، وهذا الغاز هو المسؤول عن رفع السفينة الهوائية وبقائها محلقة في الهواء بنفس الطريقة التي يرتفع بها بالون الغاز (المنطاد). ولكن السفينة الهوائية تختلف عن المنطاد، حيث إنَّ لها محركًا يدفعها في الجو. وفي معظم السفن الهوائية معدات لتوجيه حركتها، بينما تعتمد حركة المناطيد على الرياح ولا يمكن توجيهها، ولكنها تتحرك في الاتجاه الذي تهب فيه الريح. وتختلف السفن الهوائية عن كل من الطائرة العادية والطائرة المروحية من حيث إن كلتيهما أثقل وزنا من الهواء. كما أنها تستعمل محركات ومراوح أو أجنحة لتحفظها مرفوعة. ظهرت السفن الهوائية في القرن التاسع عشر كأول آلات قادرة على الطيران لمسافات طويلة يقودها إنسان، وكذلك يمكن توجيهها، ولعل هذه الصفة كانت سببا في تسميتها في بعض الأحيان المناطيد الموجهة.</dbo:abstract>
+    <dbo:abstract xml:lang="de">Ein Luftschiff ist ein lenkbares Luftfahrzeug, dessen Auftrieb auf aerostatischen Kräften beruht und das über eine eigene Antriebseinheit verfügt. Das Haupteinsatzgebiet heutiger Luftschiffe sind touristische Rundfahrten, Luftwerbung, Überwachungsaufgaben und vereinzelt auch Forschungsaufgaben. Die Geschichte der Luftschifffahrt geht bis ins 19. Jahrhundert zurück. Im 19. und speziell in der ersten Hälfte des 20. Jahrhunderts hatten Luftschiffe eine weitaus größere Bedeutung als zur heutigen Zeit. Sie sind die Pioniere des Luftverkehrs, waren Verkehrsmittel der ersten Luftfahrtgesellschaft und auch die ersten Luftfahrzeuge, die Passagiere im Liniendienst ohne Zwischenstopp über den Atlantik beförderten. Die Ära der Großluftschifffahrt begann im Ersten Weltkrieg, um militärischen Leistungsanforderungen nachzukommen. Während des Krieges wurden Luftschiffe mit dem Zweck des Personen- und Gütertransports eingesetzt. Zudem waren sie Langstreckenaufklärer und die einzigen Luftfahrzeuge ihrer Zeit, die eine größere Bombenlast tragen konnten. Später schützten sie Konvois vor feindlichen U-Booten und überwachten den Luftraum. Die großen Luftschiffe dieser Zeit kamen jedoch auch immer wieder durch Unglücke in die Schlagzeilen, denn die „Phase der Prototypen“ und das Heranreifen zu einer sicheren Technologie war erst wirklich abgeschlossen, als die „Ära der Großluftschiffe“ bereits ihr Ende fand. Der Luftschiffergruß lautet „Glück ab!“, vgl. im Bergbau „Glück auf!“</dbo:abstract>
+    <dbo:abstract xml:lang="it">Il dirigibile o aeronave è ogni aerostato la cui direzione possa essere controllata mediante comandi aerodinamici e/o propulsivi. Il primo dirigibile fu costruito nel 1852.</dbo:abstract>
+    <dbo:abstract xml:lang="pt">Dirigível é um aeróstato que pode ser controlado. Ao contrário dos aeródinos, os dirigíveis sustentam-se através de uma grande cavidade que é preenchida com um gás menos denso que o ar atmosférico, como por exemplo o gás hélio ou mesmo o inflamável gás hidrogênio.</dbo:abstract>
+    <dbo:abstract xml:lang="ja">飛行船（ひこうせん、英：airship）とは、空気より比重の小さい気体をつめた気嚢によって機体を浮揚させ、これに推進用の動力や舵をとるための尾翼などを取り付けて操縦可能にした航空機の一種である。</dbo:abstract>
+    <dbo:abstract xml:lang="nl">Een luchtschip is een bestuurbaar luchtvaartuig dat lichter is dan lucht. Het bestaat uit een omhulsel dat vanwege de benodigde hefkracht is gevuld met een gas lichter dan lucht: meestal waterstof of helium. Hieronder hangen een cabine (ook wel gondel genoemd) en een aantal motoren voorzien van propellers waardoor het luchtschip zich actief kan verplaatsen. Een luchtschip is net als een ballon lichter dan lucht, maar vliegt op motorkracht en is gestroomlijnd, en is dus veel minder afhankelijk van de wind dan een ballon.</dbo:abstract>
+    <dbo:abstract xml:lang="pl">Sterowiec – aerostat z własnym napędem.</dbo:abstract>
+    <dbo:abstract xml:lang="zh">飞船（英语：Airship）是一種輕於空氣的航空器，也是人类第一种可以受控进行自由飞行的航空器。一般具有一個巨大的氣囊和推进、操纵系统。飞艇通过向艇体气囊中充入轻于空气的气体（如氦气等）升空，用发动机带动螺旋桨推动艇身，以艇尾尾面操纵航行方向。根據其材料結構的不同，飛艇可以分為硬式飛艇、軟式飛艇和半硬式飛艇（半软式飞艇）。飞艇曾被广泛用于海上巡逻、反潜、远程轰炸和空运兵力，也曾作为一种空中民用交通工具19世纪末20世纪初风靡一时。飞机出现后飞艇的主要作用变为以观光为主的商业运输，并在现代广告业中发挥着重要作用。</dbo:abstract>
+    <dbo:abstract xml:lang="en">An airship or dirigible is a type of aerostat or lighter-than-air aircraft that can navigate through the air under its own power. Aerostats gain their lift from large gas bags filled with a lifting gas that is less dense than the surrounding air. In early dirigibles, the lifting gas used was hydrogen, due to its high lifting capacity and ready availability. Helium gas has almost the same lifting capacity and is not flammable, unlike hydrogen, but is rare and relatively expensive. Significant amounts were first discovered in the United States and for a while helium was only used for airships by the United States. Most airships built since the 1960s have used helium, though some have used hot air. The envelope of an airship may form a single gas bag, or may contain a number of internal gas-filled cells. An airship also has engines, crew, and optionally also payload accommodation, typically housed in one or more &quot;gondolas&quot; suspended below the envelope. The main types of airship are non-rigid, semi-rigid, and rigid. Non-rigid airships, often called &quot;blimps&quot;, rely on internal pressure to maintain the shape of the airship. Semi-rigid airships maintain the envelope shape by internal pressure, but have some form of supporting structure, such as a fixed keel, attached to it. Rigid airships have an outer structural framework which maintains the shape and carries all structural loads, while the lifting gas is contained in one or more internal gas bags or cells. Rigid airships were first flown by Count Zeppelin and the vast majority of rigid airships built were manufactured by the firm he founded. As a result, rigid airships are called zeppelins. Airships were the first aircraft capable of controlled powered flight, and were most commonly used before the 1940s, but their use decreased over time as their capabilities were surpassed by those of aeroplanes. Their decline was accelerated by a series of high-profile accidents, including the 1930 crash and burning of British R101 in France, the 1933 and 1935 storm-related crashes of the twin airborne aircraft carrier U.S. Navy helium-filled rigids, the USS Akron and USS Macon respectively, and the 1937 burning of the hydrogen-filled Hindenburg. From the 1960s, helium airships have been used in applications where the ability to hover in one place for an extended period outweighs the need for speed and manoeuvrability such as advertising, tourism, camera platforms, geological surveys, and aerial observation.</dbo:abstract>
+    <dbp:date rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">March 2010</dbp:date>
+    <dbp:group rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">note</dbp:group>
+    <dbp:liststyle rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">lower-roman</dbp:liststyle>
+    <dbp:reason rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">where is this San Julian located, there are several, and cite would be helpful</dbp:reason>
+    <dbp:ref rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Brooks2004</dbp:ref>
+    <dbp:ref rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Lig</dbp:ref>
+    <dbp:ref rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Lueger1920</dbp:ref>
+    <dbp:ref rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Brooks1992</dbp:ref>
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Aerostat" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Blimp">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Airship" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/LZ_129_Hindenburg">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Airship" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Zeppelin">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Airship" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/LZ_2">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Airship" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/LZ_10_Schwaben">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Airship" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Dirigible_balloon">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Airship" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Goodyear_Type_AD">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Airship" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Schütte-Lanz_SL_11">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Airship" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/AeroLift_CycloCrane">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Airship" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Airship_(video_game)">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Airship" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/LZ_18_(L_2)">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Airship" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/La_France_(airship)">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Airship" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/William_Beardmore_and_Company">
+    <dbo:product rdf:resource="http://dbpedia.org/resource/Airship" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/LZ_3">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Airship" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Helgoland_Island_air_disaster">
+    <dbp:aircraftType rdf:resource="http://dbpedia.org/resource/Airship" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Giffard_dirigible">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Airship" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/USS_Los_Angeles_(ZR-3)">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Airship" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/R36_(airship)">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Airship" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Airship_Industries_Skyship_500">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Airship" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Zeppelin_R_Class">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Airship" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lech_(airship)">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Airship" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Parseval_PL25">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Airship" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Thermal_airship">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Airship" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Cameron_D-96">
+    <dbo:type rdf:resource="http://dbpedia.org/resource/Airship" />
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Airship" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Goodyear_RS-1">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Airship" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/USS_Akron_(ZRS-4)">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Airship" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Norge_(airship)">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Airship" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/SSSR-V6_OSOAVIAKhIM">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Airship" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Rigid_airship">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Airship" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Semi-rigid_airship">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Airship" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lockheed_Martin_P-791">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Airship" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Patrie_(airship)">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Airship" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Airship_Development_AD1">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Airship" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/BUAA_Mifeng-6">
+    <dbo:type rdf:resource="http://dbpedia.org/resource/Airship" />
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Airship" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Cameron_Skystar">
+    <dbo:type rdf:resource="http://dbpedia.org/resource/Airship" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kubicek_AV-1">
+    <dbo:type rdf:resource="http://dbpedia.org/resource/Airship" />
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Airship" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/LZ_4">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Airship" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Dirgible">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Airship" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Airship_Italia">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Airship" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Roma_(airship)">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Airship" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/USS_Macon_(ZRS-5)">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Airship" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Zeppelin_LZ_120_Bodensee">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Airship" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/SVAM_CA-80">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Airship" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Loral_GZ-22">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Airship" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/R100_(disambiguation)">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Airship" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/R80_(airship)">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Airship" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Airships_in_video_games">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Airship" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/C-class_blimp">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Airship" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/D-class_blimp">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Airship" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/O-1_(airship)">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Airship" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/R102">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Airship" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Stuck_in_This_Ocean">
+    <dbo:artist rdf:resource="http://dbpedia.org/resource/Airship" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/August_von_Parseval">
+    <dbo:occupation rdf:resource="http://dbpedia.org/resource/Airship" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Dirigible">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Airship" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Airships">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Airship" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Dirigibles">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Airship" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hybrid_Air_Vehicles_HAV-3">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Airship" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/AEREON_III">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Airship" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Coastal_class_airship">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Airship" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Roadless_trucking">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Airship" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Airship_Industries_Skyship_600">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Airship" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Balloon_(aeronautics)">
+    <owl:differentFrom rdf:resource="http://dbpedia.org/resource/Airship" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Airship_(disambiguation)">
+    <dbo:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/Airship" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/America_(airship)">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Airship" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Dixmude_(airship)">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Airship" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/LZ_13_Hansa">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Airship" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Clément-Bayard_No.1">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Airship" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Clément-Bayard_No.2">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Airship" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/La_République_(airship)">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Airship" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/British_Army_airship_Beta">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Airship" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gondola_(airship)">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Airship" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/ZMC-2">
+    <dbo:type rdf:resource="http://dbpedia.org/resource/Airship" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ballon_Generali">
+    <dbo:type rdf:resource="http://dbpedia.org/resource/Airship" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Erbslöh">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Airship" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/British_Army_Dirigible_No_1">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Airship" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/SSP_class_airship">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Airship" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Chitty_Bang_Bang_(airship)">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Airship" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/TCOM_Blue_Devil">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Airship" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Aereon_Dynairship">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Airship" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lebaudy_Morning_Post">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Airship" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Aircruise">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Airship" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sky_Sentinel">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Airship" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Air_ship">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Airship" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vacuum_airship">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Airship" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gelatine_(airship)">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Airship" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Derigible">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Airship" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Derigibles">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Airship" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Thermoplan">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Airship" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Airship">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Airship" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Airship_gondola">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Airship" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Dirigible_airship">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Airship" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Airship_era">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Airship" />
+  </rdf:Description>
+</rdf:RDF>

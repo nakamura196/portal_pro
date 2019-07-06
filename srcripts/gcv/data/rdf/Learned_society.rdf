@@ -1,0 +1,336 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:dct="http://purl.org/dc/terms/"
+	xmlns:dbo="http://dbpedia.org/ontology/"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:prov="http://www.w3.org/ns/prov#"
+	xmlns:dbp="http://dbpedia.org/property/"
+	xmlns:ns8="http://purl.org/linguistics/gold/" >
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yorkshire_Philosophical_Society">
+    <dbo:type rdf:resource="http://dbpedia.org/resource/Learned_society" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Cambrian_Archaeological_Association">
+    <dbo:type rdf:resource="http://dbpedia.org/resource/Learned_society" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Society_for_Court_Studies">
+    <dbo:type rdf:resource="http://dbpedia.org/resource/Learned_society" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/American_Society_of_Ichthyologists_and_Herpetologists">
+    <dbo:type rdf:resource="http://dbpedia.org/resource/Learned_society" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Société_Jersiaise">
+    <dbo:type rdf:resource="http://dbpedia.org/resource/Learned_society" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/International_Society_for_Bayesian_Analysis">
+    <dbo:type rdf:resource="http://dbpedia.org/resource/Learned_society" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Learning_society">
+    <owl:differentFrom rdf:resource="http://dbpedia.org/resource/Learned_society" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/American_Bandmasters_Association">
+    <dbo:type rdf:resource="http://dbpedia.org/resource/Learned_society" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Chartered_Society_of_Designers">
+    <dbo:type rdf:resource="http://dbpedia.org/resource/Learned_society" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Register_of_Clinical_Technologists">
+    <dbo:type rdf:resource="http://dbpedia.org/resource/Learned_society" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/European_Federation_of_Autonomic_Societies">
+    <dbp:type rdf:resource="http://dbpedia.org/resource/Learned_society" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Literary_and_Historical_Society_of_Quebec">
+    <dbo:type rdf:resource="http://dbpedia.org/resource/Learned_society" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Institute_of_Mathematics_and_its_Applications">
+    <dbo:type rdf:resource="http://dbpedia.org/resource/Learned_society" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Société_mycologique_de_France">
+    <dbo:type rdf:resource="http://dbpedia.org/resource/Learned_society" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Societas_eruditorum_incognitorum_in_terris_Austriacis">
+    <dbp:type rdf:resource="http://dbpedia.org/resource/Learned_society" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Royal_Astronomical_Society">
+    <dbo:type rdf:resource="http://dbpedia.org/resource/Learned_society" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/British_Records_Association">
+    <dbo:type rdf:resource="http://dbpedia.org/resource/Learned_society" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Learned_society">
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Organisation" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoPermanentlyLocatedEntity" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatClubsAndSocieties" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatScientificOrganizations" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Association108049401" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Club108227214" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Abstraction100002137" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/SocialGroup107950920" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Group100031264" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Organization108008335" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoLegalActor" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoLegalActorGeo" />
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing" />
+    <rdfs:label xml:lang="ru">Научное общество</rdfs:label>
+    <rdfs:label xml:lang="en">Learned society</rdfs:label>
+    <rdfs:label xml:lang="ar">جمعية علمية</rdfs:label>
+    <rdfs:label xml:lang="ja">学会</rdfs:label>
+    <rdfs:label xml:lang="fr">Société savante</rdfs:label>
+    <rdfs:label xml:lang="de">Gelehrtengesellschaft</rdfs:label>
+    <rdfs:comment xml:lang="fr">Une société savante, qui souvent aussi portait le nom de société d&#39;émulation, est une association d’érudits. Une société savante est généralement une association regroupant des experts et des amateurs éclairés qui font et publient des travaux de recherche originaux (souvent publiés dans une revue éditée par l&#39;association elle-même). Par leurs travaux et leur réflexion, ces sociétés font avancer la connaissance dans leur domaine d&#39;activité et jouent souvent un rôle important d&#39;archivage et valorisation de savoirs et savoir-faire locaux.</rdfs:comment>
+    <rdfs:comment xml:lang="ru">Научное общество (учёное общество или научная ассоциация) — организация, которая существует, чтобы содействовать развитию и распространению академической дисциплины или профессии, или группы связанных дисциплин или профессий. Членство в научных обществах может быть как открытым для всех, так и ограниченным (только для людей подтвердивших свою квалификацию). В ряде научных обществ членство может быть приобретено только путём выборов. Некоторые общества предлагают членство для тех, кто заинтересован в конкретной теме или дисциплине, при условии, что они платят членские взносы.</rdfs:comment>
+    <rdfs:comment xml:lang="ja">学会（がっかい）とは、学問や研究の従事者らが、自己の研究成果を公開発表し、その科学的妥当性をオープンな場で検討論議する場である。また同時に、査読、研究発表会、講演会、学会誌、学術論文誌などの研究成果の発表の場を提供する業務や、研究者同士の交流などの役目も果たす機関でもある。</rdfs:comment>
+    <rdfs:comment xml:lang="en">A learned society (also known as a learned academy, scholarly society or academic association) is an organization that exists to promote an academic discipline or profession, or a group of related disciplines or professions. Membership may be open to all, may require possession of some qualification, or may be an honor conferred by election.</rdfs:comment>
+    <rdfs:comment xml:lang="de">Eine Gelehrtengesellschaft ist ein Zusammenschluss wissenschaftlich gebildeter Personen zur Förderung mehrerer akademischer Disziplinen oder mehrerer Klassen von akademischen Disziplinen.</rdfs:comment>
+    <rdfs:comment xml:lang="ar">الجمعية العلمية (بالإنجليزية: learned society)، ويطلق عليها أيضًا الأكاديمية العلمية (بالإنجليزية: learned academy) أو الرابطة الأكاديمية (بالإنجليزية: academic association) هي منظمة ـ غير ربحية في الأغلب ـ تنشأ لدفع تقدم مجال أو مهنة أكاديمية أو أكثر. وقد تكون عضوية تلك الجمعيات مفتوحة للجميع أو قد تشترط مؤهلات معينة، وقد تكون عضويتها تشريفًا يُمنح للعضو بالانتخاب.</rdfs:comment>
+    <owl:differentFrom rdf:resource="http://dbpedia.org/resource/Learning_society" />
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q955824" />
+    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/Gelehrtengesellschaft" />
+    <owl:sameAs rdf:resource="http://fr.dbpedia.org/resource/Société_savante" />
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.01_td3" />
+    <owl:sameAs rdf:resource="http://ja.dbpedia.org/resource/学会" />
+    <owl:sameAs rdf:resource="http://yago-knowledge.org/resource/Learned_society" />
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Learned_society" />
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q955824" />
+    <owl:sameAs rdf:resource="http://ko.dbpedia.org/resource/학회" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Clubs_and_societies" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Types_of_organization" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Learned_societies" />
+    <dbo:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">364319</dbo:wikiPageID>
+    <dbo:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">731912443</dbo:wikiPageRevisionID>
+    <dbo:wikiPageExternalLink rdf:resource="http://www.lib.uwaterloo.ca/society/overview.html" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.morrin.org/eclectica" />
+    <dbo:wikiPageExternalLink rdf:resource="https://commons.mla.org" />
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Learned_society" />
+    <prov:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Learned_society?oldid=731912443" />
+    <dbo:abstract xml:lang="de">Eine Gelehrtengesellschaft ist ein Zusammenschluss wissenschaftlich gebildeter Personen zur Förderung mehrerer akademischer Disziplinen oder mehrerer Klassen von akademischen Disziplinen.</dbo:abstract>
+    <dbo:abstract xml:lang="ja">学会（がっかい）とは、学問や研究の従事者らが、自己の研究成果を公開発表し、その科学的妥当性をオープンな場で検討論議する場である。また同時に、査読、研究発表会、講演会、学会誌、学術論文誌などの研究成果の発表の場を提供する業務や、研究者同士の交流などの役目も果たす機関でもある。</dbo:abstract>
+    <dbo:abstract xml:lang="ru">Научное общество (учёное общество или научная ассоциация) — организация, которая существует, чтобы содействовать развитию и распространению академической дисциплины или профессии, или группы связанных дисциплин или профессий. Членство в научных обществах может быть как открытым для всех, так и ограниченным (только для людей подтвердивших свою квалификацию). В ряде научных обществ членство может быть приобретено только путём выборов. Большинство научных обществ являются некоммерческими организациями. Их деятельность, как правило, включает в себя проведение регулярных конференций для представления и обсуждения новых результатов научных исследований и публикаций или спонсирует научные журналы в определённой научной дисциплине. Некоторые из них также действуют как профессиональные органы, регулирующих деятельность своих членов в государственных или коллективных (межгосударственных) интересах. В отличие от научных академий, учёные общества (буквально с момента своего появления) были объединениями популяризаторов науки много более широкими по своему представительству, объединявшими врачей, путешественников, писателей и представителей многих других гуманитарных профессий. Старейшими научными обществами, в частности, являются Sodalitas Litterarum Vistulana (основ. ок. 1488 года); Национальная академия деи Линчеи (основана в 1603 году), Французская академия (основана в 1635 году), Леопольдина (основана в 1652 году), Лондонское королевское общество (основано в 1660 году). Научные общества могут иметь весьма общий характер, как, например, Американская ассоциация содействия развитию науки, специфический для данной дисциплины, такие как Modern Language Association, или специфическими для данной области исследований, как, например, Королевское энтомологическое общество Лондона. Некоторые общества предлагают членство для тех, кто заинтересован в конкретной теме или дисциплине, при условии, что они платят членские взносы.</dbo:abstract>
+    <dbo:abstract xml:lang="ar">الجمعية العلمية (بالإنجليزية: learned society)، ويطلق عليها أيضًا الأكاديمية العلمية (بالإنجليزية: learned academy) أو الرابطة الأكاديمية (بالإنجليزية: academic association) هي منظمة ـ غير ربحية في الأغلب ـ تنشأ لدفع تقدم مجال أو مهنة أكاديمية أو أكثر. وقد تكون عضوية تلك الجمعيات مفتوحة للجميع أو قد تشترط مؤهلات معينة، وقد تكون عضويتها تشريفًا يُمنح للعضو بالانتخاب. تشمل أنشطة الجمعية العلمية في الأغلب عقد مؤتمرات دورية لعرض ومناقشة نتائج الأبحاث الجديدة، ونشر أو رعاية دوريات أكاديمية في مجالها. وقد تقوم بعض الجمعيات العلمية بدور الكيانات المهنية، فتنظم أنشطة أعضائها في سبيل الصالح العام أو الصالح الجماعي للأعضاء.</dbo:abstract>
+    <dbo:abstract xml:lang="en">A learned society (also known as a learned academy, scholarly society or academic association) is an organization that exists to promote an academic discipline or profession, or a group of related disciplines or professions. Membership may be open to all, may require possession of some qualification, or may be an honor conferred by election. Most learned societies are non-profit organizations, and many are professional associations. Their activities typically include holding regular conferences for the presentation and discussion of new research results and publishing or sponsoring academic journals in their discipline. Some also act as professional bodies, regulating the activities of their members in the public interest or the collective interest of the membership.</dbo:abstract>
+    <dbo:abstract xml:lang="fr">Une société savante, qui souvent aussi portait le nom de société d&#39;émulation, est une association d’érudits. Une société savante est généralement une association regroupant des experts et des amateurs éclairés qui font et publient des travaux de recherche originaux (souvent publiés dans une revue éditée par l&#39;association elle-même). Par leurs travaux et leur réflexion, ces sociétés font avancer la connaissance dans leur domaine d&#39;activité et jouent souvent un rôle important d&#39;archivage et valorisation de savoirs et savoir-faire locaux. Elles travaillent souvent avec les musées, les écoles, universités, et en relation avec d&#39;autres sociétés savantes ou des experts faisant référence. En France, elles peuvent faire don de leurs fonds aux archives départementales.</dbo:abstract>
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Organization" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Society_(disambiguation)">
+    <dbo:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/Learned_society" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Société_zoologique_de_France">
+    <dbo:type rdf:resource="http://dbpedia.org/resource/Learned_society" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Buenos_Aires_National_Academy_of_Medicine">
+    <dbo:type rdf:resource="http://dbpedia.org/resource/Learned_society" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/National_Council_for_Geographic_Education">
+    <dbo:type rdf:resource="http://dbpedia.org/resource/Learned_society" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Royal_Society_of_Biology">
+    <dbo:type rdf:resource="http://dbpedia.org/resource/Learned_society" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Société_chimique_de_France">
+    <dbo:type rdf:resource="http://dbpedia.org/resource/Learned_society" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hadrianic_Society">
+    <dbo:type rdf:resource="http://dbpedia.org/resource/Learned_society" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/American_Chemical_Society">
+    <dbo:type rdf:resource="http://dbpedia.org/resource/Learned_society" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Birmingham_Natural_History_Society">
+    <dbp:type rdf:resource="http://dbpedia.org/resource/Learned_society" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Environmental_Mutagen_Society">
+    <dbp:type rdf:resource="http://dbpedia.org/resource/Learned_society" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Royal_Society_for_Asian_Affairs">
+    <dbo:type rdf:resource="http://dbpedia.org/resource/Learned_society" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Scottish_Economic_Society">
+    <dbo:type rdf:resource="http://dbpedia.org/resource/Learned_society" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Society_for_Risk_Analysis">
+    <dbo:type rdf:resource="http://dbpedia.org/resource/Learned_society" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Society_of_Antiquaries_of_London">
+    <dbo:type rdf:resource="http://dbpedia.org/resource/Learned_society" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Society_of_Antiquaries_of_Newcastle_upon_Tyne">
+    <dbo:type rdf:resource="http://dbpedia.org/resource/Learned_society" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Society_of_Chemical_Industry">
+    <dbo:type rdf:resource="http://dbpedia.org/resource/Learned_society" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Royal_Bohemian_Society_of_Sciences">
+    <dbo:type rdf:resource="http://dbpedia.org/resource/Learned_society" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Learned_Societies">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Learned_society" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/International_Society_for_Computational_Biology">
+    <dbo:type rdf:resource="http://dbpedia.org/resource/Learned_society" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Scientific_society">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Learned_society" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Association_for_Symbolic_Logic">
+    <dbo:type rdf:resource="http://dbpedia.org/resource/Learned_society" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/British_Bryological_Society">
+    <dbo:type rdf:resource="http://dbpedia.org/resource/Learned_society" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Latin_American_Studies_Association">
+    <dbo:type rdf:resource="http://dbpedia.org/resource/Learned_society" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/London_Mathematical_Society">
+    <dbo:type rdf:resource="http://dbpedia.org/resource/Learned_society" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Royal_Statistical_Society">
+    <dbo:type rdf:resource="http://dbpedia.org/resource/Learned_society" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Newcomen_Society">
+    <dbo:type rdf:resource="http://dbpedia.org/resource/Learned_society" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Royal_Geographical_Society">
+    <dbo:type rdf:resource="http://dbpedia.org/resource/Learned_society" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Royal_Society_of_Chemistry">
+    <dbo:type rdf:resource="http://dbpedia.org/resource/Learned_society" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Academic_societies">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Learned_society" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Scholarly_societies">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Learned_society" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Association_of_American_Law_Schools">
+    <dbo:type rdf:resource="http://dbpedia.org/resource/Learned_society" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Linnean_Society_of_London">
+    <dbo:type rdf:resource="http://dbpedia.org/resource/Learned_society" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Royal_Society_of_Literature">
+    <dbo:type rdf:resource="http://dbpedia.org/resource/Learned_society" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Midwest_Clinic">
+    <dbo:type rdf:resource="http://dbpedia.org/resource/Learned_society" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Society_of_Chemical_Industry_(American_Section)">
+    <dbo:type rdf:resource="http://dbpedia.org/resource/Learned_society" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Swedish_Chemical_Society">
+    <dbo:type rdf:resource="http://dbpedia.org/resource/Learned_society" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Accademia_degli_Svogliati">
+    <dbo:type rdf:resource="http://dbpedia.org/resource/Learned_society" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/British_Naturalists&#39;_Association">
+    <dbo:type rdf:resource="http://dbpedia.org/resource/Learned_society" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/International_Institute_for_Conservation">
+    <dbo:affiliation rdf:resource="http://dbpedia.org/resource/Learned_society" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/International_Society_for_Autonomic_Neuroscience">
+    <dbp:type rdf:resource="http://dbpedia.org/resource/Learned_society" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Middle_East_Studies_Association_of_North_America">
+    <dbo:type rdf:resource="http://dbpedia.org/resource/Learned_society" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Society_for_Lincolnshire_History_and_Archaeology">
+    <dbo:type rdf:resource="http://dbpedia.org/resource/Learned_society" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Scholarly_society">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Learned_society" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gesellschaft_Deutscher_Chemiker">
+    <dbo:type rdf:resource="http://dbpedia.org/resource/Learned_society" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/International_Society_for_Music_Education">
+    <dbo:type rdf:resource="http://dbpedia.org/resource/Learned_society" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Operational_Research_Society">
+    <dbo:type rdf:resource="http://dbpedia.org/resource/Learned_society" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Pakistan_Botanical_Society">
+    <dbo:type rdf:resource="http://dbpedia.org/resource/Learned_society" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Institute_of_Physics_and_Engineering_in_Medicine">
+    <dbo:type rdf:resource="http://dbpedia.org/resource/Learned_society" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Society_of_General_Internal_Medicine">
+    <dbo:type rdf:resource="http://dbpedia.org/resource/Learned_society" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Chemical_Society_of_Japan">
+    <dbo:type rdf:resource="http://dbpedia.org/resource/Learned_society" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Stair_Society">
+    <dbo:type rdf:resource="http://dbpedia.org/resource/Learned_society" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Learned_societies">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Learned_society" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Japan_Society_of_Neurovegetative_Research">
+    <dbp:type rdf:resource="http://dbpedia.org/resource/Learned_society" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Academic_society">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Learned_society" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Royal_Philosophical_Society_of_Glasgow">
+    <dbo:type rdf:resource="http://dbpedia.org/resource/Learned_society" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/American_Autonomic_Society">
+    <dbp:type rdf:resource="http://dbpedia.org/resource/Learned_society" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/British_Academy_of_Management">
+    <dbo:type rdf:resource="http://dbpedia.org/resource/Learned_society" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Société_Française_de_Parasitologie">
+    <dbo:type rdf:resource="http://dbpedia.org/resource/Learned_society" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Geological_Curators&#39;_Group">
+    <dbo:type rdf:resource="http://dbpedia.org/resource/Learned_society" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/International_Association_of_Geoanalysts">
+    <dbo:type rdf:resource="http://dbpedia.org/resource/Learned_society" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Society_of_Swedish_Literature_in_Finland">
+    <dbo:type rdf:resource="http://dbpedia.org/resource/Learned_society" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Scholarly_association">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Learned_society" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Wetenschappelijk_genootschap">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Learned_society" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Learned_society">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Learned_society" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Learned_Academies">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Learned_society" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Learned_academies">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Learned_society" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Learned_academy">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Learned_society" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Scientific_organization">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Learned_society" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Academic_association">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Learned_society" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Academic_associations">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Learned_society" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Learned_association">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Learned_society" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Learned_associations">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Learned_society" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Scholarly_associations">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Learned_society" />
+  </rdf:Description>
+</rdf:RDF>

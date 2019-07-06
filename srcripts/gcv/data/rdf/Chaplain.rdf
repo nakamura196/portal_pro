@@ -1,0 +1,496 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:dct="http://purl.org/dc/terms/"
+	xmlns:dbo="http://dbpedia.org/ontology/"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:prov="http://www.w3.org/ns/prov#"
+	xmlns:dbp="http://dbpedia.org/property/"
+	xmlns:ns8="http://purl.org/linguistics/gold/" >
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Albert_Jenkin">
+    <dbo:occupation rdf:resource="http://dbpedia.org/resource/Chaplain" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Zdzisław_Peszkowski">
+    <dbo:knownFor rdf:resource="http://dbpedia.org/resource/Chaplain" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/David_Pawson">
+    <dbo:occupation rdf:resource="http://dbpedia.org/resource/Chaplain" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Paul_McGennis">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Chaplain" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Robert_I_(bishop_of_Ross)">
+    <dbp:previousPost rdf:resource="http://dbpedia.org/resource/Chaplain" />
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Chaplain" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Varesco">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Chaplain" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gary_P._Weeden">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Chaplain" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Regimental_padre">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Chaplain" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Dun_Pawl_Branchel">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Chaplain" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Animal_Chaplain">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Chaplain" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/George_Bernard_Cronshaw">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Chaplain" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Catholic_chaplain">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Chaplain" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Chaplain">
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Person" />
+    <rdfs:label xml:lang="nl">Parochievicaris</rdfs:label>
+    <rdfs:label xml:lang="pl">Kapelan</rdfs:label>
+    <rdfs:label xml:lang="zh">随行神职人员</rdfs:label>
+    <rdfs:label xml:lang="de">Kaplan</rdfs:label>
+    <rdfs:label xml:lang="es">Capellán</rdfs:label>
+    <rdfs:label xml:lang="en">Chaplain</rdfs:label>
+    <rdfs:label xml:lang="fr">Chapelain</rdfs:label>
+    <rdfs:label xml:lang="it">Cappellano</rdfs:label>
+    <rdfs:label xml:lang="ru">Капеллан</rdfs:label>
+    <rdfs:label xml:lang="ja">チャプレン</rdfs:label>
+    <rdfs:comment xml:lang="de">Kaplan (von lateinisch capellanus „einer (fränkischen) Hofkapelle zugeordneter Kleriker“, daraus mittelhochdeutsch kaplan) ist ein kirchliches Amt. Im Mittellateinischen ist ein capellanus ein Hilfspriester. Die Wohnung bzw. das Amtshaus desselben wird als Kaplanei bezeichnet. Die Kapläne der Diözesanbischöfe sind alle zugleich Geheimsekretäre, weil sie im Auftrag des Bischofs arbeiten und in diesem Sinn der Geheimhaltung unterliegen.</rdfs:comment>
+    <rdfs:comment xml:lang="ja">チャプレンあるいはチャップレン（英: chaplain）は、教会・寺院に属さずに施設や組織で働く聖職者（牧師、神父、司祭、僧侶など）。 語源的には、それらの施設に設置されたチャペル（英: chapel）で働く聖職者を意味するが、実際には必ずしもチャペルが存在するとは限らない。 アメリカ軍では、宗教にかかわらず、ラビ、イマーム、僧侶など、従軍するあらゆる聖職者を意味する。（→従軍牧師の項目を参照）</rdfs:comment>
+    <rdfs:comment xml:lang="it">Il cappellano è un sacerdote a cui è affidata l&#39;ufficiatura di un oratorio o di una cappella (piccola chiesa di villaggio rurale o di palazzo signorile), oppure addetto al servizio religioso presso determinati enti o istituti. Diverse sono le figure di cappellano. Tra esse vi sono le seguenti: 
+*  cappellano di corte o reale 
+*  cappellano militare 
+*  cappellano ospedaliero 
+*  cappellano delle carceri È anche detto cappellano un sacerdote o, talora, un diacono, che affianca il parroco: in questo senso cappellano è sinonimo di vicario parrocchiale.</rdfs:comment>
+    <rdfs:comment xml:lang="ru">Капеллан (позднелат. capellanus) в Римско-католической Церкви и Православной Церкви, в протестантских деноминациях и в ряде других конфессий различных государств мира — многозначный термин, обозначающий должность священнослужителя. В общем, капеллан — священник, совмещающий сан с какой-либо дополнительной (как правило, светской) должностью.</rdfs:comment>
+    <rdfs:comment xml:lang="es">Capellán es un miembro del clero que sirve en una institución particular a un grupo de fieles que no están organizados ordinariamente en una parroquia o misión. Así, un capellán está asignado a una capilla privada, en instituciones seculares como colegios, unidades militares (capellán castrense), barcos, prisiones (capellán penitenciario), hospitales, universidades, departamentos de policía, parlamentos, etc.</rdfs:comment>
+    <rdfs:comment xml:lang="pl">W Wojsku Polskim II RP „kapelan” i „starszy kapelan” były tytułami duchownego wojskowego wyznania rzymsko- i greckokatolickiego, prawosławnego, ewangelicko-augsburskiego, ewangelicko-reformowanego, odpowiadającymi odpowiednio rangom kapitana – kapitana marynarki i majora – komandora podporucznika.</rdfs:comment>
+    <rdfs:comment xml:lang="zh">随行神职人员（Chaplain）是指依附于军队、医院、监狱、学校等世俗组织内的牧师、阿訇、拉比、祭司、神父等宗教人员。部分贵族家庭也会聘请专业的神职人员做专业宗教服务。近年来一些公司和競賽隊伍、体育俱乐部等也开始聘请随行神职人员。这一职业的服务范围实际上已并不仅仅限于宗教，如荷兰、比利时等国家在军队中也有起着类似作用的心理咨询师。</rdfs:comment>
+    <rdfs:comment xml:lang="fr">Selon les dictionnaires anciens, le chapelain (ou capelan parfois) pouvait être : 1.  
+*  « Celui qui a la charge d&#39;une chapellenie et en est bénéficiaire » 2.  
+*  un « prêtre attaché au service d&#39;une personne (d&#39;un grand seigneur) » 3.  
+*  le « Suppléant d&#39;un prêtre ou d&#39;un chanoine dans un chapitre »</rdfs:comment>
+    <rdfs:comment xml:lang="en">Traditionally, a chaplain is a cleric (such as a minister, priest, pastor, rabbi, or imam), or a lay representative of a religious tradition, attached to a secular institution such as a hospital, prison, military unit, school, police department, fire department, university, or private chapel. Though originally the word &quot;chaplain&quot; referred to representatives of the Christian faith, it is now also applied to people of other religions or philosophical traditions–such as the case of chaplains serving with military forces and an increasing number of chaplaincies at American universities. In recent times, many lay people have received professional training in chaplaincy and are now appointed as chaplains in schools, hospitals, companies, universities, prisons and elsewhere to work alongside, or </rdfs:comment>
+    <rdfs:comment xml:lang="nl">Een parochievicaris is een priester van de Katholieke Kerk die werkzaam is in een parochie. Hij heeft niet de eindverantwoordelijkheid over de parochie, zoals een pastoor of administrator die heeft. Hij wordt daarom ook wel eens met de term &#39;hulppastoor&#39; aangeduid. Het woord vicaris komt van het Latijnse vicarius dat plaatsvervanger betekent.</rdfs:comment>
+    <owl:sameAs rdf:resource="http://pl.dbpedia.org/resource/Kapelan" />
+    <owl:sameAs rdf:resource="http://nl.dbpedia.org/resource/Parochievicaris" />
+    <owl:sameAs rdf:resource="http://es.dbpedia.org/resource/Capellán" />
+    <owl:sameAs rdf:resource="http://cs.dbpedia.org/resource/Kaplan" />
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.0190jy" />
+    <owl:sameAs rdf:resource="http://it.dbpedia.org/resource/Cappellano" />
+    <owl:sameAs rdf:resource="http://ko.dbpedia.org/resource/담당사제" />
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q208762" />
+    <owl:sameAs rdf:resource="http://fr.dbpedia.org/resource/Chapelain" />
+    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/Kaplan" />
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q208762" />
+    <owl:sameAs rdf:resource="http://ja.dbpedia.org/resource/チャプレン" />
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Chaplain" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Ecclesiastical_titles" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Religious_occupations" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Chaplains" />
+    <dbo:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">183232</dbo:wikiPageID>
+    <dbo:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">741338565</dbo:wikiPageRevisionID>
+    <dbo:wikiPageExternalLink rdf:resource="http://www.cascadiapublishinghouse.com/ptw/ptw.htm" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.cunard.co.uk/" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.apu.edu/theology/faculty/palexander/" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.merriam-webster.com/dictionary/chaplain" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.starnow.co.uk/christopherw33618/photos/6013982/fury-2nd-armoured-division-chaplain-movie-film-chris-wilson-ww2-sherman-tank-tiger-war" />
+    <dbo:wikiPageExternalLink rdf:resource="http://apostleshipofthesea.org.uk/" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.pocruises.com/?gclid=COT8_5qPkcQCFWL3wgodc6AAUQ" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.chaplain-ministries.com" />
+    <dbo:wikiPageExternalLink rdf:resource="http://cgsc.cdmhost.com/cdm4/item_viewer.php?CISOROOT=/p4013coll2&amp;CISOPTR=1627&amp;CISOBOX=1&amp;REC=2" />
+    <dbo:wikiPageExternalLink rdf:resource="http://apostleshipofthesea.org.uk/cruise-chaplaincy" />
+    <foaf:depiction rdf:resource="http://en.wikipedia.org/wiki/Special:FilePath/ManassehCutler.jpg" />
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Chaplain" />
+    <dbo:thumbnail rdf:resource="http://en.wikipedia.org/wiki/Special:FilePath/ManassehCutler.jpg?width=300" />
+    <prov:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Chaplain?oldid=741338565" />
+    <dbo:abstract xml:lang="es">Capellán es un miembro del clero que sirve en una institución particular a un grupo de fieles que no están organizados ordinariamente en una parroquia o misión. Así, un capellán está asignado a una capilla privada, en instituciones seculares como colegios, unidades militares (capellán castrense), barcos, prisiones (capellán penitenciario), hospitales, universidades, departamentos de policía, parlamentos, etc. Tradicionalmente, se denomina &quot;capellanes&quot; a los miembros de alguna rama de la fe cristiana (por ejemplo pastores, reverendos o ministros) que se encargan de pronunciar sermones en los lugares ya mencionados; o bien, a los eclesiásticos o sacerdotes que dicen la misa en la capilla u oratorio. En ocasiones, estos gozan de rentas de una capellanía (aunque no siempre es así), o prestan un servicio a un particular a cambio de un estipendio, como parte del servicio doméstico en su sentido más amplio de una casa.</dbo:abstract>
+    <dbo:abstract xml:lang="zh">随行神职人员（Chaplain）是指依附于军队、医院、监狱、学校等世俗组织内的牧师、阿訇、拉比、祭司、神父等宗教人员。部分贵族家庭也会聘请专业的神职人员做专业宗教服务。近年来一些公司和競賽隊伍、体育俱乐部等也开始聘请随行神职人员。这一职业的服务范围实际上已并不仅仅限于宗教，如荷兰、比利时等国家在军队中也有起着类似作用的心理咨询师。</dbo:abstract>
+    <dbo:abstract xml:lang="nl">Een parochievicaris is een priester van de Katholieke Kerk die werkzaam is in een parochie. Hij heeft niet de eindverantwoordelijkheid over de parochie, zoals een pastoor of administrator die heeft. Hij wordt daarom ook wel eens met de term &#39;hulppastoor&#39; aangeduid. Het woord vicaris komt van het Latijnse vicarius dat plaatsvervanger betekent. In Nederland is de term kapelaan (Latijn: capellanus: een aan een kapel verbonden geestelijke) gebruikelijk, zowel in volkstaal als in de formele omschrijving van de functie. In Vlaanderen wordt hij veelal onderpastoor genoemd. De term &#39;kapelaan&#39; voor de functie van onderpastoor is gangbaar sinds de napoleontische tijd. Voor die tijd was de kapelaan (of rector) uitsluitend een aan een kapel verbonden priester.</dbo:abstract>
+    <dbo:abstract xml:lang="ja">チャプレンあるいはチャップレン（英: chaplain）は、教会・寺院に属さずに施設や組織で働く聖職者（牧師、神父、司祭、僧侶など）。 語源的には、それらの施設に設置されたチャペル（英: chapel）で働く聖職者を意味するが、実際には必ずしもチャペルが存在するとは限らない。 アメリカ軍では、宗教にかかわらず、ラビ、イマーム、僧侶など、従軍するあらゆる聖職者を意味する。（→従軍牧師の項目を参照）</dbo:abstract>
+    <dbo:abstract xml:lang="fr">Selon les dictionnaires anciens, le chapelain (ou capelan parfois) pouvait être : 1.  
+*  « Celui qui a la charge d&#39;une chapellenie et en est bénéficiaire » 2.  
+*  un « prêtre attaché au service d&#39;une personne (d&#39;un grand seigneur) » 3.  
+*  le « Suppléant d&#39;un prêtre ou d&#39;un chanoine dans un chapitre »</dbo:abstract>
+    <dbo:abstract xml:lang="ru">Капеллан (позднелат. capellanus) в Римско-католической Церкви и Православной Церкви, в протестантских деноминациях и в ряде других конфессий различных государств мира — многозначный термин, обозначающий должность священнослужителя. В общем, капеллан — священник, совмещающий сан с какой-либо дополнительной (как правило, светской) должностью.</dbo:abstract>
+    <dbo:abstract xml:lang="en">Traditionally, a chaplain is a cleric (such as a minister, priest, pastor, rabbi, or imam), or a lay representative of a religious tradition, attached to a secular institution such as a hospital, prison, military unit, school, police department, fire department, university, or private chapel. Though originally the word &quot;chaplain&quot; referred to representatives of the Christian faith, it is now also applied to people of other religions or philosophical traditions–such as the case of chaplains serving with military forces and an increasing number of chaplaincies at American universities. In recent times, many lay people have received professional training in chaplaincy and are now appointed as chaplains in schools, hospitals, companies, universities, prisons and elsewhere to work alongside, or instead of, official members of the clergy. The concepts of &quot;multifaith&quot;, &quot;secular&quot;, &quot;generic&quot; and/or &quot;humanist&quot; chaplaincy are also gaining increasing support, particularly within healthcare and educational settings.</dbo:abstract>
+    <dbo:abstract xml:lang="it">Il cappellano è un sacerdote a cui è affidata l&#39;ufficiatura di un oratorio o di una cappella (piccola chiesa di villaggio rurale o di palazzo signorile), oppure addetto al servizio religioso presso determinati enti o istituti. Diverse sono le figure di cappellano. Tra esse vi sono le seguenti: 
+*  cappellano di corte o reale 
+*  cappellano militare 
+*  cappellano ospedaliero 
+*  cappellano delle carceri È anche detto cappellano un sacerdote o, talora, un diacono, che affianca il parroco: in questo senso cappellano è sinonimo di vicario parrocchiale.</dbo:abstract>
+    <dbo:abstract xml:lang="de">Kaplan (von lateinisch capellanus „einer (fränkischen) Hofkapelle zugeordneter Kleriker“, daraus mittelhochdeutsch kaplan) ist ein kirchliches Amt. Im Mittellateinischen ist ein capellanus ein Hilfspriester. Die Wohnung bzw. das Amtshaus desselben wird als Kaplanei bezeichnet. Nach cann. 564–572  CIC ist damit ein Priester mit einem extraterritorialen Seelsorgebereich für einen bestimmten Personenkreis gemeint, etwa in Krankenhäusern, Gefängnissen oder militärischen Einrichtungen. Im deutschen Sprachraum wird damit meist ein Pfarrvikar bezeichnet, der in den ersten Jahren nach seiner Priesterweihe einem Pfarrer unterstellt ist und noch keine Alleinverantwortung für eine Pfarrei trägt. In den meisten deutschen Diözesen ist es jedoch üblich, diesen Seelsorgern den Titel Pfarrer zu verleihen (beispielsweise Krankenhauspfarrer, Gefängnispfarrer oder Militärpfarrer), wenngleich aus diesem Titel keine Rechte eines Pfarrers abgeleitet werden können. Je nach örtlicher Gewohnheit wird der Kaplan als Mitarbeiter eines Pfarrers in manchen Bistümern Vikar genannt – eine Bezeichnung, die der Codex Iuris Canonici 1983 für diese Funktion vorsieht: vicarius paroecialis. Im bairischen Sprachraum und im Bistum Trier wird meist auch die Bezeichnung Kooperator (Mitarbeiter des Pfarrers) verwendet. In der Erzdiözese Wien wurden die Hilfsgeistlichen in den Pfarreien bis 1938 als Kooperatoren oder Cooperatoren bezeichnet. Mit Beschluss der österreichischen Bischofskonferenz vom 28. September 1938 wurde dann die deutsche Bezeichnung Kaplan übernommen. Ganz ungebräuchlich geworden sind die Bezeichnungen Adjunkt und Supernumerarius. In Gemeinden mit mehreren jungen Priestern wurde früher der dienstjüngste als Adjunkt bezeichnet, ein weiterer als Vikar und der dienstälteste als Kaplan. Die Kapläne der Diözesanbischöfe sind alle zugleich Geheimsekretäre, weil sie im Auftrag des Bischofs arbeiten und in diesem Sinn der Geheimhaltung unterliegen.</dbo:abstract>
+    <dbo:abstract xml:lang="pl">W Wojsku Polskim II RP „kapelan” i „starszy kapelan” były tytułami duchownego wojskowego wyznania rzymsko- i greckokatolickiego, prawosławnego, ewangelicko-augsburskiego, ewangelicko-reformowanego, odpowiadającymi odpowiednio rangom kapitana – kapitana marynarki i majora – komandora podporucznika.</dbo:abstract>
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Minister" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gordon_Bates">
+    <dbp:profession rdf:resource="http://dbpedia.org/resource/Chaplain" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Wilfred_Lockhart">
+    <dbo:profession rdf:resource="http://dbpedia.org/resource/Chaplain" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Joseph_R._Lamonde">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Chaplain" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sidney_Clarke_(priest)">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Chaplain" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Court_chaplain">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Chaplain" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Imperial_chaplain">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Chaplain" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Police_chaplain">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Chaplain" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Charles_Hudson_(climber)">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Chaplain" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Anton_Boisen">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Chaplain" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/List_of_Howard_University_people">
+    <dbp:dept rdf:resource="http://dbpedia.org/resource/Chaplain" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hugh_the_Chaplain">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Chaplain" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Richard_the_Chaplain">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Chaplain" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mychal_Judge">
+    <dbo:occupation rdf:resource="http://dbpedia.org/resource/Chaplain" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Adolf_Stoecker">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Chaplain" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/John_Jackson_(clergyman)">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Chaplain" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Chaplin">
+    <dbo:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/Chaplain" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mike_Dalton_(priest)">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Chaplain" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Henry_Killigrew_(playwright)">
+    <dbo:occupation rdf:resource="http://dbpedia.org/resource/Chaplain" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Francis_MacCarthy_Willis_Bund">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Chaplain" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/George_Jones_(navy_chaplain)">
+    <dbp:rank rdf:resource="http://dbpedia.org/resource/Chaplain" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/James_Gallagher_(chaplain)">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Chaplain" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Joseph_Clemens">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Chaplain" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/National_Association_of_Catholic_Chaplains">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Chaplain" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Stephen_George_Comyn">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Chaplain" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Turnbull_High_School">
+    <dbo:chairLabel rdf:resource="http://dbpedia.org/resource/Chaplain" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Chaplain_of_the_United_States_Coast_Guard">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Chaplain" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Chief_of_Chaplains_of_the_United_States_Air_Force">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Chaplain" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Chief_of_Chaplains_of_the_United_States_Navy">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Chaplain" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Thomas_Nangle">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Chaplain" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Geriatrics_chaplain">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Chaplain" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hospice_chaplain">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Chaplain" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Azelio_Manzetti">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Chaplain" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/John_Figdor">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Chaplain" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Stephen_Sleech">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Chaplain" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Anton_Wilhelm_Böhme">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Chaplain" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Holyrood_Secondary_School">
+    <dbo:religiousHeadLabel rdf:resource="http://dbpedia.org/resource/Chaplain" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Royal_Hospital_School">
+    <dbo:religiousHeadLabel rdf:resource="http://dbpedia.org/resource/Chaplain" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Charles_J._Watters">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Chaplain" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Alexander_John_Scott">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Chaplain" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Abdulah_Muhasilović">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Chaplain" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Richard_Knowling">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Chaplain" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kermit_D._Johnson">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Chaplain" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Leonard_Coulshaw">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Chaplain" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Animal_Clergy">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Chaplain" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Animal_chaplain">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Chaplain" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Animal_chaplains">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Chaplain" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Pet_Chaplains">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Chaplain" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Pet_chaplain">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Chaplain" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Veterinary_Chaplains">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Chaplain" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Association_of_Professional_Chaplains">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Chaplain" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Francis_X._Murphy">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Chaplain" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/George_Glasse">
+    <dbo:occupation rdf:resource="http://dbpedia.org/resource/Chaplain" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gordon_Taylor_(Royal_Navy_chaplain)">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Chaplain" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Harry_Viener">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Chaplain" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Leslie_Lloyd_Rees">
+    <dbp:profession rdf:resource="http://dbpedia.org/resource/Chaplain" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ralph_Creed_Meredith">
+    <dbo:occupation rdf:resource="http://dbpedia.org/resource/Chaplain" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/John_Christopherson">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Chaplain" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Health_Care_Chaplains">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Chaplain" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Burgiss_Allison">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Chaplain" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Thomas_Langton">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Chaplain" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Stephen_Edwin_Yarnold">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Chaplain" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/William_Rawley">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Chaplain" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Barry_Black">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Chaplain" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Phineas_Densmore_Gurley">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Chaplain" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Patrick_McCollum">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Chaplain" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Christopher_Evans_(theologian)">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Chaplain" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Robert_Hunt_(chaplain)">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Chaplain" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Chaplaincy">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Chaplain" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mervyn_Haigh">
+    <dbp:profession rdf:resource="http://dbpedia.org/resource/Chaplain" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/James_Battle_Avirett">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Chaplain" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Deputy_Chief_of_Chaplains_of_the_United_States_Air_Force">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Chaplain" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Theodore_Hardy">
+    <dbp:rank rdf:resource="http://dbpedia.org/resource/Chaplain" />
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Chaplain" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Henry_Teonge">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Chaplain" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Domestic_Chaplain">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Chaplain" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Domestic_chaplain">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Chaplain" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Domestic_chaplin">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Chaplain" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Animal_Chaplains">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Chaplain" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/George_Anselm_Touchet">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Chaplain" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Robert_Hanson_(priest)">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Chaplain" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Samuel_Blair_(chaplain)">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Chaplain" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/William_Paul_(bishop)">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Chaplain" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Thomas_Morgan_(navy_chaplain)">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Chaplain" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Elmer_Heindl">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Chaplain" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Leonard_Feeney">
+    <dbo:occupation rdf:resource="http://dbpedia.org/resource/Chaplain" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Taha_Abdul-Basser">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Chaplain" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ira_Joy_Chase">
+    <dbo:militaryRank rdf:resource="http://dbpedia.org/resource/Chaplain" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/William_Henry_Locke">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Chaplain" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Milton_L._Haney">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Chaplain" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/James_Francis_Armstrong">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Chaplain" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Chaplains">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Chaplain" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bobby_Henrey">
+    <dbo:occupation rdf:resource="http://dbpedia.org/resource/Chaplain" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Greg_Epstein">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Chaplain" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/David_Cooper_(chaplain)">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Chaplain" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Deputy_Clerk_of_the_Closet">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Chaplain" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/John_Weir_Foote">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Chaplain" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Alexander_Goldberg">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Chaplain" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Samuel_Green_(priest)">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Chaplain" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Thomas_Wood_(priest)">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Chaplain" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gordon_Klingenschmitt">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Chaplain" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Almoner">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Chaplain" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Thomas_Savage_(bishop)">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Chaplain" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Chaplain_general">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Chaplain" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Chaplain&#39;s_Corps">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Chaplain" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bishop&#39;s_chaplain">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Chaplain" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/NAJC">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Chaplain" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/National_Association_of_Jewish_Chaplains">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Chaplain" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Army_Chaplain">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Chaplain" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/William_Helyar">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Chaplain" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Guarin">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Chaplain" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Thomas_Woodward_(theologian)">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Chaplain" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yahya_Hendi">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Chaplain" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jāna_Jēruma-Grīnberga">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Chaplain" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mark_Langham">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Chaplain" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Darrell_Bunt">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Chaplain" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/William_T._O&#39;Higgins">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Chaplain" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Health_care_chaplains">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Chaplain" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Edwin_Ward">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Chaplain" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/John_of_Howden">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Chaplain" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Chaplain">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Chaplain" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Corporate_chaplain">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Chaplain" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Examining_Chaplain">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Chaplain" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hospital_chaplain">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Chaplain" />
+  </rdf:Description>
+</rdf:RDF>

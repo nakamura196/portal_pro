@@ -1,0 +1,518 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:dct="http://purl.org/dc/terms/"
+	xmlns:dbo="http://dbpedia.org/ontology/"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	xmlns:prov="http://www.w3.org/ns/prov#"
+	xmlns:georss="http://www.georss.org/georss/"
+	xmlns:dbp="http://dbpedia.org/property/"
+	xmlns:ns10="http://purl.org/linguistics/gold/" >
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Norio_Suzuki_(explorer)">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/Hosei_University" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kenji_Goto">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/Hosei_University" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kosuke_Endo">
+    <dbo:university rdf:resource="http://dbpedia.org/resource/Hosei_University" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Junji_Nishikawa__1">
+    <dbo:team rdf:resource="http://dbpedia.org/resource/Hosei_University" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Takuma_Abe">
+    <dbo:team rdf:resource="http://dbpedia.org/resource/Hosei_University" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Takuya_Honda">
+    <dbo:team rdf:resource="http://dbpedia.org/resource/Hosei_University" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Takuya_Honda__2">
+    <dbo:team rdf:resource="http://dbpedia.org/resource/Hosei_University" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yoshinobu_Miyake">
+    <dbp:almaMater rdf:resource="http://dbpedia.org/resource/Hosei_University" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hiroshi_Sowa">
+    <dbo:team rdf:resource="http://dbpedia.org/resource/Hosei_University" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hiroshi_Sowa__1">
+    <dbo:team rdf:resource="http://dbpedia.org/resource/Hosei_University" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Masato_Koga">
+    <dbo:team rdf:resource="http://dbpedia.org/resource/Hosei_University" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Masato_Koga__1">
+    <dbo:team rdf:resource="http://dbpedia.org/resource/Hosei_University" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Han_Chang-u">
+    <dbp:almaMater rdf:resource="http://dbpedia.org/resource/Hosei_University" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hosei_University">
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoPermanentlyLocatedEntity" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatPrivateUniversitiesAndCollegesInJapan" />
+    <rdf:type rdf:resource="http://schema.org/EducationalOrganization" />
+    <rdf:type rdf:resource="http://schema.org/CollegeOrUniversity" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatUniversitiesAndCollegesInJapan" />
+    <rdf:type rdf:resource="http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/SocialGroup107950920" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Group100031264" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Organization108008335" />
+    <rdf:type rdf:resource="http://schema.org/Organization" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Abstraction100002137" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Organisation" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q24229398" />
+    <rdf:type rdf:resource="http://umbel.org/umbel/rc/EducationalOrganization" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoLegalActor" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Agent" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoLegalActorGeo" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q43229" />
+    <rdf:type rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#SocialPerson" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q3918" />
+    <rdf:type rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatUniversitiesAndCollegesInTokyo" />
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/EducationalInstitution" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/University" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Institution108053576" />
+    <rdf:type rdf:resource="http://umbel.org/umbel/rc/University" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/EducationalInstitution108276342" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/University108286569" />
+    <rdfs:label xml:lang="ja">法政大学</rdfs:label>
+    <rdfs:label xml:lang="en">Hosei University</rdfs:label>
+    <rdfs:label xml:lang="ru">Университет Хосэй</rdfs:label>
+    <rdfs:label xml:lang="zh">法政大學 (日本)</rdfs:label>
+    <rdfs:label xml:lang="fr">Université Hōsei</rdfs:label>
+    <rdfs:label xml:lang="de">Hōsei-Universität</rdfs:label>
+    <rdfs:comment xml:lang="en">Hosei University (法政大学 Hōsei daigaku) is a long-established private university based in Tokyo, Japan. The university originated in a school of law, Tōkyō Hōgakusha (東京法学社, i.e. Tokyo association of law), established in 1880, and the following year renamed Tōkyō Hōgakkō (東京法学校, i.e. Tokyo school of law). This was from 1883 headed by Dr. Gustave Emile Boissonade, and was heavily influenced by the French legal tradition. It merged in 1889 with a school of French studies, Tōkyō Futsugakkō (東京仏学校, i.e. Tokyo French school), that had been founded three years earlier. It adopted the name Hosei University (法政大学, Hōsei daigaku, i.e. Tokyo university of law and politics) in 1903 and was recognized as a private university in 1920.</rdfs:comment>
+    <rdfs:comment xml:lang="ja">法政大学（ほうせいだいがく、英語: Hosei University）は、東京都千代田区富士見2-17-1に本部を置く日本の私立大学である。1920年に設置された。大学の略称は法大（ほうだい）、または法政。</rdfs:comment>
+    <rdfs:comment xml:lang="zh">法政大學（日语：法政大学／ほうせいだいがく Hōsei daigaku *,英語：Hosei University），是一所位於日本東京都都心千代田區的著名私立大學。1880年創校，簡稱法大。 该校的成立可追溯至1880年成立的东京法学社，是日本最早的私立法律学校。1920年改称法政大学至今，已有近134年的历史。该校法学部以及社会学部的历史十分悠久，是日本私立大学中第一所设立这两个学部的大学。1950年设立了工学部，正式成为了一所综合性大学。 该校与庆应义塾大学、东京大学、早稻田大学、明治大学、立教大学共同组成了“东京六大学棒球联盟”，同时也是关东「难关私大」（非常難考的私立大學）“MARCH”之一。</rdfs:comment>
+    <rdfs:comment xml:lang="fr">L&#39;université Hōsei (法政大学, Hōsei daigaku) est une université privée située à Tōkyō au Japon. C&#39;est à l&#39;origine une faculté de droit en 1880, et fusionnée avec un institut d&#39;études françaises en 1889. L&#39;établissement a adopté le nom Université Hosei en 1903 et a été reconnu comme une université privée en 1920. Parmi les fondateurs de l&#39;université on peut citer Gustave Émile Boissonade, Tomii Masaaki et Ume Kenjirō, le « père du Code civil Japonais ». Gustave Émile Boissonade fut notamment sous-directeur de l&#39;établissement, et a donné son nom à une tour sur le campus d&#39;Ichigaya.</rdfs:comment>
+    <rdfs:comment xml:lang="ru">Университет Хосэй (яп. 法政大学 Хо:сэй дайгаку) — частный японский университет, возникший в 1920 году на базе Токийского общества юриспруденции. Штаб-квартира расположена в токийском специальном районе Тиёда, имеются три кампуса. Первоначально имел в своём составе только три факультета — юридический, экономический и гуманитарный. По состоянию на 2008 год число факультетов достигает четырнадцати. Обучение проводится в магистратуре и аспирантуре, в очной и заочной формах. При университете действуют Институт исследования социальных проблем, Институт юриспруденции и Центр культуры Окинавы.</rdfs:comment>
+    <rdfs:comment xml:lang="de">Die Hōsei-Universität (jap. 法政大学, Hōsei Daigaku, dt. etwa: „Universität für Rechts- und Staatslehre“) ist eine private Universität in der Präfektur Tokio mit drei Campus: der Ichigaya-Campus in Chiyoda, der Tama-Campus in Machida und der Koganei-Campus in Koganei. Sie ist eine der sechs Universitäten von Tokio. Sie entwickelte sich aus einer Rechtsschule, der Tokio School of Law, die 1880 gegründet und 1889 mit einer Französischschule zusammengelegt wurde. 1903 nahm die Universität den Namen Hōsei-Universität an, 1920 wurde sie als Privatuniversität anerkannt.</rdfs:comment>
+    <owl:sameAs rdf:resource="http://linkedgeodata.org/triplify/node691449460" />
+    <owl:sameAs rdf:resource="http://d-nb.info/gnd/307970-3" />
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q1323040" />
+    <owl:sameAs rdf:resource="http://ko.dbpedia.org/resource/호세이_대학" />
+    <owl:sameAs rdf:resource="http://yago-knowledge.org/resource/Hosei_University" />
+    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/Hōsei-Universität" />
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q1323040" />
+    <owl:sameAs rdf:resource="http://fr.dbpedia.org/resource/Université_Hōsei" />
+    <owl:sameAs rdf:resource="http://ja.dbpedia.org/resource/法政大学" />
+    <owl:sameAs rdf:resource="http://sws.geonames.org/8504853/" />
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.060xxx" />
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Hosei_University" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Kantoh_Collegiate_American_Football_Association_Top_8_university" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Hosei_University" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Educational_institutions_established_in_1880" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Koganei,_Tokyo" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Machida,_Tokyo" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:American_football_in_Japan" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Shinjuku" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Private_universities_and_colleges_in_Japan" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Universities_and_colleges_in_Tokyo" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:1880_establishments_in_Japan" />
+    <dbo:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1850336</dbo:wikiPageID>
+    <dbo:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">742730141</dbo:wikiPageRevisionID>
+    <dbo:wikiPageExternalLink rdf:resource="http://www.hosei.ac.jp/english/index.html" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.hosei.ac.jp/english/outline/index3.html" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.hosei.ac.jp/" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.hosei.ac.jp/english/" />
+    <foaf:name xml:lang="en">Hosei University</foaf:name>
+    <foaf:name xml:lang="en">法政大学</foaf:name>
+    <foaf:homepage rdf:resource="http://www.hosei.ac.jp/english/index.html" />
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#float">35.6956</geo:lat>
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#float">139.741</geo:long>
+    <foaf:depiction rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Hosei_University_Boissonade_Tower_120816.JPG" />
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Hosei_University" />
+    <geo:geometry rdf:datatype="http://www.openlinksw.com/schemas/virtrdf#Geometry">POINT(139.74139404297 35.695556640625)</geo:geometry>
+    <dbo:thumbnail rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Hosei_University_Boissonade_Tower_120816.JPG?width=300" />
+    <prov:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Hosei_University?oldid=742730141" />
+    <dbo:abstract xml:lang="ru">Университет Хосэй (яп. 法政大学 Хо:сэй дайгаку) — частный японский университет, возникший в 1920 году на базе Токийского общества юриспруденции. Штаб-квартира расположена в токийском специальном районе Тиёда, имеются три кампуса. Первоначально имел в своём составе только три факультета — юридический, экономический и гуманитарный. По состоянию на 2008 год число факультетов достигает четырнадцати. Обучение проводится в магистратуре и аспирантуре, в очной и заочной формах. При университете действуют Институт исследования социальных проблем, Институт юриспруденции и Центр культуры Окинавы.</dbo:abstract>
+    <dbo:abstract xml:lang="zh">法政大學（日语：法政大学／ほうせいだいがく Hōsei daigaku *,英語：Hosei University），是一所位於日本東京都都心千代田區的著名私立大學。1880年創校，簡稱法大。 该校的成立可追溯至1880年成立的东京法学社，是日本最早的私立法律学校。1920年改称法政大学至今，已有近134年的历史。该校法学部以及社会学部的历史十分悠久，是日本私立大学中第一所设立这两个学部的大学。1950年设立了工学部，正式成为了一所综合性大学。 该校与庆应义塾大学、东京大学、早稻田大学、明治大学、立教大学共同组成了“东京六大学棒球联盟”，同时也是关东「难关私大」（非常難考的私立大學）“MARCH”之一。</dbo:abstract>
+    <dbo:abstract xml:lang="ja">法政大学（ほうせいだいがく、英語: Hosei University）は、東京都千代田区富士見2-17-1に本部を置く日本の私立大学である。1920年に設置された。大学の略称は法大（ほうだい）、または法政。</dbo:abstract>
+    <dbo:abstract xml:lang="de">Die Hōsei-Universität (jap. 法政大学, Hōsei Daigaku, dt. etwa: „Universität für Rechts- und Staatslehre“) ist eine private Universität in der Präfektur Tokio mit drei Campus: der Ichigaya-Campus in Chiyoda, der Tama-Campus in Machida und der Koganei-Campus in Koganei. Sie ist eine der sechs Universitäten von Tokio. Sie entwickelte sich aus einer Rechtsschule, der Tokio School of Law, die 1880 gegründet und 1889 mit einer Französischschule zusammengelegt wurde. 1903 nahm die Universität den Namen Hōsei-Universität an, 1920 wurde sie als Privatuniversität anerkannt. An der Gründung waren beteiligt: Gustave Boissonade, Tomii Masaakira und Ume Kenjirō, der Vater des japanischen Bürgerlichen Gesetzbuches.</dbo:abstract>
+    <dbo:abstract xml:lang="fr">L&#39;université Hōsei (法政大学, Hōsei daigaku) est une université privée située à Tōkyō au Japon. C&#39;est à l&#39;origine une faculté de droit en 1880, et fusionnée avec un institut d&#39;études françaises en 1889. L&#39;établissement a adopté le nom Université Hosei en 1903 et a été reconnu comme une université privée en 1920. Parmi les fondateurs de l&#39;université on peut citer Gustave Émile Boissonade, Tomii Masaaki et Ume Kenjirō, le « père du Code civil Japonais ». Gustave Émile Boissonade fut notamment sous-directeur de l&#39;établissement, et a donné son nom à une tour sur le campus d&#39;Ichigaya.</dbo:abstract>
+    <dbo:abstract xml:lang="en">Hosei University (法政大学 Hōsei daigaku) is a long-established private university based in Tokyo, Japan. The university originated in a school of law, Tōkyō Hōgakusha (東京法学社, i.e. Tokyo association of law), established in 1880, and the following year renamed Tōkyō Hōgakkō (東京法学校, i.e. Tokyo school of law). This was from 1883 headed by Dr. Gustave Emile Boissonade, and was heavily influenced by the French legal tradition. It merged in 1889 with a school of French studies, Tōkyō Futsugakkō (東京仏学校, i.e. Tokyo French school), that had been founded three years earlier. It adopted the name Hosei University (法政大学, Hōsei daigaku, i.e. Tokyo university of law and politics) in 1903 and was recognized as a private university in 1920. Other notable figures involved in its foundation include Dr. Masaaki Tomii, and Dr. Ume Kenjirō, &quot;Father of the Japanese Civil Code&quot;. In addition, Hosei University belongs to Tokyo Big6 Baseball League. The league is one of the most traditional college sports leagues in Japan. Hosei University is popular for high school students. Hosei University got 3rd in the number of applicants among Japanese universities in 2008, 2009 and 2011 (92,819). Hosei University ranked 100 at Global Executives 2013 top 100 by The Times Higher Education. Hosei has three main campuses, which it calls Ichigaya, Koganei, and Tama. The Ichigaya campus is halfway between Ichigaya and Iidabashi stations in central Tokyo; its 26-story Boissonade Tower, completed in 2000, can be seen from either station. The campus has a city flavour but is still somewhat isolated from central Tokyo; the nearby presence of Yasukuni Shrine also contributes. Sciences are studied at the Koganei campus to the west of Tokyo, and other subjects are split between Tama (located in Machida, which is near Hachiōji, and Ichigaya.</dbo:abstract>
+    <dbo:city rdf:resource="http://dbpedia.org/resource/Greater_Tokyo_Area" />
+    <dbo:country rdf:resource="http://dbpedia.org/resource/Japan" />
+    <dbo:facultySize rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">746</dbo:facultySize>
+    <dbo:numberOfPostgraduateStudents rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">2007</dbo:numberOfPostgraduateStudents>
+    <dbo:numberOfUndergraduateStudents rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">28000</dbo:numberOfUndergraduateStudents>
+    <dbo:officialSchoolColour>Orange and blue</dbo:officialSchoolColour>
+    <dbo:type rdf:resource="http://dbpedia.org/resource/Private_university" />
+    <georss:point>35.69555555555556 139.74138888888888</georss:point>
+    <dbp:campus rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Urban and suburban</dbp:campus>
+    <dbp:established rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1880</dbp:established>
+    <dbp:imageName rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Hosei University Boissonade Tower 120816.JPG</dbp:imageName>
+    <dbp:president rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Yuko Tanaka</dbp:president>
+    <dbp:nameiveNameLang rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">ja</dbp:nameiveNameLang>
+    <dbp:wordnet_type rdf:resource="http://www.w3.org/2006/03/wn/wn20/instances/synset-university-noun-2" />
+    <ns10:hypernym rdf:resource="http://dbpedia.org/resource/University" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kohei_Tokita">
+    <dbo:team rdf:resource="http://dbpedia.org/resource/Hosei_University" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kohei_Tokita__1">
+    <dbo:team rdf:resource="http://dbpedia.org/resource/Hosei_University" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Masahiko_Ichikawa__1">
+    <dbo:team rdf:resource="http://dbpedia.org/resource/Hosei_University" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Masaki_Yoshida">
+    <dbo:team rdf:resource="http://dbpedia.org/resource/Hosei_University" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Masaki_Yoshida__1">
+    <dbo:team rdf:resource="http://dbpedia.org/resource/Hosei_University" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Taira_Inoue">
+    <dbo:team rdf:resource="http://dbpedia.org/resource/Hosei_University" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Taira_Inoue__1">
+    <dbo:team rdf:resource="http://dbpedia.org/resource/Hosei_University" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Takuro_Kikuoka">
+    <dbo:team rdf:resource="http://dbpedia.org/resource/Hosei_University" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Takuro_Kikuoka__1">
+    <dbo:team rdf:resource="http://dbpedia.org/resource/Hosei_University" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Michitaka_Akimoto">
+    <dbo:team rdf:resource="http://dbpedia.org/resource/Hosei_University" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kazuhito_Esaki__1">
+    <dbo:team rdf:resource="http://dbpedia.org/resource/Hosei_University" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Shinichi_Mukai">
+    <dbo:team rdf:resource="http://dbpedia.org/resource/Hosei_University" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Shinichi_Mukai__1">
+    <dbo:team rdf:resource="http://dbpedia.org/resource/Hosei_University" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Takuma_Abe__1">
+    <dbo:team rdf:resource="http://dbpedia.org/resource/Hosei_University" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Shingo_Kawabata">
+    <dbp:universityteam rdf:resource="http://dbpedia.org/resource/Hosei_University" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Chen_Shutong">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/Hosei_University" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kong_Zhaoshou">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/Hosei_University" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kiyoshi_Ueda">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/Hosei_University" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Junji_Nishikawa">
+    <dbo:team rdf:resource="http://dbpedia.org/resource/Hosei_University" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Fujisawa_Shu">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/Hosei_University" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yang_Du">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/Hosei_University" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Atsushi_Hiwasa">
+    <dbo:university rdf:resource="http://dbpedia.org/resource/Hosei_University" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kouhei_Kadono">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/Hosei_University" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Masushi_Ouchi">
+    <dbp:almaMater rdf:resource="http://dbpedia.org/resource/Hosei_University" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Daiki_Tamori__2">
+    <dbo:team rdf:resource="http://dbpedia.org/resource/Hosei_University" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Eijun_Kiyokumo">
+    <dbo:team rdf:resource="http://dbpedia.org/resource/Hosei_University" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Eijun_Kiyokumo__1">
+    <dbo:team rdf:resource="http://dbpedia.org/resource/Hosei_University" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hiroshi_Yoshida_(footballer)">
+    <dbo:team rdf:resource="http://dbpedia.org/resource/Hosei_University" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hiroshi_Yoshida_(footballer)__1">
+    <dbo:team rdf:resource="http://dbpedia.org/resource/Hosei_University" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Masayuki_Yanagisawa__2">
+    <dbo:team rdf:resource="http://dbpedia.org/resource/Hosei_University" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Michitaka_Akimoto__2">
+    <dbo:team rdf:resource="http://dbpedia.org/resource/Hosei_University" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Takashi_Mizunuma">
+    <dbo:team rdf:resource="http://dbpedia.org/resource/Hosei_University" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Takashi_Mizunuma__1">
+    <dbo:team rdf:resource="http://dbpedia.org/resource/Hosei_University" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yusuke_Yada">
+    <dbo:team rdf:resource="http://dbpedia.org/resource/Hosei_University" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yusuke_Yada__1">
+    <dbo:team rdf:resource="http://dbpedia.org/resource/Hosei_University" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kazuma_Ōseto">
+    <dbp:universityteam rdf:resource="http://dbpedia.org/resource/Hosei_University" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yuta_Nakazawa">
+    <dbo:team rdf:resource="http://dbpedia.org/resource/Hosei_University" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yuta_Nakazawa__1">
+    <dbo:team rdf:resource="http://dbpedia.org/resource/Hosei_University" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Daiki_Tamori">
+    <dbo:team rdf:resource="http://dbpedia.org/resource/Hosei_University" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hidehiko_Shimizu">
+    <dbo:team rdf:resource="http://dbpedia.org/resource/Hosei_University" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kazuhito_Esaki">
+    <dbo:team rdf:resource="http://dbpedia.org/resource/Hosei_University" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kazumi_Tsubota">
+    <dbo:team rdf:resource="http://dbpedia.org/resource/Hosei_University" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kazuyoshi_Nakamura">
+    <dbo:team rdf:resource="http://dbpedia.org/resource/Hosei_University" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Masaaki_Kato">
+    <dbo:team rdf:resource="http://dbpedia.org/resource/Hosei_University" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Masayuki_Yanagisawa">
+    <dbo:team rdf:resource="http://dbpedia.org/resource/Hosei_University" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tadahiko_Ueda">
+    <dbo:team rdf:resource="http://dbpedia.org/resource/Hosei_University" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Masahide_Ōta">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/Hosei_University" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tomahawks_Field">
+    <dbo:owner rdf:resource="http://dbpedia.org/resource/Hosei_University" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hisataka_Fujikawa">
+    <dbo:team rdf:resource="http://dbpedia.org/resource/Hosei_University" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Masaki_Yokotani">
+    <dbo:team rdf:resource="http://dbpedia.org/resource/Hosei_University" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Haruka_Takachiho">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/Hosei_University" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/H._D._Karunaratne">
+    <dbo:occupation rdf:resource="http://dbpedia.org/resource/Hosei_University" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kimikazu_Suzuki">
+    <dbo:college rdf:resource="http://dbpedia.org/resource/Hosei_University" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hiroyuki_Minami">
+    <dbp:teams rdf:resource="http://dbpedia.org/resource/Hosei_University" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Shiro_Furuta">
+    <dbp:teams rdf:resource="http://dbpedia.org/resource/Hosei_University" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Shigeo_Sawairi">
+    <dbo:team rdf:resource="http://dbpedia.org/resource/Hosei_University" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hidehiko_Shimizu__1">
+    <dbo:team rdf:resource="http://dbpedia.org/resource/Hosei_University" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Susumu_Katsumata_(footballer)__1">
+    <dbo:team rdf:resource="http://dbpedia.org/resource/Hosei_University" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tetsuya_Ito">
+    <dbo:team rdf:resource="http://dbpedia.org/resource/Hosei_University" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tetsuya_Ito__1">
+    <dbo:team rdf:resource="http://dbpedia.org/resource/Hosei_University" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Football_at_the_2006_Asian_Games_–_Squads">
+    <dbp:club rdf:resource="http://dbpedia.org/resource/Hosei_University" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yoshihide_Suga">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/Hosei_University" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Susumu_Katsumata_(footballer)">
+    <dbo:team rdf:resource="http://dbpedia.org/resource/Hosei_University" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Takeshi_Onaga">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/Hosei_University" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Naoki_Kusunose">
+    <dbo:team rdf:resource="http://dbpedia.org/resource/Hosei_University" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Masahiko_Ichikawa">
+    <dbo:team rdf:resource="http://dbpedia.org/resource/Hosei_University" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hideki_Maeda">
+    <dbo:team rdf:resource="http://dbpedia.org/resource/Hosei_University" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hideki_Maeda__1">
+    <dbo:team rdf:resource="http://dbpedia.org/resource/Hosei_University" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kazumi_Tsubota__1">
+    <dbo:team rdf:resource="http://dbpedia.org/resource/Hosei_University" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kazuo_Saito">
+    <dbo:team rdf:resource="http://dbpedia.org/resource/Hosei_University" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kazuo_Saito__1">
+    <dbo:team rdf:resource="http://dbpedia.org/resource/Hosei_University" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kazuyoshi_Nakamura__1">
+    <dbo:team rdf:resource="http://dbpedia.org/resource/Hosei_University" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Masaaki_Kato__1">
+    <dbo:team rdf:resource="http://dbpedia.org/resource/Hosei_University" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Masaki_Yokotani__1">
+    <dbo:team rdf:resource="http://dbpedia.org/resource/Hosei_University" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ryoichi_Kawakatsu">
+    <dbo:team rdf:resource="http://dbpedia.org/resource/Hosei_University" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ryoichi_Kawakatsu__1">
+    <dbo:team rdf:resource="http://dbpedia.org/resource/Hosei_University" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Shunsuke_Fukuda">
+    <dbo:team rdf:resource="http://dbpedia.org/resource/Hosei_University" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Shunsuke_Fukuda__1">
+    <dbo:team rdf:resource="http://dbpedia.org/resource/Hosei_University" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tadahiko_Ueda__1">
+    <dbo:team rdf:resource="http://dbpedia.org/resource/Hosei_University" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tetsuo_Sugamata">
+    <dbo:team rdf:resource="http://dbpedia.org/resource/Hosei_University" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tetsuo_Sugamata__1">
+    <dbo:team rdf:resource="http://dbpedia.org/resource/Hosei_University" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Toru_Sano">
+    <dbo:team rdf:resource="http://dbpedia.org/resource/Hosei_University" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Toru_Sano__1">
+    <dbo:team rdf:resource="http://dbpedia.org/resource/Hosei_University" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yusuke_Omi">
+    <dbo:team rdf:resource="http://dbpedia.org/resource/Hosei_University" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yusuke_Omi__1">
+    <dbo:team rdf:resource="http://dbpedia.org/resource/Hosei_University" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Wataru_Yazawa">
+    <dbp:universityteam rdf:resource="http://dbpedia.org/resource/Hosei_University" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Akito_Arima">
+    <dbp:workInstitutions rdf:resource="http://dbpedia.org/resource/Hosei_University" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Takashi_Esaki">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/Hosei_University" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Koken_Nosaka">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/Hosei_University" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hisataka_Fujikawa__1">
+    <dbo:team rdf:resource="http://dbpedia.org/resource/Hosei_University" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Shigeo_Sawairi__1">
+    <dbo:team rdf:resource="http://dbpedia.org/resource/Hosei_University" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2001_Kawasaki_Frontale_season">
+    <dbp:team rdf:resource="http://dbpedia.org/resource/Hosei_University" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hosei">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Hosei_University" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Takuma_Asahara">
+    <dbo:university rdf:resource="http://dbpedia.org/resource/Hosei_University" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yuji_Hoshi">
+    <dbo:team rdf:resource="http://dbpedia.org/resource/Hosei_University" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yuji_Hoshi__1">
+    <dbo:team rdf:resource="http://dbpedia.org/resource/Hosei_University" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Daiki_Asada">
+    <dbo:team rdf:resource="http://dbpedia.org/resource/Hosei_University" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Daiki_Asada__2">
+    <dbo:team rdf:resource="http://dbpedia.org/resource/Hosei_University" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Daiki_Matsumoto">
+    <dbo:team rdf:resource="http://dbpedia.org/resource/Hosei_University" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Daiki_Matsumoto__1">
+    <dbo:team rdf:resource="http://dbpedia.org/resource/Hosei_University" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kei_Munechika">
+    <dbo:team rdf:resource="http://dbpedia.org/resource/Hosei_University" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kei_Munechika__1">
+    <dbo:team rdf:resource="http://dbpedia.org/resource/Hosei_University" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Masao_Tsuji">
+    <dbo:team rdf:resource="http://dbpedia.org/resource/Hosei_University" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Masao_Tsuji__1">
+    <dbo:team rdf:resource="http://dbpedia.org/resource/Hosei_University" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Masaya_Tashiro">
+    <dbo:team rdf:resource="http://dbpedia.org/resource/Hosei_University" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Masaya_Tashiro__2">
+    <dbo:team rdf:resource="http://dbpedia.org/resource/Hosei_University" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Masaya_Tomizawa">
+    <dbo:team rdf:resource="http://dbpedia.org/resource/Hosei_University" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Masaya_Tomizawa__1">
+    <dbo:team rdf:resource="http://dbpedia.org/resource/Hosei_University" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mitsuki_Watanabe">
+    <dbo:team rdf:resource="http://dbpedia.org/resource/Hosei_University" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mitsuki_Watanabe__1">
+    <dbo:team rdf:resource="http://dbpedia.org/resource/Hosei_University" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Naoki_Kusunose__1">
+    <dbo:team rdf:resource="http://dbpedia.org/resource/Hosei_University" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ryuki_Nishimuro">
+    <dbo:team rdf:resource="http://dbpedia.org/resource/Hosei_University" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ryuki_Nishimuro__1">
+    <dbo:team rdf:resource="http://dbpedia.org/resource/Hosei_University" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Takuma_Aoshima">
+    <dbo:team rdf:resource="http://dbpedia.org/resource/Hosei_University" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Takuma_Aoshima__1">
+    <dbo:team rdf:resource="http://dbpedia.org/resource/Hosei_University" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tomohiro_Taira">
+    <dbo:team rdf:resource="http://dbpedia.org/resource/Hosei_University" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tomohiro_Taira__1">
+    <dbo:team rdf:resource="http://dbpedia.org/resource/Hosei_University" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/1979_FIFA_World_Youth_Championship_squads">
+    <dbp:club rdf:resource="http://dbpedia.org/resource/Hosei_University" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hōsei_University">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Hosei_University" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Housei_University">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Hosei_University" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Hosei_University">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Hosei_University" />
+  </rdf:Description>
+</rdf:RDF>

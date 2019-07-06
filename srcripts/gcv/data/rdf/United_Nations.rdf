@@ -1,0 +1,785 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:dct="http://purl.org/dc/terms/"
+	xmlns:dbo="http://dbpedia.org/ontology/"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:prov="http://www.w3.org/ns/prov#"
+	xmlns:dbp="http://dbpedia.org/property/"
+	xmlns:ns8="http://purl.org/linguistics/gold/" >
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Standby_High-Readiness_Brigade">
+    <dbo:country rdf:resource="http://dbpedia.org/resource/United_Nations" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/United_Nations">
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoPermanentlyLocatedEntity" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatOrganizationsEstablishedIn1945" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatDiplomaticMissions" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatIntergovernmentalOrganizationsEstablishedByTreaty" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Unit108189659" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Deputation108402442" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/DiplomaticMission108402693" />
+    <rdf:type rdf:resource="http://schema.org/Place" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q6256" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Abstraction100002137" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/SocialGroup107950920" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Group100031264" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Organization108008335" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Country" />
+    <rdf:type rdf:resource="http://schema.org/Country" />
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatUnitedNations" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatInternationalOrganizations" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Alliance108293982" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WorldOrganization108294696" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoLegalActor" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoLegalActorGeo" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatOrganizationsBasedInNewYorkCity" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/PopulatedPlace" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Place" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Location" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PoliticalUnit108359949" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/State108168978" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Organisation" />
+    <rdfs:label xml:lang="it">Organizzazione delle Nazioni Unite</rdfs:label>
+    <rdfs:label xml:lang="pt">Organização das Nações Unidas</rdfs:label>
+    <rdfs:label xml:lang="ru">Организация Объединённых Наций</rdfs:label>
+    <rdfs:label xml:lang="fr">Organisation des Nations unies</rdfs:label>
+    <rdfs:label xml:lang="de">Vereinte Nationen</rdfs:label>
+    <rdfs:label xml:lang="nl">Verenigde Naties</rdfs:label>
+    <rdfs:label xml:lang="ar">الأمم المتحدة</rdfs:label>
+    <rdfs:label xml:lang="pl">Organizacja Narodów Zjednoczonych</rdfs:label>
+    <rdfs:label xml:lang="en">United Nations</rdfs:label>
+    <rdfs:label xml:lang="ja">国際連合</rdfs:label>
+    <rdfs:label xml:lang="es">Organización de las Naciones Unidas</rdfs:label>
+    <rdfs:label xml:lang="zh">联合国</rdfs:label>
+    <rdfs:comment xml:lang="es">La Organización de las Naciones Unidas (ONU), o simplemente las Naciones Unidas (NN. UU.), es la mayor organización internacional existente. Se define como una asociación de gobierno global que facilita la cooperación en asuntos como el Derecho internacional, la paz y seguridad internacional, el desarrollo económico y social, los asuntos humanitarios y los derechos humanos. La ONU fue fundada el 24 de octubre de 1945 en la ciudad estadounidense de San Francisco, por 51 países, al finalizar la Segunda Guerra Mundial, con la firma de la Carta de las Naciones Unidas.</rdfs:comment>
+    <rdfs:comment xml:lang="ru">Организа́ция Объединённых На́ций, ОО́Н — международная организация, созданная для поддержания и укрепления международного мира и безопасности, развития сотрудничества между государствами. «ООН остается универсальным форумом, наделённым уникальной легитимностью, несущей конструкцией международной системы коллективной безопасности, главным элементом современной многосторонней дипломатии».</rdfs:comment>
+    <rdfs:comment xml:lang="ar">الأمم المتحدة منظمة عالمية تضم في عضويتها جميع دول العالم المستقلة تقريباً. تأسست منظمة الأمم المتحدة بتاريخ 24 أكتوبر 1945 في مدينة سان فرانسيسكو، كاليفورنيا الأمريكية، تبعاً لمؤتمر دومبارتون أوكس الذي عقد في العاصمة واشنطن.</rdfs:comment>
+    <rdfs:comment xml:lang="en">The United Nations (UN) is an intergovernmental organization to promote international co-operation. A replacement for the ineffective League of Nations, the organization was established on 24 October 1945 after World War II in order to prevent another such conflict. At its founding, the UN had 51 member states; there are now 193. The headquarters of the United Nations is in Manhattan, New York City, and experiences extraterritoriality. Further main offices are situated in Geneva, Nairobi, and Vienna. The organization is financed by assessed and voluntary contributions from its member states. Its objectives include maintaining international peace and security, promoting human rights, fostering social and economic development, protecting the environment, and providing humanitarian aid in cas</rdfs:comment>
+    <rdfs:comment xml:lang="zh">联合国（英语：United Nations，UN）是一個由主權國家組成的國際組織，致力於促進各國在國際法、國際安全、經濟發展、社會進步、人權、公民自由、政治自由、民主及實現持久世界和平方面的合作。聯合國成立於第二次世界大戰結束後的1945年，取代國際聯盟以阻止戰爭並為各國提供對話平臺。聯合國下設了許多附屬機構以實現其宗旨。 到2012年為止，聯合國共193個成員國，包括除梵蒂岡城國以外所有无争议的主權國家都是联合国会员国。在聯合國遍及世界的辦事處中，聯合國及其專門機構通過全年舉行定期會議來決定實體和行政議題。聯合國由六大主要機構組成：聯合國大會（主要的審議機構）、安理會（以決定對和平與安全的某些決議）、經濟及社會理事會（以協助促進國際經濟和社會的合作和發展）、秘書處（為聯合國提供所需的研究、資訊和設施）、國際法院（主要的司法機構）以及聯合國託管理事會（當前不活躍）。其他重要的聯合國機構還有世界衛生組織、世界糧食計畫署和聯合國兒童基金會。聯合國的行政首長是聯合國秘書長，當前由潘基文擔任。聯合國的經費由會員國分攤和自願捐贈。聯合國有六種工作语言，分別為：阿拉伯文、中文（简体）、英文、法文、俄文、西班牙文。</rdfs:comment>
+    <rdfs:comment xml:lang="fr">L’Organisation des Nations unies (ONU) est une organisation internationale regroupant, à quelques exceptions près, tous les États de la Terre. Distincte des États qui la composent, l’organisation a pour finalité la paix internationale. Ses objectifs sont de faciliter la coopération dans le droit international, la sécurité internationale, le développement économique, le progrès social, les droits de l’homme et la réalisation à terme de la paix mondiale. L’ONU est fondée en 1945 après la Seconde Guerre mondiale pour remplacer la Société des Nations, afin d’arrêter les guerres entre pays et de fournir une plate-forme de dialogue. Elle contient plusieurs organismes annexes pour mener à bien ses missions.</rdfs:comment>
+    <rdfs:comment xml:lang="ja">国際連合（こくさいれんごう、英語: United Nations、略称は国連（こくれん）、UN）は、国際連合憲章の下、1945年に設立された国際組織である。主たる活動目的は国際平和の維持（安全保障）、そして経済や社会などに関する国際協力の実現である。なお、英語表記の「United Nations」は第二次世界大戦中の枢軸国に対していた連合国が自陣営を指す言葉として使用していたものが、継続して使用されたものであるが、日本語においては戦時中の連合国と区別して「国際連合」と呼ばれる。中国語では「聯合國」と訳されるが、「第二次世界大戦の連合国」については「同盟國」と訳されている。組織としては第二次世界大戦中の組織と同じであるが、第二次世界大戦後に敗戦国やその他の国々の参加により、一般的な組織へと変容している。しかし、日本を含む第二次世界大戦の敗戦国に対する敵国条項が存在するなどで第二次世界大戦の戦勝国の色が強く残り、国家の枠組みを超えた平等な組織にはなりきれていない。 2011年7月現在の加盟国は193か国であり、現在国際社会に存在する国際組織の中では最も広範・一般的な権限と、普遍性を有する組織である。</rdfs:comment>
+    <rdfs:comment xml:lang="nl">De Verenigde Naties (afkorting: VN) zijn een internationale organisatie, opgericht in 1945 door 51 landen. Het is een intergouvernementele organisatie die samenwerkt op het gebied van het internationale recht, mondiale veiligheid, behoud van mensenrechten, ontwikkeling van de wereldeconomie en het onderzoek naar maatschappelijke en culturele ontwikkelingen.</rdfs:comment>
+    <rdfs:comment xml:lang="de">Die Vereinten Nationen (VN), englisch United Nations (UN), häufig auch UNO für United Nations Organization (deutsch Organisation der Vereinten Nationen), sind ein zwischenstaatlicher Zusammenschluss von 193 Staaten und als globale internationale Organisation ein uneingeschränkt anerkanntes Völkerrechtssubjekt. Die Vereinten Nationen selbst, sowie viele ihrer Unterorganisationen haben für ihre Verdienste den Friedensnobelpreis erhalten und sind zusammen die am häufigsten ausgezeichneten Preisträger.</rdfs:comment>
+    <rdfs:comment xml:lang="pt">Organização das Nações Unidas (ONU), ou simplesmente Nações Unidas, é uma organização intergovernamental criada para promover a cooperação internacional. Uma substituição à ineficiente Liga das Nações, a organização foi estabelecida em 24 de outubro de 1945, após o término da Segunda Guerra Mundial, com a intenção de impedir outro conflito como aquele. Na altura de sua fundação, a ONU tinha 51 estados-membros; hoje são 193. A sua sede está localizada em Manhattan, Nova York, e possui extraterritorialidade. Outros escritórios situam-se em Genebra, Nairóbi e Viena. A organização é financiada com contribuições avaliadas e voluntárias dos países-membros. Seus objetivos incluem manter a segurança e a paz mundial, promover os direitos humanos, auxiliar no desenvolvimento econômico e no progresso</rdfs:comment>
+    <rdfs:comment xml:lang="pl">Organizacja Narodów Zjednoczonych, ONZ (ang. United Nations, UN; fr. Organisation des Nations Unies; hiszp. Organización de las Naciones Unidas; ros. Организация Объединённых Наций, Organizacyja Objedinionnych Nacyj; arab. الأمم المتحدة , al-Umam al-Muttahida; chiń. 联合国 , Liánhéguó) – uniwersalna (z wyjątkiem narodów niereprezentowanych) organizacja międzynarodowa, z siedzibą w Nowym Jorku, powstała 24 października 1945 roku w wyniku wejścia w życie, podpisanej 26 czerwca 1945 w San Francisco, Karty Narodów Zjednoczonych. ONZ jest następczynią Ligi Narodów.</rdfs:comment>
+    <rdfs:comment xml:lang="it">L&#39;Organizzazione delle Nazioni Unite, in sigla ONU, spesso abbreviata in Nazioni Unite, è un&#39;organizzazione intergovernativa a carattere internazionale. All&#39;organizzazione, nata il 24 ottobre 1945 sulla scia della vecchia Società delle Nazioni, subito dopo la fine della seconda guerra mondiale, con l&#39;entrata in vigore dello Statuto delle Nazioni Unite, aderiscono 193 Stati del mondo su un totale di 206. L&#39;organizzazione dispone dell&#39;intervento di contingenti militari, identificati con la locuzione &quot;caschi blu&quot; dal colore dell&#39;elmetto indossato da tali truppe.</rdfs:comment>
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Criticism_of_the_United_Nations" />
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q1065" />
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q1065" />
+    <owl:sameAs rdf:resource="http://openei.org/resources/United_Nations" />
+    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/Vereinte_Nationen" />
+    <owl:sameAs rdf:resource="http://es.dbpedia.org/resource/Organización_de_las_Naciones_Unidas" />
+    <owl:sameAs rdf:resource="http://ja.dbpedia.org/resource/国際連合" />
+    <owl:sameAs rdf:resource="http://it.dbpedia.org/resource/Organizzazione_delle_Nazioni_Unite" />
+    <owl:sameAs rdf:resource="http://sw.cyc.com/concept/Mx4rvVkMNpwpEbGdrcN5Y29ycA" />
+    <owl:sameAs rdf:resource="http://fr.dbpedia.org/resource/Organisation_des_Nations_unies" />
+    <owl:sameAs rdf:resource="http://el.dbpedia.org/resource/Οργανισμός_Ηνωμένων_Εθνών" />
+    <owl:sameAs rdf:resource="http://data.nytimes.com/45429116372210537182" />
+    <owl:sameAs rdf:resource="http://cs.dbpedia.org/resource/Organizace_spojených_národů" />
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/United_Nations" />
+    <owl:sameAs rdf:resource="http://pl.dbpedia.org/resource/Organizacja_Narodów_Zjednoczonych" />
+    <owl:sameAs rdf:resource="http://yago-knowledge.org/resource/United_Nations" />
+    <owl:sameAs rdf:resource="http://pt.dbpedia.org/resource/Organização_das_Nações_Unidas" />
+    <owl:sameAs rdf:resource="http://id.dbpedia.org/resource/Perserikatan_Bangsa-Bangsa" />
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.07t65" />
+    <owl:sameAs rdf:resource="http://nl.dbpedia.org/resource/Verenigde_Naties" />
+    <owl:sameAs rdf:resource="http://eu.dbpedia.org/resource/Nazio_Batuen_Erakundea" />
+    <owl:sameAs rdf:resource="http://ko.dbpedia.org/resource/유엔" />
+    <owl:sameAs rdf:resource="http://d-nb.info/gnd/333-5" />
+    <owl:sameAs rdf:resource="http://www.bbc.co.uk/things/b79ae056-59b1-49c7-8630-50f7e223e906#id" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Intergovernmental_organizations_established_by_treaty" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Organizations_based_in_New_York_City" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Organizations_established_in_1945" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:United_Nations" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Organizations_awarded_Nobel_Peace_Prizes" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:1945_establishments_in_the_United_States" />
+    <dbo:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">31769</dbo:wikiPageID>
+    <dbo:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">744961833</dbo:wikiPageRevisionID>
+    <dbo:wikiPageExternalLink rdf:resource="http://www.unwatch.org/" />
+    <dbo:wikiPageExternalLink rdf:resource="https://web.archive.org/web/20150602005106/http:/www.unv.org/" />
+    <dbo:wikiPageExternalLink rdf:resource="http://research.un.org/en/docs" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.una.org.uk/" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.globalpolicy.org/" />
+    <dbo:wikiPageExternalLink rdf:resource="https://www.unric.org/" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.undemocracy.com/" />
+    <dbo:wikiPageExternalLink rdf:resource="https://www.un.org/" />
+    <dbo:wikiPageExternalLink rdf:resource="https://www.un.int" />
+    <foaf:depiction rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Flag_of_the_United_Nations.svg" />
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/United_Nations" />
+    <dbo:thumbnail rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Flag_of_the_United_Nations.svg?width=300" />
+    <prov:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/United_Nations?oldid=744961833" />
+    <dbo:abstract xml:lang="de">Die Vereinten Nationen (VN), englisch United Nations (UN), häufig auch UNO für United Nations Organization (deutsch Organisation der Vereinten Nationen), sind ein zwischenstaatlicher Zusammenschluss von 193 Staaten und als globale internationale Organisation ein uneingeschränkt anerkanntes Völkerrechtssubjekt. Die wichtigsten Aufgaben der Organisation sind gemäß ihrer Charta die Sicherung des Weltfriedens, die Einhaltung des Völkerrechts, der Schutz der Menschenrechte und die Förderung der internationalen Zusammenarbeit. Im Vordergrund stehen außerdem Unterstützung im wirtschaftlichen, sozialen und humanitären Gebiet (siehe auch die Millennium-Entwicklungsziele der UNO). Die Vereinten Nationen selbst, sowie viele ihrer Unterorganisationen haben für ihre Verdienste den Friedensnobelpreis erhalten und sind zusammen die am häufigsten ausgezeichneten Preisträger.</dbo:abstract>
+    <dbo:abstract xml:lang="pt">Organização das Nações Unidas (ONU), ou simplesmente Nações Unidas, é uma organização intergovernamental criada para promover a cooperação internacional. Uma substituição à ineficiente Liga das Nações, a organização foi estabelecida em 24 de outubro de 1945, após o término da Segunda Guerra Mundial, com a intenção de impedir outro conflito como aquele. Na altura de sua fundação, a ONU tinha 51 estados-membros; hoje são 193. A sua sede está localizada em Manhattan, Nova York, e possui extraterritorialidade. Outros escritórios situam-se em Genebra, Nairóbi e Viena. A organização é financiada com contribuições avaliadas e voluntárias dos países-membros. Seus objetivos incluem manter a segurança e a paz mundial, promover os direitos humanos, auxiliar no desenvolvimento econômico e no progresso social, proteger o meio ambiente e prover ajuda humanitária em casos de fome, desastres naturais e conflitos armados. Durante a Segunda Guerra, o presidente estadunidense, Franklin D. Roosevelt, começou a discutir a criação de uma agência que sucederia a Liga das Nações, e a Carta das Nações Unidas foi elaborada em uma conferência em abril–junho de 1945; a carta entrou em vigor a 24 de outubro de 1945, e a ONU começou a operar. A sua missão de promover a paz foi complicada nas suas primeiras décadas de existência, por culpa da Guerra Fria, entre Estados Unidos, União Soviética e seus respectivos aliados. Teve participação em ações importantes na Coreia e no Congo-Léopoldville, além de ter aprovado a criação do estado de Israel em 1947. O número de integrantes cresceu bastante após o grande processo de descolonização na década de 1960, ocorrido principalmente na África, na Ásia e na Oceania, e na década seguinte, seu orçamento para programas de desenvolvimento social e econômico ultrapassou em muito seus gastos com a manutenção da paz. Após o término da Guerra Fria, a ONU assumiu as principais missões militares e de paz ao redor do globo, com diferentes níveis de sucesso. A organização foi laureada com o Nobel da Paz em 2001, e alguns de seus oficiais e agências também ganharam o prêmio. Outras avaliações da eficácia da ONU são mistas. Alguns analistas afirmam que as Nações Unidas são uma força importante no que tange manter a paz e o estimular o desenvolvimento humano, enquanto outros adjetivam-na de ineficiente, corrupta ou tendenciosa. Seis órgãos principais compõem as Nações Unidas: a Assembleia Geral (assembleia deliberativa principal); o Conselho de Segurança (para decidir determinadas resoluções de paz e segurança); o Conselho Econômico e Social (para auxiliar na promoção da cooperação econômica e social internacional e desenvolvimento); o Conselho de Direitos Humanos (para promover e fiscalizar a proteção dos direitos humanos e propor tratados internacionais sobre esse tema); o Secretariado (para fornecimento de estudos, informações e facilidades necessárias para a ONU), e o Tribunal Internacional de Justiça (o órgão judicial principal). Além desses, há órgãos complementares de todas as outras agências do Sistema das Nações Unidas, como a Organização Mundial de Saúde (OMS), o Programa Alimentar Mundial (PAM) e o Fundo das Nações Unidas para a Infância (UNICEF). O chefe mais proeminente da ONU é o secretário-geral, cargo ocupado por Ban Ki-moon desde 2007.</dbo:abstract>
+    <dbo:abstract xml:lang="ar">الأمم المتحدة منظمة عالمية تضم في عضويتها جميع دول العالم المستقلة تقريباً. تأسست منظمة الأمم المتحدة بتاريخ 24 أكتوبر 1945 في مدينة سان فرانسيسكو، كاليفورنيا الأمريكية، تبعاً لمؤتمر دومبارتون أوكس الذي عقد في العاصمة واشنطن. من 1919 إلى 1945 كان يوجد منظمة شبيهة بمنظمة الأمم المتحدة تدعي عصبة الأمم إلا أنها فشلت في مهامها خصوصاً بعد قيام الحرب العالمية الثانية، ما أدى إلى نشوء الأمم المتحدة بعد انتصار الحلفاء وتم إلغاء عصبة الأمم.وعضوية الأمم المتحدة مفتوحة أمام كل الدول المحبة للسلام التي تقبل التزامات ميثاق الأمم المتحدة وحكمها. و منذ 14 تموز من سنة 2011 بعد تقسيم السودان أصبح هناك 193 دولة كأعضاء في المنظمة.(انظر الدول الأعضاء في الأمم المتحدة).</dbo:abstract>
+    <dbo:abstract xml:lang="en">The United Nations (UN) is an intergovernmental organization to promote international co-operation. A replacement for the ineffective League of Nations, the organization was established on 24 October 1945 after World War II in order to prevent another such conflict. At its founding, the UN had 51 member states; there are now 193. The headquarters of the United Nations is in Manhattan, New York City, and experiences extraterritoriality. Further main offices are situated in Geneva, Nairobi, and Vienna. The organization is financed by assessed and voluntary contributions from its member states. Its objectives include maintaining international peace and security, promoting human rights, fostering social and economic development, protecting the environment, and providing humanitarian aid in cases of famine, natural disaster, and armed conflict. The United Nations Charter was drafted at a conference in April–June 1945; this charter took effect 24 October 1945, and the UN began operation. The UN&#39;s mission to preserve world peace was complicated in its early decades by the Cold War between the US and Soviet Union and their respective allies. The organization participated in major actions in Korea and the Congo, as well as approving the creation of the state of Israel in 1947. The organization&#39;s membership grew significantly following widespread decolonization in the 1960s, and by the 1970s its budget for economic and social development programmes far outstripped its spending on peacekeeping. After the end of the Cold War, the UN took on major military and peacekeeping missions across the world with varying degrees of success. The UN has six principal organs: the General Assembly (the main deliberative assembly); the Security Council (for deciding certain resolutions for peace and security); the Economic and Social Council (ECOSOC) (for promoting international economic and social co-operation and development); the Secretariat (for providing studies, information, and facilities needed by the UN); the International Court of Justice (the primary judicial organ); and the United Nations Trusteeship Council (inactive since 1994). UN System agencies include the World Bank Group, the World Health Organization, the World Food Programme, UNESCO, and UNICEF. The UN&#39;s most prominent officer is the Secretary-General, an office held by South Korean Ban Ki-moon since 2007. Non-governmental organizations may be granted consultative status with ECOSOC and other agencies to participate in the UN&#39;s work. The organization won the Nobel Peace Prize in 2001, and a number of its officers and agencies have also been awarded the prize. Other evaluations of the UN&#39;s effectiveness have been mixed. Some commentators believe the organization to be an important force for peace and human development, while others have called the organization ineffective, corrupt, or biased.</dbo:abstract>
+    <dbo:abstract xml:lang="it">L&#39;Organizzazione delle Nazioni Unite, in sigla ONU, spesso abbreviata in Nazioni Unite, è un&#39;organizzazione intergovernativa a carattere internazionale. All&#39;organizzazione, nata il 24 ottobre 1945 sulla scia della vecchia Società delle Nazioni, subito dopo la fine della seconda guerra mondiale, con l&#39;entrata in vigore dello Statuto delle Nazioni Unite, aderiscono 193 Stati del mondo su un totale di 206. L&#39;organizzazione dispone dell&#39;intervento di contingenti militari, identificati con la locuzione &quot;caschi blu&quot; dal colore dell&#39;elmetto indossato da tali truppe.</dbo:abstract>
+    <dbo:abstract xml:lang="ru">Организа́ция Объединённых На́ций, ОО́Н — международная организация, созданная для поддержания и укрепления международного мира и безопасности, развития сотрудничества между государствами. «ООН остается универсальным форумом, наделённым уникальной легитимностью, несущей конструкцией международной системы коллективной безопасности, главным элементом современной многосторонней дипломатии». Основы её деятельности и структура разрабатывались в годы Второй мировой войны ведущими участниками антигитлеровской коалиции. Название «Объединённые Нации» было впервые использовано в Декларации Объединённых Наций, подписанной 1 января 1942 года. Устав ООН был утверждён на Сан-Францисской конференции, проходившей с апреля по июнь 1945 года, и подписан 26 июня 1945 года представителями 50 государств. 15 октября 1945 года Польша также подписала Устав, вступив, таким образом, в число первоначальных членов Организации. Дата вступления Устава в силу (24 октября) отмечается как День Организации Объединённых Наций.</dbo:abstract>
+    <dbo:abstract xml:lang="fr">L’Organisation des Nations unies (ONU) est une organisation internationale regroupant, à quelques exceptions près, tous les États de la Terre. Distincte des États qui la composent, l’organisation a pour finalité la paix internationale. Ses objectifs sont de faciliter la coopération dans le droit international, la sécurité internationale, le développement économique, le progrès social, les droits de l’homme et la réalisation à terme de la paix mondiale. L’ONU est fondée en 1945 après la Seconde Guerre mondiale pour remplacer la Société des Nations, afin d’arrêter les guerres entre pays et de fournir une plate-forme de dialogue. Elle contient plusieurs organismes annexes pour mener à bien ses missions.</dbo:abstract>
+    <dbo:abstract xml:lang="nl">De Verenigde Naties (afkorting: VN) zijn een internationale organisatie, opgericht in 1945 door 51 landen. Het is een intergouvernementele organisatie die samenwerkt op het gebied van het internationale recht, mondiale veiligheid, behoud van mensenrechten, ontwikkeling van de wereldeconomie en het onderzoek naar maatschappelijke en culturele ontwikkelingen. De organisatie telt sinds 14 juli 2011 193 lidstaten. Vrijwel elk internationaal erkend, onafhankelijk land is lid van de organisatie. Vanuit het hoofdkantoor in New York en de deelhoofdkantoren in Genève, Wenen en Nairobi beslissen de lidstaten en de gespecialiseerde organisaties van de Verenigde Naties tijdens reguliere ontmoetingen over essentiële wereldzaken en wereldomvattende gebeurtenissen. Sinds eind jaren 90 is de organisatie zich ook meer gaan richten op interne ontwikkelingen en hoe de Verenigde Naties mee kunnen groeien met de vraag naar een nieuwe methode van wereldwijde samenwerking. Er zijn zes bestuursorganen die de werkzaamheden van de organisatie aansturen: de Algemene Vergadering, de Economische en Sociale Raad, het Internationaal Gerechtshof, het Secretariaat, de (tegenwoordig inactieve) Trustschapsraad en het meest dwingende en bekendste orgaan van de Verenigde Naties, de Veiligheidsraad. Daarnaast zijn er diverse gespecialiseerde organisaties die deel uitmaken van het interne systeem van de Verenigde Naties, waaronder UNESCO, de Wereldbank en de Wereldgezondheidsorganisatie (WHO). Tevens hebben de Verenigde Naties gespecialiseerde programma&#39;s, zoals UNICEF en het Ontwikkelingsprogramma van de Verenigde Naties (UNDP).</dbo:abstract>
+    <dbo:abstract xml:lang="es">La Organización de las Naciones Unidas (ONU), o simplemente las Naciones Unidas (NN. UU.), es la mayor organización internacional existente. Se define como una asociación de gobierno global que facilita la cooperación en asuntos como el Derecho internacional, la paz y seguridad internacional, el desarrollo económico y social, los asuntos humanitarios y los derechos humanos. La ONU fue fundada el 24 de octubre de 1945 en la ciudad estadounidense de San Francisco, por 51 países, al finalizar la Segunda Guerra Mundial, con la firma de la Carta de las Naciones Unidas. Desde su sede en Nueva York, los Estados miembros de las Naciones Unidas y otros organismos vinculados deliberan y deciden acerca de temas significativos y administrativos en reuniones periódicas celebradas durante el año. La ONU está estructurada en diversos órganos, de los cuales los principales son: Asamblea General, Consejo de Seguridad, Consejo Económico y Social, Secretaría General, Consejo de Administración Fiduciaria y la Corte Internacional de Justicia. La sede europea (y segunda sede mundial) de la Organización de las Naciones Unidas se sitúa en Ginebra, Suiza. La figura pública principal de la ONU es el Secretario General. El actual es Ban Ki-moon de Corea del Sur, que asumió el puesto el 1 de enero de 2007, reemplazando a Kofi Annan. A fecha de 2013, la ONU posee 193 Estados miembros: todos los países soberanos reconocidos internacionalmente, más tres miembros en calidad de observadores —el Estado de la Ciudad del Vaticano, la Soberana Orden Militar de Malta y el Estado de Palestina. Otros Estados independientes de facto como la República de China o Kosovo no son miembros pues son considerados territorios en disputa. Los idiomas oficiales de la ONU son seis: árabe, chino mandarín, español, francés, inglés y ruso.</dbo:abstract>
+    <dbo:abstract xml:lang="ja">国際連合（こくさいれんごう、英語: United Nations、略称は国連（こくれん）、UN）は、国際連合憲章の下、1945年に設立された国際組織である。主たる活動目的は国際平和の維持（安全保障）、そして経済や社会などに関する国際協力の実現である。なお、英語表記の「United Nations」は第二次世界大戦中の枢軸国に対していた連合国が自陣営を指す言葉として使用していたものが、継続して使用されたものであるが、日本語においては戦時中の連合国と区別して「国際連合」と呼ばれる。中国語では「聯合國」と訳されるが、「第二次世界大戦の連合国」については「同盟國」と訳されている。組織としては第二次世界大戦中の組織と同じであるが、第二次世界大戦後に敗戦国やその他の国々の参加により、一般的な組織へと変容している。しかし、日本を含む第二次世界大戦の敗戦国に対する敵国条項が存在するなどで第二次世界大戦の戦勝国の色が強く残り、国家の枠組みを超えた平等な組織にはなりきれていない。 2011年7月現在の加盟国は193か国であり、現在国際社会に存在する国際組織の中では最も広範・一般的な権限と、普遍性を有する組織である。</dbo:abstract>
+    <dbo:abstract xml:lang="zh">联合国（英语：United Nations，UN）是一個由主權國家組成的國際組織，致力於促進各國在國際法、國際安全、經濟發展、社會進步、人權、公民自由、政治自由、民主及實現持久世界和平方面的合作。聯合國成立於第二次世界大戰結束後的1945年，取代國際聯盟以阻止戰爭並為各國提供對話平臺。聯合國下設了許多附屬機構以實現其宗旨。 到2012年為止，聯合國共193個成員國，包括除梵蒂岡城國以外所有无争议的主權國家都是联合国会员国。在聯合國遍及世界的辦事處中，聯合國及其專門機構通過全年舉行定期會議來決定實體和行政議題。聯合國由六大主要機構組成：聯合國大會（主要的審議機構）、安理會（以決定對和平與安全的某些決議）、經濟及社會理事會（以協助促進國際經濟和社會的合作和發展）、秘書處（為聯合國提供所需的研究、資訊和設施）、國際法院（主要的司法機構）以及聯合國託管理事會（當前不活躍）。其他重要的聯合國機構還有世界衛生組織、世界糧食計畫署和聯合國兒童基金會。聯合國的行政首長是聯合國秘書長，當前由潘基文擔任。聯合國的經費由會員國分攤和自願捐贈。聯合國有六種工作语言，分別為：阿拉伯文、中文（简体）、英文、法文、俄文、西班牙文。</dbo:abstract>
+    <dbo:abstract xml:lang="pl">Organizacja Narodów Zjednoczonych, ONZ (ang. United Nations, UN; fr. Organisation des Nations Unies; hiszp. Organización de las Naciones Unidas; ros. Организация Объединённых Наций, Organizacyja Objedinionnych Nacyj; arab. الأمم المتحدة , al-Umam al-Muttahida; chiń. 联合国 , Liánhéguó) – uniwersalna (z wyjątkiem narodów niereprezentowanych) organizacja międzynarodowa, z siedzibą w Nowym Jorku, powstała 24 października 1945 roku w wyniku wejścia w życie, podpisanej 26 czerwca 1945 w San Francisco, Karty Narodów Zjednoczonych. ONZ jest następczynią Ligi Narodów. ONZ stawia sobie za cel zapewnienie pokoju i bezpieczeństwa międzynarodowego, rozwój współpracy między narodami oraz popieranie przestrzegania praw człowieka.</dbo:abstract>
+    <dbo:flag>Flag of the United Nations.svg</dbo:flag>
+    <dbo:foundingDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1945-06-26</dbo:foundingDate>
+    <dbo:foundingDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1945-10-24</dbo:foundingDate>
+    <dbo:language rdf:resource="http://dbpedia.org/resource/French_language" />
+    <dbo:language rdf:resource="http://dbpedia.org/resource/English_language" />
+    <dbo:language rdf:resource="http://dbpedia.org/resource/Russian_language" />
+    <dbo:language rdf:resource="http://dbpedia.org/resource/Arabic_language" />
+    <dbo:language rdf:resource="http://dbpedia.org/resource/Standard_Chinese" />
+    <dbo:language rdf:resource="http://dbpedia.org/resource/Spanish_language" />
+    <dbo:leader rdf:resource="http://dbpedia.org/resource/Peter_Thomson_(diplomat)" />
+    <dbo:leader rdf:resource="http://dbpedia.org/resource/Vitaly_Churkin" />
+    <dbo:leader rdf:resource="http://dbpedia.org/resource/Jan_Eliasson" />
+    <dbo:leader rdf:resource="http://dbpedia.org/resource/Ban_Ki-Moon" />
+    <dbo:leaderTitle xml:lang="en">Economic and Social Council President</dbo:leaderTitle>
+    <dbo:leaderTitle xml:lang="en">Deputy Secretary-General</dbo:leaderTitle>
+    <dbo:leaderTitle xml:lang="en">Security Council President</dbo:leaderTitle>
+    <dbo:leaderTitle xml:lang="en">Secretary&amp;#8209;General</dbo:leaderTitle>
+    <dbo:leaderTitle xml:lang="en">General Assembly President</dbo:leaderTitle>
+    <dbp:frTotalPopulationEstimate rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">7403020000</dbp:frTotalPopulationEstimate>
+    <dbp:adminCenter rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">New York City</dbp:adminCenter>
+    <dbp:adminCenterType rdf:resource="http://dbpedia.org/resource/Headquarters_of_the_United_Nations" />
+    <dbp:barWidth rdf:datatype="http://www.w3.org/2001/XMLSchema#double">9.75</dbp:barWidth>
+    <dbp:commons rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Category:United Nations</dbp:commons>
+    <dbp:d rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">no</dbp:d>
+    <dbp:data rdf:datatype="http://www.w3.org/2001/XMLSchema#double">3.088</dbp:data>
+    <dbp:data rdf:datatype="http://www.w3.org/2001/XMLSchema#double">6.389</dbp:data>
+    <dbp:data rdf:datatype="http://www.w3.org/2001/XMLSchema#double">9.68</dbp:data>
+    <dbp:data rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">22</dbp:data>
+    <dbp:data rdf:datatype="http://www.w3.org/2001/XMLSchema#double">2.921</dbp:data>
+    <dbp:data rdf:datatype="http://www.w3.org/2001/XMLSchema#double">7.921</dbp:data>
+    <dbp:data rdf:datatype="http://www.w3.org/2001/XMLSchema#double">2.039</dbp:data>
+    <dbp:data rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.859</dbp:data>
+    <dbp:data rdf:datatype="http://www.w3.org/2001/XMLSchema#double">3.748</dbp:data>
+    <dbp:data rdf:datatype="http://www.w3.org/2001/XMLSchema#double">3.823</dbp:data>
+    <dbp:data rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.435</dbp:data>
+    <dbp:data rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.14</dbp:data>
+    <dbp:data rdf:datatype="http://www.w3.org/2001/XMLSchema#double">2.443</dbp:data>
+    <dbp:data rdf:datatype="http://www.w3.org/2001/XMLSchema#double">19.086</dbp:data>
+    <dbp:data rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.482</dbp:data>
+    <dbp:data rdf:datatype="http://www.w3.org/2001/XMLSchema#double">2.337</dbp:data>
+    <dbp:data rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.146</dbp:data>
+    <dbp:data rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.463</dbp:data>
+    <dbp:dataMax rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">22</dbp:dataMax>
+    <dbp:dataType rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Contribution</dbp:dataType>
+    <dbp:display rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">United Nations</dbp:display>
+    <dbp:establishedEvent rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Charter entered into force</dbp:establishedEvent>
+    <dbp:establishedEvent rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">UN Charter signed</dbp:establishedEvent>
+    <dbp:float rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">right</dbp:float>
+    <dbp:frTotalPopulationEstimateYear rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2016</dbp:frTotalPopulationEstimateYear>
+    <dbp:imageMap rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">United Nations Members .svg</dbp:imageMap>
+    <dbp:imageSymbol rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Emblem of the United Nations.svg</dbp:imageSymbol>
+    <dbp:label rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Other member states</dbp:label>
+    <dbp:labelType rdf:resource="http://dbpedia.org/resource/Member_states_of_the_United_Nations" />
+    <dbp:languagesType rdf:resource="http://dbpedia.org/resource/Official_languages_of_the_United_Nations" />
+    <dbp:leaderName rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Frederick Musiiwa Makamure Shava</dbp:leaderName>
+    <dbp:linkingName rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">the United Nations</dbp:linkingName>
+    <dbp:mapCaption rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Map showing the member states of the United Nations</dbp:mapCaption>
+    <dbp:mapWidth rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">250</dbp:mapWidth>
+    <dbp:membership rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">193</dbp:membership>
+    <dbp:membership rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</dbp:membership>
+    <dbp:orgType rdf:resource="http://dbpedia.org/resource/Intergovernmental_organization" />
+    <dbp:q rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">United Nations</dbp:q>
+    <dbp:species rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">no</dbp:species>
+    <dbp:symbolType rdf:resource="http://dbpedia.org/resource/Emblem_of_the_United_Nations" />
+    <dbp:title rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Top 17 contributors to the UN budget for 2016</dbp:title>
+    <dbp:voy rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">United Nations</dbp:voy>
+    <dbp:wikt rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">United Nations</dbp:wikt>
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Organization" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/United_Nations_Environment_Programme">
+    <dbp:parent rdf:resource="http://dbpedia.org/resource/United_Nations" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/United_Nations_General_Assembly">
+    <dbp:parent rdf:resource="http://dbpedia.org/resource/United_Nations" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/United_Nations_Interim_Administration_Mission_in_Kosovo">
+    <dbp:status rdf:resource="http://dbpedia.org/resource/United_Nations" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/World_Tourism_Organization">
+    <dbp:parent rdf:resource="http://dbpedia.org/resource/United_Nations" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/United_Nations_Mine_Action_Service">
+    <dbo:headquarter rdf:resource="http://dbpedia.org/resource/United_Nations" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/United_Nations_Security_Council_election,_2009">
+    <dbo:country rdf:resource="http://dbpedia.org/resource/United_Nations" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/United_Nations_Security_Council_election,_2010">
+    <dbo:country rdf:resource="http://dbpedia.org/resource/United_Nations" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jama&#39;at_al-Tawhid_wal-Jihad">
+    <dbp:opponents rdf:resource="http://dbpedia.org/resource/United_Nations" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Shailendra_Kumar_Upadhyaya">
+    <dbp:organization rdf:resource="http://dbpedia.org/resource/United_Nations" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/United_Nations_Partisan_Infantry_Korea">
+    <dbo:country rdf:resource="http://dbpedia.org/resource/United_Nations" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Erdut_Agreement">
+    <dbp:parties rdf:resource="http://dbpedia.org/resource/United_Nations" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/United_Nations_Security_Council_election,_2012">
+    <dbo:country rdf:resource="http://dbpedia.org/resource/United_Nations" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/United_Nations_Security_Council_election,_2014">
+    <dbo:country rdf:resource="http://dbpedia.org/resource/United_Nations" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nations_Unies">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/United_Nations" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Организация_Объединённых_Наций">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/United_Nations" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Joseph_Foumbi">
+    <dbp:title rdf:resource="http://dbpedia.org/resource/United_Nations" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/UN/">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/United_Nations" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Academic_Council_of_the_United_Nations_System">
+    <dbp:parent rdf:resource="http://dbpedia.org/resource/United_Nations" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Deputy_Secretary-General_of_the_United_Nations">
+    <dbp:department rdf:resource="http://dbpedia.org/resource/United_Nations" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Federation_of_International_Civil_Servants&#39;_Associations">
+    <dbo:country rdf:resource="http://dbpedia.org/resource/United_Nations" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Secretary-General_of_the_United_Nations">
+    <dbp:department rdf:resource="http://dbpedia.org/resource/United_Nations" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/U.N.">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/United_Nations" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/United_Nations_Security_Council_election,_2015">
+    <dbo:country rdf:resource="http://dbpedia.org/resource/United_Nations" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2009_G20_London_summit">
+    <dbp:participants rdf:resource="http://dbpedia.org/resource/United_Nations" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/World_Day_to_Combat_Desertification_and_Drought">
+    <dbp:celebrations rdf:resource="http://dbpedia.org/resource/United_Nations" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/United_NationsN">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/United_Nations" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/United_Nations_Security_Council_election,_2005">
+    <dbo:country rdf:resource="http://dbpedia.org/resource/United_Nations" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Elizabeth_Anne_Reid">
+    <dbp:organization rdf:resource="http://dbpedia.org/resource/United_Nations" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Eprime_Eshag">
+    <dbp:workplaces rdf:resource="http://dbpedia.org/resource/United_Nations" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nigel_Fisher_(United_Nations)">
+    <dbp:organization rdf:resource="http://dbpedia.org/resource/United_Nations" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Shavendra_Silva">
+    <dbo:occupation rdf:resource="http://dbpedia.org/resource/United_Nations" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Un.org">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/United_Nations" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Flint_(Wildstorm)">
+    <dbp:alliances rdf:resource="http://dbpedia.org/resource/United_Nations" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Frederick_Boland">
+    <dbo:occupation rdf:resource="http://dbpedia.org/resource/United_Nations" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/United">
+    <dbo:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/United_Nations" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Verenigde_Naties">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/United_Nations" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/United_Nations_International_School">
+    <dbp:affiliation rdf:resource="http://dbpedia.org/resource/United_Nations" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/United_Nations_Office_on_Drugs_and_Crime">
+    <dbp:parent rdf:resource="http://dbpedia.org/resource/United_Nations" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/French_Battalion_(Korean_War)">
+    <dbo:country rdf:resource="http://dbpedia.org/resource/United_Nations" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Proinsias_Mac_Aonghusa">
+    <dbo:occupation rdf:resource="http://dbpedia.org/resource/United_Nations" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/United_Nations_Security_Council_election,_2006">
+    <dbo:country rdf:resource="http://dbpedia.org/resource/United_Nations" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Martin_Scheinin">
+    <dbp:organization rdf:resource="http://dbpedia.org/resource/United_Nations" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/United_Nations_Organisation">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/United_Nations" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Organisation_des_Nations_unies">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/United_Nations" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/ООН">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/United_Nations" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Economy_of_Israel">
+    <dbp:organs rdf:resource="http://dbpedia.org/resource/United_Nations" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/International_Civil_Aviation_Organization">
+    <dbp:type rdf:resource="http://dbpedia.org/resource/United_Nations" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/International_Criminal_Tribunal_for_the_former_Yugoslavia">
+    <dbp:country rdf:resource="http://dbpedia.org/resource/United_Nations" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/League_of_Nations">
+    <dbp:successor rdf:resource="http://dbpedia.org/resource/United_Nations" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Alfonso_López_Pumarejo">
+    <dbo:country rdf:resource="http://dbpedia.org/resource/United_Nations" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/United_Nations-Oceans">
+    <dbp:parent rdf:resource="http://dbpedia.org/resource/United_Nations" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/United_Nations_Organization">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/United_Nations" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/World_Maritime_University">
+    <dbo:type rdf:resource="http://dbpedia.org/resource/United_Nations" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Marita_Covarrubias">
+    <dbp:data rdf:resource="http://dbpedia.org/resource/United_Nations" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sylvia_Edlund">
+    <dbp:workplaces rdf:resource="http://dbpedia.org/resource/United_Nations" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Economy_of_India">
+    <dbp:organs rdf:resource="http://dbpedia.org/resource/United_Nations" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Belgian_United_Nations_Command">
+    <dbo:country rdf:resource="http://dbpedia.org/resource/United_Nations" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Canagarayam_Suriyakumaran">
+    <dbo:field rdf:resource="http://dbpedia.org/resource/United_Nations" />
+    <dbp:workplaces rdf:resource="http://dbpedia.org/resource/United_Nations" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sweden_in_the_Korean_War">
+    <dbo:country rdf:resource="http://dbpedia.org/resource/United_Nations" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Thailand_in_the_Korean_War">
+    <dbo:country rdf:resource="http://dbpedia.org/resource/United_Nations" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Fathali_M._Moghaddam">
+    <dbp:workInstitutions rdf:resource="http://dbpedia.org/resource/United_Nations" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Luise_Drüke">
+    <dbo:field rdf:resource="http://dbpedia.org/resource/United_Nations" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Galo_Carrera">
+    <dbo:occupation rdf:resource="http://dbpedia.org/resource/United_Nations" />
+    <dbp:organization rdf:resource="http://dbpedia.org/resource/United_Nations" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Peter_Schmitz">
+    <dbo:occupation rdf:resource="http://dbpedia.org/resource/United_Nations" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Headquarters_of_the_United_Nations">
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/United_Nations" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Peace_Palace">
+    <dbp:affiliation rdf:resource="http://dbpedia.org/resource/United_Nations" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Carla_Del_Ponte">
+    <dbo:occupation rdf:resource="http://dbpedia.org/resource/United_Nations" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Michael_A._Sheehan">
+    <dbp:title rdf:resource="http://dbpedia.org/resource/United_Nations" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/United_Nations_Federal_Credit_Union">
+    <dbo:regionServed rdf:resource="http://dbpedia.org/resource/United_Nations" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Dunya_Mikhail">
+    <dbo:award rdf:resource="http://dbpedia.org/resource/United_Nations" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Center_for_Electronic_Governance_at_UNU-IIST">
+    <dbo:type rdf:resource="http://dbpedia.org/resource/United_Nations" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Coordinating_Committee_of_International_Staff_Unions_and_Associations_of_the_United_Nations_System">
+    <dbo:country rdf:resource="http://dbpedia.org/resource/United_Nations" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Geneva_II_Conference_on_Syria">
+    <dbp:organizer rdf:resource="http://dbpedia.org/resource/United_Nations" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Parish_Pastoral_Council_for_Responsible_Voting">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/United_Nations" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/United_Nations_General_Assembly_presidential_election,_2012">
+    <dbo:country rdf:resource="http://dbpedia.org/resource/United_Nations" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/United_Nations_Security_Council_election,_1994">
+    <dbo:country rdf:resource="http://dbpedia.org/resource/United_Nations" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Geneva_peace_talks_on_Syria_(2016)">
+    <dbp:organizer rdf:resource="http://dbpedia.org/resource/United_Nations" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/United_Nations_Fighting_Forces">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/United_Nations" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_United_Nations">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/United_Nations" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Korean_Communications_Zone">
+    <dbo:country rdf:resource="http://dbpedia.org/resource/United_Nations" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/United_Nations_Security_Council_election,_2016">
+    <dbo:country rdf:resource="http://dbpedia.org/resource/United_Nations" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/United_Nations_Security_Council_election,_2017">
+    <dbo:country rdf:resource="http://dbpedia.org/resource/United_Nations" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/United_Nations_Security_Council_election,_2018">
+    <dbo:country rdf:resource="http://dbpedia.org/resource/United_Nations" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/United_Nations_Security_Council_election,_1966">
+    <dbo:country rdf:resource="http://dbpedia.org/resource/United_Nations" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/United_Nations_Security_Council_election,_1967">
+    <dbo:country rdf:resource="http://dbpedia.org/resource/United_Nations" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/United_Nations_Security_Council_election,_1968">
+    <dbo:country rdf:resource="http://dbpedia.org/resource/United_Nations" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/United_Nations_Security_Council_election,_1969">
+    <dbo:country rdf:resource="http://dbpedia.org/resource/United_Nations" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/United_Nations_Security_Council_election,_1970">
+    <dbo:country rdf:resource="http://dbpedia.org/resource/United_Nations" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/United_Nations_Security_Council_election,_1971">
+    <dbo:country rdf:resource="http://dbpedia.org/resource/United_Nations" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/United_Nations_Security_Council_election,_1972">
+    <dbo:country rdf:resource="http://dbpedia.org/resource/United_Nations" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/United_Nations_Security_Council_election,_1973">
+    <dbo:country rdf:resource="http://dbpedia.org/resource/United_Nations" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/United_Nations_Security_Council_election,_1974">
+    <dbo:country rdf:resource="http://dbpedia.org/resource/United_Nations" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/United_Nations_Security_Council_election,_1975">
+    <dbo:country rdf:resource="http://dbpedia.org/resource/United_Nations" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/United_Nations_Security_Council_election,_2019">
+    <dbo:country rdf:resource="http://dbpedia.org/resource/United_Nations" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/United_Nations_Security_Council_election,_2020">
+    <dbo:country rdf:resource="http://dbpedia.org/resource/United_Nations" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/United_Nations_Security_Council_election,_2021">
+    <dbo:country rdf:resource="http://dbpedia.org/resource/United_Nations" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/United_Nations_Security_Council_election,_2022">
+    <dbo:country rdf:resource="http://dbpedia.org/resource/United_Nations" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/United_Nations_Security_Council_election,_November_1946">
+    <dbo:country rdf:resource="http://dbpedia.org/resource/United_Nations" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/United_Nation">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/United_Nations" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_UN">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/United_Nations" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Korean_Demilitarized_Zone">
+    <dbo:builder rdf:resource="http://dbpedia.org/resource/United_Nations" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/United_Nations_Development_Programme">
+    <dbp:commons rdf:resource="http://dbpedia.org/resource/United_Nations" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/United_Nations_University_International_Institute_for_Software_Technology">
+    <dbo:type rdf:resource="http://dbpedia.org/resource/United_Nations" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/International_Day_of_United_Nations_Peacekeepers">
+    <dbo:country rdf:resource="http://dbpedia.org/resource/United_Nations" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/United_Nations_Interregional_Crime_and_Justice_Research_Institute">
+    <dbp:parent rdf:resource="http://dbpedia.org/resource/United_Nations" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/United_Nations_peacekeeping">
+    <dbo:country rdf:resource="http://dbpedia.org/resource/United_Nations" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/United_Nations_Security_Council_election,_2013">
+    <dbo:country rdf:resource="http://dbpedia.org/resource/United_Nations" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/U.N">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/United_Nations" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/United_Nations_Security_Council_election,_1995">
+    <dbo:country rdf:resource="http://dbpedia.org/resource/United_Nations" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/United_Nations_Security_Council_election,_1996">
+    <dbo:country rdf:resource="http://dbpedia.org/resource/United_Nations" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/United_Nations_Security_Council_election,_1997">
+    <dbo:country rdf:resource="http://dbpedia.org/resource/United_Nations" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/United_Nations_Security_Council_election,_1998">
+    <dbo:country rdf:resource="http://dbpedia.org/resource/United_Nations" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/United_Nations_Security_Council_election,_2000">
+    <dbo:country rdf:resource="http://dbpedia.org/resource/United_Nations" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/United_Nations_Security_Council_election,_2001">
+    <dbo:country rdf:resource="http://dbpedia.org/resource/United_Nations" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/United_Nations_Security_Council_election,_2002">
+    <dbo:country rdf:resource="http://dbpedia.org/resource/United_Nations" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/United_Nations_Security_Council_election,_2003">
+    <dbo:country rdf:resource="http://dbpedia.org/resource/United_Nations" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/United_Nations_Security_Council_election,_2004">
+    <dbo:country rdf:resource="http://dbpedia.org/resource/United_Nations" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/International_Day_against_Nuclear_Tests">
+    <dbp:celebrations rdf:resource="http://dbpedia.org/resource/United_Nations" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/United_Nations_Security_Council_election,_1976">
+    <dbo:country rdf:resource="http://dbpedia.org/resource/United_Nations" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/United_Nations_Security_Council_election,_1977">
+    <dbo:country rdf:resource="http://dbpedia.org/resource/United_Nations" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/U._N.">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/United_Nations" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kagnew_Battalion">
+    <dbo:country rdf:resource="http://dbpedia.org/resource/United_Nations" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Philippine_Expeditionary_Forces_to_Korea">
+    <dbo:country rdf:resource="http://dbpedia.org/resource/United_Nations" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ben_Knight_(graphic_designer)">
+    <dbo:occupation rdf:resource="http://dbpedia.org/resource/United_Nations" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/George_Monbiot">
+    <dbo:award rdf:resource="http://dbpedia.org/resource/United_Nations" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/World_Summit_for_Children">
+    <dbp:parent rdf:resource="http://dbpedia.org/resource/United_Nations" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Human_Rights_Day">
+    <dbp:celebrations rdf:resource="http://dbpedia.org/resource/United_Nations" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Regiment_van_Heutsz">
+    <dbo:country rdf:resource="http://dbpedia.org/resource/United_Nations" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Surakiart_Sathirathai">
+    <dbo:knownFor rdf:resource="http://dbpedia.org/resource/United_Nations" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Shashi_Tharoor">
+    <dbo:occupation rdf:resource="http://dbpedia.org/resource/United_Nations" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/RAF_Nicosia">
+    <dbo:operator rdf:resource="http://dbpedia.org/resource/United_Nations" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/1st_Commonwealth_Division">
+    <dbo:country rdf:resource="http://dbpedia.org/resource/United_Nations" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Pope_Francis&#39;_2015_visit_to_North_America">
+    <dbp:place rdf:resource="http://dbpedia.org/resource/United_Nations" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mahmoud_Saikal">
+    <dbo:country rdf:resource="http://dbpedia.org/resource/United_Nations" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sophal_Ear">
+    <dbp:organization rdf:resource="http://dbpedia.org/resource/United_Nations" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Anne_Anderson_(diplomat)">
+    <dbo:occupation rdf:resource="http://dbpedia.org/resource/United_Nations" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Man-Beast">
+    <dbp:alliances rdf:resource="http://dbpedia.org/resource/United_Nations" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jacqueline_Nearne">
+    <dbo:occupation rdf:resource="http://dbpedia.org/resource/United_Nations" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Richard_Saul">
+    <dbo:occupation rdf:resource="http://dbpedia.org/resource/United_Nations" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yvonne_Moores">
+    <dbo:occupation rdf:resource="http://dbpedia.org/resource/United_Nations" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kyaw_Tint_Swe">
+    <dbo:country rdf:resource="http://dbpedia.org/resource/United_Nations" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/United_Nations_Secretary-General_selection,_2016">
+    <dbo:country rdf:resource="http://dbpedia.org/resource/United_Nations" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lydia_Canaan">
+    <dbo:occupation rdf:resource="http://dbpedia.org/resource/United_Nations" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/UN_(disambiguation)">
+    <dbo:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/United_Nations" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/United_Nations_(disambiguation)">
+    <dbo:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/United_Nations" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/United_Nations_Office_for_Disarmament_Affairs">
+    <dbp:caption rdf:resource="http://dbpedia.org/resource/United_Nations" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/UN">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/United_Nations" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/William_D._Clay,_Jr.">
+    <dbo:occupation rdf:resource="http://dbpedia.org/resource/United_Nations" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Venezuelan_Human_Rights_and_Democracy_Protection_Act">
+    <dbp:agenciesaffected rdf:resource="http://dbpedia.org/resource/United_Nations" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/A._S._Arya">
+    <dbo:award rdf:resource="http://dbpedia.org/resource/United_Nations" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/János_Pásztor_(diplomat)">
+    <dbo:occupation rdf:resource="http://dbpedia.org/resource/United_Nations" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Greek_Expeditionary_Force_(Korea)">
+    <dbo:country rdf:resource="http://dbpedia.org/resource/United_Nations" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/NORMASH">
+    <dbo:country rdf:resource="http://dbpedia.org/resource/United_Nations" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Margaret_Anstee">
+    <dbo:occupation rdf:resource="http://dbpedia.org/resource/United_Nations" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/K._C._Sreedharan_Pillai">
+    <dbp:workInstitution rdf:resource="http://dbpedia.org/resource/United_Nations" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/United_Nations_Youth_Australia">
+    <dbp:focus rdf:resource="http://dbpedia.org/resource/United_Nations" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Un">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/United_Nations" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/United_Nations_Secretary-General_selection,_2006">
+    <dbo:country rdf:resource="http://dbpedia.org/resource/United_Nations" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/United_nations">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/United_Nations" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/25th_Canadian_Infantry_Brigade">
+    <dbo:country rdf:resource="http://dbpedia.org/resource/United_Nations" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mary_Shanthi_Dairiam">
+    <dbo:occupation rdf:resource="http://dbpedia.org/resource/United_Nations" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Luiz_Carlos_da_Costa">
+    <dbo:occupation rdf:resource="http://dbpedia.org/resource/United_Nations" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/AFP_Peacekeeping_Operations_Center">
+    <dbo:country rdf:resource="http://dbpedia.org/resource/United_Nations" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Philip_J._Cohen">
+    <dbo:occupation rdf:resource="http://dbpedia.org/resource/United_Nations" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Synergy_(comics)">
+    <dbp:alliances rdf:resource="http://dbpedia.org/resource/United_Nations" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Catherine_Cobert">
+    <dbp:alliances rdf:resource="http://dbpedia.org/resource/United_Nations" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Federico_Urruela">
+    <dbo:knownFor rdf:resource="http://dbpedia.org/resource/United_Nations" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/United_Nations_Security_Council_election,_2007">
+    <dbo:country rdf:resource="http://dbpedia.org/resource/United_Nations" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/United_Nations_Security_Council_election,_2008">
+    <dbo:country rdf:resource="http://dbpedia.org/resource/United_Nations" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Turkish_Brigade">
+    <dbo:country rdf:resource="http://dbpedia.org/resource/United_Nations" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/U.n.">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/United_Nations" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/U_n">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/United_Nations" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/UN_elections_and_appointments">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/United_Nations" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/United_Nations_funding">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/United_Nations" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gerald_Loxley">
+    <dbo:occupation rdf:resource="http://dbpedia.org/resource/United_Nations" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bongani_Christopher_Majola">
+    <dbo:occupation rdf:resource="http://dbpedia.org/resource/United_Nations" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jebamalai_Vinanchiarachi">
+    <dbo:occupation rdf:resource="http://dbpedia.org/resource/United_Nations" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/United_Nations_General_Assembly_presidential_election,_2016">
+    <dbo:country rdf:resource="http://dbpedia.org/resource/United_Nations" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Security_Council_criticism">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/United_Nations" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/UN_inaction_on_genocide_and_human_rights">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/United_Nations" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Shanthi_Ranganathan">
+    <dbo:award rdf:resource="http://dbpedia.org/resource/United_Nations" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/United_Nations_Security_Council_election,_2023">
+    <dbo:country rdf:resource="http://dbpedia.org/resource/United_Nations" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/United_Nations_Security_Council_election,_2024">
+    <dbo:country rdf:resource="http://dbpedia.org/resource/United_Nations" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/United_nation_organization">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/United_Nations" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Customer_Protection_and_End_User_Relief_Act">
+    <dbp:agenciesaffected rdf:resource="http://dbpedia.org/resource/United_Nations" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tsunami_Warning,_Education,_and_Research_Act_of_2014">
+    <dbp:agenciesaffected rdf:resource="http://dbpedia.org/resource/United_Nations" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Organizacion_de_las_Naciones_Unidas">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/United_Nations" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Organización_de_las_Naciones_Unidas">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/United_Nations" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/United_Nations_Publications">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/United_Nations" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Department_of_State_Operations_and_Embassy_Security_Authorization_Act,_Fiscal_Year_2014">
+    <dbp:agenciesaffected rdf:resource="http://dbpedia.org/resource/United_Nations" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/U_N">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/United_Nations" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/United_Nations">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/United_Nations" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/H.R._301_(113th_Congress)">
+    <dbp:agenciesaffected rdf:resource="http://dbpedia.org/resource/United_Nations" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/It&#39;s_your_world!">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/United_Nations" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/UNited_Nations">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/United_Nations" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Untied_Nations">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/United_Nations" />
+  </rdf:Description>
+</rdf:RDF>

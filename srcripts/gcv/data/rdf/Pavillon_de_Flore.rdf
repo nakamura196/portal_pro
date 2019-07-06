@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:dct="http://purl.org/dc/terms/"
+	xmlns:dbo="http://dbpedia.org/ontology/"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:prov="http://www.w3.org/ns/prov#"
+	xmlns:georss="http://www.georss.org/georss/" >
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Pavilion_de_flore">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Pavillon_de_Flore" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Pavillon_de_flore">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Pavillon_de_Flore" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Pavilon_de_flore">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Pavillon_de_Flore" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Pavillon">
+    <dbo:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/Pavillon_de_Flore" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Pavillon_de_Flore">
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Object100002684" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatHousesCompletedIn1868" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Whole100003553" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Housing103546340" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PhysicalEntity100001930" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/House103544360" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatHousesCompletedIn1610" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Dwelling103259505" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Building102913152" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatBuildingsAndStructuresInParis" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Artifact100021939" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoGeoEntity" />
+    <rdf:type rdf:resource="http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoPermanentlyLocatedEntity" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Structure104341686" />
+    <rdfs:label xml:lang="fr">Pavillon de Flore</rdfs:label>
+    <rdfs:label xml:lang="en">Pavillon de Flore</rdfs:label>
+    <rdfs:comment xml:lang="fr">Le pavillon de Flore est un élément du Palais du Louvre, qui faisait partie autrefois du palais des Tuileries, à Paris. Il constitue aujourd&#39;hui, comme pendant du Pavillon de Marsan, l&#39;extrémité du Louvre. Le pavillon de Flore est aujourd&#39;hui relié au reste du palais par l&#39;Aile de Flore. C&#39;est par lui que l&#39;on découvre le Louvre lorsque l&#39;on remonte la Seine. Le pavillon tire son nom du groupe Le Triomphe de Flore sculpté par Carpeaux qui fait face au pont Royal.</rdfs:comment>
+    <rdfs:comment xml:lang="en">The Pavillon de Flore, part of the Palais du Louvre in Paris, France, stands at the southwest end of the Louvre, near the Pont Royal. It was originally constructed in 1607–1610, during the reign of Henry IV, as the corner pavilion between the Tuileries Palace to the north and the Louvre&#39;s Grande Galerie to the east. The pavilion was entirely redesigned and rebuilt by Hector Lefuel in 1864–1868 in a highly decorated Second Empire Neo-Baroque style. The most famous sculpture on the exterior of the Louvre, Jean-Baptiste Carpeaux&#39;s The Triumph of Flora, was added below the central pediment of the south facade at this time. The Tuileries Palace was destroyed by fire in 1871, and a north facade, similar to the south facade, was added to the pavilion by Lefuel in 1874–1879. Currently, the Pavillo</rdfs:comment>
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q3373064" />
+    <owl:sameAs rdf:resource="http://fr.dbpedia.org/resource/Pavillon_de_Flore" />
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Pavillon_de_Flore" />
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q3373064" />
+    <owl:sameAs rdf:resource="http://yago-knowledge.org/resource/Pavillon_de_Flore" />
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.03gtbh1" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Louvre_Palace" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Houses_completed_in_1610" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Houses_completed_in_1868" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Buildings_and_structures_in_Paris" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:1610_establishments_in_France" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:French_Revolution" />
+    <dbo:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">14694073</dbo:wikiPageID>
+    <dbo:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">742685854</dbo:wikiPageRevisionID>
+    <dbo:wikiPageExternalLink rdf:resource="http://fr.structurae.de/structures/data/index.cfm?id=s0007378" />
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#float">48.8611</geo:lat>
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#float">2.33056</geo:long>
+    <foaf:depiction rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Pavillon_de_Flore_Tuileries_Louvre_(adjusted).jpg" />
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Pavillon_de_Flore" />
+    <geo:geometry rdf:datatype="http://www.openlinksw.com/schemas/virtrdf#Geometry">POINT(2.3305554389954 48.861110687256)</geo:geometry>
+    <dbo:thumbnail rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Pavillon_de_Flore_Tuileries_Louvre_(adjusted).jpg?width=300" />
+    <prov:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Pavillon_de_Flore?oldid=742685854" />
+    <dbo:abstract xml:lang="en">The Pavillon de Flore, part of the Palais du Louvre in Paris, France, stands at the southwest end of the Louvre, near the Pont Royal. It was originally constructed in 1607–1610, during the reign of Henry IV, as the corner pavilion between the Tuileries Palace to the north and the Louvre&#39;s Grande Galerie to the east. The pavilion was entirely redesigned and rebuilt by Hector Lefuel in 1864–1868 in a highly decorated Second Empire Neo-Baroque style. The most famous sculpture on the exterior of the Louvre, Jean-Baptiste Carpeaux&#39;s The Triumph of Flora, was added below the central pediment of the south facade at this time. The Tuileries Palace was destroyed by fire in 1871, and a north facade, similar to the south facade, was added to the pavilion by Lefuel in 1874–1879. Currently, the Pavillon de Flore is part of the Musée du Louvre.</dbo:abstract>
+    <dbo:abstract xml:lang="fr">Le pavillon de Flore est un élément du Palais du Louvre, qui faisait partie autrefois du palais des Tuileries, à Paris. Il constitue aujourd&#39;hui, comme pendant du Pavillon de Marsan, l&#39;extrémité du Louvre. Le pavillon de Flore est aujourd&#39;hui relié au reste du palais par l&#39;Aile de Flore. C&#39;est par lui que l&#39;on découvre le Louvre lorsque l&#39;on remonte la Seine. Le pavillon tire son nom du groupe Le Triomphe de Flore sculpté par Carpeaux qui fait face au pont Royal.</dbo:abstract>
+    <georss:point>48.861111111111114 2.3305555555555557</georss:point>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Pavillon_de_Flore">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Pavillon_de_Flore" />
+  </rdf:Description>
+</rdf:RDF>

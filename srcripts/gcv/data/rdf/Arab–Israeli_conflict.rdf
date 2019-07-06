@@ -1,0 +1,344 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:dct="http://purl.org/dc/terms/"
+	xmlns:dbo="http://dbpedia.org/ontology/"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:prov="http://www.w3.org/ns/prov#"
+	xmlns:dbp="http://dbpedia.org/property/" >
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Israeli–Palestinian_conflict">
+    <dbo:isPartOfMilitaryConflict rdf:resource="http://dbpedia.org/resource/Arab–Israeli_conflict" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Six-Day_War">
+    <dbo:isPartOfMilitaryConflict rdf:resource="http://dbpedia.org/resource/Arab–Israeli_conflict" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Suez_Crisis">
+    <dbo:isPartOfMilitaryConflict rdf:resource="http://dbpedia.org/resource/Arab–Israeli_conflict" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yom_Kippur_War">
+    <dbo:isPartOfMilitaryConflict rdf:resource="http://dbpedia.org/resource/Arab–Israeli_conflict" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Washington_Report_on_Middle_East_Affairs">
+    <dbo:genre rdf:resource="http://dbpedia.org/resource/Arab–Israeli_conflict" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/1948_Palestine_war">
+    <dbo:isPartOfMilitaryConflict rdf:resource="http://dbpedia.org/resource/Arab–Israeli_conflict" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Arab-Israeli_war">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Arab–Israeli_conflict" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Arab-israeli_conflict">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Arab–Israeli_conflict" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/ISU-152">
+    <dbo:usedInWar rdf:resource="http://dbpedia.org/resource/Arab–Israeli_conflict" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Israeli-Arab_Wars">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Arab–Israeli_conflict" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Arab-Israeli_peace">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Arab–Israeli_conflict" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Aṣ-Ṣirāʿ_al-ʿArabī_al-&#39;Isrā&#39;īlī">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Arab–Israeli_conflict" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/J_Street_U">
+    <dbp:focus rdf:resource="http://dbpedia.org/resource/Arab–Israeli_conflict" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Arab_israeli_conflict">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Arab–Israeli_conflict" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Arab-Jewish_tensions">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Arab–Israeli_conflict" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Arab-Israeli_conflict">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Arab–Israeli_conflict" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Israel_Policy_Forum">
+    <dbp:focus rdf:resource="http://dbpedia.org/resource/Arab–Israeli_conflict" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/J_Street">
+    <dbp:focus rdf:resource="http://dbpedia.org/resource/Arab–Israeli_conflict" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Arab–Israeli_conflict">
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Wikicat21st-centuryConflicts" />
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Act100030358" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Abstraction100002137" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Wikicat20th-centuryConflicts" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoPermanentlyLocatedEntity" />
+    <rdf:type rdf:resource="http://schema.org/Event" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q1656682" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/SocietalEvent" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Event" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/MilitaryConflict" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Conflict100958896" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/GroupAction101080366" />
+    <rdf:type rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Event" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PsychologicalFeature100023100" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Event100029378" />
+    <rdfs:label xml:lang="pl">Konflikt izraelsko-arabski</rdfs:label>
+    <rdfs:label xml:lang="pt">Conflito árabe-israelense</rdfs:label>
+    <rdfs:label xml:lang="ru">Арабо-израильский конфликт</rdfs:label>
+    <rdfs:label xml:lang="es">Conflicto árabe-israelí</rdfs:label>
+    <rdfs:label xml:lang="de">Nahostkonflikt</rdfs:label>
+    <rdfs:label xml:lang="en">Arab–Israeli conflict</rdfs:label>
+    <rdfs:label xml:lang="it">Conflitto arabo-israeliano</rdfs:label>
+    <rdfs:label xml:lang="fr">Conflit israélo-arabe</rdfs:label>
+    <rdfs:label xml:lang="nl">Arabisch-Israëlisch conflict</rdfs:label>
+    <rdfs:label xml:lang="zh">阿以冲突</rdfs:label>
+    <rdfs:label xml:lang="ja">中東戦争</rdfs:label>
+    <rdfs:label xml:lang="ar">الصراع العربي الإسرائيلي</rdfs:label>
+    <rdfs:comment xml:lang="zh">阿拉伯-以色列衝突（阿拉伯语：الصراع العربي الإسرائيلي‎、Aṣ-Ṣirāʿ al-ʿArabī al-&#39;Isrā&#39;īlī，希伯来语：הסכסוך הישראלי-ערבי‎、HaSikhsukh HaYisre&#39;eli-Aravi）是指在以色列和阿拉伯諸國之間已持續超過一個世紀的政治和軍事對抗，爭執的直接起因可能是受錫安主義成形之後的猶太人大量移民、1948年的以色列建國和泛阿拉伯主義的影響。自鄂圖曼帝國瓦解後，兩方便因政治和民族主義的關係而對於巴勒斯坦地區的擁有權爭執不下。數十年以降，雙方的對抗已從大規模的中東戰爭轉變成較地區性的以巴衝突，但仍偶有武裝對抗事件發生。</rdfs:comment>
+    <rdfs:comment xml:lang="pl">Konflikt izraelsko-arabski (arab. الصراع العربي الإسرائيلي, hebr. הסכסוך הישראלי ערבי) – obejmuje okres ponad pół wieku politycznych napięć i jawnych niechęci pomiędzy Arabami a Żydami na Bliskim Wschodzie. Swoimi przyczynami wybiega on na dużo wcześniej przed powstaniem państwa Izrael (14 maja 1948) do czasu utworzenia ruchu syjonistycznego, którego celem było stworzenie państwa żydowskiego w tak zwanej Ziemi Izraela.</rdfs:comment>
+    <rdfs:comment xml:lang="de">Als Nahostkonflikt bezeichnet man den Konflikt um die Region Palästina, der dort zu Beginn des 20. Jahrhunderts zwischen Juden und Arabern entstand. Er führte zu acht Kriegen zwischen dem am 14. Mai 1948 gegründeten Staat Israel und einigen seiner Nachbarstaaten (israelisch-arabischer Konflikt) sowie zu zahlreichen bewaffneten Auseinandersetzungen zwischen Israelis und Palästinensern (israelisch-palästinensischer Konflikt). Der internationale Konflikt in der Region dauert bis heute an.</rdfs:comment>
+    <rdfs:comment xml:lang="ar">الصراع العربي الإسرائيلي (بالعبرية : הסכסוך הישראלי ערבי) هو اسم يشير لمجمل الأزمات السياسية والإنسانية للسكان المحليين في فلسطين مع دولة إسرائيل، والنزاعات الإقليمية للكيانات والدول المجاورة ووعموم الدول والكيانات العربية مع إسرائيل. حيث طرحت الأمم المتحدة إنشاء دولة لليهود في نهاية الأربعينات في فلسطين وهي منطقة يسكنها فلسطينيون عرب كانت تقع حتى ذلك الحين تحت الإنتداب البريطاني وتشكل مقصدا لهجرة حركة قوميّة يهودية (الحركة الصهيونية)، ويحيط بها 4 دول عربية - لبنان وسوريا والأردن ومصر. سعت هذه الحركة لإنشاء دولة لها في حرب طردت فيها سكان فلسطين الموجودين في أرضها وأوجدت دولة إسرائيل بإعلان الإستقلال لحظة انسحاب البريطانيين عام 1948، وأدى هذا الوجود إلى صدام مستمر وحروب متكررة بين إسرائيل وذلك المحيط العربي.</rdfs:comment>
+    <rdfs:comment xml:lang="es">El conflicto árabe-israelí (en árabe: الصراع العربي الإسرائيلي Al-Sira&#39;a Al&#39;Arabi A&#39;Israili; en hebreo: הסכסוך הישראלי-ערבי Ha&#39;Sikhsukh Ha&#39;Yisraeli-Aravi) se refiere a la tensión política y los conflictos armados entre el Estado de Israel y sus vecinos árabes, en particular los palestinos.</rdfs:comment>
+    <rdfs:comment xml:lang="it">Il conflitto arabo-israeliano (in arabo: الصراع العربي الإسرائيلي‎, al-Ṣirāʿ al-ʿarabī al-isrāʾīlī, in ebraico: הסכסוך הישראלי-ערבי‎?, ha-sikhsukh ha-israeli-aravi) è un conflitto politico-militare che vede contrapposti lo Stato di Israele da una parte e i palestinesi e gli Stati arabi circostanti dall&#39;altra.</rdfs:comment>
+    <rdfs:comment xml:lang="nl">Het Arabisch-Israëlisch conflict, ook wel het Israëlisch-Arabisch conflict genoemd, is een vaak gebruikte aanduiding voor de onenigheid die bestaat tussen Israël en omringende Arabische landen en daarbij betrokken volkeren en organisaties. Het kernprobleem in dit conflict is de zogeheten Palestijnse kwestie, waarbij het gaat om de kwestie of  het grondgebied van het Britse Mandaatgebied Palestina ten westen van de Jordaan toebehoort aan de (overwegend islamitische) Arabische Palestijnen, aan de (overwegend joodse) Israëliërs of dat er twee staten dienen te komen, voor elke groep één (de Tweestatenoplossing) en zo ja, hoe dat dan gerealiseerd kan worden.</rdfs:comment>
+    <rdfs:comment xml:lang="ja">中東戦争（ちゅうとうせんそう アラビア語: الصراع العربي الإسرائيلي Al-Sira&#39;a Al&#39;Arabi A&#39;Israili、ヘブライ語: הסכסוך הישראלי-ערבי Ha&#39;Sikhsukh Ha&#39;Yisraeli-Aravi、英語: Arab–Israeli conflict）は、ユダヤ人国家イスラエルと周辺アラブ国家との間での戦争である。1948年から1973年までの間に大規模な戦争が4度起こっており、それぞれが第一次から第四次に分類されている。 アメリカ・イギリス・フランスがイスラエルに、ソ連がアラブ側に対して支援や武器供給を行っていることから、代理戦争の側面も含んでいる。ただしイデオロギーよりは中東地域による利権や武器売買などの経済的な動機が重きを占めていた。そのため初期にイスラエルに支援や武器供給を行なっていたイギリス・フランスは第3次中東戦争以降石油政策などからアラブ側に回り、さらに中華人民共和国やイラン革命後のイランが武器供給や軍事支援においてアラブ側に入り込むなど、大国や周辺諸国の思惑の入り混じる戦争でもある。 また双方の宗教の聖地であるエルサレム、ヘブロンなどの帰属問題の絡んだ宗教戦争の側面もある。</rdfs:comment>
+    <rdfs:comment xml:lang="fr">Le conflit israélo-arabe est le nom donné aux relations tendues entre l&#39;État d&#39;Israël et les États arabes environnants, depuis la création d&#39;Israël le 14 mai 1948. Il a eu pour points d&#39;orgue sept conflits armés : la guerre de 1948, la guerre de Suez en 1956, la guerre des Six Jours en 1967, la guerre d&#39;usure en 1967, la guerre du Kippour en 1973, la première guerre du Liban en 1982, et la seconde guerre du Liban en 2006.</rdfs:comment>
+    <rdfs:comment xml:lang="ru">Арабо-израильский конфликт — противостояние между рядом арабских стран, а также арабскими военизированными радикальными группировками, поддерживаемыми частью коренного арабского населения подконтрольных Израилю палестинских территорий, с одной стороны, и сионистским движением, а затем и Государством Израиль, с другой. Хотя Государство Израиль было создано только в 1948 году, фактически история конфликта охватывает около столетия, начиная с конца XIX века, когда было создано политическое сионистское движение, положившее начало борьбе евреев за собственное государство.</rdfs:comment>
+    <rdfs:comment xml:lang="pt">O conflito árabe-israelense (português brasileiro) ou conflito israelo-árabe (português europeu) é um longo conflito no Oriente Médio. Ocorre desde o fim do século XIX, tendo se tornado um assunto de importância em nível internacional a partir do colapso do Império Otomano em 1917. Marcos importantes para o desenrolar deste conflito foram a autodeterminação do Estado de Israel e o relacionamento deste último Estado com seus vizinhos árabes, especialmente em relação ao povo palestino, por reivindicarem as mesmas terras.</rdfs:comment>
+    <rdfs:comment xml:lang="en">The Arab–Israeli conflict (Arabic: الصراع العربي الإسرائيلي‎‎ Al-Sira&#39;a Al&#39;Arabi A&#39;Israili; Hebrew: הסכסוך הישראלי-ערבי‎‎ Ha&#39;Sikhsukh Ha&#39;Yisraeli-Aravi) refers to the political tension, military conflicts and disputes between a number of Arab countries and Israel. The roots of the modern Arab–Israeli conflict are bound in the rise of Zionism and Arab nationalism towards the end of the 19th century. Territory regarded by the Jewish people as their historical homeland is also regarded by the Pan-Arab movement as historically and currently belonging to the Palestinians, and in the Pan-Islamic context, as Muslim lands. The sectarian conflict between Palestinian Jews and Arabs emerged in the early 20th century, peaking into a full-scale civil war in 1947 and transforming into the First Arab–Isr</rdfs:comment>
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Arab_League_boycott_of_Israel" />
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Bibliography_of_the_Arab–Israeli_conflict" />
+    <owl:sameAs rdf:resource="http://cs.dbpedia.org/resource/Arabsko-izraelský_konflikt" />
+    <owl:sameAs rdf:resource="http://ko.dbpedia.org/resource/중동_전쟁" />
+    <owl:sameAs rdf:resource="http://eu.dbpedia.org/resource/Arabiar–israeldar_gatazka" />
+    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/Nahostkonflikt" />
+    <owl:sameAs rdf:resource="http://nl.dbpedia.org/resource/Arabisch-Israëlisch_conflict" />
+    <owl:sameAs rdf:resource="http://it.dbpedia.org/resource/Conflitto_arabo-israeliano" />
+    <owl:sameAs rdf:resource="http://yago-knowledge.org/resource/Arab–Israeli_conflict" />
+    <owl:sameAs rdf:resource="http://fr.dbpedia.org/resource/Conflit_israélo-arabe" />
+    <owl:sameAs rdf:resource="http://ja.dbpedia.org/resource/中東戦争" />
+    <owl:sameAs rdf:resource="http://el.dbpedia.org/resource/Αραβοϊσραηλινή_σύγκρουση" />
+    <owl:sameAs rdf:resource="http://es.dbpedia.org/resource/Conflicto_árabe-israelí" />
+    <owl:sameAs rdf:resource="http://pt.dbpedia.org/resource/Conflito_árabe-israelense" />
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Arab–Israeli_conflict" />
+    <owl:sameAs rdf:resource="http://pl.dbpedia.org/resource/Konflikt_izraelsko-arabski" />
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q8669" />
+    <owl:sameAs rdf:resource="http://d-nb.info/gnd/4041158-8" />
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Arab–Israeli_conflict" />
+    <owl:sameAs rdf:resource="http://id.dbpedia.org/resource/Konflik_Arab-Israel" />
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.012d8" />
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q8669" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Arab–Israeli_conflict" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Ongoing_conflicts" />
+    <dbo:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">7960202</dbo:wikiPageID>
+    <dbo:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">745244539</dbo:wikiPageRevisionID>
+    <dbo:wikiPageExternalLink rdf:resource="http://factsofisrael.com/blog/index.php" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.FocusOnMideast.com/" />
+    <dbo:wikiPageExternalLink rdf:resource="http://ucblibraries.colorado.edu/govpubs/us/arabisrael.htm" />
+    <dbo:wikiPageExternalLink rdf:resource="http://historyteacher.net/Arab-Israeli_Conflict.htm" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.mofa.gov.ps/" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.israel-palaestina.de/" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.ynetnews.com/" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.acpr.org.il/" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.acpr.org.il/ENGLISH-NATIV/05-issue/shapiro-5.htm" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.brookings.edu/saban.aspx" />
+    <dbo:wikiPageExternalLink rdf:resource="http://news.bbc.co.uk/1/hi/in_depth/middle_east/2001/israel_and_the_palestinians/default.stm" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.jiis.org/" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.ipcri.org/" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.haaretz.com/" />
+    <dbo:wikiPageExternalLink rdf:resource="https://web.archive.org/web/20120204203437/http:/diplomacymonitor.com/stu/dm.nsf/issued?openform&amp;cat=Middle_East" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.washingtoninstitute.org/" />
+    <dbo:wikiPageExternalLink rdf:resource="http://repository.library.georgetown.edu/handle/10822/552494/browse?type=title" />
+    <dbo:wikiPageExternalLink rdf:resource="http://repository.library.georgetown.edu/handle/10822/552621" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.mfa.gov.il/MFA/Terrorism-+Obstacle+to+Peace/Palestinian+terror+since+2000/Victims+of+Palestinian+Violence+and+Terrorism+sinc.htm" />
+    <dbo:wikiPageExternalLink rdf:resource="http://web.uconn.edu/polisci/people/faculty/doc/history_pressman.pdf" />
+    <dbo:wikiPageExternalLink rdf:resource="http://encarta.msn.com/encyclopedia_761588322/Arab-Israeli_Conflict.html" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.ynet.co.il/" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.webcitation.org/5kwKbDDCn" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.jnewswire.com/" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.ngo-monitor.org/" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.zeithistorische-forschungen.de/1-2005/id=4495" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.mideastweb.org/peaceplans.htm" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.mideastweb.org/maps.htm" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.merip.org/" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.cfr.org/publication/13850/" />
+    <dbo:wikiPageExternalLink rdf:resource="http://weekly.ahram.org.eg/" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.guardian.co.uk/flash/0,5860,720353,00.html" />
+    <dbo:wikiPageExternalLink rdf:resource="http://jewishhistory.huji.ac.il/Internetresources/modern/israelindex.htm" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.mfa.gov.il/mfa" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.memri.org/conflict.html" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.jpost.com/" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.passia.org/index_pfacts.htm" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.palestinechronicle.com/" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.arableagueonline.org/" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.lib.utexas.edu/maps/middle_east.html" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.jcpa.org/" />
+    <dbo:wikiPageExternalLink rdf:resource="https://web.archive.org/web/20070109191230/https:/www.ipsnews.net/new_focus/israel_palestina/index.asp" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.dailystar.com.lb/" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.un.org/Depts/dpa/qpal/" />
+    <foaf:name xml:lang="en">Arab–Israeli conflict</foaf:name>
+    <foaf:depiction rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Arab-Israeli_Conflict_Key_Players.svg" />
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Arab–Israeli_conflict" />
+    <dbo:thumbnail rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Arab-Israeli_Conflict_Key_Players.svg?width=300" />
+    <prov:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Arab–Israeli_conflict?oldid=745244539" />
+    <dbo:abstract xml:lang="ar">الصراع العربي الإسرائيلي (بالعبرية : הסכסוך הישראלי ערבי) هو اسم يشير لمجمل الأزمات السياسية والإنسانية للسكان المحليين في فلسطين مع دولة إسرائيل، والنزاعات الإقليمية للكيانات والدول المجاورة ووعموم الدول والكيانات العربية مع إسرائيل. حيث طرحت الأمم المتحدة إنشاء دولة لليهود في نهاية الأربعينات في فلسطين وهي منطقة يسكنها فلسطينيون عرب كانت تقع حتى ذلك الحين تحت الإنتداب البريطاني وتشكل مقصدا لهجرة حركة قوميّة يهودية (الحركة الصهيونية)، ويحيط بها 4 دول عربية - لبنان وسوريا والأردن ومصر. سعت هذه الحركة لإنشاء دولة لها في حرب طردت فيها سكان فلسطين الموجودين في أرضها وأوجدت دولة إسرائيل بإعلان الإستقلال لحظة انسحاب البريطانيين عام 1948، وأدى هذا الوجود إلى صدام مستمر وحروب متكررة بين إسرائيل وذلك المحيط العربي.</dbo:abstract>
+    <dbo:abstract xml:lang="de">Als Nahostkonflikt bezeichnet man den Konflikt um die Region Palästina, der dort zu Beginn des 20. Jahrhunderts zwischen Juden und Arabern entstand. Er führte zu acht Kriegen zwischen dem am 14. Mai 1948 gegründeten Staat Israel und einigen seiner Nachbarstaaten (israelisch-arabischer Konflikt) sowie zu zahlreichen bewaffneten Auseinandersetzungen zwischen Israelis und Palästinensern (israelisch-palästinensischer Konflikt). Der internationale Konflikt in der Region dauert bis heute an.</dbo:abstract>
+    <dbo:abstract xml:lang="es">El conflicto árabe-israelí (en árabe: الصراع العربي الإسرائيلي Al-Sira&#39;a Al&#39;Arabi A&#39;Israili; en hebreo: הסכסוך הישראלי-ערבי Ha&#39;Sikhsukh Ha&#39;Yisraeli-Aravi) se refiere a la tensión política y los conflictos armados entre el Estado de Israel y sus vecinos árabes, en particular los palestinos. Su definición, historia y posibles soluciones son materia de permanente debate y los problemas que incluye varían con el tiempo. Al día de hoy, las principales cuestiones son la soberanía de la Franja de Gaza y Cisjordania, el estatus de la parte oriental de Jerusalén, de los Altos del Golán y de las Granjas de Shebaa, el destino de los asentamientos israelíes y de los refugiados palestinos, el reconocimiento de Israel y Palestina y de su derecho a existir y vivir en paz al abrigo de amenazas y actos de fuerza, así como la relación de Israel con Siria y el Líbano. Actualmente Israel tiene tratados de paz vigentes con Egipto y Jordania que garantizan su convivencia. Asimismo, tiene tratados de alto el fuego firmados con el Líbano, Siria y Arabia Saudí que, si bien no reconocen la existencia de Israel, sí que han supuesto en la práctica un mecanismo eficaz para el cese de las hostilidades. También existe un complejo acuerdo con Palestina, que supone el establecimiento de una especie de protectorado israelí sobre zona palestina y un alto el fuego parcial.</dbo:abstract>
+    <dbo:abstract xml:lang="fr">Le conflit israélo-arabe est le nom donné aux relations tendues entre l&#39;État d&#39;Israël et les États arabes environnants, depuis la création d&#39;Israël le 14 mai 1948. Il a eu pour points d&#39;orgue sept conflits armés : la guerre de 1948, la guerre de Suez en 1956, la guerre des Six Jours en 1967, la guerre d&#39;usure en 1967, la guerre du Kippour en 1973, la première guerre du Liban en 1982, et la seconde guerre du Liban en 2006. Ce conflit occupe une place majeure dans la géopolitique du Proche-Orient, où plusieurs problématiques l&#39;accompagnent : l&#39;instabilité de la région (à cause de la non-reconnaissance de l&#39;État d&#39;Israël par la majorité des pays arabes), le contrôle par Israël des lieux saints de Jérusalem (ville sacrée des trois monothéismes), les colonies israéliennes de la Cisjordanie et du Golan, et le contrôle par Israël du bassin du lac de Tibériade (importante ressource d&#39;eau potable). Le conflit israélo-arabe est parallèle et en partie lié au conflit israélo-palestinien, caractérisé par la question des réfugiés palestiniens, par l&#39;exacerbation du sentiment national palestinien (né dans les années 1920 mais jamais concrétisé par la création d&#39;un État) et par l&#39;apparition à la fin des années 1960 de groupes activistes palestiniens perpétrant attentats, prises d&#39;otages et détournements d&#39;avions.</dbo:abstract>
+    <dbo:abstract xml:lang="pt">O conflito árabe-israelense (português brasileiro) ou conflito israelo-árabe (português europeu) é um longo conflito no Oriente Médio. Ocorre desde o fim do século XIX, tendo se tornado um assunto de importância em nível internacional a partir do colapso do Império Otomano em 1917. Marcos importantes para o desenrolar deste conflito foram a autodeterminação do Estado de Israel e o relacionamento deste último Estado com seus vizinhos árabes, especialmente em relação ao povo palestino, por reivindicarem as mesmas terras. O conflito teve como resultado o começo de pelo menos cinco guerras de dimensões maiores e um número significante de conflitos armados de menores dimensões. Foi também fonte de duas Intifadas (levantamentos populares).</dbo:abstract>
+    <dbo:abstract xml:lang="it">Il conflitto arabo-israeliano (in arabo: الصراع العربي الإسرائيلي‎, al-Ṣirāʿ al-ʿarabī al-isrāʾīlī, in ebraico: הסכסוך הישראלי-ערבי‎?, ha-sikhsukh ha-israeli-aravi) è un conflitto politico-militare che vede contrapposti lo Stato di Israele da una parte e i palestinesi e gli Stati arabi circostanti dall&#39;altra. Le radici del conflitto risiedono nella nascita del sionismo e del nazionalismo palestinese verso la fine del diciannovesimo secolo. Il territorio geografico della Palestina, allora sotto il dominio turco-ottomano, era infatti considerato allo stesso tempo dal movimento sionista come patria storica del popolo ebraico e dal movimento nazionalista palestinese come territorio appartenente ai suoi abitanti arabi palestinesi. Il conflitto inter-etnico tra ebrei e arabi palestinesi nel mandato britannico della Palestina iniziò negli anni Venti del Novecento. La fase principale del conflitto su larga scala tra Israele e gli Stati arabi ebbe luogo dal 1948, anno della proclamazione dello Stato di Israele, al 1973, e fu costituita da una serie di guerre arabo-israeliane: la guerra del 1948, la guerra di Suez del 1956, la guerra dei sei giorni del 1967 e la guerra del Kippur del 1973. Accordi di pace sono stati firmati tra Israele ed Egitto nel 1979 e tra Israele e Giordania nel 1994, cosicché il conflitto si è tramutato nel corso degli anni da conflitto arabo-israeliano su larga scala a un più localizzato conflitto israelo-palestinese (anche detto questione palestinese), incentrato sul mutuo riconoscimento di sovranità e indipendenza dello Stato di Israele e dello Stato di Palestina, proclamato nel 1988 sui territori palestinesi occupati da Israele nel 1967. Anche il conflitto israelo-palestinese è stato caratterizzato da una serie di guerre tra Israele e organizzazioni palestinesi come l&#39;OLP e Hamas: la guerra del Libano del 1982, la prima e seconda Intifada e ripetute guerre nella striscia di Gaza. Nonostante gli accordi di Oslo del 1993, che hanno portato al mutuo riconoscimento tra Israele e OLP e alla creazione dell&#39;Autorità Nazionale Palestinese, e nonostante il riconoscimento dello Stato di Palestina da parte dell&#39;ONU nel 2012, un accordo di pace definitivo tra Israele e Palestina non è stato ancora raggiunto, mentre proseguono ad intermittenza sia le ostilità, sia i negoziati di pace.</dbo:abstract>
+    <dbo:abstract xml:lang="pl">Konflikt izraelsko-arabski (arab. الصراع العربي الإسرائيلي, hebr. הסכסוך הישראלי ערבי) – obejmuje okres ponad pół wieku politycznych napięć i jawnych niechęci pomiędzy Arabami a Żydami na Bliskim Wschodzie. Swoimi przyczynami wybiega on na dużo wcześniej przed powstaniem państwa Izrael (14 maja 1948) do czasu utworzenia ruchu syjonistycznego, którego celem było stworzenie państwa żydowskiego w tak zwanej Ziemi Izraela. Konflikt izraelsko-arabski ma charakter etniczny, religijny i terytorialny. Niektórzy uważają go za część wielkiego starcia cywilizacji pomiędzy Zachodem a Arabami i światem islamu. Inni uważają, że religijny wymiar jest zupełnie nowym aspektem tego konfliktu. Niezależnie od przyczyn konflikt ten jest źródłem niechęci inicjującej liczne ataki na przeciwników we wszystkich państwach na całym świecie i tym samym, poprzez powszechność zjawiska terroru, przybiera charakter konfliktu globalnego.</dbo:abstract>
+    <dbo:abstract xml:lang="zh">阿拉伯-以色列衝突（阿拉伯语：الصراع العربي الإسرائيلي‎、Aṣ-Ṣirāʿ al-ʿArabī al-&#39;Isrā&#39;īlī，希伯来语：הסכסוך הישראלי-ערבי‎、HaSikhsukh HaYisre&#39;eli-Aravi）是指在以色列和阿拉伯諸國之間已持續超過一個世紀的政治和軍事對抗，爭執的直接起因可能是受錫安主義成形之後的猶太人大量移民、1948年的以色列建國和泛阿拉伯主義的影響。自鄂圖曼帝國瓦解後，兩方便因政治和民族主義的關係而對於巴勒斯坦地區的擁有權爭執不下。數十年以降，雙方的對抗已從大規模的中東戰爭轉變成較地區性的以巴衝突，但仍偶有武裝對抗事件發生。</dbo:abstract>
+    <dbo:abstract xml:lang="ja">中東戦争（ちゅうとうせんそう アラビア語: الصراع العربي الإسرائيلي Al-Sira&#39;a Al&#39;Arabi A&#39;Israili、ヘブライ語: הסכסוך הישראלי-ערבי Ha&#39;Sikhsukh Ha&#39;Yisraeli-Aravi、英語: Arab–Israeli conflict）は、ユダヤ人国家イスラエルと周辺アラブ国家との間での戦争である。1948年から1973年までの間に大規模な戦争が4度起こっており、それぞれが第一次から第四次に分類されている。 アメリカ・イギリス・フランスがイスラエルに、ソ連がアラブ側に対して支援や武器供給を行っていることから、代理戦争の側面も含んでいる。ただしイデオロギーよりは中東地域による利権や武器売買などの経済的な動機が重きを占めていた。そのため初期にイスラエルに支援や武器供給を行なっていたイギリス・フランスは第3次中東戦争以降石油政策などからアラブ側に回り、さらに中華人民共和国やイラン革命後のイランが武器供給や軍事支援においてアラブ側に入り込むなど、大国や周辺諸国の思惑の入り混じる戦争でもある。 また双方の宗教の聖地であるエルサレム、ヘブロンなどの帰属問題の絡んだ宗教戦争の側面もある。 今でもイスラエルとアラブ諸国は犬猿の仲であり、テロは絶えず、イスラエル人は親米のサウジアラビアやクウェートやアラブ首長国連邦でさえも入国できず、国交のあるエジプトとヨルダンのみしか入国できない。パスポートにイスラエルの入国スタンプがあるだけでアラブ諸国では入国拒否される程であり、旅行者はイスラエル入国スタンプを別紙に押せば回避ができる。また、イスラエルオリンピック委員会・サッカーイスラエル代表はアジアオリンピック評議会・アジアサッカー連盟からヨーロッパオリンピック委員会・欧州サッカー連盟に移籍している。</dbo:abstract>
+    <dbo:abstract xml:lang="en">The Arab–Israeli conflict (Arabic: الصراع العربي الإسرائيلي‎‎ Al-Sira&#39;a Al&#39;Arabi A&#39;Israili; Hebrew: הסכסוך הישראלי-ערבי‎‎ Ha&#39;Sikhsukh Ha&#39;Yisraeli-Aravi) refers to the political tension, military conflicts and disputes between a number of Arab countries and Israel. The roots of the modern Arab–Israeli conflict are bound in the rise of Zionism and Arab nationalism towards the end of the 19th century. Territory regarded by the Jewish people as their historical homeland is also regarded by the Pan-Arab movement as historically and currently belonging to the Palestinians, and in the Pan-Islamic context, as Muslim lands. The sectarian conflict between Palestinian Jews and Arabs emerged in the early 20th century, peaking into a full-scale civil war in 1947 and transforming into the First Arab–Israeli War in May 1948 following the Declaration of the Establishment of the State of Israel. Large-scale hostilities mostly ended with the cease-fire agreements after the 1973 Yom Kippur War. Peace agreements were signed between Israel and Egypt in 1979, resulting in Israeli withdrawal from the Sinai Peninsula and abolishment of the military governance system in the West Bank and Gaza Strip, in favor of Israeli Civil Administration and consequent unilateral annexation of the Golan Heights and East Jerusalem. The nature of the conflict has shifted over the years from the large scale regional Arab–Israeli conflict to a more local Israeli–Palestinian conflict, peaking during the 1982 Lebanon War. The interim Oslo Accords led to the creation of the Palestinian National Authority in 1994, within the context of the Israeli-Palestinian peace process. The same year Israel and Jordan reached a peace accord. A cease-fire has been largely maintained between Israel and Baathist Syria, as well as more recently with Lebanon (since 2006). However, developments on the course of the Syrian Civil War effectively reshuffled the situation near Israeli northern border bringing Syrian Arab Republic, Hezbollah and Syrian Opposition in odds with each other and complex relations with Israel. The conflict between Israel and Hamas-ruled Gaza, which resulted in the 2014 cease-fire, is usually also included as part of the Israeli–Palestinian conflict and hence the Arab–Israeli conflict. Its 2006-2012 phase is, however, also attributed to the Iranian proxy war with Israel in the region. Since 2012, Iran has cut ties with the Sunni Hamas movement on account of the Syrian civil war. Despite the peace agreements with Egypt and Jordan, interim peace accords with Palestine and the generally existing cease-fire, the Arab world and Israel generally remain at odds with each other over many issues.</dbo:abstract>
+    <dbo:abstract xml:lang="nl">Het Arabisch-Israëlisch conflict, ook wel het Israëlisch-Arabisch conflict genoemd, is een vaak gebruikte aanduiding voor de onenigheid die bestaat tussen Israël en omringende Arabische landen en daarbij betrokken volkeren en organisaties. Het kernprobleem in dit conflict is de zogeheten Palestijnse kwestie, waarbij het gaat om de kwestie of  het grondgebied van het Britse Mandaatgebied Palestina ten westen van de Jordaan toebehoort aan de (overwegend islamitische) Arabische Palestijnen, aan de (overwegend joodse) Israëliërs of dat er twee staten dienen te komen, voor elke groep één (de Tweestatenoplossing) en zo ja, hoe dat dan gerealiseerd kan worden.</dbo:abstract>
+    <dbo:abstract xml:lang="ru">Арабо-израильский конфликт — противостояние между рядом арабских стран, а также арабскими военизированными радикальными группировками, поддерживаемыми частью коренного арабского населения подконтрольных Израилю палестинских территорий, с одной стороны, и сионистским движением, а затем и Государством Израиль, с другой. Хотя Государство Израиль было создано только в 1948 году, фактически история конфликта охватывает около столетия, начиная с конца XIX века, когда было создано политическое сионистское движение, положившее начало борьбе евреев за собственное государство. После распада Османской империи в результате её поражения в Первой мировой войне конфликт между евреями-сионистами и арабским населением Палестины сводился, главным образом, к территориальным притязаниям обеих сторон на подмандатную Палестину. В ходе накала ситуации во второй четверти XX века к геополитической составляющей добавились также религиозная и культурная, усиливающие межнациональную рознь. В 1948 году соседние арабские страны объявили войну вновь созданному еврейскому государству. Таким образом, конфликт вышел за пределы Палестины и перерос в конфликт между Израилем и всеми остальными арабскими государствами в регионе. С подписанием мирного договора с Египтом (в 1979 году) и с Иорданией (в 1994 году) число враждебных Израилю государств сократилось.В рамках крупномасштабного арабо-израильского конфликта принято выделять региональный Палестино-израильский конфликт, обусловленный, в первую очередь, столкновением территориальных интересов евреев и арабов, проживающих в Палестине. В последние годы именно этот конфликт является источником политической напряжённости и открытых вооружённых столкновений в регионе.</dbo:abstract>
+    <dbo:causalties>≈22,570 military deaths</dbo:causalties>
+    <dbo:causalties>≈1,723 civilian deaths ≈1,050 SLA militiamen deaths</dbo:causalties>
+    <dbo:combatant>*(1948–)</dbo:combatant>
+    <dbo:combatant>*(2000-05)</dbo:combatant>
+    <dbo:combatant>*</dbo:combatant>
+    <dbo:combatant>*(1948–94)</dbo:combatant>
+    <dbo:combatant>*(1948–78)</dbo:combatant>
+    <dbo:combatant>*(1964–1993)</dbo:combatant>
+    <dbo:combatant>Gaza Strip(2006–)</dbo:combatant>
+    <dbo:commander rdf:resource="http://dbpedia.org/resource/Yigael_Yadin" />
+    <dbo:commander rdf:resource="http://dbpedia.org/resource/Muhammad_Naguib" />
+    <dbo:commander rdf:resource="http://dbpedia.org/resource/Saad_El_Shazly" />
+    <dbo:commander rdf:resource="http://dbpedia.org/resource/Haj_Amin_Al-Husseini" />
+    <dbo:commander rdf:resource="http://dbpedia.org/resource/Fawzi_Al-Qawuqji" />
+    <dbo:commander rdf:resource="http://dbpedia.org/resource/Antoine_Lahad" />
+    <dbo:commander rdf:resource="http://dbpedia.org/resource/Yitzhak_Rabin" />
+    <dbo:commander rdf:resource="http://dbpedia.org/resource/Habis_al-Majali" />
+    <dbo:commander rdf:resource="http://dbpedia.org/resource/Ahmed_Ali_al-Mwawi" />
+    <dbo:commander rdf:resource="http://dbpedia.org/resource/King_Farouk_I" />
+    <dbo:commander rdf:resource="http://dbpedia.org/resource/Hasan_Salama" />
+    <dbo:commander rdf:resource="http://dbpedia.org/resource/Ahmad_Ali_al-Mwawi" />
+    <dbo:commander rdf:resource="http://dbpedia.org/resource/Ehud_Barak" />
+    <dbo:commander rdf:resource="http://dbpedia.org/resource/Abd_al-Qadir_al-Husayni" />
+    <dbo:commander rdf:resource="http://dbpedia.org/resource/Yaakov_Dori" />
+    <dbo:commander rdf:resource="http://dbpedia.org/resource/Saad_Haddad" />
+    <dbo:commander rdf:resource="http://dbpedia.org/resource/Ariel_Sharon" />
+    <dbo:commander rdf:resource="http://dbpedia.org/resource/John_Bagot_Glubb" />
+    <dbo:commander rdf:resource="http://dbpedia.org/resource/David_Ben-Gurion" />
+    <dbo:commander rdf:resource="http://dbpedia.org/resource/Moshe_Dayan" />
+    <dbo:commander rdf:resource="http://dbpedia.org/resource/Bachir_Gemayel" />
+    <dbo:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1948-05-15</dbo:date>
+    <dbo:place rdf:resource="http://dbpedia.org/resource/Middle_East" />
+    <dbo:result>Low-level ongoing:</dbo:result>
+    <dbo:result>*UNSC 1701</dbo:result>
+    <dbo:result>*Oslo Accords</dbo:result>
+    <dbo:result>*Egypt–Israel Peace Treaty</dbo:result>
+    <dbo:result>*Israel–Jordan peace treaty</dbo:result>
+    <dbo:territory rdf:resource="http://dbpedia.org/resource/All-Palestine_Government" />
+    <dbo:territory rdf:resource="http://dbpedia.org/resource/Golan_Heights" />
+    <dbo:territory rdf:resource="http://dbpedia.org/resource/West_Bank" />
+    <dbo:territory rdf:resource="http://dbpedia.org/resource/Jordanian_occupation_of_the_West_Bank" />
+    <dbo:territory rdf:resource="http://dbpedia.org/resource/Egypt–Israel_Peace_Treaty" />
+    <dbo:territory rdf:resource="http://dbpedia.org/resource/Oslo_Accords" />
+    <dbo:territory rdf:resource="http://dbpedia.org/resource/Gaza_Strip" />
+    <dbo:territory rdf:resource="http://dbpedia.org/resource/Egyptian_occupation_of_the_Gaza_Strip" />
+    <dbo:territory rdf:resource="http://dbpedia.org/resource/Israel–Jordan_peace_treaty" />
+    <dbo:territory rdf:resource="http://dbpedia.org/resource/Israeli_Military_Governorate" />
+    <dbo:territory rdf:resource="http://dbpedia.org/resource/Israeli_Civil_Administration" />
+    <dbo:territory rdf:resource="http://dbpedia.org/resource/Palestinian_National_Authority" />
+    <dbo:territory rdf:resource="http://dbpedia.org/resource/Gaza_City" />
+    <dbp:caption rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">The key players in the Arab–Israeli conflict</dbp:caption>
+    <dbp:casualties rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Both sides:</dbp:casualties>
+    <dbp:casualties rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">91105</dbp:casualties>
+    <dbp:casualties rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">18000</dbp:casualties>
+    <dbp:casualties rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">74000</dbp:casualties>
+    <dbp:combatant1a rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Suez Crisis: 
+* 
+*  France
+Lebanese Civil War and Aftermath:
+*Kataeb Party 
+*Free Lebanon State 
+*20px South Lebanon Army</dbp:combatant1a>
+    <dbp:date rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">February 2015</dbp:date>
+    <dbp:reason rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Article does not support that a blockade was in violation of the Armitice agreement</dbp:reason>
+    <dbp:combatant2a rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1948</dbp:combatant2a>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Arab-Israeli_Conflict">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Arab–Israeli_conflict" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Arab-Israeli_struggle">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Arab–Israeli_conflict" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Arab-Israeli_War">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Arab–Israeli_conflict" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Arab_Israeli_War">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Arab–Israeli_conflict" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Arab_Israeli_war">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Arab–Israeli_conflict" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Arab-Israeli_peace_process">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Arab–Israeli_conflict" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Arab-Israeli_dispute">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Arab–Israeli_conflict" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/1974_Suez_Canal_Clearance_Operation">
+    <dbo:isPartOfMilitaryConflict rdf:resource="http://dbpedia.org/resource/Arab–Israeli_conflict" />
+    <dbp:casus rdf:resource="http://dbpedia.org/resource/Arab–Israeli_conflict" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Arab_Israeli_Wars">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Arab–Israeli_conflict" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Arrow_(Israeli_missile)">
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Arab–Israeli_conflict" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Land_Day">
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Arab–Israeli_conflict" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Arab_Israeli_conflict">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Arab–Israeli_conflict" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Israeli-Arab_conflict">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Arab–Israeli_conflict" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/History_of_Arab-Israeli_Conflict">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Arab–Israeli_conflict" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Americans_for_Peace_Now">
+    <dbp:focus rdf:resource="http://dbpedia.org/resource/Arab–Israeli_conflict" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/As-Sira_al-Arabi_al-Israili">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Arab–Israeli_conflict" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Arab–Israeli_Conflict">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Arab–Israeli_conflict" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Israeli_Arab_conflict">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Arab–Israeli_conflict" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Fifty_Years&#39;_War">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Arab–Israeli_conflict" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Fifty_years_war">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Arab–Israeli_conflict" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Arab-Israel_conflict">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Arab–Israeli_conflict" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Arab-Israeli_conflicts">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Arab–Israeli_conflict" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Arab-Jewish_conflict">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Arab–Israeli_conflict" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/הסכסוך_הישראלי_ערבי">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Arab–Israeli_conflict" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/الصراع_العربي_الإسرائيلي">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Arab–Israeli_conflict" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Arab_Israeli_Conflict">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Arab–Israeli_conflict" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Arab–Israeli_war">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Arab–Israeli_conflict" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Arab–Israeli_conflict">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Arab–Israeli_conflict" />
+  </rdf:Description>
+</rdf:RDF>

@@ -1,0 +1,2282 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:dct="http://purl.org/dc/terms/"
+	xmlns:dbo="http://dbpedia.org/ontology/"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:dbp="http://dbpedia.org/property/"
+	xmlns:prov="http://www.w3.org/ns/prov#"
+	xmlns:ns8="http://dbpedia.org/property/country/"
+	xmlns:ns9="http://purl.org/linguistics/gold/" >
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Formula_One:_Built_to_Win">
+    <dbo:genre rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Formula_One_(disambiguation)">
+    <dbo:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Rob_Smedley">
+    <dbp:sport rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Brawn_BGP_001">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Aintree_Motor_Racing_Circuit">
+    <dbp:recordClass rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Peter_Elleray">
+    <dbo:knownFor rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Williams_FW31">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Patrick_Head">
+    <dbo:occupation rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/F1-X_Dubai">
+    <dbp:theme rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ferrari_F1-2000">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/McLaren_MP4/1">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Renault_R25">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Simon_Rennie">
+    <dbo:knownFor rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tyrrell_017">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Zakspeed_881">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/BRM_P115">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/BRM_P25">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ligier_JS21">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ligier_JS23">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ligier_JS31">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/March_CG891">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tyrrell_021">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/BRM_P61">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ferrari_312T">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Crystal_Palace_circuit">
+    <dbp:events rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mark_Preston">
+    <dbo:knownFor rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Toyota_TF106">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Williams_FW14">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ferrari_SF15-T">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Forti_FG01">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ferrari_F2008">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/BMW_Sauber_F1.08">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lola_T97/30">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Formula_One_Champion">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/F1_Grand_Prix:_Nakajima_Satoru">
+    <dbo:genre rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/F1_Pole_Position_2">
+    <dbo:genre rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/AGS_JH23">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tony_Jardine">
+    <dbo:knownFor rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Dallara_F189">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Larrousse_LH94">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Leyton_House_CG911">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lola_LC87">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lola_LC88">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sauber_C13">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Toro_Rosso_STR3">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Toro_Rosso_STR4">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Toyota_TF108">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gordon_Coppuck">
+    <dbo:knownFor rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Steve_Hallam">
+    <dbp:sport rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Satoru_Nakajima_F-1_Hero_GB_World_Championship_&#39;91">
+    <dbo:genre rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Wolf_WR5">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Benetton_B196">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/ATS_D5">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Arrows_A10">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Arrows_A11">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Arrows_A5">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Arrows_A7">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Arrows_FA1">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Surtees_TS16">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Surtees_TS20">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Surtees_TS9">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tyrrell_DG016">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Williams_FW09">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Williams_FW12">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Williams_FW13">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/BRM_P139">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Minardi_M190">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Buddh_International_Circuit">
+    <dbp:recordClass rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Christijan_Albers">
+    <dbp:prevSeries rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Circuit_Bremgarten">
+    <dbp:events rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/James_Key_(Formula_One)">
+    <dbo:occupation rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/One_(disambiguation)">
+    <dbo:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Takuma_Sato">
+    <dbp:prevSeries rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Adelaide_Street_Circuit">
+    <dbp:recordClass rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Autódromo_Hermanos_Rodríguez">
+    <dbp:recordClass rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Autódromo_Juan_y_Oscar_Gálvez">
+    <dbp:recordClass rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Intercity_Istanbul_Park">
+    <dbp:events rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nivelles-Baulers">
+    <dbp:recordClass rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Red_Bull_Ring">
+    <dbp:events rdf:resource="http://dbpedia.org/resource/Formula_One" />
+    <dbp:recordClass rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Reims-Gueux">
+    <dbp:recordClass rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Rouen-Les-Essarts">
+    <dbp:recordClass rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sam_Michael">
+    <dbo:knownFor rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ferrari_126C">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Williams_FW18">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lotus_21">
+    <dbo:class rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/McLaren_MP4/12">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lotus_107">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lotus_112">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/ATS_D6">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Arrows_A8">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Renault_RE40">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Benetton_B199">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jordan_EJ10">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jordan_EJ11">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jordan_EJ14">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lotus_91">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/McLaren_MP4/14">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/McLaren_MP4/15">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Minardi_M02">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Prost_AP03">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Williams_FW21">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Minardi_PS05">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jordan_EJ15">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Williams_FW10">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/BRM_P133">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Benetton_B186">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Renault_RE20">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Renault_RE50">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Renault_RE60">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Honda_RA301">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Honda_RA302">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/March_881">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/BRM_P138">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Benetton_B188">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Benetton_B189">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Brabham_BT26">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Dallara_F191">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Zakspeed_861">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ferrari_246P">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Footwork_FA14">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ligier_JS25">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ligier_JS29">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ligier_JS33">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ligier_JS35">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Minardi_M186">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Minardi_M187">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Minardi_M189">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Minardi_M192">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Spirit_201">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Toleman_TG185">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tyrrell_002">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tyrrell_004">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Formula_One">
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatMotorsportCompetitions" />
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Statement106722453" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Message106598915" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/SocialEvent107288639" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatRallyGroups" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/MathematicalStatement106732169" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Event100029378" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Championship107457834" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Contest107456188" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Formula106731802" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatRacingFormulas" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Group100031264" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Abstraction100002137" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PsychologicalFeature100023100" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoPermanentlyLocatedEntity" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Communication100033020" />
+    <rdfs:label xml:lang="fr">Formule 1</rdfs:label>
+    <rdfs:label xml:lang="pl">Formuła 1</rdfs:label>
+    <rdfs:label xml:lang="en">Formula One</rdfs:label>
+    <rdfs:label xml:lang="ar">فورمولا 1</rdfs:label>
+    <rdfs:label xml:lang="nl">Formule 1</rdfs:label>
+    <rdfs:label xml:lang="zh">一级方程式赛车</rdfs:label>
+    <rdfs:label xml:lang="de">Formel 1</rdfs:label>
+    <rdfs:label xml:lang="es">Fórmula 1</rdfs:label>
+    <rdfs:label xml:lang="ru">Формула-1</rdfs:label>
+    <rdfs:label xml:lang="pt">Fórmula 1</rdfs:label>
+    <rdfs:label xml:lang="it">Formula 1</rdfs:label>
+    <rdfs:label xml:lang="ja">フォーミュラ1</rdfs:label>
+    <rdfs:comment xml:lang="de">Die Formel 1 (kurz auch F1) ist eine Zusammenfassung der Regeln, Richtlinien und Bedingungen, in deren Rahmen die Formel-1-Weltmeisterschaft (offiziell FIA Formula One World Championship, bis 1980 Automobil-Weltmeisterschaft), eine vom Automobil-Dachverband Fédération Internationale de l’Automobile (FIA) festgelegte Formelserie, ausgetragen wird.Die Formel-1-Weltmeisterschaft ist die höchstrangige von der FIA veranstaltete Rennserie des Formelsports. Sie wird als Königsklasse des Automobilsports bezeichnet, da sie den Anspruch erhebt, die höchsten technischen, fahrerischen, aber auch finanziellen Anforderungen aller Rennserien an Fahrer und Konstrukteure zu stellen.</rdfs:comment>
+    <rdfs:comment xml:lang="es">La Fórmula 1, abreviada como F1 y también denominada la «categoría reina del automovilismo» o «la máxima categoría del automovilismo», es la competición de automovilismo internacional más popular y prestigiosa, superando a categorías de automovilismo como la NASCAR, el Rally, los automóviles de turismo, entre otras. A cada carrera se le denomina Gran Premio y el torneo que las agrupa se denomina Campeonato Mundial de Fórmula 1. La entidad que la dirige es la Federación Internacional del Automóvil (FIA). El Formula One Group es controlado por la empresa estadounidense Liberty Media desde septiembre de 2016.</rdfs:comment>
+    <rdfs:comment xml:lang="it">La Formula 1 o Formula Uno, in sigla F1, è la massima categoria (in termini prestazionali) di vetture monoposto a ruote scoperte da corsa su circuito definita dalla Federazione Internazionale dell&#39;Automobile (FIA).</rdfs:comment>
+    <rdfs:comment xml:lang="pl">Formuła 1 (inaczej Mistrzostwa Świata Formuły 1, oficjalny skrót F1, błędnie nazywana formułą pierwszą) – przeprowadzany regularnie (corocznie) od 1950 roku cykl najbardziej prestiżowych międzynarodowych wyścigów samochodowych, znany również jako wyścigi Grand Prix, a jednocześnie klasa biorących w nich udział jednomiejscowych samochodów wyścigowych o otwartym nadwoziu. Dyscyplina sportu zapoczątkowana w Europie, obecnie o zasięgu globalnym, organizowana w Europie, Ameryce Południowej, Ameryce Północnej, Afryce, Azji i Australii. Podczas danego sezonu odbywa się kilkanaście wyścigów, poszczególnych grand prix, na wydzielonych torach ulicznych i na specjalnie stworzonych do tego celu torach zamkniętych.</rdfs:comment>
+    <rdfs:comment xml:lang="fr">La Formule 1, communément abrégée en F1, est une discipline de sport automobile considérée comme la catégorie reine de ce sport. Elle a pris au fil des ans une dimension mondiale et elle est, avec les Jeux olympiques et la Coupe du monde de football, l&#39;un des événements sportifs les plus médiatisés. La Scuderia Ferrari et Michael Schumacher sont à ce jour l&#39;écurie et le pilote qui détiennent la plupart des records sur sept décennies de Formule 1.</rdfs:comment>
+    <rdfs:comment xml:lang="ar">الفورمولا واحد أو الفورمولا وان  (Formula One)، ويعرف أيضاً باسم سباق الجائزة الكبرى، هو أعلى صنف من سباقات الفورمولا ذات المقعد الفردي والعجلات المفتوحة. يتألف موسم الفورمولا الواحد من سلسلة من السباقات تعرف بالجوائز الكبرى (Grand Prix) تؤدى على حلبات خاصة معدة لهذا السباق، ونادراً ما يؤدى السباق في الطرق العادية خارج المضمار. تجمع نتائج كل سباق من سباقات الجوائز الكبرى في الموسم، ومن ثم تتحدد سنوياً جائزتان سنويتان، واحدة منهما للسائقين والأخرى لمصنعي السيارات. في سباقات الفورمولا واحد قد تتخطىً سرعة السيارات المتسابقة سرعة 320 كلم/ساعة (200 ميل في الساعة).</rdfs:comment>
+    <rdfs:comment xml:lang="zh">一级方程式赛车（英语：Formula One，也叫Formula 1或者F1）是由国际汽车联盟举办的最高等级的年度系列场地赛车比赛，正式名称为“国际汽车聯合會世界一级方程式锦标赛”。名称中“方程式”是指一组所有参赛车辆都必须遵守的规则。F1赛季包括一系列的比赛，而这些所谓的「大奖赛」（Grand Prix，出自法语，本意Great Prizes）的场地是全封闭的专门赛道或者是临时封闭的普通公路。每场比赛的结果算入积分系统并以此确定两个年度世界冠军：一个给车手和另一个给制造商。F1的车手、制造商、组织者以及赛道都必须持有超级执照，这是国际汽联颁发的最高级别执照。 一级方程式赛车通过产生大量的空氣動力學下压力达到非常高的过弯速度，是風靡全球的賽車運動。发动机性能限制在每分钟最多15000转时，其比赛最高速度就可以超過360公里/小时。赛车过弯的横向加速度超过5个標準重力。F1赛车的性能非常依赖电子系统（牵引力控制系统和其他辅助驾驶装置自2008年已被禁止）、空气动力学、悬挂和轮胎。</rdfs:comment>
+    <rdfs:comment xml:lang="ru">«Формула-1» (англ. FIA Formula One World Championship) — чемпионат мира по кольцевым автогонкам на автомобилях с открытыми колёсами. Чемпионат мира Формулы-1 проводится каждый год и состоит из отдельных этапов (имеющих статус Гран-при). В конце года выявляется победитель чемпионата. В Формуле-1 соревнуются как отдельные пилоты, так и команды. Пилоты соревнуются за титул чемпиона мира, а команды — за Кубок конструкторов.</rdfs:comment>
+    <rdfs:comment xml:lang="pt">A Fórmula 1 é a mais popular modalidade de automobilismo do mundo. É a categoria mais avançada do esporte a motor e é regulamentada pela Federação Internacional de Automobilismo, desde 2015 a FIA aposentou a Gasolina Podium e começou a usar um motor elétrico, com auxílio de uma bateria. Ao contrário do que muitos acreditam, o registro oficial da categoria consta como Fórmula Um (Campeonato Mundial de Fórmula Um), com o numeral escrito por extenso, mas também se aceita o uso do 1 e do I.</rdfs:comment>
+    <rdfs:comment xml:lang="nl">Formule 1, officieel de FIA Formula One World Championship, is de hoogste klasse in de autosport zoals is bepaald door de Fédération Internationale de l&#39;Automobile.</rdfs:comment>
+    <rdfs:comment xml:lang="ja">フォーミュラ1（Formula One、英語発音: [ˈfɔːrmjulə ˈwʌn] フォーァミュラ・ワン）は、モータースポーツのカテゴリーの1つであり、その世界選手権を指す場合もある。略称はF1（エフ・ワン）。 F1世界選手権 (FIA Formula One World Championship) は、国際自動車連盟 (FIA) が主催する自動車レースの最高峰で、現在は4輪の1人乗りフォーミュラカーで行われている。</rdfs:comment>
+    <rdfs:comment xml:lang="en">Formula One (also Formula 1 or F1 and officially the FIA Formula One World Championship) is the highest class of single-seat auto racing that is sanctioned by the Fédération Internationale de l&#39;Automobile (FIA). The FIA Formula One World Championship has been the premier form of racing since the inaugural season in 1950, although other Formula One races were regularly held until 1983. The &quot;formula&quot;, designated in the name, refers to a set of rules, to which all participants&#39; cars must conform. The F1 season consists of a series of races, known as Grands Prix (from French, meaning grand prizes), held worldwide on purpose-built F1 circuits and public roads.</rdfs:comment>
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/List_of_Formula_One_constructors" />
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/List_of_Formula_One_broadcasters" />
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/List_of_Formula_One_drivers" />
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/List_of_Formula_One_circuits" />
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/List_of_Formula_One_Grands_Prix" />
+    <owl:sameAs rdf:resource="http://pl.dbpedia.org/resource/Formuła_1" />
+    <owl:sameAs rdf:resource="http://es.dbpedia.org/resource/Fórmula_1" />
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Formula_One" />
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.02xz2" />
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q1968" />
+    <owl:sameAs rdf:resource="http://id.dbpedia.org/resource/Formula_Satu" />
+    <owl:sameAs rdf:resource="http://fr.dbpedia.org/resource/Formule_1" />
+    <owl:sameAs rdf:resource="http://pt.dbpedia.org/resource/Fórmula_1" />
+    <owl:sameAs rdf:resource="http://www.bbc.co.uk/things/13c4b240-b966-410e-a23a-f06dfa0b444b#id" />
+    <owl:sameAs rdf:resource="http://data.nytimes.com/N60942142038248637122" />
+    <owl:sameAs rdf:resource="http://it.dbpedia.org/resource/Formula_1" />
+    <owl:sameAs rdf:resource="http://nl.dbpedia.org/resource/Formule_1" />
+    <owl:sameAs rdf:resource="http://ko.dbpedia.org/resource/포뮬러_원" />
+    <owl:sameAs rdf:resource="http://ja.dbpedia.org/resource/フォーミュラ1" />
+    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/Formel_1" />
+    <owl:sameAs rdf:resource="http://eu.dbpedia.org/resource/1_Formula" />
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q1968" />
+    <owl:sameAs rdf:resource="http://d-nb.info/gnd/4267570-4" />
+    <owl:sameAs rdf:resource="http://el.dbpedia.org/resource/Φόρμουλα_1" />
+    <owl:sameAs rdf:resource="http://yago-knowledge.org/resource/Formula_One" />
+    <owl:sameAs rdf:resource="http://www.bbc.co.uk/things/65fae837-8320-4b43-923b-215ec4b8dfa0#id" />
+    <owl:sameAs rdf:resource="http://cs.dbpedia.org/resource/Formule_1" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Formula_One" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:1947_introductions" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Racing_formulas" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Formula_racing_series" />
+    <dbo:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">10854</dbo:wikiPageID>
+    <dbo:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">745149794</dbo:wikiPageRevisionID>
+    <dbo:wikiPageExternalLink rdf:resource="http://www.fia.com/" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.formula1.com/inside_f1/" />
+    <dbo:wikiPageExternalLink rdf:resource="https://www.formula1.com" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.grandprixhistory.org/" />
+    <dbo:wikiPageExternalLink rdf:resource="https://www.formula1.com/" />
+    <dbo:wikiPageExternalLink rdf:resource="https://www.britannica.com/sports/Grand-Prix-racing" />
+    <foaf:homepage rdf:resource="https://www.formula1.com" />
+    <dbp:name rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Formula One</dbp:name>
+    <foaf:depiction rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Alfa-Romeo-159-(1951).jpg" />
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Formula_One" />
+    <dbo:thumbnail rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Alfa-Romeo-159-(1951).jpg?width=300" />
+    <prov:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Formula_One?oldid=745149794" />
+    <dbo:abstract xml:lang="ja">フォーミュラ1（Formula One、英語発音: [ˈfɔːrmjulə ˈwʌn] フォーァミュラ・ワン）は、モータースポーツのカテゴリーの1つであり、その世界選手権を指す場合もある。略称はF1（エフ・ワン）。 F1世界選手権 (FIA Formula One World Championship) は、国際自動車連盟 (FIA) が主催する自動車レースの最高峰で、現在は4輪の1人乗りフォーミュラカーで行われている。</dbo:abstract>
+    <dbo:abstract xml:lang="zh">一级方程式赛车（英语：Formula One，也叫Formula 1或者F1）是由国际汽车联盟举办的最高等级的年度系列场地赛车比赛，正式名称为“国际汽车聯合會世界一级方程式锦标赛”。名称中“方程式”是指一组所有参赛车辆都必须遵守的规则。F1赛季包括一系列的比赛，而这些所谓的「大奖赛」（Grand Prix，出自法语，本意Great Prizes）的场地是全封闭的专门赛道或者是临时封闭的普通公路。每场比赛的结果算入积分系统并以此确定两个年度世界冠军：一个给车手和另一个给制造商。F1的车手、制造商、组织者以及赛道都必须持有超级执照，这是国际汽联颁发的最高级别执照。 一级方程式赛车通过产生大量的空氣動力學下压力达到非常高的过弯速度，是風靡全球的賽車運動。发动机性能限制在每分钟最多15000转时，其比赛最高速度就可以超過360公里/小时。赛车过弯的横向加速度超过5个標準重力。F1赛车的性能非常依赖电子系统（牵引力控制系统和其他辅助驾驶装置自2008年已被禁止）、空气动力学、悬挂和轮胎。 F1被很多人认为是赛车界最重要的赛事，同时也是最昂贵的体育运动，其赛车往往采用汽车界最先进的技术和高成本的材料。每年约有10支车队参赛，经过16至20站的比赛，来竞争年度总冠军的宝座。尽管歐洲是這項運動的傳統基地並且每年舉辦半數左右的比賽，然而一級方程式現已风靡全球，越來越多的大獎賽在其他大洲舉行。2010賽季，一級方程式的全球收視觀眾達到5.27億人次。 大奖赛始于1906年并在20世纪后半期成为国际上最流行的赛车运动。一级方程式集团是F1的商业权利的合法持有人。由于F1的年度支出总额高达数十亿美元，其经济效应和创造就业机会显而易见，而相关的财务和政治斗争更是屡见媒体。较高的知名度和普及度造就F1良好的商业环境，从而吸引赞助商的巨额投资和制造商的海量预算。2000年以来，该项运动不断上升的支出让包括厂商车队在内的数支车队破产。而另一些车队则被收购，这些已经严重限制参赛车队的数量。</dbo:abstract>
+    <dbo:abstract xml:lang="nl">Formule 1, officieel de FIA Formula One World Championship, is de hoogste klasse in de autosport zoals is bepaald door de Fédération Internationale de l&#39;Automobile.</dbo:abstract>
+    <dbo:abstract xml:lang="fr">La Formule 1, communément abrégée en F1, est une discipline de sport automobile considérée comme la catégorie reine de ce sport. Elle a pris au fil des ans une dimension mondiale et elle est, avec les Jeux olympiques et la Coupe du monde de football, l&#39;un des événements sportifs les plus médiatisés. Chaque année depuis 1950, un championnat mondial des pilotes est organisé, complété depuis 1958 par un championnat mondial des constructeurs automobiles. La compétition est basée sur des Grands Prix, courses à bord de voitures monoplaces disputées sur circuits routiers fermés permanents mais parfois tracés en ville et temporaires, comme à Monaco, Valence et Singapour. Cette discipline sportive, régie par la Fédération internationale de l&#39;automobile (FIA), est gérée par la Formula One Administration (FOA) et un ensemble de sociétés satellites contrôlées par Bernie Ecclestone. Après l&#39;ère des artisans des années 1960 et 1970, elle a peu à peu attiré les grands constructeurs automobiles mondiaux qui y investissent des sommes élevées, en espérant tirer profit des retombées médiatiques d&#39;éventuels succès. La Formule 1 est considérée comme la vitrine technologique de l&#39;industrie automobile qui y expérimente des nouveautés techniques, parfois issues de la technologie spatiale et susceptibles d&#39;être adaptées ensuite sur les voitures de série. Outre la compétition, le terme Formule 1 désigne l&#39;ensemble des règles techniques des voitures monoplaces qui sont mises à jour tous les ans par la FIA. Ces règles sont très strictes sur les dimensions des voitures, la cylindrée des moteurs, les technologies mises en œuvre ; elles définissent également les mesures de sécurité des voitures pour assurer la protection du pilote. Les monoplaces de course répondant aux caractéristiques de la réglementation de la Formule 1 sont généralement désignées sous le terme générique de Formules 1. La Scuderia Ferrari et Michael Schumacher sont à ce jour l&#39;écurie et le pilote qui détiennent la plupart des records sur sept décennies de Formule 1.</dbo:abstract>
+    <dbo:abstract xml:lang="ru">«Формула-1» (англ. FIA Formula One World Championship) — чемпионат мира по кольцевым автогонкам на автомобилях с открытыми колёсами. Чемпионат мира Формулы-1 проводится каждый год и состоит из отдельных этапов (имеющих статус Гран-при). В конце года выявляется победитель чемпионата. В Формуле-1 соревнуются как отдельные пилоты, так и команды. Пилоты соревнуются за титул чемпиона мира, а команды — за Кубок конструкторов.</dbo:abstract>
+    <dbo:abstract xml:lang="ar">الفورمولا واحد أو الفورمولا وان  (Formula One)، ويعرف أيضاً باسم سباق الجائزة الكبرى، هو أعلى صنف من سباقات الفورمولا ذات المقعد الفردي والعجلات المفتوحة. يتألف موسم الفورمولا الواحد من سلسلة من السباقات تعرف بالجوائز الكبرى (Grand Prix) تؤدى على حلبات خاصة معدة لهذا السباق، ونادراً ما يؤدى السباق في الطرق العادية خارج المضمار. تجمع نتائج كل سباق من سباقات الجوائز الكبرى في الموسم، ومن ثم تتحدد سنوياً جائزتان سنويتان، واحدة منهما للسائقين والأخرى لمصنعي السيارات. في سباقات الفورمولا واحد قد تتخطىً سرعة السيارات المتسابقة سرعة 320 كلم/ساعة (200 ميل في الساعة). تعتبر أوروبا المركز التقليدي لهذا السباق، وهي المروجة الأولى له. رغم ذلك، بدأت منذ عام 1999 ظهور حلبات في البحرين، والصين، وماليزيا، وتركيا، مما جعل اللعبة أكثر شعبية على مستوى عالمي. وباعتبارها أكثر الرياضات كلفة، عوائدها الاقتصادية كبيرة. تنظم هذه الرياضة بواسطة الاتحاد الدولي للسيارات (Fédération Internationale de l&#39;Automobile)، ويطلق عليه اختصارا (FIA)، يقع مقر المنظمة بمدينة باريس، فرنسا. الرئيس الحالي للاتحاد الدولي للسيارات هو جون تود. بينما المدير للمؤسسة الخاصّة المسؤولة Formula One Administration (FOA) والمروّج (والمتحكّم) لهذه الرياضة هو بيرني إيكليستون.</dbo:abstract>
+    <dbo:abstract xml:lang="es">La Fórmula 1, abreviada como F1 y también denominada la «categoría reina del automovilismo» o «la máxima categoría del automovilismo», es la competición de automovilismo internacional más popular y prestigiosa, superando a categorías de automovilismo como la NASCAR, el Rally, los automóviles de turismo, entre otras. A cada carrera se le denomina Gran Premio y el torneo que las agrupa se denomina Campeonato Mundial de Fórmula 1. La entidad que la dirige es la Federación Internacional del Automóvil (FIA). El Formula One Group es controlado por la empresa estadounidense Liberty Media desde septiembre de 2016. Los automóviles utilizados son monoplazas con la última tecnología disponible, siempre limitadas por un reglamento técnico; algunas mejoras que fueron desarrolladas en la Fórmula 1 terminaron siendo utilizadas en automóviles comerciales, como el freno de disco. La mayoría de los circuitos de carreras donde se celebran los Grandes Premios son autódromos, aunque también se utilizan circuitos callejeros y anteriormente se utilizaron circuitos ruteros. El inicio de la Fórmula 1 moderna se remonta al año 1950, en el que participaron escuderías como Ferrari, Alfa Romeo y Maserati. Algunas fueron reemplazadas por otras nuevas como McLaren, Williams, Lotus y Renault, que se han alzado varias veces con el Campeonato Mundial de Constructores. Las escuderías tienen que planear sus fichajes y renovación de contratos 2 o 3 carreras antes del fin de la temporada. Por su parte, los pilotos deben contar con la superlicencia de la FIA para competir, que se obtiene en base a resultados en otros campeonatos.</dbo:abstract>
+    <dbo:abstract xml:lang="de">Die Formel 1 (kurz auch F1) ist eine Zusammenfassung der Regeln, Richtlinien und Bedingungen, in deren Rahmen die Formel-1-Weltmeisterschaft (offiziell FIA Formula One World Championship, bis 1980 Automobil-Weltmeisterschaft), eine vom Automobil-Dachverband Fédération Internationale de l’Automobile (FIA) festgelegte Formelserie, ausgetragen wird.Die Formel-1-Weltmeisterschaft ist die höchstrangige von der FIA veranstaltete Rennserie des Formelsports. Sie wird als Königsklasse des Automobilsports bezeichnet, da sie den Anspruch erhebt, die höchsten technischen, fahrerischen, aber auch finanziellen Anforderungen aller Rennserien an Fahrer und Konstrukteure zu stellen.</dbo:abstract>
+    <dbo:abstract xml:lang="en">Formula One (also Formula 1 or F1 and officially the FIA Formula One World Championship) is the highest class of single-seat auto racing that is sanctioned by the Fédération Internationale de l&#39;Automobile (FIA). The FIA Formula One World Championship has been the premier form of racing since the inaugural season in 1950, although other Formula One races were regularly held until 1983. The &quot;formula&quot;, designated in the name, refers to a set of rules, to which all participants&#39; cars must conform. The F1 season consists of a series of races, known as Grands Prix (from French, meaning grand prizes), held worldwide on purpose-built F1 circuits and public roads. The results of each race are evaluated using a points system to determine two annual World Championships, one for drivers, one for constructors. The racing drivers are required to be holders of valid Super Licences, the highest class of racing licence issued by the FIA. The races are required to be held on tracks graded 1 (formerly A), the highest grade a track can receive by the FIA. Most events are held in rural locations on purpose-built tracks, but there are several events in city centres throughout the world, with the Monaco Grand Prix being the most obvious and famous example. Formula One cars are the fastest road course racing cars in the world, owing to very high cornering speeds achieved through the generation of large amounts of aerodynamic downforce. Formula One cars race at speeds of up to approximately 380 km/h (240 mph) with engines currently limited in performance to a maximum of 15,000 RPM. The cars are capable of lateral acceleration in excess of five g in corners. The performance of the cars is very dependent on electronics – although traction control and other driving aids have been banned since 2008 – and on aerodynamics, suspension, and tyres. The formula has radically evolved and changed through the history of the sport. While Europe is the sport&#39;s traditional base, and hosts about half of each year&#39;s races, the sport&#39;s scope has expanded significantly and an increasing number of Grands Prix are held on other continents. F1 had a total global television audience of 425 million people during the course of the 2014 season. Grand Prix racing began in 1906 and became the most popular type internationally in the second half of the twentieth century. The Formula One Group is the legal holder of the commercial rights. With the cost of designing and building mid-tier cars being of the order of $120 million, Formula One&#39;s economic effect and creation of jobs are significant, and its financial and political battles are widely reported. Its high profile and popularity have created a major merchandising environment, which has resulted in great investments from sponsors and budgets in the hundreds of millions for the constructors. Since 2000 the sport&#39;s spiraling expenditures and the distribution of prize money which favors established top teams have forced complaints from smaller teams and led several teams to bankruptcy. On 8 September 2016 it was announced that Liberty Media Corp. had agreed to buy Delta Topco, the company that controls Formula One, from private equity firm CVC Capital Partners for $4.4 Billion in cash, stock and convertible debt.</dbo:abstract>
+    <dbo:abstract xml:lang="pl">Formuła 1 (inaczej Mistrzostwa Świata Formuły 1, oficjalny skrót F1, błędnie nazywana formułą pierwszą) – przeprowadzany regularnie (corocznie) od 1950 roku cykl najbardziej prestiżowych międzynarodowych wyścigów samochodowych, znany również jako wyścigi Grand Prix, a jednocześnie klasa biorących w nich udział jednomiejscowych samochodów wyścigowych o otwartym nadwoziu. Dyscyplina sportu zapoczątkowana w Europie, obecnie o zasięgu globalnym, organizowana w Europie, Ameryce Południowej, Ameryce Północnej, Afryce, Azji i Australii. Podczas danego sezonu odbywa się kilkanaście wyścigów, poszczególnych grand prix, na wydzielonych torach ulicznych i na specjalnie stworzonych do tego celu torach zamkniętych. Zasady Formuły 1 regulowane są przez Fédération Internationale de l’Automobile (FIA), której prezesem jest Jean Todt. Za stronę finansową i medialną Formuły 1 odpowiedzialna jest Formula One Management, której prezesem jest Bernie Ecclestone.</dbo:abstract>
+    <dbo:abstract xml:lang="pt">A Fórmula 1 é a mais popular modalidade de automobilismo do mundo. É a categoria mais avançada do esporte a motor e é regulamentada pela Federação Internacional de Automobilismo, desde 2015 a FIA aposentou a Gasolina Podium e começou a usar um motor elétrico, com auxílio de uma bateria. Ao contrário do que muitos acreditam, o registro oficial da categoria consta como Fórmula Um (Campeonato Mundial de Fórmula Um), com o numeral escrito por extenso, mas também se aceita o uso do 1 e do I.</dbo:abstract>
+    <dbo:abstract xml:lang="it">La Formula 1 o Formula Uno, in sigla F1, è la massima categoria (in termini prestazionali) di vetture monoposto a ruote scoperte da corsa su circuito definita dalla Federazione Internazionale dell&#39;Automobile (FIA). La categoria è nata nel 1948 (in sostituzione della Formula A, a sua volta sorta solo qualche anno prima, nel 1946), diventando poi a carattere mondiale nella stagione 1950. Inizialmente definita dalla Commissione Sportiva Internazionale (CSI) dell&#39;Associazione Internazionale degli Automobil Club Riconosciuti (AIACR), associazione antesignana della Federazione Internazionale dell&#39;Automobile, oggi la Formula Uno è regolata dal Consiglio Mondiale degli Sport Motoristici (in inglese: World Motor Sport Council, WMSC) della Federazione Internazionale dell&#39;Automobile. Il termine &quot;formula&quot;, presente nel nome, fa riferimento ad un insieme di regole alle quali tutti i partecipanti, le macchine e i piloti, devono adeguarsi; esse introducono un numero di restrizioni e specifiche nelle auto, al fine di evitare le eccessive disparità tecniche tra le auto, di porre dei limiti al loro sviluppo e di ridurre i rischi di incidenti.La formula ha avuto molti cambiamenti durante la sua storia. Ci sono stati differenti tipi di motori, con schemi da 4 fino a 16 cilindri e con cilindrate da 1,5 a 4,5 l. I diritti finanziari e commerciali sono regolati dalla Formula One Group posseduta sino alla fine del 2005 dalla società SLEC Holdings, che ha venduto nei primi mesi del 2006 la quota delle sue azioni alla CVC Capital Partners attraverso una complessa transazione finanziaria. Nonostante adesso sia un socio di minoranza, lo sport e i suoi diritti televisivi – diffusi dalla Formula One Management – sono tuttora controllati a livello promozionale e operativo da Bernie Ecclestone, attraverso la società Alpha Prema.</dbo:abstract>
+    <dbp:c rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Formula One</dbp:c>
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Open_wheel_car" />
+    <dbp:championDriver rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Lewis Hamilton</dbp:championDriver>
+    <dbp:constructor rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Mercedes</dbp:constructor>
+    <dbp:constructors rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">11</dbp:constructors>
+    <ns8:region rdf:resource="http://dbpedia.org/resource/International" />
+    <dbp:currentSeason rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2016</dbp:currentSeason>
+    <dbp:drivers rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">22</dbp:drivers>
+    <dbp:engines rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">FerrariMercedesRenault Honda</dbp:engines>
+    <dbp:inaugural rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1950</dbp:inaugural>
+    <dbp:logo rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">F1 logo.svg</dbp:logo>
+    <dbp:tyres rdf:resource="http://dbpedia.org/resource/Pirelli" />
+    <dbp:voy rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Formula One</dbp:voy>
+    <ns9:hypernym rdf:resource="http://dbpedia.org/resource/Class" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Honda">
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nürburgring">
+    <dbp:recordClass rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Christian_Fittipaldi">
+    <dbp:prevSeries rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jaguar_Racing">
+    <dbp:formerSeries rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/F1_Pole_Position_(video_game)">
+    <dbo:genre rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mike_Pilbeam">
+    <dbo:knownFor rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Steve_Matchett">
+    <dbo:genre rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Aguri_Suzuki_F-1_Super_Driving">
+    <dbo:genre rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/BAR_006">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tyrrell_006">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tyrrell_P34">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ferrari_F2004">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/McLaren_MP4-31">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Williams_FW23">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Williams_FW38">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Chris_Amon_Racing">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lotus_78">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Coloni_C3">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Osella_FA1L">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tyrrell_008">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Zakspeed_891">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Arrows_A1">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Aston_Martin_DBR4">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/BMW_Sauber_F1.06">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Caterham_CT03">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Dallara_F192">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jaguar_R5">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ligier_JS37">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ligier_JS39">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lola_LC91">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lola_T93/30">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/McLaren_MP4-19">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Minardi_M191">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Prost_AP04">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Red_Bull_RB9">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Renault_R24">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sauber_C21">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sauber_C22">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sauber_C24">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Spyker_F8-VII">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Williams_FW04">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Williams_FW06">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Williams_FW22">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Williams_FW25">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Williams_FW26">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/ATS_D1">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Alfa_Romeo_177">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Andrea_Moda_S921">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Arrows_A21">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Arrows_A23">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/BAR_01">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/BMW_Sauber_F1.07">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Benetton_B190">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Benetton_B191">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Brabham_BT52">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Brabham_BT53">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Caterham_CT05">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ferrari_412_T1">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ferrari_412_T2">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ferrari_643">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ferrari_F14_T">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Force_India_VJM07">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Force_India_VJM08">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Honda_RA106">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jaguar_R1">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jaguar_R2">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jaguar_R3">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jordan_199">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jordan_EJ12">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lotus_E22">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lotus_E23_Hybrid">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Marussia_MR03">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/McLaren_MP4-18">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/McLaren_MP4-29">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/McLaren_MP4-30">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mercedes_F1_W05_Hybrid">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mercedes_F1_W06_Hybrid">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Red_Bull_RB10">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Red_Bull_RB11">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sauber_C33">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sauber_C34">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Simtek_S951">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Stewart_SF3">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Toro_Rosso_STR10">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Toro_Rosso_STR9">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tyrrell_020">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tyrrell_024">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tyrrell_026">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Venturi_LC92">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Williams_FW20">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Williams_FW36">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Williams_FW37">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Zakspeed_841">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/John_McQuilliam">
+    <dbo:knownFor rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/North_American_Racing_Team">
+    <dbp:formerSeries rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Autódromo_Internacional_Nelson_Piquet_(Brasília)">
+    <dbp:events rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Red_Bull_RB4">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Toyota_TF101">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Toyota_TF102">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Toyota_TF103">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Toyota_TF104">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Williams_FW30">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jean-Éric_Vergne">
+    <dbp:prevSeries rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kevin_Magnussen">
+    <dbp:currentSeries rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ferrari_F138">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Force_India_VJM06">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lotus_E21">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Marussia_MR02">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/McLaren_MP4-28">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mercedes_F1_W04">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sauber_C32">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Toro_Rosso_STR8">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Williams_FW35">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gabriele_Tarquini">
+    <dbp:prevSeries rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lotus_72">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lotus_79">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Maserati_250F">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/McLaren_M23">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/McLaren_MP4/2">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Brabham_BT19">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Formula1">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ferrari_F2003-GA">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lotus_88">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Brabham_BT44">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Brabham_BT49">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Williams_FW07">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Williams_FW11">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Formula_1_World_Championship">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Formula_One_World_Championship">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Arrows_A22">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ferguson_P99">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ligier_JS41">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lotus_109">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/McLaren_MP4/9">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Minardi_M194">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Minardi_M195">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Pacific_PR01">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Renault_RE30">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Renault_RS01">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Renault_R23">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Williams_Grand_Prix_Engineering">
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Constructors_(Formula_One)">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Karl_Wendlinger">
+    <dbp:prevSeries rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Steve_Jones_(presenter)">
+    <dbo:knownFor rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Timo_Glock">
+    <dbp:prevSeries rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Valencia_Street_Circuit">
+    <dbp:recordClass rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Detroit_street_circuit">
+    <dbp:events rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Phoenix_street_circuit">
+    <dbp:events rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ferrari_158">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2007_Belgian_Grand_Prix">
+    <dbo:type rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Autodromo_di_Pergusa">
+    <dbp:events rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mauro_Forghieri">
+    <dbo:occupation rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Honda_RA272">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lotus_25">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lotus_48">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/BAR_004">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ferrari_F1/86">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ferrari_F1/87">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Force_India_VJM09">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Haas_VF-16">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Manor_MRT05">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Minardi_PS02">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Renault_R202">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tyrrell_014">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/McLaren_MP4/13">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/F-1_Spirit_(series)">
+    <dbo:genre rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Satoru_Nakajima_F-1_Hero_2">
+    <dbo:genre rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Honda_RA300">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lola_Mk4">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/McLaren_MP4/11">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Prost_JS45">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Footwork_FA16">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/McLaren_MP4/3">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tyrrell_023">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Benetton_B201">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lotus_100T">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lotus_95T">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/McLaren_M26">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tyrrell_010">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Brabham_BT55">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Arrows_A4">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ligier_JS17">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Shadow_DN5">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Shadow_DN8">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Shadow_DN9">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/McLaren_M19A">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/McLaren_M28">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Shadow_DN1">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tyrrell_011">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Williams_FW08">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/McLaren_M4B">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Adrian_Newey">
+    <dbo:knownFor rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/BAR_007">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Calder_Park_Raceway">
+    <dbp:recordClass rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Indianapolis_Motor_Speedway">
+    <dbp:recordClass rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lotus_F1">
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Manor_Motorsport">
+    <dbp:formerSeries rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Autodromo_Enzo_e_Dino_Ferrari">
+    <dbp:recordClass rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Brands_Hatch">
+    <dbp:recordClass rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Circuit_de_Nevers_Magny-Cours">
+    <dbp:events rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hockenheimring">
+    <dbp:recordClass rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Silverstone_Circuit">
+    <dbp:recordClass rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Watkins_Glen_International">
+    <dbp:events rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jordan_191">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jordan_192">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jordan_193">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jordan_194">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jordan_195">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jordan_196">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lotus_T128_(Formula_One_car)">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nicola_Larini">
+    <dbp:prevSeries rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/BRM_P83">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Fondmetal_GR02">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Williams_FW27">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Arrows_A18">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Arrows_A19">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Arrows_A20">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Benetton_B197">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jordan_197">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jordan_198">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ligier_JS11">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Minardi_M198">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Prost_AP01">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Prost_AP02">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Stewart_SF02">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Williams_FW19">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/McLaren_MP4-20">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Toyota_TF105">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Benetton_B200">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Toyota_TF110">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Alex_Zanardi">
+    <dbp:prevSeries rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nick_Heidfeld">
+    <dbp:prevSeries rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ross_Brawn">
+    <dbo:occupation rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Michael_Andretti">
+    <dbp:prevSeries rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Eliseo_Salazar">
+    <dbp:prevSeries rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Enrique_Bernoldi">
+    <dbp:prevSeries rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gianni_Morbidelli">
+    <dbp:prevSeries rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tiago_Monteiro">
+    <dbp:prevSeries rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2006_French_Grand_Prix">
+    <dbo:type rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mercedes_F1_W07_Hybrid">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Red_Bull_RB12">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Renault_RS16">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sauber_C35">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Toro_Rosso_STR11">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/BRM_Type_15">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gustav_Brunner">
+    <dbo:occupation rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/McLaren_MP4/4">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Humpy_Wheeler">
+    <dbo:occupation rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mercedes-Benz_W196">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Moskvitch_G5">
+    <dbo:class rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Matra_MS80">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mo_Nunn">
+    <dbo:knownFor rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/F-1_Dream">
+    <dbo:genre rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Formula-1">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Alfa_Romeo_182">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Maserati_4CL_and_4CLT">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Derek_Gardner_(designer)">
+    <dbo:knownFor rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Red_Bull_RB1">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/AGS_JH21C">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/AGS_JH22">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Alfa_Romeo_179">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Alfa_Romeo_183T">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Alfa_Romeo_184T">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Alfa_Romeo_185T">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Arrows_A3">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/BMW_Sauber_F1.09">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/BRM_P126">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/BRM_P160">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/BRM_P180">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/BRM_P201">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/BRM_P207">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/BRM_P57">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/BRM_P67">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Benetton_B195">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Brabham_BT11">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Brabham_BT60">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Brabham_BT7">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Caterham_CT01">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Coloni_C4">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Cooper_T51">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Dallara_3087">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/EuroBrun_ER188">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/EuroBrun_ER189">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ferrari_150°_Italia">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ferrari_156_F1">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ferrari_246_F1">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ferrari_248_F1">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ferrari_375_F1">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ferrari_553">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ferrari_641">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ferrari_642">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ferrari_F10">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ferrari_F2001">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ferrari_F2002">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ferrari_F2007">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ferrari_F2012">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ferrari_F300">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ferrari_F399">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ferrari_F92A">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ferrari_F93A">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Fondmetal_GR01">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Footwork_FA12">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Force_India_VJM02">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Force_India_VJM03">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Force_India_VJM04">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Force_India_VJM05">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/HRT_F112">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hill_GH1">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hispania_F110">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hispania_F111">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Honda_RA108">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jock_Clear">
+    <dbp:sport rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lancia_D50">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ligier_JS43">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ligier_JS5">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lotus_16">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lotus_18">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lotus_24">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lotus_33">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lotus_43">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lotus_49">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lotus_56">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lotus_63">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lotus_77">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lotus_80">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lotus_97T">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lotus_98T">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lotus_99T">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lotus_E20">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lotus_T127">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/March_701">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Marussia_MR01">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Matra_MS10">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Matra_MS11">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Matra_MS120">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Matra_MS84">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/McLaren_M2B">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/McLaren_M7A">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/McLaren_MP4-16">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/McLaren_MP4-17">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/McLaren_MP4-22">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/McLaren_MP4-23">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/McLaren_MP4-24">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/McLaren_MP4-25">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/McLaren_MP4-26">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/McLaren_MP4-27">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/McLaren_MP4/10">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/McLaren_MP4/5">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/McLaren_MP4/6">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/McLaren_MP4/7A">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/McLaren_MP4/8">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mercedes_F1_W03">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mercedes_MGP_W01">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mercedes_MGP_W02">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Minardi_PS04B">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Penske_PC1">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Penske_PC3">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Penske_PC4">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Red_Bull_RB2">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Red_Bull_RB5">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Red_Bull_RB6">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Red_Bull_RB7">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Renault_R26">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Renault_R28">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Renault_R29">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Renault_R30">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Renault_R31">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Rial_ARC1">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sauber_C12">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sauber_C14">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sauber_C15">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sauber_C16">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sauber_C17">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sauber_C18">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sauber_C19">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sauber_C20">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sauber_C29">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sauber_C31">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Shadow_DN3">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Simtek_S941">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Stewart_SF01">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Super_Aguri_SA08">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Toleman_TG184">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Toro_Rosso_STR5">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Toro_Rosso_STR6">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Toro_Rosso_STR7">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Toyota_TF109">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tyrrell_018">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Virgin_MVR-02">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Virgin_VR-01">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Williams_FW16">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Williams_FW17">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Williams_FW24">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Williams_FW32">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Williams_FW33">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Williams_FW34">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Formula_one">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/F1_World_Championship">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Brabham_BT46">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Minardi_PS01">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Arrows_A2">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Fittipaldi_F5">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Footwork_FA13">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hesketh_308E">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/McLaren_M14A">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Pacific_PR02">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Super_Aguri_SA05">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Super_Aguri_SA06">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Wolf_WR7">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Honda_RA271">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jordan_EJ13">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lotus_101">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/McLaren_M29">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Minardi_M193">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tyrrell_012">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tyrrell_022">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Honda_RA099">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Williams_FW15C">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/BMS_Scuderia_Italia">
+    <dbp:formerSeries rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bruno_Senna">
+    <dbp:prevSeries rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Rory_Byrne">
+    <dbo:knownFor rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Benetton_B194">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Brabham_BT54">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Circuito_di_Ospedaletti">
+    <dbp:events rdf:resource="http://dbpedia.org/resource/Formula_One" />
+    <dbp:recordClass rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/San_Remo_Grand_Prix">
+    <dbp:events rdf:resource="http://dbpedia.org/resource/Formula_One" />
+    <dbp:recordClass rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Douglas_Circuit">
+    <dbp:events rdf:resource="http://dbpedia.org/resource/Formula_One" />
+    <dbp:recordClass rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/F1">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Formula_1">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Cooper_T86">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ferrari_246_F1-66">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Matra_MS5">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Matra_MS7">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Matra_MS9">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Parnelli_VPJ4">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Surtees_TS19">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Surtees_TS7">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lotus_102">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Formula1.com">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sauber_C30">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sochi_Autodrom">
+    <dbp:recordClass rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/1967_German_Grand_Prix">
+    <dbo:type rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/1968_Italian_Grand_Prix">
+    <dbo:type rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/1969_Mexican_Grand_Prix">
+    <dbo:type rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/1972_South_African_Grand_Prix">
+    <dbo:type rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/1973_Swedish_Grand_Prix">
+    <dbo:type rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Adrian_Burgess">
+    <dbp:sport rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Benetton_B192">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/BAR_005">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Benetton_B198">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Minardi_M01">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/ATS_D2">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Benetton_B193">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Brabham_BT56">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ligier_JS7">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Wolf_WR1">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Brabham_BT20">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Brabham_BT3">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Brabham_BT34">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Brabham_BT37">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Brabham_BT48">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/DAMS_GD-01">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/F1_World_Championships">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/FIA_World_Championship">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/FIA_World_Championships">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ferrari_640">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ferrari_F60">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nicholas_Tombazis">
+    <dbo:knownFor rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Red_Bull_RB3">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Renault_R27">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Scuderia_Coloni">
+    <dbp:formerSeries rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Toro_Rosso_STR2">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/BAR_002">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/BAR_003">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bob_Bell_(motorsport)">
+    <dbp:known rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Deutsch_Group">
+    <dbo:industry rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ferrari_312">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ferrari_312B">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ferrari_F310">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tyrrell_003">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Joe_Saward">
+    <dbo:knownFor rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nigel_Stepney">
+    <dbo:knownFor rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Top_Gear_test_track">
+    <dbp:recordClass rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Martin_Donnelly_(racing_driver)">
+    <dbp:prevSeries rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/NBC_Sports">
+    <dbp:majorContracts rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Formula_One_Championship">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Len_Terry">
+    <dbo:knownFor rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tyrrell_019">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sauber_C23">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ferrari_Tipo_500">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Toleman_TG183">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jaguar_R4">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gérard_Ducarouge">
+    <dbo:knownFor rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Markus_Winkelhock">
+    <dbp:prevSeries rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Robert_Doornbos">
+    <dbp:prevSeries rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tramontana_(sports_car)">
+    <dbo:bodyStyle rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Baku_City_Circuit">
+    <dbp:recordClass rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/World_Grand_Prix_(video_game)">
+    <dbo:genre rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ferrari_SF16-H">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Eagle_Mk1">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Toro_Rosso_STR1">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Red_Bull_RB8">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Fastest_1">
+    <dbo:genre rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/GP_Challenge">
+    <dbo:genre rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lotus_12">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Honda_RA107">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/McLaren_MP4-21">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Midland_M16">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Super_Aguri_SA07">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Toyota_TF107">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Williams_FW28">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Williams_FW29">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Arrows_A6">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Minardi_PS03">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Cooper_T81">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Brabham_BT24">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Honda_RC100">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Leyton_House_CG901">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/McLaren_M5A">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Footwork_FA15">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Spirit_101">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Dallara_F190">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ensign_N179">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lambo_291">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lola_LC89">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Rial_ARC2">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lotus_92">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lotus_93T">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lotus_94T">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Footwork_FA17">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Forti_FG03">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Brabham_BT45">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lola_T95/30">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lotus_87">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Aston_Martin_DBR5">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lola_T370">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lola_THL1">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lola_THL2">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/March_871">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Fórmula_1">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/McLaren_M30">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/BRM_P261">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ferrari_156/85">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Renault_RS10">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Brabham_BT59">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ligier_JS19">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/ATS_D7">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Arrows_A9">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Brabham_BT50">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Brabham_BT58">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Fittipaldi_F6">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hesketh_308C">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ligier_JS9">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Minardi_M185">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Shadow_DN7">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Surtees_TS14">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tyrrell_001">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tyrrell_005">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tyrrell_015">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Dallara_F188">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Reynard_98A">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Williams_FW">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/BRM_P48">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/BRM_P48/57">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Minardi_M197">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tyrrell_025">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Benetton_B187">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Dome_F105">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Larrousse_LH93">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ligier_JS27">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lola_LC90">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Zakspeed_871">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ferrari_Sigma">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Brabham_BT10">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/De_Tomaso_505/38">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Fittipaldi_FD">
+    <dbp:category rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/F_1">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/World_Championship_of_Drivers">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ten_Sport">
+    <dbp:data rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Thai_Grand_Prix">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/FIA_Formula_One_World_Championship">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Formula_One">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Formel_1">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Formuli_1">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/F1_racing">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/FIA_Formula_1_World_Championship">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Formula_One" />
+  </rdf:Description>
+</rdf:RDF>

@@ -1,0 +1,442 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:dbo="http://dbpedia.org/ontology/"
+	xmlns:dbp="http://dbpedia.org/property/"
+	xmlns:dct="http://purl.org/dc/terms/"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	xmlns:prov="http://www.w3.org/ns/prov#"
+	xmlns:ns9="http://dbpedia.org/ontology/PopulatedPlace/"
+	xmlns:georss="http://www.georss.org/georss/"
+	xmlns:ns11="http://purl.org/linguistics/gold/" >
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Misako_Renbutsu">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Tottori_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kinryū_Arimoto">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Tottori_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tottori,_Tottori">
+    <dbp:prefecture rdf:resource="http://dbpedia.org/resource/Tottori_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yonago,_Tottori">
+    <dbp:prefecture rdf:resource="http://dbpedia.org/resource/Tottori_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hyōnosen-Ushiroyama-Nagisan_Quasi-National_Park">
+    <dbp:governingBody rdf:resource="http://dbpedia.org/resource/Tottori_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mount_Dōgo">
+    <dbo:locatedInArea rdf:resource="http://dbpedia.org/resource/Tottori_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mount_Mitoku">
+    <dbo:locatedInArea rdf:resource="http://dbpedia.org/resource/Tottori_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mount_Sentsū">
+    <dbo:locatedInArea rdf:resource="http://dbpedia.org/resource/Tottori_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nishi_Inaba_Prefectural_Natural_Park">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Tottori_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Masato_Fukui">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Tottori_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Masutaro_Nakai">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Tottori_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tottori,_Japan">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Tottori_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Iwami,_Tottori">
+    <dbp:prefecture rdf:resource="http://dbpedia.org/resource/Tottori_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Wakasa,_Tottori">
+    <dbp:prefecture rdf:resource="http://dbpedia.org/resource/Tottori_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ayako_Imoto">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Tottori_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Maybach_Taniguchi">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Tottori_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Asami_Shimoda">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Tottori_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kihachi_Okamoto">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Tottori_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tottori_Athletics_Stadium">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Tottori_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yumi_Obe">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Tottori_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Shinichi_Katoh">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Tottori_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hiezu,_Tottori">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Tottori_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hino,_Tottori">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Tottori_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kōfu,_Tottori">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Tottori_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nichinan,_Tottori">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Tottori_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tottori_Prefecture">
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q3455524" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Prefecture108626947" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Object100002684" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoLegalActorGeo" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PhysicalEntity100001930" />
+    <rdf:type rdf:resource="http://schema.org/Place" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoPermanentlyLocatedEntity" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoGeoEntity" />
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Location100027167" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/District108552138" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Region108630985" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/PopulatedPlace" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Place" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Location" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/AdministrativeDistrict108491826" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/AdministrativeRegion" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Region" />
+    <rdf:type rdf:resource="http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing" />
+    <rdf:type rdf:resource="http://schema.org/AdministrativeArea" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatPrefecturesOfJapan" />
+    <rdfs:label xml:lang="fr">Préfecture de Tottori</rdfs:label>
+    <rdfs:label xml:lang="ar">توتوري (محافظة)</rdfs:label>
+    <rdfs:label xml:lang="en">Tottori Prefecture</rdfs:label>
+    <rdfs:label xml:lang="es">Prefectura de Tottori</rdfs:label>
+    <rdfs:label xml:lang="zh">鳥取縣</rdfs:label>
+    <rdfs:label xml:lang="pl">Prefektura Tottori</rdfs:label>
+    <rdfs:label xml:lang="de">Präfektur Tottori</rdfs:label>
+    <rdfs:label xml:lang="pt">Tottori</rdfs:label>
+    <rdfs:label xml:lang="nl">Tottori (prefectuur)</rdfs:label>
+    <rdfs:label xml:lang="it">Prefettura di Tottori</rdfs:label>
+    <rdfs:label xml:lang="ru">Тоттори (префектура)</rdfs:label>
+    <rdfs:label xml:lang="ja">鳥取県</rdfs:label>
+    <rdfs:comment xml:lang="nl">De prefectuur Tottori  (鳥取県, Tottori-ken) is een Japanse prefectuur in de regio Chugoku op het eiland Honshu. Tottori heeft een oppervlakte van 3507,26 km² en had op 1 april 2008 een bevolking van ongeveer 595.844 inwoners. De hoofdstad is Tottori.</rdfs:comment>
+    <rdfs:comment xml:lang="es">La prefectura de Tottori (鳥取県 Tottori-ken?) está ubicada en la región de Chūgoku sobre la isla de Honshū en Japón. La capital es la ciudad de Tottori la cual posee 201.000 habitantes. Esta prefectura es la menos poblada de Japón.</rdfs:comment>
+    <rdfs:comment xml:lang="zh">鳥取縣（日语：鳥取県／とっとりけん Tottori ken */?）是日本本州西部面臨日本海的一個小縣，屬山陰地方。人口只有60多萬，在日本47個都道府縣中是人口最少的縣。面積也不大，只有3500平方公里左右，其中近90%為山地，不利農業，工業也較薄弱，只有電器和食品工業值得一提。但是鳥取縣也有它的優勢：擁有作为全日本面積最大观光沙丘的鳥取沙丘，出產全日本一半以上的梨。海岸線雖僅約129公里，為全日本最短，但擁有捕魚量達全國第三的漁港（2015年度）。鳥取縣縣都設於鳥取市，重要的城市有米子市及倉吉市。</rdfs:comment>
+    <rdfs:comment xml:lang="fr">Tottori (鳥取県, Tottori-ken) est une préfecture du Japon située au nord de la région de Chūgoku.</rdfs:comment>
+    <rdfs:comment xml:lang="en">Tottori Prefecture (鳥取県 Tottori-ken) is a prefecture of Japan located in the Chūgoku region. The capital is the city of Tottori. It is the least populous prefecture in Japan.</rdfs:comment>
+    <rdfs:comment xml:lang="pt">Este artigo é sobre a província japonesa. Sobre a cidade, capital da mesma província, veja Tottori (cidade) Tottori (japonês: 鳥取県; Tottori-ken) é uma província do Japão localizada na região de Chugoku, na ilha de Honshu.</rdfs:comment>
+    <rdfs:comment xml:lang="it">Tottori (鳥取県 Tottori-ken?) è una prefettura giapponese di circa 600.000 abitanti, si trova nella regione di Chūgoku, sull&#39;isola di Honshū. Il suo capoluogo è l&#39;omonima città di Tottori.</rdfs:comment>
+    <rdfs:comment xml:lang="de">Die Präfektur Tottori  (jap. 鳥取県, Tottori-ken) ist eine der Präfekturen Japans, die kleinste nach Bevölkerungszahl. Sie liegt in der Region Chūgoku auf der Hauptinsel Honshū von Japan. Sitz der Präfekturverwaltung ist die gleichnamige Stadt Tottori.</rdfs:comment>
+    <rdfs:comment xml:lang="ar">25بك المحتوى هنا ينقصه الاستشهاد بمصادر. يرجى إيراد مصادر موثوق بها. أي معلومات غير موثقة يمكن التشكيك بها وإزالتها. (فبراير 2016) محافظة توتوري (باليابانية: 鳥取県، توتوري-كن) إحدى محافظات اليابان، تقع في منطقة تشوغوكو، جنوب جزيرة هونشو. عاصمتها مدينة توتوري.</rdfs:comment>
+    <rdfs:comment xml:lang="ru">Тоттори (яп. 鳥取県 Тоттори-кэн) — префектура, расположенная в регионе Тюгоку на острове Хонсю, Япония. Площадь префектуры составляет 3507,28 км², население — 574 301 человек (1 августа 2014), плотность населения — 163,75 чел./км². Административный центр префектуры — город Тоттори.</rdfs:comment>
+    <rdfs:comment xml:lang="pl">Prefektura Tottori (jap. 鳥取県 Tottori-ken) - prefektura znajdująca się w północno-wschodniej części regionu Chūgoku, w Japonii, na wyspie Honsiu. Jej stolicą jest miasto Tottori.</rdfs:comment>
+    <rdfs:comment xml:lang="ja">鳥取県（とっとりけん）は、日本の県の一つ。中国地方の日本海側、いわゆる山陰地方の東側を占め、東は兵庫県、西は島根県、南は中国山地を挟んで岡山県・広島県に隣接。西日本有数の豪雪地帯でもある。全国47都道府県中、面積は7番目に小さく、人口は最も少ない。また、市の数も最も少ない。県庁所在地は県東部の鳥取市。</rdfs:comment>
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Historic_Sites_of_Tottori_Prefecture" />
+    <owl:sameAs rdf:resource="http://ko.dbpedia.org/resource/돗토리_현" />
+    <owl:sameAs rdf:resource="http://fr.dbpedia.org/resource/Préfecture_de_Tottori" />
+    <owl:sameAs rdf:resource="http://d-nb.info/gnd/4389010-6" />
+    <owl:sameAs rdf:resource="http://ja.dbpedia.org/resource/鳥取県" />
+    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/Präfektur_Tottori" />
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Tottori_Prefecture" />
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.0191mg" />
+    <owl:sameAs rdf:resource="http://nl.dbpedia.org/resource/Tottori_(prefectuur)" />
+    <owl:sameAs rdf:resource="http://pl.dbpedia.org/resource/Prefektura_Tottori" />
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q133935" />
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q133935" />
+    <owl:sameAs rdf:resource="http://es.dbpedia.org/resource/Prefectura_de_Tottori" />
+    <owl:sameAs rdf:resource="http://yago-knowledge.org/resource/Tottori_Prefecture" />
+    <owl:sameAs rdf:resource="http://eu.dbpedia.org/resource/Tottori_(prefetura)" />
+    <owl:sameAs rdf:resource="http://id.dbpedia.org/resource/Prefektur_Tottori" />
+    <owl:sameAs rdf:resource="http://cs.dbpedia.org/resource/Prefektura_Tottori" />
+    <owl:sameAs rdf:resource="http://it.dbpedia.org/resource/Prefettura_di_Tottori" />
+    <owl:sameAs rdf:resource="http://sws.geonames.org/1849890/" />
+    <owl:sameAs rdf:resource="http://pt.dbpedia.org/resource/Tottori" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Prefectures_of_Japan" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Tottori_Prefecture" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Chūgoku_region" />
+    <dbo:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">183454</dbo:wikiPageID>
+    <dbo:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">731158846</dbo:wikiPageRevisionID>
+    <dbo:wikiPageExternalLink rdf:resource="http://www.worldcat.org/oclc/58053128?referer=di&amp;ht=edition" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.pref.tottori.lg.jp" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.pref.tottori.jp/english" />
+    <dbo:wikiPageExternalLink rdf:resource="https://books.google.com/books?id=p2QnPijAEmEC&amp;client=firefox-a" />
+    <foaf:name xml:lang="en">Tottori</foaf:name>
+    <foaf:homepage rdf:resource="http://www.pref.tottori.jp/english" />
+    <foaf:homepage rdf:resource="http://www.pref.tottori.lg.jp" />
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#float">35.45</geo:lat>
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#float">133.767</geo:long>
+    <foaf:depiction rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Flag_of_Tottori_Prefecture.svg" />
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Tottori_Prefecture" />
+    <geo:geometry rdf:datatype="http://www.openlinksw.com/schemas/virtrdf#Geometry">POINT(133.76666259766 35.450000762939)</geo:geometry>
+    <dbo:thumbnail rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Flag_of_Tottori_Prefecture.svg?width=300" />
+    <prov:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Tottori_Prefecture?oldid=731158846" />
+    <ns9:areaTotal rdf:datatype="http://dbpedia.org/datatype/squareKilometre">3507.05</ns9:areaTotal>
+    <ns9:populationDensity rdf:datatype="http://dbpedia.org/datatype/inhabitantsPerSquareKilometre">163.0</ns9:populationDensity>
+    <dbo:abstract xml:lang="it">Tottori (鳥取県 Tottori-ken?) è una prefettura giapponese di circa 600.000 abitanti, si trova nella regione di Chūgoku, sull&#39;isola di Honshū. Il suo capoluogo è l&#39;omonima città di Tottori.</dbo:abstract>
+    <dbo:abstract xml:lang="ja">鳥取県（とっとりけん）は、日本の県の一つ。中国地方の日本海側、いわゆる山陰地方の東側を占め、東は兵庫県、西は島根県、南は中国山地を挟んで岡山県・広島県に隣接。西日本有数の豪雪地帯でもある。全国47都道府県中、面積は7番目に小さく、人口は最も少ない。また、市の数も最も少ない。県庁所在地は県東部の鳥取市。</dbo:abstract>
+    <dbo:abstract xml:lang="ar">25بك المحتوى هنا ينقصه الاستشهاد بمصادر. يرجى إيراد مصادر موثوق بها. أي معلومات غير موثقة يمكن التشكيك بها وإزالتها. (فبراير 2016) محافظة توتوري (باليابانية: 鳥取県، توتوري-كن) إحدى محافظات اليابان، تقع في منطقة تشوغوكو، جنوب جزيرة هونشو. عاصمتها مدينة توتوري.</dbo:abstract>
+    <dbo:abstract xml:lang="nl">De prefectuur Tottori  (鳥取県, Tottori-ken) is een Japanse prefectuur in de regio Chugoku op het eiland Honshu. Tottori heeft een oppervlakte van 3507,26 km² en had op 1 april 2008 een bevolking van ongeveer 595.844 inwoners. De hoofdstad is Tottori.</dbo:abstract>
+    <dbo:abstract xml:lang="pl">Prefektura Tottori (jap. 鳥取県 Tottori-ken) - prefektura znajdująca się w północno-wschodniej części regionu Chūgoku, w Japonii, na wyspie Honsiu. Jej stolicą jest miasto Tottori.</dbo:abstract>
+    <dbo:abstract xml:lang="pt">Este artigo é sobre a província japonesa. Sobre a cidade, capital da mesma província, veja Tottori (cidade) Tottori (japonês: 鳥取県; Tottori-ken) é uma província do Japão localizada na região de Chugoku, na ilha de Honshu.</dbo:abstract>
+    <dbo:abstract xml:lang="en">Tottori Prefecture (鳥取県 Tottori-ken) is a prefecture of Japan located in the Chūgoku region. The capital is the city of Tottori. It is the least populous prefecture in Japan.</dbo:abstract>
+    <dbo:abstract xml:lang="fr">Tottori (鳥取県, Tottori-ken) est une préfecture du Japon située au nord de la région de Chūgoku.</dbo:abstract>
+    <dbo:abstract xml:lang="zh">鳥取縣（日语：鳥取県／とっとりけん Tottori ken */?）是日本本州西部面臨日本海的一個小縣，屬山陰地方。人口只有60多萬，在日本47個都道府縣中是人口最少的縣。面積也不大，只有3500平方公里左右，其中近90%為山地，不利農業，工業也較薄弱，只有電器和食品工業值得一提。但是鳥取縣也有它的優勢：擁有作为全日本面積最大观光沙丘的鳥取沙丘，出產全日本一半以上的梨。海岸線雖僅約129公里，為全日本最短，但擁有捕魚量達全國第三的漁港（2015年度）。鳥取縣縣都設於鳥取市，重要的城市有米子市及倉吉市。</dbo:abstract>
+    <dbo:abstract xml:lang="ru">Тоттори (яп. 鳥取県 Тоттори-кэн) — префектура, расположенная в регионе Тюгоку на острове Хонсю, Япония. Площадь префектуры составляет 3507,28 км², население — 574 301 человек (1 августа 2014), плотность населения — 163,75 чел./км². Административный центр префектуры — город Тоттори.</dbo:abstract>
+    <dbo:abstract xml:lang="es">La prefectura de Tottori (鳥取県 Tottori-ken?) está ubicada en la región de Chūgoku sobre la isla de Honshū en Japón. La capital es la ciudad de Tottori la cual posee 201.000 habitantes. Esta prefectura es la menos poblada de Japón.</dbo:abstract>
+    <dbo:abstract xml:lang="de">Die Präfektur Tottori  (jap. 鳥取県, Tottori-ken) ist eine der Präfekturen Japans, die kleinste nach Bevölkerungszahl. Sie liegt in der Region Chūgoku auf der Hauptinsel Honshū von Japan. Sitz der Präfekturverwaltung ist die gleichnamige Stadt Tottori.</dbo:abstract>
+    <dbo:areaTotal rdf:datatype="http://www.w3.org/2001/XMLSchema#double">3.50705e+09</dbo:areaTotal>
+    <dbo:capital rdf:resource="http://dbpedia.org/resource/Tottori,_Tottori" />
+    <dbo:country rdf:resource="http://dbpedia.org/resource/Japan" />
+    <dbo:populationDensity rdf:datatype="http://www.w3.org/2001/XMLSchema#double">163.0</dbo:populationDensity>
+    <dbo:populationTotal rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">570569</dbo:populationTotal>
+    <dbp:island rdf:resource="http://dbpedia.org/resource/Honshu" />
+    <dbp:municipalities rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">19</dbp:municipalities>
+    <dbp:popdate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2016-06-01</dbp:popdate>
+    <!--
+    <p: xmlns:p="http://dbpedia.org/property/rōmaji" rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Tottori-ken</p:>
+    -->
+    <georss:point>35.45 133.76666666666668</georss:point>
+    <dbp:arearank rdf:datatype="http://dbpedia.org/datatype/stone">41.0</dbp:arearank>
+    <dbp:bird rdf:resource="http://dbpedia.org/resource/Mandarin_duck" />
+    <dbp:districts rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</dbp:districts>
+    <dbp:flag rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Flag of Tottori Prefecture.svg</dbp:flag>
+    <dbp:flower rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Nijisseiki nashi pear blossom</dbp:flower>
+    <dbp:governor rdf:resource="http://dbpedia.org/resource/Shinji_Hirai" />
+    <dbp:isocode rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">JP-31</dbp:isocode>
+    <dbp:latd rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">35</dbp:latd>
+    <dbp:latm rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">27</dbp:latm>
+    <dbp:latns rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">N</dbp:latns>
+    <dbp:longd rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">133</dbp:longd>
+    <dbp:longew rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">E</dbp:longew>
+    <dbp:longm rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">46</dbp:longm>
+    <dbp:pcwater rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.7</dbp:pcwater>
+    <dbp:poprank rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">47</dbp:poprank>
+    <dbp:region rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Chūgoku</dbp:region>
+    <dbp:tree rdf:resource="http://dbpedia.org/resource/Taxus_cuspidata" />
+    <dbp:japanesename rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">鳥取県</dbp:japanesename>
+    <ns11:hypernym rdf:resource="http://dbpedia.org/resource/Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Masayuki_Mori_(film_producer)">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Tottori_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hiba-Dogo-Taishaku_Quasi-National_Park">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Tottori_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mount_Daisen">
+    <dbo:locatedInArea rdf:resource="http://dbpedia.org/resource/Tottori_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hokuei,_Tottori">
+    <dbp:prefecture rdf:resource="http://dbpedia.org/resource/Tottori_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hōki,_Tottori">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Tottori_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ryuji_Miki">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Tottori_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Wakasa_Line">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Tottori_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yazu,_Tottori">
+    <dbp:prefecture rdf:resource="http://dbpedia.org/resource/Tottori_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yurihama,_Tottori">
+    <dbp:prefecture rdf:resource="http://dbpedia.org/resource/Tottori_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Miori_Takimoto">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Tottori_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2013_Japan_Football_League">
+    <dbp:stadium rdf:resource="http://dbpedia.org/resource/Tottori_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tasuku_Nagase">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Tottori_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yuka_Yoshida">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Tottori_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tottori-ken">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Tottori_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Athena:_Goddess_of_War">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Tottori_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sakai_Line">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Tottori_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tottori_University">
+    <dbo:state rdf:resource="http://dbpedia.org/resource/Tottori_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hiruzen">
+    <dbo:locatedInArea rdf:resource="http://dbpedia.org/resource/Tottori_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Black_Buffalo_(wrestler)">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Tottori_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hirofumi_Uzawa">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Tottori_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Masazumi_Inada">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Tottori_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Takayuki_Kondō">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Tottori_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Toshizō_Nishio">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Tottori_Prefecture" />
+    <dbp:birthPlace rdf:resource="http://dbpedia.org/resource/Tottori_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yoshihide_Fujiwara">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Tottori_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yuka_Nishigaki">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Tottori_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2002_in_Ecuadorian_football">
+    <dbp:stadium rdf:resource="http://dbpedia.org/resource/Tottori_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Chizu,_Tottori">
+    <dbp:prefecture rdf:resource="http://dbpedia.org/resource/Tottori_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Daisen,_Tottori">
+    <dbp:prefecture rdf:resource="http://dbpedia.org/resource/Tottori_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kurayoshi,_Tottori">
+    <dbp:prefecture rdf:resource="http://dbpedia.org/resource/Tottori_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Misasa,_Tottori">
+    <dbp:prefecture rdf:resource="http://dbpedia.org/resource/Tottori_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nanbu,_Tottori">
+    <dbp:prefecture rdf:resource="http://dbpedia.org/resource/Tottori_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sakaiminato,_Tottori">
+    <dbp:prefecture rdf:resource="http://dbpedia.org/resource/Tottori_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kazuyuki_Hamada">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Tottori_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tottori">
+    <dbo:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/Tottori_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tottori_prefecture">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Tottori_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Chūgoku_Mountains">
+    <dbp:highestLocation rdf:resource="http://dbpedia.org/resource/Tottori_Prefecture" />
+    <dbp:state rdf:resource="http://dbpedia.org/resource/Tottori_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hakubi_Line">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Tottori_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/San&#39;in_Main_Line">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Tottori_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kotoura,_Tottori">
+    <dbp:prefecture rdf:resource="http://dbpedia.org/resource/Tottori_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Wakana_Matsumoto">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Tottori_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Keizō_Hayashi">
+    <dbp:title rdf:resource="http://dbpedia.org/resource/Tottori_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mount_Hyōno">
+    <dbo:locatedInArea rdf:resource="http://dbpedia.org/resource/Tottori_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yoko_Tsukasa">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Tottori_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Iconiq">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Tottori_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tottori_Airport">
+    <dbo:operator rdf:resource="http://dbpedia.org/resource/Tottori_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tottori_University_of_Environmental_Studies">
+    <dbo:state rdf:resource="http://dbpedia.org/resource/Tottori_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Henry_Hajimu_Fujii">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Tottori_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hiromichi_Yahara">
+    <dbp:birthPlace rdf:resource="http://dbpedia.org/resource/Tottori_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Shigeru_Fukudome">
+    <dbp:birthPlace rdf:resource="http://dbpedia.org/resource/Tottori_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mahiro_Maeda">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Tottori_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nobuko_Otowa">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Tottori_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kenji_Sawada">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Tottori_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Koken_Nosaka">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Tottori_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lake_Tōgō">
+    <dbo:nearestCity rdf:resource="http://dbpedia.org/resource/Tottori_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kamiyodo_Hakuhō-no-Oka_Exhibition_Hall">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Tottori_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Misasa-Tōgōko_Prefectural_Natural_Park">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Tottori_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Okuhino_Prefectural_Natural_Park">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Tottori_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sand_Museum">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Tottori_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tottori_City_Historical_Museum">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Tottori_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tottori_Folk_Crafts_Museum">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Tottori_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tottori_Nijisseiki_Pear_Museum">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Tottori_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tottori_Prefectural_Museum">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Tottori_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2013_J.League_Division_2">
+    <dbp:stadium rdf:resource="http://dbpedia.org/resource/Tottori_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Masaki_Tsukano">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Tottori_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Eshima_Ohashi_Bridge">
+    <dbo:locatedInArea rdf:resource="http://dbpedia.org/resource/Tottori_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tasuku_Okada">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Tottori_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Toshihira_Inoguchi">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Tottori_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Koya_Tanio">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Tottori_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Masato_Ishiwa">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Tottori_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/JP-31">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Tottori_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Teizo_Ishiguro">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Tottori_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/鳥取県">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Tottori_Prefecture" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Tottori_Prefecture">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Tottori_Prefecture" />
+  </rdf:Description>
+</rdf:RDF>

@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:dbo="http://dbpedia.org/ontology/"
+	xmlns:dbp="http://dbpedia.org/property/"
+	xmlns:dct="http://purl.org/dc/terms/"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	xmlns:prov="http://www.w3.org/ns/prov#"
+	xmlns:ns9="http://dbpedia.org/ontology/PopulatedPlace/"
+	xmlns:georss="http://www.georss.org/georss/"
+	xmlns:ns11="http://purl.org/linguistics/gold/" >
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Musō_Soseki">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Ise,_Mie" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ise_Expressway">
+    <dbo:routeEnd rdf:resource="http://dbpedia.org/resource/Ise,_Mie" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ise">
+    <dbo:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/Ise,_Mie" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ise_Bay">
+    <dbo:nearestCity rdf:resource="http://dbpedia.org/resource/Ise,_Mie" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kon_Ichikawa">
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Ise,_Mie" />
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Ise,_Mie" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Naoki_Hatta">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Ise,_Mie" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Eiji_Sawamura">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Ise,_Mie" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ise,_Mie">
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatHolyCities" />
+    <rdf:type rdf:resource="http://umbel.org/umbel/rc/PopulatedPlace" />
+    <rdf:type rdf:resource="http://umbel.org/umbel/rc/Location_Underspecified" />
+    <rdf:type rdf:resource="http://umbel.org/umbel/rc/City" />
+    <rdf:type rdf:resource="http://schema.org/Place" />
+    <rdf:type rdf:resource="http://schema.org/City" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PhysicalEntity100001930" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoLegalActorGeo" />
+    <rdf:type rdf:resource="http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Object100002684" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/City" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/City108524735" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/AdministrativeDistrict108491826" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/PopulatedPlace" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Settlement" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Place" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Location" />
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/UrbanArea108675967" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Municipality108626283" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Region108630985" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/GeographicalArea108574314" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Location100027167" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/District108552138" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatPopulatedCoastalPlacesInJapan" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q486972" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Site108651247" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Tract108673395" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q515" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatCitiesInMiePrefecture" />
+    <rdf:type rdf:resource="http://umbel.org/umbel/rc/Village" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoGeoEntity" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoPermanentlyLocatedEntity" />
+    <rdfs:label xml:lang="ar">إيسه</rdfs:label>
+    <rdfs:label xml:lang="zh">伊勢市</rdfs:label>
+    <rdfs:label xml:lang="ru">Исе (город)</rdfs:label>
+    <rdfs:label xml:lang="nl">Ise (Mie)</rdfs:label>
+    <rdfs:label xml:lang="de">Ise (Mie)</rdfs:label>
+    <rdfs:label xml:lang="fr">Ise (Mie)</rdfs:label>
+    <rdfs:label xml:lang="pt">Ise (Mie)</rdfs:label>
+    <rdfs:label xml:lang="es">Ise (Mie)</rdfs:label>
+    <rdfs:label xml:lang="en">Ise, Mie</rdfs:label>
+    <rdfs:label xml:lang="pl">Ise (Japonia)</rdfs:label>
+    <rdfs:label xml:lang="it">Ise (Mie)</rdfs:label>
+    <rdfs:label xml:lang="ja">伊勢市</rdfs:label>
+    <rdfs:comment xml:lang="ru">И́се (яп. 伊勢市), ранее Удзиямада — город в Японии в префектуре Миэ. Исе входит в состав Национального парка Исе-Сима. Население — 98,819 человек (2003); город занимает площадь 178.97 км². Крупный центр туризма и паломничества. Статус большого города Удзиямада получил 1 сентября 1906 года. После объединения с несколькими соседними городами 1 января 1955 года был образован город Исе.</rdfs:comment>
+    <rdfs:comment xml:lang="de">Ise (jap. 伊勢市, -shi, bis 1955 Ujiyamada) ist eine Stadt in der Präfektur Mie auf der japanischen Hauptinsel Honshū. Sie liegt auf der Shima-Halbinsel an der Ise-Bucht, südlich von Nagoya. Die Stadt liegt inmitten einer landwirtschaftlich geprägten Region, wo Tee und Orangen angebaut werden. Aber auch Lackwaren, Papier und Elektrogeräte werden in Ise produziert. Im Hafenviertel gibt es mehrere Schiffswerften.</rdfs:comment>
+    <rdfs:comment xml:lang="es">Ise (伊勢市 Ise-shi?) , antiguamente Ujiyamada (宇治山田 Ujiyamada?) (hasta 1954) es una ciudad de Japón ubicada en la prefectura de Mie (antiguamente en la provincia de Ise), en la isla de Honshu. Es muy popular entre los vistantes, debido a su belleza tradicional, ya que Ise es parte del Parque Nacional de Ise-Shima. Durante la época Edo, fue un lugar de peregrinación. Muy cerca de la ciudad de Ise está el Santuario de Ise, el santuario sintoísta más sagrado de Japón.</rdfs:comment>
+    <rdfs:comment xml:lang="nl">Ise (伊勢市, Ise-shi) is een havenstad in de prefectuur Mie in Japan. De oppervlakte van de stad is 208,52 km² en midden 2009 had de stad ruim 132.000 inwoners. Ise is bekend door de Grote Ise Jinja (伊勢神宮, Ise Jingū), het heiligeste Shintōheiligdom in Japan en daardoor een bedevaartsoord én populaire bestemming voor toeristen. De stad heeft daardoor de bijnaam Shinto (神都, shinto; lett. &quot;Hoofdstad van de kami&quot;). De stad maakt deel uit van het Ise-Shima Nationale Park(伊勢志摩国立公園, Ise Shima Kokuritsu Kōen).</rdfs:comment>
+    <rdfs:comment xml:lang="pl">Ise (jap. 伊勢市 Ise-shi) – miasto w Japonii, w prefekturze Mie, w środkowej części wyspy Honsiu. Poprzednia nazwa miasta Ujiyamada.</rdfs:comment>
+    <rdfs:comment xml:lang="fr">Ise (伊勢市, Ise-shi) est une ville japonaise dont l’ancien nom était Ujiyamada. Elle est située au sud-est de la préfecture de Mie dont l&#39;ancien nom était la Province d&#39;Ise. Sa superficie est de 208,52 km2 et en 2005 sa population s’élevait à 130 113 habitants. Elle est célèbre notamment grâce au sanctuaire d&#39;Ise (伊勢神宮, Ise-jingū) consacré à Amaterasu-ōmikami, déesse suprême du shintoïsme. Le temple est un élément important du patrimoine national du Japon et un des hauts lieux de culte et de spiritualité du Japon. Chaque année environ six millions de touristes le visitent.</rdfs:comment>
+    <rdfs:comment xml:lang="zh">伊勢市（日语：伊勢市／いせし Ise shi */?）是三重縣東南部的都市。過去是伊勢神宮的門前町，現在是伊勢志摩的中心都市。</rdfs:comment>
+    <rdfs:comment xml:lang="pt">Ise (伊勢市; -shi) é uma cidade localizada na província de Mie, no Japão. Em 2003, a cidade tinha uma população estimada em 98 819 habitantes e uma densidade populacional de 552,15 habitantes por quilómetro quadrado. Tem uma área total de 178,97 quilômetros quadrados. Recebeu o estatuto de cidade a 1 de Setembro de 1906. Até 1 de Novembro de 2005, a cidade tinha o nome de Ujiyamada. A partir dessa data, anexou as vilas de Futami e Obata, juntamente com a aldeia de Misono, vendo o seu nome alterado para &quot;Ise&quot;.</rdfs:comment>
+    <rdfs:comment xml:lang="en">Ise (伊勢市 Ise-shi), formerly called Ujiyamada (宇治山田), is a city located on the eastern tip of Kii Peninsula, in central Mie Prefecture (formally in Ise Province), on the island of Honshū, Japan, facing Ise Bay. Ise is home to Ise Grand Shrine, the most sacred Shintō shrine in Japan, and is thus a very popular destination for tourists. The city has a long-standing title – Shinto (神都) – that roughly means &quot;The Holy City&quot; and literally means &quot;Capital of the Kami&quot;. Most of the city is within the geographic limits of Ise-Shima National Park.</rdfs:comment>
+    <rdfs:comment xml:lang="it">Ise (伊勢市 Ise-shi?) è una città giapponese della prefettura di Mie.</rdfs:comment>
+    <rdfs:comment xml:lang="ja">伊勢市（いせし）は、三重県南東部に位置する都市である。市域は旧度会郡及び多気郡の一部。</rdfs:comment>
+    <rdfs:comment xml:lang="ar">25بك المحتوى هنا ينقصه الاستشهاد بمصادر. يرجى إيراد مصادر موثوق بها. أي معلومات غير موثقة يمكن التشكيك بها وإزالتها. (فبراير 2016) إيسه (باليابانية: 伊勢市 إيسه-شي) هي مدينة في اليابان، في جنوب وسط جزيرة هونشو، تتبع إدرايا محافظة ميه. تشرف على سواحل خليج إيسه. يبلغ عدد سكانها حوالي 131421 نسمة (2010). إيسه هي مقر إيسه جينغو، والذي يعتبر أقدس ضريح للشنتو في اليابان.</rdfs:comment>
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.01wm4p" />
+    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/Ise_(Mie)" />
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q328067" />
+    <owl:sameAs rdf:resource="http://nl.dbpedia.org/resource/Ise_(Mie)" />
+    <owl:sameAs rdf:resource="http://pt.dbpedia.org/resource/Ise_(Mie)" />
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Ise,_Mie" />
+    <owl:sameAs rdf:resource="http://yago-knowledge.org/resource/Ise,_Mie" />
+    <owl:sameAs rdf:resource="http://ko.dbpedia.org/resource/이세_시" />
+    <owl:sameAs rdf:resource="http://es.dbpedia.org/resource/Ise_(Mie)" />
+    <owl:sameAs rdf:resource="http://sws.geonames.org/1861450/" />
+    <owl:sameAs rdf:resource="http://pl.dbpedia.org/resource/Ise_(Japonia)" />
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q328067" />
+    <owl:sameAs rdf:resource="http://ja.dbpedia.org/resource/伊勢市" />
+    <owl:sameAs rdf:resource="http://fr.dbpedia.org/resource/Ise_(Mie)" />
+    <owl:sameAs rdf:resource="http://it.dbpedia.org/resource/Ise_(Mie)" />
+    <owl:sameAs rdf:resource="http://eu.dbpedia.org/resource/Ise_(Mie)" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Populated_coastal_places_in_Japan" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Holy_cities" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Cities_in_Mie_Prefecture" />
+    <dbo:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">329088</dbo:wikiPageID>
+    <dbo:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">744871476</dbo:wikiPageRevisionID>
+    <dbo:wikiPageExternalLink rdf:resource="http://www.isejingu.or.jp/english/" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.city.ise.mie.jp" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.city.ise.mie.jp/" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.akafuku.co.jp/index.html" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.miejets.org/gb/index.php?title=Ise" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.miejets.org/gb" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.seekjapan.jp/article-1/917/A+Day+Tripper&#39;s+Guide+to+Ise+and+Toba" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.rakurakuise.jp/en/" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.miejets.org" />
+    <foaf:homepage rdf:resource="http://www.city.ise.mie.jp/" />
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#float">34.4833</geo:lat>
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#float">136.717</geo:long>
+    <foaf:depiction rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Naiku_01.JPG" />
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Ise,_Mie" />
+    <geo:geometry rdf:datatype="http://www.openlinksw.com/schemas/virtrdf#Geometry">POINT(136.7166595459 34.483333587646)</geo:geometry>
+    <dbo:thumbnail rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Naiku_01.JPG?width=300" />
+    <prov:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Ise,_Mie?oldid=744871476" />
+    <ns9:areaTotal rdf:datatype="http://dbpedia.org/datatype/squareKilometre">208.52</ns9:areaTotal>
+    <ns9:populationDensity rdf:datatype="http://dbpedia.org/datatype/inhabitantsPerSquareKilometre">619.0</ns9:populationDensity>
+    <dbo:abstract xml:lang="nl">Ise (伊勢市, Ise-shi) is een havenstad in de prefectuur Mie in Japan. De oppervlakte van de stad is 208,52 km² en midden 2009 had de stad ruim 132.000 inwoners. Ise is bekend door de Grote Ise Jinja (伊勢神宮, Ise Jingū), het heiligeste Shintōheiligdom in Japan en daardoor een bedevaartsoord én populaire bestemming voor toeristen. De stad heeft daardoor de bijnaam Shinto (神都, shinto; lett. &quot;Hoofdstad van de kami&quot;). De stad maakt deel uit van het Ise-Shima Nationale Park(伊勢志摩国立公園, Ise Shima Kokuritsu Kōen).</dbo:abstract>
+    <dbo:abstract xml:lang="en">Ise (伊勢市 Ise-shi), formerly called Ujiyamada (宇治山田), is a city located on the eastern tip of Kii Peninsula, in central Mie Prefecture (formally in Ise Province), on the island of Honshū, Japan, facing Ise Bay. Ise is home to Ise Grand Shrine, the most sacred Shintō shrine in Japan, and is thus a very popular destination for tourists. The city has a long-standing title – Shinto (神都) – that roughly means &quot;The Holy City&quot; and literally means &quot;Capital of the Kami&quot;. Most of the city is within the geographic limits of Ise-Shima National Park. As of September 2012, the city has an estimated population of 129,125 and a population density of 619 persons per km². The total area is 208.53 km².</dbo:abstract>
+    <dbo:abstract xml:lang="pt">Ise (伊勢市; -shi) é uma cidade localizada na província de Mie, no Japão. Em 2003, a cidade tinha uma população estimada em 98 819 habitantes e uma densidade populacional de 552,15 habitantes por quilómetro quadrado. Tem uma área total de 178,97 quilômetros quadrados. Recebeu o estatuto de cidade a 1 de Setembro de 1906. Até 1 de Novembro de 2005, a cidade tinha o nome de Ujiyamada. A partir dessa data, anexou as vilas de Futami e Obata, juntamente com a aldeia de Misono, vendo o seu nome alterado para &quot;Ise&quot;.</dbo:abstract>
+    <dbo:abstract xml:lang="fr">Ise (伊勢市, Ise-shi) est une ville japonaise dont l’ancien nom était Ujiyamada. Elle est située au sud-est de la préfecture de Mie dont l&#39;ancien nom était la Province d&#39;Ise. Sa superficie est de 208,52 km2 et en 2005 sa population s’élevait à 130 113 habitants. Elle est célèbre notamment grâce au sanctuaire d&#39;Ise (伊勢神宮, Ise-jingū) consacré à Amaterasu-ōmikami, déesse suprême du shintoïsme. Le temple est un élément important du patrimoine national du Japon et un des hauts lieux de culte et de spiritualité du Japon. Chaque année environ six millions de touristes le visitent. De plus, le sentier d&#39;Ise (伊勢路, Ise-ji) (environ 160 km), qui relie Ise à Kumano Sanzan (熊野三山) est inscrit depuis 2004 au patrimoine mondial de l&#39;UNESCO, comme élément de l&#39;ensemble des sites sacrés et chemins de pèlerinage dans les monts Kii. La ville abrite aussi l’université Kogakukan, université sous contrôle national entre 1940 et la fin de la Seconde Guerre mondiale, refondée en 1962 en tant qu&#39;université privée. Cette université est notable pour ses études de shintoïsme. Elle accorde la licence de prêtre shintoïste.</dbo:abstract>
+    <dbo:abstract xml:lang="ru">И́се (яп. 伊勢市), ранее Удзиямада — город в Японии в префектуре Миэ. Исе входит в состав Национального парка Исе-Сима. Население — 98,819 человек (2003); город занимает площадь 178.97 км². Крупный центр туризма и паломничества. Статус большого города Удзиямада получил 1 сентября 1906 года. После объединения с несколькими соседними городами 1 января 1955 года был образован город Исе.</dbo:abstract>
+    <dbo:abstract xml:lang="ar">25بك المحتوى هنا ينقصه الاستشهاد بمصادر. يرجى إيراد مصادر موثوق بها. أي معلومات غير موثقة يمكن التشكيك بها وإزالتها. (فبراير 2016) إيسه (باليابانية: 伊勢市 إيسه-شي) هي مدينة في اليابان، في جنوب وسط جزيرة هونشو، تتبع إدرايا محافظة ميه. تشرف على سواحل خليج إيسه. يبلغ عدد سكانها حوالي 131421 نسمة (2010). إيسه هي مقر إيسه جينغو، والذي يعتبر أقدس ضريح للشنتو في اليابان.</dbo:abstract>
+    <dbo:abstract xml:lang="ja">伊勢市（いせし）は、三重県南東部に位置する都市である。市域は旧度会郡及び多気郡の一部。</dbo:abstract>
+    <dbo:abstract xml:lang="es">Ise (伊勢市 Ise-shi?) , antiguamente Ujiyamada (宇治山田 Ujiyamada?) (hasta 1954) es una ciudad de Japón ubicada en la prefectura de Mie (antiguamente en la provincia de Ise), en la isla de Honshu. Es muy popular entre los vistantes, debido a su belleza tradicional, ya que Ise es parte del Parque Nacional de Ise-Shima. Durante la época Edo, fue un lugar de peregrinación. Muy cerca de la ciudad de Ise está el Santuario de Ise, el santuario sintoísta más sagrado de Japón. En el año 2003, la población se estimó en 98.819 habitantes, con una densidad poblacional de 552,15 habitantes por kilómetro cuadrado. El área total es de 178,97 km².</dbo:abstract>
+    <dbo:abstract xml:lang="it">Ise (伊勢市 Ise-shi?) è una città giapponese della prefettura di Mie.</dbo:abstract>
+    <dbo:abstract xml:lang="de">Ise (jap. 伊勢市, -shi, bis 1955 Ujiyamada) ist eine Stadt in der Präfektur Mie auf der japanischen Hauptinsel Honshū. Sie liegt auf der Shima-Halbinsel an der Ise-Bucht, südlich von Nagoya. Die Stadt liegt inmitten einer landwirtschaftlich geprägten Region, wo Tee und Orangen angebaut werden. Aber auch Lackwaren, Papier und Elektrogeräte werden in Ise produziert. Im Hafenviertel gibt es mehrere Schiffswerften.</dbo:abstract>
+    <dbo:abstract xml:lang="zh">伊勢市（日语：伊勢市／いせし Ise shi */?）是三重縣東南部的都市。過去是伊勢神宮的門前町，現在是伊勢志摩的中心都市。</dbo:abstract>
+    <dbo:abstract xml:lang="pl">Ise (jap. 伊勢市 Ise-shi) – miasto w Japonii, w prefekturze Mie, w środkowej części wyspy Honsiu. Poprzednia nazwa miasta Ujiyamada.</dbo:abstract>
+    <dbo:areaTotal rdf:datatype="http://www.w3.org/2001/XMLSchema#double">2.0852e+08</dbo:areaTotal>
+    <dbo:country rdf:resource="http://dbpedia.org/resource/Japan" />
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Kansai_region" />
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Mie_Prefecture" />
+    <dbo:leaderTitle xml:lang="en">-Mayor</dbo:leaderTitle>
+    <dbo:populationDensity rdf:datatype="http://www.w3.org/2001/XMLSchema#double">619.0</dbo:populationDensity>
+    <dbo:populationTotal rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">123129</dbo:populationTotal>
+    <dbo:timeZone rdf:resource="http://dbpedia.org/resource/Japan_Standard_Time" />
+    <dbo:type rdf:resource="http://dbpedia.org/resource/Cities_of_Japan" />
+    <dbo:utcOffset>+9</dbo:utcOffset>
+    <georss:point>34.483333333333334 136.71666666666667</georss:point>
+    <dbp:blank1InfoSec rdf:resource="http://dbpedia.org/resource/Prunus" />
+    <dbp:blank1NameSec rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">- Tree</dbp:blank1NameSec>
+    <dbp:blank1NameSec rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Address</dbp:blank1NameSec>
+    <dbp:blankInfoSec rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">596</dbp:blankInfoSec>
+    <dbp:blankNameSec rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">City Symbols</dbp:blankNameSec>
+    <dbp:blankNameSec rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Phone number</dbp:blankNameSec>
+    <dbp:coordinatesDisplay rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">inline,title</dbp:coordinatesDisplay>
+    <dbp:coordinatesRegion rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">JP</dbp:coordinatesRegion>
+    <dbp:imageCaption rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Naigu in Ise Shrine</dbp:imageCaption>
+    <dbp:imageFlag rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Flag of Ise, Mie.pngborder</dbp:imageFlag>
+    <dbp:imageMap rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Ise in Mie Prefecture Ja.svg</dbp:imageMap>
+    <dbp:imageSeal rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Ise Mie chapter.JPG</dbp:imageSeal>
+    <dbp:imageSkyline rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Naiku 01.JPG</dbp:imageSkyline>
+    <dbp:latd rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">34</dbp:latd>
+    <dbp:latm rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">29</dbp:latm>
+    <dbp:latns rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">N</dbp:latns>
+    <dbp:leaderName rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Kenichi Suzuki</dbp:leaderName>
+    <dbp:longd rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">136</dbp:longd>
+    <dbp:longew rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">E</dbp:longew>
+    <dbp:longm rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">43</dbp:longm>
+    <dbp:mapCaption rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Location of Ise in Mie Prefecture</dbp:mapCaption>
+    <dbp:nativeNameLang rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">ja</dbp:nativeNameLang>
+    <dbp:populationAsOf rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">September 2012</dbp:populationAsOf>
+    <dbp:pushpinMap rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Japan</dbp:pushpinMap>
+    <dbp:subdivisionType rdf:resource="http://dbpedia.org/resource/List_of_regions_of_Japan" />
+    <dbp:subdivisionType rdf:resource="http://dbpedia.org/resource/List_of_sovereign_states" />
+    <dbp:subdivisionType rdf:resource="http://dbpedia.org/resource/Prefectures_of_Japan" />
+    <ns11:hypernym rdf:resource="http://dbpedia.org/resource/City" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/June_Yamagishi">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Ise,_Mie" />
+    <dbo:hometown rdf:resource="http://dbpedia.org/resource/Ise,_Mie" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Akeno_Air_Field">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Ise,_Mie" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Minoru_Nakamura">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Ise,_Mie" />
+    <dbp:birthPlace rdf:resource="http://dbpedia.org/resource/Ise,_Mie" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Miss_International_1994">
+    <dbp:venue rdf:resource="http://dbpedia.org/resource/Ise,_Mie" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ise_City">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Ise,_Mie" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kogakkan_University">
+    <dbo:city rdf:resource="http://dbpedia.org/resource/Ise,_Mie" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nishida_Shun&#39;ei">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Ise,_Mie" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ise_Grand_Shrine">
+    <dbp:address rdf:resource="http://dbpedia.org/resource/Ise,_Mie" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hiroki_Mizumoto">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Ise,_Mie" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Shun_Morishita">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Ise,_Mie" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tomoya_Kanamori">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Ise,_Mie" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/List_of_Historic_Sites_of_Japan_(Mie)">
+    <dbp:municipality rdf:resource="http://dbpedia.org/resource/Ise,_Mie" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ise-Shima_National_Park">
+    <dbo:nearestCity rdf:resource="http://dbpedia.org/resource/Ise,_Mie" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ise,_Japan">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Ise,_Mie" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Daisuke_Nakai">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Ise,_Mie" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Soga_Shōhaku">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Ise,_Mie" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Misaki_Onishi">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Ise,_Mie" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ujiyamada">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Ise,_Mie" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ujiyamada,_Mie">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Ise,_Mie" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Miho_Sato">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Ise,_Mie" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Isao_Takahata">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Ise,_Mie" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yōko_Natsuki">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Ise,_Mie" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Japan_National_Route_167">
+    <dbo:routeEnd rdf:resource="http://dbpedia.org/resource/Ise,_Mie" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mizuki_Noguchi">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Ise,_Mie" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sun_Arena">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Ise,_Mie" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Uji-yamada">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Ise,_Mie" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ise-shi">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Ise,_Mie" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/153rd_Division_(Imperial_Japanese_Army)">
+    <dbo:garrison rdf:resource="http://dbpedia.org/resource/Ise,_Mie" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Ise,_Mie">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Ise,_Mie" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/History_of_Ise,_Mie">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Ise,_Mie" />
+  </rdf:Description>
+</rdf:RDF>

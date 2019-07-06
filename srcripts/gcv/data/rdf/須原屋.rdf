@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:prov="http://www.w3.org/ns/prov#"
+	xmlns:dbpedia-owl="http://dbpedia.org/ontology/"
+	xmlns:dcterms="http://purl.org/dc/terms/"
+	xmlns:prop-ja="http://ja.dbpedia.org/property/" >
+  <rdf:Description rdf:about="http://ja.wikipedia.org/wiki/須原屋">
+    <foaf:primaryTopic rdf:resource="http://ja.dbpedia.org/resource/須原屋" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/レッドボルテージ">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/須原屋" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/浦和地区">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/須原屋" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/書楽">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/須原屋" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/熈代勝覧">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/須原屋" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/須原屋">
+    <rdf:type rdf:resource="http://schema.org/Organization" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Agent" />
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing" />
+    <rdf:type rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#SocialPerson" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q43229" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Organisation" />
+    <rdf:type rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Company" />
+    <rdfs:label xml:lang="ja">須原屋</rdfs:label>
+    <rdfs:comment xml:lang="ja">株式会社須原屋（すはらや）は、埼玉県さいたま市浦和区仲町に本店を置く書店である。須原屋茂兵衛の流れをくむ。創業約140年が経過し、県都である浦和や埼玉県を代表する老舗書店として知られている。本店は地下1階から3階（以前は4階）までのフロアがあり、8つの支店を持つ埼玉県内最大級の書店となっている。</rdfs:comment>
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q11664511" />
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q11664511" />
+    <foaf:name xml:lang="ja">株式会社須原屋</foaf:name>
+    <foaf:isPrimaryTopicOf rdf:resource="http://ja.wikipedia.org/wiki/須原屋" />
+    <prov:wasDerivedFrom rdf:resource="http://ja.wikipedia.org/wiki/須原屋?oldid=59236288" />
+    <dbpedia-owl:abstract xml:lang="ja">株式会社須原屋（すはらや）は、埼玉県さいたま市浦和区仲町に本店を置く書店である。須原屋茂兵衛の流れをくむ。創業約140年が経過し、県都である浦和や埼玉県を代表する老舗書店として知られている。本店は地下1階から3階（以前は4階）までのフロアがあり、8つの支店を持つ埼玉県内最大級の書店となっている。</dbpedia-owl:abstract>
+    <dbpedia-owl:commonName xml:lang="ja">株式会社須原屋</dbpedia-owl:commonName>
+    <dbpedia-owl:foundingDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2011-01-01</dbpedia-owl:foundingDate>
+    <dbpedia-owl:foundingYear rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">2011</dbpedia-owl:foundingYear>
+    <dbpedia-owl:legalForm rdf:resource="http://ja.dbpedia.org/resource/株式会社" />
+    <dbpedia-owl:locationCity rdf:resource="http://ja.dbpedia.org/resource/埼玉県" />
+    <dbpedia-owl:numberOfEmployees rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">130</dbpedia-owl:numberOfEmployees>
+    <dbpedia-owl:postalCode>330-0062</dbpedia-owl:postalCode>
+    <dbpedia-owl:purpose>書店</dbpedia-owl:purpose>
+    <dbpedia-owl:thumbnail rdf:resource="http://ja.wikipedia.org/wiki/Special:FilePath/国道463号（さいたま市浦和区）.jpg?width=300" />
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.suharaya.co.jp/" />
+    <dbpedia-owl:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2264111</dbpedia-owl:wikiPageID>
+    <dbpedia-owl:wikiPageLength rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">2030</dbpedia-owl:wikiPageLength>
+    <dbpedia-owl:wikiPageOutDegree rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">64</dbpedia-owl:wikiPageOutDegree>
+    <dbpedia-owl:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">59236288</dbpedia-owl:wikiPageRevisionID>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/栃木県" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/1981年" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/徳川吉宗" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/蕨駅" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/イオンモール川口前川" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/蕨市" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/駅ナカ" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/1957年" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/浅草芧町" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/明治" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/1876年" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/Category:浦和区の企業" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/埼玉県師範学校" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/Category:さいたま市の建築物" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/1990年" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/1977年" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/11月11日" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/和歌山県" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/1972年" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/南区_(さいたま市)" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/熊谷市" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/川口駅" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/アリオ川口" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/八木橋百貨店" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/浦和駅" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/太平洋戦争" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/江戸時代" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/昭和" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/浦和コルソ" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/ロビンソン百貨店" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/ファイル:国道463号（さいたま市浦和区）.jpg" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/武蔵浦和駅" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/1923年" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/春日部市" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/川口市" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/埼玉県" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/熊谷駅" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/1944年" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/書店" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/仲町_(さいたま市浦和区)" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/春日部駅" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/Category:老舗企業_(明治創業)" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/1950年" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/宇都宮市" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/1947年" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/浦和区" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/須原屋茂兵衛" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/Category:日本の書店" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/浦和宿" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/1994年" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/1904年" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/さいたま市" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/株式会社" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/西武百貨店" />
+    <foaf:homepage rdf:resource="http://www.suharaya.co.jp/" />
+    <dcterms:subject rdf:resource="http://ja.dbpedia.org/resource/Category:日本の書店" />
+    <dcterms:subject rdf:resource="http://ja.dbpedia.org/resource/Category:さいたま市の建築物" />
+    <dcterms:subject rdf:resource="http://ja.dbpedia.org/resource/Category:浦和区の企業" />
+    <dcterms:subject rdf:resource="http://ja.dbpedia.org/resource/Category:老舗企業_(明治創業)" />
+    <prop-ja:wikiPageUsesTemplate rdf:resource="http://ja.dbpedia.org/resource/Template:基礎情報_会社" />
+    <prop-ja:wikiPageUsesTemplate rdf:resource="http://ja.dbpedia.org/resource/Template:浦和" />
+    <prop-ja:事業内容 xml:lang="ja">書店</prop-ja:事業内容>
+    <prop-ja:代表者 xml:lang="ja">高野隆</prop-ja:代表者>
+    <prop-ja:外部リンク rdf:resource="http://www.suharaya.co.jp/" />
+    <prop-ja:従業員数 xml:lang="ja">約130人</prop-ja:従業員数>
+    <prop-ja:本社所在地 xml:lang="ja">埼玉県さいたま市浦和区仲町2−3−20</prop-ja:本社所在地>
+    <prop-ja:画像 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">250</prop-ja:画像>
+    <prop-ja:社名 xml:lang="ja">株式会社須原屋</prop-ja:社名>
+    <prop-ja:種類 rdf:resource="http://ja.dbpedia.org/resource/株式会社" />
+    <prop-ja:設立 rdf:datatype="http://www.w3.org/2001/XMLSchema#gMonthDay">--11-11</prop-ja:設立>
+    <prop-ja:資本金 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1000</prop-ja:資本金>
+    <prop-ja:郵便番号 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">330</prop-ja:郵便番号>
+    <foaf:depiction rdf:resource="http://ja.wikipedia.org/wiki/Special:FilePath/国道463号（さいたま市浦和区）.jpg" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/須原屋市兵衛">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/須原屋" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/塚越_(蕨市)">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/須原屋" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/玉蔵院_(さいたま市)">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/須原屋" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/浦和ワシントンホテル">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/須原屋" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/浦和中央公園">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/須原屋" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/浦和東武ホテル">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/須原屋" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/武蔵浦和駅">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/須原屋" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/浦和駅">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/須原屋" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/浦和区">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/須原屋" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/日本の老舗一覧">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/須原屋" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/さいたま市">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/須原屋" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/八木橋百貨店">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/須原屋" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/別所_(さいたま市)">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/須原屋" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/川口市">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/須原屋" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/仲町_(さいたま市浦和区)">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/須原屋" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/高砂_(さいたま市)">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/須原屋" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/data/須原屋.rdf">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document" />
+    <foaf:primaryTopic rdf:resource="http://ja.dbpedia.org/resource/須原屋" />
+  </rdf:Description>
+</rdf:RDF>

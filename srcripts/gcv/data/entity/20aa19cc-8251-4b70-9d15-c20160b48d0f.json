@@ -1,0 +1,83 @@
+{
+    "entities": [
+        {
+            "mentions": [
+                {
+                    "text": {
+                        "beginOffset": 1,
+                        "content": "勲章"
+                    },
+                    "type": "COMMON"
+                }
+            ],
+            "metadata": {},
+            "name": "勲章",
+            "salience": 0.28062454,
+            "type": "OTHER"
+        },
+        {
+            "mentions": [
+                {
+                    "text": {
+                        "beginOffset": 8,
+                        "content": "勲一等瑞宝章\t F0001/08/67/02\t 9999-99-99\t アイテム\t 公開\t 本郷\t 箱"
+                    },
+                    "type": "PROPER"
+                }
+            ],
+            "metadata": {},
+            "name": "勲一等瑞宝章 F0001/08/67/02 9999-99-99 アイテム 公開 本郷 箱",
+            "salience": 0.2693086,
+            "type": "LOCATION"
+        },
+        {
+            "mentions": [
+                {
+                    "text": {
+                        "beginOffset": 125,
+                        "content": "勲一等瑞宝章"
+                    },
+                    "type": "PROPER"
+                }
+            ],
+            "metadata": {
+                "mid": "/g/1222j5sh",
+                "wikipedia_url": "https://ja.wikipedia.org/wiki/瑞宝大綬章"
+            },
+            "name": "勲一等瑞宝章",
+            "salience": 0.19720854,
+            "type": "PERSON"
+        },
+        {
+            "mentions": [
+                {
+                    "text": {
+                        "beginOffset": 155,
+                        "content": "勲記"
+                    },
+                    "type": "COMMON"
+                }
+            ],
+            "metadata": {},
+            "name": "勲記",
+            "salience": 0.15648593,
+            "type": "EVENT"
+        },
+        {
+            "mentions": [
+                {
+                    "text": {
+                        "beginOffset": 116,
+                        "content": "箱"
+                    },
+                    "type": "COMMON"
+                }
+            ],
+            "metadata": {},
+            "name": "箱",
+            "salience": 0.096372396,
+            "type": "OTHER"
+        }
+    ],
+    "language": "ja"
+}

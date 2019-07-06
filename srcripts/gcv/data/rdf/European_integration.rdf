@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:dct="http://purl.org/dc/terms/"
+	xmlns:dbo="http://dbpedia.org/ontology/"
+	xmlns:dbp="http://dbpedia.org/property/"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:prov="http://www.w3.org/ns/prov#"
+	xmlns:ns8="http://purl.org/linguistics/gold/" >
+  <rdf:Description rdf:about="http://dbpedia.org/resource/European_Federalist_Party">
+    <dbo:ideology rdf:resource="http://dbpedia.org/resource/European_integration" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/European_cooperation">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/European_integration" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/European_unification">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/European_integration" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/European_integration">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Election" />
+    <rdfs:label xml:lang="pl">Integracja europejska</rdfs:label>
+    <rdfs:label xml:lang="ru">Европейская интеграция</rdfs:label>
+    <rdfs:label xml:lang="ar">تكامل أوروبي</rdfs:label>
+    <rdfs:label xml:lang="en">European integration</rdfs:label>
+    <rdfs:label xml:lang="it">Integrazione europea</rdfs:label>
+    <rdfs:label xml:lang="zh">歐洲統合</rdfs:label>
+    <rdfs:label xml:lang="pt">Integração europeia</rdfs:label>
+    <rdfs:label xml:lang="nl">Europese integratie</rdfs:label>
+    <rdfs:label xml:lang="de">Europäische Integration</rdfs:label>
+    <rdfs:label xml:lang="ja">欧州統合</rdfs:label>
+    <rdfs:comment xml:lang="ru">Европе́йская интегра́ция — это процесс производственной, политической, правовой, экономической (также в некоторых случаях социальной и культурной) интеграции держав, которые целиком либо частично находятся в Европе. Европейская интеграция преимущественно осуществляется посредством Европейского Союза и Совета Европы. В политической науке существует несколько подходов к определению понятия европейская интеграция: межправительственный, институциональный и коммуникативный подходы.</rdfs:comment>
+    <rdfs:comment xml:lang="pl">Integracja europejska – określenie stosowane wobec procesu stopniowego integrowania się państw Europy pod względem gospodarczym, prawnym i politycznym. Jej korzeni doszukiwać się można już w epoce starożytnej, jednak jej praktyczne przejawy uwidoczniły się dopiero po zakończeniu II wojny światowej, szczególnie po Kongresie Haskim oraz zawarciu Traktatu paryskiego. Obecnie procesy integracyjne w Europie najpełniej realizowane są w ramach Unii Europejskiej, powstałej w 1993 roku na bazie Wspólnot Europejskich.</rdfs:comment>
+    <rdfs:comment xml:lang="en">European integration is the process of industrial, political, legal, economic, social and cultural integration of states wholly or partially in Europe. European integration has primarily come about through the European Union and its policies.</rdfs:comment>
+    <rdfs:comment xml:lang="ar">التكامل الأوروبي هو عملية تكامل صناعي وسياسي وقانوني واقتصادي (وفي بعض الحالات تكامل اجتماعي وثقافي) للدول كليًا أو جزئيًا في أوروبا. وقد نتج التكامل الأوروبي في المقام الأول عن طريق الاتحاد الأوروبي ومجلس أوروبا.</rdfs:comment>
+    <rdfs:comment xml:lang="zh">歐洲統合是指歐洲整體或部分地區在政治、法律、經濟、社會、文化等領域統合的歷史。現代歐洲統合的理商主要由歐洲聯盟和歐洲委員會進行。最初提出歐洲統合構想的是理察·尼古拉斯·馮·康登霍維-凱勒奇，他在1923年發表了一篇名為Pan-Europa的宣言。</rdfs:comment>
+    <rdfs:comment xml:lang="de">Die europäische Integration steht begrifflich für einen „immer engeren Zusammenschluss der europäischen Völker“ (1. Erwägungsgrund der Präambel des AEUV). Offiziell wurde dieser Begriff erstmals 1954 bei der Gründung der Westeuropäischen Union (WEU) verwendet. Mit der Gründung der Europäischen Union durch den Vertrag von Maastricht 1992 wurde der „Prozess der europäischen Integration auf eine neue Stufe gestellt“ (1. Erwägungsgrund der Präambel des Vertrages von Maastricht); der Vertrag von Lissabon 2007 kennzeichnet den aktuellen Stand der Entwicklung.</rdfs:comment>
+    <rdfs:comment xml:lang="pt">A integração europeia é o processo político e econômico de integração dos Estados da Europa, incluindo alguns estados que estão parcialmente na Europa. Na atualidade, a integração europeia é um processo vital para o sucesso da União Europeia.</rdfs:comment>
+    <rdfs:comment xml:lang="it">L&#39;integrazione europea è il processo di integrazione industriale, politico, legale, economico (e in alcuni casi anche sociale e culturale) di tutti o alcuni Stati dell&#39;Europa. L&#39;integrazione europea trova i suoi centri di propulsione nella UE e nel Consiglio d&#39;Europa.</rdfs:comment>
+    <rdfs:comment xml:lang="nl">Europese integratie, ook wel Europese eenwording of Europese eenmaking, is het eenwordingsproces van Europese landen. Dit wordt tegenwoordig vooral geleid door de Raad van Europa en de Europese Unie.</rdfs:comment>
+    <rdfs:comment xml:lang="ja">欧州統合（おうしゅうとうごう）とは、ヨーロッパの全部または一部の国による政治的、法的、経済的、あるいは社会的、文化的な統合の経緯。現代において欧州統合はおもに欧州連合や欧州評議会を通じて進められている。</rdfs:comment>
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Post-Soviet_states" />
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q1048268" />
+    <owl:sameAs rdf:resource="http://cs.dbpedia.org/resource/Evropská_integrace" />
+    <owl:sameAs rdf:resource="http://d-nb.info/gnd/7511684-4" />
+    <owl:sameAs rdf:resource="http://ja.dbpedia.org/resource/欧州統合" />
+    <owl:sameAs rdf:resource="http://it.dbpedia.org/resource/Integrazione_europea" />
+    <owl:sameAs rdf:resource="http://ko.dbpedia.org/resource/유럽_통합" />
+    <owl:sameAs rdf:resource="http://pt.dbpedia.org/resource/Integração_europeia" />
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/European_integration" />
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q1048268" />
+    <owl:sameAs rdf:resource="http://id.dbpedia.org/resource/Integrasi_Eropa" />
+    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/Europäische_Integration" />
+    <owl:sameAs rdf:resource="http://pl.dbpedia.org/resource/Integracja_europejska" />
+    <owl:sameAs rdf:resource="http://nl.dbpedia.org/resource/Europese_integratie" />
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.032q66" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Pan-Europeanism" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Council_of_Europe" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Regionalism_(international_relations)" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:European_integration" />
+    <dbo:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">683704</dbo:wikiPageID>
+    <dbo:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">744650210</dbo:wikiPageRevisionID>
+    <dbo:wikiPageExternalLink rdf:resource="http://balticsea-region-strategy.eu/" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.boeckler.de/pdf/v_2014_10_30_peinado_carrasco.pdf" />
+    <dbo:wikiPageExternalLink rdf:resource="http://eu.wiley.com/WileyCDA/WileyTitle/productCd-1405193948.html" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.danube-region.eu/" />
+    <dbp:name rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">CU</dbp:name>
+    <dbp:name rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">euros</dbp:name>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/European_integration" />
+    <prov:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/European_integration?oldid=744650210" />
+    <dbo:abstract xml:lang="ja">欧州統合（おうしゅうとうごう）とは、ヨーロッパの全部または一部の国による政治的、法的、経済的、あるいは社会的、文化的な統合の経緯。現代において欧州統合はおもに欧州連合や欧州評議会を通じて進められている。</dbo:abstract>
+    <dbo:abstract xml:lang="de">Die europäische Integration steht begrifflich für einen „immer engeren Zusammenschluss der europäischen Völker“ (1. Erwägungsgrund der Präambel des AEUV). Offiziell wurde dieser Begriff erstmals 1954 bei der Gründung der Westeuropäischen Union (WEU) verwendet. Mit der Gründung der Europäischen Union durch den Vertrag von Maastricht 1992 wurde der „Prozess der europäischen Integration auf eine neue Stufe gestellt“ (1. Erwägungsgrund der Präambel des Vertrages von Maastricht); der Vertrag von Lissabon 2007 kennzeichnet den aktuellen Stand der Entwicklung. Der europäische Integrationsprozess begann auf der Wirtschaftsebene, zielte aber auch auf die Ebene des politischen Systems und speziell auf die Justiz- und Innenpolitik sowie auf eine Gemeinsame Außen- und Sicherheitspolitik. Dabei ist die Leitidee der europäischen Integration aber nicht auf die EU beschränkt; denn neben dieser existiert in Europa eine Vielzahl weiterer internationaler Organisationen, und die meisten europäischen Staaten gehören mehreren hiervon an. Allerdings stellt die EU sowohl im Vergleich mit allen anderen europäischen Organisationen als auch im weltweiten Vergleich das am weitesten fortgeschrittene Beispiel für regionale Integration dar. Die weitgehende Übertragung einzelstaatlicher Befugnisse auf europäische Institutionen hat dazu geführt, dass es sich bei den Europäischen Gemeinschaften, aus denen die EU entstanden ist, um mehr als bloß Internationale Organisationen handelt; für sie wurde der Begriff „Supranationalität“ geprägt. Die Europäische Union hat aber nicht nur die wirtschaftliche und politische Integration in den Jahren nach ihrer Gründung Schritt um Schritt vorangebracht, sie hat sich durch Aufnahme neuer Mitgliedstaaten auch geographisch zunehmend erweitert. Die Europäische Integration wird von internationalen Organisationen anderer Kontinente teilweise ausdrücklich als Vorbild betrachtet; z. B. wurde der institutionelle Rahmen der Andengemeinschaft nach dem Modell der EU-Institutionen gestaltet.</dbo:abstract>
+    <dbo:abstract xml:lang="it">L&#39;integrazione europea è il processo di integrazione industriale, politico, legale, economico (e in alcuni casi anche sociale e culturale) di tutti o alcuni Stati dell&#39;Europa. L&#39;integrazione europea trova i suoi centri di propulsione nella UE e nel Consiglio d&#39;Europa.</dbo:abstract>
+    <dbo:abstract xml:lang="en">European integration is the process of industrial, political, legal, economic, social and cultural integration of states wholly or partially in Europe. European integration has primarily come about through the European Union and its policies.</dbo:abstract>
+    <dbo:abstract xml:lang="pt">A integração europeia é o processo político e econômico de integração dos Estados da Europa, incluindo alguns estados que estão parcialmente na Europa. Na atualidade, a integração europeia é um processo vital para o sucesso da União Europeia.</dbo:abstract>
+    <dbo:abstract xml:lang="ru">Европе́йская интегра́ция — это процесс производственной, политической, правовой, экономической (также в некоторых случаях социальной и культурной) интеграции держав, которые целиком либо частично находятся в Европе. Европейская интеграция преимущественно осуществляется посредством Европейского Союза и Совета Европы. В политической науке существует несколько подходов к определению понятия европейская интеграция: межправительственный, институциональный и коммуникативный подходы. Сторонники межправительственного подхода отводят приоритетную роль в процессе интеграции национальным государствам. Результатом их взаимодействия на межправительственном уровне является особая окружающая среда, которая влияет на появление общих институтов. В рамках институционального подхода (Эрнст Хаас) европейская интеграция рассматривается как процесс трансформации национальных практик взаимодействия институтов, которая ведет к созданию особой многоуровневой системы управления с множеством центров принятия решений (governance). Коммуникативный подход трактует европейскую интеграцию как процесс создания социальных общностей посредством эффективного взаимодействия между их членами в различных областях. В результате чего формируется сообщество безопасности, в котором политические факторы ориентированы на создание нового политического центра. Этот политический центр и должен будет координировать работу участников.</dbo:abstract>
+    <dbo:abstract xml:lang="ar">التكامل الأوروبي هو عملية تكامل صناعي وسياسي وقانوني واقتصادي (وفي بعض الحالات تكامل اجتماعي وثقافي) للدول كليًا أو جزئيًا في أوروبا. وقد نتج التكامل الأوروبي في المقام الأول عن طريق الاتحاد الأوروبي ومجلس أوروبا.</dbo:abstract>
+    <dbo:abstract xml:lang="nl">Europese integratie, ook wel Europese eenwording of Europese eenmaking, is het eenwordingsproces van Europese landen. Dit wordt tegenwoordig vooral geleid door de Raad van Europa en de Europese Unie.</dbo:abstract>
+    <dbo:abstract xml:lang="pl">Integracja europejska – określenie stosowane wobec procesu stopniowego integrowania się państw Europy pod względem gospodarczym, prawnym i politycznym. Jej korzeni doszukiwać się można już w epoce starożytnej, jednak jej praktyczne przejawy uwidoczniły się dopiero po zakończeniu II wojny światowej, szczególnie po Kongresie Haskim oraz zawarciu Traktatu paryskiego. Obecnie procesy integracyjne w Europie najpełniej realizowane są w ramach Unii Europejskiej, powstałej w 1993 roku na bazie Wspólnot Europejskich.</dbo:abstract>
+    <dbo:abstract xml:lang="zh">歐洲統合是指歐洲整體或部分地區在政治、法律、經濟、社會、文化等領域統合的歷史。現代歐洲統合的理商主要由歐洲聯盟和歐洲委員會進行。最初提出歐洲統合構想的是理察·尼古拉斯·馮·康登霍維-凱勒奇，他在1923年發表了一篇名為Pan-Europa的宣言。</dbo:abstract>
+    <dbp:align rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">right</dbp:align>
+    <dbp:align rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">center</dbp:align>
+    <dbp:caption rdf:resource="http://dbpedia.org/resource/Francophonie" />
+    <dbp:caption rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Hispanophone and Lusophone</dbp:caption>
+    <dbp:caption rdf:resource="http://dbpedia.org/resource/Conscription" />
+    <dbp:caption rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">ICC members</dbp:caption>
+    <dbp:caption rdf:resource="http://dbpedia.org/resource/Commonwealth_of_Nations" />
+    <dbp:caption rdf:resource="http://dbpedia.org/resource/Kyoto_Protocol" />
+    <dbp:caption rdf:resource="http://dbpedia.org/resource/German_language" />
+    <dbp:caption rdf:resource="http://dbpedia.org/resource/Russophone" />
+    <dbp:caption rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Proposed TAFTA</dbp:caption>
+    <dbp:caption rdf:resource="http://dbpedia.org/resource/Latin_Union" />
+    <dbp:caption rdf:resource="http://dbpedia.org/resource/ASEM" />
+    <dbp:caption rdf:resource="http://dbpedia.org/resource/ACP_countries" />
+    <dbp:caption rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">WTO members</dbp:caption>
+    <dbp:caption rdf:resource="http://dbpedia.org/resource/Economic_integration" />
+    <dbp:caption rdf:resource="http://dbpedia.org/resource/Euro-Latin_American_Parliamentary_Assembly" />
+    <dbp:caption rdf:resource="http://dbpedia.org/resource/Anglosphere" />
+    <dbp:caption rdf:resource="http://dbpedia.org/resource/Francophone" />
+    <dbp:caption rdf:resource="http://dbpedia.org/resource/Death_penalty" />
+    <dbp:caption rdf:resource="http://dbpedia.org/resource/Organization_of_Ibero-American_States" />
+    <dbp:group rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Note</dbp:group>
+    <dbp:height rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">566</dbp:height>
+    <dbp:height rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">415</dbp:height>
+    <dbp:height rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">293</dbp:height>
+    <dbp:height rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">628</dbp:height>
+    <dbp:height rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">631</dbp:height>
+    <dbp:height rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">351</dbp:height>
+    <dbp:height rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">883</dbp:height>
+    <dbp:height rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">477</dbp:height>
+    <dbp:image rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Map-Francophonie organisation fr.svg</dbp:image>
+    <dbp:image rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Death Penalty World Map.svg</dbp:image>
+    <dbp:image rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">European Union Latin America Locator.svg</dbp:image>
+    <dbp:image rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Ibero-Romance.PNG</dbp:image>
+    <dbp:image rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">New-Map-Francophone World.PNG</dbp:image>
+    <dbp:image rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Conscription map of the world.svg</dbp:image>
+    <dbp:image rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Kyoto Protocol extension period-2012-2020---participation map 2012.png</dbp:image>
+    <dbp:image rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">ICC member states world map.png</dbp:image>
+    <dbp:image rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Union Latine.svg</dbp:image>
+    <dbp:image rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">African, Caribbean and Pacific Group of States member nations map.svg</dbp:image>
+    <dbp:image rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Russophone.png</dbp:image>
+    <dbp:image rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Commonwealth of Nations.svg</dbp:image>
+    <dbp:image rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">OEI map.svg</dbp:image>
+    <dbp:image rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">World Trade Organization Members.svg</dbp:image>
+    <dbp:image rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">TAFTA.png</dbp:image>
+    <dbp:image rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Legal statuses of German in the world.svg</dbp:image>
+    <dbp:image rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">ASEM.PNG</dbp:image>
+    <dbp:image rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Economic integration stages .png</dbp:image>
+    <dbp:image rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Anglospeak.svg</dbp:image>
+    <dbp:size rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">640</dbp:size>
+    <dbp:totalWidth rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">750</dbp:totalWidth>
+    <dbp:width rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">730</dbp:width>
+    <dbp:width rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1427</dbp:width>
+    <dbp:width rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">772</dbp:width>
+    <dbp:width rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2000</dbp:width>
+    <dbp:width rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">800</dbp:width>
+    <dbp:width rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">940</dbp:width>
+    <dbp:width rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1357</dbp:width>
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Process" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Rose_Revolution">
+    <dbp:goals rdf:resource="http://dbpedia.org/resource/European_integration" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/European_Integration">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/European_integration" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Newropeans">
+    <dbo:ideology rdf:resource="http://dbpedia.org/resource/European_integration" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Paneuropean_Union">
+    <dbo:type rdf:resource="http://dbpedia.org/resource/European_integration" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/History_of_the_European_integration">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/European_integration" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Eurozone_integration">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/European_integration" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/United_Europe">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/European_integration" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/European_integration_theory">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/European_integration" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/EU_integration">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/European_integration" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Integration_in_the_EU">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/European_integration" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Integrated_Europe">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/European_integration" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Uniting_europe">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/European_integration" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Uniting_of_europe">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/European_integration" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Unity_of_europe">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/European_integration" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Europe-wide_institution">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/European_integration" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Europe-wide_institutions">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/European_integration" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/European_institution">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/European_integration" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/European_institutions">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/European_integration" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Unification_of_Europe">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/European_integration" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Eurointegration">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/European_integration" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/European_integration">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/European_integration" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Finalité_politique">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/European_integration" />
+  </rdf:Description>
+</rdf:RDF>

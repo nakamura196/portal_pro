@@ -1,0 +1,463 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:dct="http://purl.org/dc/terms/"
+	xmlns:dbo="http://dbpedia.org/ontology/"
+	xmlns:dbp="http://dbpedia.org/property/"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:prov="http://www.w3.org/ns/prov#"
+	xmlns:ns8="http://purl.org/linguistics/gold/" >
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Climate_change">
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Cloud" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Cloud">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing" />
+    <rdfs:label xml:lang="it">Nuvola</rdfs:label>
+    <rdfs:label xml:lang="pl">Chmura</rdfs:label>
+    <rdfs:label xml:lang="zh">云</rdfs:label>
+    <rdfs:label xml:lang="en">Cloud</rdfs:label>
+    <rdfs:label xml:lang="ar">سحاب</rdfs:label>
+    <rdfs:label xml:lang="ru">Облака</rdfs:label>
+    <rdfs:label xml:lang="nl">Wolk</rdfs:label>
+    <rdfs:label xml:lang="pt">Nuvem</rdfs:label>
+    <rdfs:label xml:lang="de">Wolke</rdfs:label>
+    <rdfs:label xml:lang="es">Nube</rdfs:label>
+    <rdfs:label xml:lang="fr">Nuage</rdfs:label>
+    <rdfs:label xml:lang="ja">雲</rdfs:label>
+    <rdfs:comment xml:lang="ja">雲（くも、英: cloud）は、大気中にかたまって浮かぶ水滴または氷の粒（氷晶）のことを言う。地球に限らず、また高度に限らず、惑星表面の大気中に浮かぶ水滴や氷晶は雲と呼ばれる。雲を作る水滴や氷晶の1つ1つの粒を雲粒と言う。地上が雲に覆われていると、霧となる。 気象学の中には雲学という分野も存在する。これは、気象観測の手段が乏しかった20世紀前半ごろまで、気象の解析や予測に雲の形や動きなどの観測情報を多用しており、雲の研究が重要視されたことを背景にしている。気象衛星などの登場によって重要性が薄くなり雲学は衰退してきている。 また、雨や雪などの降水現象の発生源となる現象であり、雲の生成から降水までの物理学的な現象を研究する雲物理学というものもある。</rdfs:comment>
+    <rdfs:comment xml:lang="en">In meteorology, a cloud is an aerosol comprising a visible mass of minute liquid droplets or frozen crystals, both of which are made of water or various chemicals. The droplets or particles are suspended in the atmosphere above the surface of a planetary body. On Earth, clouds are formed by the saturation of air in the homosphere (which includes the troposphere, stratosphere, and mesosphere). The air may be cooled to its dew point by a variety of atmospheric processes or it may gain moisture (usually in the form of water vapor) from an adjacent source. Nephology is the science of clouds which is undertaken in the cloud physics branch of meteorology.</rdfs:comment>
+    <rdfs:comment xml:lang="zh">云是大气层中由水或多种化学物质构成的可见的液滴或冰晶的集合体。这些悬浮的颗粒物也被称作气溶胶，被气象学的分支云物理学所研究。 地球上的云的形成是地球大气中的空气因两种过程而饱和的结果：空气的冷却和水汽的增加。当饱和度足够，降水将形成并下落到地表；幡状云是个例外，降水在到达地表前就被蒸发了。 云是地球上庞大的水循环的有形的结果。太阳照在地球的表面，水蒸发形成水蒸气，一旦水汽过饱和，水分子就会聚集在空气中的微尘（凝结核）周围，由此产生的水滴或冰晶将阳光散射到各个方向，这就产生了云的外观。因为云反射和散射所有波段的电磁波，所以云的颜色成灰度色，云层比较薄时成白色，但是当它们变得太厚或浓密而使得阳光不能通过的话，它们可以看起来是灰色或黑色的。 虽然地球上大部分的云都形成于对流层，但有时也会在平流层和中间层观测到云。这三个大气层的主要圈层和在一起被称为“均质层”。在其之上是热层和散逸层，合称为“非均质层”，是于外层空间的过度区。在太阳系的其它一些行星和卫星上也观测到云。由于各星球的温度特性不同，构成云的物质也有多种，比如甲烷，氨，硫酸。</rdfs:comment>
+    <rdfs:comment xml:lang="de">Eine Wolke (auf die indogermanische Wurzel uelg „feucht, nass“ zurückgehend und daher mit dem Adjektiv welk und dem Flussnamen Wolga sprachlich verwandt) ist eine Ansammlung von sehr feinen Wassertröpfchen (Nebel) oder Eiskristallen in der Atmosphäre. Wolken sind deshalb sichtbar, weil Licht aufgrund der Mie-Streuung gestreut wird, wodurch der Tyndall-Effekt auftritt und die eigentlich farblosen Tröpfchen sichtbar werden.</rdfs:comment>
+    <rdfs:comment xml:lang="fr">En météorologie, un nuage est une masse visible constituée initialement d&#39;une grande quantité de gouttelettes d’eau (parfois de cristaux de glace associés à des aérosols chimiques ou des minéraux) en suspension dans l’atmosphère au-dessus de la surface d&#39;une planète. L’aspect d&#39;un nuage dépend de la lumière qu’il reçoit, de la nature, de la dimension, du nombre et de la répartition des particules qui le constituent. Les gouttelettes d’eau d’un nuage proviennent de la condensation de la vapeur d’eau contenue dans l’air. La quantité maximale de vapeur d’eau (gaz invisible) qui peut être contenue dans une masse d&#39;air est fonction de la température : plus l’air est chaud, plus il peut contenir de vapeur d’eau.(Voir les articles Pression de vapeur saturante et Formule de Clapeyron)</rdfs:comment>
+    <rdfs:comment xml:lang="nl">Een wolk is een zichtbare verzameling wolkenelementen – al dan niet onderkoelde waterdruppeltjes of ijskristalletjes – in de atmosfeer op enige hoogte van het aardoppervlak. Waterwolken ontstaan doordat waterdamp in verzadigde lucht condenseert rond condensatiekernen. Waterdamp kan ook verrijpen tot ijskristalletjes om zo ijswolken te vormen. In gemengde wolken komen zowel waterdruppeltjes als ijskristallen voor.</rdfs:comment>
+    <rdfs:comment xml:lang="ru">Облака́ — взвешенные в атмосфере продукты конденсации водяного пара, видимые на небе невооруженным глазом и с поверхности Земли и из космического пространства. Облака состоят из мельчайших капель воды и/или кристаллов льда (называемых облачными элементами). Капельные облачные элементы наблюдаются при температуре воздуха в облаке выше −10 °C; от −10 до −15 °C облака имеют смешанный состав (капли и кристаллы), а при температуре в облаке ниже −15 °C — кристаллические.</rdfs:comment>
+    <rdfs:comment xml:lang="it">In meteorologia una nuvola, nel linguaggio scientifico chiamata più comunemente nube, è un&#39;idrometeora costituita da minute particelle d&#39;acqua condensata e/o cristalli di ghiaccio, sospese per galleggiamento nell&#39;atmosfera e solitamente non a contatto con il suolo.Dalle nubi si originano le precipitazioni, una delle fasi del ciclo dell&#39;acqua nella biosfera assieme alla condensazione del vapore acqueo. La branca della meteorologia che studia le nuvole e i fenomeni ad esse collegati è detta nefologia.</rdfs:comment>
+    <rdfs:comment xml:lang="ar">السحابة أو الغيمة عبارة عن تجمّع مرئي لجزيئات دقيقة من الماء أو الجليد أو كليهما معًا يتراوح قطرها ما بين 1 إلى 100 ميكرون، تبدو سابحة في الجو على إرتفاعات مُختلفة كما تبدو بأشكالٍ وأحجامٍ وألوانٍ مُتباينة، كما تحتوي على بخار الماء والغبار وكميّة هائلة من الهواء الجاف ومواد سائلة أخرى وجزيئات صلبة مُنبعثة من الغازات الصناعيّة. بما أنّ درجة كثافة السحب هي من 10 إلى 100 مّرة أقل من درجة كثافة الهواء فإنّها تطفو في السماء، أمّا ما يُفسّر تحرّك السحب عبر الرياح هو الحركة الدائمة لجزيئات الهواء التي تدفع كل الكتل التي تحتك بها بما في ذلك السحب.</rdfs:comment>
+    <rdfs:comment xml:lang="pt">Nuvem é um conjunto visível de partículas diminutas de gelo ou água em seu estado líquido ou ainda de ambos ao mesmo tempo (mistas), que se encontram em suspensão na atmosfera, após terem se condensado ou liquefeito em virtude de fenómenos atmosféricos. A nuvem pode também conter partículas de água líquida ou de gelo em maiores dimensões e partículas procedentes, por exemplo, de vapores industriais, de fumaças ou de poeiras.</rdfs:comment>
+    <rdfs:comment xml:lang="es">Una nube es un hidrometeoro que consiste en una masa visible hecha de cristales de nieve o gotas de agua microscópicas suspendidas en la atmósfera. Las nubes dispersan toda la luz visible y por eso se ven blancas. Sin embargo, a veces son demasiado gruesas o densas como para que la luz las atraviese, cuando esto ocurre la coloración se torna gris o incluso negra. Considerando que las nubes son gotas de agua sobre polvo atmosférico y dependiendo de algunos factores, las gotas pueden convertirse en lluvia, granizo o nieve. Las nubes son un aerosol formado por agua evaporada principalmente de los océanos.[cita requerida]</rdfs:comment>
+    <rdfs:comment xml:lang="pl">Chmury – obserwowane w atmosferze skupiska kondensatów substancji występującej w postaci pary. W atmosferze ziemskiej jest to para wodna. Ochładzanie zmniejsza prężność pary nasyconej, osiągnięcie temperatury punktu rosy powoduje nasycenie pary wodnej (saturację), dalsze ochładzanie wywołuje przesycenie i kondensację. Kondensacja i parowanie (w przypadku chmur wodnych) oraz depozycja i sublimacja (w przypadku chmur lodowych) zachodzą w atmosferze na chmurowych lub lodowych jądrach (zarodkach) nukleacji.</rdfs:comment>
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Cloud_cover" />
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Extraterrestrial_atmospheres" />
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Weather_map" />
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Global_dimming" />
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Timeline_of_meteorology" />
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Atmospheric_convection" />
+    <owl:sameAs rdf:resource="http://pl.dbpedia.org/resource/Chmura" />
+    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/Wolke" />
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q8074" />
+    <owl:sameAs rdf:resource="http://eu.dbpedia.org/resource/Hodei" />
+    <owl:sameAs rdf:resource="http://it.dbpedia.org/resource/Nuvola" />
+    <owl:sameAs rdf:resource="http://pt.dbpedia.org/resource/Nuvem" />
+    <owl:sameAs rdf:resource="http://es.dbpedia.org/resource/Nube" />
+    <owl:sameAs rdf:resource="http://ko.dbpedia.org/resource/구름" />
+    <owl:sameAs rdf:resource="http://ja.dbpedia.org/resource/雲" />
+    <owl:sameAs rdf:resource="http://cs.dbpedia.org/resource/Oblak" />
+    <owl:sameAs rdf:resource="http://id.dbpedia.org/resource/Awan" />
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Cloud" />
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q8074" />
+    <owl:sameAs rdf:resource="http://el.dbpedia.org/resource/Νέφος" />
+    <owl:sameAs rdf:resource="http://fr.dbpedia.org/resource/Nuage" />
+    <owl:sameAs rdf:resource="http://nl.dbpedia.org/resource/Wolk" />
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.0csby" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Articles_containing_video_clips" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Clouds" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Climate_forcing_agents" />
+    <dbo:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">47515</dbo:wikiPageID>
+    <dbo:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">744104116</dbo:wikiPageRevisionID>
+    <dbo:wikiPageExternalLink rdf:resource="http://www.usatoday.com/weather/wcloud0.htm" />
+    <dbo:wikiPageExternalLink rdf:resource="http://earthobservatory.nasa.gov/GlobalMaps/view.php?d1=MODAL2_M_CLD_FR#" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.ldeo.columbia.edu/news/2006/04_14_06.htm" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.dailymail.co.uk/sciencetech/article-1228041/Cumulus-Clouds.html" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.lpi.usra.edu/publications/slidesets/clouds/index.shtml" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.ems.psu.edu/~fraser/Bad/BadClouds.html" />
+    <dbo:wikiPageExternalLink rdf:resource="https://www.youtube.com/watch?v=KjlEzCvAaPk" />
+    <dbo:wikiPageExternalLink rdf:resource="http://purl.access.gpo.gov/GPO/gpo13321" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.astronoo.com/en/articles/global-cloud-cover.html" />
+    <dbo:wikiPageExternalLink rdf:resource="http://batonrougebusinessjournal.com/2013/04/04/the-function-of-clouds/" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.theairlinepilots.com/met/clouds.htm" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.cloudappreciationsociety.org/" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.clouds365.com/" />
+    <dbp:name rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Know Your Clouds</dbp:name>
+    <foaf:depiction rdf:resource="http://en.wikipedia.org/wiki/Special:FilePath/Cumulus_clouds_panorama.jpg" />
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Cloud" />
+    <dbo:thumbnail rdf:resource="http://en.wikipedia.org/wiki/Special:FilePath/Cumulus_clouds_panorama.jpg?width=300" />
+    <prov:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Cloud?oldid=744104116" />
+    <dbo:abstract xml:lang="ja">雲（くも、英: cloud）は、大気中にかたまって浮かぶ水滴または氷の粒（氷晶）のことを言う。地球に限らず、また高度に限らず、惑星表面の大気中に浮かぶ水滴や氷晶は雲と呼ばれる。雲を作る水滴や氷晶の1つ1つの粒を雲粒と言う。地上が雲に覆われていると、霧となる。 気象学の中には雲学という分野も存在する。これは、気象観測の手段が乏しかった20世紀前半ごろまで、気象の解析や予測に雲の形や動きなどの観測情報を多用しており、雲の研究が重要視されたことを背景にしている。気象衛星などの登場によって重要性が薄くなり雲学は衰退してきている。 また、雨や雪などの降水現象の発生源となる現象であり、雲の生成から降水までの物理学的な現象を研究する雲物理学というものもある。</dbo:abstract>
+    <dbo:abstract xml:lang="it">In meteorologia una nuvola, nel linguaggio scientifico chiamata più comunemente nube, è un&#39;idrometeora costituita da minute particelle d&#39;acqua condensata e/o cristalli di ghiaccio, sospese per galleggiamento nell&#39;atmosfera e solitamente non a contatto con il suolo.Dalle nubi si originano le precipitazioni, una delle fasi del ciclo dell&#39;acqua nella biosfera assieme alla condensazione del vapore acqueo. La branca della meteorologia che studia le nuvole e i fenomeni ad esse collegati è detta nefologia.</dbo:abstract>
+    <dbo:abstract xml:lang="ar">السحابة أو الغيمة عبارة عن تجمّع مرئي لجزيئات دقيقة من الماء أو الجليد أو كليهما معًا يتراوح قطرها ما بين 1 إلى 100 ميكرون، تبدو سابحة في الجو على إرتفاعات مُختلفة كما تبدو بأشكالٍ وأحجامٍ وألوانٍ مُتباينة، كما تحتوي على بخار الماء والغبار وكميّة هائلة من الهواء الجاف ومواد سائلة أخرى وجزيئات صلبة مُنبعثة من الغازات الصناعيّة. تعتبر السحب عبارة عن شكل من أشكال الرطوبة الجويّة التي يمكن رؤيتها بالعين المجرّدة، حيث تعتبر الشمس المُحرّك الأساسي لدورة الماء، تقوم بتسخين المحيطات التي تحوّل جزءاً من مياهها من حالتها السائلة إلى بخار، فتقوم التيارات الهوائية المتصاعدة بأخذ بخار الماء إلى داخل الغلاف الجوي (حيث درجات الحرارة المنخفضة) فيتكاثف الهواء المشبّع ببخار الماء مكونًا بذلك جزيائات الماء السائلة أو المتجمدة فتمتزج بذرات الغبار مشكلة بذلك السحب. بما أنّ درجة كثافة السحب هي من 10 إلى 100 مّرة أقل من درجة كثافة الهواء فإنّها تطفو في السماء، أمّا ما يُفسّر تحرّك السحب عبر الرياح هو الحركة الدائمة لجزيئات الهواء التي تدفع كل الكتل التي تحتك بها بما في ذلك السحب. تنقسم السحب حسب ارتفاعها إلى 3 أقسام: السحب عالية الارتفاع، السحب متوسطة الارتفاع والسحب منخفضة الارتفاع. تنقسم كل مجموعة من المجموعات الثلاثة إلى عدّة أنواع</dbo:abstract>
+    <dbo:abstract xml:lang="pl">Chmury – obserwowane w atmosferze skupiska kondensatów substancji występującej w postaci pary. W atmosferze ziemskiej jest to para wodna. Ochładzanie zmniejsza prężność pary nasyconej, osiągnięcie temperatury punktu rosy powoduje nasycenie pary wodnej (saturację), dalsze ochładzanie wywołuje przesycenie i kondensację. Kondensacja i parowanie (w przypadku chmur wodnych) oraz depozycja i sublimacja (w przypadku chmur lodowych) zachodzą w atmosferze na chmurowych lub lodowych jądrach (zarodkach) nukleacji.</dbo:abstract>
+    <dbo:abstract xml:lang="en">In meteorology, a cloud is an aerosol comprising a visible mass of minute liquid droplets or frozen crystals, both of which are made of water or various chemicals. The droplets or particles are suspended in the atmosphere above the surface of a planetary body. On Earth, clouds are formed by the saturation of air in the homosphere (which includes the troposphere, stratosphere, and mesosphere). The air may be cooled to its dew point by a variety of atmospheric processes or it may gain moisture (usually in the form of water vapor) from an adjacent source. Nephology is the science of clouds which is undertaken in the cloud physics branch of meteorology. Cloud types in the troposphere, the atmospheric layer closest to Earth&#39;s surface, have Latin names due to the universal adaptation of Luke Howard&#39;s nomenclature. It was formally proposed in December 1802 and published for the first time the following year. It became the basis of a modern international system that classifies these tropospheric aerosols into five physical forms and three altitude levels or étages. These physical types, in approximate descending order of mean altitude range, include cirriform wisps and patches, stratocumuliform layers (mainly structured as rolls, ripples, and patches), cumuliform heaps and tufts, stratiform sheets, and very large cumulonimbiform heaps that often show complex structure. The physical forms are cross-classified by altitude levels to produce ten basic genus-types or genera. Some of these basic types are common to more than one form or more than one level, as illustrated in the stratocumuliform and cumuliform columns of the classification table below. Most genera can be divided into species, some of which are common to more than one genus. These can be subdivided into varieties, some of which are common to more than one genus or species. Cirriform clouds that form higher up in the stratosphere and mesosphere have common names for their main types, but are sub-classified alpha-numerically rather than with the elaborate system of Latin names given to cloud types in the troposphere. They are relatively uncommon and are mostly seen in the polar regions of Earth. Clouds have been observed in the atmospheres of other planets and moons in the Solar System and beyond. However, due to their different temperature characteristics, they are often composed of other substances such as methane, ammonia, and sulfuric acid as well as water.</dbo:abstract>
+    <dbo:abstract xml:lang="pt">Nuvem é um conjunto visível de partículas diminutas de gelo ou água em seu estado líquido ou ainda de ambos ao mesmo tempo (mistas), que se encontram em suspensão na atmosfera, após terem se condensado ou liquefeito em virtude de fenómenos atmosféricos. A nuvem pode também conter partículas de água líquida ou de gelo em maiores dimensões e partículas procedentes, por exemplo, de vapores industriais, de fumaças ou de poeiras. As nuvens apresentam diversas formas, que variam dependendo essencialmente da natureza, dimensões, número e distribuição espacial das partículas que a constituem e das correntes de ventos atmosféricos. A forma e cor da nuvem depende da intensidade e da cor da luz que a nuvem recebe, bem como das posições relativas ocupadas pelo observador e da fonte de luz (sol, lua, raios) em relação à nuvem.</dbo:abstract>
+    <dbo:abstract xml:lang="zh">云是大气层中由水或多种化学物质构成的可见的液滴或冰晶的集合体。这些悬浮的颗粒物也被称作气溶胶，被气象学的分支云物理学所研究。 地球上的云的形成是地球大气中的空气因两种过程而饱和的结果：空气的冷却和水汽的增加。当饱和度足够，降水将形成并下落到地表；幡状云是个例外，降水在到达地表前就被蒸发了。 云是地球上庞大的水循环的有形的结果。太阳照在地球的表面，水蒸发形成水蒸气，一旦水汽过饱和，水分子就会聚集在空气中的微尘（凝结核）周围，由此产生的水滴或冰晶将阳光散射到各个方向，这就产生了云的外观。因为云反射和散射所有波段的电磁波，所以云的颜色成灰度色，云层比较薄时成白色，但是当它们变得太厚或浓密而使得阳光不能通过的话，它们可以看起来是灰色或黑色的。 虽然地球上大部分的云都形成于对流层，但有时也会在平流层和中间层观测到云。这三个大气层的主要圈层和在一起被称为“均质层”。在其之上是热层和散逸层，合称为“非均质层”，是于外层空间的过度区。在太阳系的其它一些行星和卫星上也观测到云。由于各星球的温度特性不同，构成云的物质也有多种，比如甲烷，氨，硫酸。</dbo:abstract>
+    <dbo:abstract xml:lang="de">Eine Wolke (auf die indogermanische Wurzel uelg „feucht, nass“ zurückgehend und daher mit dem Adjektiv welk und dem Flussnamen Wolga sprachlich verwandt) ist eine Ansammlung von sehr feinen Wassertröpfchen (Nebel) oder Eiskristallen in der Atmosphäre. Wolken sind deshalb sichtbar, weil Licht aufgrund der Mie-Streuung gestreut wird, wodurch der Tyndall-Effekt auftritt und die eigentlich farblosen Tröpfchen sichtbar werden. Die Wassertröpfchen bilden sich um Kondensationskerne herum, wenn die relative Feuchtigkeit der Luft 100 % geringfügig (um höchstens 1 %) übersteigt. Dies kann entweder durch Abkühlung der Luft beim Aufsteigen (Thermik, Aufgleiten an anderen Luftschichten oder am Berghang) oder durch Durchmischen zweier Luftmengen geschehen (Richard Mollier). Beim Kondensieren wird die Verdampfungswärme des Wassers frei, welche das Abkühlen bei weiterem Aufsteigen der Luft abschwächt. Dadurch kann die Luft in größere Höhen steigen. Bei ruhiger Luft und wenigen Kondensationskernen kann es zu einer Übersättigung der Luft mit Wasserdampf kommen. Obwohl der relative Wassergehalt dann deutlich mehr als 100 % beträgt, kommt es noch zu keiner Kondensation. Der Wassergehalt muss erst weiter zunehmen, bevor er kondensiert. Bei einer Lufttemperatur unter −10 °C können sich an den Kondensationskernen Eiskristalle (Schneeflocken) durch Resublimation bilden. Kondensationskerne sind elektrisch geladen und haben eine Größe von 1 nm bis 1000 nm. Sie entstehen durch private Haushalte, Industrie, Landwirtschaft, die Natur und kosmische Strahlung (Beispiel Nebelkammer). Nach Beginn der Kondensation kondensiert immer mehr Wasserdampf an dieser Stelle, bis er zu einem sichtbaren Nebeltröpfchen wird. In der meteorologischen Systematik werden die Wolken den Hydrometeoren zugerechnet. Anzutreffen sind Wolken hauptsächlich in der Troposphäre, zum Teil auch in der Stratosphäre und Mesosphäre (leuchtende Nachtwolken). Sie unterscheiden sich in ihrer Entstehung und somit auch in ihren Eigenschaften und sind leicht beobachtbare Merkmale der Wetterlage. Durch die richtige Deutung von Form, Aussehen und Höhe sowie die zeitliche Veränderung der Merkmale lassen sich Aussagen zur lokalen Wetterentwicklung treffen. Um Beobachtungen übertragen zu können, werden Wolken klassifiziert. In der Praxis ist vor allem die Einteilung in Wolkengattungen und Wolkenarten von Bedeutung. In den meisten Gebieten treten bestimmte Wolkenarten gehäuft auf, besonders bei gleichartigen Wetterlagen. Dennoch können nahezu an allen Stellen der Erde sämtliche Wolkenformen vorkommen. Die Klassifikation der Wolken regelt die Weltorganisation für Meteorologie deshalb international einheitlich. Neben ihren optischen Eigenschaften und ihrer Schönheit, die schon immer die Phantasie der Menschen angeregt hat, sind Wolken bei zahlreichen Fragen in der Wissenschaft wichtig. Dies gilt insbesondere für den Strahlungshaushalt der Erde, die Niederschlagsverteilung und die Atmosphärenchemie. Die Nephologie (Wolkenkunde) ist ein selten als eigenständige Fachrichtung angesehener Teilbereich der Meteorologie; als ihr Begründer gilt Luke Howard.</dbo:abstract>
+    <dbo:abstract xml:lang="nl">Een wolk is een zichtbare verzameling wolkenelementen – al dan niet onderkoelde waterdruppeltjes of ijskristalletjes – in de atmosfeer op enige hoogte van het aardoppervlak. Waterwolken ontstaan doordat waterdamp in verzadigde lucht condenseert rond condensatiekernen. Waterdamp kan ook verrijpen tot ijskristalletjes om zo ijswolken te vormen. In gemengde wolken komen zowel waterdruppeltjes als ijskristallen voor.</dbo:abstract>
+    <dbo:abstract xml:lang="es">Una nube es un hidrometeoro que consiste en una masa visible hecha de cristales de nieve o gotas de agua microscópicas suspendidas en la atmósfera. Las nubes dispersan toda la luz visible y por eso se ven blancas. Sin embargo, a veces son demasiado gruesas o densas como para que la luz las atraviese, cuando esto ocurre la coloración se torna gris o incluso negra. Considerando que las nubes son gotas de agua sobre polvo atmosférico y dependiendo de algunos factores, las gotas pueden convertirse en lluvia, granizo o nieve. Las nubes son un aerosol formado por agua evaporada principalmente de los océanos.[cita requerida] Las nubes se observan a simple vista y se clasifican según un sistema internacional creado a comienzos del siglo XIX por Luke Howard, químico y meteorólogo inglés que las dividió en cuatro grandes categorías: 1.  
+*  cirros, que son penachos elevados y en forma de escobilla, compuestos por cristales de hielo; 2.  
+*  estratos, extensas capas nubosas que traen, con frecuencia, lluvia continua; 3.  
+*  nimbos, nubes capaces de formar precipitaciones; 4.  
+*  cúmulos, nubes hinchadas de base plana que cruzan el cielo de verano. Nuestro sistema moderno de clasificación de nubes incluye muchas combinaciones y subdivisiones de estas cuatro categorías básicas. Cuando un meteorólogo habla de precipitación, se refiere a lluvia, nieve o cualquier forma de agua líquida o sólida que se precipita, o cae, del cielo. La cantidad de lluvia caída se mide por medio de pluviómetros. La forma más simple de pluviómetro es un recipiente de lados rectos con una escala, o regla, para medir la profundidad del agua que cae en él. La mayoría de estos aparatos la conducen por un embudo a un tubo más estrecho, para permitir mediciones más precisas de cantidades pequeñas de precipitación. Tal como otros instrumentos meteorológicos, los pluviómetros pueden hacerse de modo que registren sus mediciones en forma continua.</dbo:abstract>
+    <dbo:abstract xml:lang="ru">Облака́ — взвешенные в атмосфере продукты конденсации водяного пара, видимые на небе невооруженным глазом и с поверхности Земли и из космического пространства. Облака состоят из мельчайших капель воды и/или кристаллов льда (называемых облачными элементами). Капельные облачные элементы наблюдаются при температуре воздуха в облаке выше −10 °C; от −10 до −15 °C облака имеют смешанный состав (капли и кристаллы), а при температуре в облаке ниже −15 °C — кристаллические. При укрупнении облачных элементов в результате конденсации скорость их падения возрастает. Если скорость падения облачных элементов превысит скорость восходящего потока, они устремляются к поверхности земли и могут выпасть в виде осадков, если не успеют испариться по пути. Как правило, осадки выпадают из облаков, которые хотя бы в некотором слое имеют смешанный состав (кучево-дождевые, слоисто-дождевые, высоко-слоистые). Слабые моросящие осадки (в виде мороси, снежных зёрен или слабого мелкого снега) могут выпадать из однородных по составу облаков (капельных или кристаллических) — слоистых, слоисто-кучевых.</dbo:abstract>
+    <dbo:abstract xml:lang="fr">En météorologie, un nuage est une masse visible constituée initialement d&#39;une grande quantité de gouttelettes d’eau (parfois de cristaux de glace associés à des aérosols chimiques ou des minéraux) en suspension dans l’atmosphère au-dessus de la surface d&#39;une planète. L’aspect d&#39;un nuage dépend de la lumière qu’il reçoit, de la nature, de la dimension, du nombre et de la répartition des particules qui le constituent. Les gouttelettes d’eau d’un nuage proviennent de la condensation de la vapeur d’eau contenue dans l’air. La quantité maximale de vapeur d’eau (gaz invisible) qui peut être contenue dans une masse d&#39;air est fonction de la température : plus l’air est chaud, plus il peut contenir de vapeur d’eau.(Voir les articles Pression de vapeur saturante et Formule de Clapeyron)</dbo:abstract>
+    <dbp:id rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">gov.dod.dimoc.29265</dbp:id>
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Aerosol" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Convection">
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Cloud" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Cumulonimbus_cloud">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Cloud" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Local_Interstellar_Cloud">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Cloud" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/FlickRocket">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Cloud" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/CLoud">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Cloud" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kahootz">
+    <dbp:operatingSystem rdf:resource="http://dbpedia.org/resource/Cloud" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Dark_nebula">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Cloud" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Cumulus_humilis_cloud">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Cloud" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Low_cloud">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Cloud" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nimbus_cloud">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Cloud" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sky_cover">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Cloud" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Cbeyond">
+    <dbo:product rdf:resource="http://dbpedia.org/resource/Cloud" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sierra_Wave">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Cloud" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Cloud_(disambiguation)">
+    <dbo:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/Cloud" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Wandjina">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Cloud" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Funnel_cloud">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Cloud" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Cloud_formation">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Cloud" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Molecular_cloud">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Cloud" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nebula">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Cloud" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Oort_cloud">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Cloud" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Cumulonimbus_velum">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Cloud" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Diamond_dust">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Cloud" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sagittarius_B2">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Cloud" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sagittarius_Star_Cloud">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Cloud" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Himiko_(Lyman-alpha_blob)">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Cloud" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Atomic_fountain">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Cloud" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Barnard_68">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Cloud" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vapor_cone">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Cloud" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Perseus_molecular_cloud">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Cloud" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Technical_Senior_High_School">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Cloud" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Eisoo">
+    <dbo:industry rdf:resource="http://dbpedia.org/resource/Cloud" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Fluidinfo">
+    <dbo:operatingSystem rdf:resource="http://dbpedia.org/resource/Cloud" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/OTOY">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Cloud" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Dropmyemail">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Cloud" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Plivo">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Cloud" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Referalink_Network">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Cloud" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Synnefo">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Cloud" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Eruption_column">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Cloud" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Veil_Nebula">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Cloud" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Altocumulus_undulatus_cloud">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Cloud" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/GeoOp">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Cloud" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Altostratus_undulatus_cloud">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Cloud" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/DAX_(application)">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Cloud" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/H_I_region">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Cloud" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nimbostratus_cloud">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Cloud" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Stratus_cloud">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Cloud" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Thunderstorm">
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Cloud" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Cumulus_castellanus_cloud">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Cloud" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Cirrus_uncinus_cloud">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Cloud" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hot_tower">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Cloud" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Smith&#39;s_Cloud">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Cloud" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Grapes_from_the_Estate">
+    <dbo:subsequentWork rdf:resource="http://dbpedia.org/resource/Cloud" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/CO-0.40-0.22">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Cloud" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/POLESTAR_XEUS">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Cloud" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Marine_stratocumulus">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Cloud" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Cirrus_cloud">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Cloud" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Atmospheric_optics">
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Cloud" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Pyrocumulonimbus_cloud">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Cloud" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Anthropogenic_cloud">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Cloud" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Taurus_Molecular_Cloud_1">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Cloud" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Protogalaxy">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Cloud" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Benefitalign">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Cloud" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Eurostop">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Cloud" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/ParadisoLMS">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Cloud" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Time_tracking_primaERP">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Cloud" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/VoiceTree_Technologies">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Cloud" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/NGC_206">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Cloud" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Pyrocumulus_cloud">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Cloud" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gas_torus">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Cloud" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/1989_African_Cup_of_Champions_Clubs_Final">
+    <dbp:weather rdf:resource="http://dbpedia.org/resource/Cloud" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Octopus_Media_Technology">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Cloud" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Accessory_cloud">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Cloud" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Coronal_cloud">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Cloud" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Google_Apps_Script">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Cloud" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Music_Kickup">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Cloud" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Outsourcery">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Cloud" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/HVC_127-41-330">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Cloud" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Cirrus_vertebratus">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Cloud" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Cumulonimbus_incus">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Cloud" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/☁">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Cloud" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/LVX">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Cloud" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Convection_cell">
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Cloud" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lagoon_Nebula">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Cloud" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Rainband">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Cloud" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/ArtBabble">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Cloud" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sezmi">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Cloud" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Salt_storm">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Cloud" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mushroom_cloud">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Cloud" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kissflow">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Cloud" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/SecureSafe">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Cloud" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sinch_(company)">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Cloud" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Clouds">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Cloud" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Cirrocumulus_lacunosus">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Cloud" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/G-Cloud">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Cloud" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lyman-alpha_blob_1">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Cloud" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Carrier_cloud">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Cloud" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vexor">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Cloud" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Cirrus_castellanus_cloud">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Cloud" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Cirrus_floccus">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Cloud" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Cirrocumulus_lenticularis">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Cloud" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Cloudy">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Cloud" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vela_Molecular_Ridge">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Cloud" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Leo_Ring">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Cloud" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Cirrocumulus_floccus">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Cloud" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Cirrocumulus_castellanus">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Cloud" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Cirrocumulus_stratiformis">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Cloud" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Cirrostratus_fibratus">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Cloud" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Cirrostratus_nebulosus">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Cloud" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/DR_21">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Cloud" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Cirrus_fibratus">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Cloud" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nephology">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Cloud" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Cloud_Base">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Cloud" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Cloud">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Cloud" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/IContact">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Cloud" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Rain_clouds">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Cloud" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Dredge_plume">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Cloud" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/🌤">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Cloud" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/☁️">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Cloud" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Large_Molecule_Heimat">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Cloud" />
+  </rdf:Description>
+</rdf:RDF>

@@ -1,0 +1,379 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:dct="http://purl.org/dc/terms/"
+	xmlns:dbo="http://dbpedia.org/ontology/"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:prov="http://www.w3.org/ns/prov#"
+	xmlns:dbp="http://dbpedia.org/property/"
+	xmlns:ns8="http://purl.org/linguistics/gold/" >
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Steam_turbine">
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Device" />
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing" />
+    <rdfs:label xml:lang="nl">Stoomturbine</rdfs:label>
+    <rdfs:label xml:lang="zh">蒸汽渦輪發動機</rdfs:label>
+    <rdfs:label xml:lang="es">Turbina de vapor</rdfs:label>
+    <rdfs:label xml:lang="ar">عنفة بخارية</rdfs:label>
+    <rdfs:label xml:lang="it">Turbina a vapore</rdfs:label>
+    <rdfs:label xml:lang="en">Steam turbine</rdfs:label>
+    <rdfs:label xml:lang="de">Dampfturbine</rdfs:label>
+    <rdfs:label xml:lang="pt">Turbina a vapor</rdfs:label>
+    <rdfs:label xml:lang="pl">Turbina parowa</rdfs:label>
+    <rdfs:label xml:lang="ru">Паровая турбина</rdfs:label>
+    <rdfs:label xml:lang="ja">蒸気タービン</rdfs:label>
+    <rdfs:comment xml:lang="it">Una turbina a vapore è una macchina che sfrutta l&#39;energia termica di vapore in pressione, generato a monte da una caldaia, convertendola in lavoro meccanico utile tramite una trasformazione termodinamica di espansione.</rdfs:comment>
+    <rdfs:comment xml:lang="ar">عنفة بخارية أو توربين بخاري ( بالإنجليزية: Steam turbine ) هي من أهم أنواع العنفات التي تستخدم في محطات توليد الطاقة الكهربائية. هي جهاز ميكانيكي يستخرج الطاقة الحرارية من ضغط البخار، ويحولها إلى حركة دوارة. مظهره العصري اخترعه السير تشارلز بارسونز في عام 1884.و حل تقريبا محل الآلة البخارية التي كانت تعمل بمكبس . يعود ذلك في المقام الأول لزيادة الكفاءة الحرارية له وزيادة الطاقة المولدة منه بالنسبة إلى الوزن . لأن التوربينات تولد الحركة الدوارة ، فهى مناسبة بصفة خاصة لاستخدامها لتدوير المولدات الكهربائية التي تنتج التيار الكهربائي على المستوى الكبير في محطات القوى — حوالي 80 ٪ من الكهرباء المولدة في العالم يتم عن طريق استخدام التوربينات البخارية. هذا ينطبق على محطات القوي التي تعمل بالفحم أو بالنفط أو المفاعلات النووية ، إذ أنها جميعها تحول حرارة الوقود إلى بخار ذو ضغط عالي ، وعن طريقة يتم </rdfs:comment>
+    <rdfs:comment xml:lang="ja">蒸気タービン（じょうきタービン、英: steam turbine）は、蒸気のもつエネルギーを、タービン（羽根車）と軸を介して回転運動へと変換する外燃機関である。火力・原子力・地熱などによる発電や産業用途（発電・ポンプ駆動等）に利用される。蒸気としては一般に水蒸気が使われる。 蒸気を利用する原動機としては、蒸気タービンの他に、蒸気でシリンダ内のピストンを往復運動させるレシプロ型の蒸気エンジンが存在する。レシプロ型については蒸気機関を参照のこと。</rdfs:comment>
+    <rdfs:comment xml:lang="es">Una turbina de vapor es una turbomáquina motora, que transforma la energía de un flujo de vapor en energía mecánica a través de un intercambio de cantidad de movimiento entre el fluido de trabajo (entiéndase el vapor) y el rodete, órgano principal de la turbina, que cuenta con palas o álabes los cuales tienen una forma particular para poder realizar el intercambio energético. Las turbinas de vapor están presentes en diversos ciclos de potencia que utilizan un fluido que pueda cambiar de fase, entre éstos el más importante es el ciclo de Rankine, el cual genera el vapor en una caldera, de la cual sale en unas condiciones de elevada temperatura y presión. En la turbina se transforma la energía interna del vapor en energía mecánica que, normalmente, se transmite a un generador para producir e</rdfs:comment>
+    <rdfs:comment xml:lang="nl">Een stoomturbine is een apparaat dat wordt gebruikt om de hoge druk van stoom om te zetten in rotatie van een as die een uitgaand (as)vermogen levert. Dit type turbine wordt voornamelijk toegepast in elektriciteitscentrales, maar ook wel bij andere toepassingen waar grote vermogens nodig zijn zoals zeeschepen.</rdfs:comment>
+    <rdfs:comment xml:lang="pl">Turbina parowa – turbina, w której czynnikiem obiegowym jest para wodna. Pierwowzorem turbiny parowej była bania Herona. Jest to silnik (maszyna cieplna) wykorzystujący energię cieplną pary wodnej, wytworzonej zwykle w kotle parowym lub wytwornicy pary, do wytworzenia energii mechanicznej, odprowadzanej wałem do innej maszyny, np. generatora elektrycznego.</rdfs:comment>
+    <rdfs:comment xml:lang="pt">Turbina a vapor é a máquina térmica que utiliza a energia do vapor sob forma de energia cinética. Quando a turbina é acoplada a um gerador, se obtém a transformação da energia mecânica em energia elétrica. A turbina pode ser dividida em 3 tipos com relação à sua construção: 
+*  Turbinas de ação 
+*  Turbinas de reação 
+*  Turbinas de ação e reação Em relação à necessidade pode ser dividido em 4 tipos: 
+*  Condensação 
+*  Condensação com extração 
+*  Contra pressão 
+*  Contra-pressão com extração Com relação ao fluxo podemos ter: 
+*  Duplo fluxo 
+*  Fluxo único</rdfs:comment>
+    <rdfs:comment xml:lang="de">Eine Dampfturbine ist eine Turbinenbauart. Sie besteht aus einer schnell rotierenden Welle, bestückt mit vielen Turbinenschaufeln, die von Wasserdampf angeströmt werden.</rdfs:comment>
+    <rdfs:comment xml:lang="en">A steam turbine is a device that extracts thermal energy from pressurized steam and uses it to do mechanical work on a rotating output shaft. Its modern manifestation was invented by Sir Charles Parsons in 1884.</rdfs:comment>
+    <rdfs:comment xml:lang="ru">Парова́я турби́на — тепловой двигатель, в котором энергия пара преобразуется в механическую работу. В лопаточном аппарате паровой турбины потенциальная энергия сжатого и нагретого водяного пара преобразуется в кинетическую, которая в свою очередь преобразуется в механическую работу — вращение вала турбины. Пар от парокотельного агрегата поступает через направляющие аппараты на криволинейные лопатки, закрепленные по окружности ротора, и воздействуя на них, приводит ротор во вращение. Паровая турбина является одним из элементов паротурбинной установки (ПТУ).</rdfs:comment>
+    <rdfs:comment xml:lang="zh">蒸汽渦輪發動機（Steam turbine）是一種擷取（將水加熱後形成的）蒸汽之動能轉換為渦輪轉動之動能的機械。相較於原由詹姆斯·瓦特發明的單級往復式蒸汽機，渦輪蒸汽機大幅提高了熱效率，更接近熱力學中理想的可逆過程，並能提供更大的功率，至今它幾乎取代了往復式蒸汽機。使用渦輪蒸汽機发电的电厂叫做热电厂，其特別適用於火力發電和核能發電，世界上大約80%的電能是渦輪蒸汽機所產生。船舶领域主要用于大型舰船。 
+* 一具現代蒸汽渦輪發動機總成 
+* 1910年製250kw小型蒸汽渦輪發動機</rdfs:comment>
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Marine_steam_engine" />
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Steam_engine" />
+    <owl:sameAs rdf:resource="http://it.dbpedia.org/resource/Turbina_a_vapore" />
+    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/Dampfturbine" />
+    <owl:sameAs rdf:resource="http://es.dbpedia.org/resource/Turbina_de_vapor" />
+    <owl:sameAs rdf:resource="http://cs.dbpedia.org/resource/Parní_turbína" />
+    <owl:sameAs rdf:resource="http://ja.dbpedia.org/resource/蒸気タービン" />
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q189859" />
+    <owl:sameAs rdf:resource="http://id.dbpedia.org/resource/Turbin_uap" />
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Steam_turbine" />
+    <owl:sameAs rdf:resource="http://d-nb.info/gnd/4011002-3" />
+    <owl:sameAs rdf:resource="http://eu.dbpedia.org/resource/Lurrun-turbina" />
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.078l2" />
+    <owl:sameAs rdf:resource="http://nl.dbpedia.org/resource/Stoomturbine" />
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q189859" />
+    <owl:sameAs rdf:resource="http://ko.dbpedia.org/resource/증기_터빈" />
+    <owl:sameAs rdf:resource="http://pl.dbpedia.org/resource/Turbina_parowa" />
+    <owl:sameAs rdf:resource="http://pt.dbpedia.org/resource/Turbina_a_vapor" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Steam_engines" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Steam_turbines" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:1884_introductions" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:English_inventions" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:History_of_the_steam_engine" />
+    <dbo:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">29374</dbo:wikiPageID>
+    <dbo:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">745294685</dbo:wikiPageRevisionID>
+    <dbo:wikiPageExternalLink rdf:resource="http://www.powerplant.vissim.com" />
+    <dbo:wikiPageExternalLink rdf:resource="http://mda139.net/steamturbine/index.html" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.softinway.com/flow-phenomenon-in-steam-turbine-disk-stator-cavities-channeled-by-balance-holes/" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.spiraxsarco.com/resources/steam-engineering-tutorials/steam-engineering-principles-and-heat-transfer/superheated-steam.asp" />
+    <dbo:wikiPageExternalLink rdf:resource="https://books.google.com/books?id=79oDAAAAMBAJ&amp;pg=PA236&amp;dq=Popular+Science+1933+plane+%22Popular+Mechanics%22&amp;hl=en&amp;ei=RasMTuyGFYifsQLC3sGzCg&amp;sa=X&amp;oi=book_result&amp;ct=result&amp;resnum=2&amp;ved=0CC0Q6AEwATgK#v=onepage&amp;q&amp;f=true" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.aqpl43.dsl.pipex.com/MUSEUM/LOCOLOCO/locoloco.htm" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.engwonders.byethost9.com/e074.html" />
+    <foaf:depiction rdf:resource="http://en.wikipedia.org/wiki/Special:FilePath/Dampfturbine_Laeufer01.jpg" />
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Steam_turbine" />
+    <dbo:thumbnail rdf:resource="http://en.wikipedia.org/wiki/Special:FilePath/Dampfturbine_Laeufer01.jpg?width=300" />
+    <prov:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Steam_turbine?oldid=745294685" />
+    <dbo:abstract xml:lang="ar">عنفة بخارية أو توربين بخاري ( بالإنجليزية: Steam turbine ) هي من أهم أنواع العنفات التي تستخدم في محطات توليد الطاقة الكهربائية. هي جهاز ميكانيكي يستخرج الطاقة الحرارية من ضغط البخار، ويحولها إلى حركة دوارة. مظهره العصري اخترعه السير تشارلز بارسونز في عام 1884.و حل تقريبا محل الآلة البخارية التي كانت تعمل بمكبس . يعود ذلك في المقام الأول لزيادة الكفاءة الحرارية له وزيادة الطاقة المولدة منه بالنسبة إلى الوزن . لأن التوربينات تولد الحركة الدوارة ، فهى مناسبة بصفة خاصة لاستخدامها لتدوير المولدات الكهربائية التي تنتج التيار الكهربائي على المستوى الكبير في محطات القوى — حوالي 80 ٪ من الكهرباء المولدة في العالم يتم عن طريق استخدام التوربينات البخارية. هذا ينطبق على محطات القوي التي تعمل بالفحم أو بالنفط أو المفاعلات النووية ، إذ أنها جميعها تحول حرارة الوقود إلى بخار ذو ضغط عالي ، وعن طريقة يتم تشغيل التوربين البخاري ومعه يدور المولد الكهربائي فتنتج الطاقة الكهربائية التي تشغل المصانع وتمد المنازل بالكهرباء. كذلك تقوم محطات استغلال الطاقة الشمسية المبنية على تسخين الماء أو تسخين الزيت أو تسخين الأملاح ، فهي تسخن بحرارة الشمس الماء وتحوله إلى بخار ، ومن البخار ينتج التيار الكهربائي بواسطة توربين ومولد كهربائي . تتكون العنفة من جزئين رئيسيين هما: 
+*  الجزء الدوار. 
+*  الجزء الساكن. تقسم العنفات حسب الطريقة التي يوجه بها البخار إلى ريش Blades الجزء الدوار وتقسم إلى قسمين: 
+*  عنفات دفعية. 
+*  توربينات تعمل برد الفعل. في العنفة الدفعية البسيطة يركب عدد من العجلات التي تحمل كل منها صف من الريش بطول محيطهاوتدعى الريش المتحركة, على عامود واحد مشترك. ويوجد أمام كل عجلة قرص معدني ساكن, به فتحات(هذه الفتحات تتشكل من الريش الساكنة) تعمل بمثابة فوهات لتوجيه منافث البخار إلى الريش، وبعد مرور البخار إلى ريش العجلة الأولى، فإنه يوجه بواسطة مجموعة أخرى من الفوهات(فوهات التوجيه) إلى المجموعة الثانية, وهكذا خلال المراحل المتتالية, حتى تستنفذ كل الطاقة الممكنة من البخار. في العنفة التي تعمل برد الفعل، تـُستبدل بالفوهات حلقات من الريش الساكنة تتخلل صفوف الريش المتحركة, ويمكن الحصول على القوة المحركة بتأثير رد الفعل الناشيء من البخار نتيجة لمروره بين الريش المتحركة والساكنة.ان رد الفعل ينشا في الريش المتحركة بسب شكلها الهندسي نظرا لان البخار يفقد بعضا من قوته بعد مروره بكل حلقة من الحلقات ذات الريش، لذا فأن هذه الحلقات تُصنع بأقطار متدرجة في الكبر حتى يمكن الحصول على أقصى جهد ممكن من البخار الذي ينخفض ضغطه بعد كل مرحلة.</dbo:abstract>
+    <dbo:abstract xml:lang="de">Eine Dampfturbine ist eine Turbinenbauart. Sie besteht aus einer schnell rotierenden Welle, bestückt mit vielen Turbinenschaufeln, die von Wasserdampf angeströmt werden.</dbo:abstract>
+    <dbo:abstract xml:lang="nl">Een stoomturbine is een apparaat dat wordt gebruikt om de hoge druk van stoom om te zetten in rotatie van een as die een uitgaand (as)vermogen levert. Dit type turbine wordt voornamelijk toegepast in elektriciteitscentrales, maar ook wel bij andere toepassingen waar grote vermogens nodig zijn zoals zeeschepen.</dbo:abstract>
+    <dbo:abstract xml:lang="pl">Turbina parowa – turbina, w której czynnikiem obiegowym jest para wodna. Pierwowzorem turbiny parowej była bania Herona. Jest to silnik (maszyna cieplna) wykorzystujący energię cieplną pary wodnej, wytworzonej zwykle w kotle parowym lub wytwornicy pary, do wytworzenia energii mechanicznej, odprowadzanej wałem do innej maszyny, np. generatora elektrycznego.</dbo:abstract>
+    <dbo:abstract xml:lang="en">A steam turbine is a device that extracts thermal energy from pressurized steam and uses it to do mechanical work on a rotating output shaft. Its modern manifestation was invented by Sir Charles Parsons in 1884. Because the turbine generates rotary motion, it is particularly suited to be used to drive an electrical generator – about 90% of all electricity generation in the United States (1996) is by use of steam turbines. The steam turbine is a form of heat engine that derives much of its improvement in thermodynamic efficiency from the use of multiple stages in the expansion of the steam, which results in a closer approach to the ideal reversible expansion process.</dbo:abstract>
+    <dbo:abstract xml:lang="ru">Парова́я турби́на — тепловой двигатель, в котором энергия пара преобразуется в механическую работу. В лопаточном аппарате паровой турбины потенциальная энергия сжатого и нагретого водяного пара преобразуется в кинетическую, которая в свою очередь преобразуется в механическую работу — вращение вала турбины. Пар от парокотельного агрегата поступает через направляющие аппараты на криволинейные лопатки, закрепленные по окружности ротора, и воздействуя на них, приводит ротор во вращение. Паровая турбина является одним из элементов паротурбинной установки (ПТУ). Паровая турбина и электрогенератор составляют турбоагрегат.</dbo:abstract>
+    <dbo:abstract xml:lang="ja">蒸気タービン（じょうきタービン、英: steam turbine）は、蒸気のもつエネルギーを、タービン（羽根車）と軸を介して回転運動へと変換する外燃機関である。火力・原子力・地熱などによる発電や産業用途（発電・ポンプ駆動等）に利用される。蒸気としては一般に水蒸気が使われる。 蒸気を利用する原動機としては、蒸気タービンの他に、蒸気でシリンダ内のピストンを往復運動させるレシプロ型の蒸気エンジンが存在する。レシプロ型については蒸気機関を参照のこと。</dbo:abstract>
+    <dbo:abstract xml:lang="it">Una turbina a vapore è una macchina che sfrutta l&#39;energia termica di vapore in pressione, generato a monte da una caldaia, convertendola in lavoro meccanico utile tramite una trasformazione termodinamica di espansione.</dbo:abstract>
+    <dbo:abstract xml:lang="pt">Turbina a vapor é a máquina térmica que utiliza a energia do vapor sob forma de energia cinética. Quando a turbina é acoplada a um gerador, se obtém a transformação da energia mecânica em energia elétrica. A turbina pode ser dividida em 3 tipos com relação à sua construção: 
+*  Turbinas de ação 
+*  Turbinas de reação 
+*  Turbinas de ação e reação Em relação à necessidade pode ser dividido em 4 tipos: 
+*  Condensação 
+*  Condensação com extração 
+*  Contra pressão 
+*  Contra-pressão com extração Com relação ao fluxo podemos ter: 
+*  Duplo fluxo 
+*  Fluxo único</dbo:abstract>
+    <dbo:abstract xml:lang="es">Una turbina de vapor es una turbomáquina motora, que transforma la energía de un flujo de vapor en energía mecánica a través de un intercambio de cantidad de movimiento entre el fluido de trabajo (entiéndase el vapor) y el rodete, órgano principal de la turbina, que cuenta con palas o álabes los cuales tienen una forma particular para poder realizar el intercambio energético. Las turbinas de vapor están presentes en diversos ciclos de potencia que utilizan un fluido que pueda cambiar de fase, entre éstos el más importante es el ciclo de Rankine, el cual genera el vapor en una caldera, de la cual sale en unas condiciones de elevada temperatura y presión. En la turbina se transforma la energía interna del vapor en energía mecánica que, normalmente, se transmite a un generador para producir electricidad. En una turbina se pueden distinguir dos partes, el rotor y el estátor. El rotor está formado por ruedas de álabes unidas al eje y que constituyen la parte móvil de la turbina. El estátor también está formado por álabes, no unidos al eje sino a la carcasa de la turbina. El término turbina de vapor es muy utilizado para referirse a una máquina motora la cual cuenta con un conjunto de turbinas para transformar la energía del vapor, también al conjunto del rodete y los álabes directores. La turbina de vapor moderna fue inventada en 1884 por sir Charles Parsons, cuyo primer modelo fue conectado a una dinamo que generaba 7.5 kW (10 hp) de potencia. La invención de la turbina de vapor de Parsons hizo posible una electricidad barata y abundante y revolucionó el transporte marítimo y la guerra naval.</dbo:abstract>
+    <dbo:abstract xml:lang="zh">蒸汽渦輪發動機（Steam turbine）是一種擷取（將水加熱後形成的）蒸汽之動能轉換為渦輪轉動之動能的機械。相較於原由詹姆斯·瓦特發明的單級往復式蒸汽機，渦輪蒸汽機大幅提高了熱效率，更接近熱力學中理想的可逆過程，並能提供更大的功率，至今它幾乎取代了往復式蒸汽機。使用渦輪蒸汽機发电的电厂叫做热电厂，其特別適用於火力發電和核能發電，世界上大約80%的電能是渦輪蒸汽機所產生。船舶领域主要用于大型舰船。 
+* 一具現代蒸汽渦輪發動機總成 
+* 1910年製250kw小型蒸汽渦輪發動機</dbo:abstract>
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Device" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/SS_West_Eldara">
+    <dbo:powerType rdf:resource="http://dbpedia.org/resource/Steam_turbine" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/SS_West_Lashaway">
+    <dbo:powerType rdf:resource="http://dbpedia.org/resource/Steam_turbine" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/SS_West_Maximus">
+    <dbo:powerType rdf:resource="http://dbpedia.org/resource/Steam_turbine" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/USS_West_Hobomac_(ID-3335)">
+    <dbo:powerType rdf:resource="http://dbpedia.org/resource/Steam_turbine" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Liddell_Power_Station">
+    <dbp:geoType rdf:resource="http://dbpedia.org/resource/Steam_turbine" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Metropolitan-Vickers">
+    <dbo:product rdf:resource="http://dbpedia.org/resource/Steam_turbine" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Rock_River_Generating_Station">
+    <dbp:thTechnology rdf:resource="http://dbpedia.org/resource/Steam_turbine" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Portlands_Energy_Centre">
+    <dbp:thTechnology rdf:resource="http://dbpedia.org/resource/Steam_turbine" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/RMS_Carinthia_(1955)">
+    <dbo:powerType rdf:resource="http://dbpedia.org/resource/Steam_turbine" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nanticoke_Generating_Station">
+    <dbp:thTechnology rdf:resource="http://dbpedia.org/resource/Steam_turbine" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Homer_City_Generating_Station">
+    <dbp:psUnitsOperational rdf:resource="http://dbpedia.org/resource/Steam_turbine" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lakeview_Generating_Station">
+    <dbp:thTechnology rdf:resource="http://dbpedia.org/resource/Steam_turbine" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Blackhawk_Generating_Station">
+    <dbp:thTechnology rdf:resource="http://dbpedia.org/resource/Steam_turbine" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Blount_Generating_Station">
+    <dbp:psUnitsOperational rdf:resource="http://dbpedia.org/resource/Steam_turbine" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Valley_Power_Plant">
+    <dbp:psUnitsOperational rdf:resource="http://dbpedia.org/resource/Steam_turbine" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/PRR_S2">
+    <dbo:powerType rdf:resource="http://dbpedia.org/resource/Steam_turbine" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Fox_Energy_Center">
+    <dbp:thTechnology rdf:resource="http://dbpedia.org/resource/Steam_turbine" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Germantown_Power_Plant">
+    <dbp:thTechnology rdf:resource="http://dbpedia.org/resource/Steam_turbine" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/West_Campus_Cogeneration_Facility">
+    <dbp:thTechnology rdf:resource="http://dbpedia.org/resource/Steam_turbine" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/RMS_Carthage">
+    <dbo:powerType rdf:resource="http://dbpedia.org/resource/Steam_turbine" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hearn_Generating_Station">
+    <dbp:thTechnology rdf:resource="http://dbpedia.org/resource/Steam_turbine" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Monroe_Power_Plant">
+    <dbp:thTechnology rdf:resource="http://dbpedia.org/resource/Steam_turbine" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/SS_Adolph_Woermann">
+    <dbo:powerType rdf:resource="http://dbpedia.org/resource/Steam_turbine" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Design_1013_ship">
+    <dbo:powerType rdf:resource="http://dbpedia.org/resource/Steam_turbine" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/SS_West_Elcajon">
+    <dbo:powerType rdf:resource="http://dbpedia.org/resource/Steam_turbine" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/SS_West_Gotomska">
+    <dbo:powerType rdf:resource="http://dbpedia.org/resource/Steam_turbine" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/SS_West_Hosokie">
+    <dbo:powerType rdf:resource="http://dbpedia.org/resource/Steam_turbine" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/SS_West_Humhaw">
+    <dbo:powerType rdf:resource="http://dbpedia.org/resource/Steam_turbine" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/SS_West_Loquassuck">
+    <dbo:powerType rdf:resource="http://dbpedia.org/resource/Steam_turbine" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/SS_West_Mahomet">
+    <dbo:powerType rdf:resource="http://dbpedia.org/resource/Steam_turbine" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/USS_West_Elcasco_(ID-3661)">
+    <dbo:powerType rdf:resource="http://dbpedia.org/resource/Steam_turbine" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/USS_Western_Front_(ID-1787)">
+    <dbo:powerType rdf:resource="http://dbpedia.org/resource/Steam_turbine" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/AG_Weser">
+    <dbo:product rdf:resource="http://dbpedia.org/resource/Steam_turbine" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kashima_Power_Station">
+    <dbp:thTechnology rdf:resource="http://dbpedia.org/resource/Steam_turbine" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Plant_Bowen">
+    <dbp:thTechnology rdf:resource="http://dbpedia.org/resource/Steam_turbine" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Pittsfield_Generating_Facility">
+    <dbp:thTechnology rdf:resource="http://dbpedia.org/resource/Steam_turbine" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/SS_Hopestar">
+    <dbo:powerType rdf:resource="http://dbpedia.org/resource/Steam_turbine" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Deutsche_Schiff-_und_Maschinenbau">
+    <dbo:product rdf:resource="http://dbpedia.org/resource/Steam_turbine" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/SS_San_Flaviano">
+    <dbp:shipPropulsion rdf:resource="http://dbpedia.org/resource/Steam_turbine" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/RMS_Sylvania">
+    <dbo:powerType rdf:resource="http://dbpedia.org/resource/Steam_turbine" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/RMS_Victorian">
+    <dbp:shipPropulsion rdf:resource="http://dbpedia.org/resource/Steam_turbine" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gustaf_de_Laval">
+    <dbo:knownFor rdf:resource="http://dbpedia.org/resource/Steam_turbine" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/SS_Politician">
+    <dbo:powerType rdf:resource="http://dbpedia.org/resource/Steam_turbine" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/SS_Patroclus_(1923)">
+    <dbo:powerType rdf:resource="http://dbpedia.org/resource/Steam_turbine" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/SS_Transylvania_(1914)">
+    <dbo:powerType rdf:resource="http://dbpedia.org/resource/Steam_turbine" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/SS_Liberty_Glo">
+    <dbo:powerType rdf:resource="http://dbpedia.org/resource/Steam_turbine" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Parsons_turbine">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Steam_turbine" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bristol_Tramp">
+    <dbp:typeOfProp rdf:resource="http://dbpedia.org/resource/Steam_turbine" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/USS_Wharton_(AP-7)">
+    <dbp:shipPropulsion rdf:resource="http://dbpedia.org/resource/Steam_turbine" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/GE_steam_turbine_locomotives">
+    <dbo:powerType rdf:resource="http://dbpedia.org/resource/Steam_turbine" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/H._R._Milner_Generating_Station">
+    <dbp:thTechnology rdf:resource="http://dbpedia.org/resource/Steam_turbine" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lennox_Generating_Station">
+    <dbp:thTechnology rdf:resource="http://dbpedia.org/resource/Steam_turbine" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/SS_President_Cleveland_(1920)">
+    <dbp:shipPropulsion rdf:resource="http://dbpedia.org/resource/Steam_turbine" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Atikokan_Generating_Station">
+    <dbp:thTechnology rdf:resource="http://dbpedia.org/resource/Steam_turbine" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Thunder_Bay_Generating_Station">
+    <dbp:thTechnology rdf:resource="http://dbpedia.org/resource/Steam_turbine" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Anegasaki_Power_Station">
+    <dbp:thTechnology rdf:resource="http://dbpedia.org/resource/Steam_turbine" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Athlone_Power_Station">
+    <dbp:thTechnology rdf:resource="http://dbpedia.org/resource/Steam_turbine" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Boundary_Dam_Power_Station">
+    <dbp:thTechnology rdf:resource="http://dbpedia.org/resource/Steam_turbine" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Brandon_Generating_Station">
+    <dbp:thTechnology rdf:resource="http://dbpedia.org/resource/Steam_turbine" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Burrard_Generating_Station">
+    <dbp:thTechnology rdf:resource="http://dbpedia.org/resource/Steam_turbine" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kawagoe_Power_Station">
+    <dbp:thTechnology rdf:resource="http://dbpedia.org/resource/Steam_turbine" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Poplar_River_Power_Station">
+    <dbp:thTechnology rdf:resource="http://dbpedia.org/resource/Steam_turbine" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Queen_Elizabeth_Power_Station">
+    <dbp:thTechnology rdf:resource="http://dbpedia.org/resource/Steam_turbine" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/SS_Europa_(1928)">
+    <dbo:powerType rdf:resource="http://dbpedia.org/resource/Steam_turbine" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Curtis_turbine">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Steam_turbine" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/USS_De_Grasse_(ID-1217)">
+    <dbp:shipPropulsion rdf:resource="http://dbpedia.org/resource/Steam_turbine" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/SS_Sarpedon_(1923)">
+    <dbo:powerType rdf:resource="http://dbpedia.org/resource/Steam_turbine" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vaygach_(1989_icebreaker)">
+    <dbo:powerType rdf:resource="http://dbpedia.org/resource/Steam_turbine" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Steam_turbines">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Steam_turbine" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bayswater_Power_Station">
+    <dbp:geoType rdf:resource="http://dbpedia.org/resource/Steam_turbine" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Charles_Algernon_Parsons">
+    <dbo:knownFor rdf:resource="http://dbpedia.org/resource/Steam_turbine" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mohave_Power_Station">
+    <dbp:thTechnology rdf:resource="http://dbpedia.org/resource/Steam_turbine" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lambton_Generating_Station">
+    <dbp:thTechnology rdf:resource="http://dbpedia.org/resource/Steam_turbine" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Meridian_Power_Station">
+    <dbp:thTechnology rdf:resource="http://dbpedia.org/resource/Steam_turbine" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Genesee_Generating_Station">
+    <dbp:thTechnology rdf:resource="http://dbpedia.org/resource/Steam_turbine" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Keephills_Generating_Station">
+    <dbp:thTechnology rdf:resource="http://dbpedia.org/resource/Steam_turbine" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/SS_Wafra_oil_spill">
+    <dbp:shipPropulsion rdf:resource="http://dbpedia.org/resource/Steam_turbine" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/USS_Edward_Rutledge_(AP-52)">
+    <dbp:shipPropulsion rdf:resource="http://dbpedia.org/resource/Steam_turbine" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/USS_Gemini_(AP-75)">
+    <dbp:shipPropulsion rdf:resource="http://dbpedia.org/resource/Steam_turbine" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/USS_Katrina_Luckenbach_(ID-3020)">
+    <dbp:shipPropulsion rdf:resource="http://dbpedia.org/resource/Steam_turbine" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/TSS_Caledonian_Princess">
+    <dbo:powerType rdf:resource="http://dbpedia.org/resource/Steam_turbine" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Steam_Turbine">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Steam_turbine" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Parsons_geared_turbine">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Steam_turbine" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Curtis_steam_turbine">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Steam_turbine" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Steam_turbine">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Steam_turbine" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Direct_drive_turbine">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Steam_turbine" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Geared_turbine">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Steam_turbine" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Turbine_Steam_Ship">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Steam_turbine" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Turbine_steam_ship">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Steam_turbine" />
+  </rdf:Description>
+</rdf:RDF>

@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:dbo="http://dbpedia.org/ontology/"
+	xmlns:dct="http://purl.org/dc/terms/"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	xmlns:prov="http://www.w3.org/ns/prov#"
+	xmlns:ns8="http://dbpedia.org/ontology/PopulatedPlace/"
+	xmlns:georss="http://www.georss.org/georss/"
+	xmlns:dbp="http://dbpedia.org/property/"
+	xmlns:ns11="http://purl.org/linguistics/gold/" >
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kumi_Yokoyama">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Tama,_Tokyo" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Naoya_Saeki">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Tama,_Tokyo" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tama-shi">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Tama,_Tokyo" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tama">
+    <dbo:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/Tama,_Tokyo" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Juki">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Tama,_Tokyo" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tama,_Tokyo">
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q515" />
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatCitiesInJapan" />
+    <rdf:type rdf:resource="http://schema.org/City" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Location" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Place" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/PopulatedPlace" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/District108552138" />
+    <rdf:type rdf:resource="http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PhysicalEntity100001930" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatCitiesInTokyo" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Location100027167" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/AdministrativeDistrict108491826" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Object100002684" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Region108630985" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoLegalActorGeo" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoGeoEntity" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoPermanentlyLocatedEntity" />
+    <rdf:type rdf:resource="http://schema.org/Place" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatPlannedCitiesInJapan" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Municipality108626283" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/UrbanArea108675967" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/City" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Settlement" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q486972" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/City108524735" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/GeographicalArea108574314" />
+    <rdfs:label xml:lang="zh">多摩市</rdfs:label>
+    <rdfs:label xml:lang="fr">Tama (Tokyo)</rdfs:label>
+    <rdfs:label xml:lang="ar">تاما (طوكيو)</rdfs:label>
+    <rdfs:label xml:lang="pt">Tama (Tóquio)</rdfs:label>
+    <rdfs:label xml:lang="ru">Тама (город)</rdfs:label>
+    <rdfs:label xml:lang="en">Tama, Tokyo</rdfs:label>
+    <rdfs:label xml:lang="ja">多摩市</rdfs:label>
+    <rdfs:label xml:lang="it">Tama (Tokyo)</rdfs:label>
+    <rdfs:label xml:lang="nl">Tama (Tokio)</rdfs:label>
+    <rdfs:label xml:lang="de">Tama (Tokio)</rdfs:label>
+    <rdfs:label xml:lang="es">Tama (Tokio)</rdfs:label>
+    <rdfs:label xml:lang="pl">Tama (miasto)</rdfs:label>
+    <rdfs:comment xml:lang="fr">Tama (多摩市, Tama-shi) est une ville du Japon située dans la préfecture de Tokyo. Tama fut fondée le 1er avril 1889. On y trouve notamment le parc à thème Sanrio Puroland, sur le thème des créations de Sanrio (Hello Kitty, Little Twin Stars…).</rdfs:comment>
+    <rdfs:comment xml:lang="it">Tama (多摩市?) è una città giapponese conurbata in Tokyo.</rdfs:comment>
+    <rdfs:comment xml:lang="de">Tama (jap. 多摩市, -shi) ist eine Stadt in der Präfektur Tokio und grenzt östlich unmittelbar an die Stadt Inagi.</rdfs:comment>
+    <rdfs:comment xml:lang="zh">多摩市（日语：多摩市／たまし Tama shi */?）是位於東京都多摩地方的城市。為業務核都市。面積21.08km²。於1971年（昭和46年）11月1日其開始施行市制。 多摩市為吉卜力工作室動畫作品心之谷的故事舞臺。</rdfs:comment>
+    <rdfs:comment xml:lang="es">Tama (多摩市 Tama-shi?) es una ciudad localizada en Tokio, Japón. En 2003, la ciudad tenía una población estimada de 145.722 habitantes, con una densidad de 6.912,81 personas por km², en un área total de 21 km². Tama fue el último pueblo en el antiguo distrito de Minamitama. La población se fundó en 1889, con la fusión de diez aldeas pre-Meiji. La aldea fue nombrada pueblo el 1 de abril de 1964, y éste último recibió el nivel de ciudad en noviembre de 1971, disolviendo así el distrito de Minamitama. En Tama se encuentra el parque de diversiones Sanrio Puroland (&quot;Hello Kitty-land&quot;).</rdfs:comment>
+    <rdfs:comment xml:lang="en">Tama (多摩市 Tama-shi) is a city located in the western portion of Tokyo Metropolis, in the central Kantō region of Japan. As of 1 February 2016, the city had an estimated population of 147,953 and a population density of 7040 persons per km². Its total area was 21.01 square kilometres (8.11 sq mi).</rdfs:comment>
+    <rdfs:comment xml:lang="ru">Та́ма (яп. 多摩市 Тама-си) — город в Токио, Япония. Это южная часть проекта Новый город Тама по постройке одной из самых больших жилых зон Японии, реализованного в 1970 году. Город расположен в северной части обширной холмистой территории на юго-западе Токио, известной как Холмы Тама, которые проходят через Токио и префектуру Канагава. Весь регион исторически носит название Тама, поэтому множество мест носят названия с упоминанием слова «Тама», фактически не являясь частью города. Например, городской район города Кавасаки в префектуре Канагава носит название Тама. Река Тама является северной границей города.</rdfs:comment>
+    <rdfs:comment xml:lang="ar">25بك المحتوى هنا ينقصه الاستشهاد بمصادر. يرجى إيراد مصادر موثوق بها. أي معلومات غير موثقة يمكن التشكيك بها وإزالتها. (فبراير 2016)  هذه المقالة عن تاما، طوكيو. لتصفح عناوين مشابهة، انظر تاما (توضيح). مدينة تاما (باليابانية 多摩市 تاما-شي ) هي مدينة تقع في طوكيو، اليابان. في عام 2006، وصل التعداد السكاني للمدينة إلى 144,348 نسمة والكثافة السكانية 6,912.81 نسمة في الكيلومتر مربع، والمساحة الإجمالية 21.08 كم مربع. يشكل القسم الجنوبي من المدينة جزءاً من مشروع مدينة تاما الجديدة وهو أكبر مشروع تطوير سكني في اليابان.</rdfs:comment>
+    <rdfs:comment xml:lang="pt">Tama (多摩市 -shi) é uma cidade japonesa localizada na província de Tóquio. Em 2003, a cidade tinha uma população estimada em 145 722 habitantes e uma densidade populacional de 6 912,81 h/km². Tem uma área total de 21,08 km². Recebeu o estatuto de cidade a 1 de Abril de 1889.</rdfs:comment>
+    <rdfs:comment xml:lang="pl">Tama (jap. 多摩市 Tama-shi) – miasto w Japonii, na wyspie Honsiu, w aglomeracji Tokio, nad rzeką Tama. W 2010 roku liczyło 147 541 mieszkańców. 1 października 1971 roku Tama-chō zostało przemianowane na Tama-shi.</rdfs:comment>
+    <rdfs:comment xml:lang="ja">多摩市（たまし）は、東京都の多摩地域南部にある市である。東京都特別区部への通勤率は26.2%（平成22年国勢調査）。</rdfs:comment>
+    <rdfs:comment xml:lang="nl">Tama (多摩市, Tama-shi) is een stad (shi) in de Japanse prefectuur Tokio. Eind 2010 had de stad circa 150.000 inwoners en een bevolkingsdichtheid van ruim 7.100 bewoners per km². Het totale gebied beslaat 20,08 km². Tama ligt aan de oever van de gelijknamige rivier.</rdfs:comment>
+    <owl:sameAs rdf:resource="http://nl.dbpedia.org/resource/Tama_(Tokio)" />
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Tama,_Tokyo" />
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q213263" />
+    <owl:sameAs rdf:resource="http://it.dbpedia.org/resource/Tama_(Tokyo)" />
+    <owl:sameAs rdf:resource="http://yago-knowledge.org/resource/Tama,_Tokyo" />
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q213263" />
+    <owl:sameAs rdf:resource="http://es.dbpedia.org/resource/Tama_(Tokio)" />
+    <owl:sameAs rdf:resource="http://eu.dbpedia.org/resource/Tama_(Tokio)" />
+    <owl:sameAs rdf:resource="http://pt.dbpedia.org/resource/Tama_(Tóquio)" />
+    <owl:sameAs rdf:resource="http://sws.geonames.org/6822129/" />
+    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/Tama_(Tokio)" />
+    <owl:sameAs rdf:resource="http://ja.dbpedia.org/resource/多摩市" />
+    <owl:sameAs rdf:resource="http://pl.dbpedia.org/resource/Tama_(miasto)" />
+    <owl:sameAs rdf:resource="http://ko.dbpedia.org/resource/다마_시" />
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.01wrrw" />
+    <owl:sameAs rdf:resource="http://fr.dbpedia.org/resource/Tama_(Tokyo)" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Tama,_Tokyo" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Western_Tokyo" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Cities_in_Tokyo" />
+    <dbo:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">329714</dbo:wikiPageID>
+    <dbo:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">729154062</dbo:wikiPageRevisionID>
+    <dbo:wikiPageExternalLink rdf:resource="http://www.city.tama.lg.jp" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.tama-med.or.jp/" />
+    <foaf:homepage rdf:resource="http://www.city.tama.lg.jp" />
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#float">35.6369</geo:lat>
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#float">139.446</geo:long>
+    <foaf:depiction rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Tama_City_Hall.jpg" />
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Tama,_Tokyo" />
+    <geo:geometry rdf:datatype="http://www.openlinksw.com/schemas/virtrdf#Geometry">POINT(139.44627380371 35.636943817139)</geo:geometry>
+    <dbo:thumbnail rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Tama_City_Hall.jpg?width=300" />
+    <prov:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Tama,_Tokyo?oldid=729154062" />
+    <ns8:areaTotal rdf:datatype="http://dbpedia.org/datatype/squareKilometre">21.01</ns8:areaTotal>
+    <ns8:populationDensity rdf:datatype="http://dbpedia.org/datatype/inhabitantsPerSquareKilometre">7040.0</ns8:populationDensity>
+    <dbo:abstract xml:lang="pl">Tama (jap. 多摩市 Tama-shi) – miasto w Japonii, na wyspie Honsiu, w aglomeracji Tokio, nad rzeką Tama. W 2010 roku liczyło 147 541 mieszkańców. 1 października 1971 roku Tama-chō zostało przemianowane na Tama-shi.</dbo:abstract>
+    <dbo:abstract xml:lang="de">Tama (jap. 多摩市, -shi) ist eine Stadt in der Präfektur Tokio und grenzt östlich unmittelbar an die Stadt Inagi.</dbo:abstract>
+    <dbo:abstract xml:lang="es">Tama (多摩市 Tama-shi?) es una ciudad localizada en Tokio, Japón. En 2003, la ciudad tenía una población estimada de 145.722 habitantes, con una densidad de 6.912,81 personas por km², en un área total de 21 km². Tama fue el último pueblo en el antiguo distrito de Minamitama. La población se fundó en 1889, con la fusión de diez aldeas pre-Meiji. La aldea fue nombrada pueblo el 1 de abril de 1964, y éste último recibió el nivel de ciudad en noviembre de 1971, disolviendo así el distrito de Minamitama. En Tama se encuentra el parque de diversiones Sanrio Puroland (&quot;Hello Kitty-land&quot;). 
+*  Wikimedia Commons alberga contenido multimedia sobre Tama. Commons</dbo:abstract>
+    <dbo:abstract xml:lang="zh">多摩市（日语：多摩市／たまし Tama shi */?）是位於東京都多摩地方的城市。為業務核都市。面積21.08km²。於1971年（昭和46年）11月1日其開始施行市制。 多摩市為吉卜力工作室動畫作品心之谷的故事舞臺。</dbo:abstract>
+    <dbo:abstract xml:lang="ja">多摩市（たまし）は、東京都の多摩地域南部にある市である。東京都特別区部への通勤率は26.2%（平成22年国勢調査）。</dbo:abstract>
+    <dbo:abstract xml:lang="en">Tama (多摩市 Tama-shi) is a city located in the western portion of Tokyo Metropolis, in the central Kantō region of Japan. As of 1 February 2016, the city had an estimated population of 147,953 and a population density of 7040 persons per km². Its total area was 21.01 square kilometres (8.11 sq mi).</dbo:abstract>
+    <dbo:abstract xml:lang="nl">Tama (多摩市, Tama-shi) is een stad (shi) in de Japanse prefectuur Tokio. Eind 2010 had de stad circa 150.000 inwoners en een bevolkingsdichtheid van ruim 7.100 bewoners per km². Het totale gebied beslaat 20,08 km². Tama ligt aan de oever van de gelijknamige rivier.</dbo:abstract>
+    <dbo:abstract xml:lang="ar">25بك المحتوى هنا ينقصه الاستشهاد بمصادر. يرجى إيراد مصادر موثوق بها. أي معلومات غير موثقة يمكن التشكيك بها وإزالتها. (فبراير 2016)  هذه المقالة عن تاما، طوكيو. لتصفح عناوين مشابهة، انظر تاما (توضيح). مدينة تاما (باليابانية 多摩市 تاما-شي ) هي مدينة تقع في طوكيو، اليابان. في عام 2006، وصل التعداد السكاني للمدينة إلى 144,348 نسمة والكثافة السكانية 6,912.81 نسمة في الكيلومتر مربع، والمساحة الإجمالية 21.08 كم مربع. يشكل القسم الجنوبي من المدينة جزءاً من مشروع مدينة تاما الجديدة وهو أكبر مشروع تطوير سكني في اليابان.</dbo:abstract>
+    <dbo:abstract xml:lang="ru">Та́ма (яп. 多摩市 Тама-си) — город в Токио, Япония. Это южная часть проекта Новый город Тама по постройке одной из самых больших жилых зон Японии, реализованного в 1970 году. Город расположен в северной части обширной холмистой территории на юго-западе Токио, известной как Холмы Тама, которые проходят через Токио и префектуру Канагава. Весь регион исторически носит название Тама, поэтому множество мест носят названия с упоминанием слова «Тама», фактически не являясь частью города. Например, городской район города Кавасаки в префектуре Канагава носит название Тама. Река Тама является северной границей города. Также в Таме находится тематические парк Санрио, Санрио-пуроландо («страна Хелло Китти»).</dbo:abstract>
+    <dbo:abstract xml:lang="fr">Tama (多摩市, Tama-shi) est une ville du Japon située dans la préfecture de Tokyo. Tama fut fondée le 1er avril 1889. On y trouve notamment le parc à thème Sanrio Puroland, sur le thème des créations de Sanrio (Hello Kitty, Little Twin Stars…).</dbo:abstract>
+    <dbo:abstract xml:lang="it">Tama (多摩市?) è una città giapponese conurbata in Tokyo.</dbo:abstract>
+    <dbo:abstract xml:lang="pt">Tama (多摩市 -shi) é uma cidade japonesa localizada na província de Tóquio. Em 2003, a cidade tinha uma população estimada em 145 722 habitantes e uma densidade populacional de 6 912,81 h/km². Tem uma área total de 21,08 km². Recebeu o estatuto de cidade a 1 de Abril de 1889.</dbo:abstract>
+    <dbo:areaTotal rdf:datatype="http://www.w3.org/2001/XMLSchema#double">2.101e+07</dbo:areaTotal>
+    <dbo:country rdf:resource="http://dbpedia.org/resource/Japan" />
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Kantō_region" />
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Tokyo" />
+    <dbo:populationDensity rdf:datatype="http://www.w3.org/2001/XMLSchema#double">7040.0</dbo:populationDensity>
+    <dbo:populationTotal rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">147953</dbo:populationTotal>
+    <dbo:timeZone rdf:resource="http://dbpedia.org/resource/Japan_Standard_Time" />
+    <dbo:type rdf:resource="http://dbpedia.org/resource/Cities_of_Japan" />
+    <dbo:utcOffset>+9</dbo:utcOffset>
+    <georss:point>35.636944444444445 139.44627777777777</georss:point>
+    <dbp:blank1InfoSec rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">6</dbp:blank1InfoSec>
+    <dbp:blank1InfoSec rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">[Ginkgo biloba]]</dbp:blank1InfoSec>
+    <dbp:blank1NameSec rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Address</dbp:blank1NameSec>
+    <dbp:blank1NameSec rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">• Tree</dbp:blank1NameSec>
+    <dbp:blank2InfoSec rdf:resource="http://dbpedia.org/resource/Prunus_serrulata" />
+    <dbp:blank2NameSec rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">• Flower</dbp:blank2NameSec>
+    <dbp:blank3InfoSec rdf:resource="http://dbpedia.org/resource/Oriental_turtle_dove" />
+    <dbp:blank3NameSec rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">• Bird</dbp:blank3NameSec>
+    <dbp:blankInfoSec rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">42</dbp:blankInfoSec>
+    <dbp:blankNameSec rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Symbols</dbp:blankNameSec>
+    <dbp:blankNameSec rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Phone number</dbp:blankNameSec>
+    <dbp:coordinatesDisplay rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">inline,title</dbp:coordinatesDisplay>
+    <dbp:coordinatesRegion rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">JP</dbp:coordinatesRegion>
+    <dbp:imageCaption rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Tama City Hall</dbp:imageCaption>
+    <dbp:imageFlag rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Flag of Tama, Tokyo.svg</dbp:imageFlag>
+    <dbp:imageMap rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Tama in Tokyo Prefecture Ja.svg</dbp:imageMap>
+    <dbp:imageSeal rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Symbol of Tama Tokyo.gif</dbp:imageSeal>
+    <dbp:imageSkyline rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Tama City Hall.jpg</dbp:imageSkyline>
+    <dbp:latd rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">35</dbp:latd>
+    <dbp:latm rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">38</dbp:latm>
+    <dbp:latns rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">N</dbp:latns>
+    <dbp:lats rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">13</dbp:lats>
+    <dbp:longd rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">139</dbp:longd>
+    <dbp:longew rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">E</dbp:longew>
+    <dbp:longm rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">26</dbp:longm>
+    <dbp:longs rdf:datatype="http://www.w3.org/2001/XMLSchema#double">46.6</dbp:longs>
+    <dbp:mapCaption rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Location of Tama in Tokyo</dbp:mapCaption>
+    <dbp:nativeNameLang rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">ja</dbp:nativeNameLang>
+    <dbp:populationAsOf rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">February 2016</dbp:populationAsOf>
+    <dbp:pushpinMap rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Japan</dbp:pushpinMap>
+    <dbp:subdivisionType rdf:resource="http://dbpedia.org/resource/Prefectures_of_Japan" />
+    <dbp:subdivisionType rdf:resource="http://dbpedia.org/resource/List_of_sovereign_states" />
+    <dbp:subdivisionType rdf:resource="http://dbpedia.org/resource/List_of_regions_of_Japan" />
+    <ns11:hypernym rdf:resource="http://dbpedia.org/resource/Municipality" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2007_Japan_Women&#39;s_Football_League">
+    <dbp:stadium rdf:resource="http://dbpedia.org/resource/Tama,_Tokyo" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Naoya_Tamura">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Tama,_Tokyo" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Keio_Corporation">
+    <dbo:locationCity rdf:resource="http://dbpedia.org/resource/Tama,_Tokyo" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mitsumi_Electric">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Tama,_Tokyo" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kazumi_Tanaka">
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Tama,_Tokyo" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Keisuke_Tsuboi">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Tama,_Tokyo" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kunimitsu_Sekiguchi">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Tama,_Tokyo" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Moyoco_Anno">
+    <dbo:residence rdf:resource="http://dbpedia.org/resource/Tama,_Tokyo" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Shigeo_Yaegashi">
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Tama,_Tokyo" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Riki_Kitawaki">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Tama,_Tokyo" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yayoi_Kobayashi">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Tama,_Tokyo" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kenji_Kitawaki">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Tama,_Tokyo" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kyohei_Shimazaki">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Tama,_Tokyo" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Tama,_Tokyo">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Tama,_Tokyo" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/多摩市">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Tama,_Tokyo" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/History_of_Tama,_Tokyo">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Tama,_Tokyo" />
+  </rdf:Description>
+</rdf:RDF>

@@ -1,0 +1,50 @@
+{
+    "entities": [
+        {
+            "mentions": [
+                {
+                    "text": {
+                        "beginOffset": 3,
+                        "content": "差出"
+                    },
+                    "type": "COMMON"
+                }
+            ],
+            "metadata": {},
+            "name": "差出",
+            "salience": 0.41319993,
+            "type": "EVENT"
+        },
+        {
+            "mentions": [
+                {
+                    "text": {
+                        "beginOffset": 29,
+                        "content": "F0001/11/01/21\t 9999-99-99\t アイテム\t 公開\t 本郷\t 後切"
+                    },
+                    "type": "PROPER"
+                }
+            ],
+            "metadata": {},
+            "name": "F0001/11/01/21 9999-99-99 アイテム 公開 本郷 後切",
+            "salience": 0.36261207,
+            "type": "OTHER"
+        },
+        {
+            "mentions": [
+                {
+                    "text": {
+                        "beginOffset": 99,
+                        "content": "封筒"
+                    },
+                    "type": "COMMON"
+                }
+            ],
+            "metadata": {},
+            "name": "封筒",
+            "salience": 0.22418799,
+            "type": "OTHER"
+        }
+    ],
+    "language": "ja"
+}

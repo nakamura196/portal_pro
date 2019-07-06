@@ -1,0 +1,487 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:dct="http://purl.org/dc/terms/"
+	xmlns:dbo="http://dbpedia.org/ontology/"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:prov="http://www.w3.org/ns/prov#"
+	xmlns:dbp="http://dbpedia.org/property/"
+	xmlns:georss="http://www.georss.org/georss/"
+	xmlns:ns10="http://purl.org/linguistics/gold/" >
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tohoku_Disaster">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/2011_Tōhoku_earthquake_and_tsunami" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tsunami_of_2011">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/2011_Tōhoku_earthquake_and_tsunami" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tōhoku_Disaster">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/2011_Tōhoku_earthquake_and_tsunami" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2011_Tōhoku_earthquake_and_tsunami">
+    <rdf:type rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Event" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/NaturalEvent" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Event" />
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Earthquake" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q1656682" />
+    <rdf:type rdf:resource="http://schema.org/Event" />
+    <rdf:type rdf:resource="http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing" />
+    <rdfs:label xml:lang="ja">東北地方太平洋沖地震</rdfs:label>
+    <rdfs:label xml:lang="ru">Землетрясение в Японии (2011)</rdfs:label>
+    <rdfs:label xml:lang="de">Tōhoku-Erdbeben 2011</rdfs:label>
+    <rdfs:label xml:lang="fr">Séisme de 2011 de la côte Pacifique du Tōhoku</rdfs:label>
+    <rdfs:label xml:lang="pt">Sismo e tsunami de Tohoku de 2011</rdfs:label>
+    <rdfs:label xml:lang="ar">زلزال وتسونامي توهوكو 2011</rdfs:label>
+    <rdfs:label xml:lang="zh">2011年東日本大地震</rdfs:label>
+    <rdfs:label xml:lang="en">2011 Tōhoku earthquake and tsunami</rdfs:label>
+    <rdfs:label xml:lang="es">Terremoto y tsunami de Japón de 2011</rdfs:label>
+    <rdfs:label xml:lang="pl">Trzęsienie ziemi u wybrzeży Honsiu (2011)</rdfs:label>
+    <rdfs:label xml:lang="it">Terremoto e maremoto del Tōhoku del 2011</rdfs:label>
+    <rdfs:label xml:lang="nl">Zeebeving Sendai 2011</rdfs:label>
+    <rdfs:comment xml:lang="ja">東北地方太平洋沖地震（とうほくちほうたいへいようおきじしん）は、2011年（平成23年）3月11日に日本の太平洋三陸沖を震源として発生した地震である。地震の規模を示すマグニチュードはMw9.0で、日本の観測史上最大規模の地震であり、1995年の兵庫県南部地震（阪神・淡路大震災）、2004年の新潟県中越地震以来、観測史上3回目の最大震度7を観測した。この地震によって引き起こされた災害を、東日本大震災と呼ぶ。この地震とそれによって引き起こされた津波、およびその後の余震は、東北から関東にかけての東日本一帯にをもたらし、日本における戦後最悪の自然災害となるとともに、福島第一原子力発電所事故も引き起こした。</rdfs:comment>
+    <rdfs:comment xml:lang="ru">Землетрясение у восточного побережья острова Хонсю в Японии (яп. 東北地方太平洋沖地震 То:хоку тихо: Тайхэйё:-оки дзисин, «Землетрясение в Тихом океане, оказавшее влияние на регион Тохоку»), также Великое восточно-японское землетрясение (яп. 東日本大震災 Хигаси Нихон дайсинсай) — землетрясение магнитудой, по текущим оценкам, от 9,0 до 9,1 произошло 11 марта 2011 года в 14:46 по местному времени (8:46 по московскому времени). Эпицентр землетрясения был определён в точке с координатами 38,322° с. ш. 142,369° в. д. восточнее острова Хонсю, в 130 км к востоку от города Сендай и в 373 км к северо-востоку от Токио. Гипоцентр наиболее разрушительного подземного толчка (произошедшего в 05:46:23 UTC) находился на глубине 32 км ниже уровня моря в Тихом океане.</rdfs:comment>
+    <rdfs:comment xml:lang="nl">De zeebeving nabij Sendai in 2011 was een zware zeebeving die zich voordeed op 11 maart 2011 voor de noordoostkust van het Japanse eiland Honshu. Het epicentrum van de beving, die een kracht van 9,0 op de momentmagnitudeschaal had, bevond zich voor de kust van de prefectuur Miyagi op circa 370 km ten noordoosten van de Japanse hoofdstad Tokio en circa 130 km ten oosten van de stad Sendai. De zeebeving kwam in een serie van bevingen, die al een hele week in de regio woedde. Er volgden ook enkele grote naschokken.</rdfs:comment>
+    <rdfs:comment xml:lang="fr">Le séisme de 2011 de la côte Pacifique du Tōhoku au Japon est un tremblement de terre d&#39;une magnitude 9,0, survenu au large des côtes nord-est de l&#39;île de Honshū le 11 mars 2011. Son épicentre se situe à 130 km à l&#39;est de Sendai, chef-lieu de la préfecture de Miyagi, dans la région du Tōhoku, ville située à environ 300 km au nord-est de Tokyo. L&#39;intensité sismique maximale est enregistrée à Kurihara et s&#39;élève à 7 sur l&#39;échelle de Shindo (son grade le plus élevé). Il a engendré un tsunami dont les vagues ont atteint une hauteur estimée à plus de 30 m par endroits. Celles-ci ont parcouru jusqu&#39;à 10 km à l&#39;intérieur des terres, ravageant près de 600 km de côtes et détruisant partiellement ou totalement de nombreuses villes et zones portuaires.</rdfs:comment>
+    <rdfs:comment xml:lang="zh">東北地方太平洋近海地震（日语：東北地方太平洋沖地震／とうほくちほうたいへいようおきじしん Tōhokuchihō Taiheiyōoki Jishin ?）是指2011年3月11日14時46分（當地時間）發生於日本東北地方外海三陸沖的矩震級9.0的大型逆衝區地震。震央位於宮城縣首府仙台市以東的太平洋海域，震源深度測得數據為24.4公里（15.2英里），并引发最高40.5公尺的海嘯。此次地震是日本有觀測紀錄以來規模最大的地震，引起的海嘯也是最為嚴重的，加上其引發的火災和核洩漏事故，導致大規模的地方機能癱瘓和經濟活動停止，東北地方部份城市更遭受毀滅性破壞。</rdfs:comment>
+    <rdfs:comment xml:lang="ar">زلزال وتسونامي توهوكو 2011 زلزال عنيف بلغ 8.9 على مقياس العزم الزلزالي،قبالة سواحل شرق اليابان يوم 11 مارس 2011 ونجم عنه موجات تسونامي في المحيط الهادي، تقع بؤرة الزلزال 373 كم شمال شرق العاصمة طوكيو و130 كيلا شرق مدينة سنداي.كما نجم عن الزلزال أكثر من ألف قتيل ومفقود وتدمير مطار سنداي في اليابان وتسجيل أعلى نسبة من الخسائر في الممتلكات وتدمير للبنيه التحتية وفي المحطات النفطية والمحطات النووية وتوقفها عن العمل وكالة الطاقة: اغلاق محطات نووية قرب منطقة الزلزال في اليابان.]&lt;/ref&gt;. ويعد هذا الزلزال أعنف الزلزال في تاريخ اليابان منذ بدء توثيق سجلات الزلازل قبل 140 عاما.وسبق هذا الزلزال بيومين زلزال هونشو في ذات الموقع تقريبا وبقوة 7. على مقياس العزوم الزلزلي.</rdfs:comment>
+    <rdfs:comment xml:lang="it">Il terremoto di Sendai e del Tōhoku del 2011 (東北地方太平洋沖地震 Tōhoku chihō taiheiyō-oki jishin?, &quot;terremoto in alto mare della regione di Tōhoku e dell&#39;oceano Pacifico&quot;), si verificò l&#39;11 marzo 2011 al largo della costa della regione di Tōhoku, nel Giappone settentrionale, alle ore 14:46 locali alla profondità di 30 chilometri.Il sisma, di magnitudo 9,0 (secondo l&#39;USGS), con epicentro in mare e con successivo tsunami, è a tutt&#39;oggi il più potente mai misurato in Giappone e il quarto a livello mondiale.</rdfs:comment>
+    <rdfs:comment xml:lang="pl">Trzęsienie ziemi u wybrzeży Honsiu w 2011 roku (jap. 東北地方太平洋沖地震 Tōhoku-chihō Taiheiyō-oki jishin, pol. trzęsienie ziemi u wybrzeża Pacyfiku w regionie Tōhoku) – trzęsienie ziemi o magnitudzie 9, które nastąpiło 11 marca 2011 roku o 5:46 UTC (14:46 JST), w północno-wschodniej części Japonii, na wschód od miasta Sendai. Spowodowana trzęsieniem fala tsunami uszkodziła elektrownię atomową w Fukushimie, powodując najdroższą katastrofę naturalną w historii.</rdfs:comment>
+    <rdfs:comment xml:lang="en">The 2011 earthquake off the Pacific coast of Tōhoku (東北地方太平洋沖地震 Tōhoku-chihō Taiheiyō Oki Jishin) was a magnitude 9.0 (Mw) undersea megathrust earthquake off the coast of Japan that occurred at 14:46 JST (05:46 UTC) on Friday 11 March 2011, with the epicentre approximately 70 kilometres (43 mi) east of the Oshika Peninsula of Tōhoku and the hypocenter at an underwater depth of approximately 30 km (19 mi). The earthquake is also often referred to in Japan as the Great East Japan earthquake (東日本大震災 Higashi nihon daishinsai) and also known as the 2011 Tōhoku earthquake, and the 3.11 earthquake. It was the most powerful earthquake ever recorded to have hit Japan, and the fourth most powerful earthquake in the world since modern record-keeping began in 1900. The earthquake triggered powerful ts</rdfs:comment>
+    <rdfs:comment xml:lang="pt">Sismo e tsunami de Sendai de 2011 ou sismo e tsunami de Sendai (designado oficialmente Grande Terremoto do Leste do Japão) foi um sismo de magnitude de 8,9 MW com epicentro ao largo da costa do Japão ocorrido às 05:56 UTC (14:56 no horário local) de 11 de março de 2011. O epicentro foi a 130 km da costa leste da península de Oshika, na região de Tohoku, com o hipocentro situado a uma profundidade de 24,4 km. O sismo atingiu o grau 7 — a magnitude máxima da escala de intensidade sísmica da Agência Meteorológica do Japão — ao norte da Prefeitura de Miyagi, grau 6 em outras prefeituras e 5 em Tóquio.</rdfs:comment>
+    <rdfs:comment xml:lang="es">El terremoto y tsunami de Japón de 2011, denominado oficialmente por la Agencia Meteorológica de Japón como el terremoto de la costa del Pacífico en la región de Tōhoku de 2011 (東北地方太平洋沖地震 Tōhoku Chihō Taiheiyō-oki Jishin?) o Gran terremoto de Japón oriental (東日本大震災 Higashi-Nihon Dai-shinsai) del 11 de marzo, fue un terremoto de magnitud 9,0 MW que creó olas de maremoto de hasta 40,5 metros. El terremoto ocurrió a las 14:46:23 hora local (05:46:23 UTC) del viernes 11 de marzo de 2011. El epicentro del terremoto se ubicó en el mar, frente a la costa de Honshu, 130 km al este de Sendai, en la prefectura de Miyagi, Japón. El terremoto duró aproximadamente 6 minutos según los sismólogos. El USGS explicó que el terremoto ocurrió a causa de un desplazamiento en proximidades de la zona de la inte</rdfs:comment>
+    <owl:sameAs rdf:resource="http://eu.dbpedia.org/resource/2011ko_Sendaiko_lurrikara_eta_tsunamia" />
+    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/Tōhoku-Erdbeben_2011" />
+    <owl:sameAs rdf:resource="http://ko.dbpedia.org/resource/도호쿠_지방_태평양_해역_지진" />
+    <owl:sameAs rdf:resource="http://it.dbpedia.org/resource/Terremoto_e_maremoto_del_Tōhoku_del_2011" />
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q36204" />
+    <owl:sameAs rdf:resource="http://pl.dbpedia.org/resource/Trzęsienie_ziemi_u_wybrzeży_Honsiu_(2011)" />
+    <owl:sameAs rdf:resource="http://nl.dbpedia.org/resource/Zeebeving_Sendai_2011" />
+    <owl:sameAs rdf:resource="http://fr.dbpedia.org/resource/Séisme_de_2011_de_la_côte_Pacifique_du_Tōhoku" />
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q36204" />
+    <owl:sameAs rdf:resource="http://id.dbpedia.org/resource/Gempa_bumi_dan_tsunami_Sendai_2011" />
+    <owl:sameAs rdf:resource="http://ja.dbpedia.org/resource/東北地方太平洋沖地震" />
+    <owl:sameAs rdf:resource="http://pt.dbpedia.org/resource/Sismo_e_tsunami_de_Tohoku_de_2011" />
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.0gh6mkc" />
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/2011_Tōhoku_earthquake_and_tsunami" />
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/2011_Tōhoku_earthquake_and_tsunami" />
+    <owl:sameAs rdf:resource="http://es.dbpedia.org/resource/Terremoto_y_tsunami_de_Japón_de_2011" />
+    <owl:sameAs rdf:resource="http://el.dbpedia.org/resource/Σεισμός_και_τσουνάμι_στο_Τοχόκου_το_2011" />
+    <owl:sameAs rdf:resource="http://cs.dbpedia.org/resource/Zemětřesení_a_tsunami_v_Tóhoku_2011" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Natural_disasters_in_Washington_(state)" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:2011_earthquakes" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Natural_disasters_in_Hawaii" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Filmed_deaths" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Tōhoku_region" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Coasts_of_Japan" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Civilian_nuclear_power_accidents" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Tsunamis_in_Chile" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Tsunamis_in_the_United_States" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:2011_in_Japan" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:2011_natural_disasters_in_the_United_States" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Natural_disasters_in_California" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Midway_Atoll" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:2011_Tōhoku_earthquake_and_tsunami" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Nuclear_energy_in_Japan" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Natural_disasters_in_British_Columbia" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Natural_disasters_in_Papua_New_Guinea" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Natural_disasters_in_Peru" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Postwar_Japan" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:History_of_Tokyo" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Natural_disasters_in_Oregon" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Sendai" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Tsunamis_in_Japan" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:2011_tsunamis" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Megathrust_earthquakes_in_Japan" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Articles_containing_video_clips" />
+    <dbo:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">31150160</dbo:wikiPageID>
+    <dbo:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">745284622</dbo:wikiPageRevisionID>
+    <dbo:wikiPageExternalLink rdf:resource="http://reliefweb.int/sites/reliefweb.int/files/resources/DE687B15F54FBFBD8525785500636B6C-map.pdf" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.preventionweb.net/english/professional/news/tags/index.php/pw:jpnearthquake2011/Great%20East%20Japan%20Earthquake%202011/" />
+    <dbo:wikiPageExternalLink rdf:resource="http://ias.umn.edu/phenomena/bat-faculty-interviews/japan-in-crisis-2011/" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.news-world.us/pics/2011/03/11/japan-gigantic-earthquake-and-tsunami-2011/" />
+    <dbo:wikiPageExternalLink rdf:resource="http://earthquake.usgs.gov/earthquakes/eqarchives/poster/2011/20110311.php" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.boston.com/bigpicture/2011/03/massive_earthquake_hits_japan.html" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.reliefweb.int/rw/rwb.nsf/db900SID/RKRR-8EZP8P?OpenDocument&amp;rc=3&amp;emid=EQ-2011-000028-JPN" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.disasterscharter.org/web/charter/activation_details?p_r_p_1415474252_assetId=ACT-359" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.sciencemag.org/site/feature/data/hottopics/japanquake/" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.npr.org/2011/03/18/134658880/Japan-Earthquake-May-Have-Changed-Earths-Axis" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www9.nhk.or.jp/311shogen/en/" />
+    <dbo:wikiPageExternalLink rdf:resource="http://supersites.earthobservations.org/sendai.php" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.abc.net.au/news/events/japan-quake-2011/beforeafter.htm" />
+    <dbo:wikiPageExternalLink rdf:resource="http://e.nagasaki.mapping.jp/p/japan-earthquake.html" />
+    <dbo:wikiPageExternalLink rdf:resource="http://ptwc.weather.gov/" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.google.com/crisisresponse/japanquake2011.html" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.pbs.org/wgbh/nova/earth/japan-killer-quake.html" />
+    <dbo:wikiPageExternalLink rdf:resource="http://google-latlong.blogspot.com/2011/03/post-earthquake-images-of-japan.html" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.nytimes.com/interactive/2011/03/13/world/asia/satellite-photos-japan-before-and-after-tsunami.html" />
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#float">38.322</geo:lat>
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#float">142.369</geo:long>
+    <foaf:depiction rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/SH-60B_helicopter_flies_over_Sendai.jpg" />
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/2011_Tōhoku_earthquake_and_tsunami" />
+    <geo:geometry rdf:datatype="http://www.openlinksw.com/schemas/virtrdf#Geometry">POINT(142.3690032959 38.321998596191)</geo:geometry>
+    <dbo:thumbnail rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/SH-60B_helicopter_flies_over_Sendai.jpg?width=300" />
+    <prov:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/2011_Tōhoku_earthquake_and_tsunami?oldid=745284622" />
+    <dbo:abstract xml:lang="pl">Trzęsienie ziemi u wybrzeży Honsiu w 2011 roku (jap. 東北地方太平洋沖地震 Tōhoku-chihō Taiheiyō-oki jishin, pol. trzęsienie ziemi u wybrzeża Pacyfiku w regionie Tōhoku) – trzęsienie ziemi o magnitudzie 9, które nastąpiło 11 marca 2011 roku o 5:46 UTC (14:46 JST), w północno-wschodniej części Japonii, na wschód od miasta Sendai. Spowodowana trzęsieniem fala tsunami uszkodziła elektrownię atomową w Fukushimie, powodując najdroższą katastrofę naturalną w historii.</dbo:abstract>
+    <dbo:abstract xml:lang="ja">東北地方太平洋沖地震（とうほくちほうたいへいようおきじしん）は、2011年（平成23年）3月11日に日本の太平洋三陸沖を震源として発生した地震である。地震の規模を示すマグニチュードはMw9.0で、日本の観測史上最大規模の地震であり、1995年の兵庫県南部地震（阪神・淡路大震災）、2004年の新潟県中越地震以来、観測史上3回目の最大震度7を観測した。この地震によって引き起こされた災害を、東日本大震災と呼ぶ。この地震とそれによって引き起こされた津波、およびその後の余震は、東北から関東にかけての東日本一帯にをもたらし、日本における戦後最悪の自然災害となるとともに、福島第一原子力発電所事故も引き起こした。</dbo:abstract>
+    <dbo:abstract xml:lang="it">Il terremoto di Sendai e del Tōhoku del 2011 (東北地方太平洋沖地震 Tōhoku chihō taiheiyō-oki jishin?, &quot;terremoto in alto mare della regione di Tōhoku e dell&#39;oceano Pacifico&quot;), si verificò l&#39;11 marzo 2011 al largo della costa della regione di Tōhoku, nel Giappone settentrionale, alle ore 14:46 locali alla profondità di 30 chilometri.Il sisma, di magnitudo 9,0 (secondo l&#39;USGS), con epicentro in mare e con successivo tsunami, è a tutt&#39;oggi il più potente mai misurato in Giappone e il quarto a livello mondiale.</dbo:abstract>
+    <dbo:abstract xml:lang="es">El terremoto y tsunami de Japón de 2011, denominado oficialmente por la Agencia Meteorológica de Japón como el terremoto de la costa del Pacífico en la región de Tōhoku de 2011 (東北地方太平洋沖地震 Tōhoku Chihō Taiheiyō-oki Jishin?) o Gran terremoto de Japón oriental (東日本大震災 Higashi-Nihon Dai-shinsai) del 11 de marzo, fue un terremoto de magnitud 9,0 MW que creó olas de maremoto de hasta 40,5 metros. El terremoto ocurrió a las 14:46:23 hora local (05:46:23 UTC) del viernes 11 de marzo de 2011. El epicentro del terremoto se ubicó en el mar, frente a la costa de Honshu, 130 km al este de Sendai, en la prefectura de Miyagi, Japón. El terremoto duró aproximadamente 6 minutos según los sismólogos. El USGS explicó que el terremoto ocurrió a causa de un desplazamiento en proximidades de la zona de la interfase entre placas de subducción entre la placa del Pacífico y la placa Norteamericana. En la latitud en que ocurrió este terremoto, la placa del Pacífico se desplaza en dirección oeste con respecto a la placa Norteamericana a una velocidad de 83 mm/año. La placa del Pacífico se mete debajo de Japón en la fosa de Japón, y se hunde en dirección oeste debajo de Asia. Dos días antes, este terremoto había sido precedido por otro temblor importante, pero de menor magnitud, ocurrido el miércoles 9 de marzo de 2011, a las 02: UTC en la misma zona de la costa oriental de Honshū, Japón y que tuvo una magnitud de 7,2 MW a una profundidad de 14,1 kilómetros. También ese día las autoridades de la Agencia Meteorológica de Japón dieron una alerta de maremoto, pero sólo local, para la costa este de ese país. El 1 de febrero había entrado en actividad el volcán Shinmoe en la provincia de Miyazaki, todo esto indica un reactivamiento de la tectónica previo al terremoto. La magnitud de 9,0 MW lo convirtió en el terremoto más potente sufrido en Japón hasta la fecha así como el cuarto más potente del mundo de todos los terremotos medidos hasta la fecha. Desde 1973 la zona de subducción de la fosa de Japón ha experimentado nueve eventos sísmicos de magnitud 7 o superior. El mayor fue un terremoto ocurrido en diciembre de 1994 que tuvo una magnitud de 7,8, con epicentro a unos 260 km al norte del terremoto del 11 de marzo de 2011, el cual causó 3 muertos y unos 300 heridos. Horas después del terremoto y su posterior tsunami, el volcán Karangetang en las Islas Celebes (Indonesia) entró en erupción.La NASA con ayuda de imágenes satelitales ha podido comprobar que el movimiento telúrico pudo haber desplazado la Isla de Honshu aproximadamente 2,4 metros al este, y alteró el eje terrestre en aproximadamente 10 centímetros. La violencia del terremoto, acortó la duración de los días en 1,8 microsegundos, según los estudios realizados por los JPL de la NASA. Esto a sido una desgracia</dbo:abstract>
+    <dbo:abstract xml:lang="nl">De zeebeving nabij Sendai in 2011 was een zware zeebeving die zich voordeed op 11 maart 2011 voor de noordoostkust van het Japanse eiland Honshu. Het epicentrum van de beving, die een kracht van 9,0 op de momentmagnitudeschaal had, bevond zich voor de kust van de prefectuur Miyagi op circa 370 km ten noordoosten van de Japanse hoofdstad Tokio en circa 130 km ten oosten van de stad Sendai. De zeebeving veroorzaakte een tsunami, die veel schade aanrichtte in Japan en ook andere delen van de Pacific Rim bereikte. De tsunami had volgens de Japanse krant Yomiuri Shimbun op basis van onderzoek van het Port and Airport Research Institute bij de Sanriku-kust een hoogte van meer dan 15 meter en bereikte eenmaal aan land op sommige plaatsen door opstuwing een hoogte tot 21,1 meter. Er werd ruim 400 km² land overspoeld. Miljoenen huishoudens hadden als gevolg van de ramp geen stromend water of elektriciteit. De tsunami bereikte een hoogte van iets meer dan tien meter bij de kerncentrale Fukushima I, met een aantal ongelukken op de kerncentrale als gevolg. Het officiële aantal doden en vermisten lag op 14 mei 2011 op 24.525, maar bedroeg volgens politiecijfers uit 2016 bijna 16.000. 410.000 mensen werden geëvacueerd uit de getroffen gebieden, 320.000 mensen zaten in het noorden van het land zonder elektriciteit, 87.772 huizen raakten beschadigd. De zeebeving kwam in een serie van bevingen, die al een hele week in de regio woedde. Er volgden ook enkele grote naschokken. De beving bij Sendai was de zwaarst gemeten in de geschiedenis van Japan en de zwaarste in de regio in honderdveertig jaar. Ook behoort zij tot de vijf krachtigste aardbevingen ooit gemeten. De verwoestende zeebeving heeft volgens enkele wetenschappers grote landmassa&#39;s verschoven. Het Japanse hoofdeiland zou zo bijna 2,4 meter opgeschoven zijn naar het oosten. De aardas verschoof 10 centimeter door de beving.</dbo:abstract>
+    <dbo:abstract xml:lang="fr">Le séisme de 2011 de la côte Pacifique du Tōhoku au Japon est un tremblement de terre d&#39;une magnitude 9,0, survenu au large des côtes nord-est de l&#39;île de Honshū le 11 mars 2011. Son épicentre se situe à 130 km à l&#39;est de Sendai, chef-lieu de la préfecture de Miyagi, dans la région du Tōhoku, ville située à environ 300 km au nord-est de Tokyo. L&#39;intensité sismique maximale est enregistrée à Kurihara et s&#39;élève à 7 sur l&#39;échelle de Shindo (son grade le plus élevé). Il a engendré un tsunami dont les vagues ont atteint une hauteur estimée à plus de 30 m par endroits. Celles-ci ont parcouru jusqu&#39;à 10 km à l&#39;intérieur des terres, ravageant près de 600 km de côtes et détruisant partiellement ou totalement de nombreuses villes et zones portuaires. Ce séisme de magnitude 9 n&#39;est cependant responsable que de peu de victimes et dégâts grâce à la qualité des constructions parasismiques japonaises. L&#39;ampleur de cette catastrophe résulte essentiellement du tsunami qui s&#39;ensuivit et qui est à l&#39;origine de plus de 90 % des 18 079 morts et disparus, des destructions et des blessés. Ce tsunami a également entraîné l&#39;accident nucléaire de Fukushima placé au niveau 7, le plus élevé sur l&#39;échelle internationale des événements nucléaires (INES) des accidents nucléaires et radiologiques. La reconstruction va prendre plusieurs années et son coût estimé en fait déjà le séisme le plus onéreux de l&#39;Histoire après celui de Kobe en 1995. Les pertes économiques estimées sont de l&#39;ordre de 210 milliards de dollars.</dbo:abstract>
+    <dbo:abstract xml:lang="en">The 2011 earthquake off the Pacific coast of Tōhoku (東北地方太平洋沖地震 Tōhoku-chihō Taiheiyō Oki Jishin) was a magnitude 9.0 (Mw) undersea megathrust earthquake off the coast of Japan that occurred at 14:46 JST (05:46 UTC) on Friday 11 March 2011, with the epicentre approximately 70 kilometres (43 mi) east of the Oshika Peninsula of Tōhoku and the hypocenter at an underwater depth of approximately 30 km (19 mi). The earthquake is also often referred to in Japan as the Great East Japan earthquake (東日本大震災 Higashi nihon daishinsai) and also known as the 2011 Tōhoku earthquake, and the 3.11 earthquake. It was the most powerful earthquake ever recorded to have hit Japan, and the fourth most powerful earthquake in the world since modern record-keeping began in 1900. The earthquake triggered powerful tsunami waves that reached heights of up to 40.5 metres (133 ft) in Miyako in Tōhoku&#39;s Iwate Prefecture, and which, in the Sendai area, traveled up to 10 km (6 mi) inland. The earthquake moved Honshu (the main island of Japan) 2.4 m (8 ft) east, shifted the Earth on its axis by estimates of between 10 cm (4 in) and 25 cm (10 in), and generated infrasound waves detected in perturbations of the low-orbiting GOCE satellite. On 10 March 2015, a Japanese National Police Agency report confirmed 15,894 deaths, 6,152 injured, and 2,562 people missing across twenty prefectures, as well as 228,863 people living away from their home in either temporary housing or due to permanent relocation. A 10 February 2014 agency report listed 127,290 buildings totally collapsed, with a further 272,788 buildings &quot;half collapsed&quot;, and another 747,989 buildings partially damaged. The earthquake and tsunami also caused extensive and severe structural damage in north-eastern Japan, including heavy damage to roads and railways as well as fires in many areas, and a dam collapse. Japanese Prime Minister Naoto Kan said, &quot;In the 65 years after the end of World War II, this is the toughest and the most difficult crisis for Japan.&quot; Around 4.4 million households in northeastern Japan were left without electricity and 1.5 million without water. The tsunami caused nuclear accidents, primarily the level 7 meltdowns at three reactors in the Fukushima Daiichi Nuclear Power Plant complex, and the associated evacuation zones affecting hundreds of thousands of residents. Many electrical generators were taken down, and at least three nuclear reactors suffered explosions due to hydrogen gas that had built up within their outer containment buildings after cooling system failure resulting from the loss of electrical power. Residents within a 20 km (12 mi) radius of the Fukushima Daiichi Nuclear Power Plant and a 10 km (6.2 mi) radius of the Fukushima Daini Nuclear Power Plant were evacuated. Early estimates placed insured losses from the earthquake alone at US$14.5 to $34.6 billion. The Bank of Japan offered ¥15 trillion (US$183 billion) to the banking system on 14 March in an effort to normalize market conditions. The World Bank&#39;s estimated economic cost was US$235 billion, making it the costliest natural disaster in world history.</dbo:abstract>
+    <dbo:abstract xml:lang="pt">Sismo e tsunami de Sendai de 2011 ou sismo e tsunami de Sendai (designado oficialmente Grande Terremoto do Leste do Japão) foi um sismo de magnitude de 8,9 MW com epicentro ao largo da costa do Japão ocorrido às 05:56 UTC (14:56 no horário local) de 11 de março de 2011. O epicentro foi a 130 km da costa leste da península de Oshika, na região de Tohoku, com o hipocentro situado a uma profundidade de 24,4 km. O sismo atingiu o grau 7 — a magnitude máxima da escala de intensidade sísmica da Agência Meteorológica do Japão — ao norte da Prefeitura de Miyagi, grau 6 em outras prefeituras e 5 em Tóquio. O sismo provocou alertas de tsunami e evacuações na linha costeira japonesa do Pacífico e em pelo menos 20 países, incluindo toda a costa do Pacífico da América do Norte e América do Sul. Provocou também ondas de tsunami de mais de 10 m de altura, que atingiram o Japão e diversos outros países. No Japão, as ondas percorreram mais de 10 km de terra. De acordo com as autoridades, houve 15 894 mortes confirmadas e mais de 2 500 ainda desaparecidos. O sismo causou danos substanciais ao Japão, incluindo a destruição de rodovias e linhas ferroviárias, assim como incêndios em várias regiões, e o rompimento de uma barragem. Aproximadamente 4,4 milhões de habitantes no nordeste do Japão ficaram sem energia elétrica, e 1,4 milhão sem água. Muitos geradores deixaram de funcionar e pelo menos dois reatores nucleares foram danificados, o que levou à evacuação imediata das regiões atingidas enquanto um estado de emergência era estabelecido. A Central Nuclear de Fukushima I sofreu uma explosão aproximadamente 24 horas depois do primeiro sismo, e apesar do colapso da contenção de concreto da construção, a integridade do núcleo interno não teria sido comprometida. Estima-se que a magnitude do sismo de Sendai faça deste o maior sismo a atingir o Japão e um dos cinco maiores do mundo desde que os registros modernos começaram a ser compilados.</dbo:abstract>
+    <dbo:abstract xml:lang="ru">Землетрясение у восточного побережья острова Хонсю в Японии (яп. 東北地方太平洋沖地震 То:хоку тихо: Тайхэйё:-оки дзисин, «Землетрясение в Тихом океане, оказавшее влияние на регион Тохоку»), также Великое восточно-японское землетрясение (яп. 東日本大震災 Хигаси Нихон дайсинсай) — землетрясение магнитудой, по текущим оценкам, от 9,0 до 9,1 произошло 11 марта 2011 года в 14:46 по местному времени (8:46 по московскому времени). Эпицентр землетрясения был определён в точке с координатами 38,322° с. ш. 142,369° в. д. восточнее острова Хонсю, в 130 км к востоку от города Сендай и в 373 км к северо-востоку от Токио. Гипоцентр наиболее разрушительного подземного толчка (произошедшего в 05:46:23 UTC) находился на глубине 32 км ниже уровня моря в Тихом океане. Это сильнейшее землетрясение в известной истории Японии и седьмое, а по другим оценкам даже шестое, пятое или четвёртое по силе за всю историю сейсмических наблюдений в мире. Однако по количеству жертв и масштабу разрушений оно уступает землетрясениям в Японии 1896 и 1923 (тяжелейшему по последствиям) годов. Землетрясение произошло на расстоянии около 70 км от ближайшей точки побережья Японии. Первоначальный подсчёт показал, что волнам цунами потребовалось от 10 до 30 минут, чтобы достичь первых пострадавших областей Японии. Через 69 минут (в 15:55 JST) после землетрясения цунами затопило аэропорт Сендай. Сразу после землетрясения учёные сделали прогноз, что в течение месяца после первого удара в Японии могут происходить землетрясения магнитудой выше 7.</dbo:abstract>
+    <dbo:abstract xml:lang="ar">زلزال وتسونامي توهوكو 2011 زلزال عنيف بلغ 8.9 على مقياس العزم الزلزالي،قبالة سواحل شرق اليابان يوم 11 مارس 2011 ونجم عنه موجات تسونامي في المحيط الهادي، تقع بؤرة الزلزال 373 كم شمال شرق العاصمة طوكيو و130 كيلا شرق مدينة سنداي.كما نجم عن الزلزال أكثر من ألف قتيل ومفقود وتدمير مطار سنداي في اليابان وتسجيل أعلى نسبة من الخسائر في الممتلكات وتدمير للبنيه التحتية وفي المحطات النفطية والمحطات النووية وتوقفها عن العمل وكالة الطاقة: اغلاق محطات نووية قرب منطقة الزلزال في اليابان.]&lt;/ref&gt;. ويعد هذا الزلزال أعنف الزلزال في تاريخ اليابان منذ بدء توثيق سجلات الزلازل قبل 140 عاما.وسبق هذا الزلزال بيومين زلزال هونشو في ذات الموقع تقريبا وبقوة 7. على مقياس العزوم الزلزلي.</dbo:abstract>
+    <dbo:abstract xml:lang="zh">東北地方太平洋近海地震（日语：東北地方太平洋沖地震／とうほくちほうたいへいようおきじしん Tōhokuchihō Taiheiyōoki Jishin ?）是指2011年3月11日14時46分（當地時間）發生於日本東北地方外海三陸沖的矩震級9.0的大型逆衝區地震。震央位於宮城縣首府仙台市以東的太平洋海域，震源深度測得數據為24.4公里（15.2英里），并引发最高40.5公尺的海嘯。此次地震是日本有觀測紀錄以來規模最大的地震，引起的海嘯也是最為嚴重的，加上其引發的火災和核洩漏事故，導致大規模的地方機能癱瘓和經濟活動停止，東北地方部份城市更遭受毀滅性破壞。</dbo:abstract>
+    <dbo:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2011-03-11</dbo:date>
+    <dbo:duration rdf:datatype="http://www.w3.org/2001/XMLSchema#double">360.0</dbo:duration>
+    <dbp:pga rdf:datatype="http://dbpedia.org/datatype/gram">2.99</dbp:pga>
+    <georss:point>38.322 142.369</georss:point>
+    <dbp:b rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">no</dbp:b>
+    <dbp:caption rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">An aerial view of the Sendai region with black smoke coming from the Nippon Oil refinery</dbp:caption>
+    <dbp:commons rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Category:2011 Tōhoku earthquake</dbp:commons>
+    <dbp:id rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">xylDxj6-9dY</dbp:id>
+    <dbp:imageAlt rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">An aerial view of tsunami damage in Tōhoku</dbp:imageAlt>
+    <dbp:intensity rdf:resource="http://dbpedia.org/resource/Mercalli_intensity_scale" />
+    <dbp:magnitude rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">9</dbp:magnitude>
+    <dbp:n rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Category:2011 Sendai earthquake and tsunami</dbp:n>
+    <dbp:q rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">no</dbp:q>
+    <dbp:s rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">no</dbp:s>
+    <dbp:species rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">no</dbp:species>
+    <dbp:title rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2011</dbp:title>
+    <dbp:title rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Earthquake Swarm Google Earth Animation</dbp:title>
+    <dbp:type rdf:resource="http://dbpedia.org/resource/Megathrust_earthquake" />
+    <dbp:v rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">no</dbp:v>
+    <dbp:wikt rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">no</dbp:wikt>
+    <dbp:aftershocks rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">11450</dbp:aftershocks>
+    <dbp:countriesAffected rdf:resource="http://dbpedia.org/resource/Pacific_Rim" />
+    <dbp:countriesAffected rdf:resource="http://dbpedia.org/resource/Japan" />
+    <dbp:damage rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Tsunami wave, flooding, landslides, fires, building and infrastructure damage, nuclear incidents including radiation releases</dbp:damage>
+    <dbp:foreshocks rdf:resource="http://dbpedia.org/resource/List_of_foreshocks_and_aftershocks_of_the_2011_Tōhoku_earthquake" />
+    <dbp:landslide rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Yes</dbp:landslide>
+    <dbp:origintime rdf:datatype="http://dbpedia.org/datatype/second">53184.0</dbp:origintime>
+    <dbp:tsunami rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Up to</dbp:tsunami>
+    <dbp:tsunami rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">in Miyako, Iwate, Tōhoku</dbp:tsunami>
+    <ns10:hypernym rdf:resource="http://dbpedia.org/resource/Earthquake" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Compagnie_des_Carabiniers_du_Prince">
+    <dbo:battle rdf:resource="http://dbpedia.org/resource/2011_Tōhoku_earthquake_and_tsunami" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Earthquake_in_Japan_in_March">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/2011_Tōhoku_earthquake_and_tsunami" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tohoku-Kanto_earthquake">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/2011_Tōhoku_earthquake_and_tsunami" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Great_Great_East_Japan_Earthquake">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/2011_Tōhoku_earthquake_and_tsunami" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tohoku_quake">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/2011_Tōhoku_earthquake_and_tsunami" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Earthquake_Japan_2011">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/2011_Tōhoku_earthquake_and_tsunami" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tohoku_earthquake">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/2011_Tōhoku_earthquake_and_tsunami" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2011_Great_Eastern_Japan_Earthquake_Disaster">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/2011_Tōhoku_earthquake_and_tsunami" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2011_Japan_tsunami_and_earthquake">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/2011_Tōhoku_earthquake_and_tsunami" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2011_Japanese_Earthquake">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/2011_Tōhoku_earthquake_and_tsunami" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2011_Sendai_earthquake_and_tsunami">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/2011_Tōhoku_earthquake_and_tsunami" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2011_Sendai_tsunami_and_earthquake">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/2011_Tōhoku_earthquake_and_tsunami" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2011_Tokohu_earthquake_and_tsunami">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/2011_Tōhoku_earthquake_and_tsunami" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2011_Tōhoku_earthquake">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/2011_Tōhoku_earthquake_and_tsunami" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Great_East_Japan_earthquake">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/2011_Tōhoku_earthquake_and_tsunami" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Japan_tsunami_2011">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/2011_Tōhoku_earthquake_and_tsunami" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Japanese_earthquake_2011">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/2011_Tōhoku_earthquake_and_tsunami" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Japanese_tsunami_2011">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/2011_Tōhoku_earthquake_and_tsunami" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sendai_earthquake_2011">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/2011_Tōhoku_earthquake_and_tsunami" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sendai_tsunami_2011">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/2011_Tōhoku_earthquake_and_tsunami" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sendai_tsunami_and_earthquake">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/2011_Tōhoku_earthquake_and_tsunami" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tohoku_Earthquake">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/2011_Tōhoku_earthquake_and_tsunami" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tohoku_Pacific_Earthquake">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/2011_Tōhoku_earthquake_and_tsunami" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tsunami_2011_Japan">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/2011_Tōhoku_earthquake_and_tsunami" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tōhoku_Earthquake">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/2011_Tōhoku_earthquake_and_tsunami" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tōhoku_Earthquake_and_tsunami">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/2011_Tōhoku_earthquake_and_tsunami" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tōhoku_earthquake">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/2011_Tōhoku_earthquake_and_tsunami" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tōhoku_earthquake_and_tsunami">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/2011_Tōhoku_earthquake_and_tsunami" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sendai_Tsunami">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/2011_Tōhoku_earthquake_and_tsunami" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/東北地方太平洋沖地震">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/2011_Tōhoku_earthquake_and_tsunami" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Great_East_Japan_Earthquake">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/2011_Tōhoku_earthquake_and_tsunami" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tohoku-Chihou-Taiheiyou-Oki_Earthquake">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/2011_Tōhoku_earthquake_and_tsunami" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/東日本大震災">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/2011_Tōhoku_earthquake_and_tsunami" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2011_Tohoku_Earthquake">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/2011_Tōhoku_earthquake_and_tsunami" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tohoku_earthquake_and_tsunami">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/2011_Tōhoku_earthquake_and_tsunami" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2011_Miyagi_earthquake">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/2011_Tōhoku_earthquake_and_tsunami" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2011_Tohoku_quake">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/2011_Tōhoku_earthquake_and_tsunami" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2011_Tohuku_earthquake_and_tsunami">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/2011_Tōhoku_earthquake_and_tsunami" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2011_Tōhoku_quake">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/2011_Tōhoku_earthquake_and_tsunami" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2011_japan_flood">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/2011_Tōhoku_earthquake_and_tsunami" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/March_11,_2011_earthquake">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/2011_Tōhoku_earthquake_and_tsunami" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2011_JAPAN_TSUNAMI_AND_QUAKE.">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/2011_Tōhoku_earthquake_and_tsunami" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/11_March_2011_Sendai_earthquake_and_tsunami">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/2011_Tōhoku_earthquake_and_tsunami" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2011_Earthquake_Off_North-Eastern_Tōhoku">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/2011_Tōhoku_earthquake_and_tsunami" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2011_Earthquake_Off_Northeastern_Tōhoku">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/2011_Tōhoku_earthquake_and_tsunami" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2011_Earthquake_off_North-Eastern_Tōhoku">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/2011_Tōhoku_earthquake_and_tsunami" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2011_Earthquake_off_Northeastern_Tōhoku">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/2011_Tōhoku_earthquake_and_tsunami" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2011_Japan_Earthquake">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/2011_Tōhoku_earthquake_and_tsunami" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2011_Japan_Earthquake_and_Tsunami">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/2011_Tōhoku_earthquake_and_tsunami" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2011_Japan_Pacific_Coast_earthquake">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/2011_Tōhoku_earthquake_and_tsunami" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2011_Japan_Tsunami">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/2011_Tōhoku_earthquake_and_tsunami" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2011_Japan_earthquake">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/2011_Tōhoku_earthquake_and_tsunami" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2011_Japan_earthquake_and_tsunami">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/2011_Tōhoku_earthquake_and_tsunami" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2011_Japan_quake">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/2011_Tōhoku_earthquake_and_tsunami" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2011_Japan_tsunami">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/2011_Tōhoku_earthquake_and_tsunami" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2011_Japanese_earthquake">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/2011_Tōhoku_earthquake_and_tsunami" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2011_Japanese_earthquake_and_tsunami">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/2011_Tōhoku_earthquake_and_tsunami" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2011_Japanese_tsunami">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/2011_Tōhoku_earthquake_and_tsunami" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2011_Kesennuma_earthquake">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/2011_Tōhoku_earthquake_and_tsunami" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2011_Sendai,_Japan_earthquake">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/2011_Tōhoku_earthquake_and_tsunami" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2011_Sendai_Earthquake">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/2011_Tōhoku_earthquake_and_tsunami" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2011_Sendai_Earthquake_and_Tsunami">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/2011_Tōhoku_earthquake_and_tsunami" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2011_Sendai_Tsunami">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/2011_Tōhoku_earthquake_and_tsunami" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2011_Sendai_disaster">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/2011_Tōhoku_earthquake_and_tsunami" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2011_Sendai_earthquake">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/2011_Tōhoku_earthquake_and_tsunami" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2011_Sendai_earthquake_disaster">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/2011_Tōhoku_earthquake_and_tsunami" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2011_Sendai_tsunami">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/2011_Tōhoku_earthquake_and_tsunami" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2011_Tohoku_earthquake">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/2011_Tōhoku_earthquake_and_tsunami" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2011_Tohoku_earthquake_and_tsunami">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/2011_Tōhoku_earthquake_and_tsunami" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2011_Tohoku_tsunami">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/2011_Tōhoku_earthquake_and_tsunami" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2011_Tokyo_earthquake">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/2011_Tōhoku_earthquake_and_tsunami" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2011_Tōhoku_tsunami">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/2011_Tōhoku_earthquake_and_tsunami" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2011_earthquake_off_north-eastern_Tōhoku">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/2011_Tōhoku_earthquake_and_tsunami" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2011_earthquake_off_northeastern_Tōhoku">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/2011_Tōhoku_earthquake_and_tsunami" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2011_earthquake_off_the_coast_of_Tohoku">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/2011_Tōhoku_earthquake_and_tsunami" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2011_earthquake_off_the_coast_of_Tōhoku">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/2011_Tōhoku_earthquake_and_tsunami" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2011_japan_quake">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/2011_Tōhoku_earthquake_and_tsunami" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2011_japan_tsunami">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/2011_Tōhoku_earthquake_and_tsunami" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2011_japan_tsunami_and_quake">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/2011_Tōhoku_earthquake_and_tsunami" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2011_off_the_Pacific_coast_of_Tohoku_Earthquake">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/2011_Tōhoku_earthquake_and_tsunami" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2011_off_the_Pacific_coast_of_Tohoku_earthquake">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/2011_Tōhoku_earthquake_and_tsunami" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2011_tsunami">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/2011_Tōhoku_earthquake_and_tsunami" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Great_Tohoku_Earthquake">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/2011_Tōhoku_earthquake_and_tsunami" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Great_Tohoku_earthquake">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/2011_Tōhoku_earthquake_and_tsunami" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Great_Tōhoku_Earthquake">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/2011_Tōhoku_earthquake_and_tsunami" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Great_Tōhoku_earthquake">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/2011_Tōhoku_earthquake_and_tsunami" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Japan_2011_earthquake">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/2011_Tōhoku_earthquake_and_tsunami" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Japan_disaster_2011">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/2011_Tōhoku_earthquake_and_tsunami" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Japan_earthquake_2011">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/2011_Tōhoku_earthquake_and_tsunami" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Japan_tsunami">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/2011_Tōhoku_earthquake_and_tsunami" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/March_2011_Sendai_earthquake_and_tsunami">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/2011_Tōhoku_earthquake_and_tsunami" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sendai_earth_quake">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/2011_Tōhoku_earthquake_and_tsunami" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sendai_earthquake">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/2011_Tōhoku_earthquake_and_tsunami" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sendai_earthquake_and_tsunami">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/2011_Tōhoku_earthquake_and_tsunami" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sendai_quake">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/2011_Tōhoku_earthquake_and_tsunami" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sendai_tsunami">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/2011_Tōhoku_earthquake_and_tsunami" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_2011_off_the_Pacific_coast_of_Tohoku_Earthquake">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/2011_Tōhoku_earthquake_and_tsunami" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_2011_off_the_Pacific_coast_of_Tohoku_earthquake">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/2011_Tōhoku_earthquake_and_tsunami" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tōhoku_Chihō_Taiheiyō-oki_Jishin">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/2011_Tōhoku_earthquake_and_tsunami" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tōhoku_region_Pacific_Ocean_offshore_earthquake">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/2011_Tōhoku_earthquake_and_tsunami" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/311_earthquake">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/2011_Tōhoku_earthquake_and_tsunami" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2011_earthquake_and_tsunami">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/2011_Tōhoku_earthquake_and_tsunami" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Great_East_Japan_Earthquake_and_Tsunami">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/2011_Tōhoku_earthquake_and_tsunami" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/3.11">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/2011_Tōhoku_earthquake_and_tsunami" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Great_Japan_Earthquake_of_2011">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/2011_Tōhoku_earthquake_and_tsunami" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/2011_Tōhoku_earthquake_and_tsunami">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/2011_Tōhoku_earthquake_and_tsunami" />
+  </rdf:Description>
+</rdf:RDF>
