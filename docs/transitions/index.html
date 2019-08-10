@@ -1,0 +1,23 @@
+---
+layout: default2
+title: Image Transitions
+---
+
+<script src='https://cdnjs.cloudflare.com/ajax/libs/d3/3.5.17/d3.js'></script>
+
+<div class="container mt-5" id="main">
+  <p>Powered by <a href="https://github.com/duhaime/d3-image-transitions">Image Transitions with D3 + Primitive</a></p>
+  <div id='target' class="my-5"></div>
+</div>
+
+<script src='draw.js'></script>
+
+<script>
+  var inputs = [
+    'output/hiraga.json',
+    'output/miyoshi.json',
+    'output/kyuseishujo.json',
+    'output/matsunosakae.json'
+  ]
+  main(inputs)
+</script>
