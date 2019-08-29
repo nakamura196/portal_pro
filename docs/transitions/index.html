@@ -1,23 +1,42 @@
 ---
 layout: default2
-title: Image Transitions
+title: Image Transitions with D3 and Primitive
 ---
 
-<script src='https://cdnjs.cloudflare.com/ajax/libs/d3/3.5.17/d3.js'></script>
 
-<div class="container mt-5" id="main">
-  <p>Powered by <a href="https://github.com/duhaime/d3-image-transitions">Image Transitions with D3 + Primitive</a></p>
-  <div id='target' class="my-5"></div>
+<script src='https://cdnjs.cloudflare.com/ajax/libs/d3/3.5.17/d3.js'></script>
+<div class="py-5 bg-light">
+  <div class="container" id="main">
+    <p>Powered by <a href="https://github.com/duhaime/d3-image-transitions">Image Transitions with D3 + Primitive</a>
+    </p>
+
+    <div id='target' class="my-5"></div>
+
+    <p>使用画像</p>
+    <ul>
+      <li>〔写真(平賀譲)〕 <a href="https://da.dl.itc.u-tokyo.ac.jp/portal/assets/3d344da5-7d34-446c-9404-3cda70cd8d1e">https://da.dl.itc.u-tokyo.ac.jp/portal/assets/3d344da5-7d34-446c-9404-3cda70cd8d1e</a></li>
+      <li>（三宅秀写真） <a href="https://da.dl.itc.u-tokyo.ac.jp/portal/assets/1f6e378c5626d0752d2bf6b90a40e588">https://da.dl.itc.u-tokyo.ac.jp/portal/assets/1f6e378c5626d0752d2bf6b90a40e588</a></li>
+      <li>救世主像 <a href="https://da.dl.itc.u-tokyo.ac.jp/portal/assets/5061e0fa-b328-431f-a95e-7b417137335b">https://da.dl.itc.u-tokyo.ac.jp/portal/assets/5061e0fa-b328-431f-a95e-7b417137335b</a></li>
+      <li>松乃栄 <a href="https://da.dl.itc.u-tokyo.ac.jp/portal/assets/c416f868-754f-4fed-9974-6ba911e2c0ba">https://da.dl.itc.u-tokyo.ac.jp/portal/assets/c416f868-754f-4fed-9974-6ba911e2c0ba</a></li>
+    </ul>
+
+  </div>
 </div>
 
 <script src='draw.js'></script>
-
+<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"
+  integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"
+  integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"
+  integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
 <script>
   var inputs = [
     'output/hiraga.json',
     'output/miyoshi.json',
     'output/kyuseishujo.json',
-    'output/matsunosakae.json'
+    'output/matsunosakae.json',
+
   ]
   main(inputs)
 </script>
