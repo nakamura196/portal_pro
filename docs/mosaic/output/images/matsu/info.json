@@ -1,0 +1,66 @@
+{
+  "@context": "http://iiif.io/api/image/2/context.json",
+  "@id": "https://nakamura196.github.io/portal_pro/mosaic/output/images/matsu",
+  "height": 6208,
+  "profile": [
+    "http://iiif.io/api/image/2/level0.json",
+    {
+      "formats": [
+        "jpg"
+      ],
+      "qualities": [
+        "default"
+      ]
+    }
+  ],
+  "protocol": "http://iiif.io/api/image",
+  "sizes": [
+    {
+      "height": 97,
+      "width": 186
+    },
+    {
+      "height": 49,
+      "width": 93
+    },
+    {
+      "height": 24,
+      "width": 47
+    },
+    {
+      "height": 12,
+      "width": 23
+    },
+    {
+      "height": 6,
+      "width": 12
+    },
+    {
+      "height": 3,
+      "width": 6
+    },
+    {
+      "height": 2,
+      "width": 3
+    },
+    {
+      "height": 1,
+      "width": 1
+    }
+  ],
+  "tiles": [
+    {
+      "height": 200,
+      "scaleFactors": [
+        1,
+        2,
+        4,
+        8,
+        16,
+        32
+      ],
+      "width": 200
+    }
+  ],
+  "width": 11904
+}

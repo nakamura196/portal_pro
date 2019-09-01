@@ -1,0 +1,64 @@
+{
+  "@context": "http://iiif.io/api/image/2/context.json",
+  "@id": "https://nakamura196.github.io/portal_pro/mosaic/input/images/aka",
+  "height": 2040,
+  "profile": [
+    "http://iiif.io/api/image/2/level0.json",
+    {
+      "formats": [
+        "jpg"
+      ],
+      "qualities": [
+        "default"
+      ]
+    }
+  ],
+  "protocol": "http://iiif.io/api/image",
+  "sizes": [
+    {
+      "height": 128,
+      "width": 180
+    },
+    {
+      "height": 64,
+      "width": 90
+    },
+    {
+      "height": 32,
+      "width": 45
+    },
+    {
+      "height": 16,
+      "width": 23
+    },
+    {
+      "height": 8,
+      "width": 11
+    },
+    {
+      "height": 4,
+      "width": 6
+    },
+    {
+      "height": 2,
+      "width": 3
+    },
+    {
+      "height": 1,
+      "width": 1
+    }
+  ],
+  "tiles": [
+    {
+      "height": 200,
+      "scaleFactors": [
+        1,
+        2,
+        4,
+        8
+      ],
+      "width": 200
+    }
+  ],
+  "width": 2880
+}
