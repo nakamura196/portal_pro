@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:dct="http://purl.org/dc/terms/"
+	xmlns:dbo="http://dbpedia.org/ontology/"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:dbp="http://dbpedia.org/property/"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	xmlns:prov="http://www.w3.org/ns/prov#"
+	xmlns:georss="http://www.georss.org/georss/"
+	xmlns:ns10="http://purl.org/linguistics/gold/" >
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Katori_Jingu">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Katori_Shrine" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Katori_Jingū">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Katori_Shrine" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Japanese_battleship_Katori">
+    <dbp:shipNamesake rdf:resource="http://dbpedia.org/resource/Katori_Shrine" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Katori">
+    <dbo:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/Katori_Shrine" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Katori_Shrine">
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PlaceOfWorship103953416" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/ArchitecturalStructure" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatShintoShrinesInJapan" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Shrine104210390" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Whole100003553" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Artifact100021939" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Structure104341686" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Building102913152" />
+    <rdf:type rdf:resource="http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatShintoShrinesInChibaPrefecture" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PhysicalEntity100001930" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Object100002684" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoGeoEntity" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoPermanentlyLocatedEntity" />
+    <rdfs:label xml:lang="de">Katori-jingū</rdfs:label>
+    <rdfs:label xml:lang="en">Katori Shrine</rdfs:label>
+    <rdfs:label xml:lang="fr">Katori-jingū</rdfs:label>
+    <rdfs:label xml:lang="ja">香取神宮</rdfs:label>
+    <rdfs:label xml:lang="zh">香取神宮</rdfs:label>
+    <rdfs:comment xml:lang="ja">香取神宮（かとりじんぐう）は、千葉県香取市香取にある神社。式内社（名神大社）、下総国一宮。旧社格は官幣大社で、現在は神社本庁の別表神社。 関東地方を中心として全国にある香取神社の総本社。茨城県鹿嶋市の鹿島神宮、茨城県神栖市の息栖神社とともに東国三社の一社。また、宮中の四方拝で遥拝される一社である。</rdfs:comment>
+    <rdfs:comment xml:lang="zh">香取神宮（かとりじんぐう）是位於日本千葉縣香取市的神社。為式內社（名神大社）、下總國一宮、舊社格為官幣大社（現神社本廳的別表神社）。日本全國約400座香取神社之總本宮。</rdfs:comment>
+    <rdfs:comment xml:lang="en">The Katori Shrine (香取神宮 Katori Jingū) is a Shintō shrine in the city of Katori in Chiba Prefecture, Japan. It is the ichinomiya of former Shimōsa Province, and is the head shrine of the approximately 400 Katori shrines around the country (located primarily in the Kantō region). The main festival of the shrine is held annually on April 14, with a three-day Grand Festival held every 12 years.</rdfs:comment>
+    <rdfs:comment xml:lang="fr">Le Katori-jingū (香取神宮) est un sanctuaire shinto situé dans la ville de Katori, préfecture de Chiba. C&#39;est le sanctuaire de tête d&#39;environ 400 sanctuaires Katori dans tout le pays (essentiellement dans la région de Kantō).</rdfs:comment>
+    <rdfs:comment xml:lang="de">Der Katori-jingū (jap. 香取神宮) ist ein Shintō-Schrein in der japanischen Stadt Katori, Präfektur Chiba. Sein genaues Alter ist nicht bekannt. Der Legende am Schrein zufolge wurde er im Jahr 643 vor Christus bzw. im Jahre 18 der Herrschaft des mythischen Jimmu-tennō erbaut. In der Heian-Zeit trug er den Titel des Ichi-no-miya (wörtlich: „Erster Schrein“) der Provinz Shimousa. Die gegenwärtigen Bauten der Haupthalle (honden) und des Turmtores (rōmon) stammen aus dem Jahr 1700 (respektive Jahr 13 der Genroku-Ära). Sie sind im Baustil sangensha nagare-zukuri (三間社流造) gehalten.</rdfs:comment>
+    <owl:sameAs rdf:resource="http://fr.dbpedia.org/resource/Katori-jingū" />
+    <owl:sameAs rdf:resource="http://yago-knowledge.org/resource/Katori_Shrine" />
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q372380" />
+    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/Katori-jingū" />
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q372380" />
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Katori_Shrine" />
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.03c178p" />
+    <owl:sameAs rdf:resource="http://ja.dbpedia.org/resource/香取神宮" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Jingū" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Visitor_attractions_in_Chiba_Prefecture" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Important_Cultural_Properties_of_Japan" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Shinto_shrines_in_Chiba_Prefecture" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:National_Treasures_of_Japan" />
+    <dbo:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">13305284</dbo:wikiPageID>
+    <dbo:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">633989034</dbo:wikiPageRevisionID>
+    <dbo:wikiPageExternalLink rdf:resource="http://books.google.com/books?id=tjEvAAAAYAAJ&amp;dq=Studies+in+Shinto+and+Shrines&amp;ei=O6yMSZu3HKD2MsWNhdwC&amp;client=firefox-a" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.worldcat.org/wcpa/oclc/3994492" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.worldcat.org/wcpa/oclc/194887" />
+    <dbo:wikiPageExternalLink rdf:resource="http://books.google.com/books?id=SLAeAAAAMAAJ&amp;q=The+Imperial+House+of+Japan&amp;dq=The+Imperial+House+of+Japan&amp;client=firefox-a&amp;pgis=1" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.katori-jingu.or.jp/" />
+    <foaf:homepage rdf:resource="http://www.katori-jingu.or.jp/" />
+    <dbp:name rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">香取神宮</dbp:name>
+    <dbp:name rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Katori Jingū</dbp:name>
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#float">35.8861</geo:lat>
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#float">140.529</geo:long>
+    <foaf:depiction rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Katori-jinguu-shrine-haiden,katori-city,japan.JPG" />
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Katori_Shrine" />
+    <geo:geometry rdf:datatype="http://www.openlinksw.com/schemas/virtrdf#Geometry">POINT(140.5288848877 35.886112213135)</geo:geometry>
+    <dbo:thumbnail rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Katori-jinguu-shrine-haiden,katori-city,japan.JPG?width=300" />
+    <prov:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Katori_Shrine?oldid=633989034" />
+    <dbo:abstract xml:lang="de">Der Katori-jingū (jap. 香取神宮) ist ein Shintō-Schrein in der japanischen Stadt Katori, Präfektur Chiba. Sein genaues Alter ist nicht bekannt. Der Legende am Schrein zufolge wurde er im Jahr 643 vor Christus bzw. im Jahre 18 der Herrschaft des mythischen Jimmu-tennō erbaut. In der Heian-Zeit trug er den Titel des Ichi-no-miya (wörtlich: „Erster Schrein“) der Provinz Shimousa. Die gegenwärtigen Bauten der Haupthalle (honden) und des Turmtores (rōmon) stammen aus dem Jahr 1700 (respektive Jahr 13 der Genroku-Ära). Sie sind im Baustil sangensha nagare-zukuri (三間社流造) gehalten. Der Schrein hat wegen seines Haupt-Kami (s. u.) besondere Relevanz für den vom Tennō bestimmten Shintō. Deswegen trägt er den Titel eines Jingū (神宮) und gehört zudem zu den Chokusaisha, Schreinen, die in regelmäßigen Abständen (hier: sechs Jahre) Gaben durch einen Abgesandten des Tennō erhalten. Das ursprüngliche Schreingebäude wurde - ähnlich wie die Schreine von Ise - alle 20 Jahre abgerissen und neu gebaut, dieser Brauch namens shikinen sengū (式年遷宮) wird aber seit der Sengoku-Zeit (15.-16. Jh.) nicht mehr fortgeführt. Das heutige Hauptgebäude stammt aus dem Jahr 1700 und gilt als typisches Beispiel der Edo-zeitlichen Schreinarchitektur.</dbo:abstract>
+    <dbo:abstract xml:lang="zh">香取神宮（かとりじんぐう）是位於日本千葉縣香取市的神社。為式內社（名神大社）、下總國一宮、舊社格為官幣大社（現神社本廳的別表神社）。日本全國約400座香取神社之總本宮。</dbo:abstract>
+    <dbo:abstract xml:lang="fr">Le Katori-jingū (香取神宮) est un sanctuaire shinto situé dans la ville de Katori, préfecture de Chiba. C&#39;est le sanctuaire de tête d&#39;environ 400 sanctuaires Katori dans tout le pays (essentiellement dans la région de Kantō).</dbo:abstract>
+    <dbo:abstract xml:lang="en">The Katori Shrine (香取神宮 Katori Jingū) is a Shintō shrine in the city of Katori in Chiba Prefecture, Japan. It is the ichinomiya of former Shimōsa Province, and is the head shrine of the approximately 400 Katori shrines around the country (located primarily in the Kantō region). The main festival of the shrine is held annually on April 14, with a three-day Grand Festival held every 12 years.</dbo:abstract>
+    <dbo:abstract xml:lang="ja">香取神宮（かとりじんぐう）は、千葉県香取市香取にある神社。式内社（名神大社）、下総国一宮。旧社格は官幣大社で、現在は神社本庁の別表神社。 関東地方を中心として全国にある香取神社の総本社。茨城県鹿嶋市の鹿島神宮、茨城県神栖市の息栖神社とともに東国三社の一社。また、宮中の四方拝で遥拝される一社である。</dbo:abstract>
+    <georss:point>35.88611111111111 140.5288888888889</georss:point>
+    <dbp:address rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1697</dbp:address>
+    <dbp:address rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Chiba Prefecture 287-0017</dbp:address>
+    <dbp:caption rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">The haiden, or prayer hall of Katori Shrine</dbp:caption>
+    <dbp:founded rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">642</dbp:founded>
+    <dbp:type rdf:resource="http://dbpedia.org/resource/Chokusaisha" />
+    <dbp:type rdf:resource="http://dbpedia.org/resource/Shikinaisya" />
+    <dbp:type rdf:resource="http://dbpedia.org/resource/Beppyo_jinja" />
+    <dbp:type rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Former kanpeitaisha</dbp:type>
+    <dbp:type rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Shimousa no Kuni</dbp:type>
+    <dbp:website rdf:resource="http://www.katori-jingu.or.jp/" />
+    <dbp:width rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">250</dbp:width>
+    <dbp:dedication rdf:resource="http://dbpedia.org/resource/Futsunushi" />
+    <dbp:dedication rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Iwainushi</dbp:dedication>
+    <dbp:honden rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Sangensya-Nagare-zukuri</dbp:honden>
+    <dbp:phone rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">+81 478-57-3211</dbp:phone>
+    <dbp:reisai rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Reisai, Shinkosai</dbp:reisai>
+    <ns10:hypernym rdf:resource="http://dbpedia.org/resource/Shrine" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Japanese_cruiser_Katori">
+    <dbp:shipNamesake rdf:resource="http://dbpedia.org/resource/Katori_Shrine" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Katori_Shrine">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Katori_Shrine" />
+  </rdf:Description>
+</rdf:RDF>

@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:dct="http://purl.org/dc/terms/"
+	xmlns:dbo="http://dbpedia.org/ontology/"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	xmlns:prov="http://www.w3.org/ns/prov#"
+	xmlns:georss="http://www.georss.org/georss/"
+	xmlns:dbp="http://dbpedia.org/property/"
+	xmlns:ns10="http://purl.org/linguistics/gold/" >
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Seigo_Minami">
+    <dbo:occupation rdf:resource="http://dbpedia.org/resource/Kyushu_University" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hsu_Shih-hsien">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/Kyushu_University" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Katsuto_Momii">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/Kyushu_University" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Naomichi_Matsumoto">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/Kyushu_University" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yoshizumi_Ishino">
+    <dbp:workInstitutions rdf:resource="http://dbpedia.org/resource/Kyushu_University" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Chen_Jinn-lih">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/Kyushu_University" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kyushu_daigaku">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Kyushu_University" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kyushu_uni">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Kyushu_University" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kyushu_uni.">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Kyushu_University" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kyushu_University">
+    <rdf:type rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#SocialPerson" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q3918" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q43229" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/EducationalInstitution" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatUniversitiesAndCollegesInFukuokaPrefecture" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoLegalActor" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoLegalActorGeo" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Abstraction100002137" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/SocialGroup107950920" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Institution108053576" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Group100031264" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Organization108008335" />
+    <rdf:type rdf:resource="http://umbel.org/umbel/rc/EducationalOrganization" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatNationalSevenUniversities" />
+    <rdf:type rdf:resource="http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing" />
+    <rdf:type rdf:resource="http://schema.org/CollegeOrUniversity" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/University" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/University108286569" />
+    <rdf:type rdf:resource="http://schema.org/EducationalOrganization" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatJapaneseNationalUniversities" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatUniversitiesAndCollegesInJapan" />
+    <rdf:type rdf:resource="http://schema.org/Organization" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatEducationalInstitutionsEstablishedIn1911" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Agent" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q24229398" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/EducationalInstitution108276342" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Organisation" />
+    <rdf:type rdf:resource="http://umbel.org/umbel/rc/University" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoPermanentlyLocatedEntity" />
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing" />
+    <rdf:type rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent" />
+    <rdfs:label xml:lang="en">Kyushu University</rdfs:label>
+    <rdfs:label xml:lang="de">Universität Kyūshū</rdfs:label>
+    <rdfs:label xml:lang="zh">九州大学</rdfs:label>
+    <rdfs:label xml:lang="pt">Universidade Kyushu</rdfs:label>
+    <rdfs:label xml:lang="ru">Университет Кюсю</rdfs:label>
+    <rdfs:label xml:lang="es">Universidad de Kyushu</rdfs:label>
+    <rdfs:label xml:lang="pl">Uniwersytet Kiusiu</rdfs:label>
+    <rdfs:label xml:lang="ar">جامعة كيوشو</rdfs:label>
+    <rdfs:label xml:lang="fr">Université de Kyūshū</rdfs:label>
+    <rdfs:label xml:lang="ja">九州大学</rdfs:label>
+    <rdfs:comment xml:lang="de">Die Universität Kyūshū (jap. 九州大学, Kyūshū daigaku, kurz Kyūdai (九大)) ist eine der angesehensten staatlichen Universitäten in Japan. Der Hauptcampus liegt in Hakozaki, Higashi-ku, Fukuoka in der Präfektur Fukuoka auf der Insel Kyūshū.</rdfs:comment>
+    <rdfs:comment xml:lang="pt">A Universidade Kyushu (Kyūshū Daigaku em japonês, abreviado como Kyudai), é uma das mais influentes universidades do Japão e a maior universidade pública da ilha de Kyushu. Está situada em Fukuoka, Fukuoka. Apesar da criação de uma nova entidade jurídica que possibilitou maior independência econômica e autonomia, a Universidade Kyushu ainda é parcialmente controlada pelo Ministério da Educação japonês.</rdfs:comment>
+    <rdfs:comment xml:lang="ar">25بك المحتوى هنا ينقصه الاستشهاد بمصادر. يرجى إيراد مصادر موثوق بها. أي معلومات غير موثقة يمكن التشكيك بها وإزالتها. (فبراير 2016) جامعة كيوشو (باليابانية: 九州大学 كيوشو دايغاكو) وتختصر باسم كيوداي (九大) هي أكبر جامعة عامة في كيوشو، وتقع في مدينة فوكوكا، محافظة فوكوكا. على الرغم من أن تحويل الجامعة إلى مؤسسة أدى إلى استقلالها ماديا، إلا أنها لا زالت تحت إشراف وزارة التعليم اليابانية.يوجد حوالي 1292 طالب أجنبي في الجامعة (بحسب مايو 2008) ويعتبر هذا العدد ثالث أكبر عدد للطلاب الأجانب في الجامعات اليابانية بعد جامعتي طوكيو وكيوتو.</rdfs:comment>
+    <rdfs:comment xml:lang="ja">九州大学（きゅうしゅうだいがく、英語: Kyushu University）は、福岡県福岡市西区元岡744番地に本部を置く日本の国立大学である。1911年に設置された。大学の略称は九大（きゅうだい）。</rdfs:comment>
+    <rdfs:comment xml:lang="fr">L&#39;université de Kyūshū (九州大学, Kyūshū Daigaku), souvent abrégée en Kyudai (九大, Kyūdai), est une université nationale japonaise située à Fukuoka, dans l&#39;île de Kyūshū. Elle a été fondée en 1903 sous la forme d&#39;un collège de médecine avant d’acquérir en 1911 le statut université impériale, et appartient depuis 2004 à l&#39;association des universités nationales du Japon.</rdfs:comment>
+    <rdfs:comment xml:lang="es">Universidad de Kyushu (九州大学 Kyūshū Daigaku?), abreviado como Kyudai (九大 Kyūdai?), es la universidad más prestigiosa e importante de la isla de Kyūshū. Se localiza en la ciudad de Fukuoka, en la Prefectura de Fukuoka, Japón. Es una de las universidades imperiales de Japón. Es considerada también como una de las instituciones de mayor prestigio en Japón.</rdfs:comment>
+    <rdfs:comment xml:lang="ru">Университет Кюсю (яп. 九州大学 Кю:сю: Дайгаку, сокращённо — 九大 Кю:дай) — крупнейший университет на острове Кюсю, расположен в городе Фукуока. Согласно рейтингу QS World University Rankings на 2010 год, университет Кюсю находится на 153 месте в мире и на 17 месте в Азии. Здесь обучается 1292 иностранных студента (на 1 мая 2008), что делает университет Кюсю третьим по числу иностранных студентов в Японии (после токийского и осакского).</rdfs:comment>
+    <rdfs:comment xml:lang="en">Kyushu University (九州大学 Kyūshū Daigaku), abbreviated to Kyudai (九大 Kyūdai), is a Japanese public university located in Fukuoka, Kyushu. It is one of Japan&#39;s National Seven Universities (The others are Hokkaido University, Tohoku University, The University of Tokyo, Nagoya University, Kyoto University and Osaka University). The history of Kyushu University can be traced by medical schools of the feudal domains built in 1867, and is the largest public university in Kyushu.</rdfs:comment>
+    <rdfs:comment xml:lang="zh">九州大學（日语：九州大学／きゅうしゅうだいがく Kyūshū daigaku；英語譯名：Kyushu University），簡稱九大（きゅうだい），是日本一所本部位於福岡縣福岡市東區箱崎的國立研究型綜合大學。九大前身是舊制帝国大学－九州帝國大學（1911年），起源於1867年的福岡藩醫學校「贊生館」。 九大是全國首例導入「全學大學院重點化」制度的大學。</rdfs:comment>
+    <rdfs:comment xml:lang="pl">Uniwersytet Kiusiu (jap. 九州大学 Kyūshū Daigaku) lub w skrócie Kyudai (jap. 九大 Kyūdai) – największy uniwersytet publiczny na wyspie Kiusiu w Japonii, zlokalizowany w mieście Fukuoka. Uniwersytet Kiusiu został założony w 1911 roku jako Cesarski Uniwersytet Kiusiu, powstały z przekształcenia Szkoły Medycznej w Fukuoce, utworzonej w 1903 roku, pierwotnie związanej z Cesarskim Uniwersytetem Kioto. W 1947 roku nazwa uczelni została zmieniona na Uniwersytet Kiusiu. Kampus Uniwersytetu Kiusiu, o powierzchni 2,4 km², składa się z sześciu części o nazwach Chikushi, Szpital, Ito, Ohashi, Hakozaki i Beppu, zawierających wiele historycznych budynków z różnych okresów istnienia uczelni.</rdfs:comment>
+    <owl:sameAs rdf:resource="http://pt.dbpedia.org/resource/Universidade_Kyushu" />
+    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/Universität_Kyūshū" />
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q1188786" />
+    <owl:sameAs rdf:resource="http://es.dbpedia.org/resource/Universidad_de_Kyushu" />
+    <owl:sameAs rdf:resource="http://ja.dbpedia.org/resource/九州大学" />
+    <owl:sameAs rdf:resource="http://fr.dbpedia.org/resource/Université_de_Kyūshū" />
+    <owl:sameAs rdf:resource="http://pl.dbpedia.org/resource/Uniwersytet_Kiusiu" />
+    <owl:sameAs rdf:resource="http://ko.dbpedia.org/resource/규슈_대학" />
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.01rp_s" />
+    <owl:sameAs rdf:resource="http://yago-knowledge.org/resource/Kyushu_University" />
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q1188786" />
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Kyushu_University" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Kyushu_University" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Educational_institutions_established_in_1911" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Forestry_education" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:1911_establishments_in_Japan" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Universities_and_colleges_in_Fukuoka_Prefecture" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:National_Seven_Universities" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Japanese_national_universities" />
+    <dbo:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">299359</dbo:wikiPageID>
+    <dbo:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">743293819</dbo:wikiPageRevisionID>
+    <dbo:wikiPageExternalLink rdf:resource="http://www.kyushu-u.ac.jp/english" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.math.kyushu-u.ac.jp/eng/" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.econ.kyushu-u.ac.jp/english/about/graduate.php" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.law.kyushu-u.ac.jp/programsinenglish/lldprogram.htm" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.law.kyushu-u.ac.jp/programsinenglish/bipprogram.htm" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.law.kyushu-u.ac.jp/programsinenglish/cspaprogram.htm" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.law.kyushu-u.ac.jp/programsinenglish/" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.kyushu-u.ac.jp" />
+    <dbo:wikiPageExternalLink rdf:resource="http://internacional.universia.net/asia-pacifico/japon/ciudades/fukuoka/descripcion.htm" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www2.lit.kyushu-u.ac.jp/en/" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.law.kyushu-u.ac.jp/programsinenglish/ylpprogram.htm" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.sci.kyushu-u.ac.jp/e/" />
+    <dbo:wikiPageExternalLink rdf:resource="https://www.kyushu-u.ac.jp/english/university/information/lang.php" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.isc.kyushu-u.ac.jp/g30/" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.hues.kyushu-u.ac.jp/english/" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.scs.kyushu-u.ac.jp/en/" />
+    <foaf:name xml:lang="en">Kyushu University</foaf:name>
+    <foaf:homepage rdf:resource="http://www.kyushu-u.ac.jp/english" />
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#float">33.6278</geo:lat>
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#float">130.423</geo:long>
+    <foaf:depiction rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Kyushu_University.jpg" />
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Kyushu_University" />
+    <geo:geometry rdf:datatype="http://www.openlinksw.com/schemas/virtrdf#Geometry">POINT(130.42297363281 33.627838134766)</geo:geometry>
+    <dbo:thumbnail rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Kyushu_University.jpg?width=300" />
+    <prov:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Kyushu_University?oldid=743293819" />
+    <dbo:abstract xml:lang="ru">Университет Кюсю (яп. 九州大学 Кю:сю: Дайгаку, сокращённо — 九大 Кю:дай) — крупнейший университет на острове Кюсю, расположен в городе Фукуока. Согласно рейтингу QS World University Rankings на 2010 год, университет Кюсю находится на 153 месте в мире и на 17 месте в Азии. Здесь обучается 1292 иностранных студента (на 1 мая 2008), что делает университет Кюсю третьим по числу иностранных студентов в Японии (после токийского и осакского).</dbo:abstract>
+    <dbo:abstract xml:lang="zh">九州大學（日语：九州大学／きゅうしゅうだいがく Kyūshū daigaku；英語譯名：Kyushu University），簡稱九大（きゅうだい），是日本一所本部位於福岡縣福岡市東區箱崎的國立研究型綜合大學。九大前身是舊制帝国大学－九州帝國大學（1911年），起源於1867年的福岡藩醫學校「贊生館」。 九大是全國首例導入「全學大學院重點化」制度的大學。</dbo:abstract>
+    <dbo:abstract xml:lang="de">Die Universität Kyūshū (jap. 九州大学, Kyūshū daigaku, kurz Kyūdai (九大)) ist eine der angesehensten staatlichen Universitäten in Japan. Der Hauptcampus liegt in Hakozaki, Higashi-ku, Fukuoka in der Präfektur Fukuoka auf der Insel Kyūshū.</dbo:abstract>
+    <dbo:abstract xml:lang="es">Universidad de Kyushu (九州大学 Kyūshū Daigaku?), abreviado como Kyudai (九大 Kyūdai?), es la universidad más prestigiosa e importante de la isla de Kyūshū. Se localiza en la ciudad de Fukuoka, en la Prefectura de Fukuoka, Japón. Es una de las universidades imperiales de Japón. Es considerada también como una de las instituciones de mayor prestigio en Japón. Hay un total de 1,292 de estudiantes extranjeros (cifras del 1 de Mayo, 2008) en la universidad. Por lo tanto se encuentra entre las primeras universidades de destino para estudiantes extranjeros en Japón (solo después de la Universidad de Tokyo y la Universidad de Osaka).</dbo:abstract>
+    <dbo:abstract xml:lang="pl">Uniwersytet Kiusiu (jap. 九州大学 Kyūshū Daigaku) lub w skrócie Kyudai (jap. 九大 Kyūdai) – największy uniwersytet publiczny na wyspie Kiusiu w Japonii, zlokalizowany w mieście Fukuoka. Uniwersytet Kiusiu został założony w 1911 roku jako Cesarski Uniwersytet Kiusiu, powstały z przekształcenia Szkoły Medycznej w Fukuoce, utworzonej w 1903 roku, pierwotnie związanej z Cesarskim Uniwersytetem Kioto. W 1947 roku nazwa uczelni została zmieniona na Uniwersytet Kiusiu. Kampus Uniwersytetu Kiusiu, o powierzchni 2,4 km², składa się z sześciu części o nazwach Chikushi, Szpital, Ito, Ohashi, Hakozaki i Beppu, zawierających wiele historycznych budynków z różnych okresów istnienia uczelni. Uczelnia kształci ok. 20 000 studentów i zatrudnia ok. 2300 pracowników naukowych. Według rankingu QS University Rankings w 2011 roku Uniwersytet Kiusiu był jednym z 20 najlepszych uniwersytetów na terenie Azji i zajmował 122 miejsce na świecie.</dbo:abstract>
+    <dbo:abstract xml:lang="fr">L&#39;université de Kyūshū (九州大学, Kyūshū Daigaku), souvent abrégée en Kyudai (九大, Kyūdai), est une université nationale japonaise située à Fukuoka, dans l&#39;île de Kyūshū. Elle a été fondée en 1903 sous la forme d&#39;un collège de médecine avant d’acquérir en 1911 le statut université impériale, et appartient depuis 2004 à l&#39;association des universités nationales du Japon. L&#39;université compte trois campus principaux répartis à Fukuoka, plus précisément à Ōhashi, à Chikushi, et à Ito. Elle forme quelque 18 743 étudiants, dont 1 713 étrangers, et compte 4 940 personnes travaillant dans des activités liées à la recherche ou à l&#39;enseignement. Elle est structurée en douze facultés pour le 1er cycle et dix-sept pour les cycles suivants. Elle comprend par ailleurs un hôpital, des bibliothèques totalisant un peu plus de quatre millions de titres et un musée.</dbo:abstract>
+    <dbo:abstract xml:lang="ar">25بك المحتوى هنا ينقصه الاستشهاد بمصادر. يرجى إيراد مصادر موثوق بها. أي معلومات غير موثقة يمكن التشكيك بها وإزالتها. (فبراير 2016) جامعة كيوشو (باليابانية: 九州大学 كيوشو دايغاكو) وتختصر باسم كيوداي (九大) هي أكبر جامعة عامة في كيوشو، وتقع في مدينة فوكوكا، محافظة فوكوكا. على الرغم من أن تحويل الجامعة إلى مؤسسة أدى إلى استقلالها ماديا، إلا أنها لا زالت تحت إشراف وزارة التعليم اليابانية.يوجد حوالي 1292 طالب أجنبي في الجامعة (بحسب مايو 2008) ويعتبر هذا العدد ثالث أكبر عدد للطلاب الأجانب في الجامعات اليابانية بعد جامعتي طوكيو وكيوتو.</dbo:abstract>
+    <dbo:abstract xml:lang="ja">九州大学（きゅうしゅうだいがく、英語: Kyushu University）は、福岡県福岡市西区元岡744番地に本部を置く日本の国立大学である。1911年に設置された。大学の略称は九大（きゅうだい）。</dbo:abstract>
+    <dbo:abstract xml:lang="en">Kyushu University (九州大学 Kyūshū Daigaku), abbreviated to Kyudai (九大 Kyūdai), is a Japanese public university located in Fukuoka, Kyushu. It is one of Japan&#39;s National Seven Universities (The others are Hokkaido University, Tohoku University, The University of Tokyo, Nagoya University, Kyoto University and Osaka University). The history of Kyushu University can be traced by medical schools of the feudal domains built in 1867, and is the largest public university in Kyushu. There are 2,089 foreign students (as of 2016) enrolled in the University. It was chosen for the Global 30 university program, and has been selected to the top 13 global university project.</dbo:abstract>
+    <dbo:abstract xml:lang="pt">A Universidade Kyushu (Kyūshū Daigaku em japonês, abreviado como Kyudai), é uma das mais influentes universidades do Japão e a maior universidade pública da ilha de Kyushu. Está situada em Fukuoka, Fukuoka. Apesar da criação de uma nova entidade jurídica que possibilitou maior independência econômica e autonomia, a Universidade Kyushu ainda é parcialmente controlada pelo Ministério da Educação japonês.</dbo:abstract>
+    <dbo:city rdf:resource="http://dbpedia.org/resource/Fukuoka,_Fukuoka" />
+    <dbo:endowment rdf:datatype="http://dbpedia.org/datatype/usDollar">7.2E7</dbo:endowment>
+    <dbo:facultySize rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">2315</dbo:facultySize>
+    <dbo:formerName xml:lang="en">Kyushu Imperial University</dbo:formerName>
+    <dbo:mascot>None</dbo:mascot>
+    <dbo:motto>Opening the Door to a New Century of Knowledge</dbo:motto>
+    <dbo:numberOfPostgraduateStudents rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">7132</dbo:numberOfPostgraduateStudents>
+    <dbo:numberOfStudents rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">18925</dbo:numberOfStudents>
+    <dbo:numberOfUndergraduateStudents rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">11793</dbo:numberOfUndergraduateStudents>
+    <dbo:officialSchoolColour>Wine Red</dbo:officialSchoolColour>
+    <dbo:staff rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">2769</dbo:staff>
+    <dbo:state rdf:resource="http://dbpedia.org/resource/Fukuoka_Prefecture" />
+    <dbo:type rdf:resource="http://dbpedia.org/resource/National_university" />
+    <georss:point>33.62784 130.42297</georss:point>
+    <dbp:affiliation rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Non-Sectarian</dbp:affiliation>
+    <dbp:arwuA rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">19</dbp:arwuA>
+    <dbp:arwuW rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">151</dbp:arwuW>
+    <dbp:budget rdf:datatype="http://dbpedia.org/datatype/usDollar">1.445E9</dbp:budget>
+    <dbp:campus rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Ohashi, rural,</dbp:campus>
+    <dbp:campus rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Hakozaki, urban,</dbp:campus>
+    <dbp:campus rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Maidashi, urban,</dbp:campus>
+    <dbp:campus rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Urban,</dbp:campus>
+    <dbp:campus rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Ito, urban,</dbp:campus>
+    <dbp:campus rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Chikushi, urban,</dbp:campus>
+    <dbp:campus rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Beppu, Research Forests and Farms</dbp:campus>
+    <dbp:country rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Japan</dbp:country>
+    <dbp:established rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Founded 1903,</dbp:established>
+    <dbp:established rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Chartered 1911</dbp:established>
+    <dbp:imageName rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">KyuDai-logo.png</dbp:imageName>
+    <dbp:imageSize rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">150</dbp:imageSize>
+    <dbp:language rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Japanese and English</dbp:language>
+    <dbp:life rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">0</dbp:life>
+    <dbp:line rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">0</dbp:line>
+    <dbp:note rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">T. Reuters World rankings include non-educational institutions</dbp:note>
+    <dbp:president rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Chihura Kubo</dbp:president>
+    <dbp:qsA rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">18</dbp:qsA>
+    <dbp:qsW rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">122</dbp:qsW>
+    <dbp:beN rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">15</dbp:beN>
+    <dbp:bePr rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">17</dbp:bePr>
+    <dbp:bio rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">0</dbp:bio>
+    <dbp:bus rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">0</dbp:bus>
+    <dbp:che rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">0</dbp:che>
+    <dbp:edN rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">18</dbp:edN>
+    <dbp:edW rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">616</dbp:edW>
+    <dbp:eng rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">0</dbp:eng>
+    <dbp:ensmpW rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">38</dbp:ensmpW>
+    <dbp:gbuduN rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">SA</dbp:gbuduN>
+    <dbp:imm rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">0</dbp:imm>
+    <dbp:kawaiN rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">7</dbp:kawaiN>
+    <dbp:law rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">0</dbp:law>
+    <dbp:mat rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">0</dbp:mat>
+    <dbp:nengN rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">11</dbp:nengN>
+    <dbp:nikkeibpKoy rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</dbp:nikkeibpKoy>
+    <dbp:nstr rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">0</dbp:nstr>
+    <dbp:pht rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">0</dbp:pht>
+    <dbp:soc rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">0</dbp:soc>
+    <dbp:trN rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">6</dbp:trN>
+    <dbp:trN rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</dbp:trN>
+    <dbp:trW rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">95</dbp:trW>
+    <dbp:trW rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">68</dbp:trW>
+    <dbp:trW rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">76</dbp:trW>
+    <dbp:trW rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">49</dbp:trW>
+    <dbp:trW rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">41</dbp:trW>
+    <dbp:tsuN rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">8</dbp:tsuN>
+    <dbp:weN rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">53</dbp:weN>
+    <dbp:wordnet_type rdf:resource="http://www.w3.org/2006/03/wn/wn20/instances/synset-university-noun-2" />
+    <ns10:hypernym rdf:resource="http://dbpedia.org/resource/University" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hakaru_Hashimoto">
+    <dbo:education rdf:resource="http://dbpedia.org/resource/Kyushu_University" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hirofumi_Yoshimura">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/Kyushu_University" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tomihisa_Taue">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/Kyushu_University" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Heijiro_Nakayama">
+    <dbo:occupation rdf:resource="http://dbpedia.org/resource/Kyushu_University" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yasuhiro_Yoshiura">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/Kyushu_University" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ichiro_Nakagawa">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/Kyushu_University" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Takashi_Gojobori">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/Kyushu_University" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kyushu_Imperial_University">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Kyushu_University" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kyūshū_University">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Kyushu_University" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kyushyu_Imperial_University">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Kyushu_University" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Kyushu_University">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Kyushu_University" />
+  </rdf:Description>
+</rdf:RDF>

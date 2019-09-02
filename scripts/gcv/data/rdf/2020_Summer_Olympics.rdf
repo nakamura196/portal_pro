@@ -1,0 +1,426 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:dct="http://purl.org/dc/terms/"
+	xmlns:dbo="http://dbpedia.org/ontology/"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:prov="http://www.w3.org/ns/prov#"
+	xmlns:dbp="http://dbpedia.org/property/"
+	xmlns:ns8="http://purl.org/linguistics/gold/" >
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2020_Olympic_games">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/2020_Summer_Olympics" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Olympic_Games_2020">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/2020_Summer_Olympics" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Olympic_games_2020">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/2020_Summer_Olympics" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Summer_Olympics_2020">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/2020_Summer_Olympics" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2018_Winter_Olympics">
+    <dbp:wnexts rdf:resource="http://dbpedia.org/resource/2020_Summer_Olympics" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2020_Summer_Olympic_Games">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/2020_Summer_Olympics" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2020_Olympic_Games">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/2020_Summer_Olympics" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2020_Summer_Olympics">
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoPermanentlyLocatedEntity" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatSummerOlympicGames" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Olympics" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/SpeechAct107160883" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Event100029378" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Act100030358" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatScheduledSportsEvents" />
+    <rdf:type rdf:resource="http://schema.org/SportsEvent" />
+    <rdf:type rdf:resource="http://schema.org/Event" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Abstraction100002137" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Event" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/SportsEvent" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/SocietalEvent" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q1656682" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PsychologicalFeature100023100" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/SocialEvent107288639" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Command107168131" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatOlympicGamesInJapan" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatScheduledMulti-sportEvents" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatSummerOlympicsBids" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Contest107456188" />
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing" />
+    <rdf:type rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Event" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Game100456199" />
+    <rdfs:label xml:lang="it">Giochi della XXXII Olimpiade</rdfs:label>
+    <rdfs:label xml:lang="de">Olympische Sommerspiele 2020</rdfs:label>
+    <rdfs:label xml:lang="fr">Jeux olympiques d&#39;été de 2020</rdfs:label>
+    <rdfs:label xml:lang="es">Juegos Olímpicos de Tokio 2020</rdfs:label>
+    <rdfs:label xml:lang="pl">Letnie Igrzyska Olimpijskie 2020</rdfs:label>
+    <rdfs:label xml:lang="zh">2020年夏季奥林匹克运动会</rdfs:label>
+    <rdfs:label xml:lang="ja">2020年夏季オリンピック</rdfs:label>
+    <rdfs:label xml:lang="pt">Jogos Olímpicos de Verão de 2020</rdfs:label>
+    <rdfs:label xml:lang="nl">Olympische Zomerspelen 2020</rdfs:label>
+    <rdfs:label xml:lang="ar">الألعاب الأولمبية الصيفية 2020</rdfs:label>
+    <rdfs:label xml:lang="en">2020 Summer Olympics</rdfs:label>
+    <rdfs:label xml:lang="ru">Летние Олимпийские игры 2020</rdfs:label>
+    <rdfs:comment xml:lang="ja">2020年夏季オリンピック（2020ねん かきオリンピック）は、2020年7月24日から8月9日まで日本の東京都で開催される第32回夏季オリンピック。一般的に東京オリンピックと呼称される。 日本オリンピック委員会の竹田恆和会長と石原慎太郎、猪瀬直樹東京都知事が招致委員会を率い、2013年9月7日（現地時間）にアルゼンチンの首都のブエノスアイレスで行われた第125次IOC総会で、イスタンブール、マドリードを抑えて選出された。東京での開催は1964年以来56年ぶり2回目、アジア初の同一都市による複数回開催となる。アジアで開催される夏季オリンピックは2008年の北京オリンピック以来12年ぶり4回目。なお、日本でのオリンピック開催は夏季・冬季通じると冬季開催となった1998年の長野オリンピック以来22年ぶり4回目にあたる。</rdfs:comment>
+    <rdfs:comment xml:lang="fr">Les Jeux olympiques d&#39;été de 2020, officiellement appelés les Jeux de la XXXIIe olympiade de l&#39;ère moderne, seront célébrés du 24 juillet au 9 août 2020 à Tokyo, au Japon, qui a déjà organisé ceux de 1964. L&#39;élection de la ville hôte a eu lieu le 7 septembre 2013 à Buenos Aires lors de la 125e session du Comité international olympique avec trois villes en lice pour accueillir les Jeux : Istanbul, Tokyo et Madrid. Il s&#39;agit du plus faible nombre de villes candidates retenues depuis les Jeux olympiques d&#39;été de 1988.</rdfs:comment>
+    <rdfs:comment xml:lang="ru">Ле́тние Олимпи́йские и́гры 2020 (англ. 2020 Summer Olympics, яп. 夏季オリンピック2020 Kaki orinpikku 2020, официальное название — И́гры XXXII Олимпиа́ды) — XXXII летние Олимпийские игры, которые пройдут в Токио, Япония, в 2020 году. Подробнее про мероприятие можно узнать Официальные заявки на проведения Игр были поданы до 1 сентября 2011 года. 23 мая 2012 года МОК объявил, что официальными кандидатами остаются Мадрид, Стамбул и Токио. 7 сентября 2013 года в Буэнос-Айресе (Аргентина) МОК объявил столицу Олимпиады на своей 125-й сессии.</rdfs:comment>
+    <rdfs:comment xml:lang="pl">XXXII Letnie Igrzyska Olimpijskie (oficjalnie Igrzyska XXXII Olimpiady) – multidyscyplinarne zawody sportowe, które odbędą się w stolicy Japonii – Tokio w 2020 roku. Gospodarz igrzysk został wybrany 7 września 2013 roku podczas 125. Sesji MKOl w Buenos Aires. Tokio było już gospodarzem Letnich Igrzysk: w 1964 roku.</rdfs:comment>
+    <rdfs:comment xml:lang="ar">دورة الألعاب الأولمبية الصيفية 2020 (الدورة 32 للأولمبياد). تم الإعلان عن المدينة المستضيفة في 7 سبتمبر 2013 في بيونس ايرس بالأرجنتين، وفازت طوكيو بتنظيم الدورة بعد أن تنافست في ذلك كل منها ومدريد وإسطنبول و ستشارك جزر فارو لأول مرة في تاريخها في هذه النسخة من الألعاب الأولمبية.</rdfs:comment>
+    <rdfs:comment xml:lang="it">I Giochi della XXXII Olimpiade (2020年夏季オリンピック), altrimenti detti Tokyo 2020, si terranno a Tokyo, nel 2020, dal 25 luglio al 9 agosto.La città giapponese (seconda Olimpiade dopo quella del 1964) è stata scelta durante la 125ª sessione del CIO, svoltasi a Buenos Aires il 7 settembre 2013, venendo preferita alle altre due contendenti, Istanbul (Turchia) e Madrid (Spagna).</rdfs:comment>
+    <rdfs:comment xml:lang="pt">Jogos Olímpicos de 2020, oficialmente Jogos da XXXII Olimpíada(em japonês: 第十八回オリンピック競技大会 Dai Jūhachi-kai Orinpikku Kyōgi Taikai), mais comumente Tóquio 2020, serão um evento multiesportivo realizado no ano de 2020, em Tóquio no Japão. A eleição da cidade-sede ocorreu em 7 de setembro de 2013 na 125ª Sessão do Comitê Olímpico Internacional, em Buenos Aires, capital da Argentina.</rdfs:comment>
+    <rdfs:comment xml:lang="es">Los Juegos Olímpicos de Tokio 2020 (2020年夏季オリンピック nisennijū nen kaki orinpikku?), oficialmente conocidos como los Juegos de la XXXII Olimpiada, tendrán lugar entre el 24 de julio al 9 de agosto de 2020 en Tokio, Japón. El Comité Olímpico Internacional eligió a Tokio, una de las ciudades que se habían postulado, el 7 de septiembre de 2013 durante la 125.ª Sesión del Comité Olímpico Internacional celebrada en Buenos Aires, Argentina. El 24 de enero de 2014, se estableció formalmente el Comité Organizador de los Juegos Olímpicos y Paralímpicos de Tokio 2020.</rdfs:comment>
+    <rdfs:comment xml:lang="nl">De Olympische Zomerspelen van de XXXIIe Olympiade worden in 2020 gehouden worden in de Japanse hoofdstad Tokio. Ze worden de Spelen van de 32e Olympiade genoemd maar het zal de 29e effectieve editie van de Zomerspelen worden sinds 1896 daar er drie edities niet doorgingen omwille van oorlogsperioden. Op 7 september 2013 werd Tokio op het 125e IOC-congres in het Argentijnse Buenos Aires gekozen tot gaststad. Het wist Madrid en Istanboel in twee stemrondes te verslaan. Volgens de planning zal het evenement zich afspelen van 24 juli 2020 tot 9 augustus 2020.</rdfs:comment>
+    <rdfs:comment xml:lang="zh">第三十二屆夏季奥林匹克運動會（英语：the Games of the XXXII Olympiad，法语：les Jeux de la XXXIIe Olympiade，日语：第三十二回オリンピック競技大会），又稱2020年東京奧運會，將於2020年7月24日至8月9日在日本東京舉行。国际奥林匹克委员会於2013年9月7日於阿根廷布宜諾斯艾利斯舉行的第125次全體會議上選出东京為該屆主辦城市，這是东京繼1964年之後再次主辦夏季奧運，也是日本第四次举办奥运会、以及第六次獲得奥运会主辦權，也使東京成為目前唯一舉辦兩次夏季奧運的亞洲城市、和世界第五個舉辦兩次夏季奧運的城市。</rdfs:comment>
+    <rdfs:comment xml:lang="en">The 2020 Summer Olympics, officially known as the Games of the XXXII Olympiad (French: Jeux de la XXXIIe olympiade; Japanese: 第三十二回オリンピック競技大会; Hepburn: Dai Sanjūni-kai Orinpikku Kyōgi Taikai) and commonly known as Tokyo 2020, is a major international multi-sport event due to be celebrated in the tradition of the Olympic Games as governed by the International Olympic Committee (IOC). The games are planned to be held from 24 July to 9 August 2020 in Tokyo. The city was announced as the host at the 125th IOC Session in Buenos Aires on 7 September 2013.</rdfs:comment>
+    <rdfs:comment xml:lang="de">Die Olympischen Sommerspiele 2020 (offiziell Spiele der XXXII. Olympiade) sollen vom 24. Juli bis zum 9. August 2020 in Tokio stattfinden. Die japanische Hauptstadt trug bereits 1964 die Spiele aus. Auch 1940 war Tokio für die Austragung der Spiele vorgesehen, musste sie aber nach dem Ausbruch des Japanisch-Chinesischen Kriegs am 16. Juli 1938 an das IOC zurückgeben. Darüber hinaus bewarb sich die Stadt erfolglos um die Spiele 1960 und 2016.</rdfs:comment>
+    <owl:sameAs rdf:resource="http://pl.dbpedia.org/resource/Letnie_Igrzyska_Olimpijskie_2020" />
+    <owl:sameAs rdf:resource="http://pt.dbpedia.org/resource/Jogos_Olímpicos_de_Verão_de_2020" />
+    <owl:sameAs rdf:resource="http://ja.dbpedia.org/resource/2020年夏季オリンピック" />
+    <owl:sameAs rdf:resource="http://yago-knowledge.org/resource/2020_Summer_Olympics" />
+    <owl:sameAs rdf:resource="http://nl.dbpedia.org/resource/Olympische_Zomerspelen_2020" />
+    <owl:sameAs rdf:resource="http://ko.dbpedia.org/resource/2020년_하계_올림픽" />
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/2020_Summer_Olympics" />
+    <owl:sameAs rdf:resource="http://it.dbpedia.org/resource/Giochi_della_XXXII_Olimpiade" />
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.05gj2h" />
+    <owl:sameAs rdf:resource="http://fr.dbpedia.org/resource/Jeux_olympiques_d&#39;été_de_2020" />
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q181278" />
+    <owl:sameAs rdf:resource="http://eu.dbpedia.org/resource/2020ko_Udako_Olinpiar_Jokoak" />
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q181278" />
+    <owl:sameAs rdf:resource="http://cs.dbpedia.org/resource/Letní_olympijské_hry_2020" />
+    <owl:sameAs rdf:resource="http://id.dbpedia.org/resource/Olimpiade_Musim_Panas_2020" />
+    <owl:sameAs rdf:resource="http://es.dbpedia.org/resource/Juegos_Olímpicos_de_Tokio_2020" />
+    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/Olympische_Sommerspiele_2020" />
+    <owl:sameAs rdf:resource="http://el.dbpedia.org/resource/Θερινοί_Ολυμπιακοί_Αγώνες_2020" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Scheduled_multi-sport_events" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Summer_Olympics_by_year" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:2020_in_multi-sport_events" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:2020_in_Japanese_sport" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Sport_in_Tokyo" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:21st_century_in_Tokyo" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Olympic_Games_in_Japan" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:2020_Summer_Olympics" />
+    <dbo:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1610886</dbo:wikiPageID>
+    <dbo:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">744732073</dbo:wikiPageRevisionID>
+    <dbo:wikiPageExternalLink rdf:resource="http://www.olympic.org/" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.olympic.org/tokyo-2020-summer-olympics" />
+    <dbo:wikiPageExternalLink rdf:resource="http://tokyo2020.jp/en/index.php" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.joc.or.jp/english/" />
+    <foaf:depiction rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Tokyo_2020_Olympics_logo.svg" />
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/2020_Summer_Olympics" />
+    <dbo:thumbnail rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Tokyo_2020_Olympics_logo.svg?width=300" />
+    <prov:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/2020_Summer_Olympics?oldid=744732073" />
+    <dbo:abstract xml:lang="ar">دورة الألعاب الأولمبية الصيفية 2020 (الدورة 32 للأولمبياد). تم الإعلان عن المدينة المستضيفة في 7 سبتمبر 2013 في بيونس ايرس بالأرجنتين، وفازت طوكيو بتنظيم الدورة بعد أن تنافست في ذلك كل منها ومدريد وإسطنبول و ستشارك جزر فارو لأول مرة في تاريخها في هذه النسخة من الألعاب الأولمبية.</dbo:abstract>
+    <dbo:abstract xml:lang="fr">Les Jeux olympiques d&#39;été de 2020, officiellement appelés les Jeux de la XXXIIe olympiade de l&#39;ère moderne, seront célébrés du 24 juillet au 9 août 2020 à Tokyo, au Japon, qui a déjà organisé ceux de 1964. L&#39;élection de la ville hôte a eu lieu le 7 septembre 2013 à Buenos Aires lors de la 125e session du Comité international olympique avec trois villes en lice pour accueillir les Jeux : Istanbul, Tokyo et Madrid. Il s&#39;agit du plus faible nombre de villes candidates retenues depuis les Jeux olympiques d&#39;été de 1988. John Coates est nommé par le président du CIO Thomas Bach à la tête de la Commission de coordination des Jeux de Tokyo.</dbo:abstract>
+    <dbo:abstract xml:lang="ru">Ле́тние Олимпи́йские и́гры 2020 (англ. 2020 Summer Olympics, яп. 夏季オリンピック2020 Kaki orinpikku 2020, официальное название — И́гры XXXII Олимпиа́ды) — XXXII летние Олимпийские игры, которые пройдут в Токио, Япония, в 2020 году. Подробнее про мероприятие можно узнать Официальные заявки на проведения Игр были поданы до 1 сентября 2011 года. 23 мая 2012 года МОК объявил, что официальными кандидатами остаются Мадрид, Стамбул и Токио. 7 сентября 2013 года в Буэнос-Айресе (Аргентина) МОК объявил столицу Олимпиады на своей 125-й сессии.</dbo:abstract>
+    <dbo:abstract xml:lang="it">I Giochi della XXXII Olimpiade (2020年夏季オリンピック), altrimenti detti Tokyo 2020, si terranno a Tokyo, nel 2020, dal 25 luglio al 9 agosto.La città giapponese (seconda Olimpiade dopo quella del 1964) è stata scelta durante la 125ª sessione del CIO, svoltasi a Buenos Aires il 7 settembre 2013, venendo preferita alle altre due contendenti, Istanbul (Turchia) e Madrid (Spagna).</dbo:abstract>
+    <dbo:abstract xml:lang="ja">2020年夏季オリンピック（2020ねん かきオリンピック）は、2020年7月24日から8月9日まで日本の東京都で開催される第32回夏季オリンピック。一般的に東京オリンピックと呼称される。 日本オリンピック委員会の竹田恆和会長と石原慎太郎、猪瀬直樹東京都知事が招致委員会を率い、2013年9月7日（現地時間）にアルゼンチンの首都のブエノスアイレスで行われた第125次IOC総会で、イスタンブール、マドリードを抑えて選出された。東京での開催は1964年以来56年ぶり2回目、アジア初の同一都市による複数回開催となる。アジアで開催される夏季オリンピックは2008年の北京オリンピック以来12年ぶり4回目。なお、日本でのオリンピック開催は夏季・冬季通じると冬季開催となった1998年の長野オリンピック以来22年ぶり4回目にあたる。</dbo:abstract>
+    <dbo:abstract xml:lang="de">Die Olympischen Sommerspiele 2020 (offiziell Spiele der XXXII. Olympiade) sollen vom 24. Juli bis zum 9. August 2020 in Tokio stattfinden. Die japanische Hauptstadt trug bereits 1964 die Spiele aus. Auch 1940 war Tokio für die Austragung der Spiele vorgesehen, musste sie aber nach dem Ausbruch des Japanisch-Chinesischen Kriegs am 16. Juli 1938 an das IOC zurückgeben. Darüber hinaus bewarb sich die Stadt erfolglos um die Spiele 1960 und 2016.</dbo:abstract>
+    <dbo:abstract xml:lang="en">The 2020 Summer Olympics, officially known as the Games of the XXXII Olympiad (French: Jeux de la XXXIIe olympiade; Japanese: 第三十二回オリンピック競技大会; Hepburn: Dai Sanjūni-kai Orinpikku Kyōgi Taikai) and commonly known as Tokyo 2020, is a major international multi-sport event due to be celebrated in the tradition of the Olympic Games as governed by the International Olympic Committee (IOC). The games are planned to be held from 24 July to 9 August 2020 in Tokyo. The city was announced as the host at the 125th IOC Session in Buenos Aires on 7 September 2013.</dbo:abstract>
+    <dbo:abstract xml:lang="nl">De Olympische Zomerspelen van de XXXIIe Olympiade worden in 2020 gehouden worden in de Japanse hoofdstad Tokio. Ze worden de Spelen van de 32e Olympiade genoemd maar het zal de 29e effectieve editie van de Zomerspelen worden sinds 1896 daar er drie edities niet doorgingen omwille van oorlogsperioden. Op 7 september 2013 werd Tokio op het 125e IOC-congres in het Argentijnse Buenos Aires gekozen tot gaststad. Het wist Madrid en Istanboel in twee stemrondes te verslaan. Volgens de planning zal het evenement zich afspelen van 24 juli 2020 tot 9 augustus 2020.</dbo:abstract>
+    <dbo:abstract xml:lang="es">Los Juegos Olímpicos de Tokio 2020 (2020年夏季オリンピック nisennijū nen kaki orinpikku?), oficialmente conocidos como los Juegos de la XXXII Olimpiada, tendrán lugar entre el 24 de julio al 9 de agosto de 2020 en Tokio, Japón. El Comité Olímpico Internacional eligió a Tokio, una de las ciudades que se habían postulado, el 7 de septiembre de 2013 durante la 125.ª Sesión del Comité Olímpico Internacional celebrada en Buenos Aires, Argentina. Serán los segundos Juegos Olímpicos en Tokio. La primera vez se realizó en 1964 en la era Shōwa, cuando Hirohito, padre del actual emperador, era quien ostentaba ese cargo. Esta edición se hará en la era Heisei del actual emperador Akihito (en el caso de que siga ejerciendo el cargo). El 24 de enero de 2014, se estableció formalmente el Comité Organizador de los Juegos Olímpicos y Paralímpicos de Tokio 2020.</dbo:abstract>
+    <dbo:abstract xml:lang="pl">XXXII Letnie Igrzyska Olimpijskie (oficjalnie Igrzyska XXXII Olimpiady) – multidyscyplinarne zawody sportowe, które odbędą się w stolicy Japonii – Tokio w 2020 roku. Gospodarz igrzysk został wybrany 7 września 2013 roku podczas 125. Sesji MKOl w Buenos Aires. Tokio było już gospodarzem Letnich Igrzysk: w 1964 roku.</dbo:abstract>
+    <dbo:abstract xml:lang="zh">第三十二屆夏季奥林匹克運動會（英语：the Games of the XXXII Olympiad，法语：les Jeux de la XXXIIe Olympiade，日语：第三十二回オリンピック競技大会），又稱2020年東京奧運會，將於2020年7月24日至8月9日在日本東京舉行。国际奥林匹克委员会於2013年9月7日於阿根廷布宜諾斯艾利斯舉行的第125次全體會議上選出东京為該屆主辦城市，這是东京繼1964年之後再次主辦夏季奧運，也是日本第四次举办奥运会、以及第六次獲得奥运会主辦權，也使東京成為目前唯一舉辦兩次夏季奧運的亞洲城市、和世界第五個舉辦兩次夏季奧運的城市。</dbo:abstract>
+    <dbo:abstract xml:lang="pt">Jogos Olímpicos de 2020, oficialmente Jogos da XXXII Olimpíada(em japonês: 第十八回オリンピック競技大会 Dai Jūhachi-kai Orinpikku Kyōgi Taikai), mais comumente Tóquio 2020, serão um evento multiesportivo realizado no ano de 2020, em Tóquio no Japão. A eleição da cidade-sede ocorreu em 7 de setembro de 2013 na 125ª Sessão do Comitê Olímpico Internacional, em Buenos Aires, capital da Argentina. Esta será a segunda edição consecutiva dos Jogos Olímpicos que será realizada no Extremo Oriente depois de PyeongChang 2018. Antes, a cidade sediou os Jogos Olímpicos de Verão de 1964 e em 2020 será a quinta cidade na história a realizar os Jogos de Verão duas vezes.</dbo:abstract>
+    <dbo:numberOfParticipatingAthletes rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">12000</dbo:numberOfParticipatingAthletes>
+    <dbo:numberOfParticipatingNations rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">207</dbo:numberOfParticipatingNations>
+    <dbp:snext rdf:resource="http://dbpedia.org/resource/2022_Winter_Olympics" />
+    <dbp:snexts rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2024</dbp:snexts>
+    <dbp:sprevious rdf:resource="http://dbpedia.org/resource/2018_Winter_Olympics" />
+    <dbp:spreviouss rdf:resource="http://dbpedia.org/resource/2016_Summer_Olympics" />
+    <dbp:alt rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">An O-like shape, decorated with a compulex checkered design and featuring a 12-pointed star in the center negative space, sits atop the words &quot;Tokyo 2020&quot;. The Olympic rings are placed underneath.</dbp:alt>
+    <dbp:logo rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Tokyo 2020 Olympics logo.svg</dbp:logo>
+    <dbp:size rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">250</dbp:size>
+    <dbp:title rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Tokyo</dbp:title>
+    <dbp:title rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Summer Olympic Games</dbp:title>
+    <dbp:years rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">XXXII Olympiad</dbp:years>
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Event" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/XXXII_summer_Olympic_Games">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/2020_Summer_Olympics" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Games_of_the_XXXII_Olympiad">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/2020_Summer_Olympics" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2016_Summer_Olympics">
+    <dbp:snexts rdf:resource="http://dbpedia.org/resource/2020_Summer_Olympics" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ariake_Coliseum">
+    <dbo:tenant rdf:resource="http://dbpedia.org/resource/2020_Summer_Olympics" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2020_Olympics">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/2020_Summer_Olympics" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2020_Summer_Paralympics">
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/2020_Summer_Olympics" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2022_Winter_Olympics">
+    <dbp:wpreviouss rdf:resource="http://dbpedia.org/resource/2020_Summer_Olympics" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_2020_Summer_Olympics">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/2020_Summer_Olympics" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2020_summer_olympics">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/2020_Summer_Olympics" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Busan_Bids_for_2020_Summer_Olympics">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/2020_Summer_Olympics" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2020_Summer_Olympic_Bids">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/2020_Summer_Olympics" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/2020_Summer_Olympics">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/2020_Summer_Olympics" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Field_hockey_at_the_2020_Summer_Olympics_–_Men&#39;s_tournament">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/2020_Summer_Olympics" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Field_hockey_at_the_2020_Summer_Olympics_–_Women&#39;s_tournament">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/2020_Summer_Olympics" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2020_Olympic">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/2020_Summer_Olympics" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2020_Japan">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/2020_Summer_Olympics" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2020_Japanese_Olympics">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/2020_Summer_Olympics" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2020_Japanese_Summer_Olympics">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/2020_Summer_Olympics" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2020_Olympiad">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/2020_Summer_Olympics" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2020_Summer_Games">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/2020_Summer_Olympics" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2020_Tokyo">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/2020_Summer_Olympics" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Japan_2020">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/2020_Summer_Olympics" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Japan_2020_Olympics">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/2020_Summer_Olympics" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Olympics_in_2020">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/2020_Summer_Olympics" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Summer_2020_Olympics">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/2020_Summer_Olympics" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tokyo_Olympics_2020">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/2020_Summer_Olympics" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/XXXII_Olympiad">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/2020_Summer_Olympics" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/XXXII_Olympic_Games">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/2020_Summer_Olympics" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/XXXII_Olympics">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/2020_Summer_Olympics" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/XXXII_Summer_Games">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/2020_Summer_Olympics" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2020_Japanese_Olympic_Games">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/2020_Summer_Olympics" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2020_Japanese_Summer_Games">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/2020_Summer_Olympics" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2020_Japanese_Summer_Olympic_Games">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/2020_Summer_Olympics" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2020_Tokyo_Olympic_Games">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/2020_Summer_Olympics" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2020_Tokyo_Olympics">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/2020_Summer_Olympics" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2020_Tokyo_Summer_Games">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/2020_Summer_Olympics" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2020_Tokyo_Summer_Olympic_Games">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/2020_Summer_Olympics" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2020_Tokyo_Summer_Olympics">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/2020_Summer_Olympics" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Archery_at_the_2020_Summer_Olympics">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/2020_Summer_Olympics" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Athletics_at_the_2020_Summer_Olympics">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/2020_Summer_Olympics" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Badminton_at_the_2020_Summer_Olympics">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/2020_Summer_Olympics" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Basketball_at_the_2020_Summer_Olympics">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/2020_Summer_Olympics" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Boxing_at_the_2020_Summer_Olympics">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/2020_Summer_Olympics" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Canoeing_at_the_2020_Summer_Olympics">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/2020_Summer_Olympics" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Cycling_at_the_2020_Summer_Olympics">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/2020_Summer_Olympics" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Diving_at_the_2020_Summer_Olympics">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/2020_Summer_Olympics" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Equestrian_at_the_2020_Summer_Olympics">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/2020_Summer_Olympics" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Fencing_at_the_2020_Summer_Olympics">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/2020_Summer_Olympics" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Field_hockey_at_the_2020_Summer_Olympics">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/2020_Summer_Olympics" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Football_at_the_2020_Summer_Olympics">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/2020_Summer_Olympics" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Golf_at_the_2020_Summer_Olympics">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/2020_Summer_Olympics" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gymnastics_at_the_2020_Summer_Olympics">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/2020_Summer_Olympics" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Handball_at_the_2020_Summer_Olympics">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/2020_Summer_Olympics" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Judo_at_the_2020_Summer_Olympics">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/2020_Summer_Olympics" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Modern_pentathlon_at_the_2020_Summer_Olympics">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/2020_Summer_Olympics" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Olympics_2020">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/2020_Summer_Olympics" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Rowing_at_the_2020_Summer_Olympics">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/2020_Summer_Olympics" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Rugby_at_the_2020_Summer_Olympics">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/2020_Summer_Olympics" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Rugby_sevens_at_the_2020_Summer_Olympics">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/2020_Summer_Olympics" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sailing_at_the_2020_Summer_Olympics">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/2020_Summer_Olympics" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Shooting_at_the_2020_Summer_Olympics">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/2020_Summer_Olympics" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Swimming_at_the_2020_Summer_Olympics">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/2020_Summer_Olympics" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Synchronized_swimming_at_the_2020_Summer_Olympics">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/2020_Summer_Olympics" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Table_tennis_at_the_2020_Summer_Olympics">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/2020_Summer_Olympics" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Taekwondo_at_the_2020_Summer_Olympics">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/2020_Summer_Olympics" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tennis_at_the_2020_Summer_Olympics">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/2020_Summer_Olympics" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tokyo_2020">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/2020_Summer_Olympics" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Triathlon_at_the_2020_Summer_Olympics">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/2020_Summer_Olympics" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Venues_of_the_2020_Summer_Olympics">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/2020_Summer_Olympics" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Venues_of_the_2020_Summer_Olympics_and_Paralympics">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/2020_Summer_Olympics" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Volleyball_at_the_2020_Summer_Olympics">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/2020_Summer_Olympics" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Water_polo_at_the_2020_Summer_Olympics">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/2020_Summer_Olympics" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Weightlifting_at_the_2020_Summer_Olympics">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/2020_Summer_Olympics" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Wrestling_at_the_2020_Summer_Olympics">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/2020_Summer_Olympics" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Japan_at_the_2020_Summer_Olympics">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/2020_Summer_Olympics" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Basketball_at_the_2020_Summer_Olympics_-_Men&#39;s_tournament">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/2020_Summer_Olympics" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Basketball_at_the_2020_Summer_Olympics_-_Women&#39;s_tournament">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/2020_Summer_Olympics" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Basketball_at_the_2020_Summer_Olympics_–_Men&#39;s_tournament">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/2020_Summer_Olympics" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Basketball_at_the_2020_Summer_Olympics_–_Women&#39;s_tournament">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/2020_Summer_Olympics" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Busan_Bid_for_the_2020_Summer_Olympics">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/2020_Summer_Olympics" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Olympic_Velodrome_(Tokyo)">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/2020_Summer_Olympics" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Baseball_at_the_2020_Summer_Olympics">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/2020_Summer_Olympics" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gymnastics_at_the_2020_Summer_Olympics_-_Women&#39;s_artistic_qualification">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/2020_Summer_Olympics" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gymnastics_at_the_2020_Summer_Olympics_–_Women&#39;s_artistic_qualification">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/2020_Summer_Olympics" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Karate_at_the_2020_Summer_Olympics">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/2020_Summer_Olympics" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Softball_at_the_2020_Summer_Olympics">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/2020_Summer_Olympics" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sport_climbing_at_the_2020_Summer_Olympics">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/2020_Summer_Olympics" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Dai_Sanjuni-kai_Orinpikku_Kyogi_Taikai">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/2020_Summer_Olympics" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Dai_Sanjūni-kai_Orinpikku_Kyōgi_Taikai">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/2020_Summer_Olympics" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/第三十二回オリンピック競技大会">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/2020_Summer_Olympics" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Field_hockey_at_the_2020_Summer_Olympics_-_Men&#39;s_tournament">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/2020_Summer_Olympics" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Field_hockey_at_the_2020_Summer_Olympics_-_Women&#39;s_tournament">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/2020_Summer_Olympics" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2020_Summer_Olympics_closing_ceremony">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/2020_Summer_Olympics" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2020_Summer_Olympics_torch_relay">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/2020_Summer_Olympics" />
+  </rdf:Description>
+</rdf:RDF>

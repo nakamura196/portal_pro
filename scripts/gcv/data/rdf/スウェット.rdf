@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:prov="http://www.w3.org/ns/prov#"
+	xmlns:dbpedia-owl="http://dbpedia.org/ontology/"
+	xmlns:dcterms="http://purl.org/dc/terms/"
+	xmlns:prop-ja="http://ja.dbpedia.org/property/" >
+  <rdf:Description rdf:about="http://ja.wikipedia.org/wiki/スウェット">
+    <foaf:primaryTopic rdf:resource="http://ja.dbpedia.org/resource/スウェット" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/シャツ">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/スウェット" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/空耳アワー">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/スウェット" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/アメリカンカジュアル">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/スウェット" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/ギャル">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/スウェット" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/セーター">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/スウェット" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/タートルネック">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/スウェット" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/パーカー_(衣類)">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/スウェット" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/スウェット">
+    <rdfs:label xml:lang="ja">スウェット</rdfs:label>
+    <rdfs:comment xml:lang="ja">スウェット（英：sweat）とは吸湿性の高い厚手の布で作られた、伸縮性、吸汗性、防寒性に優れたゆったりした生地。日本ではスウェットを生地ではなく衣類として扱われる傾向が強く、生地を指す場合は「スウェット生地」「スウェット素材」などと呼ばれる場合もある。「スエット」と表記されることもある。</rdfs:comment>
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q17994169" />
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q17994169" />
+    <foaf:isPrimaryTopicOf rdf:resource="http://ja.wikipedia.org/wiki/スウェット" />
+    <prov:wasDerivedFrom rdf:resource="http://ja.wikipedia.org/wiki/スウェット?oldid=52936682" />
+    <dbpedia-owl:abstract xml:lang="ja">スウェット（英：sweat）とは吸湿性の高い厚手の布で作られた、伸縮性、吸汗性、防寒性に優れたゆったりした生地。日本ではスウェットを生地ではなく衣類として扱われる傾向が強く、生地を指す場合は「スウェット生地」「スウェット素材」などと呼ばれる場合もある。「スエット」と表記されることもある。</dbpedia-owl:abstract>
+    <dbpedia-owl:thumbnail rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Hoodie-szmurlo.jpg?width=300" />
+    <dbpedia-owl:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">890815</dbpedia-owl:wikiPageID>
+    <dbpedia-owl:wikiPageInterLanguageLink rdf:resource="http://ca.dbpedia.org/resource/Xandall" />
+    <dbpedia-owl:wikiPageInterLanguageLink rdf:resource="http://sv.dbpedia.org/resource/Träningsoverall" />
+    <dbpedia-owl:wikiPageInterLanguageLink rdf:resource="http://nl.dbpedia.org/resource/Sportkleding" />
+    <dbpedia-owl:wikiPageInterLanguageLink rdf:resource="http://it.dbpedia.org/resource/Tuta" />
+    <dbpedia-owl:wikiPageInterLanguageLink rdf:resource="http://fr.dbpedia.org/resource/Survêtement" />
+    <dbpedia-owl:wikiPageInterLanguageLink rdf:resource="http://pl.dbpedia.org/resource/Dres" />
+    <dbpedia-owl:wikiPageInterLanguageLink rdf:resource="http://de.dbpedia.org/resource/Sportanzug" />
+    <dbpedia-owl:wikiPageInterLanguageLink rdf:resource="http://no.dbpedia.org/resource/Joggedress" />
+    <dbpedia-owl:wikiPageInterLanguageLink rdf:resource="http://fi.dbpedia.org/resource/Verryttelypuku" />
+    <dbpedia-owl:wikiPageInterLanguageLink rdf:resource="http://he.dbpedia.org/resource/אימונית" />
+    <dbpedia-owl:wikiPageInterLanguageLink rdf:resource="http://tr.dbpedia.org/resource/Eşofman" />
+    <dbpedia-owl:wikiPageInterLanguageLink rdf:resource="http://ro.dbpedia.org/resource/Trening" />
+    <dbpedia-owl:wikiPageInterLanguageLink rdf:resource="http://dbpedia.org/resource/Sweatsuit" />
+    <dbpedia-owl:wikiPageInterLanguageLink rdf:resource="http://es.dbpedia.org/resource/Chándal" />
+    <dbpedia-owl:wikiPageLength rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">2427</dbpedia-owl:wikiPageLength>
+    <dbpedia-owl:wikiPageOutDegree rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">26</dbpedia-owl:wikiPageOutDegree>
+    <dbpedia-owl:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">52936682</dbpedia-owl:wikiPageRevisionID>
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/木綿" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/パーカー_(衣類)" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/メリアス" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/PLAYBOY" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/ポリエステル" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/ファイル:Sweatpants.jpg" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/英語" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/スウェット族" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/セットアップ_(ファッション)" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/スウェットシャツ" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/セーター" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/Category:スポーツウェア" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/寝間着" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/UNIQLO" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/ヒップホップ系ファッション" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/布地" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/ファイル:Hoodie-szmurlo.jpg" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/布" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/ズボン" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/頭巾" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/2000年代" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/スウェットスーツ" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/スウェットパンツ" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/スポーツ選手" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/汗" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/ジャージー_(衣類)" />
+    <dcterms:subject rdf:resource="http://ja.dbpedia.org/resource/Category:スポーツウェア" />
+    <prop-ja:wikiPageUsesTemplate rdf:resource="http://ja.dbpedia.org/resource/Template:被服" />
+    <prop-ja:wikiPageUsesTemplate rdf:resource="http://ja.dbpedia.org/resource/Template:Reflist" />
+    <prop-ja:wikiPageUsesTemplate rdf:resource="http://ja.dbpedia.org/resource/Template:Clear" />
+    <foaf:depiction rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Hoodie-szmurlo.jpg" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/トップス_(衣服)">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/スウェット" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/寝巻">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/スウェット" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/スウェット族">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/スウェット" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/チアリーダー">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/スウェット" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/八戸市女子中学生刺殺事件">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/スウェット" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/フェローズ_(ファッションブランド)">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/スウェット" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/ジャック・ウィルス">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/スウェット" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/バクマン。の登場人物">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/スウェット" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/チャンピオン_(スポーツ衣料)">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/スウェット" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/ジョンストン">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/スウェット" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/胴着">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/スウェット" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/北九州監禁殺人事件">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/スウェット" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/関ジャニ∞クロニクル">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/スウェット" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/GANTZ">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/スウェット" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/トレーニングウェア">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/スウェット" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/トレーニングシャツ">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/スウェット" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/水野晴郎">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/スウェット" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/ズボン">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/スウェット" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/ボンボン坂高校演劇部">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/スウェット" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/山田弘喜">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/スウェット" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/ほんとにあった!_呪いのビデオ">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/スウェット" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/スーツ_(アルバム)">
+    <dbpedia-owl:previousWork rdf:resource="http://ja.dbpedia.org/resource/スウェット" />
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/スウェット" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/セクシーJ">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/スウェット" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/data/スウェット.rdf">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document" />
+    <foaf:primaryTopic rdf:resource="http://ja.dbpedia.org/resource/スウェット" />
+  </rdf:Description>
+</rdf:RDF>

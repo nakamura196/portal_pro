@@ -1,0 +1,203 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://nakamura196.github.io/portal_pro/mosaic/output/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "label",
+    "sequences": [
+        {
+            "@id": "sequence_id",
+            "@type": "sc:Sequence",
+            "canvases": [
+                {
+                    "@id": "http://4da32458-cd13-11e9-a4a5-f40f243b5e05",
+                    "@type": "sc:Canvas",
+                    "height": 2880,
+                    "images": [
+                        {
+                            "@id": "http://4da53d5e-cd13-11e9-9f1e-f40f243b5e05",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "http://4da32458-cd13-11e9-a4a5-f40f243b5e05",
+                            "resource": {
+                                "@id": "https://nakamura196.github.io/portal_pro/mosaic/output/images/aka/full/full/0/default.jpg",
+                                "@type": "oa:Choice",
+                                "default": {
+                                    "@id": "https://nakamura196.github.io/portal_pro/mosaic/output/images/aka/full/full/0/default.jpg",
+                                    "@type": "dctypes:Image",
+                                    "format": "image/jpeg",
+                                    "height": 6112,
+                                    "label": "original_label",
+                                    "service": {
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "@id": "https://nakamura196.github.io/portal_pro/mosaic/output/images/aka",
+                                        "profile": "http://iiif.io/api/image/2/level0.json"
+                                    },
+                                    "width": 8640
+                                },
+                                "format": "image/jpeg",
+                                "height": 2040,
+                                "item": [
+                                    {
+                                        "@id": "https://nakamura196.github.io/portal_pro/mosaic/input/images/aka/full/full/0/default.jpg",
+                                        "@type": "dctypes:Image",
+                                        "format": "image/jpeg",
+                                        "height": 2040,
+                                        "label": "item_label",
+                                        "service": {
+                                            "@context": "http://iiif.io/api/image/2/context.json",
+                                            "@id": "https://nakamura196.github.io/portal_pro/mosaic/input/images/aka",
+                                            "profile": "http://iiif.io/api/image/2/level0.json"
+                                        },
+                                        "width": 2880
+                                    }
+                                ],
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://nakamura196.github.io/portal_pro/mosaic/output/images/aka",
+                                    "profile": "http://iiif.io/api/image/2/level0.json"
+                                },
+                                "width": 2880
+                            }
+                        }
+                    ],
+                    "label": "canvas_label",
+                    "thumbnail": {
+                        "@id": "https://nakamura196.github.io/portal_pro/mosaic/output/images/aka/full/135,/0/default.jpg",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://nakamura196.github.io/portal_pro/mosaic/output/images/aka",
+                            "profile": "http://iiif.io/api/image/2/level0.json"
+                        }
+                    },
+                    "width": 2880
+                },
+                {
+                    "@id": "http://4df7ed58-cd13-11e9-bbb9-f40f243b5e05",
+                    "@type": "sc:Canvas",
+                    "height": 2979,
+                    "images": [
+                        {
+                            "@id": "http://4df7eef0-cd13-11e9-accb-f40f243b5e05",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "http://4df7ed58-cd13-11e9-bbb9-f40f243b5e05",
+                            "resource": {
+                                "@id": "https://nakamura196.github.io/portal_pro/mosaic/output/images/matsu/full/full/0/default.jpg",
+                                "@type": "oa:Choice",
+                                "default": {
+                                    "@id": "https://nakamura196.github.io/portal_pro/mosaic/output/images/matsu/full/full/0/default.jpg",
+                                    "@type": "dctypes:Image",
+                                    "format": "image/jpeg",
+                                    "height": 6208,
+                                    "label": "original_label",
+                                    "service": {
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "@id": "https://nakamura196.github.io/portal_pro/mosaic/output/images/matsu",
+                                        "profile": "http://iiif.io/api/image/2/level0.json"
+                                    },
+                                    "width": 11904
+                                },
+                                "format": "image/jpeg",
+                                "height": 1559,
+                                "item": [
+                                    {
+                                        "@id": "https://nakamura196.github.io/portal_pro/mosaic/input/images/matsu/full/full/0/default.jpg",
+                                        "@type": "dctypes:Image",
+                                        "format": "image/jpeg",
+                                        "height": 1559,
+                                        "label": "item_label",
+                                        "service": {
+                                            "@context": "http://iiif.io/api/image/2/context.json",
+                                            "@id": "https://nakamura196.github.io/portal_pro/mosaic/input/images/matsu",
+                                            "profile": "http://iiif.io/api/image/2/level0.json"
+                                        },
+                                        "width": 2979
+                                    }
+                                ],
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://nakamura196.github.io/portal_pro/mosaic/output/images/matsu",
+                                    "profile": "http://iiif.io/api/image/2/level0.json"
+                                },
+                                "width": 2979
+                            }
+                        }
+                    ],
+                    "label": "canvas_label",
+                    "thumbnail": {
+                        "@id": "https://nakamura196.github.io/portal_pro/mosaic/output/images/matsu/full/186,/0/default.jpg",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://nakamura196.github.io/portal_pro/mosaic/output/images/matsu",
+                            "profile": "http://iiif.io/api/image/2/level0.json"
+                        }
+                    },
+                    "width": 2979
+                },
+                {
+                    "@id": "http://4e45fd5c-cd13-11e9-8be0-f40f243b5e05",
+                    "@type": "sc:Canvas",
+                    "height": 5835,
+                    "images": [
+                        {
+                            "@id": "http://4e45fe9c-cd13-11e9-9a66-f40f243b5e05",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "http://4e45fd5c-cd13-11e9-8be0-f40f243b5e05",
+                            "resource": {
+                                "@id": "https://nakamura196.github.io/portal_pro/mosaic/output/images/matsu2/full/full/0/default.jpg",
+                                "@type": "oa:Choice",
+                                "default": {
+                                    "@id": "https://nakamura196.github.io/portal_pro/mosaic/output/images/matsu2/full/full/0/default.jpg",
+                                    "@type": "dctypes:Image",
+                                    "format": "image/jpeg",
+                                    "height": 9312,
+                                    "label": "original_label",
+                                    "service": {
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "@id": "https://nakamura196.github.io/portal_pro/mosaic/output/images/matsu2",
+                                        "profile": "http://iiif.io/api/image/2/level0.json"
+                                    },
+                                    "width": 11648
+                                },
+                                "format": "image/jpeg",
+                                "height": 4670,
+                                "item": [
+                                    {
+                                        "@id": "https://nakamura196.github.io/portal_pro/mosaic/input/images/matsu2/full/full/0/default.jpg",
+                                        "@type": "dctypes:Image",
+                                        "format": "image/jpeg",
+                                        "height": 4670,
+                                        "label": "item_label",
+                                        "service": {
+                                            "@context": "http://iiif.io/api/image/2/context.json",
+                                            "@id": "https://nakamura196.github.io/portal_pro/mosaic/input/images/matsu2",
+                                            "profile": "http://iiif.io/api/image/2/level0.json"
+                                        },
+                                        "width": 5835
+                                    }
+                                ],
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://nakamura196.github.io/portal_pro/mosaic/output/images/matsu2",
+                                    "profile": "http://iiif.io/api/image/2/level0.json"
+                                },
+                                "width": 5835
+                            }
+                        }
+                    ],
+                    "label": "canvas_label",
+                    "thumbnail": {
+                        "@id": "https://nakamura196.github.io/portal_pro/mosaic/output/images/matsu2/full/182,/0/default.jpg",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://nakamura196.github.io/portal_pro/mosaic/output/images/matsu2",
+                            "profile": "http://iiif.io/api/image/2/level0.json"
+                        }
+                    },
+                    "width": 5835
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:dct="http://purl.org/dc/terms/"
+	xmlns:dbo="http://dbpedia.org/ontology/"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:prov="http://www.w3.org/ns/prov#"
+	xmlns:ns7="http://purl.org/linguistics/gold/" >
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Planimeter">
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Agent" />
+    <rdfs:label xml:lang="fr">Planimètre</rdfs:label>
+    <rdfs:label xml:lang="nl">Planimeter</rdfs:label>
+    <rdfs:label xml:lang="ru">Планиметр</rdfs:label>
+    <rdfs:label xml:lang="en">Planimeter</rdfs:label>
+    <rdfs:label xml:lang="pl">Planimetr</rdfs:label>
+    <rdfs:label xml:lang="de">Planimeter</rdfs:label>
+    <rdfs:label xml:lang="it">Planimetro</rdfs:label>
+    <rdfs:label xml:lang="pt">Planímetro</rdfs:label>
+    <rdfs:label xml:lang="ja">プラニメータ</rdfs:label>
+    <rdfs:label xml:lang="es">Planímetro</rdfs:label>
+    <rdfs:label xml:lang="zh">求積儀</rdfs:label>
+    <rdfs:comment xml:lang="es">El planímetro es un aparato de medición utilizado para el cálculo de áreas irregulares. Este modelo se obtiene con base en la teoría de integrales de línea o de recorrido.</rdfs:comment>
+    <rdfs:comment xml:lang="pl">Planimetr – przyrząd mechaniczny lub elektroniczny do wyznaczania pola powierzchni figur płaskich.</rdfs:comment>
+    <rdfs:comment xml:lang="nl">Een planimeter is een meetinstrument waarmee de oppervlakte van een gebied op bijvoorbeeld een kaart kan worden bepaald door met een stift de omtrek van het gebied af te tasten. De werking berust op de stelling van Green die een verband legt tussen een oppervlakte-integraal en de kringintegraal over de contour van het oppervlak. Een planimeter is in feite een integrator die de kringintegraal bepaalt en daarmee ook de oppervlakte.</rdfs:comment>
+    <rdfs:comment xml:lang="ja">プラニメータ (Planimeter) は、地図など平面上の図形の輪郭をなぞることにより、その面積を計測する装置。面積計ともいう。 多角形の面積を計算するには図形の隣り合う2つの頂点とある特定の点を結んでできる三角形の面積を加算(積分)することで得ることができる。プラニメータはこの原理を利用している。 以前は写真のような機械式のものが多かったが、現在は二つの車輪の回転量から面積を測定するディジタル型のものが主流になっている（外部リンクを参照）。 土木測量などの分野でよく使用される。</rdfs:comment>
+    <rdfs:comment xml:lang="ru">Плани́метр (механический интегратор) — прибор, служащий для простого механического определения площадей (интегрирования) замкнутых контуров, прорисованных на плоской поверхности. В массовом порядке применялась лишь одна из возможных технических реализаций данного прибора — планиметр Амслера-Коради. Частный случай аналогового вычислительного устройства.</rdfs:comment>
+    <rdfs:comment xml:lang="zh">求積儀，是量度面積的儀器，為量度不規則的平面面積而設。 求積儀運用格林公式： 应用于： 或写为： 可得： 等式的右面与路径所包围的面积成正比。等式的左面等于： 积分表达式具有內積的形式，也就是说，它是从(dx, dy)到(-y, x)的投影的积分。向量(-y, x)与(x, y)是正交的，因为 。</rdfs:comment>
+    <rdfs:comment xml:lang="de">Ein Planimeter (wegen seiner Form in Fachkreisen auch „Mogelkutsche“ genannt) ist ein mathematisches Instrument und Analogrechner, also ein mechanisches Messgerät, zur Ermittlung beliebiger Flächeninhalte in Landkarten oder Zeichnungen. Man fährt den Rand der zu messenden Fläche mit einem Fahrstift oder einer Lupe mit Fadenkreuz o. ä. entlang, wobei ein Messrad die Fläche integriert. Der Rand ist eine geschlossene Kurve, Anfangs- und Endpunkt der Messfahrt ist derselbe. Das Vorzeichen der Messung wird dadurch bestimmt, ob der Rand im Uhrzeiger- oder Gegenuhrzeigersinn abgefahren wird.</rdfs:comment>
+    <rdfs:comment xml:lang="pt">O planímetro é um instrumento para desenho técnico usado para medir a área de uma superfície plana arbitrária. Os primeiros planímetros eram mecânicos e um dos modelos mais conhecidos é o planímetro polar que é constituído por duas hastes horizontais articuladas. A extremidade livre de uma das hastes é mantida fixa sobre a mesa, enquanto a extremidade livre da segunda haste é deslocada sobre o perímetro da área a ser medida. Na articulação entre as duas hastes existe uma pequena roda em contato com a mesa que gira enquanto o perímetro da superfície vai sendo percorrido. Um contador marca o número de voltas da roda. A área da superfície é proporcional ao número de voltas registradas pelo contador.</rdfs:comment>
+    <rdfs:comment xml:lang="it">Il planimetro è lo strumento che consente la misurazione dell&#39;area di una figura piana disegnata in scala. Era molto usato in tutte le applicazioni tecnico-scientifiche che richiedono la misurazione di un&#39;area irregolare, dalla biomedicina all&#39;ingegneria, alla topografia fino alla misurazione delle pellicce. In matematica, poiché la misurazione di un&#39;area è equivalente al calcolo di un integrale, veniva utilizzato per il calcolo numerico delle soluzioni di equazioni differenziali.La sua forma più diffusa, il planimetro polare, può essere considerata un&#39;applicazione delle formule di Green, che permettono di calcolare una funzione legata alla superficie (in questo caso l&#39;area) valutando, lungo il contorno della superficie stessa, l&#39;integrale curvilineo di una funzione collegata.</rdfs:comment>
+    <rdfs:comment xml:lang="fr">Le planimètre est un outil qui permet la mesure mécanique directe des surfaces sur les plans, carte géographiques, etc., en suivant le contour par l&#39;extrémité d&#39;un bras articulé.</rdfs:comment>
+    <rdfs:comment xml:lang="en">A planimeter, also known as a platometer, is a measuring instrument used to determine the area of an arbitrary two-dimensional shape.</rdfs:comment>
+    <owl:sameAs rdf:resource="http://cs.dbpedia.org/resource/Planimetr" />
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q626974" />
+    <owl:sameAs rdf:resource="http://ja.dbpedia.org/resource/プラニメータ" />
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q626974" />
+    <owl:sameAs rdf:resource="http://ko.dbpedia.org/resource/면적기" />
+    <owl:sameAs rdf:resource="http://es.dbpedia.org/resource/Planímetro" />
+    <owl:sameAs rdf:resource="http://pt.dbpedia.org/resource/Planímetro" />
+    <owl:sameAs rdf:resource="http://pl.dbpedia.org/resource/Planimetr" />
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.04670x" />
+    <owl:sameAs rdf:resource="http://nl.dbpedia.org/resource/Planimeter" />
+    <owl:sameAs rdf:resource="http://fr.dbpedia.org/resource/Planimètre" />
+    <owl:sameAs rdf:resource="http://it.dbpedia.org/resource/Planimetro" />
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Planimeter" />
+    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/Planimeter" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Measuring_instruments" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Technical_drawing" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Dimensional_instruments" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Mathematical_tools" />
+    <dbo:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1103376</dbo:wikiPageID>
+    <dbo:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">729488620</dbo:wikiPageRevisionID>
+    <dbo:wikiPageExternalLink rdf:resource="https://books.google.com/books?id=iIN_2WjBH1cC&amp;printsec=frontcover#PPA138,M1" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.amherst.edu/~tleise/HomePage/planimeter.html" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.didaktik.mathematik.uni-wuerzburg.de/history/ausstell/planimet/" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.math.duke.edu/education/ccp/materials/mvcalc/green/" />
+    <dbo:wikiPageExternalLink rdf:resource="https://secure.flickr.com/photos/usnationalarchives/6789717264/" />
+    <dbo:wikiPageExternalLink rdf:resource="http://whistleralley.com/planimeter/planimeter.htm" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www3.amherst.edu/~tleise/HomePage/LeisePlanimeter.pdf" />
+    <dbo:wikiPageExternalLink rdf:resource="http://empublic.dcs.warwick.ac.uk/projects/planimeterCare2005/" />
+    <dbo:wikiPageExternalLink rdf:resource="http://persweb.wabash.edu/facstaff/footer/Planimeter/PLANIMETER.HTM" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.leinweb.com/snackbar/planimtr/" />
+    <dbo:wikiPageExternalLink rdf:resource="https://books.google.com/books?id=yUJDAAAAIAAJ&amp;pg=PA1#PPA1,M1" />
+    <dbo:wikiPageExternalLink rdf:resource="http://durealeyes.com/planimeter.html" />
+    <dbo:wikiPageExternalLink rdf:resource="https://archive.org/details/moderninstrument00horsuoft" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.ias.ac.in/j_archive/sadhana/8/4/351-359/viewpage.html" />
+    <foaf:depiction rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Planimeter.png" />
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Planimeter" />
+    <dbo:thumbnail rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Planimeter.png?width=300" />
+    <prov:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Planimeter?oldid=729488620" />
+    <dbo:abstract xml:lang="pt">O planímetro é um instrumento para desenho técnico usado para medir a área de uma superfície plana arbitrária. Os primeiros planímetros eram mecânicos e um dos modelos mais conhecidos é o planímetro polar que é constituído por duas hastes horizontais articuladas. A extremidade livre de uma das hastes é mantida fixa sobre a mesa, enquanto a extremidade livre da segunda haste é deslocada sobre o perímetro da área a ser medida. Na articulação entre as duas hastes existe uma pequena roda em contato com a mesa que gira enquanto o perímetro da superfície vai sendo percorrido. Um contador marca o número de voltas da roda. A área da superfície é proporcional ao número de voltas registradas pelo contador. Além do planímetro polar, existem outros tipos de planímetros com diferentes construções mecânicas como o planímetro linear e o planímetro de Prytz, mas todos eles utilizam o mesmo princípio para medida de áreas. Atualmente, versões eletrônicas dos planímetros também existem, mas o princípio de funcionamento dos diferentes tipos é o mesmo.</dbo:abstract>
+    <dbo:abstract xml:lang="ru">Плани́метр (механический интегратор) — прибор, служащий для простого механического определения площадей (интегрирования) замкнутых контуров, прорисованных на плоской поверхности. В массовом порядке применялась лишь одна из возможных технических реализаций данного прибора — планиметр Амслера-Коради. Частный случай аналогового вычислительного устройства.</dbo:abstract>
+    <dbo:abstract xml:lang="zh">求積儀，是量度面積的儀器，為量度不規則的平面面積而設。 求積儀運用格林公式： 应用于： 或写为： 可得： 等式的右面与路径所包围的面积成正比。等式的左面等于： 积分表达式具有內積的形式，也就是说，它是从(dx, dy)到(-y, x)的投影的积分。向量(-y, x)与(x, y)是正交的，因为 。</dbo:abstract>
+    <dbo:abstract xml:lang="it">Il planimetro è lo strumento che consente la misurazione dell&#39;area di una figura piana disegnata in scala. Era molto usato in tutte le applicazioni tecnico-scientifiche che richiedono la misurazione di un&#39;area irregolare, dalla biomedicina all&#39;ingegneria, alla topografia fino alla misurazione delle pellicce. In matematica, poiché la misurazione di un&#39;area è equivalente al calcolo di un integrale, veniva utilizzato per il calcolo numerico delle soluzioni di equazioni differenziali.La sua forma più diffusa, il planimetro polare, può essere considerata un&#39;applicazione delle formule di Green, che permettono di calcolare una funzione legata alla superficie (in questo caso l&#39;area) valutando, lungo il contorno della superficie stessa, l&#39;integrale curvilineo di una funzione collegata. Vengono tuttora prodotti dei planimetri in cui il meccanismo di misurazione può essere sia tradizionale (meccanico) che elettronico-digitale. Però, negli ultimi anni, il loro uso sta declinando e viene sempre più sostituito da tecniche di grafica computazionale applicata ad immagini digitalizzate. I planimetri possono essere classificati in due grandi famiglie: 
+*  geometrici, ossia basati sulla scomposizione dell&#39;area da misurare in una somma di figure semplici (es planimetri a filo, reticole, squadrette di Beauvais) o sulla costruzione di una figure semplice equivalente a quella da misurare (es. planimetro a scure): 
+*  integratori, ossia strumenti che eseguono meccanicamente una integrazione lungo il contorno dell&#39;area da misurare, che viene valutata tramite l&#39;applicazione della formula di Gauss-Green (planimetri ortogonali e polari).</dbo:abstract>
+    <dbo:abstract xml:lang="de">Ein Planimeter (wegen seiner Form in Fachkreisen auch „Mogelkutsche“ genannt) ist ein mathematisches Instrument und Analogrechner, also ein mechanisches Messgerät, zur Ermittlung beliebiger Flächeninhalte in Landkarten oder Zeichnungen. Man fährt den Rand der zu messenden Fläche mit einem Fahrstift oder einer Lupe mit Fadenkreuz o. ä. entlang, wobei ein Messrad die Fläche integriert. Der Rand ist eine geschlossene Kurve, Anfangs- und Endpunkt der Messfahrt ist derselbe. Das Vorzeichen der Messung wird dadurch bestimmt, ob der Rand im Uhrzeiger- oder Gegenuhrzeigersinn abgefahren wird. Die zu messenden Flächen können fast beliebige Form haben (unregelmäßige Polygone, andere unregelmäßige Flächen, Höhenlinien oder Grundstücke), müssen aber stetige und stückweise glatte Ränder haben. Die ganze Fläche muss in der Reichweite des Fahrarmes liegen, d. h. einen Durchmesser haben, der kleiner ist als das Doppelte der Fahrarmlänge (meist 20–30 cm). Die Genauigkeit liegt bei typischerweise ca. 1 ‰, bei speziellen Geräten auch höher.</dbo:abstract>
+    <dbo:abstract xml:lang="en">A planimeter, also known as a platometer, is a measuring instrument used to determine the area of an arbitrary two-dimensional shape.</dbo:abstract>
+    <dbo:abstract xml:lang="ja">プラニメータ (Planimeter) は、地図など平面上の図形の輪郭をなぞることにより、その面積を計測する装置。面積計ともいう。 多角形の面積を計算するには図形の隣り合う2つの頂点とある特定の点を結んでできる三角形の面積を加算(積分)することで得ることができる。プラニメータはこの原理を利用している。 以前は写真のような機械式のものが多かったが、現在は二つの車輪の回転量から面積を測定するディジタル型のものが主流になっている（外部リンクを参照）。 土木測量などの分野でよく使用される。</dbo:abstract>
+    <dbo:abstract xml:lang="pl">Planimetr – przyrząd mechaniczny lub elektroniczny do wyznaczania pola powierzchni figur płaskich.</dbo:abstract>
+    <dbo:abstract xml:lang="fr">Le planimètre est un outil qui permet la mesure mécanique directe des surfaces sur les plans, carte géographiques, etc., en suivant le contour par l&#39;extrémité d&#39;un bras articulé.</dbo:abstract>
+    <dbo:abstract xml:lang="nl">Een planimeter is een meetinstrument waarmee de oppervlakte van een gebied op bijvoorbeeld een kaart kan worden bepaald door met een stift de omtrek van het gebied af te tasten. De werking berust op de stelling van Green die een verband legt tussen een oppervlakte-integraal en de kringintegraal over de contour van het oppervlak. Een planimeter is in feite een integrator die de kringintegraal bepaalt en daarmee ook de oppervlakte. Een planimeter is er in verschillende uitvoeringen. In alle gevallen is er een meetarm waarvan één uiteinde is voorzien van een meetstift of van kruisdraden waarmee de omtrek van het te meten oppervlak wordt afgetast. Het andere uiteinde, de &quot;elleboog&quot;, is scharnierend en kan bij de lineaire uitvoering bewegen langs een vaste lijn. Bij de polaire uitvoering is de elleboog verbonden met een andere arm, de draaiarm, waarvan het andere uiteinde een vast draaipunt, de pool, vormt. Aan de meetarm is een meetwieltje bevestigd waarvan de as evenwijdig is aan de arm, zodat het wieltje alleen kan draaien in de richting loodrecht op de arm. Het wieltje meet de totale verplaatsing van de arm in de richting loodrecht op de arm. Als het in de richting van de arm wordt verplaatst, staat het stil. De totale verplaatsing is een maat voor de oppervlakte.</dbo:abstract>
+    <dbo:abstract xml:lang="es">El planímetro es un aparato de medición utilizado para el cálculo de áreas irregulares. Este modelo se obtiene con base en la teoría de integrales de línea o de recorrido.</dbo:abstract>
+    <ns7:hypernym rdf:resource="http://dbpedia.org/resource/Instrument" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Platometer">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Planimeter" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Planimeter">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Planimeter" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Planameter">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Planimeter" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Planametre">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Planimeter" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Planemeter">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Planimeter" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Planemetre">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Planimeter" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Planimetre">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Planimeter" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Planometer">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Planimeter" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Planometre">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Planimeter" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Planumeter">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Planimeter" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Planumetre">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Planimeter" />
+  </rdf:Description>
+</rdf:RDF>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:dct="http://purl.org/dc/terms/"
+	xmlns:dbo="http://dbpedia.org/ontology/"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	xmlns:prov="http://www.w3.org/ns/prov#"
+	xmlns:georss="http://www.georss.org/georss/"
+	xmlns:dbp="http://dbpedia.org/property/"
+	xmlns:ns10="http://purl.org/linguistics/gold/" >
+  <rdf:Description rdf:about="http://dbpedia.org/resource/First_Tokyo_Middle_School">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Hibiya_High_School" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tokyo_First_Middle_School">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Hibiya_High_School" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hibiya_High_School">
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoLegalActor" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/SeniorHighSchool108409617" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoLegalActorGeo" />
+    <rdf:type rdf:resource="http://umbel.org/umbel/rc/EducationalOrganization" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoPermanentlyLocatedEntity" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q43229" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatHighSchoolsInTokyo" />
+    <rdf:type rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#SocialPerson" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/SecondarySchool108284481" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Abstraction100002137" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Organisation" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/School108276720" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q3914" />
+    <rdf:type rdf:resource="http://schema.org/Organization" />
+    <rdf:type rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q24229398" />
+    <rdf:type rdf:resource="http://schema.org/School" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/EducationalInstitution" />
+    <rdf:type rdf:resource="http://schema.org/EducationalOrganization" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatEducationalInstitutionsEstablishedIn1878" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/EducationalInstitution108276342" />
+    <rdf:type rdf:resource="http://umbel.org/umbel/rc/School_AcademicOrganization" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Institution108053576" />
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Agent" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/SocialGroup107950920" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/School" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Group100031264" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Organization108008335" />
+    <rdf:type rdf:resource="http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing" />
+    <rdfs:label xml:lang="en">Hibiya High School</rdfs:label>
+    <rdfs:label xml:lang="ja">東京都立日比谷高等学校</rdfs:label>
+    <rdfs:comment xml:lang="en">Tokyo Metropolitan Hibiya High School (東京都立日比谷高等学校 Tōkyō Toritsu Hibiya Kōtōgakkō) is a Japanese high school founded in 1878 as the Tokyo First Middle School or Tokyo First Junior High School (東京府立第一中学校 Tōkyō Furitsu Daiichi Chūgakkō). It was well known in the 1950s and 1960s for the large proportion of graduates who gained admission to the prestigious University of Tokyo; though it suffered a decline in the 1970s, as of 2005 it was once again being referred to as the &quot;best public high school in Japan&quot;.</rdfs:comment>
+    <rdfs:comment xml:lang="ja">東京都立日比谷高等学校（とうきょうとりつひびやこうとうがっこう）は、東京都千代田区永田町二丁目にある全日制普通科の都立高等学校。</rdfs:comment>
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q5750869" />
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q5750869" />
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.026dnrh" />
+    <owl:sameAs rdf:resource="http://ja.dbpedia.org/resource/東京都立日比谷高等学校" />
+    <owl:sameAs rdf:resource="http://yago-knowledge.org/resource/Hibiya_High_School" />
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Hibiya_High_School" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:1878_establishments_in_Japan" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Educational_institutions_established_in_1878" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:High_schools_in_Tokyo" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Tokyo_Metropolitan_Government_Board_of_Education_schools" />
+    <dbo:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">7805584</dbo:wikiPageID>
+    <dbo:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">678053969</dbo:wikiPageRevisionID>
+    <dbo:wikiPageExternalLink rdf:resource="http://www.hibiya-h.metro.tokyo.jp/" />
+    <foaf:name xml:lang="en">Hibiya High School</foaf:name>
+    <foaf:homepage rdf:resource="http://www.hibiya-h.metro.tokyo.jp/" />
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#float">35.7153</geo:lat>
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#float">139.752</geo:long>
+    <foaf:depiction rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Hibiya_High_School.jpg" />
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Hibiya_High_School" />
+    <geo:geometry rdf:datatype="http://www.openlinksw.com/schemas/virtrdf#Geometry">POINT(139.75227355957 35.71529006958)</geo:geometry>
+    <dbo:thumbnail rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Hibiya_High_School.jpg?width=300" />
+    <prov:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Hibiya_High_School?oldid=678053969" />
+    <dbo:abstract xml:lang="en">Tokyo Metropolitan Hibiya High School (東京都立日比谷高等学校 Tōkyō Toritsu Hibiya Kōtōgakkō) is a Japanese high school founded in 1878 as the Tokyo First Middle School or Tokyo First Junior High School (東京府立第一中学校 Tōkyō Furitsu Daiichi Chūgakkō). It was well known in the 1950s and 1960s for the large proportion of graduates who gained admission to the prestigious University of Tokyo; though it suffered a decline in the 1970s, as of 2005 it was once again being referred to as the &quot;best public high school in Japan&quot;.</dbo:abstract>
+    <dbo:abstract xml:lang="ja">東京都立日比谷高等学校（とうきょうとりつひびやこうとうがっこう）は、東京都千代田区永田町二丁目にある全日制普通科の都立高等学校。</dbo:abstract>
+    <dbo:country rdf:resource="http://dbpedia.org/resource/Japan" />
+    <dbo:foundingYear rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1878</dbo:foundingYear>
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Chiyoda,_Tokyo" />
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Tokyo" />
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Nagatachō,_Tokyo" />
+    <georss:point>35.71529 139.75227</georss:point>
+    <dbp:imagesize rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">200</dbp:imagesize>
+    <dbp:type rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Public</dbp:type>
+    <dbp:wordnet_type rdf:resource="http://www.w3.org/2006/03/wn/wn20/instances/synset-school-noun-1" />
+    <ns10:hypernym rdf:resource="http://dbpedia.org/resource/School" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/日比谷高校">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Hibiya_High_School" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/東京都立日比谷高等学校">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Hibiya_High_School" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Hibiya_High_School">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Hibiya_High_School" />
+  </rdf:Description>
+</rdf:RDF>

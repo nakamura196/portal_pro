@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:dct="http://purl.org/dc/terms/"
+	xmlns:dbo="http://dbpedia.org/ontology/"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:prov="http://www.w3.org/ns/prov#"
+	xmlns:dbp="http://dbpedia.org/property/"
+	xmlns:ns8="http://purl.org/linguistics/gold/" >
+  <rdf:Description rdf:about="http://dbpedia.org/resource/War_Bond">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/War_bond" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bond">
+    <dbo:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/War_bond" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/War_bond">
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WrittenCommunication106349220" />
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Abstraction100002137" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Document113403331" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Bond113417410" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/DebtInstrument113398241" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatGovernmentBonds" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Security113416345" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/GovernmentBond113338234" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Writing106362953" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Document106470073" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Communication100033020" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/LegalDocument106479665" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Company" />
+    <rdfs:label xml:lang="ru">Военные облигации</rdfs:label>
+    <rdfs:label xml:lang="es">Bono de guerra</rdfs:label>
+    <rdfs:label xml:lang="de">Kriegsanleihe</rdfs:label>
+    <rdfs:label xml:lang="fr">Obligation de guerre</rdfs:label>
+    <rdfs:label xml:lang="en">War bond</rdfs:label>
+    <rdfs:comment xml:lang="de">Eine Kriegsanleihe (oder Kriegskredit) ist ein verzinsliches oder unverzinsliches Wertpapier, das der Finanzierung eines Krieges dient. Emittent ist in der Regel eine Regierung. Das Ankaufen der Anleihe kommt der Gewährung eines Kredits an die Regierung gleich.</rdfs:comment>
+    <rdfs:comment xml:lang="fr">Les obligations de guerre sont des titres de créance émis par un gouvernement dans le but de financer des opérations militaires en temps de guerre. Les obligations de guerre constituent un capital pour le gouvernement et font que les civils se sentent impliqués dans leurs forces armées nationales. Les appels pour acheter des obligations de guerre sont souvent accompagnés d&#39;appels au patriotisme et à la conscience des citoyens. Émises par un gouvernement, les obligations de guerre ont tendance à avoir un rendement qui est en dessous de la valeur du marché et sont souvent mis à disposition dans un large éventail de dénominations pour les rendre accessibles à tous les citoyens. Elles furent principalement utilisés lors des deux guerres mondiales.</rdfs:comment>
+    <rdfs:comment xml:lang="ru">Военные облигации — это долговые ценные бумаги, выпущенные правительством в целях финансирования военных операций во время войны. Такие облигации способствуют накоплению средств для ведения войны и одновременно заставляют граждан страны осознать свою причастность к военным действиям. Также эта система используется как средство борьбы с инфляцией, так как деньги изымаются из обращения до конца войны. Призывы купить военные облигации часто обращаются к совести и патриотизму граждан. Правительство выпускает облигации, цена которых, как правило, ниже рыночной, и которые ранжируются в широкой ценовой разновидности, что делает их доступными для всех граждан.</rdfs:comment>
+    <rdfs:comment xml:lang="es">Los bonos de guerra son un instrumento financiero que emplean los Estados para financiar las operaciones militares durante un periodo de guerra. Al igual que cualquier bono devenga intereses y el Estado amortiza la deuda (es decir, el Estado adquiere una deuda con un particular o una institución y tiene que devolverle al acreedor el dinero prestado y pagarle los intereses correspondientes). Estos bonos también son objeto de clasificación por organizaciones independientes que evalúan la seguridad del bono.</rdfs:comment>
+    <rdfs:comment xml:lang="en">War bonds are debt securities issued by a government to finance military operations and other expenditure in times of war.In practice, modern governments finance war by putting additional money into circulation, and the function of the bonds is to remove money from circulation and help to control inflation. War bonds are either retail bonds marketed direct to the public or wholesale bonds traded on a stock market. Exhortations to buy war bonds are often accompanied by appeals to patriotism and conscience. Retail war bonds, like other retail bonds, tend to have a yield which is below that offered by the market and are often made available in a wide range of denominations to make them affordable for all citizens.</rdfs:comment>
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Series_E_bond" />
+    <owl:sameAs rdf:resource="http://fr.dbpedia.org/resource/Obligation_de_guerre" />
+    <owl:sameAs rdf:resource="http://es.dbpedia.org/resource/Bono_de_guerra" />
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/War_bond" />
+    <owl:sameAs rdf:resource="http://id.dbpedia.org/resource/Obligasi_perang" />
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.023xvx" />
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q617663" />
+    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/Kriegsanleihe" />
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q617663" />
+    <owl:sameAs rdf:resource="http://yago-knowledge.org/resource/War_bond" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Military_terminology" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Articles_containing_video_clips" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Military_economics" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Government_bonds" />
+    <dbo:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">401486</dbo:wikiPageID>
+    <dbo:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">743223149</dbo:wikiPageRevisionID>
+    <dbo:wikiPageExternalLink rdf:resource="http://www.europeanfilmgateway.eu/node/33/efg1914%20war%20bonds%20OR%20efg1914%20savings/multilingual:1/showOnly:video" />
+    <dbo:wikiPageExternalLink rdf:resource="http://statenisland.pastperfect-online.com/00039cgi/mweb.exe?request=record;id=906AD7F8-B893-4603-8A4F-318221055346;type=101" />
+    <dbo:wikiPageExternalLink rdf:resource="http://histclo.com/essay/war/ww2/ww2-eco.html" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.comics.org/issue/3093/" />
+    <dbo:wikiPageExternalLink rdf:resource="http://library.duke.edu/digitalcollections/adaccess/warbonds.html" />
+    <dbo:wikiPageExternalLink rdf:resource="http://docsouth.unc.edu/global/result.html?lcsh=World%20War,%201914-1918%20--%20Finance." />
+    <dbo:wikiPageExternalLink rdf:resource="http://web.nli.org.il/sites/NLI/English/collections/personalsites/Israel-Germany/World-War-1/Pages/War-bond.aspx" />
+    <foaf:depiction rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Put_it_into_National_War_Bonds.jpg" />
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/War_bond" />
+    <dbo:thumbnail rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Put_it_into_National_War_Bonds.jpg?width=300" />
+    <prov:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/War_bond?oldid=743223149" />
+    <dbo:abstract xml:lang="fr">Les obligations de guerre sont des titres de créance émis par un gouvernement dans le but de financer des opérations militaires en temps de guerre. Les obligations de guerre constituent un capital pour le gouvernement et font que les civils se sentent impliqués dans leurs forces armées nationales. Les appels pour acheter des obligations de guerre sont souvent accompagnés d&#39;appels au patriotisme et à la conscience des citoyens. Émises par un gouvernement, les obligations de guerre ont tendance à avoir un rendement qui est en dessous de la valeur du marché et sont souvent mis à disposition dans un large éventail de dénominations pour les rendre accessibles à tous les citoyens. Elles furent principalement utilisés lors des deux guerres mondiales.</dbo:abstract>
+    <dbo:abstract xml:lang="en">War bonds are debt securities issued by a government to finance military operations and other expenditure in times of war.In practice, modern governments finance war by putting additional money into circulation, and the function of the bonds is to remove money from circulation and help to control inflation. War bonds are either retail bonds marketed direct to the public or wholesale bonds traded on a stock market. Exhortations to buy war bonds are often accompanied by appeals to patriotism and conscience. Retail war bonds, like other retail bonds, tend to have a yield which is below that offered by the market and are often made available in a wide range of denominations to make them affordable for all citizens.</dbo:abstract>
+    <dbo:abstract xml:lang="de">Eine Kriegsanleihe (oder Kriegskredit) ist ein verzinsliches oder unverzinsliches Wertpapier, das der Finanzierung eines Krieges dient. Emittent ist in der Regel eine Regierung. Das Ankaufen der Anleihe kommt der Gewährung eines Kredits an die Regierung gleich.</dbo:abstract>
+    <dbo:abstract xml:lang="ru">Военные облигации — это долговые ценные бумаги, выпущенные правительством в целях финансирования военных операций во время войны. Такие облигации способствуют накоплению средств для ведения войны и одновременно заставляют граждан страны осознать свою причастность к военным действиям. Также эта система используется как средство борьбы с инфляцией, так как деньги изымаются из обращения до конца войны. Призывы купить военные облигации часто обращаются к совести и патриотизму граждан. Правительство выпускает облигации, цена которых, как правило, ниже рыночной, и которые ранжируются в широкой ценовой разновидности, что делает их доступными для всех граждан.</dbo:abstract>
+    <dbo:abstract xml:lang="es">Los bonos de guerra son un instrumento financiero que emplean los Estados para financiar las operaciones militares durante un periodo de guerra. Al igual que cualquier bono devenga intereses y el Estado amortiza la deuda (es decir, el Estado adquiere una deuda con un particular o una institución y tiene que devolverle al acreedor el dinero prestado y pagarle los intereses correspondientes). Estos bonos también son objeto de clasificación por organizaciones independientes que evalúan la seguridad del bono. Pueden estar garantizados o no, y tener una duración de corto, mediano o largo plazo. Por supuesto, que aún cuando los bonos sean garantizados, si el gobierno emisor queda en mal estado después de la guerra, se corre el riesgo de perder el dinero invertido.</dbo:abstract>
+    <dbp:alt rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">a 1915 Austrian war bond</dbp:alt>
+    <dbp:caption rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">An Austrian war bond</dbp:caption>
+    <dbp:caption rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Austrian poster promoting war bonds</dbp:caption>
+    <dbp:image rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Und Ihr Zeichnet 7 Kriegsanleihe Crisco restoration and colours.jpg</dbp:image>
+    <dbp:image rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Austrian War Bond, item 1.jpg</dbp:image>
+    <dbp:width rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">150</dbp:width>
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Securities" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/War_Bonds">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/War_bond" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Defense_bond">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/War_bond" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/War_bonds">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/War_bond" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Victory_Bond">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/War_bond" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Victory_bonds">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/War_bond" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Defense_bonds">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/War_bond" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Victory_bond">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/War_bond" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/War_bond">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/War_bond" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/War_Loan">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/War_bond" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/War_loan">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/War_bond" />
+  </rdf:Description>
+</rdf:RDF>

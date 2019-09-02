@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:dct="http://purl.org/dc/terms/"
+	xmlns:dbo="http://dbpedia.org/ontology/"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:prov="http://www.w3.org/ns/prov#"
+	xmlns:ns7="http://purl.org/linguistics/gold/" >
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Toyota,_Nagano">
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/GeographicalArea108574314" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Location100027167" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Object100002684" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatDissolvedMunicipalitiesOfNaganoPrefecture" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/AdministrativeDistrict108491826" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoLegalActorGeo" />
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PhysicalEntity100001930" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoGeoEntity" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoPermanentlyLocatedEntity" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Municipality108626283" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/UrbanArea108675967" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Region108630985" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Village" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/District108552138" />
+    <rdfs:label xml:lang="ja">豊田村 (長野県)</rdfs:label>
+    <rdfs:label xml:lang="en">Toyota, Nagano</rdfs:label>
+    <rdfs:comment xml:lang="en">Toyota (豊田村 Toyota-mura) was a village located in Shimominochi District, Nagano Prefecture, Japan. As of 2003, the village had an estimated population of 5,116 and a density of 147.27 persons per km². The total area was 34.74 km². On April 1, 2005, Toyota was merged into the expanded city of Nakano.</rdfs:comment>
+    <rdfs:comment xml:lang="ja">豊田村（とよたむら）は、かつて長野県下水内郡にあった村。合併により、中野市豊田地区となっている。</rdfs:comment>
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q7830726" />
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Toyota,_Nagano" />
+    <owl:sameAs rdf:resource="http://ja.dbpedia.org/resource/豊田村_(長野県)" />
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.02xyjy" />
+    <owl:sameAs rdf:resource="http://yago-knowledge.org/resource/Toyota,_Nagano" />
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q7830726" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Dissolved_municipalities_of_Nagano_Prefecture" />
+    <dbo:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">624595</dbo:wikiPageID>
+    <dbo:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">668081777</dbo:wikiPageRevisionID>
+    <foaf:depiction rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Map.Toyota-Vill.Nagano.PNG" />
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Toyota,_Nagano" />
+    <dbo:thumbnail rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Map.Toyota-Vill.Nagano.PNG?width=300" />
+    <prov:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Toyota,_Nagano?oldid=668081777" />
+    <dbo:abstract xml:lang="en">Toyota (豊田村 Toyota-mura) was a village located in Shimominochi District, Nagano Prefecture, Japan. As of 2003, the village had an estimated population of 5,116 and a density of 147.27 persons per km². The total area was 34.74 km². On April 1, 2005, Toyota was merged into the expanded city of Nakano.</dbo:abstract>
+    <dbo:abstract xml:lang="ja">豊田村（とよたむら）は、かつて長野県下水内郡にあった村。合併により、中野市豊田地区となっている。</dbo:abstract>
+    <ns7:hypernym rdf:resource="http://dbpedia.org/resource/Village" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Toyota,_Nagano">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Toyota,_Nagano" />
+  </rdf:Description>
+</rdf:RDF>

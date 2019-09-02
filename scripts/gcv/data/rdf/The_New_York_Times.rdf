@@ -1,0 +1,664 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:dct="http://purl.org/dc/terms/"
+	xmlns:dbo="http://dbpedia.org/ontology/"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:prov="http://www.w3.org/ns/prov#"
+	xmlns:dbp="http://dbpedia.org/property/"
+	xmlns:ns8="http://rdvocab.info/RDARelationshipsWEMI/"
+	xmlns:ns9="http://purl.org/linguistics/gold/" >
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lobotomy">
+    <dbp:work rdf:resource="http://dbpedia.org/resource/The_New_York_Times" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_New_York_Times">
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Newspaper106267145" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Newspaper" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Device103183080" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Medium106254669" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q386724" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Artifact100021939" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WebSite106359193" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Instrumentality103575240" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/PeriodicalLiterature" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PrintMedia106263609" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Computer103082979" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatEnglish-languageNewspapers" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Machine103699975" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Press106263369" />
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Magazine106595351" />
+    <rdf:type rdf:resource="http://schema.org/CreativeWork" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Work" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/WrittenWork" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Product104007894" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Creation103129123" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatNewspapersPublishedInNewYorkCity" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Publication106589574" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PhysicalEntity100001930" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Object100002684" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Work104599396" />
+    <rdf:type rdf:resource="http://vocab.org/frbr/core#Work" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatNationalNewspapersPublishedInTheUnitedStates" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatNewspapersPublishedInTheUnitedStates" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatDailyNewspapersPublishedInTheUnitedStates" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatDailyNewspapers" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatAmericanWebsites" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q1092563" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Whole100003553" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q11032" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatPublicationsEstablishedIn1851" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatWebsitesUtilizingPaywalls" />
+    <rdfs:label xml:lang="zh">纽约时报</rdfs:label>
+    <rdfs:label xml:lang="fr">The New York Times</rdfs:label>
+    <rdfs:label xml:lang="it">The New York Times</rdfs:label>
+    <rdfs:label xml:lang="ja">ニューヨーク・タイムズ</rdfs:label>
+    <rdfs:label xml:lang="nl">The New York Times</rdfs:label>
+    <rdfs:label xml:lang="de">The New York Times</rdfs:label>
+    <rdfs:label xml:lang="es">The New York Times</rdfs:label>
+    <rdfs:label xml:lang="en">The New York Times</rdfs:label>
+    <rdfs:label xml:lang="pt">The New York Times</rdfs:label>
+    <rdfs:label xml:lang="ru">The New York Times</rdfs:label>
+    <rdfs:label xml:lang="ar">نيويورك تايمز</rdfs:label>
+    <rdfs:label xml:lang="pl">The New York Times</rdfs:label>
+    <rdfs:comment xml:lang="pt">The New York Times (por vezes abreviado para NYT) é um jornal diário estadunidense, fundado e publicado continuamente em Nova York desde 18 de Setembro de 1851, pela The New York Times Company. O The New York Times ganhou 117 prémios Pulitzer, mais do que qualquer outra organização de notícias.</rdfs:comment>
+    <rdfs:comment xml:lang="ja">ニューヨーク・タイムズ（The New York Times）は、アメリカ合衆国ニューヨーク州ニューヨーク市に本社を置く、新聞社並びに同社が発行している高級日刊新聞紙。アメリカ合衆国内での発行部数はUSAトゥデイ（211万部）、ウォール・ストリート・ジャーナル（208万部）に次いで第3位（103万部）。</rdfs:comment>
+    <rdfs:comment xml:lang="es">The New York Times es un periódico publicado en la ciudad de Nueva York por Arthur Ochs Sulzberger Jr., que se distribuye en los Estados Unidos y muchos otros países. Desde su primer Premio Pulitzer, en 1851, hasta 2012, el periódico lo ha ganado 108 veces. Es propiedad de The New York Times Company, que también posee otras 40 publicaciones, incluyendo el International Herald Tribune y el Boston Globe. El diario es afectuosamente llamado la «Dama Gris» (Gray Lady, en inglés) y es considerado, por muchos, el diario por excelencia de los Estados Unidos.</rdfs:comment>
+    <rdfs:comment xml:lang="ru">«Нью-Йорк таймс» (The New York Times переводится как «Нью-йоркское время») — американская ежедневная газета, публикуемая в Нью-Йорке с 18 сентября 1851 года. Вторая крупнейшая по тиражу газета в стране, после The Wall Street Journal и 39-ая в мире. Как и основная часть американских газет, The New York Times создана как региональное издание. Однако концепция регионального СМИ не помешала ей стать одной из влиятельнейших газет мира. Веб-сайт «Нью-Йорк таймс» считается одним из самых популярных новостных сайтов с посещаемостью в 30 миллионов человек в месяц. Слоганом газеты является фраза «У нас все новости, которые можно напечатать» (All the News That’s Fit to Print). Впоследствии, с появлением сайта «Нью-Йорк таймс», этот слоган пришлось переделать в «У нас новости, на которые вы кликаете» </rdfs:comment>
+    <rdfs:comment xml:lang="en">The New York Times (sometimes abbreviated to NYT) is an American daily newspaper, founded and continuously published in New York City since September 18, 1851, by The New York Times Company. The New York Times has won 117 Pulitzer Prizes, more than any other news organization.</rdfs:comment>
+    <rdfs:comment xml:lang="zh">《纽约时报》（英语：The New York Times，缩写NYT）是一份在美国纽约出版的日报，在全世界发行，有相当的影响力。它是美国严肃报刊的代表。由于风格古典严肃，它有时也被戏称为“灰色女士”（The Gray Lady）。 和《华尔街日报》的保守派旗舰报纸地位相对应，《纽约时报》是美国自由派的第一大报，它最初被称作《纽约每日时报》（The New-York Daily Times），创始人为亨利·J·雷蒙德和George Jones。</rdfs:comment>
+    <rdfs:comment xml:lang="pl">The New York Times – jeden z najważniejszych amerykańskich dzienników o profilu liberalno-lewicowym, wychodzący w Nowym Jorku. Jest trzecią pod względem nakładu gazetą w Stanach Zjednoczonych, po USA Today i The Wall Street Journal. Codzienny nakład wynosi 1,125 mln, a obieg wydania niedzielnego 1,700 mln (dane na 26 grudnia 2004). Właścicielem gazety jest The New York Times Company, która kontroluje również około 40 innych gazet, czasopism i wiele krzyżówek, między innymi The Boston Globe i International Herald Tribune.</rdfs:comment>
+    <rdfs:comment xml:lang="fr">The New York Times, abrégé en NY Times, NYT ou Times, est un quotidien new-yorkais distribué internationalement et l&#39;un des plus prestigieux journaux américains. La New York Times Company en est l&#39;actionnaire unique depuis 2003 et publie également 18 autres journaux dont l’International New York Times (anciennement International Herald Tribune, de 1967 à 2013) et le Boston Globe. Journal de référence des démocrates américains et des républicains modérés, surnommé la « Gray Lady » pour sa mise en page et son style, il est considéré comme un journal de référence. Fondé en 1851, il a été récompensé par 114 prix Pulitzer et employait 1 200 journalistes en 2006.</rdfs:comment>
+    <rdfs:comment xml:lang="ar">نيويورك تايمز (بالإنجليزية: The New York Times) صحيفة يومية نشرتْ في مدينة نيويورك مِن قِبل سولسبيرغ الابن ووزّعَت عالمياً. هي ملك شركةِ النيويورك تايمزِالتي تَنْشرُ 15 صحيفةَ أخرى، منها الهيرالد تريبيون إنترناشيونال وبوسطن غلوب. وهي الصحيفةُ الحضريةُ الأكبرُ في الولايات المتّحدةِ. لقّبَت &quot;سيدة جراي&quot; للظهورِ والأسلوبِ. هي تعتَبرُ في أغلب الأحيان صحيفة وطنية مِنْ السجلِ، يَعْني بأنّه يُعتَمدُ كثيراً علىها كالإشارة الرسمية والموثوقة للأحداثِ الحديثةِ. أَسّستْ في 1851، رَبحتْ الصحيفةَ 95 جائزة بوليتزر، أكثر بكثير مِنْ أيّ صحيفة أخرى. إنّ اسمَ الصحيفةَ يُختَصرُ إلى التايمز، لكن لا يَجِبُ أَنْ يَكُونَ مشوّش بالتايمز، التي مَنْشُورةُ في لندن، أَو العديد مِنْ المنشوراتِ الأخرى التي تَستعملُ التعيينَ الأقصرَ أيضاً، بضمن ذلك لوس أنجليس تايمزِ.</rdfs:comment>
+    <rdfs:comment xml:lang="it">Il New York Times – spesso abbreviato in N.Y. Times – è un quotidiano statunitense fondato a New York il 18 settembre 1851 da Henry Jarvis Raymond e George Jones.Il suo editore è la New York Times Company, che pubblica anche il Boston Globe e l&#39;edizione internazionale del Times, l’International New York Times - in precedenza International Herald Tribune - edito a Parigi, in Francia; presidente della casa editrice è Arthur Ochs Sulzberger, Jr., erede di una famiglia che detiene il possesso del quotidiano dal 1896.</rdfs:comment>
+    <rdfs:comment xml:lang="de">The New York Times (NYT) ist eine einflussreiche und überregionale Tageszeitung aus New York City, die von der New York Times Company geführt wird. Sie wird auch „The Gray Lady“ genannt. Das Unternehmen New York Times Company wird im Aktienindex S&amp;P 500 gelistet.</rdfs:comment>
+    <rdfs:comment xml:lang="nl">The New York Times is een Amerikaans dagblad, dat ook internationaal gezien belangrijk is. Het hoofdkantoor is in New York, in The New York Times Tower gevestigd. Bijnamen van de krant zijn The Old Gray Lady, de oude grijze dame, en The Times. De krant heeft als slogan All The News That&#39;s Fit To Print. Een deel van de artikelen wordt internationaal gepubliceerd via de International New York Times.</rdfs:comment>
+    <owl:differentFrom rdf:resource="http://dbpedia.org/resource/The_Times" />
+    <rdfs:seeAlso rdf:resource="http://lobid.org/resource/HT016860147" />
+    <rdfs:seeAlso rdf:resource="http://lobid.org/resource/HT007328871" />
+    <owl:sameAs rdf:resource="http://fr.dbpedia.org/resource/The_New_York_Times" />
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q9684" />
+    <owl:sameAs rdf:resource="http://ko.dbpedia.org/resource/뉴욕_타임스" />
+    <owl:sameAs rdf:resource="http://eu.dbpedia.org/resource/The_New_York_Times" />
+    <owl:sameAs rdf:resource="http://id.dbpedia.org/resource/The_New_York_Times" />
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.07k2d" />
+    <owl:sameAs rdf:resource="http://sw.cyc.com/concept/Mx4rwKCY65wpEbGdrcN5Y29ycA" />
+    <owl:sameAs rdf:resource="http://yago-knowledge.org/resource/The_New_York_Times" />
+    <owl:sameAs rdf:resource="http://es.dbpedia.org/resource/The_New_York_Times" />
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q9684" />
+    <owl:sameAs rdf:resource="http://www4.wiwiss.fu-berlin.de/wikicompany/resource/The_New_York_Times" />
+    <owl:sameAs rdf:resource="http://nl.dbpedia.org/resource/The_New_York_Times" />
+    <owl:sameAs rdf:resource="http://cs.dbpedia.org/resource/The_New_York_Times" />
+    <owl:sameAs rdf:resource="http://d-nb.info/gnd/4171689-9" />
+    <owl:sameAs rdf:resource="http://pt.dbpedia.org/resource/The_New_York_Times" />
+    <owl:sameAs rdf:resource="http://el.dbpedia.org/resource/The_New_York_Times" />
+    <owl:sameAs rdf:resource="http://ja.dbpedia.org/resource/ニューヨーク・タイムズ" />
+    <owl:sameAs rdf:resource="http://pl.dbpedia.org/resource/The_New_York_Times" />
+    <owl:sameAs rdf:resource="http://yago-knowledge.org/resource/Nytimes.com" />
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/The_New_York_Times" />
+    <owl:sameAs rdf:resource="http://it.dbpedia.org/resource/The_New_York_Times" />
+    <owl:sameAs rdf:resource="http://data.nytimes.com/78408960637253476022" />
+    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/The_New_York_Times" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Companies_based_in_Manhattan" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Publications_established_in_1851" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:1851_establishments_in_New_York" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Peabody_Award_winners" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Websites_utilizing_paywalls" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Newspapers_published_in_New_York_City" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:The_New_York_Times" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Pulitzer_Prize-winning_newspapers" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:National_newspapers_published_in_the_United_States" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Daily_newspapers_published_in_the_United_States" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Investigative_news_sources" />
+    <dbo:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">30680</dbo:wikiPageID>
+    <dbo:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">745287027</dbo:wikiPageRevisionID>
+    <dbo:wikiPageExternalLink rdf:resource="http://www.nytimes.com/" />
+    <dbo:wikiPageExternalLink rdf:resource="http://us.picker-news.com/diario/the-new-york-times.html" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.jstor.org/stable/3132941" />
+    <dbo:wikiPageExternalLink rdf:resource="http://international.nytimes.com/" />
+    <dbo:wikiPageExternalLink rdf:resource="http://dx.doi.org/10.1080/1461670X.2012.657907" />
+    <dbo:wikiPageExternalLink rdf:resource="http://muse.jhu.edu/journals/ajh/summary/v088/88.1leff.html" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.nytimes.com/2012/10/26/business/global/family-of-wen-jiabao-holds-a-hidden-fortune-in-china.html" />
+    <dbo:wikiPageExternalLink rdf:resource="http://topics.nytimes.com/top/reference/timestopics/organizations/n/newyorktimes_the/index.html" />
+    <dbo:wikiPageExternalLink rdf:resource="http://archives.nypl.org/mss/17802" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.nytco.com/" />
+    <dbo:wikiPageExternalLink rdf:resource="https://books.google.com/?id=z0gOAAAAYAAJ" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.nytimes.com" />
+    <dbo:wikiPageExternalLink rdf:resource="http://onlinebooks.library.upenn.edu/webbin/serial?id=nytimes" />
+    <foaf:homepage rdf:resource="http://www.nytimes.com" />
+    <foaf:depiction rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/NewYorkTimes.svg" />
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/The_New_York_Times" />
+    <dbo:thumbnail rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/NewYorkTimes.svg?width=300" />
+    <prov:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/The_New_York_Times?oldid=745287027" />
+    <dbo:abstract xml:lang="zh">《纽约时报》（英语：The New York Times，缩写NYT）是一份在美国纽约出版的日报，在全世界发行，有相当的影响力。它是美国严肃报刊的代表。由于风格古典严肃，它有时也被戏称为“灰色女士”（The Gray Lady）。 和《华尔街日报》的保守派旗舰报纸地位相对应，《纽约时报》是美国自由派的第一大报，它最初被称作《纽约每日时报》（The New-York Daily Times），创始人为亨利·J·雷蒙德和George Jones。</dbo:abstract>
+    <dbo:abstract xml:lang="nl">The New York Times is een Amerikaans dagblad, dat ook internationaal gezien belangrijk is. Het hoofdkantoor is in New York, in The New York Times Tower gevestigd. Bijnamen van de krant zijn The Old Gray Lady, de oude grijze dame, en The Times. De krant heeft als slogan All The News That&#39;s Fit To Print. Een deel van de artikelen wordt internationaal gepubliceerd via de International New York Times.</dbo:abstract>
+    <dbo:abstract xml:lang="it">Il New York Times – spesso abbreviato in N.Y. Times – è un quotidiano statunitense fondato a New York il 18 settembre 1851 da Henry Jarvis Raymond e George Jones.Il suo editore è la New York Times Company, che pubblica anche il Boston Globe e l&#39;edizione internazionale del Times, l’International New York Times - in precedenza International Herald Tribune - edito a Parigi, in Francia; presidente della casa editrice è Arthur Ochs Sulzberger, Jr., erede di una famiglia che detiene il possesso del quotidiano dal 1896. Il N.Y. Times è il primo quotidiano newyorkese i cui uffici si insediarono in uno stabile all&#39;uopo costruito. Nel 1904, infatti, la testata si trasferì in un edificio di proprietà ubicato in un&#39;area all&#39;epoca chiamata Long Acre Square e oggi Times Square, una delle piazze più celebri di New York. Dal 2007 la sede è altresì nella Ottava Strada, sempre a Manhattan. Il motto del New York Times è All the News That&#39;s Fit to Print (traducibile in Tutte le notizie che valga la pena stampare), riadattato in All The News That&#39;s Fit to Click (Tutte le notizie su cui valga la pena cliccare) per l&#39;edizione digitale. La sua diffusione cartacea giornaliera è, a marzo 2013, di 731 395 copie, cui se ne aggiungono 1 133 923 digitali per una diffusione complessiva di 1 865 318.</dbo:abstract>
+    <dbo:abstract xml:lang="es">The New York Times es un periódico publicado en la ciudad de Nueva York por Arthur Ochs Sulzberger Jr., que se distribuye en los Estados Unidos y muchos otros países. Desde su primer Premio Pulitzer, en 1851, hasta 2012, el periódico lo ha ganado 108 veces. Es propiedad de The New York Times Company, que también posee otras 40 publicaciones, incluyendo el International Herald Tribune y el Boston Globe. El diario es afectuosamente llamado la «Dama Gris» (Gray Lady, en inglés) y es considerado, por muchos, el diario por excelencia de los Estados Unidos.</dbo:abstract>
+    <dbo:abstract xml:lang="fr">The New York Times, abrégé en NY Times, NYT ou Times, est un quotidien new-yorkais distribué internationalement et l&#39;un des plus prestigieux journaux américains. La New York Times Company en est l&#39;actionnaire unique depuis 2003 et publie également 18 autres journaux dont l’International New York Times (anciennement International Herald Tribune, de 1967 à 2013) et le Boston Globe. Journal de référence des démocrates américains et des républicains modérés, surnommé la « Gray Lady » pour sa mise en page et son style, il est considéré comme un journal de référence. Fondé en 1851, il a été récompensé par 114 prix Pulitzer et employait 1 200 journalistes en 2006. Sa devise, toujours affichée dans le coin supérieur gauche de la première page, est « All the news that&#39;s fit to print » (« Toutes les nouvelles qui méritent d&#39;être imprimées »). L&#39;éditeur actuel est Arthur Ochs Sulzberger Jr., un membre de la famille qui contrôle le journal depuis 1896.</dbo:abstract>
+    <dbo:abstract xml:lang="de">The New York Times (NYT) ist eine einflussreiche und überregionale Tageszeitung aus New York City, die von der New York Times Company geführt wird. Sie wird auch „The Gray Lady“ genannt. Das Unternehmen New York Times Company wird im Aktienindex S&amp;P 500 gelistet. Die New York Times Company publiziert insgesamt über 30 Druckmedien. Ende 2004 betrug die verteilte Druckauflage wochentags 1.124.700 und sonntags 1.669.700 Exemplare. Mit derzeit 1250 redaktionellen Mitarbeitern verfügt das Unternehmen über die größte Zeitungsredaktion der Vereinigten Staaten von Amerika. Der Herausgeber ist Arthur Ochs Sulzberger Jr.; Chefredakteur ist seit Mai 2014 Dean Baquet. Die New York Times ist die Zeitung mit den meisten Pulitzer-Preisen (117) und den meisten Online-Lesern (über 30 Millionen Besucher pro Monat, Daten von 2010) in den USA.</dbo:abstract>
+    <dbo:abstract xml:lang="en">The New York Times (sometimes abbreviated to NYT) is an American daily newspaper, founded and continuously published in New York City since September 18, 1851, by The New York Times Company. The New York Times has won 117 Pulitzer Prizes, more than any other news organization. The paper&#39;s print version has the second-largest circulation, behind The Wall Street Journal, and the largest circulation among the metropolitan newspapers in the United States of America. The New York Times is ranked 39th in the world by circulation. Following industry trends, its weekday circulation has fallen to fewer than one million daily since 1990. Nicknamed &quot;The Gray Lady&quot;, The New York Times has long been regarded within the industry as a national &quot;newspaper of record&quot;. The New York Times is owned by The New York Times Company. Arthur Ochs Sulzberger, Jr., the Publisher and the Chairman of the Board, is a member of the Ochs-Sulzberger family that has controlled the paper since 1896. The New York Times international version, formerly the International Herald Tribune, is now called the International New York Times. The paper&#39;s motto, &quot;All the News That&#39;s Fit to Print&quot;, appears in the upper left-hand corner of the front page. Since the mid-1970s, The New York Times has greatly expanded its layout and organization, adding special weekly sections on various topics supplementing the regular news, editorials, sports, and features. In recent times, The New York Times has been organized into the following sections: News, Editorials/Opinions-Columns/Op-Ed, New York (metropolitan), Business, Sports of The Times, Arts, Science, Styles, Home, Travel, and other features. On Sunday, The New York Times is supplemented by the Sunday Review (formerly the Week in Review), The New York Times Book Review, The New York Times Magazine and T: The New York Times Style Magazine. The New York Times stayed with the broadsheet full page set-up (as some others have changed into a tabloid lay-out) and an eight-column format for several years, after most papers switched to six, and was one of the last newspapers to adopt color photography, especially on the front page.</dbo:abstract>
+    <dbo:abstract xml:lang="ru">«Нью-Йорк таймс» (The New York Times переводится как «Нью-йоркское время») — американская ежедневная газета, публикуемая в Нью-Йорке с 18 сентября 1851 года. Вторая крупнейшая по тиражу газета в стране, после The Wall Street Journal и 39-ая в мире. Как и основная часть американских газет, The New York Times создана как региональное издание. Однако концепция регионального СМИ не помешала ей стать одной из влиятельнейших газет мира. Веб-сайт «Нью-Йорк таймс» считается одним из самых популярных новостных сайтов с посещаемостью в 30 миллионов человек в месяц. Слоганом газеты является фраза «У нас все новости, которые можно напечатать» (All the News That’s Fit to Print). Впоследствии, с появлением сайта «Нью-Йорк таймс», этот слоган пришлось переделать в «У нас новости, на которые вы кликаете» (All the News That’s Fit to Click). С середины 1970-х годов газета существенно расширила организацию и свою планировку, добавив специальные еженедельные секции на различные темы, которые дополняют обычные новости, редакционные статьи, новости спорта. Позже она была поделена на рубрики: «Новости», «Отзывы», «Бизнес», «Спорт», «Наука», «Искусство», «Стиль», «Дом», «Новости Нью-Йорка» и другие. «Нью-Йорк таймс» оставалась газетой большого формата (другие газеты изменили свой формат и перешли на формат таблоида) с 8 колонками на протяжении нескольких лет, в то время как большинство газет сократило количество колонок до 6, также «Нью-Йорк таймс» была одной из последних газет, которая приняла цветную фотографию, особенно на первой странице.</dbo:abstract>
+    <dbo:abstract xml:lang="ar">نيويورك تايمز (بالإنجليزية: The New York Times) صحيفة يومية نشرتْ في مدينة نيويورك مِن قِبل سولسبيرغ الابن ووزّعَت عالمياً. هي ملك شركةِ النيويورك تايمزِالتي تَنْشرُ 15 صحيفةَ أخرى، منها الهيرالد تريبيون إنترناشيونال وبوسطن غلوب. وهي الصحيفةُ الحضريةُ الأكبرُ في الولايات المتّحدةِ. لقّبَت &quot;سيدة جراي&quot; للظهورِ والأسلوبِ. هي تعتَبرُ في أغلب الأحيان صحيفة وطنية مِنْ السجلِ، يَعْني بأنّه يُعتَمدُ كثيراً علىها كالإشارة الرسمية والموثوقة للأحداثِ الحديثةِ. أَسّستْ في 1851، رَبحتْ الصحيفةَ 95 جائزة بوليتزر، أكثر بكثير مِنْ أيّ صحيفة أخرى. إنّ اسمَ الصحيفةَ يُختَصرُ إلى التايمز، لكن لا يَجِبُ أَنْ يَكُونَ مشوّش بالتايمز، التي مَنْشُورةُ في لندن، أَو العديد مِنْ المنشوراتِ الأخرى التي تَستعملُ التعيينَ الأقصرَ أيضاً، بضمن ذلك لوس أنجليس تايمزِ. تأسست جريدة نيويورك تايمز في 1851، وصدر عددها الأول في 18 سبتمبر 1851، باسم New York Daily Times. وقد أنشأها هنري جارفيس ريموند وجورج جونز، وكانت تصدر في أربع صفحات، وتقع مكاتبها في دور علوي لا نوافذ له، وتعتمد على الشموع في الإضاءة، وذلك بمقرها في مانهاتن بمدينة نيويورك.وقبل تأسيس الجريدة عمل رايموند كنائب لمحافظ ولاية نيويورك. أما جونز فجاء من خلفية متواضعة وعمل في صباه فراشا لصاحب جريدة نورثن سبيكتاتور Northern Spectator، حيث تعرف على هوراس غريلي مؤسس جريدة نيويورك تريبيون New York Tribune. وبعد فترة عمل قصيرة مع غريلي قرر جونز إنشاء جريدة بمشاركة صديقه هنري رايموند. وأصدرت نيويورك تايمز اليومية New York Times Daily أول عدد لها يوم 18 سبتمبر عام 1851. ومع إصدار أول عدد للجريدة صرحا ريموند وجونز ذلك اليوم بأن نيويورك تايمز سوف تصدر يوميا ماعدا يوم الأحد من كل أسبوع. ولم يعتقد أحد أن ذلك الإصدار كان بداية تاريخ مليء بالإثارة والجدل والتفاعلات السياسية.</dbo:abstract>
+    <dbo:abstract xml:lang="pl">The New York Times – jeden z najważniejszych amerykańskich dzienników o profilu liberalno-lewicowym, wychodzący w Nowym Jorku. Jest trzecią pod względem nakładu gazetą w Stanach Zjednoczonych, po USA Today i The Wall Street Journal. Codzienny nakład wynosi 1,125 mln, a obieg wydania niedzielnego 1,700 mln (dane na 26 grudnia 2004). Właścicielem gazety jest The New York Times Company, która kontroluje również około 40 innych gazet, czasopism i wiele krzyżówek, między innymi The Boston Globe i International Herald Tribune.</dbo:abstract>
+    <dbo:abstract xml:lang="ja">ニューヨーク・タイムズ（The New York Times）は、アメリカ合衆国ニューヨーク州ニューヨーク市に本社を置く、新聞社並びに同社が発行している高級日刊新聞紙。アメリカ合衆国内での発行部数はUSAトゥデイ（211万部）、ウォール・ストリート・ジャーナル（208万部）に次いで第3位（103万部）。</dbo:abstract>
+    <dbo:abstract xml:lang="pt">The New York Times (por vezes abreviado para NYT) é um jornal diário estadunidense, fundado e publicado continuamente em Nova York desde 18 de Setembro de 1851, pela The New York Times Company. O The New York Times ganhou 117 prémios Pulitzer, mais do que qualquer outra organização de notícias. A versão impressa do jornal tem a segunda maior circulação, atrás do The Wall Street Journal, e a maior circulação entre os jornais metropolitanos nos Estados Unidos. O New York Times está classificado em 39º no mundo por circulação. No entanto, seguindo tendências da indústria como um todo, a sua circulação semanal caiu para menos de um milhão por dia desde 1990. Apelidado de &quot;The Lady Gray&quot;, o New York Time há muito tempo tem sido considerado dentro da indústria como um &quot;jornal de referência&quot; nacional. Arthur Ochs Sulzberger Jr., Publisher e do Presidente do Conselho, é um membro da família Ochs-Sulzberger, que tem controlado o jornal desde 1896. A versão internacional do New York Times, anteriormente o International Herald Tribune, agora é chamado de International New York Times. O lema do jornal, &quot;todas as notícias que estão aptas para impressão&quot;, aparece no canto superior esquerdo da página inicial. Desde meados dos anos 1970, o New York Times tem se expandido muito seu layout e organização, acrescentando seções especiais semanais sobre vários temas que completam as notícias, editoriais, esportes e características regulares.</dbo:abstract>
+    <dbo:circulation rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">1379806</dbo:circulation>
+    <dbo:circulation rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">1321207</dbo:circulation>
+    <dbo:editor rdf:resource="http://dbpedia.org/resource/Dean_Baquet" />
+    <dbo:format rdf:resource="http://dbpedia.org/resource/Broadsheet" />
+    <dbo:foundedBy rdf:resource="http://dbpedia.org/resource/Henry_Jarvis_Raymond" />
+    <dbo:foundedBy rdf:resource="http://dbpedia.org/resource/George_Jones_(publisher)" />
+    <dbo:headquarter rdf:resource="http://dbpedia.org/resource/The_New_York_Times_Building" />
+    <dbo:headquarter rdf:resource="http://dbpedia.org/resource/New_York_City" />
+    <dbo:headquarter rdf:resource="http://dbpedia.org/resource/New_York_(state)" />
+    <dbo:headquarter rdf:resource="http://dbpedia.org/resource/Eighth_Avenue_(Manhattan)" />
+    <dbo:headquarter rdf:resource="http://dbpedia.org/resource/United_States" />
+    <dbo:owner rdf:resource="http://dbpedia.org/resource/Carlos_Slim" />
+    <dbo:owner rdf:resource="http://dbpedia.org/resource/The_New_York_Times_Company" />
+    <dbo:publisher rdf:resource="http://dbpedia.org/resource/Arthur_Ochs_Sulzberger,_Jr." />
+    <dbo:type rdf:resource="http://dbpedia.org/resource/Newspaper" />
+    <dbp:circulationDate rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">September 2014</dbp:circulationDate>
+    <dbp:oclc rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1645522</dbp:oclc>
+    <dbp:opeditor rdf:resource="http://dbpedia.org/resource/James_Bennet_(journalist)" />
+    <dbp:photoeditor rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Michele McNally</dbp:photoeditor>
+    <dbp:publishingCountry rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">United States</dbp:publishingCountry>
+    <dbp:sportseditor rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Jason Stallman</dbp:sportseditor>
+    <dbp:caption rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Cover of The New York Times , with the headline story reporting on Operation Pillar of Defense.</dbp:caption>
+    <dbp:imageAlt rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">border</dbp:imageAlt>
+    <dbp:imageSize rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">250</dbp:imageSize>
+    <dbp:issn rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">362</dbp:issn>
+    <dbp:logo rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">File:NewYorkTimes.svg</dbp:logo>
+    <dbp:slogan rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">&quot;All the News That&#39;s Fit to Print&quot;</dbp:slogan>
+    <dbp:staff rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1150</dbp:staff>
+    <ns8:manifestationOfWork rdf:resource="http://lobid.org/resource/HT016860147" />
+    <ns8:manifestationOfWork rdf:resource="http://lobid.org/resource/HT007328871" />
+    <dbp:wordnet_type rdf:resource="http://www.w3.org/2006/03/wn/wn20/instances/synset-newspaper-noun-2" />
+    <ns9:hypernym rdf:resource="http://dbpedia.org/resource/Newspaper" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Arthur_Hays_Sulzberger">
+    <dbo:knownFor rdf:resource="http://dbpedia.org/resource/The_New_York_Times" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Arthur_Ochs_Sulzberger">
+    <dbo:knownFor rdf:resource="http://dbpedia.org/resource/The_New_York_Times" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Survivor:_Borneo">
+    <dbp:source rdf:resource="http://dbpedia.org/resource/The_New_York_Times" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Betty_Fussell">
+    <dbo:notableWork rdf:resource="http://dbpedia.org/resource/The_New_York_Times" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Beware_(album)">
+    <dbp:rev rdf:resource="http://dbpedia.org/resource/The_New_York_Times" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Dean_Baquet">
+    <dbo:occupation rdf:resource="http://dbpedia.org/resource/The_New_York_Times" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Newsroom_Navigator">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/The_New_York_Times" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Catastrophe_of_Success">
+    <dbo:publisher rdf:resource="http://dbpedia.org/resource/The_New_York_Times" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Glenn_Kramon">
+    <dbo:occupation rdf:resource="http://dbpedia.org/resource/The_New_York_Times" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/I&#39;m_Having_Fun_Now">
+    <dbp:rev rdf:resource="http://dbpedia.org/resource/The_New_York_Times" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/New_York_Times/Associated_Press">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/The_New_York_Times" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/1904_Chappaqua_tornado">
+    <dbp:source rdf:resource="http://dbpedia.org/resource/The_New_York_Times" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nytimes.com">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/The_New_York_Times" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Times_Reader">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/The_New_York_Times" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/TNYT">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/The_New_York_Times" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Allen_Drury">
+    <dbo:employer rdf:resource="http://dbpedia.org/resource/The_New_York_Times" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Political_abuse_of_psychiatry_in_the_Soviet_Union">
+    <dbp:work rdf:resource="http://dbpedia.org/resource/The_New_York_Times" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Under_the_Mistletoe">
+    <dbp:rev rdf:resource="http://dbpedia.org/resource/The_New_York_Times" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Farmer&#39;s_Daughter_(album)">
+    <dbp:rev rdf:resource="http://dbpedia.org/resource/The_New_York_Times" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Leonard_Skinner">
+    <dbo:knownFor rdf:resource="http://dbpedia.org/resource/The_New_York_Times" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Veronica_Falls_(album)">
+    <dbp:rev rdf:resource="http://dbpedia.org/resource/The_New_York_Times" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Margaret_Farrar">
+    <dbo:notableWork rdf:resource="http://dbpedia.org/resource/The_New_York_Times" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Masa_Takayama">
+    <dbp:ratings rdf:resource="http://dbpedia.org/resource/The_New_York_Times" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_New_York_Times_Book_Review">
+    <dbo:publisher rdf:resource="http://dbpedia.org/resource/The_New_York_Times" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/A_Different_Me">
+    <dbp:rev rdf:resource="http://dbpedia.org/resource/The_New_York_Times" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Edith_Evans_Asbury">
+    <dbo:employer rdf:resource="http://dbpedia.org/resource/The_New_York_Times" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Parplar">
+    <dbp:rev rdf:resource="http://dbpedia.org/resource/The_New_York_Times" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sunday_New_York_Times">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/The_New_York_Times" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/NY_times">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/The_New_York_Times" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Orvil_Dryfoos">
+    <dbo:knownFor rdf:resource="http://dbpedia.org/resource/The_New_York_Times" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Harry_Cross_(sportswriter)">
+    <dbp:organization rdf:resource="http://dbpedia.org/resource/The_New_York_Times" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/James_Brooke_(journalist)">
+    <dbp:credits rdf:resource="http://dbpedia.org/resource/The_New_York_Times" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Andrew_Jacobs_(journalist)">
+    <dbo:employer rdf:resource="http://dbpedia.org/resource/The_New_York_Times" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Straight_Outta_Cashville">
+    <dbp:rev rdf:resource="http://dbpedia.org/resource/The_New_York_Times" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/NYT">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/The_New_York_Times" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hollywood:_A_Story_of_a_Dozen_Roses">
+    <dbp:rev rdf:resource="http://dbpedia.org/resource/The_New_York_Times" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Thomas_Erdbrink">
+    <dbo:employer rdf:resource="http://dbpedia.org/resource/The_New_York_Times" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/One_Times_Square">
+    <dbp:developer rdf:resource="http://dbpedia.org/resource/The_New_York_Times" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Scar_(The_Lion_King)">
+    <dbp:sign rdf:resource="http://dbpedia.org/resource/The_New_York_Times" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/T:_The_New_York_Times_Style_Magazine">
+    <dbo:publisher rdf:resource="http://dbpedia.org/resource/The_New_York_Times" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Charles_Duhigg">
+    <dbo:employer rdf:resource="http://dbpedia.org/resource/The_New_York_Times" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Annie_Lanzillotto">
+    <dbo:notableWork rdf:resource="http://dbpedia.org/resource/The_New_York_Times" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Dot_Earth">
+    <dbo:owner rdf:resource="http://dbpedia.org/resource/The_New_York_Times" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Pain_Is_Beauty">
+    <dbp:rev rdf:resource="http://dbpedia.org/resource/The_New_York_Times" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Frank_J._Prial">
+    <dbo:occupation rdf:resource="http://dbpedia.org/resource/The_New_York_Times" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/N.Y._Times">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/The_New_York_Times" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sorry_to_Bother_You">
+    <dbp:rev rdf:resource="http://dbpedia.org/resource/The_New_York_Times" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Colored_Sands">
+    <dbp:rev rdf:resource="http://dbpedia.org/resource/The_New_York_Times" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ny_times">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/The_New_York_Times" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_New_York_Times_Company">
+    <dbo:product rdf:resource="http://dbpedia.org/resource/The_New_York_Times" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Connie_Mack">
+    <dbp:source rdf:resource="http://dbpedia.org/resource/The_New_York_Times" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Henry_Jarvis_Raymond">
+    <dbo:occupation rdf:resource="http://dbpedia.org/resource/The_New_York_Times" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/David_Carr_(journalist)">
+    <dbo:employer rdf:resource="http://dbpedia.org/resource/The_New_York_Times" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/David_Leonhardt">
+    <dbo:employer rdf:resource="http://dbpedia.org/resource/The_New_York_Times" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sluggish_schizophrenia">
+    <dbp:journal rdf:resource="http://dbpedia.org/resource/The_New_York_Times" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Take_a_Look_in_the_Mirror">
+    <dbp:rev rdf:resource="http://dbpedia.org/resource/The_New_York_Times" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Flora_Lewis">
+    <dbo:employer rdf:resource="http://dbpedia.org/resource/The_New_York_Times" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Wesley_Morris">
+    <dbo:employer rdf:resource="http://dbpedia.org/resource/The_New_York_Times" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ollusion">
+    <dbp:rev rdf:resource="http://dbpedia.org/resource/The_New_York_Times" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Zee_Avi_(album)">
+    <dbp:rev rdf:resource="http://dbpedia.org/resource/The_New_York_Times" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ferrari_Boyz">
+    <dbp:rev rdf:resource="http://dbpedia.org/resource/The_New_York_Times" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_New_York_Times.">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/The_New_York_Times" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/All_The_News_That&#39;s_Fit_To_Print">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/The_New_York_Times" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Abyss_(Chelsea_Wolfe_album)">
+    <dbp:rev rdf:resource="http://dbpedia.org/resource/The_New_York_Times" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Harvey_Shapiro_(poet)">
+    <dbo:occupation rdf:resource="http://dbpedia.org/resource/The_New_York_Times" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Stay_Awake:_Various_Interpretations_of_Music_from_Vintage_Disney_Films">
+    <dbp:rev rdf:resource="http://dbpedia.org/resource/The_New_York_Times" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Til_the_Casket_Drops">
+    <dbp:rev rdf:resource="http://dbpedia.org/resource/The_New_York_Times" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Andrea_Elliott">
+    <dbo:employer rdf:resource="http://dbpedia.org/resource/The_New_York_Times" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vagarosa">
+    <dbp:rev rdf:resource="http://dbpedia.org/resource/The_New_York_Times" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/World_Wide_Open">
+    <dbp:rev rdf:resource="http://dbpedia.org/resource/The_New_York_Times" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_New_York_Times_Magazine">
+    <dbo:publisher rdf:resource="http://dbpedia.org/resource/The_New_York_Times" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Cosmic_Adventure">
+    <dbp:rev rdf:resource="http://dbpedia.org/resource/The_New_York_Times" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/T_Brand_Studio">
+    <dbo:parentCompany rdf:resource="http://dbpedia.org/resource/The_New_York_Times" />
+    <dbo:product rdf:resource="http://dbpedia.org/resource/The_New_York_Times" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Janet_Maslin">
+    <dbo:employer rdf:resource="http://dbpedia.org/resource/The_New_York_Times" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Robert_Osborn_(satirist)">
+    <dbo:employer rdf:resource="http://dbpedia.org/resource/The_New_York_Times" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Brooks_Atkinson">
+    <dbo:employer rdf:resource="http://dbpedia.org/resource/The_New_York_Times" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Arc_of_a_Diver">
+    <dbp:rev rdf:resource="http://dbpedia.org/resource/The_New_York_Times" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/David_E._Sanger">
+    <dbo:employer rdf:resource="http://dbpedia.org/resource/The_New_York_Times" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Alan_Schwarz">
+    <dbo:employer rdf:resource="http://dbpedia.org/resource/The_New_York_Times" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/New_York_itmes">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/The_New_York_Times" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kinsey_Wilson">
+    <dbo:occupation rdf:resource="http://dbpedia.org/resource/The_New_York_Times" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Predatory_Headlights">
+    <dbp:rev rdf:resource="http://dbpedia.org/resource/The_New_York_Times" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Susan_Rasky">
+    <dbo:occupation rdf:resource="http://dbpedia.org/resource/The_New_York_Times" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Joe_Nichols_(journalist)">
+    <dbo:employer rdf:resource="http://dbpedia.org/resource/The_New_York_Times" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/I&#39;m_Alive_(Jackson_Browne_album)">
+    <dbp:rev rdf:resource="http://dbpedia.org/resource/The_New_York_Times" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Axes_(album)">
+    <dbp:rev rdf:resource="http://dbpedia.org/resource/The_New_York_Times" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Untitled_Korn_album">
+    <dbp:rev rdf:resource="http://dbpedia.org/resource/The_New_York_Times" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/New_York_Times">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/The_New_York_Times" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nytimes">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/The_New_York_Times" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/When_Life_Gives_You_Lemons,_You_Paint_That_Shit_Gold">
+    <dbp:rev rdf:resource="http://dbpedia.org/resource/The_New_York_Times" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_ny_times">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/The_New_York_Times" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Carla_Robbins">
+    <dbo:employer rdf:resource="http://dbpedia.org/resource/The_New_York_Times" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/NYTimes">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/The_New_York_Times" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/NYTimes.com">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/The_New_York_Times" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Judith_H._Dobrzynski">
+    <dbp:credits rdf:resource="http://dbpedia.org/resource/The_New_York_Times" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bill_Cunningham_(American_photographer)">
+    <dbo:employer rdf:resource="http://dbpedia.org/resource/The_New_York_Times" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Chupacabra_(album)">
+    <dbp:rev rdf:resource="http://dbpedia.org/resource/The_New_York_Times" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/No_Gravity_(Shontelle_album)">
+    <dbp:rev rdf:resource="http://dbpedia.org/resource/The_New_York_Times" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Arthur_Ochs_Sulzberger_Jr.">
+    <dbo:occupation rdf:resource="http://dbpedia.org/resource/The_New_York_Times" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Not_Exotic">
+    <dbp:rev rdf:resource="http://dbpedia.org/resource/The_New_York_Times" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/NY_Times">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/The_New_York_Times" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/New_york_times">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/The_New_York_Times" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Www.nytimes.com">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/The_New_York_Times" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Old_Gray_Lady">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/The_New_York_Times" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Old_Grey_Lady">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/The_New_York_Times" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Montgomery_Schuyler">
+    <dbo:employer rdf:resource="http://dbpedia.org/resource/The_New_York_Times" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Shriek_(Wye_Oak_album)">
+    <dbp:rev rdf:resource="http://dbpedia.org/resource/The_New_York_Times" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Grohl_Sessions,_Vol._1">
+    <dbp:rev rdf:resource="http://dbpedia.org/resource/The_New_York_Times" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Spoiled_Girl">
+    <dbp:rev rdf:resource="http://dbpedia.org/resource/The_New_York_Times" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/II_(Espers_album)">
+    <dbp:rev rdf:resource="http://dbpedia.org/resource/The_New_York_Times" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/James_Rosen_(journalist)">
+    <owl:differentFrom rdf:resource="http://dbpedia.org/resource/The_New_York_Times" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Anthony_Shadid">
+    <dbo:employer rdf:resource="http://dbpedia.org/resource/The_New_York_Times" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nyt">
+    <dbo:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/The_New_York_Times" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tim_Carvell">
+    <dbo:notableWork rdf:resource="http://dbpedia.org/resource/The_New_York_Times" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/William_L._Laurence">
+    <dbo:employer rdf:resource="http://dbpedia.org/resource/The_New_York_Times" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/David_Segal_(reporter)">
+    <dbo:employer rdf:resource="http://dbpedia.org/resource/The_New_York_Times" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Taghreed_El-Khodary">
+    <dbo:employer rdf:resource="http://dbpedia.org/resource/The_New_York_Times" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Michael_S._Schmidt">
+    <dbo:employer rdf:resource="http://dbpedia.org/resource/The_New_York_Times" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/NYT.com">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/The_New_York_Times" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nyt.com">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/The_New_York_Times" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Maggie_Haberman">
+    <dbo:knownFor rdf:resource="http://dbpedia.org/resource/The_New_York_Times" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Salt_as_Wolves">
+    <dbp:rev rdf:resource="http://dbpedia.org/resource/The_New_York_Times" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Arthur_Gregg_Sulzberger">
+    <dbo:occupation rdf:resource="http://dbpedia.org/resource/The_New_York_Times" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Collective_Sigh">
+    <dbp:rev rdf:resource="http://dbpedia.org/resource/The_New_York_Times" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Newyorktimes">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/The_New_York_Times" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Times_machine">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/The_New_York_Times" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Robert_van_Voren">
+    <dbp:work rdf:resource="http://dbpedia.org/resource/The_New_York_Times" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/New_York_Times_Sports_Blog">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/The_New_York_Times" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/New_York_Time">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/The_New_York_Times" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/New_york_Times">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/The_New_York_Times" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Timesselect">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/The_New_York_Times" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hell&#39;s_Bible">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/The_New_York_Times" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/N._Y._Times">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/The_New_York_Times" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Newyorktimes.com">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/The_New_York_Times" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/New_York_TImes">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/The_New_York_Times" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Treason_Times">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/The_New_York_Times" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Couldn&#39;t_Stand_the_Weather_Tour">
+    <dbp:work rdf:resource="http://dbpedia.org/resource/The_New_York_Times" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Struggle_against_political_abuse_of_psychiatry_in_the_Soviet_Union">
+    <dbp:work rdf:resource="http://dbpedia.org/resource/The_New_York_Times" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_NY_Times">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/The_New_York_Times" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/New_York_Daily_Times">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/The_New_York_Times" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_New_York_Times_Newsroom_Navigator">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/The_New_York_Times" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_New_York_Times_and_the_Holocaust">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/The_New_York_Times" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/New-York_Times">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/The_New_York_Times" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Newyork_Times">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/The_New_York_Times" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Metropolitan_Diary">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/The_New_York_Times" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/New_York_Times&#39;">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/The_New_York_Times" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_New_York_Times&#39;">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/The_New_York_Times" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_New_York_Daily_Times">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/The_New_York_Times" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/The_New_York_Times">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/The_New_York_Times" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/NYtimes">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/The_New_York_Times" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_new_york_times">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/The_New_York_Times" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Times_Machine">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/The_New_York_Times" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_New_York_Times_(New_York)">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/The_New_York_Times" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_New_york_Times">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/The_New_York_Times" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nyti.ms">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/The_New_York_Times" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/New-York_Daily_Times">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/The_New_York_Times" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/New_York_Times_(newspaper)">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/The_New_York_Times" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/New_York_Times_Sunday_Book_Review">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/The_New_York_Times" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_New_York_Times_Sunday_Book_Review">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/The_New_York_Times" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/New_YorkTimes">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/The_New_York_Times" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Local_East_Village">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/The_New_York_Times" />
+  </rdf:Description>
+</rdf:RDF>

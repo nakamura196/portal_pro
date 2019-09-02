@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:dct="http://purl.org/dc/terms/"
+	xmlns:dbo="http://dbpedia.org/ontology/"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	xmlns:prov="http://www.w3.org/ns/prov#"
+	xmlns:georss="http://www.georss.org/georss/"
+	xmlns:dbp="http://dbpedia.org/property/"
+	xmlns:ns10="http://purl.org/linguistics/gold/" >
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Iidamachi_Station">
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Whole100003553" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Object100002684" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatDefunctRailwayStationsInJapan" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Station104306080" />
+    <rdf:type rdf:resource="http://schema.org/Place" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatRailwayStationsInTokyo" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Infrastructure" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatRailwayStationsOpenedIn1895" />
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Facility103315023" />
+    <rdf:type rdf:resource="http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Location" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/RailwayStation104049098" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Place" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/ArchitecturalStructure" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Station" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatRailwayStationsClosedIn1999" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PhysicalEntity100001930" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Artifact100021939" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q719456" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoGeoEntity" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Terminal104412901" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoPermanentlyLocatedEntity" />
+    <rdfs:label xml:lang="en">Iidamachi Station</rdfs:label>
+    <rdfs:label xml:lang="ja">飯田町駅</rdfs:label>
+    <rdfs:comment xml:lang="ja">飯田町駅（いいだまちえき）は、東京都千代田区飯田橋三丁目10にあった日本貨物鉄道（JR貨物）中央本線の貨物駅である。 数少ない高架駅の貨物駅だった。電報略号は「イヒ」。</rdfs:comment>
+    <rdfs:comment xml:lang="en">Iidamachi Station (飯田町駅 Iidamachi-eki) was a railway station on the Chūō Main Line located in Chiyoda, Tokyo, Japan. Iidamachi Station was operated by Kōbu Railway, Japanese Government Railways, Japanese National Railways and Japan Freight Railway Company (JR Freight). Its location was 0.5 km from Suidōbashi Station and 0.4 km from Iidabashi Station. The station was built in 1895 as the terminal of the Kōbu Railway, a predecessor of the present Chūō Main Line. It ceased to serve passengers in 1933, but continued to serve freight until 1997.</rdfs:comment>
+    <owl:sameAs rdf:resource="http://ja.dbpedia.org/resource/飯田町駅" />
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Iidamachi_Station" />
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q5994932" />
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q5994932" />
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.043s1d2" />
+    <owl:sameAs rdf:resource="http://yago-knowledge.org/resource/Iidamachi_Station" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Railway_stations_opened_in_1895" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Chūō_Main_Line" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Railway_stations_closed_in_1999" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Defunct_railway_stations_in_Japan" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Railway_stations_in_Tokyo" />
+    <dbo:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">17142375</dbo:wikiPageID>
+    <dbo:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">699824316</dbo:wikiPageRevisionID>
+    <dbo:wikiPageExternalLink rdf:resource="http://www.i-gardenair.com/" />
+    <dbo:wikiPageExternalLink rdf:resource="http://blog.ekitan.com/kioku/nowthen/iidabashi.html" />
+    <foaf:name xml:lang="en">Iidamachi Station</foaf:name>
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#float">35.7022</geo:lat>
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#float">139.749</geo:long>
+    <foaf:depiction rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Iidamachi_Station_marker.jpg" />
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Iidamachi_Station" />
+    <geo:geometry rdf:datatype="http://www.openlinksw.com/schemas/virtrdf#Geometry">POINT(139.7488861084 35.702220916748)</geo:geometry>
+    <dbo:thumbnail rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Iidamachi_Station_marker.jpg?width=300" />
+    <prov:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Iidamachi_Station?oldid=699824316" />
+    <dbo:abstract xml:lang="en">Iidamachi Station (飯田町駅 Iidamachi-eki) was a railway station on the Chūō Main Line located in Chiyoda, Tokyo, Japan. Iidamachi Station was operated by Kōbu Railway, Japanese Government Railways, Japanese National Railways and Japan Freight Railway Company (JR Freight). Its location was 0.5 km from Suidōbashi Station and 0.4 km from Iidabashi Station. The station was built in 1895 as the terminal of the Kōbu Railway, a predecessor of the present Chūō Main Line. It ceased to serve passengers in 1933, but continued to serve freight until 1997. After the closure, the site of the station was redeveloped and became a business district named I-Garden Air. One of the buildings in the area is the headquarters of JR Freight.</dbo:abstract>
+    <dbo:abstract xml:lang="ja">飯田町駅（いいだまちえき）は、東京都千代田区飯田橋三丁目10にあった日本貨物鉄道（JR貨物）中央本線の貨物駅である。 数少ない高架駅の貨物駅だった。電報略号は「イヒ」。</dbo:abstract>
+    <dbo:address xml:lang="en">Chiyoda,Tokyo</dbo:address>
+    <dbo:closingYear rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1999</dbo:closingYear>
+    <dbo:openingYear rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1895</dbo:openingYear>
+    <dbo:servingRailwayLine rdf:resource="http://dbpedia.org/resource/Chūō_Main_Line" />
+    <georss:point>35.702222222222225 139.7488888888889</georss:point>
+    <dbp:caption rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">&quot;Kōbu Railway Iidamachi Station&quot;.</dbp:caption>
+    <dbp:caption rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Monument for the former station reads</dbp:caption>
+    <dbp:country rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Japan</dbp:country>
+    <dbp:nativeName rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">飯田町駅</dbp:nativeName>
+    <dbp:nativeNameLang rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">ja</dbp:nativeNameLang>
+    <dbp:operator rdf:resource="http://dbpedia.org/resource/Japan_Freight_Railway_Company" />
+    <ns10:hypernym rdf:resource="http://dbpedia.org/resource/Station" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Iidamachi_Station">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Iidamachi_Station" />
+  </rdf:Description>
+</rdf:RDF>

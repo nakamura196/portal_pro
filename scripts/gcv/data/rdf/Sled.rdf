@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:dct="http://purl.org/dc/terms/"
+	xmlns:dbo="http://dbpedia.org/ontology/"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:prov="http://www.w3.org/ns/prov#"
+	xmlns:ns7="http://purl.org/linguistics/gold/" >
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Luge">
+    <dbo:equipment rdf:resource="http://dbpedia.org/resource/Sled" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sledge_Sleigh">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Sled" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sledges">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Sled" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kamotiq">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Sled" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/SLED">
+    <dbo:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/Sled" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sled">
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/MeanOfTransportation" />
+    <rdfs:label xml:lang="fr">Traîneau</rdfs:label>
+    <rdfs:label xml:lang="es">Trineo</rdfs:label>
+    <rdfs:label xml:lang="de">Schlitten</rdfs:label>
+    <rdfs:label xml:lang="ar">مزلجة</rdfs:label>
+    <rdfs:label xml:lang="pl">Sanie</rdfs:label>
+    <rdfs:label xml:lang="pt">Trenó</rdfs:label>
+    <rdfs:label xml:lang="ru">Сани</rdfs:label>
+    <rdfs:label xml:lang="nl">Slee</rdfs:label>
+    <rdfs:label xml:lang="it">Slitta</rdfs:label>
+    <rdfs:label xml:lang="en">Sled</rdfs:label>
+    <rdfs:label xml:lang="ja">ソリ</rdfs:label>
+    <rdfs:comment xml:lang="es">Un trineo es un vehículo con esquíes o cuchillas en lugar de ruedas. Se utiliza como medio de transporte sobre superficies con bajo nivel de fricción tales como nieve o hielo pero cualquier superficie deslizante es adecuada siempre que no esté demasiado seca. En algún caso, los cantos rodados de río o la arena humedecida, pueden ser una superficie apta para poder deslizar los trineos. Con la gravedad como única fuerza de propulsión, un trineo también puede deslizarse colina abajo como objeto de diversión.</rdfs:comment>
+    <rdfs:comment xml:lang="nl">Een slee (of slede) is een voertuig dat kan worden voortgetrokken, door mens of een trekdier, zoals rendieren, paarden en, over een glad oppervlak (meestal sneeuw of ijs). Een slee heeft aan de onderzijde twee evenwijdige glijders (dunne balken meestal voorzien van een ijzeren beschermlaag), waarop het kan glijden.</rdfs:comment>
+    <rdfs:comment xml:lang="pl">Sanie – pojazd zaprzęgowy na płozach, służący do poruszania się po śniegu lub lodzie. Sanie są zazwyczaj ciągnięte przez konie lub ciągniki mechaniczne. Małe sanie używane do zabawy lub sportów zimowych to sanki.</rdfs:comment>
+    <rdfs:comment xml:lang="fr">45xCe modèle est-il pertinent ? Cliquez pour en voir d&#39;autres.Cet article ne cite pas suffisamment ses sources (indiquez la date de pose grâce au paramètre date). Si vous disposez d&#39;ouvrages ou d&#39;articles de référence ou si vous connaissez des sites web de qualité traitant du thème abordé ici, merci de compléter l&#39;article en donnant les références utiles à sa vérifiabilité et en les liant à la section « Notes et références » (modifier l&#39;article, comment ajouter mes sources ?).</rdfs:comment>
+    <rdfs:comment xml:lang="en">(This article is about the vehicle. For other uses, see SLED (disambiguation).)(&quot;Sledge&quot; and &quot;Sleigh&quot; redirect here. For other uses, see Sledge (disambiguation) and Sleigh (disambiguation).)
+A sled, sledge, or sleigh is a land vehicle with a smooth underside or possessing a separate body supported by two or more smooth, relatively narrow, longitudinal runners that travels by sliding across a surface. Most commonly sleds are used on snow or ice, however in certain cases they may be used on any surfaces, especially on ones with relatively low friction, such as sand or wet grass. They may be used to transport passengers, cargo, or both. Shades of meaning differentiating the three terms often reflect regional variations depending on historical uses and prevailing climate.</rdfs:comment>
+    <rdfs:comment xml:lang="de">Ein Schlitten (ahd. slito ‚Gleiter‘) ist ein Kufenfahrzeug, also ein mit Kufen ausgestattetes Landfahrzeug, das für den Transport von Personen und Lasten oder als Sportgerät verwendet wird. Er wird in der Regel zum Transport auf Oberflächen mit geringer Reibung eingesetzt, wie auf Eis, Permafrostboden oder Schnee (Schneefahrzeug), kann aber auch auf nassen Wiesen (Tundra) verwendet werden. Mitunter eignen sich auch runde Flusskiesel oder Sand für den Einsatz eines Schlittens.</rdfs:comment>
+    <rdfs:comment xml:lang="ru">Сани — распространённый тип повозки без колёс, обычно имеют полозья. Сани возят лошади, олени, мулы, быки, собаки.</rdfs:comment>
+    <rdfs:comment xml:lang="ja">ソリ（雪車、橇、雪舟、轌、艝）は、滑りやすい刃や底面を滑走させることにより物体の移動を補助する道具である。英語では小さなものを「sled」、それより大きなものを「sleigh」、そして一番大きなものを「sledge」と呼び分けている。 ソリは雪面や氷上など、摩擦の少ない場所で使われるが、濡らした芝生や人工芝などでも用いることができる。また滑らかに磨き上げた石を敷き詰めた上のように、ある程度滑らかな面の上であれば、用いることができる。</rdfs:comment>
+    <rdfs:comment xml:lang="ar">المِزْلَجة (sled) أو الزلاجة (sledge) أو المزلقة (sleigh) هي مركبة برية ذات جانب سفلي أملس أو ذات هيكل منفصل مدعوم باثنين أو أكثر من نعال الزلاجات الطولية والضيقة نسبيًا والملساء التي تتحرك من خلال الانزلاق فوق سطح ما. وتُستخدم معظم المزلجات على الأسطح ذات الاحتكاك المنخفض، مثل الثلج أو الجليد. وفي بعض الحالات، يمكن استخدام المزلجات على الوحل أو الحشائش أو حتى الصخور الملساء. ويمكن استخدامها في نقل المسافرين أو البضائع أو كليهما. وغالبًا ما تعكس ظلال المعنى التي تميز بين المصطلحات الثلاثة الاختلافات الإقليمية بناءً على الاستخدامات التاريخية والمناخ السائد.</rdfs:comment>
+    <rdfs:comment xml:lang="it">La slitta è un veicolo con dei pattini che scivolano al posto di ruote che girano. Viene utilizzata per il trasporto su superfici a bassa frizione, solitamente neve o ghiaccio ma ogni superficie ingrassata è utilizzabile purché non sia troppo secca. In alcuni casi sassi di fiume possono essere utilizzati per andare in slitta.</rdfs:comment>
+    <rdfs:comment xml:lang="pt">O trenó (do francês traîneau), também designado por tobogã (do algonquiano, através do francês canadense tabagan e do inglês toboggan), é um veículo utilizado para transporte de pessoas e mercadorias sobre o gelo. Pode ter tracção humana, animal ou motorizada.</rdfs:comment>
+    <owl:sameAs rdf:resource="http://fr.dbpedia.org/resource/Traîneau" />
+    <owl:sameAs rdf:resource="http://it.dbpedia.org/resource/Slitta" />
+    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/Schlitten" />
+    <owl:sameAs rdf:resource="http://pt.dbpedia.org/resource/Trenó" />
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q181388" />
+    <owl:sameAs rdf:resource="http://es.dbpedia.org/resource/Trineo" />
+    <owl:sameAs rdf:resource="http://pl.dbpedia.org/resource/Sanie" />
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.0142vg" />
+    <owl:sameAs rdf:resource="http://ja.dbpedia.org/resource/ソリ" />
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Sled" />
+    <owl:sameAs rdf:resource="http://ko.dbpedia.org/resource/썰매" />
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q181388" />
+    <owl:sameAs rdf:resource="http://id.dbpedia.org/resource/Kereta_salju" />
+    <owl:sameAs rdf:resource="http://cs.dbpedia.org/resource/Saně" />
+    <owl:sameAs rdf:resource="http://eu.dbpedia.org/resource/Lera" />
+    <owl:sameAs rdf:resource="http://d-nb.info/gnd/4052737-2" />
+    <owl:sameAs rdf:resource="http://nl.dbpedia.org/resource/Slee" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Sports_equipment" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Animal-powered_vehicles" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Sledding" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Snow" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Sliding_vehicles" />
+    <dbo:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">153862</dbo:wikiPageID>
+    <dbo:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">730418304</dbo:wikiPageRevisionID>
+    <dbo:wikiPageExternalLink rdf:resource="http://www.SledRiding.com/horsedrawnsleighrides.html" />
+    <foaf:depiction rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Uphill_Sleigh_Ride.jpg" />
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Sled" />
+    <dbo:thumbnail rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Uphill_Sleigh_Ride.jpg?width=300" />
+    <prov:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Sled?oldid=730418304" />
+    <dbo:abstract xml:lang="ar">المِزْلَجة (sled) أو الزلاجة (sledge) أو المزلقة (sleigh) هي مركبة برية ذات جانب سفلي أملس أو ذات هيكل منفصل مدعوم باثنين أو أكثر من نعال الزلاجات الطولية والضيقة نسبيًا والملساء التي تتحرك من خلال الانزلاق فوق سطح ما. وتُستخدم معظم المزلجات على الأسطح ذات الاحتكاك المنخفض، مثل الثلج أو الجليد. وفي بعض الحالات، يمكن استخدام المزلجات على الوحل أو الحشائش أو حتى الصخور الملساء. ويمكن استخدامها في نقل المسافرين أو البضائع أو كليهما. وغالبًا ما تعكس ظلال المعنى التي تميز بين المصطلحات الثلاثة الاختلافات الإقليمية بناءً على الاستخدامات التاريخية والمناخ السائد. في بريطانيا، تعد المصطلحات الثلاثة بشكل عام متشابهة للغاية من حيث المعنى، غير أن الزلاجة (sledge) عادةً ما تشير إلى مزلجة أصغر، وتُستخدم غالبًا في نقل البضائع، وهي زلاجة لا يمكنها عمومًا نقل أكثر من شخص أو اثنين مع كمية بضائع محدودة. ويمكن أن الكلاب أو غيرها من الحيوانات الأصغر حجمًا هذه الزلاجات، بالرغم من أنه غالبًا ما تتم الإشارة التباسًا إلى الزلاجة التي يسحبها كلب في الإنجليزية البريطانية باسم مزلجة كلاب (dog-sled). هذا بالإضافة إلى إمكانية الإشارة إلى المزلجة الترفيهية الصغيرة التي يجرها إنسان باسم sledge (زلاجة). وتظل المزلقة (Sleigh) (والتي تُنطق &quot;slay&quot; (سلاي)) في الغالب مرادفًا لكلمة مزلجة (sled) بغض النظر عن قدرتها (وبالمثل في كندا). وفي الاستخدام الأمريكي، لا يزال مصطلحالمزلجة (sled) هو المصطلح العام، ولكنه غالبًا ما يدل على وسيلة أصغر مخصصة للاستخدام الترفيهي. وتشير كلمة الزلاجة (Sledge) إلى مزلجة أثقل تُستخدم في نقل البضائع أو الأشياء كبيرة الحجم (مرادف &quot;مركب الحجارة&quot;)، بينما تشير المزلقة (sleigh) عادةً إلى المركبة المتوسطة إلى كبيرة الحجم والتي تكون مفتوحة السقف غالبًا ومزودة بمقعد أو أكثر للمسافرين، وهي في الأساس بديل في المناخ البارد لـ عربة الجياد أو عربة النقل، والتي عادةً ما تجرها خيول أو (على الأقل في أسطورة بابا نويل أو عند الإشارة إلى إسكندنافيا) حيوان الرنة. في أستراليا، حيث الثلج محدود، يحظى مصطلحا المزلقة والزلاجة بتفضيل متساوٍ في الحديث المحلي.</dbo:abstract>
+    <dbo:abstract xml:lang="ja">ソリ（雪車、橇、雪舟、轌、艝）は、滑りやすい刃や底面を滑走させることにより物体の移動を補助する道具である。英語では小さなものを「sled」、それより大きなものを「sleigh」、そして一番大きなものを「sledge」と呼び分けている。 ソリは雪面や氷上など、摩擦の少ない場所で使われるが、濡らした芝生や人工芝などでも用いることができる。また滑らかに磨き上げた石を敷き詰めた上のように、ある程度滑らかな面の上であれば、用いることができる。</dbo:abstract>
+    <dbo:abstract xml:lang="fr">45xCe modèle est-il pertinent ? Cliquez pour en voir d&#39;autres.Cet article ne cite pas suffisamment ses sources (indiquez la date de pose grâce au paramètre date). Si vous disposez d&#39;ouvrages ou d&#39;articles de référence ou si vous connaissez des sites web de qualité traitant du thème abordé ici, merci de compléter l&#39;article en donnant les références utiles à sa vérifiabilité et en les liant à la section « Notes et références » (modifier l&#39;article, comment ajouter mes sources ?). Le traîneau, ou traineau, désigne un véhicule au sens générique, très souvent sans roues et équipé de patins sous les rebords latéraux de la caisse ou du système de portage, véhicule simplement traîné en utilisant une force motrice animale ou humaine, c&#39;est-à-dire tiré ou tracté, au sens premier du verbe traîner, par un ou plusieurs être(s) vivant(s) attelé(s). Au XVIIIe siècle, avec la mutation des transports (bateaux à voile, chariots attelés) et surtout des équipements et infrastructures (ports, routes modernes) en liaison avec l&#39;essor des industries manufacturières, ce mode de transport s&#39;est raréfié ou cantonné dans des milieux sociaux marginalisés, comme l&#39;atteste à cette époque la perte souvent irrémédiable des vocables et termes spécifiques du traînage en de multiples langues d&#39;Europe occidentale. Le traîneau peut désigner, dans une large acception, tout ensemble traîné par un animal, un attelage ou tiré par un homme, à terre ou sur une surface couvrante, voire sur un rivage ou dans un plan d&#39;eau. Cet ensemble, autrefois nommé train ou traîne, peut être un corps matériel ou la réunion de divers objets tenus en cohésion ou en liaison. Dans des cas précis du débardage de bois, le traîneau peut comporter soit des roues, par l&#39;usage d&#39;un avant-train de char sur lequel est bridé le gros bout de la grume (dont la partie arrière traîne au sol), soit des patins supportant une simple partie avant de traîneau dissociable, sur laquelle est également bridé le bois d&#39;embout.</dbo:abstract>
+    <dbo:abstract xml:lang="en">(This article is about the vehicle. For other uses, see SLED (disambiguation).)(&quot;Sledge&quot; and &quot;Sleigh&quot; redirect here. For other uses, see Sledge (disambiguation) and Sleigh (disambiguation).)
+A sled, sledge, or sleigh is a land vehicle with a smooth underside or possessing a separate body supported by two or more smooth, relatively narrow, longitudinal runners that travels by sliding across a surface. Most commonly sleds are used on snow or ice, however in certain cases they may be used on any surfaces, especially on ones with relatively low friction, such as sand or wet grass. They may be used to transport passengers, cargo, or both. Shades of meaning differentiating the three terms often reflect regional variations depending on historical uses and prevailing climate. In Britain sledge is the general term, and more common than sled. Toboggan is sometimes used synonymously with sledge but more often to refer to a particular type of wooden sledge with two runners. Sleigh refers to a moderate to large-sized, usually open-topped vehicle to carry passengers or goods, and typically drawn by horses or dogs. In Scandinavia particularly a sleigh may also be drawn by reindeer, as for Father Christmas. In American usage sled remains the general term but often implies a smaller device, often for recreational use. Sledge implies a heavier sled used for moving freight or massive objects (syn. &quot;stone boat&quot;). Sleigh refers more specifically than in Britain to a vehicle which is essentially a cold-season alternative to a carriage or wagon and has seating for passengers; what can be called a dog-sleigh in Britain is known only as a dog-sled in North America. In Australia, where there is limited snow, sleigh and sledge are given equal preference in local parlance.</dbo:abstract>
+    <dbo:abstract xml:lang="ru">Сани — распространённый тип повозки без колёс, обычно имеют полозья. Сани возят лошади, олени, мулы, быки, собаки.</dbo:abstract>
+    <dbo:abstract xml:lang="nl">Een slee (of slede) is een voertuig dat kan worden voortgetrokken, door mens of een trekdier, zoals rendieren, paarden en, over een glad oppervlak (meestal sneeuw of ijs). Een slee heeft aan de onderzijde twee evenwijdige glijders (dunne balken meestal voorzien van een ijzeren beschermlaag), waarop het kan glijden.</dbo:abstract>
+    <dbo:abstract xml:lang="it">La slitta è un veicolo con dei pattini che scivolano al posto di ruote che girano. Viene utilizzata per il trasporto su superfici a bassa frizione, solitamente neve o ghiaccio ma ogni superficie ingrassata è utilizzabile purché non sia troppo secca. In alcuni casi sassi di fiume possono essere utilizzati per andare in slitta.</dbo:abstract>
+    <dbo:abstract xml:lang="pt">O trenó (do francês traîneau), também designado por tobogã (do algonquiano, através do francês canadense tabagan e do inglês toboggan), é um veículo utilizado para transporte de pessoas e mercadorias sobre o gelo. Pode ter tracção humana, animal ou motorizada.</dbo:abstract>
+    <dbo:abstract xml:lang="es">Un trineo es un vehículo con esquíes o cuchillas en lugar de ruedas. Se utiliza como medio de transporte sobre superficies con bajo nivel de fricción tales como nieve o hielo pero cualquier superficie deslizante es adecuada siempre que no esté demasiado seca. En algún caso, los cantos rodados de río o la arena humedecida, pueden ser una superficie apta para poder deslizar los trineos. Con la gravedad como única fuerza de propulsión, un trineo también puede deslizarse colina abajo como objeto de diversión. Los trineos pueden ser tirados por animales, generalmente, caballos, mulas, bueyes o perros. También pueden ser empujados o tirados por personas como niños en sus juegos o padres tirando de sus hijos. Los trineos tirados por humanos fueron medios de transporte habituales en las expediciones exploratorias británicas a las regiones árticas y antárticas en el siglo XIX y comienzos del XX. Muchos otros utilizaron grupos de perros como, por ejemplo, Roald Amundsen. Hoy en día algunos viajeros hacen uso de cometas para remolcar trineos en dichas latitudes. 
+*  La palabra trineo procede del francés «traîneau» (siglo XII) formada a partir del verbo «traîner» que significa «arrastrar». 
+*  Una troika es un trineo tirado por tres caballos.  
+*  El trineo ficticio de Santa Claus es tirado por renos voladores. Incorpora pequeños esquíes quizás para aterrizar y despegar.  
+*  El trineo de asfalto o street luge es un trineo en el que las cuchillas se sustituyen por ruedas para descender pendientes asfaltadas.</dbo:abstract>
+    <dbo:abstract xml:lang="pl">Sanie – pojazd zaprzęgowy na płozach, służący do poruszania się po śniegu lub lodzie. Sanie są zazwyczaj ciągnięte przez konie lub ciągniki mechaniczne. Małe sanie używane do zabawy lub sportów zimowych to sanki.</dbo:abstract>
+    <dbo:abstract xml:lang="de">Ein Schlitten (ahd. slito ‚Gleiter‘) ist ein Kufenfahrzeug, also ein mit Kufen ausgestattetes Landfahrzeug, das für den Transport von Personen und Lasten oder als Sportgerät verwendet wird. Er wird in der Regel zum Transport auf Oberflächen mit geringer Reibung eingesetzt, wie auf Eis, Permafrostboden oder Schnee (Schneefahrzeug), kann aber auch auf nassen Wiesen (Tundra) verwendet werden. Mitunter eignen sich auch runde Flusskiesel oder Sand für den Einsatz eines Schlittens. Ein Schlitten gleitet auf geneigtem Gelände aufgrund der Erdanziehungskraft von selbst bergab, wird in der Ebene oder bergauf von Menschen, Zugtieren, Zugmaschinen oder anderen Fahrzeugen gezogen oder er besitzt einen eigenen Antrieb, der meist motorbetrieben ist, wie bei Motorschlitten und Propellerschlitten, aber auch, durch Segel oder Zugdrachen die Windkraft ausnutzen kann.</dbo:abstract>
+    <ns7:hypernym rdf:resource="http://dbpedia.org/resource/Vehicle" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sledge">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Sled" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sleigh">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Sled" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sledged">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Sled" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sledger">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Sled" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sledgers">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Sled" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sleighed">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Sled" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sleighing">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Sled" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sleighs">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Sled" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ice_sledge">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Sled" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sleds">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Sled" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Sled">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Sled" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sled_run">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Sled" />
+  </rdf:Description>
+</rdf:RDF>

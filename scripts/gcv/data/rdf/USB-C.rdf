@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:dbo="http://dbpedia.org/ontology/"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:prov="http://www.w3.org/ns/prov#" >
+  <rdf:Description rdf:about="http://dbpedia.org/resource/USB-C">
+    <rdfs:label xml:lang="en">USB-C</rdfs:label>
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/USB-C" />
+    <dbo:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">43552189</dbo:wikiPageID>
+    <dbo:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">666145512</dbo:wikiPageRevisionID>
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/USB_Type-C" />
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/USB-C" />
+    <prov:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/USB-C?oldid=666145512" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/USB-C">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/USB-C" />
+  </rdf:Description>
+</rdf:RDF>

@@ -1,0 +1,305 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:dct="http://purl.org/dc/terms/"
+	xmlns:dbo="http://dbpedia.org/ontology/"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:prov="http://www.w3.org/ns/prov#"
+	xmlns:dbp="http://dbpedia.org/property/"
+	xmlns:ns8="http://purl.org/linguistics/gold/" >
+  <rdf:Description rdf:about="http://dbpedia.org/resource/IPA_address">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/IP_address" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Autoconfiguration_ip_address">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/IP_address" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/I/P">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/IP_address" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/I/P_address">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/IP_address" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Autoconfiguration_IP_address">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/IP_address" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/IP_location">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/IP_address" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/I.P._address">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/IP_address" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Net_address">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/IP_address" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/IP_Adress">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/IP_address" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Dynamic_IP_addresses">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/IP_address" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Dedicated_IP_address">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/IP_address" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Internet_Protocol_Address">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/IP_address" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ip_addresses">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/IP_address" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/IP_address">
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Rule106652242" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Direction106786629" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Protocol106665108" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/RecordLabel" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Abstraction100002137" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatNetworkLayerProtocols" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Communication100033020" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatInternetProtocols" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Message106598915" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Signal106791372" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Symbol106806469" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatIdentifiers" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Identifier107270601" />
+    <rdfs:label xml:lang="pl">Adres IP</rdfs:label>
+    <rdfs:label xml:lang="es">Dirección IP</rdfs:label>
+    <rdfs:label xml:lang="ja">IPアドレス</rdfs:label>
+    <rdfs:label xml:lang="zh">IP地址</rdfs:label>
+    <rdfs:label xml:lang="ru">IP-адрес</rdfs:label>
+    <rdfs:label xml:lang="nl">IP-adres</rdfs:label>
+    <rdfs:label xml:lang="pt">Endereço IP</rdfs:label>
+    <rdfs:label xml:lang="de">IP-Adresse</rdfs:label>
+    <rdfs:label xml:lang="en">IP address</rdfs:label>
+    <rdfs:label xml:lang="it">Indirizzo IP</rdfs:label>
+    <rdfs:label xml:lang="ar">عنوان آي بي</rdfs:label>
+    <rdfs:label xml:lang="fr">Adresse IP</rdfs:label>
+    <rdfs:comment xml:lang="zh">網際網路協定位址（英语：Internet Protocol Address，又譯為网际协议地址），縮寫為IP地址（IP Address），是分配給網路上使用網際協議的裝置的數字標籤。常見的IP位址分為IPv4與IPv6兩大類。</rdfs:comment>
+    <rdfs:comment xml:lang="pt">Endereço IP, de forma genérica, é uma identificação de um dispositivo (computador, impressora, etc) em uma rede local ou pública. Cada computador na internet possui um IP (Internet Protocol ou Protocolo de internet) único, que é o meio em que as máquinas usam para se comunicarem na Internet. Para um melhor uso dos endereços de equipamentos em rede pelas pessoas, utiliza-se a forma de endereços de domínio, tal como &quot;www.wikipedia.org&quot;. Cada endereço de domínio é convertido em um endereço IP pelo DNS (Domain Name System). Este processo de conversão é conhecido como &quot;resolução de nomes&quot;.</rdfs:comment>
+    <rdfs:comment xml:lang="es">Una dirección IP es un número que identifica, de manera lógica y jerárquica, a una Interfaz en red (elemento de comunicación/conexión) de un dispositivo (computadora, tableta, portátil, smartphone) que utilice el protocolo IP (Internet Protocol), que corresponde al nivel de red del modelo TCP/IP. La dirección IP no debe confundirse con la dirección MAC, que es un identificador de 48 bits para identificar de forma única la tarjeta de red y no depende del protocolo de conexión utilizado ni de la red.</rdfs:comment>
+    <rdfs:comment xml:lang="ar">25بك المحتوى هنا ينقصه الاستشهاد بمصادر. يرجى إيراد مصادر موثوق بها. أي معلومات غير موثقة يمكن التشكيك بها وإزالتها. (مارس 2016) عنوان بروتوكول الإنترنت (بالإنجليزية: IP address) هو المعرف الرقمي لأي جهاز (حاسوب، هاتف محمول، آلة طابعة، موجه) مرتبط بشبكة معلوماتية تعمل بحزمة بروتوكولات الإنترنت، سواء أكانت شبكة محلية أو شبكة الشبكات الإنترنت. يقابل عنوان الآي بي مثلا في شبكات الهاتف رقم الهاتف.</rdfs:comment>
+    <rdfs:comment xml:lang="fr">Une adresse IP (avec IP pour Internet Protocol) est un numéro d&#39;identification qui est attribué de façon permanente ou provisoire à chaque appareil connecté à un réseau informatique utilisant l&#39;Internet Protocol. L&#39;adresse IP est à la base du système d&#39;acheminement (le routage) des messages sur Internet.</rdfs:comment>
+    <rdfs:comment xml:lang="nl">Een IP-adres, waarin IP staat voor Internet Protocol, is een adres waarmee een NIC (network interface card of controller), of in het Nederlands &#39;netwerkkaart&#39;, van een host in een netwerk eenduidig geadresseerd kan worden binnen het TCP/IP-model, de standaard van &quot;het&quot; internet.</rdfs:comment>
+    <rdfs:comment xml:lang="ja">IPアドレス（アイピーアドレス、英: Internet Protocol address）とは、IPにおいてパケットを送受信する機器を判別するための番号である。</rdfs:comment>
+    <rdfs:comment xml:lang="de">Eine IP-Adresse ist eine Adresse in Computernetzen, die – wie das Internet – auf dem Internetprotokoll (IP) basiert. Sie wird Geräten zugewiesen, die an das Netz angebunden sind, und macht die Geräte so adressierbar und damit erreichbar. Die IP-Adresse kann einen einzelnen Empfänger oder eine Gruppe von Empfängern bezeichnen (Multicast, Broadcast). Umgekehrt können einem Computer mehrere IP-Adressen zugeordnet sein.</rdfs:comment>
+    <rdfs:comment xml:lang="ru">IP-адрес (ˌaɪ ˈpiː-адрес; является словообразовательной полукалькой английского IP address, сокращением (буквенной аббревиатурой) от англ. Internet Protocol Address «адрес Интернет-протокола») — уникальный сетевой адрес узла в компьютерной сети, построенной по протоколу IP. В сети Интернет требуется глобальная уникальность адреса; в случае работы в локальной сети требуется уникальность адреса в пределах сети. В версии протокола IPv4 IP-адрес имеет длину 4 байта, а в версии протокола IPv6 IP-адрес имеет длину 16 байт.</rdfs:comment>
+    <rdfs:comment xml:lang="it">Un indirizzo IP (dall&#39;inglese Internet Protocol address) - in informatica e nelle telecomunicazioni - è un&#39;etichetta numerica che identifica univocamente un dispositivo detto host collegato a una rete informatica che utilizza l&#39;Internet Protocol come protocollo di rete.</rdfs:comment>
+    <rdfs:comment xml:lang="pl">Adres IP (ang. IP address) – liczba nadawana interfejsowi sieciowemu, grupie interfejsów (broadcast, multicast), bądź całej sieci komputerowej w protokole IP, służąca identyfikacji elementów sieci w warstwie trzeciej modelu OSI – w obrębie sieci lokalnej oraz poza nią (tzw. adres publiczny). W najpopularniejszej wersji czwartej (IPv4) jest zapisywany zwykle w podziale na oktety zapisywane w systemie dziesiętnym i oddzielane kropkami, rzadziej szesnastkowym bądź dwójkowym (oddzielane dwukropkami bądź spacjami).</rdfs:comment>
+    <rdfs:comment xml:lang="en">An Internet Protocol address (IP address) is a numerical label assigned to each device (e.g., computer, printer) participating in a computer network that uses the Internet Protocol for communication. An IP address serves two principal functions: host or network interface identification and location addressing. Its role has been characterized as follows: &quot;A name indicates what we seek. An address indicates where it is. A route indicates how to get there.&quot;</rdfs:comment>
+    <owl:sameAs rdf:resource="http://eu.dbpedia.org/resource/IP_helbide" />
+    <owl:sameAs rdf:resource="http://cs.dbpedia.org/resource/IP_adresa" />
+    <owl:sameAs rdf:resource="http://es.dbpedia.org/resource/Dirección_IP" />
+    <owl:sameAs rdf:resource="http://el.dbpedia.org/resource/Διεύθυνση_IP" />
+    <owl:sameAs rdf:resource="http://pl.dbpedia.org/resource/Adres_IP" />
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q11135" />
+    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/IP-Adresse" />
+    <owl:sameAs rdf:resource="http://ko.dbpedia.org/resource/IP_주소" />
+    <owl:sameAs rdf:resource="http://fr.dbpedia.org/resource/Adresse_IP" />
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.03vms" />
+    <owl:sameAs rdf:resource="http://id.dbpedia.org/resource/Alamat_IP" />
+    <owl:sameAs rdf:resource="http://ja.dbpedia.org/resource/IPアドレス" />
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q11135" />
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/IP_address" />
+    <owl:sameAs rdf:resource="http://it.dbpedia.org/resource/Indirizzo_IP" />
+    <owl:sameAs rdf:resource="http://nl.dbpedia.org/resource/IP-adres" />
+    <owl:sameAs rdf:resource="http://pt.dbpedia.org/resource/Endereço_IP" />
+    <owl:sameAs rdf:resource="http://yago-knowledge.org/resource/IP_address" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:IP_addresses" />
+    <dbo:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">14921</dbo:wikiPageID>
+    <dbo:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">735318313</dbo:wikiPageRevisionID>
+    <dbo:wikiPageExternalLink rdf:resource="http://www.3com.com/other/pdfs/infra/corpinfo/en_US/501302.pdf" />
+    <foaf:depiction rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Ipv4_address.svg" />
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/IP_address" />
+    <dbo:thumbnail rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Ipv4_address.svg?width=300" />
+    <prov:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/IP_address?oldid=735318313" />
+    <dbo:abstract xml:lang="pl">Adres IP (ang. IP address) – liczba nadawana interfejsowi sieciowemu, grupie interfejsów (broadcast, multicast), bądź całej sieci komputerowej w protokole IP, służąca identyfikacji elementów sieci w warstwie trzeciej modelu OSI – w obrębie sieci lokalnej oraz poza nią (tzw. adres publiczny). Adres IP nie jest &quot;numerem rejestracyjnym&quot; komputera – nie identyfikuje jednoznacznie fizycznego urządzenia – może się dowolnie często zmieniać (np. przy każdym wejściu do sieci Internet) jak również kilka urządzeń może dzielić jeden publiczny adres IP. Ustalenie prawdziwego adresu IP użytkownika, do którego następowała transmisja w danym czasie jest możliwe dla systemu/sieci odpornej na przypadki tzw. IP spoofingu (por. man in the middle, zapora sieciowa, ettercap) – na podstawie historycznych zapisów systemowych. W najpopularniejszej wersji czwartej (IPv4) jest zapisywany zwykle w podziale na oktety zapisywane w systemie dziesiętnym i oddzielane kropkami, rzadziej szesnastkowym bądź dwójkowym (oddzielane dwukropkami bądź spacjami).</dbo:abstract>
+    <dbo:abstract xml:lang="es">Una dirección IP es un número que identifica, de manera lógica y jerárquica, a una Interfaz en red (elemento de comunicación/conexión) de un dispositivo (computadora, tableta, portátil, smartphone) que utilice el protocolo IP (Internet Protocol), que corresponde al nivel de red del modelo TCP/IP. La dirección IP no debe confundirse con la dirección MAC, que es un identificador de 48 bits para identificar de forma única la tarjeta de red y no depende del protocolo de conexión utilizado ni de la red. La dirección IP puede cambiar muy a un condorvall menudo por cambios en la red o porque el dispositivo encargado dentro de la red de asignar las direcciones IP decida asignar otra IP (por ejemplo, con el protocolo DHCP). A esta forma de asignación de dirección IP se denomina también dirección IP dinámica (normalmente abreviado como IP dinámica). Los sitios de Internet que por su naturaleza necesitan estar permanentemente conectados generalmente tienen una dirección IP fija (comúnmente, IP fija o IP estática). Esta no cambia con el tiempo. Los servidores de correo, DNS, FTP públicos y servidores de páginas web necesariamente deben contar con una dirección IP fija o estática, ya que de esta forma se permite su localización en la red. Los dispositivos se conectan entre sí mediante sus respectivas direcciones IP. Sin embargo, para las personas es más fácil recordar un nombre de dominio que los números de la dirección IP. Los servidores de nombres de dominio DNS, &quot;traducen&quot; el nombre de dominio en una dirección IP. Si la dirección IP dinámica cambia, es suficiente actualizar la información en el servidor DNS. El resto de las personas seguirán accediendo al dispositivo por el nombre de dominio.</dbo:abstract>
+    <dbo:abstract xml:lang="nl">Een IP-adres, waarin IP staat voor Internet Protocol, is een adres waarmee een NIC (network interface card of controller), of in het Nederlands &#39;netwerkkaart&#39;, van een host in een netwerk eenduidig geadresseerd kan worden binnen het TCP/IP-model, de standaard van &quot;het&quot; internet. Elke computer die is aangesloten op het internet of netwerk heeft een nummer waarmee deze zichtbaar is voor alle andere computers op het internet. Men kan dit vergelijken met telefoonnummers. Om het mogelijk te maken dat computers elkaar kunnen vinden en identificeren, hebben deze hun eigen nummer nodig. Deze nummers zijn de IP-adressen. Een IP-adres op internet is meestal gekoppeld aan een bedrijf of instantie. Zo is het te achterhalen waar bewerkingen onder een IP-adres vandaan komen. Bij mensen die vanuit huis werken identificeert het IP-adres hun internetprovider. Bijdragen op het internet zijn hierdoor bijna nooit werkelijk anoniem. De persoon achter een IP-adres is in de meeste gevallen te achterhalen, soms direct, maar soms alleen met medewerking van justitie. Deze vraagt vervolgens bij de betreffende provider op wie dat adres op dat moment gebruikte.</dbo:abstract>
+    <dbo:abstract xml:lang="ja">IPアドレス（アイピーアドレス、英: Internet Protocol address）とは、IPにおいてパケットを送受信する機器を判別するための番号である。</dbo:abstract>
+    <dbo:abstract xml:lang="pt">Endereço IP, de forma genérica, é uma identificação de um dispositivo (computador, impressora, etc) em uma rede local ou pública. Cada computador na internet possui um IP (Internet Protocol ou Protocolo de internet) único, que é o meio em que as máquinas usam para se comunicarem na Internet. Para um melhor uso dos endereços de equipamentos em rede pelas pessoas, utiliza-se a forma de endereços de domínio, tal como &quot;www.wikipedia.org&quot;. Cada endereço de domínio é convertido em um endereço IP pelo DNS (Domain Name System). Este processo de conversão é conhecido como &quot;resolução de nomes&quot;.</dbo:abstract>
+    <dbo:abstract xml:lang="zh">網際網路協定位址（英语：Internet Protocol Address，又譯為网际协议地址），縮寫為IP地址（IP Address），是分配給網路上使用網際協議的裝置的數字標籤。常見的IP位址分為IPv4與IPv6兩大類。</dbo:abstract>
+    <dbo:abstract xml:lang="de">Eine IP-Adresse ist eine Adresse in Computernetzen, die – wie das Internet – auf dem Internetprotokoll (IP) basiert. Sie wird Geräten zugewiesen, die an das Netz angebunden sind, und macht die Geräte so adressierbar und damit erreichbar. Die IP-Adresse kann einen einzelnen Empfänger oder eine Gruppe von Empfängern bezeichnen (Multicast, Broadcast). Umgekehrt können einem Computer mehrere IP-Adressen zugeordnet sein. Die IP-Adresse wird verwendet, um Daten von ihrem Absender zum vorgesehenen Empfänger transportieren zu können. Ähnlich der Postanschrift auf einem Briefumschlag werden Datenpakete mit einer IP-Adresse versehen, die den Empfänger eindeutig identifiziert. Aufgrund dieser Adresse können die „Poststellen“, die Router, entscheiden, in welche Richtung das Paket weitertransportiert werden soll. Im Gegensatz zu Postadressen sind IP-Adressen nicht an einen bestimmten Ort gebunden. Die bekannteste Notation der heute geläufigen IPv4-Adressen besteht aus vier Zahlen, die Werte von 0 bis 255 annehmen können und mit einem Punkt getrennt werden, beispielsweise 192.0.2.42. Technisch gesehen ist die Adresse eine 32-stellige (IPv4) oder 128-stellige (IPv6) Binärzahl.</dbo:abstract>
+    <dbo:abstract xml:lang="en">An Internet Protocol address (IP address) is a numerical label assigned to each device (e.g., computer, printer) participating in a computer network that uses the Internet Protocol for communication. An IP address serves two principal functions: host or network interface identification and location addressing. Its role has been characterized as follows: &quot;A name indicates what we seek. An address indicates where it is. A route indicates how to get there.&quot; The designers of the Internet Protocol defined an IP address as a 32-bit number and this system, known as Internet Protocol Version 4 (IPv4), is still in use today. However, because of the growth of the Internet and the predicted depletion of available addresses, a new version of IP (IPv6), using 128 bits for the address, was developed in 1995. IPv6 was standardized as  in 1998, and its deployment has been ongoing since the mid-2000s. IP addresses are usually written and displayed in human-readable notations, such as 172.16.254.1 (IPv4), and 2001:db8:0:1234:0:567:8:1 (IPv6). The Internet Assigned Numbers Authority (IANA) manages the IP address space allocations globally and delegates five regional Internet registries (RIRs) to allocate IP address blocks to local Internet registries (Internet service providers) and other entities.</dbo:abstract>
+    <dbo:abstract xml:lang="it">Un indirizzo IP (dall&#39;inglese Internet Protocol address) - in informatica e nelle telecomunicazioni - è un&#39;etichetta numerica che identifica univocamente un dispositivo detto host collegato a una rete informatica che utilizza l&#39;Internet Protocol come protocollo di rete. Assolve essenzialmente a due funzioni: identificare un dispositivo sulla rete e di conseguenza fornire il percorso per essere raggiunto da un altro terminale o dispositivo di rete in una comunicazione dati a pacchetto. L&#39;indirizzo IP viene assegnato a una interfaccia (ad esempio una scheda di rete) che identifica l&#39;host di rete, che può essere un personal computer, un palmare, uno smartphone, un router, o anche un elettrodomestico. Va considerato, infatti, che un host può contenere più di una interfaccia: ad esempio, un router ha diverse interfacce (minimo due) per ognuna delle quali occorre un indirizzo IP.</dbo:abstract>
+    <dbo:abstract xml:lang="ar">25بك المحتوى هنا ينقصه الاستشهاد بمصادر. يرجى إيراد مصادر موثوق بها. أي معلومات غير موثقة يمكن التشكيك بها وإزالتها. (مارس 2016) عنوان بروتوكول الإنترنت (بالإنجليزية: IP address) هو المعرف الرقمي لأي جهاز (حاسوب، هاتف محمول، آلة طابعة، موجه) مرتبط بشبكة معلوماتية تعمل بحزمة بروتوكولات الإنترنت، سواء أكانت شبكة محلية أو شبكة الشبكات الإنترنت. يقابل عنوان الآي بي مثلا في شبكات الهاتف رقم الهاتف. في الوقت الحالي يوجد إصدارين لعناوين بروتوكول الإنترنت، الإصدار الرابع (وهو الأكثر شيوعا) والإصدار السادس. عنوان الآي بي في الإصدار الرابع يخزن على 32 بت(أي 4 بايت) ويكتب على شكل 4 ارقام (من 0 إلى 255) تفصلها نقاط (مثلا 10.20.30.1) في حين أن عنوان الإصدار السادس يخزن على 128 بت (أي 16 بايت) ويكتب على شكل 8 مجموعات من 16 بت (بترميز الأساس 16) يفصل بينها الرمز : (مثال - 1fff:0000:0a88:85a3:0000:0000:ac1f:8001).</dbo:abstract>
+    <dbo:abstract xml:lang="ru">IP-адрес (ˌaɪ ˈpiː-адрес; является словообразовательной полукалькой английского IP address, сокращением (буквенной аббревиатурой) от англ. Internet Protocol Address «адрес Интернет-протокола») — уникальный сетевой адрес узла в компьютерной сети, построенной по протоколу IP. В сети Интернет требуется глобальная уникальность адреса; в случае работы в локальной сети требуется уникальность адреса в пределах сети. В версии протокола IPv4 IP-адрес имеет длину 4 байта, а в версии протокола IPv6 IP-адрес имеет длину 16 байт.</dbo:abstract>
+    <dbo:abstract xml:lang="fr">Une adresse IP (avec IP pour Internet Protocol) est un numéro d&#39;identification qui est attribué de façon permanente ou provisoire à chaque appareil connecté à un réseau informatique utilisant l&#39;Internet Protocol. L&#39;adresse IP est à la base du système d&#39;acheminement (le routage) des messages sur Internet. Il existe des adresses IP de version 4 (sur 32 bits, soit 4 octets) et de version 6 (sur 128 bits, soit 16 octets). La version 4 est actuellement la plus utilisée : elle est généralement représentée en notation décimale avec quatre nombres compris entre 0 et 255, séparés par des points, ce qui donne par exemple : 172.16.254.1 (l&#39;adresse qui figure sur l&#39;image ci-dessous). Les plages d&#39;adresses IPv4 étant proches de la saturation, les opérateurs incitent à la transition d&#39;IPv4 vers IPv6</dbo:abstract>
+    <dbp:bot rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">medic</dbp:bot>
+    <dbp:date rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">August 2016</dbp:date>
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Label" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/IP_Address">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/IP_address" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/IP_addresss">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/IP_address" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/IP_number">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/IP_address" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Dynamic_IP">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/IP_address" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Dynamic_IP_address">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/IP_address" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Dynamic_ip">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/IP_address" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Dynamic_ip_address">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/IP_address" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Static_IP_address">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/IP_address" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Internet_Address">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/IP_address" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/IP_mapping">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/IP_address" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/IP_address_conflict">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/IP_address" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Address">
+    <dbo:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/IP_address" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/IP">
+    <dbo:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/IP_address" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/IP_Code">
+    <owl:differentFrom rdf:resource="http://dbpedia.org/resource/IP_address" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Internet_Protocol_address">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/IP_address" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Internet_protocol_address">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/IP_address" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Server_address">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/IP_address" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/IP_addressing">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/IP_address" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/IP_adress">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/IP_address" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Internet_address">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/IP_address" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/IP_Addressing">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/IP_address" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Static_ip_address">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/IP_address" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Shared_IP_address">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/IP_address" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ip_address">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/IP_address" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/IP_addresses">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/IP_address" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Static_IP">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/IP_address" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/IP地址">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/IP_address" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Public_IP">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/IP_address" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Internet_protocol_Address">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/IP_address" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sticky_dynamic_IP_address">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/IP_address" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sticky_ip">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/IP_address" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/IP-Address">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/IP_address" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Dedicated_IP">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/IP_address" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/IPDi_Zhi">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/IP_address" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Address_autoconfiguration">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/IP_address" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Public_IP_Address">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/IP_address" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Public_IP_address">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/IP_address" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/I._P._address">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/IP_address" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Network_prefix">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/IP_address" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ip_number">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/IP_address" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sticky_IP">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/IP_address" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Dynamic_ip_range">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/IP_address" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Inet_address">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/IP_address" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/IPLocation">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/IP_address" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/IPaddress">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/IP_address" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/IP_address">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/IP_address" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/I.P._Addresses">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/IP_address" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/IP_Addresses">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/IP_address" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Internet_Protocol_Addresses">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/IP_address" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sticky_dynamic_IP">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/IP_address" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Shared_IP">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/IP_address" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Static_IP_addresses">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/IP_address" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/IP_Address_Conflict">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/IP_address" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/IP_Address_conflict">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/IP_address" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/IP_address_Conflict">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/IP_address" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ip_address_conflict">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/IP_address" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/IP_add">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/IP_address" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Dynamic_IPs">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/IP_address" />
+  </rdf:Description>
+</rdf:RDF>

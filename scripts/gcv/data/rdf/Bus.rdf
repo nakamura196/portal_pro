@@ -1,0 +1,2394 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:dct="http://purl.org/dc/terms/"
+	xmlns:dbo="http://dbpedia.org/ontology/"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:prov="http://www.w3.org/ns/prov#"
+	xmlns:dbp="http://dbpedia.org/property/"
+	xmlns:ns8="http://purl.org/linguistics/gold/" >
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Toronto_Transit_Commission">
+    <dbo:type rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Fiat_Ferroviaria">
+    <dbo:product rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Galloway_European">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mudan_Auto">
+    <dbo:product rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Computer_Automated_Measurement_and_Control">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Durham_Travel_Services">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/GM_New_Look_bus">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/MASA_(company)">
+    <dbo:product rdf:resource="http://dbpedia.org/resource/Bus" />
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Koreatomy">
+    <dbo:product rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Azienda_Trasporti_Milanesi">
+    <dbo:service rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Citibus_(Lubbock)">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Munro&#39;s_of_Jedburgh">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Rouyn-Noranda_public_transit">
+    <dbp:serviceType rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/SEPTA_Route_79">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/South_West_Coach_Lines">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Town_Link">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Neobus_(Serbia)">
+    <dbo:product rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/HP-IL">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/School_bus">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Escondido_Transit_Center">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/TURBOchannel">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nissan_Diesel_RN">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nissan_Diesel_UA">
+    <dbo:class rdf:resource="http://dbpedia.org/resource/Bus" />
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Carris">
+    <dbo:type rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Las_Vegas_Transit">
+    <dbo:type rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/MAN_Lion&#39;s_City">
+    <dbo:class rdf:resource="http://dbpedia.org/resource/Bus" />
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Scania_N-series">
+    <dbo:class rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Albion_Aberdonian">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Moss_Motor_Tours">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/IEBus">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Western_Welsh">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Fiat_306">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/I-2K">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/FBus">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Fuel_cell_bus">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Autobuses">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bus-load">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bus-loads">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bus_load">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bus_loads">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bused">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Busing_(transportation)">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Busload">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Busloads">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bussed">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Serial_Input/Output_eXchange">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/🚌">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/🚍">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Blackpool_Transport">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/EvoBus">
+    <dbo:product rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Imperial_Buses">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Iveco_Bus">
+    <dbo:product rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ottawa_Central_Station">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Stansted_Transit">
+    <dbp:serviceType rdf:resource="http://dbpedia.org/resource/Bus" />
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Buses_in_Sydney">
+    <dbo:type rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Champion_Bus_Incorporated">
+    <dbo:product rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Forest_Coach_Lines">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Fosen_Trafikklag">
+    <dbo:product rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Fukui_Railway">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hurtigruten_AS">
+    <dbo:product rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Isuzu_(Anadolu)">
+    <dbo:product rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jonckheere">
+    <dbo:product rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/King_Long">
+    <dbo:product rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Melbourne_Bus_Link">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/NTS_ASA">
+    <dbo:product rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Newcastle_Buses_&amp;_Ferries">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Red_Rose_Transit_Authority">
+    <dbp:serviceType rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Saracakis">
+    <dbo:product rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Stagecoach_Sheffield">
+    <dbp:serviceType rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Stagecoach_Yorkshire">
+    <dbp:serviceType rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Transborder_Express">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/TrønderBilene">
+    <dbo:product rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Geneva_Public_Transport">
+    <dbo:type rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lai_Chi_Kok_Station">
+    <dbp:connections rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/CompactPCI">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Maxbus">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/XIO">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Dual-mode_bus">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Spacebus">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Busses">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Grey-Green">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Isuzu_C">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Leyland-DAB_articulated_bus">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nissan_Diesel_Space_Runner_7">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sunray_Travel">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yelloway_Motor_Services">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Blue_Bird_TC/2000">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Management_Data_Input/Output">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kia_Combi">
+    <dbo:bodyStyle rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Blue_Bird_Micro_Bird">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tata_Globus">
+    <dbo:class rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Transportation_in_Visalia">
+    <dbo:type rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tata_Marcopolo">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vince_&amp;_Son">
+    <dbo:product rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Impera">
+    <dbp:serviceType rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Inter_City_Bus_Terminal,_Hyderabad">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Play_bus">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/List_of_school_bus_manufacturers">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Carrosserie_Hess">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/East_Lancs_Greenway">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Eastern_Coach_Works">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/GSC_bus">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Leyland_Comet">
+    <dbo:bodyStyle rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Leyland_Tiger">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Leyland_Tiger_(front-engined)">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lightning_(connector)">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/MTL_(transport_company)">
+    <dbo:product rdf:resource="http://dbpedia.org/resource/Bus" />
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Manufacturing_Commercial_Vehicles">
+    <dbo:product rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Niagara_Frontier_Transportation_Authority">
+    <dbo:type rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Riga_Autobus_Factory">
+    <dbo:product rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/SMRT_Corporation">
+    <dbo:product rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/System_Management_Bus">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Thomas_Vista">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Toyota_Coaster">
+    <dbo:class rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/USP_(Victoria)">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hino_Motors">
+    <dbo:product rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Patt_Junction_Bus_bombing">
+    <dbp:target rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Valley_Metro">
+    <dbo:type rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Wiener_Linien">
+    <dbo:type rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Central_Bus_Station,_Tiruchirappalli">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Commercial_Standard_Digital_Bus">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lishan_Bus">
+    <dbo:product rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Seddon_Pennine_7">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Seddon_Pennine_RU">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Simonds_of_Botesdale">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Wright_Gemini_2">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Apache_ServiceMix">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Büssing">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/DAF_SB220">
+    <dbo:class rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Transportation_in_New_York">
+    <dbo:type rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Rapid_bus_routes_in_Sydney">
+    <dbo:type rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Renault_PR100.3">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Wright_Electrocity">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Asus_Media_Bus">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/MAN_NG272">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/MAN_NG272(2)">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/MAN_NL202">
+    <dbo:bodyStyle rdf:resource="http://dbpedia.org/resource/Bus" />
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Optare_Rapta">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lancia_Jota">
+    <dbp:type rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/History_of_the_PTE_bus_operations">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Route_48_(MTA_Maryland)">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bus">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/MeanOfTransportation" />
+    <rdfs:label xml:lang="pl">Autobus</rdfs:label>
+    <rdfs:label xml:lang="ja">バス (交通機関)</rdfs:label>
+    <rdfs:label xml:lang="es">Autobús</rdfs:label>
+    <rdfs:label xml:lang="ru">Автобус</rdfs:label>
+    <rdfs:label xml:lang="ar">حافلة</rdfs:label>
+    <rdfs:label xml:lang="de">Omnibus</rdfs:label>
+    <rdfs:label xml:lang="zh">公共汽車</rdfs:label>
+    <rdfs:label xml:lang="fr">Autobus</rdfs:label>
+    <rdfs:label xml:lang="nl">Autobus</rdfs:label>
+    <rdfs:label xml:lang="it">Autobus</rdfs:label>
+    <rdfs:label xml:lang="en">Bus</rdfs:label>
+    <rdfs:label xml:lang="pt">Ônibus</rdfs:label>
+    <rdfs:comment xml:lang="ja">バス(bus)は、大量の旅客輸送を目的に設計された乗り物である。 最も一般的なバスは1階建てバスのリジッド・バスであり、より大規模な積載人数の2階建てバス及び連節バス、より小規模な積載人数のミディバス及びマイクロバス、長距離サービスにはコーチ (バス)が用いられる。 都市交通バス及び都市間バスのように、多くの種類のバスが料金を設定する。一方、小学校及び中学校のスクールバス又は中等後教育キャンパスのシャトルバスは料金を設定しない。多くの法域において、バスの運転士になるには通常の運転免許に加え、特別な免許が要件とされる。</rdfs:comment>
+    <rdfs:comment xml:lang="de">Ein Omnibus (lat. omnibus „allen“ bzw. „für alle“, Dativ Plural von omnis), kurz Bus, ist ein großes Straßenfahrzeug, das der Beförderung zahlreicher Personen dient, z. B. im öffentlichen Personennahverkehr. In der Europäischen Union gelten gemäß Anhang II der Richtlinie 70/156/EWG motorisch angetriebene Landfahrzeuge der Klassen M2 oder M3 mit mehr als acht Sitzplätzen neben dem Fahrersitz amtlich als Kraftomnibus (KOM) und sind Kraftfahrzeuge. In der Schweiz werden Motorfahrzeuge der Klasse M2 über 3,50 t oder M3 gemäß VTS Art. 11 Abs. 2b als Gesellschaftswagen bezeichnet.</rdfs:comment>
+    <rdfs:comment xml:lang="ru">Авто́бус (сокращение от автомобиль-омнибус) — безрельсовое механическое транспортное средство, предназначенное для перевозки 9-ти и более пассажиров, и приводимое в движение энергией, запасённой, или производимой из топлива, хранящегося на борту, или с любым другим видом автономной тяги. (Автобус в традиционном понимании.) В более широком смысле (и технически) автобус — любое безрельсовое самоходное (то есть моторное) транспортное средство, технически предназначенное для перевозки пассажиров и способное (в отличие от трамвая и др. направляемых видов пассажирского транспорта) маневрировать на дороге (в частности: перестраиваться из одного ряда движения в другой, объезжать встреченное по ходу движения препятствие или развернуться в любой точке маршрута). При этом неважно использует автобус б</rdfs:comment>
+    <rdfs:comment xml:lang="es">El autobús, bus, ruta, colectivo, bondi, guagua, micro u ómnibus (véase la sección Regionalismos) son los nombres más comunes del vehículo diseñado para transportar numerosas personas mediante vías urbanas. Generalmente es usado en los servicios de transporte público urbano e interurbano,y con trayecto fijo. Su capacidad puede variar entre 10 y 120 pasajeros. En sistemas de autobús de tránsito rápido, la capacidad de los buses puede variar entre 160 y 240 pasajeros.</rdfs:comment>
+    <rdfs:comment xml:lang="ar">25بك المحتوى هنا ينقصه الاستشهاد بمصادر. يرجى إيراد مصادر موثوق بها. أي معلومات غير موثقة يمكن التشكيك بها وإزالتها. (فبراير 2016) الحافلة هي وسيلة نقل للركاب.يصمم أصحاب المصانع الحافلات بأحجام مختلفة وذلك تبعا لعدد الركاب الذي يجب حمله. فتحتوي بعض الحافلات على عدد قليل من المقاعد التي تكفي لجلوس ثمانية ركاب فقـط، بينما تتسع حافلات أخرى لأعداد كبيرة من الركاب، يصل إلى 70 راكبا، مع متسعٍ لوقوف عدد آخر من الركاب.</rdfs:comment>
+    <rdfs:comment xml:lang="nl">Een autobus is een motorvoertuig dat geschikt is voor het vervoer van meer dan acht personen.</rdfs:comment>
+    <rdfs:comment xml:lang="it">L&#39;autobus è un veicolo automotore che trasporta esclusivamente persone, anche con bagagli personali. Il termine è composto da due parti: una, &quot;bus&quot;, dal latino omnibus = &quot;per tutti&quot;, l&#39;altra, &quot;auto&quot;, a sua volta contrazione di autovettura..</rdfs:comment>
+    <rdfs:comment xml:lang="zh">公共汽车是一種以中型或大型汽車（大客車／巴士）作為運送手段，以運輸大量乘客的的大眾運輸服務。</rdfs:comment>
+    <rdfs:comment xml:lang="en">A bus (archaically also omnibus, multibus, motorbus) is a road vehicle designed to carry many passengers. Buses can have a capacity as high as 300 passengers. The most common type of bus is the single-decker rigid bus, with larger loads carried by double-decker and articulated buses, and smaller loads carried by midibuses and minibuses; coaches are used for longer-distance services. Many types of buses, such as city transit buses and inter-city coaches, charge a fare. Other types, such as elementary or secondary school buses or shuttle buses within a post-secondary education campus do not charge a fare. In many jurisdictions, bus drivers require a special licence above and beyond a regular driver&#39;s licence.</rdfs:comment>
+    <rdfs:comment xml:lang="pt">Um ônibus (português brasileiro) ou autocarro (português europeu), machimbombo (português angolano e moçambicano), toca-toca(português cabo-verdiano), otocarro (português guineense e são-tomense) ou microlete (português timorense) é um veículo de grandes dimensões que tem como principal função o transporte de passageiros.</rdfs:comment>
+    <rdfs:comment xml:lang="fr">Un autobus (ou par aphérèse, bus), est un véhicule automobile de transport en commun de voyageurs en zone urbaine.</rdfs:comment>
+    <rdfs:comment xml:lang="pl">Autobus – pojazd samochodowy przeznaczony do przewozu większej liczby pasażerów. Według polskiej ustawy „prawo o ruchu drogowym” pojazd ten przystosowany jest do przewozu więcej niż 9 osób (w tym kierowcy). Według definicji Europejskiej Komisji Gospodarczej, Eurostatu i Międzynarodowego Forum Transportu jest to pasażerski mechaniczny pojazd drogowy przeznaczony do przewozu więcej niż 24 osób (wliczając kierowcę) i posiadający zarówno miejsca siedzące, jak i stojące.</rdfs:comment>
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q5638" />
+    <owl:sameAs rdf:resource="http://ko.dbpedia.org/resource/버스" />
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Bus" />
+    <owl:sameAs rdf:resource="http://ja.dbpedia.org/resource/バス_(交通機関)" />
+    <owl:sameAs rdf:resource="http://cs.dbpedia.org/resource/Autobus" />
+    <owl:sameAs rdf:resource="http://nl.dbpedia.org/resource/Autobus" />
+    <owl:sameAs rdf:resource="http://fr.dbpedia.org/resource/Autobus" />
+    <owl:sameAs rdf:resource="http://es.dbpedia.org/resource/Autobús" />
+    <owl:sameAs rdf:resource="http://el.dbpedia.org/resource/Λεωφορείο" />
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q5638" />
+    <owl:sameAs rdf:resource="http://pt.dbpedia.org/resource/Ônibus" />
+    <owl:sameAs rdf:resource="http://id.dbpedia.org/resource/Bus" />
+    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/Omnibus" />
+    <owl:sameAs rdf:resource="http://it.dbpedia.org/resource/Autobus" />
+    <owl:sameAs rdf:resource="http://d-nb.info/gnd/4043533-7" />
+    <owl:sameAs rdf:resource="http://eu.dbpedia.org/resource/Autobus" />
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.01bjv" />
+    <owl:sameAs rdf:resource="http://pl.dbpedia.org/resource/Autobus" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:French_inventions" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Bus_transport" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Buses" />
+    <dbo:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4146</dbo:wikiPageID>
+    <dbo:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">743676462</dbo:wikiPageRevisionID>
+    <dbo:wikiPageExternalLink rdf:resource="http://www.buses.org" />
+    <foaf:depiction rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Arriva_T6_nearside.JPG" />
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Bus" />
+    <dbo:thumbnail rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Arriva_T6_nearside.JPG?width=300" />
+    <prov:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Bus?oldid=743676462" />
+    <dbo:abstract xml:lang="it">L&#39;autobus è un veicolo automotore che trasporta esclusivamente persone, anche con bagagli personali. Il termine è composto da due parti: una, &quot;bus&quot;, dal latino omnibus = &quot;per tutti&quot;, l&#39;altra, &quot;auto&quot;, a sua volta contrazione di autovettura..</dbo:abstract>
+    <dbo:abstract xml:lang="nl">Een autobus is een motorvoertuig dat geschikt is voor het vervoer van meer dan acht personen.</dbo:abstract>
+    <dbo:abstract xml:lang="de">Ein Omnibus (lat. omnibus „allen“ bzw. „für alle“, Dativ Plural von omnis), kurz Bus, ist ein großes Straßenfahrzeug, das der Beförderung zahlreicher Personen dient, z. B. im öffentlichen Personennahverkehr. In der Europäischen Union gelten gemäß Anhang II der Richtlinie 70/156/EWG motorisch angetriebene Landfahrzeuge der Klassen M2 oder M3 mit mehr als acht Sitzplätzen neben dem Fahrersitz amtlich als Kraftomnibus (KOM) und sind Kraftfahrzeuge. In der Schweiz werden Motorfahrzeuge der Klasse M2 über 3,50 t oder M3 gemäß VTS Art. 11 Abs. 2b als Gesellschaftswagen bezeichnet. In Österreich und der Schweiz werden sie umgangssprachlich meist als Autobus bezeichnet. Reisebusse werden in der Schweiz mit dem französischen Wort Car oder Reisecar, seltener auch Autocar bezeichnet. Eng mit dem Omnibus verwandt ist der Oberleitungsbus beziehungsweise Trolleybus, der jedoch aufgrund seiner Abhängigkeit von einer Fahrleitung eine Sonderstellung einnimmt. Weil er ähnlich einer Straßenbahn an eine feste Infrastruktur gebunden ist, gelten für ihn in einigen Ländern besondere gesetzliche Regelungen.</dbo:abstract>
+    <dbo:abstract xml:lang="pt">Um ônibus (português brasileiro) ou autocarro (português europeu), machimbombo (português angolano e moçambicano), toca-toca(português cabo-verdiano), otocarro (português guineense e são-tomense) ou microlete (português timorense) é um veículo de grandes dimensões que tem como principal função o transporte de passageiros.</dbo:abstract>
+    <dbo:abstract xml:lang="fr">Un autobus (ou par aphérèse, bus), est un véhicule automobile de transport en commun de voyageurs en zone urbaine.</dbo:abstract>
+    <dbo:abstract xml:lang="en">A bus (archaically also omnibus, multibus, motorbus) is a road vehicle designed to carry many passengers. Buses can have a capacity as high as 300 passengers. The most common type of bus is the single-decker rigid bus, with larger loads carried by double-decker and articulated buses, and smaller loads carried by midibuses and minibuses; coaches are used for longer-distance services. Many types of buses, such as city transit buses and inter-city coaches, charge a fare. Other types, such as elementary or secondary school buses or shuttle buses within a post-secondary education campus do not charge a fare. In many jurisdictions, bus drivers require a special licence above and beyond a regular driver&#39;s licence. Buses may be used for scheduled bus transport, scheduled coach transport, school transport, private hire, or tourism; promotional buses may be used for political campaigns and others are privately operated for a wide range of purposes, including rock and pop band tour vehicles. Horse-drawn buses were used from the 1820s, followed by steam buses in the 1830s, and electric trolleybuses in 1882.The first internal combustion engine buses, or motor buses, were used in 1895. Recently, interest has been growing in hybrid electric buses, fuel cell buses, and electric buses, as well as ones powered by compressed natural gas or biodiesel. As of the 2010s, bus manufacturing is increasingly globalised, with the same designs appearing around the world.</dbo:abstract>
+    <dbo:abstract xml:lang="zh">公共汽车是一種以中型或大型汽車（大客車／巴士）作為運送手段，以運輸大量乘客的的大眾運輸服務。</dbo:abstract>
+    <dbo:abstract xml:lang="ar">25بك المحتوى هنا ينقصه الاستشهاد بمصادر. يرجى إيراد مصادر موثوق بها. أي معلومات غير موثقة يمكن التشكيك بها وإزالتها. (فبراير 2016) الحافلة هي وسيلة نقل للركاب.يصمم أصحاب المصانع الحافلات بأحجام مختلفة وذلك تبعا لعدد الركاب الذي يجب حمله. فتحتوي بعض الحافلات على عدد قليل من المقاعد التي تكفي لجلوس ثمانية ركاب فقـط، بينما تتسع حافلات أخرى لأعداد كبيرة من الركاب، يصل إلى 70 راكبا، مع متسعٍ لوقوف عدد آخر من الركاب. تسير معظم الحافلات بزيت الديزل أو البنزين. وتسير بعض الحافلات التي تعرف بالترولي بالكهرباء التي تؤخذ من أسلاك علوية فوق المركبة. وبعض الحافلات ذات مفاصل مترابطة، أي أنها تحتوي على قسمين متصلين بغطاء مرن.</dbo:abstract>
+    <dbo:abstract xml:lang="ru">Авто́бус (сокращение от автомобиль-омнибус) — безрельсовое механическое транспортное средство, предназначенное для перевозки 9-ти и более пассажиров, и приводимое в движение энергией, запасённой, или производимой из топлива, хранящегося на борту, или с любым другим видом автономной тяги. (Автобус в традиционном понимании.) В более широком смысле (и технически) автобус — любое безрельсовое самоходное (то есть моторное) транспортное средство, технически предназначенное для перевозки пассажиров и способное (в отличие от трамвая и др. направляемых видов пассажирского транспорта) маневрировать на дороге (в частности: перестраиваться из одного ряда движения в другой, объезжать встреченное по ходу движения препятствие или развернуться в любой точке маршрута). При этом неважно использует автобус бортовой источник энергии (автобус в традиционном понимании: аккумуляторные, суперкондесаторные, дизельные, газотопливные автобусы и автобусы на топливных элементах), или питаются энергией извне через контактную сеть (провода или токоведущая шина) (троллейбусы), или используют гибридную систему питания (троллейбусы с системами автономного хода, дуобусы). В частности троллейбус питающийся электроэнергией через контактную сеть тем не менее обладает многими качествами автобуса: самоходность, безрельсовый ход, маневренность (в том числе: способность перестраиваться из одного ряда движения в другой и, следовательно, объезжать препятствия). То есть троллейбус вполне можно считать особой разновидностью автобуса. (Конечно многие троллейбусы обладают меньшей чем обычный — полностью автономный — автобус маневренностью. Ограничивающим фактором в данном случае является длина токосъемных штанг. Также обрыв проводов контактной сети способен блокировать движение на целом сегменте троллейбусной сети. Но современные троллейбусы, оснащаемые системами автономного хода и системами автоподъема-автоопускания токосъемных штанг, сохраняя достоинства троллейбуса практически уже ни в чем не уступают обычному автобусу в маневренности и способны пройти до 1-3 км на автономном ходу. В частности это позволяет такому троллейбусу благополучно объезжать препятствия с опущенными токосъемными штангами, если это невозможно сделать с поднятыми токосъемными штангами. Также такой троллейбус нечувствителен к обрывам проводов контактной сети, и способен подобно обычному автобусу совершать короткие объезды участков линий, по которым движение по какой-то причине (например из-за ремонта дороги) невозможно. Далее конечно, об автобусах рассказывается в основном в традиционном понимании термина «автобус». О троллейбусах см статью «Троллейбус».) Автобусы длиной менее 5,5 метров называются микроавтобусами (по российской классификации — автобусы особо малого класса), в остальном мире к микроавтобусам относят автобусы и минивэны вместимостью от 9 до 16 пассажиров.</dbo:abstract>
+    <dbo:abstract xml:lang="pl">Autobus – pojazd samochodowy przeznaczony do przewozu większej liczby pasażerów. Według polskiej ustawy „prawo o ruchu drogowym” pojazd ten przystosowany jest do przewozu więcej niż 9 osób (w tym kierowcy). Według definicji Europejskiej Komisji Gospodarczej, Eurostatu i Międzynarodowego Forum Transportu jest to pasażerski mechaniczny pojazd drogowy przeznaczony do przewozu więcej niż 24 osób (wliczając kierowcę) i posiadający zarówno miejsca siedzące, jak i stojące. Może mieć jeden lub dwa pokłady (autobus piętrowy), bądź składać się z dwóch lub więcej części połączonych przegubem (autobus przegubowy), może ciągnąć przyczepę bagażową.</dbo:abstract>
+    <dbo:abstract xml:lang="ja">バス(bus)は、大量の旅客輸送を目的に設計された乗り物である。 最も一般的なバスは1階建てバスのリジッド・バスであり、より大規模な積載人数の2階建てバス及び連節バス、より小規模な積載人数のミディバス及びマイクロバス、長距離サービスにはコーチ (バス)が用いられる。 都市交通バス及び都市間バスのように、多くの種類のバスが料金を設定する。一方、小学校及び中学校のスクールバス又は中等後教育キャンパスのシャトルバスは料金を設定しない。多くの法域において、バスの運転士になるには通常の運転免許に加え、特別な免許が要件とされる。</dbo:abstract>
+    <dbo:abstract xml:lang="es">El autobús, bus, ruta, colectivo, bondi, guagua, micro u ómnibus (véase la sección Regionalismos) son los nombres más comunes del vehículo diseñado para transportar numerosas personas mediante vías urbanas. Generalmente es usado en los servicios de transporte público urbano e interurbano,y con trayecto fijo. Su capacidad puede variar entre 10 y 120 pasajeros. En sistemas de autobús de tránsito rápido, la capacidad de los buses puede variar entre 160 y 240 pasajeros.</dbo:abstract>
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Vehicle" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Conventional_PCI">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Extended_Industry_Standard_Architecture">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Massachusetts_Bay_Transportation_Authority">
+    <dbo:type rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ace_(1920_automobile)">
+    <dbo:product rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/BCI_Bus">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Back-side_bus">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Berkhof_Ambassador">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Fabrika_automobila_Priboj">
+    <dbo:product rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Fredericksburg_Regional_Transit">
+    <dbp:serviceType rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Havana_MetroBus">
+    <dbo:type rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Leyland_Lynx">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/PCI-X">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Santa_Clara_Valley_Transportation_Authority">
+    <dbo:type rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Strathclyde_Partnership_for_Transport">
+    <dbo:product rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Synchronous_Backplane_Interconnect">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tovarna_avtomobilov_Maribor">
+    <dbo:product rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/West_Coast_Motors">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Wishbone_(computer_bus)">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Darby_Transportation_Center">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/TWH_Bus_&amp;_Coach">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/UNI/O">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Analog_Expansion_Bus">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Birch_Brothers">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ferrovie_Emilia_Romagna">
+    <dbo:product rdf:resource="http://dbpedia.org/resource/Bus" />
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Metropolitan_Atlanta_Rapid_Transit_Authority">
+    <dbo:type rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Alfa_Romeo_500A">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Classic_(transit_bus)">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Runway_bus">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Blue_Bird_Vision">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/IBUS_(device)">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Palmeiras-Barra_Funda_Intermodal_Terminal">
+    <dbo:type rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/I²S">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Multi-Vendor_Integration_Protocol">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Autobus">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Buses">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Neighborhood_bus">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/VAXBI_Bus">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Airport_bus">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Memory_bus">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Aerocoach">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bus_(vehicle)">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Leyland_Panther_Cub">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Volvo_7900">
+    <dbo:class rdf:resource="http://dbpedia.org/resource/Bus" />
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Volvo_8500">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Volvo_8700">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Volvo_8900">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Crown-Ikarus_286">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/MAN_NDxx3F">
+    <dbo:class rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Transportation_in_Atlanta">
+    <dbo:type rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Transportation_in_Oregon">
+    <dbo:type rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Irisbus_Crossway">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Melbourne-Brighton_Bus_Lines">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Daewoo_BS/BM">
+    <dbo:bodyStyle rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Daewoo_FX212_Super_Cruiser">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ikarbus_IK-201">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ikarbus_IK-202">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Moonee_Ponds_Junction">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Autokoritehdas">
+    <dbo:product rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Autoteollisuus-Bilindustri">
+    <dbo:product rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/HouTran">
+    <dbp:serviceType rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ikarus_280">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Youngman_JNP6105GR">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ikarbus_IK-206">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Karosa_B_731">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Karosa_B_941">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Karosa_B_961">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Leyland_Royal_Tiger_PSU">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Optare_MetroDecker">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Rochester_Transit_Corporation">
+    <dbp:fleet rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/JanBus">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Karosa_B_832">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Karosa_C_834">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Karosa_C_935">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Karosa_C_956">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/SOR_BN_10,5">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/SOR_CN_12">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/SOR_EBN_10,5">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/SOR_LH_12">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Scania_OmniLine">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/TEDOM_C_12">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/TEDOM_Kronos_122">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/TEDOM_Kronos_123">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/TEDOM_L_12">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yellowstone_Caldera">
+    <dbp:easiestRoute rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Beaverton_Transit_Center">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Centre_for_Life">
+    <dbp:publictransit rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Chester_Transportation_Center">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bus_(disambiguation)">
+    <dbo:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Dennis_Lance">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/GHA_Coaches">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hemne_og_Orkladal_Billag">
+    <dbo:product rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Optare_Tempo">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tide_(transportation_company)">
+    <dbo:service rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Zoomed_video_port">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Buchanan_bus_station">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Golden_Dragon_(company)">
+    <dbo:product rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sainte-Thérèse_(AMT)">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Cuckmere_Buses">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Dot2Dot">
+    <dbo:product rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ikarbus">
+    <dbo:product rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mastretta">
+    <dbo:product rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nishi_Tokyo_Bus">
+    <dbp:serviceType rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Santa_Rosa_CityBus">
+    <dbp:serviceType rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Toei_Bus">
+    <dbp:serviceType rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Verkehrsbetrieb_der_Landschaft_Davos_Gemeinde">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Havelbus">
+    <dbo:type rdf:resource="http://dbpedia.org/resource/Bus" />
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Stagecoach_in_Newcastle">
+    <dbp:serviceType rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ankai">
+    <dbo:product rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bus_transport_in_Berlin">
+    <dbo:type rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Del_Monte_Motors">
+    <dbo:product rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Eastonways">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/El_Car">
+    <dbo:product rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/FAS_Sanos">
+    <dbo:product rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Free_b">
+    <dbp:serviceType rdf:resource="http://dbpedia.org/resource/Bus" />
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ghabbour_Group">
+    <dbo:product rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/MAN_Truck_&amp;_Bus">
+    <dbo:product rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Pioneer_Coaches">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/RATP_Iași">
+    <dbo:type rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Rakhsh_Khodro_Diesel">
+    <dbo:product rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/St._Clair_County_Transit_District">
+    <dbo:type rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Stotts_Coaches">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yourbus">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Abidjan_Transport_Company">
+    <dbo:product rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bonluck_Bus">
+    <dbo:product rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bullocks_Coaches">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Crosville_Motor_Services_(Weston-super-Mare)">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Dongfeng_Yangtse">
+    <dbo:product rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/FAW_Bus_and_Coach">
+    <dbo:product rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/GolAZ">
+    <dbo:product rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Guangzhou_Automobile_Group_Bus">
+    <dbo:product rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ha&#39;argaz">
+    <dbo:product rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Isuzu_Philippines">
+    <dbo:product rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Moonee_Valley_Coaches">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Neobus_(Brazil)">
+    <dbo:product rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Quince&#39;s_Scenicruisers">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sid_Fogg&#39;s">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Stagecoach_Merseyside_&amp;_South_Lancashire">
+    <dbp:serviceType rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sunlong_Bus">
+    <dbo:product rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Travelyaari">
+    <dbo:product rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/VMZ_(Vologodskiy_mechanical_plant)">
+    <dbo:product rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Volzhanin">
+    <dbo:product rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Western_Road_Liners">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Wuzhoulong">
+    <dbo:product rdf:resource="http://dbpedia.org/resource/Bus" />
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yatra_(company)">
+    <dbo:product rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yaxing_Coach">
+    <dbo:product rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Blue_Bird_All_American">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/South_Gloucestershire_Bus_&amp;_Coach">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Valley_Transit">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Grenda_Corporation">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/North_County_Transit_District">
+    <dbo:type rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Saviem">
+    <dbo:product rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Three-state_bus">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Dennis_Loline">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Amiga_Zorro_II">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bussing">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/SS-50_bus">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bus_line">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Blue_Bird_Mini_Bird">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Crown_Supercoach">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gillig_Low_Floor">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Rocar">
+    <dbo:product rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Stockport_bus_station">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Strathclyde_Buses">
+    <dbp:serviceType rdf:resource="http://dbpedia.org/resource/Bus" />
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Thomas_Minotour">
+    <dbp:type rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Versare_Company">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/SGPIO">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Alfa_Romeo_150A">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Alfa_Romeo_430A">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Alfa_Romeo_80A">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Alfa_Romeo_900A">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Alfa_Romeo_902A">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Alfa_Romeo_Mille_(bus)">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Odisha_State_Road_Transport_Corporation">
+    <dbo:industry rdf:resource="http://dbpedia.org/resource/Bus" />
+    <dbo:product rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Renault_PR100">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Severtrans">
+    <dbo:product rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/AvtoKuban">
+    <dbo:product rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Albion_Lowlander">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Alfa_Romeo_85A">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/ARSAT-3K">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/China_Motor_Bus">
+    <dbo:product rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Dennis_Dart">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Driver_Group">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ealing_Community_Transport">
+    <dbp:serviceType rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Europe_Card_Bus">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Invicta_Bus_Services">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Leyland_Motors">
+    <dbo:product rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mitsubishi_Fuso_Truck_and_Bus_Corporation">
+    <dbo:product rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/National_City_Lines">
+    <dbo:product rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Navistar_International">
+    <dbo:product rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Optare_Excel">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Regional_Transportation_District">
+    <dbo:type rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Rhino_Runner">
+    <dbo:bodyStyle rdf:resource="http://dbpedia.org/resource/Bus" />
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Routemaster">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/San_Diego_Metropolitan_Transit_System">
+    <dbo:type rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/San_Francisco_Municipal_Railway">
+    <dbo:type rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/San_Joaquin_Regional_Transit_District">
+    <dbo:type rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Stallion_Bus_and_Transit_Corp.">
+    <dbo:product rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tvornica_Autobusa_Zagreb">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ventura_Bus_Lines">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/KAvZ">
+    <dbo:product rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Local_bus">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Pavlovo_Bus_Factory">
+    <dbo:product rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/UAZ">
+    <dbo:product rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Minsk_Automobile_Plant">
+    <dbo:product rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nils_Ericson_Terminal">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bugler_Coaches">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Damory_Coaches">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Keio_Dentetsu_Bus">
+    <dbp:serviceType rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Marchwood_Motorways">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Martyrs_Bus_Service">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Peninsula_Bus_Lines">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Safeguard_Coaches">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Shaanxi_Automobile_Group">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tata_Hispano">
+    <dbo:product rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/US_Bus_Lines">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Broadway_bus_terminus">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Dorval_(AMT)">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Portland_Transportation_Center">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Address_bus">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Double-decker_bus">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/SAE_J1939">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Central_Bus_Station_Kumbakonam">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Central_Bus_Terminus_Salem">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nana_Kheda_Bus_Stand">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Town_Bus_Terminus_Salem">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/FAP_403_RHD">
+    <dbo:class rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hyundai_Aero_City">
+    <dbo:bodyStyle rdf:resource="http://dbpedia.org/resource/Bus" />
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hyundai_Aero_Town">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hyundai_Global_900">
+    <dbo:bodyStyle rdf:resource="http://dbpedia.org/resource/Bus" />
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Leyland_National">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mitsubishi_Fuso_Aero_Star">
+    <dbo:class rdf:resource="http://dbpedia.org/resource/Bus" />
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/NightRide">
+    <dbo:type rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Armoured_bus">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bruck_(vehicle)">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Volvo_7700">
+    <dbo:class rdf:resource="http://dbpedia.org/resource/Bus" />
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bynesruten">
+    <dbo:industry rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Flxible_Metro">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/New_Routemaster">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Transportation_in_Las_Vegas">
+    <dbo:type rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Changzhou_Changjiang_Bus">
+    <dbo:product rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/London_Coaches">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bus_route">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Multi-axle_bus">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Single-deck_bus">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/ACE_Cougar">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Apple_Desktop_Bus">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Brihanmumbai_Electric_Supply_and_Transport">
+    <dbo:industry rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Dennis_Javelin">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Electric_bus">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Empresa_Municipal_de_Transportes_de_Madrid">
+    <dbo:type rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gillig_Phantom">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jacksonville_Transportation_Authority">
+    <dbo:type rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Leyland-MCW_Olympian">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Leyland_Titan_(B15)">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mercedes-Benz">
+    <dbo:product rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Plaxton_Primo">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Roman_(vehicle_manufacturer)">
+    <dbo:product rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/STD_Bus">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Société_de_transport_de_Montréal">
+    <dbo:type rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Solaris_Bus_&amp;_Coach">
+    <dbo:product rdf:resource="http://dbpedia.org/resource/Bus" />
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tourist_trolley">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Trolleybus">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/VESA_Local_Bus">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vehicle_Area_Network">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Wright_StreetCar">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/York_Pullman">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Astra_Bus">
+    <dbo:product rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Digital_Storage_Systems_Interconnect">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Volvo_B10BLE">
+    <dbo:class rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Volvo_B10M">
+    <dbo:class rdf:resource="http://dbpedia.org/resource/Bus" />
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Steam_bus">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/MAN_NL262">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Transportation_in_Georgia_(U.S._state)">
+    <dbo:type rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Control_bus">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hillsborough_Interchange">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Dirk_Bus">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Battery_electric_bus">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lowbridge_double-deck_bus">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Khlong_Saen_Saep_boat_service">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tolyatti_bus_bombing">
+    <dbp:target rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/ACCESS.bus">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bus_Éireann">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/East_Japan_Railway_Company">
+    <dbo:service rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gemeentelijk_Vervoerbedrijf">
+    <dbo:type rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hokkaido_Railway_Company">
+    <dbo:service rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/I²C">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/NJ_Transit">
+    <dbo:type rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Neoplan">
+    <dbo:product rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/North_American_Bus_Industries">
+    <dbo:industry rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Shikoku_Railway_Company">
+    <dbo:service rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/TriMet">
+    <dbo:type rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/West_Japan_Railway_Company">
+    <dbo:service rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Alexander_Dennis_Enviro500">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Plaxton">
+    <dbo:product rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Stagecoach_Strathtay">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Armchair_Passenger_Transport">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/BYD_Auto">
+    <dbo:product rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/East_Yorkshire_Motor_Services">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lviv_Bus_Factory">
+    <dbo:product rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/RTC_Transit">
+    <dbp:serviceType rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Stagecoach_East_Scotland">
+    <dbp:serviceType rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Stagecoach_West_Scotland">
+    <dbp:serviceType rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Stagecoach_in_Chesterfield">
+    <dbo:type rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tassielink_Transit">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Transportation_in_New_York_City">
+    <dbo:type rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Van_Hool">
+    <dbo:product rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Volvo_Buses">
+    <dbo:product rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/HIPPI">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/S-100_bus">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Haifa_bus_37_suicide_bombing">
+    <dbp:target rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Further_(bus)">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vest_Buss">
+    <dbo:product rdf:resource="http://dbpedia.org/resource/Bus" />
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yatragenie">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bus_transport_in_Szczecin">
+    <dbo:type rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Consorcio_Regional_de_Transportes_de_Madrid">
+    <dbo:type rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Johnson_Bros_Tours">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Johnsons_Coach_&amp;_Bus_Travel">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Katarina_Jee">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Materfer">
+    <dbo:product rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Whitsunday_Transit">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/AEC_Regent_II">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/AEC_Regent_V">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ford-Vairogs">
+    <dbo:product rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mercedes-Benz_O405">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Volvo_B58">
+    <dbo:class rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Wayne_Busette">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Wayne_Lifeguard">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Chance_RT-52">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Thames_Transit">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Transportation_in_Toronto">
+    <dbo:type rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bristol_Lodekka">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hyundai_County">
+    <dbo:class rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Compass_Travel">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Irisbus_Citelis">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Los_Angeles_Metropolitan_Transit_Authority">
+    <dbo:type rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Milwaukee_Intermodal_Station">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Thomas_Saf-T-Liner_C2">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Transport_in_Manchester">
+    <dbo:type rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Wright_Pulsar_Gemini_HEV">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/East_Lancs_Lowlander">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Transportation_in_Arizona">
+    <dbo:type rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bus_carrier">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bus_company">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Public_buses_in_Sofia">
+    <dbo:type rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Karosa_C_934">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Karosa_C_954">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Autosan_A0808MN">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/GCUH_bus_station">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jelcz_M11">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jelcz_PR110">
+    <dbo:bodyStyle rdf:resource="http://dbpedia.org/resource/Bus" />
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Karosa_B_732">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Karosa_B_931">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Karosa_B_932">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Karosa_B_951">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Karosa_B_952">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Karosa_C_734">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Karosa_C_735">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Karosa_C_744">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Karosa_C_943">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Karosa_C_955">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Karosa_ŠL_11">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Karosa_ŠM_11">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/SOR_BN_12">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/SOR_NB_12">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/SOR_NB_18">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Solaris_Alpino">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Solaris_Alpino_8,9_LE">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Solaris_InterUrbino_12">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Solaris_Urbino_15">
+    <dbo:class rdf:resource="http://dbpedia.org/resource/Bus" />
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Solaris_Urbino_8,9_LE_electric">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Solaris_Vacanza_13">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Volvo_B9RLE">
+    <dbo:class rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/MCV_EvoSeti">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/CATITA">
+    <dbo:product rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ashok_Leyland_MiTR">
+    <dbo:bodyStyle rdf:resource="http://dbpedia.org/resource/Bus" />
+    <dbo:class rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Babatpur_railway_station">
+    <dbp:connections rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kashi_railway_station">
+    <dbp:connections rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Chambers_(bus_company)">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ferrovie_del_Sud_Est">
+    <dbo:product rdf:resource="http://dbpedia.org/resource/Bus" />
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/GAC_Ireland">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Greater_Cleveland_Regional_Transit_Authority">
+    <dbo:type rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Greyhound_Motors">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Metro_Transit_(St._Louis)">
+    <dbo:type rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mule_(software)">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Regional_Transportation_Authority_(Illinois)">
+    <dbo:type rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Chathiram_Bus_Station,_Tiruchirappalli">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Esenler_Bus_Terminus">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mattuthavani_Bus_Terminus">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Andamukkam_City_Bus_Stand">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Arappalayam_Bus_Terminus">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Aravankadu_railway_station">
+    <dbp:connections rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Beeston_transport_interchange">
+    <dbo:type rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Coonoor_railway_station">
+    <dbp:connections rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ketti_railway_station">
+    <dbp:connections rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lovedale_railway_station">
+    <dbp:connections rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Viluppuram_Bus_Station">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Wellington_railway_station_(Tamil_Nadu)">
+    <dbp:connections rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Low-floor_bus">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Brijan_Tours">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Isuzu_Gala_Mio">
+    <dbo:bodyStyle rdf:resource="http://dbpedia.org/resource/Bus" />
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Isuzu_Journey-K">
+    <dbo:bodyStyle rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Isuzu_Journey-Q">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nissan_Diesel_Space_Runner_RP">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Trailer_bus">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bus_Lines">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Viseon_Bus">
+    <dbo:product rdf:resource="http://dbpedia.org/resource/Bus" />
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Campaign_bus">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jaunpur_City_railway_station">
+    <dbp:connections rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/I-4K">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Alexander_Dennis_Enviro350H">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/BharatBenz">
+    <dbo:product rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Daewoo_Bus">
+    <dbo:product rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Express_Motors">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lasta_Beograd">
+    <dbo:service rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Silver_Star_Holidays">
+    <dbo:type rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Stagecoach_Cumbria_&amp;_North_Lancashire">
+    <dbp:serviceType rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Transdev">
+    <dbo:product rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/UltraESB">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Wardle_Transport">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Eastern_Scottish">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mercedes-Benz_O305">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Volvo_B9TL">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Neoman_Bus">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Karosa_B_741">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Wayne_Lifestar">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Massbus">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Charter_Bus">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bus_Trip">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bristol_SU">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Peripheral_bus">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/I-1K">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_bus">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/LiAZ_(Russia)">
+    <dbo:product rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Saint-Jérôme_(AMT)">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Truronian">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Appleton_Transit_Center">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Aukra_Auto">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Broadmeadows_Bus_Service">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Busscar">
+    <dbo:product rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Cardinia_Transit">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Comil">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Countryliner">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Finglands_Coachways">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gauldal_Billag">
+    <dbo:product rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Helgelandske">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kastoria_Bus_Lines">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Klæburuten">
+    <dbo:product rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/McKenzie&#39;s_Tourist_Services">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/New_Enterprise_Coaches">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Otokar">
+    <dbo:product rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Panorama_Coaches">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sunbury_Bus_Service">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Team_Trafikk">
+    <dbo:product rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Telemark_Kollektivtrafikk">
+    <dbo:product rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Terminus_Brossard-Panama">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Travel_de_Courcey">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/VDL_Berkhof">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Østerdal_Billag">
+    <dbo:product rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Eurostar_(satellite_bus)">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/External_Bus_Interface">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mitsubishi_Fuso_Aero_Midi">
+    <dbo:class rdf:resource="http://dbpedia.org/resource/Bus" />
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Power_Vehicle_Innovation">
+    <dbo:product rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vanajan_Autotehdas">
+    <dbo:product rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/MBus_(SPARC)">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Wuling_Motors">
+    <dbo:product rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Volvo_B10TL_Super_Olympian">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Atari_SIO">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Transit_bus">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gyrobus">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Here_Come_the_Double_Deckers">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Scania_OmniCity">
+    <dbo:class rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/VDL_DB250">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/VDL_SB250">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Capital_Logistics">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hino_Blue_Ribbon">
+    <dbo:class rdf:resource="http://dbpedia.org/resource/Bus" />
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hino_Melpha">
+    <dbo:bodyStyle rdf:resource="http://dbpedia.org/resource/Bus" />
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hino_Rainbow">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hino_S&#39;elega">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Isuzu_Cubic">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Isuzu_Erga">
+    <dbo:class rdf:resource="http://dbpedia.org/resource/Bus" />
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Isuzu_Erga_Mio">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/MAZ-203">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nissan_Diesel_Space_Runner_JP">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nissan_Diesel_Space_Runner_RA">
+    <dbo:class rdf:resource="http://dbpedia.org/resource/Bus" />
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nissan_Diesel_Space_Runner_RM">
+    <dbo:class rdf:resource="http://dbpedia.org/resource/Bus" />
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Optare_Olympus">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/SodeTrav">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Open_top_bus">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Autobetrieb_Sernftal">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Multidrop_bus">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Amfibus">
+    <dbo:bodyStyle rdf:resource="http://dbpedia.org/resource/Bus" />
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tata_Starbus">
+    <dbo:class rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sisu_S-321">
+    <dbo:bodyStyle rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Wright_StreetDeck">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Rover_(ticket)">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Stagecoach_North_West">
+    <dbp:serviceType rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Autosan">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ensignbus">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/HIL_bus">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kelvin_Central_Buses">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kelvin_Scottish">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Leyland_Leopard">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Madison_County_Transit">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Alexander_Dennis_Enviro200">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Alexander_Dennis_Enviro300">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Alexander_Dennis_Enviro400">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Arriva_North_West_and_Wales">
+    <dbp:serviceType rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Dyson&#39;s_Bus_Services">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Grenda&#39;s_Bus_Services">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Renown_Coaches">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Irizar">
+    <dbo:product rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Marcopolo_S.A.">
+    <dbo:product rdf:resource="http://dbpedia.org/resource/Bus" />
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Speedwellbus">
+    <dbp:serviceType rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Rapid_KL_(brand)">
+    <dbo:type rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Rochester-Genesee_Regional_Transportation_Authority">
+    <dbp:fleet rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Salvador_Caetano">
+    <dbo:product rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Volvo_B7TL">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/UD_Trucks">
+    <dbo:industry rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Wilfreda_Beehive">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Zagrebački_električni_tramvaj">
+    <dbo:type rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Busbud">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Regia_Autonomă_de_Transport_Timișoara">
+    <dbo:type rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Victorian_Touring_Coaches">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Abhibus.com">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Transportation_in_Montana">
+    <dbo:type rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Daimler_Roadliner">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Twin_City_Rapid_Transit_Company">
+    <dbo:product rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kwun_Tong_Ferry_Bus_Terminus">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Callowhill_Depot">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/West_Midtown_Ferry_Terminal">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Irvington_Bus_Terminal">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Udhagamandalam_railway_station">
+    <dbp:connections rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Central_Scottish">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Clydeside_Scottish">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Midland_Scottish">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Northern_Scottish">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/System_bus">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Western_Scottish">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Express_coach">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/RTD_Bus_&amp;_Rail">
+    <dbo:type rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Arriva_Guildford_&amp;_West_Surrey">
+    <dbp:serviceType rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Dennis_Arrow">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mercedes-Benz_O370">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nordtrafikk">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Trondheim_Bilruter">
+    <dbo:product rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Trondheim_Trafikkselskap">
+    <dbo:product rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Irisbus_Agora">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Neoplan_N4016">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Chiva_bus">
+    <dbo:class rdf:resource="http://dbpedia.org/resource/Bus" />
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/GRT_Group">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Local_bus_routes_in_Sydney">
+    <dbo:type rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nissan_U-R">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Renault_GS">
+    <dbo:bodyStyle rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Transportation_in_Alabama">
+    <dbo:type rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Transportation_in_Connecticut">
+    <dbo:type rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Transportation_in_Hawaii">
+    <dbo:type rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bristol_MW">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Leyland-MCW_Olympic">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Škoda_706_RTO">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/STEbus">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/SSL_1300">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Thamco">
+    <dbo:product rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Director,_Public_Transport_Safety">
+    <dbo:service rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Director,_Transport_Safety">
+    <dbo:service rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ford_Transit_Bus">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/HP_Precision_Bus">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Peakhurst_Bus_Company">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Scania_OmniDekka">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bakersfield_and_Kern_Electric_Railway">
+    <dbo:type rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bus_transport">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/St_Austell_bus_station">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Boeing_601">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Front_Panel_Data_Port">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bus_preservation">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Suburban_bus_routes_in_Sydney">
+    <dbo:type rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bangor_Transportation_Center">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Multi-master_bus">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Estação_Tubo">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/SFU_Exchange">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Varanasi_City_railway_station">
+    <dbp:connections rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Integrated_Public_Transport_System_(Bogotá)">
+    <dbo:type rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Omnibus_line">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Police_bus">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Fiat_343">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Iveco_370">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Iveco_EuroClass">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bikes-On-Board">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Cybermove">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bus_routes">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/LM-700">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Public_service_vehicle">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/I-3K">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bandros">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Transportation_Center_Skopje">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bus_exposition">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Open_ESB">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2013_Mahabubnagar_bus_accident">
+    <dbp:damage rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2008_Burkina_Faso_bus_crash">
+    <dbp:bus rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Back_of_the_bus">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Euro_Bus_Expo">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gibson&#39;s_of_Moffat">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Pune_Station_Bus_Stand">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Renault_R212">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Solar_bus">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bus_Transport">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Bus">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Motor_omnibus">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Triple_decker_bus">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bus_transportation">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bus_door">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lancia_Ro_(bus)">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mercedes-Benz_O530_Citaro">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gillig_Spirit">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bus_operator">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Coach_charter">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Posted_write">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Charter_bus">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hillary_Bus">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Bus" />
+  </rdf:Description>
+</rdf:RDF>

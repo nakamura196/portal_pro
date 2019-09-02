@@ -1,0 +1,307 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:dct="http://purl.org/dc/terms/"
+	xmlns:dbo="http://dbpedia.org/ontology/"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:prov="http://www.w3.org/ns/prov#"
+	xmlns:dbp="http://dbpedia.org/property/"
+	xmlns:ns8="http://purl.org/linguistics/gold/" >
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Macbeth_act_I">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Macbeth" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Prophecy_in_Macbeth">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Macbeth" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Macbeth_the_Traitor">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Macbeth" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Macbeth">
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Abstraction100002137" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoPermanentlyLocatedEntity" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Happening107283608" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Play" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Wikicat17th-centuryPlays" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/DramaticComposition107007684" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WrittenCommunication106349220" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Play107007945" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PsychologicalFeature100023100" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatPlaysAboutScottishRoyalty" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatPlaysBasedOnRealPeople" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatShakespeareanHistories" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Time100028270" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Wikicat1603Plays" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/History115121406" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Past115120823" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Misfortune107304852" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Trouble107289014" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatPlaysByWilliamShakespeare" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Attribute100024264" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatEnglishRenaissancePlays" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatPlays" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatShakespeareanTragedies" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Calamity107314838" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Communication100033020" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Event100029378" />
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Writing106362953" />
+    <rdfs:label xml:lang="de">Macbeth (Shakespeare)</rdfs:label>
+    <rdfs:label xml:lang="ru">Макбет (пьеса)</rdfs:label>
+    <rdfs:label xml:lang="es">Macbeth</rdfs:label>
+    <rdfs:label xml:lang="fr">Macbeth (Shakespeare)</rdfs:label>
+    <rdfs:label xml:lang="pt">Macbeth</rdfs:label>
+    <rdfs:label xml:lang="pl">Makbet</rdfs:label>
+    <rdfs:label xml:lang="ja">マクベス (シェイクスピア)</rdfs:label>
+    <rdfs:label xml:lang="nl">Macbeth (toneelstuk)</rdfs:label>
+    <rdfs:label xml:lang="zh">馬克白</rdfs:label>
+    <rdfs:label xml:lang="it">Macbeth</rdfs:label>
+    <rdfs:label xml:lang="en">Macbeth</rdfs:label>
+    <rdfs:label xml:lang="ar">مكبث (مسرحية)</rdfs:label>
+    <rdfs:comment xml:lang="it">Macbeth è tra i più conosciuti drammi di Shakespeare, nonché la tragedia più breve.Frequentemente rappresentata e riadattata nel corso dei secoli, è divenuta archetipo della brama di potere e dei suoi pericoli. Per la trama Shakespeare si ispirò liberamente al resoconto storico del re Macbeth di Scozia di Raphael Holinshed e a quello del filosofo scozzese Hector Boece. Molto popolare è anche la versione operistica di questa tragedia, musicata da Verdi su libretto di Francesco Maria Piave.</rdfs:comment>
+    <rdfs:comment xml:lang="ru">«Макбе́т» (англ. Macbeth) — пьеса, одна из наиболее известных трагедий Уильяма Шекспира. Пьеса, отдалённо основанная на истории реального шотландского короля Макбета, часто представляется архетипичной историей об опасности чрезмерной жажды власти и измены друзьям.</rdfs:comment>
+    <rdfs:comment xml:lang="ja">『マクベス』（Macbeth）は、1606年頃に成立したウィリアム・シェイクスピアによって書かれた戯曲である。勇猛果敢だが小心な一面もある将軍マクベスが妻と謀って主君を暗殺し王位に就くが、内面・外面の重圧に耐えきれず錯乱して暴政を行い、貴族や王子らの復讐に倒れる。実在のスコットランド王マクベス（在位1040年–1057年）をモデルにしている。 『ハムレット』、『オセロー』、『リア王』と並ぶシェイクスピアの四大悲劇の1つで、その中では最も短い作品であり、最後に書かれたものと考えられる。</rdfs:comment>
+    <rdfs:comment xml:lang="de">Macbeth (engl. The Tragedy of Macbeth) ist eine um 1606 von William Shakespeare verfasste Tragödie und eines seiner bekanntesten Werke. Sie beschreibt den Aufstieg des königlichen Heerführers Macbeth zum König von Schottland, seinen Wandel zum Tyrannen und seinen Fall. Shakespeare verknüpfte in seinem Drama geschichtliche Fakten über den historischen Schottenkönig Macbeth und den zeitgenössischen englischen König Jakob I. mit Aberglauben, Mythologie und Fiktion.</rdfs:comment>
+    <rdfs:comment xml:lang="ar">25بك المحتوى هنا ينقصه الاستشهاد بمصادر. يرجى إيراد مصادر موثوق بها. أي معلومات غير موثقة يمكن التشكيك بها وإزالتها. (مارس 2016) مكبث (بالإنجليزية: Macbeth) في بعض الدول تنطق ماكبث هي مسرحية تراجيدية للمسرحي الإنكليزي ويليام شكسبير عن القائد الاسكتلندي مكبث الذي يغتال ملكه دنكن ليجلس على عرش اسكتلندا مكانه. مكبث أقصر تراجيديات شكسبير، ولا حبكة جانبية فيها تتعلق بأي شخصيةٍ أخرى. كُتبت هذه المسرحية في وقتٍ ما بين 1603 و1606، واعتمد فيها شكسبير بشكلٍ طفيف على شخصية مكبث الاسكتلندي أحد ملوك اسكتلندا. مُثلث هذه المسرحية مراراً، وأنتجت للسينما والأوبرا ومسلسلات التلفاز.</rdfs:comment>
+    <rdfs:comment xml:lang="es">Macbeth (título completo en inglés, The Tragedy of Macbeth, &quot;La tragedia de Macbeth&quot;) es una tragedia de William Shakespeare, que se cree que fue representada por vez primera en 1606. Dramatiza los dañinos efectos, físicos y psicológicos, de la ambición política, en aquellos que buscan el poder por sí mismo. De todas las obras que Shakespeare escribió durante el reinado de Jacobo I, quien era patrón de la compañía teatral de Shakespeare, Macbeth es la que más claramente reflexiona sobre la relación del dramaturgo con su soberano. Se publicó por primera vez en el Folio de 1623, posiblemente a partir de un prompt book, y es su tragedia más breve.</rdfs:comment>
+    <rdfs:comment xml:lang="nl">Macbeth is de kortste tragedie van de Engelse toneelschrijver en dichter William Shakespeare. Het tussen 1603 en 1607 geschreven werk is deels gebaseerd op de waargebeurde geschiedenis van de Schotse koning Macbeth van Schotland (1005 - 1057), die op de troon kwam door in 1040 bij Elgin in Schotland koning Duncan I van Schotland te doden.</rdfs:comment>
+    <rdfs:comment xml:lang="zh">《馬克白》（Macbeth）是莎士比亞最短的悲劇，也是他最受歡迎的作品之一。常被认为是他悲剧中最为阴暗、最富震撼力的作品。故事的地点设在苏格兰，并以戏剧的方式、通过心理作用、政治争斗的方式观察了追逐权势而背信弃义的邪恶。它大致根据蘇格蘭哲学家赫克托·波伊斯的《苏格兰国王麦克白》而寫成。 戏剧讲述了勇敢的苏格兰将军馬克白从三女巫得到预言，称他某日会成为苏格兰国王。出于野心和妻子的怂恿，馬克白暗杀了国王邓肯，自立为王。在自责与幻想的折磨下，他很快堕落成为一名暴君，不得不通过持续的狠手来保护自己，打压敌意与猜忌。大屠杀与内战使得马克白与他的夫人变得自大、疯狂，直至二人最后的灭亡。舞台上，因馬克白夫人的情緒起伏多變，很多人都認為那是最難演的女性角色之一。</rdfs:comment>
+    <rdfs:comment xml:lang="en">Macbeth (/məkˈbɛθ/; full title The Tragedy of Macbeth) is a tragedy by William Shakespeare, thought to have been first performed in 1606. It dramatises the damaging physical and psychological effects of political ambition on those who seek power for its own sake. Of all the plays that Shakespeare wrote during the reign of James I, who was patron of Shakespeare&#39;s acting company, Macbeth most clearly reflects the playwright&#39;s relationship with his sovereign. It was first published in the Folio of 1623, possibly from a prompt book, and is his shortest tragedy.</rdfs:comment>
+    <rdfs:comment xml:lang="pt">Macbeth é uma tragédia do dramaturgo inglês William Shakespeare, sobre um regicídio e suas consequências. É a tragédia shakespeariana mais curta, e acredita-se que tenha sido escrita entre 1603 e 1607. O primeiro relato de uma performance da peça é de abril de 1611, quando Simon Forman registrou tê-la visto no Globe Theatre, em Londres. A obra foi publicada pela primeira vez no Folio, de 1623, possivelmente a partir de uma transcrição de alguma performance específica.</rdfs:comment>
+    <rdfs:comment xml:lang="pl">Makbet (ang. Macbeth) – tragedia Williama Shakespeare’a napisana około roku 1606, należy do najczęściej wystawianych i adaptowanych sztuk szekspirowskich, jest również najkrótszą tragedią jego autorstwa. Sztuka oparta została na przekazach historycznych dotyczących króla szkockiego Makbeta spisanych w kronice Raphaela Holinsheda (ok. 1570-1577), a pośrednio na Scotorum Historiae autorstwa Hectora Boece z 1527 roku (będącej źródłem dla Holinsheda). Na scenie polskiej Makbet został po raz pierwszy wystawiony w roku 1812 w teatrze Wojciecha Bogusławskiego.</rdfs:comment>
+    <rdfs:comment xml:lang="fr"> Pour les articles homonymes, voir Macbeth et Macbett. Macbeth est une tragédie de William Shakespeare. Elle prend place dans l&#39;Écosse médiévale et retrace de manière très romancée le règne de Macbeth (1040-1057), en s&#39;inspirant de près du récit qu&#39;en fait Raphael Holinshed dans ses Chroniques, parues en 1587. Dévoré d&#39;ambition, le général Macbeth commet le crime de régicide pour s&#39;emparer du pouvoir, poussé par son épouse Lady Macbeth, mais la culpabilité et la paranoïa les font peu à peu sombrer dans la folie.</rdfs:comment>
+    <owl:sameAs rdf:resource="http://yago-knowledge.org/resource/Macbeth" />
+    <owl:sameAs rdf:resource="http://ko.dbpedia.org/resource/맥베스_(희곡)" />
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q130283" />
+    <owl:sameAs rdf:resource="http://nl.dbpedia.org/resource/Macbeth_(toneelstuk)" />
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q130283" />
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.04rt6" />
+    <owl:sameAs rdf:resource="http://es.dbpedia.org/resource/Macbeth" />
+    <owl:sameAs rdf:resource="http://it.dbpedia.org/resource/Macbeth" />
+    <owl:sameAs rdf:resource="http://eu.dbpedia.org/resource/Macbeth" />
+    <owl:sameAs rdf:resource="http://sw.cyc.com/concept/Mx4rFZi_J_x1SWKlp14j_7v2bQ" />
+    <owl:sameAs rdf:resource="http://cs.dbpedia.org/resource/Macbeth" />
+    <owl:sameAs rdf:resource="http://el.dbpedia.org/resource/Μάκβεθ" />
+    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/Macbeth_(Shakespeare)" />
+    <owl:sameAs rdf:resource="http://ja.dbpedia.org/resource/マクベス_(シェイクスピア)" />
+    <owl:sameAs rdf:resource="http://pt.dbpedia.org/resource/Macbeth" />
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Macbeth" />
+    <owl:sameAs rdf:resource="http://id.dbpedia.org/resource/Macbeth" />
+    <owl:sameAs rdf:resource="http://d-nb.info/gnd/4099361-9" />
+    <owl:sameAs rdf:resource="http://fr.dbpedia.org/resource/Macbeth_(Shakespeare)" />
+    <owl:sameAs rdf:resource="http://pl.dbpedia.org/resource/Makbet" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:English_Renaissance_plays" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:British_plays_adapted_into_films" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Suicide_in_fiction" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Scottish_monarchs_in_popular_culture" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Shakespearean_tragedies" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:1603_plays" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Macbeth" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Plays_set_in_Scotland" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Regicides" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Plays_about_Scottish_royalty" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Plays_based_on_real_people" />
+    <dbo:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">18866</dbo:wikiPageID>
+    <dbo:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">744910148</dbo:wikiPageRevisionID>
+    <dbo:wikiPageExternalLink rdf:resource="http://www.bl.uk/works/macbeth" />
+    <dbo:wikiPageExternalLink rdf:resource="http://theshakespeareproject.com/macbeth/macbeth-1-1.html" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.austinchronicle.com/arts/2000-10-13/78882/" />
+    <dbo:wikiPageExternalLink rdf:resource="http://books.google.com/books?id=dvn3uent7VcC" />
+    <dbo:wikiPageExternalLink rdf:resource="http://books.google.com/books?id=OVdlAAAAMAAJ" />
+    <dbo:wikiPageExternalLink rdf:resource="http://skeptoid.com/episodes/4222" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.nybooks.com/articles/20073" />
+    <dbo:wikiPageExternalLink rdf:resource="https://archive.org/details/hippolytasviewso012763mbp" />
+    <dbo:wikiPageExternalLink rdf:resource="http://digital.library.cornell.edu/cgi/t/text/text-idx?c=witch;idno=wit075" />
+    <dbo:wikiPageExternalLink rdf:resource="http://pretallez.com/onstage/theatre/broadway/macbeth/macbeth_curse.html" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.shakespeare-online.com/plays/macbeth_1_1.html" />
+    <dbo:wikiPageExternalLink rdf:resource="http://video.pbs.org/video/1604122998/" />
+    <dbo:wikiPageExternalLink rdf:resource="http://shakespeare-navigators.com/macbeth/SceneTextIndex.html" />
+    <dbo:wikiPageExternalLink rdf:resource="http://ahds.ac.uk/ahdscoll/docroot/shakespeare/performanceslist.do?playId=11017/" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.shakespeare-navigators.com/macbeth/SelectedBiblio.html" />
+    <dbo:wikiPageExternalLink rdf:resource="http://bardolatry.com/macbeth-on-film/" />
+    <foaf:depiction rdf:resource="http://en.wikipedia.org/wiki/Special:FilePath/Thomas_Keene_in_Macbeth_1884_Wikipedia_crop.png" />
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Macbeth" />
+    <dbo:thumbnail rdf:resource="http://en.wikipedia.org/wiki/Special:FilePath/Thomas_Keene_in_Macbeth_1884_Wikipedia_crop.png?width=300" />
+    <prov:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Macbeth?oldid=744910148" />
+    <dbo:abstract xml:lang="ar">25بك المحتوى هنا ينقصه الاستشهاد بمصادر. يرجى إيراد مصادر موثوق بها. أي معلومات غير موثقة يمكن التشكيك بها وإزالتها. (مارس 2016) مكبث (بالإنجليزية: Macbeth) في بعض الدول تنطق ماكبث هي مسرحية تراجيدية للمسرحي الإنكليزي ويليام شكسبير عن القائد الاسكتلندي مكبث الذي يغتال ملكه دنكن ليجلس على عرش اسكتلندا مكانه. مكبث أقصر تراجيديات شكسبير، ولا حبكة جانبية فيها تتعلق بأي شخصيةٍ أخرى. كُتبت هذه المسرحية في وقتٍ ما بين 1603 و1606، واعتمد فيها شكسبير بشكلٍ طفيف على شخصية مكبث الاسكتلندي أحد ملوك اسكتلندا. مُثلث هذه المسرحية مراراً، وأنتجت للسينما والأوبرا ومسلسلات التلفاز.</dbo:abstract>
+    <dbo:abstract xml:lang="en">Macbeth (/məkˈbɛθ/; full title The Tragedy of Macbeth) is a tragedy by William Shakespeare, thought to have been first performed in 1606. It dramatises the damaging physical and psychological effects of political ambition on those who seek power for its own sake. Of all the plays that Shakespeare wrote during the reign of James I, who was patron of Shakespeare&#39;s acting company, Macbeth most clearly reflects the playwright&#39;s relationship with his sovereign. It was first published in the Folio of 1623, possibly from a prompt book, and is his shortest tragedy. A brave Scottish general named Macbeth receives a prophecy from a trio of witches that one day he will become King of Scotland. Consumed by ambition and spurred to action by his wife, Macbeth murders King Duncan and takes the Scottish throne for himself. He is then wracked with guilt and paranoia. Forced to commit more and more murders to protect himself from enmity and suspicion, he soon becomes a tyrannical ruler. The bloodbath and consequent civil war swiftly take Macbeth and Lady Macbeth into the realms of madness and death. Shakespeare&#39;s source for the story is the account of Macbeth, King of Scotland, Macduff, and Duncan in Holinshed&#39;s Chronicles (1587), a history of England, Scotland, and Ireland familiar to Shakespeare and his contemporaries, although the events in the play differ extensively from the history of the real Macbeth. The events of the tragedy are usually associated with the execution of Henry Garnet for complicity in the Gunpowder Plot of 1605. In the backstage world of theatre, some believe that the play is cursed, and will not mention its title aloud, referring to it instead as &quot;The Scottish Play&quot;. Over the course of many centuries, the play has attracted some of the most renowned actors to the roles of Macbeth and Lady Macbeth. It has been adapted to film, television, opera, novels, comics, and other media.</dbo:abstract>
+    <dbo:abstract xml:lang="de">Macbeth (engl. The Tragedy of Macbeth) ist eine um 1606 von William Shakespeare verfasste Tragödie und eines seiner bekanntesten Werke. Sie beschreibt den Aufstieg des königlichen Heerführers Macbeth zum König von Schottland, seinen Wandel zum Tyrannen und seinen Fall. Shakespeare verknüpfte in seinem Drama geschichtliche Fakten über den historischen Schottenkönig Macbeth und den zeitgenössischen englischen König Jakob I. mit Aberglauben, Mythologie und Fiktion.</dbo:abstract>
+    <dbo:abstract xml:lang="ru">«Макбе́т» (англ. Macbeth) — пьеса, одна из наиболее известных трагедий Уильяма Шекспира. Пьеса, отдалённо основанная на истории реального шотландского короля Макбета, часто представляется архетипичной историей об опасности чрезмерной жажды власти и измены друзьям.</dbo:abstract>
+    <dbo:abstract xml:lang="zh">《馬克白》（Macbeth）是莎士比亞最短的悲劇，也是他最受歡迎的作品之一。常被认为是他悲剧中最为阴暗、最富震撼力的作品。故事的地点设在苏格兰，并以戏剧的方式、通过心理作用、政治争斗的方式观察了追逐权势而背信弃义的邪恶。它大致根据蘇格蘭哲学家赫克托·波伊斯的《苏格兰国王麦克白》而寫成。 戏剧讲述了勇敢的苏格兰将军馬克白从三女巫得到预言，称他某日会成为苏格兰国王。出于野心和妻子的怂恿，馬克白暗杀了国王邓肯，自立为王。在自责与幻想的折磨下，他很快堕落成为一名暴君，不得不通过持续的狠手来保护自己，打压敌意与猜忌。大屠杀与内战使得马克白与他的夫人变得自大、疯狂，直至二人最后的灭亡。舞台上，因馬克白夫人的情緒起伏多變，很多人都認為那是最難演的女性角色之一。 《麦克白》擁有不少「道德劇」的特徵。學者因其中支持詹姆士一世掌權，普遍認為它是一齣典型地寫於詹姆斯一世時代的戲劇，大概寫成於1606年。西蒙·弗曼在环球剧场看戏的笔记大概是本剧演出的最早记录，时间为1611年4月。剧本则在1623年的《对开本》中第一次出现，大概是戏台的台词本。不少證據顯示現有的文字曾被托马斯·米德尔顿修改。米德尔顿從他自己的劇作The Witch（1615年）加入了不少在原作頗受歡迎的段落，如女巫和赫卡忒的那一場。這些修改（整個第三幕第五場，及部分第四幕第一場）一般而言也被收錄。莎士比亚剧作的资料来源于《霍林希德编年史》中苏格兰王馬克白、麦克德夫、邓肯一世的相关记录。史书记录了英格兰、苏格兰、爱尔兰的相关事件，与莎士比亚和他同年代的类似。戏剧将史实改编，与真实事件有不少出入。</dbo:abstract>
+    <dbo:abstract xml:lang="es">Macbeth (título completo en inglés, The Tragedy of Macbeth, &quot;La tragedia de Macbeth&quot;) es una tragedia de William Shakespeare, que se cree que fue representada por vez primera en 1606. Dramatiza los dañinos efectos, físicos y psicológicos, de la ambición política, en aquellos que buscan el poder por sí mismo. De todas las obras que Shakespeare escribió durante el reinado de Jacobo I, quien era patrón de la compañía teatral de Shakespeare, Macbeth es la que más claramente reflexiona sobre la relación del dramaturgo con su soberano. Se publicó por primera vez en el Folio de 1623, posiblemente a partir de un prompt book, y es su tragedia más breve. No hay seguridad absoluta de que la tragedia sea en su totalidad obra de Shakespeare, ya que algunos afirman que ciertos pasajes podrían ser adiciones posteriores del dramaturgo Thomas Middleton, cuya obra La bruja (The witch) tiene múltiples afinidades con Macbeth.[cita requerida] La obra está libremente basada en el relato de la vida de un personaje histórico, Macbeth, que fue rey de los escoceses entre 1040 y 1057. La fuente principal de Shakespeare para esta tragedia fueron las Crónicas de Raphael Holinshed, obra de la que extrajo también los argumentos de sus obras históricas. Holinshed se basó a su vez en Historia Gentis Scotorum (Historia de los escoceses), obra escrita en latín por el autor escocés Hector Boece e impresa por primera vez en París en 1527. Para agradar a su mecenas, el rey Jacobo V de Escocia, Boece había oscurecido deliberadamente la figura de Macbeth, con el fin de exaltar a un hipotético antepasado del rey, Banquo. Es importante resaltar que el texto llega a nosotros únicamente a través del First Folio, a diferencia de otras obras de Shakespeare de las que además se conservan algunas ediciones en &quot;cuartos&quot;, aprobadas unas por el autor y otras provenientes de la memoria de los espectadores. Cierta corriente de la crítica sostiene que, dada la extensión menor de esta obra en relación con otras tragedias del Folio, puede argumentarse que lo que ha llegado a nosotros sea un resumen de la obra completa de Shakespeare, justificado además por la existencia de ciertos pasajes oscuros en el texto que dan la impresión de necesitar información adicional para ser interpretados dentro del contexto de la obra.</dbo:abstract>
+    <dbo:abstract xml:lang="pt">Macbeth é uma tragédia do dramaturgo inglês William Shakespeare, sobre um regicídio e suas consequências. É a tragédia shakespeariana mais curta, e acredita-se que tenha sido escrita entre 1603 e 1607. O primeiro relato de uma performance da peça é de abril de 1611, quando Simon Forman registrou tê-la visto no Globe Theatre, em Londres. A obra foi publicada pela primeira vez no Folio, de 1623, possivelmente a partir de uma transcrição de alguma performance específica. As principais fontes de Shakespeare para a tragédia são os relatos dos reis Duff e Duncan nas Crônicas da Inglaterra, Escócia e Irlanda, de 1587, uma história das Ilhas Britânicas familiar a Shakespeare e seus contemporâneos, e pelos escritos do filósofo escocês Hector Boece. No mundo teatral anglófono, muitos acreditam que a peça é &quot;amaldiçoada&quot;, e nem mesmo mencionam seu nome em voz alta, referindo-se a ela como &quot;The Scottish play&quot; (&quot;A peça escocesa&quot;). Ao longo dos séculos a peça atraiu alguns dos maiores atores de seu tempo para os papéis de Macbeth e Lady Macbeth. A obra já foi adaptada para o cinema, televisão, ópera, quadrinhos e muitas outras mídias. No cinema destacam-se as versões do italiano Mario Caserini (1908), a do austríaco Richard Oswald (1921), a do norte-americano Orson Welles (1948), a do japonês Akira Kurosawa (1957), a do polonês Roman Polanski (1971) e a do australiano Justin Kurzel (2015). No teatro brasileiro a peça ganhou adaptação de Aderbal Freire-Filho e João Dantas e foi interpretada por elenco contando com Daniel Dantas como Macbeth e Renata Sorrah como Lady Macbeth.  e em 2015, uma adaptação contemporânea com &quot;A floresta que se move&quot; para o cinema, do diretor Vinícius Coimbra, com Gabriel Braga Nunes e Ana Paula Arósio nos papéis principais.</dbo:abstract>
+    <dbo:abstract xml:lang="it">Macbeth è tra i più conosciuti drammi di Shakespeare, nonché la tragedia più breve.Frequentemente rappresentata e riadattata nel corso dei secoli, è divenuta archetipo della brama di potere e dei suoi pericoli. Per la trama Shakespeare si ispirò liberamente al resoconto storico del re Macbeth di Scozia di Raphael Holinshed e a quello del filosofo scozzese Hector Boece. Molto popolare è anche la versione operistica di questa tragedia, musicata da Verdi su libretto di Francesco Maria Piave.</dbo:abstract>
+    <dbo:abstract xml:lang="ja">『マクベス』（Macbeth）は、1606年頃に成立したウィリアム・シェイクスピアによって書かれた戯曲である。勇猛果敢だが小心な一面もある将軍マクベスが妻と謀って主君を暗殺し王位に就くが、内面・外面の重圧に耐えきれず錯乱して暴政を行い、貴族や王子らの復讐に倒れる。実在のスコットランド王マクベス（在位1040年–1057年）をモデルにしている。 『ハムレット』、『オセロー』、『リア王』と並ぶシェイクスピアの四大悲劇の1つで、その中では最も短い作品であり、最後に書かれたものと考えられる。</dbo:abstract>
+    <dbo:abstract xml:lang="fr"> Pour les articles homonymes, voir Macbeth et Macbett. Macbeth est une tragédie de William Shakespeare. Elle prend place dans l&#39;Écosse médiévale et retrace de manière très romancée le règne de Macbeth (1040-1057), en s&#39;inspirant de près du récit qu&#39;en fait Raphael Holinshed dans ses Chroniques, parues en 1587. Dévoré d&#39;ambition, le général Macbeth commet le crime de régicide pour s&#39;emparer du pouvoir, poussé par son épouse Lady Macbeth, mais la culpabilité et la paranoïa les font peu à peu sombrer dans la folie. La date de rédaction de Macbeth est inconnue, mais elle pourrait se situer entre 1599 et 1606 si l&#39;on tente de la lire à la lumière des événements contemporains, en particulier l&#39;avènement du roi écossais Jacques VI sur le trône d&#39;Angleterre en 1603 et la Conspiration des poudres en 1605. Elle est publiée pour la première fois dans le Premier Folio en 1623. Macbeth est la plus courte des tragédies de Shakespeare et l&#39;une de ses plus populaires : de nombreux acteurs de renom ont interprété les rôles de Macbeth et Lady Macbeth, et ses adaptations dans d&#39;autres médias sont nombreuses. Une superstition théâtrale veut qu&#39;elle soit maudite et qu&#39;il faille plutôt l&#39;appeler « la pièce écossaise » que prononcer son nom sur scène.</dbo:abstract>
+    <dbo:abstract xml:lang="nl">Macbeth is de kortste tragedie van de Engelse toneelschrijver en dichter William Shakespeare. Het tussen 1603 en 1607 geschreven werk is deels gebaseerd op de waargebeurde geschiedenis van de Schotse koning Macbeth van Schotland (1005 - 1057), die op de troon kwam door in 1040 bij Elgin in Schotland koning Duncan I van Schotland te doden. Macbeth werd geschreven tijdens het koningschap van Jacobus I van Engeland die als Jacobus VI al koning van Schotland was voor hij de Engelse troon besteeg. Door zich op de Schot Macbeth te richten bracht Shakespeare op deze manier hommage aan de Schotse afkomst van Jacobus I. Ook de figuur van Banquo in het toneelstuk is een verwijzing naar de historische Banquo, van wie de familie van Jacobus I beweerde af te stammen. Shakespeares voornaamste bronnen voor deze tragedie zijn de kronieken van Holinshed (Holinshed&#39;s Chronicles) uit 1587. In deze geschiedenis van Engeland, Schotland en Ierland staan de verhalen over de koningen Macbeth, Macduff en Duncan waarmee ook Shakespeares tijdgenoten vertrouwd zullen zijn geweest. Zo komt de scène met de drie heksen op de heide vrij letterlijk uit deze bron.</dbo:abstract>
+    <dbo:abstract xml:lang="pl">Makbet (ang. Macbeth) – tragedia Williama Shakespeare’a napisana około roku 1606, należy do najczęściej wystawianych i adaptowanych sztuk szekspirowskich, jest również najkrótszą tragedią jego autorstwa. Sztuka oparta została na przekazach historycznych dotyczących króla szkockiego Makbeta spisanych w kronice Raphaela Holinsheda (ok. 1570-1577), a pośrednio na Scotorum Historiae autorstwa Hectora Boece z 1527 roku (będącej źródłem dla Holinsheda). Na język polski tłumaczony był Makbet wielokrotnie, m.in. przez Stanisława Egberta Koźmiana, Józefa Paszkowskiego, Leona Ulricha, Jana Kasprowicza, Krystynę Berwińską i Jerzego Sitę, lecz według krytyków, takich jak Jan Kott czy Tadeusz Łomnicki, najlepiej przetłumaczył go Stanisław Barańczak. Na scenie polskiej Makbet został po raz pierwszy wystawiony w roku 1812 w teatrze Wojciecha Bogusławskiego. Sztuka jest archetypiczną opowieścią o niebezpieczeństwach związanych z żądzą władzy i zdradą przyjaciół. Obecny jest w niej wątek charakterystyczny dla średniowiecznego moralitetu: główny bohater ulega pokusie władzy, następuje jego stopniowy upadek moralny, aż do zbrodni, która pociąga za sobą kolejne, nie mija go jednak kara – traci wewnętrzny spokój i poczucie sensu życia.</dbo:abstract>
+    <dbp:author rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">William Shakespeare</dbp:author>
+    <dbp:date rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">September 2014</dbp:date>
+    <dbp:reason rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Why is he odd? Needs elaboration</dbp:reason>
+    <dbp:title rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Macbeth</dbp:title>
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Tragedy" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/HMT_Macbeth_(T138)">
+    <dbp:shipNamesake rdf:resource="http://dbpedia.org/resource/Macbeth" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Macbeth_(1948_film)">
+    <dbo:basedOn rdf:resource="http://dbpedia.org/resource/Macbeth" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Macbeth_(2006_film)">
+    <dbo:basedOn rdf:resource="http://dbpedia.org/resource/Macbeth" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Macbeth_(disambiguation)">
+    <dbo:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/Macbeth" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Maqbool">
+    <dbo:basedOn rdf:resource="http://dbpedia.org/resource/Macbeth" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Manana_Antadze">
+    <dbo:notableWork rdf:resource="http://dbpedia.org/resource/Macbeth" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Fair_is_foul,_and_foul_is_fair">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Macbeth" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Characters_of_Shakespear&#39;s_Plays">
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Macbeth" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/HMS_Macbeth">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Macbeth" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Wyrd_Sisters">
+    <dbo:nonFictionSubject rdf:resource="http://dbpedia.org/resource/Macbeth" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/We_Players">
+    <dbo:currentProduction rdf:resource="http://dbpedia.org/resource/Macbeth" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Battle_of_Dunsinane">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Macbeth" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Macbeth/Act_III_Scene_i">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Macbeth" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Macbeth/Act_III_Scene_ii">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Macbeth" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Macbeth/Act_III_Scene_iii">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Macbeth" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Macbeth/Act_III_Scene_iv">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Macbeth" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Macbeth/Act_III_Scene_v">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Macbeth" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Macbeth/Act_III_Scene_vi">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Macbeth" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Macbeth/Act_II_Scene_i">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Macbeth" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Macbeth/Act_II_Scene_ii">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Macbeth" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Macbeth/Act_II_Scene_iii">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Macbeth" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Macbeth/Act_II_Scene_iv">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Macbeth" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Macbeth/Act_IV_Scene_i">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Macbeth" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Macbeth/Act_IV_Scene_ii">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Macbeth" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Macbeth/Act_IV_Scene_iii">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Macbeth" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Macbeth/Act_I_Scene_i">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Macbeth" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Macbeth/Act_I_Scene_ii">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Macbeth" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Macbeth/Act_I_Scene_iii">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Macbeth" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Macbeth/Act_I_Scene_iv">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Macbeth" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Macbeth/Act_I_Scene_v">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Macbeth" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Macbeth/Act_I_Scene_vi">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Macbeth" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Macbeth/Act_I_Scene_vii">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Macbeth" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Macbeth/Act_V_Scene_i">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Macbeth" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Macbeth/Act_V_Scene_ii">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Macbeth" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Macbeth/Act_V_Scene_iii">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Macbeth" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Macbeth/Act_V_Scene_iv">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Macbeth" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Macbeth/Act_V_Scene_v">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Macbeth" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Macbeth/Act_V_Scene_vi">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Macbeth" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Macbeth/Act_V_Scene_vii">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Macbeth" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Macbeth/Act_V_Scene_viii">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Macbeth" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/MacBeth">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Macbeth" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Shakespeare&#39;s_Macbeth">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Macbeth" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/McBeth">
+    <dbo:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/Macbeth" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Tragedy_of_Macbeth">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Macbeth" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Macbeth_(play)">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Macbeth" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mac_Beth">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Macbeth" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Macbeth_/_The_Scottish_Play">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Macbeth" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Macbeth_Acts">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Macbeth" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Macbeth">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Macbeth" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Thain_of_Glamis">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Macbeth" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Thegn_of_Glamis">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Macbeth" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lennox(Character)">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Macbeth" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Macbethian">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Macbeth" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Characters_in_Macbeth">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Macbeth" />
+  </rdf:Description>
+</rdf:RDF>

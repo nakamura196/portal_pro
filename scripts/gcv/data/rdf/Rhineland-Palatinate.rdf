@@ -1,0 +1,1356 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:dbo="http://dbpedia.org/ontology/"
+	xmlns:dbp="http://dbpedia.org/property/"
+	xmlns:dct="http://purl.org/dc/terms/"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	xmlns:prov="http://www.w3.org/ns/prov#"
+	xmlns:ns10="http://dbpedia.org/ontology/PopulatedPlace/"
+	xmlns:georss="http://www.georss.org/georss/"
+	xmlns:ns12="http://purl.org/linguistics/gold/" >
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Thomas_Nast">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Birgit_Collin-Langen">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+    <dbp:constituencyMp rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Liebenau_monastery">
+    <dbp:location rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Wolfgang_Leonhard">
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/BigFM">
+    <dbo:broadcastArea rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+    <dbo:city rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Drahtzug_Stein">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Neustadt_International_School">
+    <dbo:state rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Rheinburgenweg_Trail">
+    <dbp:location rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Schierstein_Bridge">
+    <dbo:locatedInArea rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/United_Internet">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Erbeskopf">
+    <dbo:locatedInArea rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Schneckenhausen">
+    <dbo:federalState rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Heinrich_Schroth">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kastellaun_Castle">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sponheim_Castle">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Rheinland-Palatinate">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Rhineland–Palatinate">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kaiserslautern_University_of_Technology">
+    <dbo:state rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/University_of_Koblenz_and_Landau">
+    <dbo:state rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Max_Planck_Institute_for_Polymer_Research">
+    <dbo:headquarter rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sabine_Bätzing-Lichtenthäler">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Eifel">
+    <dbo:state rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/High_Fens_–_Eifel_Nature_Park">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Rudolf_Scharping">
+    <dbp:title rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Eckbach">
+    <dbp:location rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Isenach">
+    <dbp:location rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Pfrimm">
+    <dbp:location rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Rehbach_(Palatinate)">
+    <dbp:location rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Speyerbrunn">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bundesstraße_51">
+    <dbp:states rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bundesstraße_62">
+    <dbp:states rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Rhineland_Palatinate">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Dümpelfeld–Lissendorf_railway">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2010–11_Hamburger_SV_season">
+    <dbp:location rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Rhineland-Pfalz">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Rhineland-Pfälz">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Erlenbach_(Michelsbach)">
+    <dbp:lage rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Erlenbach_(Speyerbach)">
+    <dbp:location rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ludwig_Fischer">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Rial_Racing">
+    <dbp:base rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Schneider_Kreuznach">
+    <dbo:foundationPlace rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bundesautobahn_8">
+    <dbp:states rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lemberg_(Nahe)">
+    <dbo:locatedInArea rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Rhineland_(disambiguation)">
+    <dbo:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Smilo_Freiherr_von_Lüttwitz">
+    <dbp:deathPlace rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Wormatia-Stadion">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Catholic_University_of_Applied_Sciences,_Mainz">
+    <dbo:state rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/University_of_Applied_Sciences,_Mainz">
+    <dbo:state rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ernstberg">
+    <dbo:locatedInArea rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Landstuhl_Regional_Medical_Center__Landstuhl_Regional_Medical_Center__1">
+    <dbo:region rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Swist">
+    <dbp:lage rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Heimersheimer_Bach">
+    <dbp:lage rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Rainer_Schönborn">
+    <dbp:birthPlace rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Karl_Marx">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mainz">
+    <dbo:federalState rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Rhineland-Palatinate">
+    <rdf:type rdf:resource="http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing" />
+    <rdf:type rdf:resource="http://schema.org/AdministrativeArea" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q3455524" />
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Region108630039" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PhysicalEntity100001930" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoLegalActorGeo" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Object100002684" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Location100027167" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/AdministrativeDistrict108491826" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Region108630985" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoGeoEntity" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoPermanentlyLocatedEntity" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/District108552138" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/PopulatedPlace" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Location" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatWineRegionsOfGermany" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Place" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/AdministrativeRegion" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Region" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatNUTS1StatisticalRegionsOfTheEuropeanUnion" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatStatesAndTerritoriesEstablishedIn1946" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatStatesOfGermany" />
+    <rdf:type rdf:resource="http://schema.org/Place" />
+    <rdfs:label xml:lang="zh">莱茵兰-普法尔茨</rdfs:label>
+    <rdfs:label xml:lang="fr">Rhénanie-Palatinat</rdfs:label>
+    <rdfs:label xml:lang="ru">Рейнланд-Пфальц</rdfs:label>
+    <rdfs:label xml:lang="pl">Nadrenia-Palatynat</rdfs:label>
+    <rdfs:label xml:lang="nl">Rijnland-Palts</rdfs:label>
+    <rdfs:label xml:lang="de">Rheinland-Pfalz</rdfs:label>
+    <rdfs:label xml:lang="pt">Renânia-Palatinado</rdfs:label>
+    <rdfs:label xml:lang="es">Renania-Palatinado</rdfs:label>
+    <rdfs:label xml:lang="it">Renania-Palatinato</rdfs:label>
+    <rdfs:label xml:lang="en">Rhineland-Palatinate</rdfs:label>
+    <rdfs:label xml:lang="ar">راينلند بالاتينات</rdfs:label>
+    <rdfs:label xml:lang="ja">ラインラント＝プファルツ州</rdfs:label>
+    <rdfs:comment xml:lang="it">La Renania-Palatinato (in tedesco Rheinland-Pfalz) è uno dei 16 stati federati della Germania situato nella parte sud-occidentale del paese. Lo stato fu istituito nel 1946 comprendendo la parte meridionale della provincia prussiana del Reno, la provincia Reno-Assia dello Stato Popolare d&#39;Assia, la parte occidentale della Provincia di Nassau e la gran parte della regione storica del Palatinato. Occupa una superficie di 19.853 km² ed ha circa 4 milioni di abitanti. La capitale è Magonza.</rdfs:comment>
+    <rdfs:comment xml:lang="pt">A Renânia-Palatinado (Rheinland-Pfalz) é um dos 16 estados (Länder) da Alemanha, situado no sudoeste do país. A capital é Mainz. Seus limites são os Estados da Renânia do Norte-Vestfália a norte, Hessen a leste e Baden-Württemberg a sudeste; os departamentos franceses do Bas-Rhin e do Mosela a sul, o Land do Sarre a sudoeste, Luxemburgo a oeste, e a província belga de Liège a noroeste. Após a 1ª guerra a Alemanha teve que assinar o tratado de Versalhes, assim perdendo a Renânia-Palatinado, mas 13 anos após o tratado a Alemanha Nazista recuperou o território.</rdfs:comment>
+    <rdfs:comment xml:lang="de">Rheinland-Pfalz [ˈʁaɪ̯nlantˈp͡falt͡s] (Ländercode RP, Abkürzung RP oder RLP) ist eine parlamentarische Republik und ein Land der Bundesrepublik Deutschland. Landeshauptstadt und zugleich bevölkerungsreichste Stadt ist Mainz; mit Ludwigshafen am Rhein, Trier, Koblenz und Kaiserslautern liegen vier weitere Großstädte mit Funktion als Oberzentren in Rheinland-Pfalz.</rdfs:comment>
+    <rdfs:comment xml:lang="ru">Рейнланд-Пфальц (нем. Rheinland-Pfalz), (произношение (инф.)) — земля Германии. Столица — город Майнц.</rdfs:comment>
+    <rdfs:comment xml:lang="en">Rhineland-Palatinate (German: Rheinland-Pfalz, pronounced [ˈʁaɪ̯nlant ˈp͡falt͡s]) is one of the 16 states (German: Länder, lit. &quot;countries&quot;) of the Federal Republic of Germany. It has an area of 19,846 square kilometres (7,663 sq mi) and about four million inhabitants. Its state capital is Mainz. Rhineland-Palatinate is located in western Germany and borders Belgium, Luxembourg and France, and the German states of North Rhine-Westphalia, Hesse, Baden-Württemberg and Saarland.</rdfs:comment>
+    <rdfs:comment xml:lang="pl">Nadrenia-Palatynat (niem. Rheinland-Pfalz, w skrócie RP lub RLP) – kraj związkowy w południowo-zachodnich Niemczech. Utworzony został 30 sierpnia 1946. Stolicą kraju związkowego jest Moguncja. Graniczy z krajami związkowymi: Nadrenia Północna-Westfalia, Hesja, Saara, Badenia-Wirtembergia oraz na zachodzie z Belgią, Francją i Luksemburgiem.</rdfs:comment>
+    <rdfs:comment xml:lang="fr">Le land de Rhénanie-Palatinat (en allemand : Rheinland-Pfalz, prononcé : [ˈʁaɪ̯nlant ˈp͡falt͡s]) est l&#39;un des seize États fédérés composant l&#39;Allemagne. Il a été créé le 30 août 1946 à partir de la partie nord de la zone française d&#39;occupation et légalement confirmé par un référendum sur le projet de constitution le 18 mai 1947. Le jour de constitution de land est célébré chaque année le 18 mai. Le land compte environ 4 000 000 habitants, dont 317 000 étrangers, sur une surface de 19 848 km2 soit une densité de 203 hab./km2.</rdfs:comment>
+    <rdfs:comment xml:lang="ja">ラインラント＝プファルツ州（ドイツ語: Land Rheinland-Pfalz）は、ドイツに16ある連邦州の一つ。州都はマインツ。世界有数のドライバーズサーキット・ニュルブルクリンクが州北部アールヴァイラー郡のアイフェル丘陵にある。</rdfs:comment>
+    <rdfs:comment xml:lang="ar">25بك المحتوى هنا ينقصه الاستشهاد بمصادر. يرجى إيراد مصادر موثوق بها. أي معلومات غير موثقة يمكن التشكيك بها وإزالتها. (مارس 2016) راينلند بالاتينات (بالألمانية : Rheinland-Pfalz) وتنطق راينلاند بفالز  ) هي إحدى ولايات ألمانيا الستة عشر. عاصمتها هي مدينة ماينتس، التي اشتهرت بكونها مدينة غوتنبيرغ، مخترع الطباعة.</rdfs:comment>
+    <rdfs:comment xml:lang="es">Renania-Palatinado (en alemán: Rheinland-Pfalz) es uno de los 16 estados federados de Alemania. Tiene una superficie de 19 846 km² y está atravesado por los ríos Rin y Mosela. La capital del estado es Maguncia (Mainz en alemán). Otras ciudades importantes del estado son Kaiserslautern, Tréveris, Coblenza y Ludwigshafen.</rdfs:comment>
+    <rdfs:comment xml:lang="zh">莱茵兰-普法尔茨（德语：Rheinland-Pfalz）是德意志联邦共和国的一个州，位于德国西南部莱茵河中游．全境由19世紀的黑森大公國萊茵領地及巴伐利亞王國普法尔茨領地共同組成，首府美茵茨。该州与卢森堡、法国接壤</rdfs:comment>
+    <rdfs:comment xml:lang="nl">Rijnland-Palts (Duits: Rheinland-Pfalz, Paltsisch: Rhoilond-Palz) is een van de zestien deelstaten van Duitsland en heeft een oppervlakte van 19.853,44 km² en 3.994.366 inwoners. De hoofdstad is Mainz.</rdfs:comment>
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate_state_election" />
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/2016" />
+    <owl:sameAs rdf:resource="http://yago-knowledge.org/resource/Rhineland-Palatinate" />
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q1200" />
+    <owl:sameAs rdf:resource="http://id.dbpedia.org/resource/Rheinland-Pfalz" />
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q1200" />
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+    <owl:sameAs rdf:resource="http://it.dbpedia.org/resource/Renania-Palatinato" />
+    <owl:sameAs rdf:resource="http://sw.cyc.com/concept/Mx4rwQSQCJwpEbGdrcN5Y29ycA" />
+    <owl:sameAs rdf:resource="http://pt.dbpedia.org/resource/Renânia-Palatinado" />
+    <owl:sameAs rdf:resource="http://ko.dbpedia.org/resource/라인란트팔츠_주" />
+    <owl:sameAs rdf:resource="http://sws.geonames.org/2847618/" />
+    <owl:sameAs rdf:resource="http://eu.dbpedia.org/resource/Renania-Palatinatua" />
+    <owl:sameAs rdf:resource="http://cs.dbpedia.org/resource/Porýní-Falc" />
+    <owl:sameAs rdf:resource="http://pl.dbpedia.org/resource/Nadrenia-Palatynat" />
+    <owl:sameAs rdf:resource="http://el.dbpedia.org/resource/Ρηνανία-Παλατινάτο" />
+    <owl:sameAs rdf:resource="http://d-nb.info/gnd/4049795-1" />
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.06jtd" />
+    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/Rheinland-Pfalz" />
+    <owl:sameAs rdf:resource="http://nl.dbpedia.org/resource/Rijnland-Palts" />
+    <owl:sameAs rdf:resource="http://fr.dbpedia.org/resource/Rhénanie-Palatinat" />
+    <owl:sameAs rdf:resource="http://es.dbpedia.org/resource/Renania-Palatinado" />
+    <owl:sameAs rdf:resource="http://ja.dbpedia.org/resource/ラインラント＝プファルツ州" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Rhineland-Palatinate" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:History_of_the_Palatinate_(region)" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:1946_establishments_in_West_Germany" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:States_and_territories_established_in_1946" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:NUTS_1_statistical_regions_of_the_European_Union" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Wine_regions_of_Germany" />
+    <dbo:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">26239</dbo:wikiPageID>
+    <dbo:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">744145914</dbo:wikiPageRevisionID>
+    <dbo:wikiPageExternalLink rdf:resource="http://www.rlp.de/" />
+    <foaf:name xml:lang="en">Rheinland-Pfalz</foaf:name>
+    <foaf:homepage rdf:resource="http://www.rlp.de/" />
+    <skos:exactMatch rdf:resource="http://rdfdata.eionet.europa.eu/ramon/nuts/DEB" />
+    <dbp:name rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Rhineland-Palatinate</dbp:name>
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#float">49.9131</geo:lat>
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#float">7.45</geo:long>
+    <foaf:depiction rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Coat_of_arms_of_Rhineland-Palatinate.svg" />
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Rhineland-Palatinate" />
+    <geo:geometry rdf:datatype="http://www.openlinksw.com/schemas/virtrdf#Geometry">POINT(7.4499998092651 49.913055419922)</geo:geometry>
+    <dbo:thumbnail rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Coat_of_arms_of_Rhineland-Palatinate.svg?width=300" />
+    <prov:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Rhineland-Palatinate?oldid=744145914" />
+    <ns10:areaTotal rdf:datatype="http://dbpedia.org/datatype/squareKilometre">19854.21</ns10:areaTotal>
+    <dbo:abstract xml:lang="fr">Le land de Rhénanie-Palatinat (en allemand : Rheinland-Pfalz, prononcé : [ˈʁaɪ̯nlant ˈp͡falt͡s]) est l&#39;un des seize États fédérés composant l&#39;Allemagne. Il a été créé le 30 août 1946 à partir de la partie nord de la zone française d&#39;occupation et légalement confirmé par un référendum sur le projet de constitution le 18 mai 1947. Le jour de constitution de land est célébré chaque année le 18 mai. Le land compte environ 4 000 000 habitants, dont 317 000 étrangers, sur une surface de 19 848 km2 soit une densité de 203 hab./km2. Située à l&#39;ouest du pays, la Rhénanie-Palatinat est frontalière avec trois pays européens et quatre autres länder allemands (depuis le nord et dans le sens des aiguilles d&#39;une montre) la Rhénanie-du-Nord-Westphalie, la Hesse, le Bade-Wurtemberg, la France, la Sarre, le Luxembourg et la Belgique (Région wallonne). Sa capitale (depuis 1946) est la ville de Mayence. Elle est le siège du gouvernement du land, de la 2e chaîne de télévision d&#39;Allemagne, ainsi que d&#39;une université, recréée après la guerre. La ville s&#39;est industrialisée en électrotechnique, chimie, industries graphique, verre et vins. Le bassin de Coblence a la pluviométrie la plus basse de toute l&#39;Allemagne (&lt; 500 mm/an). Ses cultures sont riches en légumes, fruits et vignes.</dbo:abstract>
+    <dbo:abstract xml:lang="pt">A Renânia-Palatinado (Rheinland-Pfalz) é um dos 16 estados (Länder) da Alemanha, situado no sudoeste do país. A capital é Mainz. Seus limites são os Estados da Renânia do Norte-Vestfália a norte, Hessen a leste e Baden-Württemberg a sudeste; os departamentos franceses do Bas-Rhin e do Mosela a sul, o Land do Sarre a sudoeste, Luxemburgo a oeste, e a província belga de Liège a noroeste. Após a 1ª guerra a Alemanha teve que assinar o tratado de Versalhes, assim perdendo a Renânia-Palatinado, mas 13 anos após o tratado a Alemanha Nazista recuperou o território.</dbo:abstract>
+    <dbo:abstract xml:lang="pl">Nadrenia-Palatynat (niem. Rheinland-Pfalz, w skrócie RP lub RLP) – kraj związkowy w południowo-zachodnich Niemczech. Utworzony został 30 sierpnia 1946. Stolicą kraju związkowego jest Moguncja. Graniczy z krajami związkowymi: Nadrenia Północna-Westfalia, Hesja, Saara, Badenia-Wirtembergia oraz na zachodzie z Belgią, Francją i Luksemburgiem.</dbo:abstract>
+    <dbo:abstract xml:lang="zh">莱茵兰-普法尔茨（德语：Rheinland-Pfalz）是德意志联邦共和国的一个州，位于德国西南部莱茵河中游．全境由19世紀的黑森大公國萊茵領地及巴伐利亞王國普法尔茨領地共同組成，首府美茵茨。该州与卢森堡、法国接壤</dbo:abstract>
+    <dbo:abstract xml:lang="ar">25بك المحتوى هنا ينقصه الاستشهاد بمصادر. يرجى إيراد مصادر موثوق بها. أي معلومات غير موثقة يمكن التشكيك بها وإزالتها. (مارس 2016) راينلند بالاتينات (بالألمانية : Rheinland-Pfalz) وتنطق راينلاند بفالز  ) هي إحدى ولايات ألمانيا الستة عشر. عاصمتها هي مدينة ماينتس، التي اشتهرت بكونها مدينة غوتنبيرغ، مخترع الطباعة.</dbo:abstract>
+    <dbo:abstract xml:lang="ru">Рейнланд-Пфальц (нем. Rheinland-Pfalz), (произношение (инф.)) — земля Германии. Столица — город Майнц.</dbo:abstract>
+    <dbo:abstract xml:lang="es">Renania-Palatinado (en alemán: Rheinland-Pfalz) es uno de los 16 estados federados de Alemania. Tiene una superficie de 19 846 km² y está atravesado por los ríos Rin y Mosela. La capital del estado es Maguncia (Mainz en alemán). Otras ciudades importantes del estado son Kaiserslautern, Tréveris, Coblenza y Ludwigshafen.</dbo:abstract>
+    <dbo:abstract xml:lang="it">La Renania-Palatinato (in tedesco Rheinland-Pfalz) è uno dei 16 stati federati della Germania situato nella parte sud-occidentale del paese. Lo stato fu istituito nel 1946 comprendendo la parte meridionale della provincia prussiana del Reno, la provincia Reno-Assia dello Stato Popolare d&#39;Assia, la parte occidentale della Provincia di Nassau e la gran parte della regione storica del Palatinato. Occupa una superficie di 19.853 km² ed ha circa 4 milioni di abitanti. La capitale è Magonza.</dbo:abstract>
+    <dbo:abstract xml:lang="de">Rheinland-Pfalz [ˈʁaɪ̯nlantˈp͡falt͡s] (Ländercode RP, Abkürzung RP oder RLP) ist eine parlamentarische Republik und ein Land der Bundesrepublik Deutschland. Landeshauptstadt und zugleich bevölkerungsreichste Stadt ist Mainz; mit Ludwigshafen am Rhein, Trier, Koblenz und Kaiserslautern liegen vier weitere Großstädte mit Funktion als Oberzentren in Rheinland-Pfalz.</dbo:abstract>
+    <dbo:abstract xml:lang="en">Rhineland-Palatinate (German: Rheinland-Pfalz, pronounced [ˈʁaɪ̯nlant ˈp͡falt͡s]) is one of the 16 states (German: Länder, lit. &quot;countries&quot;) of the Federal Republic of Germany. It has an area of 19,846 square kilometres (7,663 sq mi) and about four million inhabitants. Its state capital is Mainz. Rhineland-Palatinate is located in western Germany and borders Belgium, Luxembourg and France, and the German states of North Rhine-Westphalia, Hesse, Baden-Württemberg and Saarland.</dbo:abstract>
+    <dbo:abstract xml:lang="ja">ラインラント＝プファルツ州（ドイツ語: Land Rheinland-Pfalz）は、ドイツに16ある連邦州の一つ。州都はマインツ。世界有数のドライバーズサーキット・ニュルブルクリンクが州北部アールヴァイラー郡のアイフェル丘陵にある。</dbo:abstract>
+    <dbo:abstract xml:lang="nl">Rijnland-Palts (Duits: Rheinland-Pfalz, Paltsisch: Rhoilond-Palz) is een van de zestien deelstaten van Duitsland en heeft een oppervlakte van 19.853,44 km² en 3.994.366 inwoners. De hoofdstad is Mainz.</dbo:abstract>
+    <dbo:areaTotal rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.98542e+10</dbo:areaTotal>
+    <dbo:capital rdf:resource="http://dbpedia.org/resource/Mainz" />
+    <dbo:country rdf:resource="http://dbpedia.org/resource/Germany" />
+    <dbo:leader rdf:resource="http://dbpedia.org/resource/Malu_Dreyer" />
+    <dbo:populationAsOf rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2015-12-31</dbo:populationAsOf>
+    <dbo:populationTotal rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">4052803</dbo:populationTotal>
+    <georss:point>49.91305555555556 7.45</georss:point>
+    <dbp:date rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">August 2010</dbp:date>
+    <dbp:flag rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Flag of Rhineland-Palatinate.svg</dbp:flag>
+    <dbp:float rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">right</dbp:float>
+    <dbp:gdp rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">124</dbp:gdp>
+    <dbp:gdpPerCapita rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">31100</dbp:gdpPerCapita>
+    <dbp:gdpPerCapitaYear rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2013</dbp:gdpPerCapitaYear>
+    <dbp:gdpYear rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2013</dbp:gdpYear>
+    <dbp:isoRegion rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">DE-RP</dbp:isoRegion>
+    <dbp:key rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">7</dbp:key>
+    <dbp:latd rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">49</dbp:latd>
+    <dbp:latm rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">54</dbp:latm>
+    <dbp:lats rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">47</dbp:lats>
+    <dbp:leaderParty rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">SPD</dbp:leaderParty>
+    <dbp:left rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">religion</dbp:left>
+    <dbp:longd rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">7</dbp:longd>
+    <dbp:longm rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">27</dbp:longm>
+    <dbp:longs rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">0</dbp:longs>
+    <dbp:nuts rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">DEB</dbp:nuts>
+    <dbp:right rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">percent</dbp:right>
+    <dbp:rulingParty rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">SPD</dbp:rulingParty>
+    <dbp:rulingParty rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Greens</dbp:rulingParty>
+    <dbp:rulingParty rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Free Democratic Party</dbp:rulingParty>
+    <dbp:stateCoa rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Coat of arms of Rhineland-Palatinate.svg</dbp:stateCoa>
+    <dbp:title rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Religion in Rhineland-Palatinate – 2010</dbp:title>
+    <dbp:votes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</dbp:votes>
+    <dbp:website rdf:resource="http://www.rlp.de/" />
+    <ns12:hypernym rdf:resource="http://dbpedia.org/resource/States" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bingen_(Rhein)_Hauptbahnhof">
+    <dbp:borough rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Cochem">
+    <dbo:federalState rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gerolstein">
+    <dbo:federalState rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hoher_List">
+    <dbo:locatedInArea rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Laacher_See">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Alexander_von_Falkenhausen">
+    <dbp:deathPlace rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Frankfurt_Rhine-Main">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Malu_Dreyer">
+    <dbp:title rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ralph_H._Baer">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ripuarian_language">
+    <dbo:spokenIn rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Rodenbach_(Eisbach)">
+    <dbp:lage rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Schönau_Abbey_(Nassau)">
+    <dbp:location rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Eugene_W._Hilgard">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Rehberg_(Wasgau)">
+    <dbo:locatedInArea rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hindenburg_Bridge">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/University_of_Applied_Sciences,_Worms">
+    <dbo:state rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Apert">
+    <dbo:locatedInArea rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Dietzenley">
+    <dbo:locatedInArea rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Höchstberg_(Eifel)">
+    <dbo:locatedInArea rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nerother_Kopf">
+    <dbo:locatedInArea rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Prümscheid">
+    <dbo:locatedInArea rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Petra_Born">
+    <dbp:birthPlace rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tala_Birell">
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Thionville–Trier_railway">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Isolde_Barth">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Markus_Gabriel">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Klaus_Rudolf_Werhand">
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lauter_Valley_Railway_(Palatinate)">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/1998–99_1._FC_Kaiserslautern_season">
+    <dbp:location rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2012–13_1._FC_Kaiserslautern_season">
+    <dbo:ground rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+    <dbo:homeStadium rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Charlotte_Klamroth">
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+    <dbo:residence rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bacharach">
+    <dbo:federalState rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Trier">
+    <dbo:federalState rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Alzey">
+    <dbo:federalState rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Elkenroth">
+    <dbo:federalState rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Frankfurt–Hahn_Airport">
+    <dbo:city rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Katzenelnbogen">
+    <dbo:federalState rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Koblenz">
+    <dbo:federalState rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lahn">
+    <dbo:mouthMountain rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+    <dbo:mouthPlace rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ahr">
+    <dbo:mouthRegion rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bad_Kreuznach">
+    <dbo:federalState rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Baumholder">
+    <dbo:federalState rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Frankenthal">
+    <dbo:federalState rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hartenberg-Münchfeld">
+    <dbo:federalState rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Konz">
+    <dbo:federalState rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ludendorff_Bridge">
+    <dbo:locatedInArea rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sankt_Goar">
+    <dbo:federalState rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Drachenfels_(Central_Palatinate_Forest)">
+    <dbo:locatedInArea rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Palatinate">
+    <dbo:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Palatinate_(wine_region)">
+    <dbo:isPartOfWineRegion rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Dudeldorf">
+    <dbo:federalState rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Oflag_XII-B">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/German_Federal_Archives">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Markus_Burger">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Opel_Arena_(stadium)">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Regionalliga_Süd">
+    <dbp:state rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Rheinland-Pfalz_Rundfahrt">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Daniel_Tosh">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Drais">
+    <dbo:federalState rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kaiserslautern_Hauptbahnhof">
+    <dbp:borough rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mainz-Mombach_station">
+    <dbp:borough rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Monika_Stolz">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Prophecy_Productions">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Trier_Hauptbahnhof">
+    <dbp:borough rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bad_Dürkheim_station">
+    <dbp:borough rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bingen_(Rhein)_Stadt_station">
+    <dbp:borough rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/David_Rouzer">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Freinsheim_station">
+    <dbp:borough rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Glan-Münchweiler_station">
+    <dbp:borough rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Idarkopf_Tower">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kusel_station">
+    <dbp:borough rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lauterecken-Grumbach_station">
+    <dbp:borough rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ludwigshafen_University_of_Applied_Sciences">
+    <dbo:state rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Oberwesel_station">
+    <dbp:borough rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Pirmasens_Hauptbahnhof">
+    <dbp:borough rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Schifferstadt_station">
+    <dbp:borough rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Staatstheater_Mainz">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Winden_(Pfalz)_station">
+    <dbp:borough rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Floßbach_(Eckbach)">
+    <dbp:lage rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Floßbach_(Isenach)">
+    <dbp:lage rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hardtkopf_(Eifel)">
+    <dbo:locatedInArea rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kellerberg_(Meulenwald)">
+    <dbo:locatedInArea rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Seltenbach_(Eisbach)">
+    <dbp:lage rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Rheinhöhenweg_Trail">
+    <dbp:location rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ahr_Valley_Railway">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Biebermühl_Railway">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bruhrain_Railway">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Karl_Atzenroth">
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lahn_Valley_Railway">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Landau–Rohrbach_railway">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lützelsoon">
+    <dbo:state rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Riveris_(river)">
+    <dbp:lage rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Rodalb">
+    <dbp:lage rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Weinheim–Worms_railway">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Engers–Au_railway">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Heinz_König">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Southwestern_Cup">
+    <dbp:region rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/John_Nesser">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Phil_Nesser">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ramstein_air_show_disaster">
+    <dbp:site rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Elias_Harris">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Environmental_Campus_Birkenfeld">
+    <dbo:state rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hanin_Elias">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Rheinland-Pfalz">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hans_Geiger">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Westerwald">
+    <dbo:state rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bundesautobahn_61">
+    <dbp:states rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Rhine-Neckar">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/WHU-Otto_Beisheim_School_of_Management">
+    <dbo:state rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Berwartstein_Castle">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Holiday_Park,_Germany">
+    <dbp:location rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Pfeddersheim">
+    <dbo:federalState rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/West_Rhine_Railway">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Genheim">
+    <dbo:federalState rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Heidenköpfe">
+    <dbo:locatedInArea rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hochsimmer">
+    <dbo:locatedInArea rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Alsenborn">
+    <dbo:federalState rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Blättersberg">
+    <dbo:locatedInArea rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bobenthaler_Knopf">
+    <dbo:locatedInArea rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Brogberg">
+    <dbo:locatedInArea rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Eckkopf">
+    <dbo:locatedInArea rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Eschkopf">
+    <dbo:locatedInArea rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hoher_Stoppelkopf">
+    <dbo:locatedInArea rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hortenkopf">
+    <dbo:locatedInArea rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Johanniskreuz">
+    <dbo:federalState rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kesselberg_(Haardt)">
+    <dbo:locatedInArea rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kleine_Kalmit">
+    <dbo:locatedInArea rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mosisberg">
+    <dbo:locatedInArea rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Rahnfels">
+    <dbo:locatedInArea rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Roßberg_(Haardt)">
+    <dbo:locatedInArea rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Schafkopf_(Haardt)">
+    <dbo:locatedInArea rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Steigerkopf">
+    <dbo:locatedInArea rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Weißenberg_(Frankenweide)">
+    <dbo:locatedInArea rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Wetterkreuzberg">
+    <dbo:locatedInArea rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bundesautobahn_48">
+    <dbp:states rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bundesautobahn_62">
+    <dbp:states rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bundesautobahn_63">
+    <dbp:states rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bundesautobahn_64">
+    <dbp:states rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bundesautobahn_65">
+    <dbp:states rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bundesstraße_258">
+    <dbp:states rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bundesstraße_327">
+    <dbp:states rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Eifel_Railway">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Moselle_Hills">
+    <dbo:state rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Soonwald">
+    <dbo:state rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Wasgau">
+    <dbo:state rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mainz–Ludwigshafen_railway">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Heinrich_Chantraine">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Pünderich–Traben-Trarbach_railway">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Rhein-Express">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Klara_Barth">
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Little_Kyll">
+    <dbp:lage rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hans-Joachim_Lang">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Darmstadt–Worms_railway">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Heiner_Thiel">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Rhineland-Palatinate_state_election,_2016">
+    <dbo:country rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Axel_A._Weber">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Charles_Bukowski">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Christian_Vietoris">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gabi_Weber">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hunsrück">
+    <dbp:region rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/University_of_Trier">
+    <dbo:state rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jacob_Bickler">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Josef_Ackermann_(politician)">
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hunsrück_Railway">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nahe_Valley_Railway">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Betzdorf–Haiger_railway">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Glan_Valley_Railway">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Koblenz–Trier_railway">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Limburg–Altenkirchen_railway">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mannheim–Saarbrücken_railway">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nibelung_Railway">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sieg_Railway">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Üßbach">
+    <dbp:lage rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Rheinland-Pfalz_State,_Germany">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Rhineland_Pfalz">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Team_RMG">
+    <dbp:base rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/German_Wine_Route">
+    <dbp:states rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Baldur_von_Schirach">
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Operation_Lumberjack">
+    <dbo:place rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bundesautobahn_60">
+    <dbp:states rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Frank_Findeiß">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Martin_Werhand">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Rhineland_Football_Association">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Southwest_German_Football_Association">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Southwestern_Regional_Football_Association">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Volcano_Museum,_Daun">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Breitenberg_(Haardt)">
+    <dbo:locatedInArea rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Eisbach_(Rhine)">
+    <dbp:location rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hainbach_(Speyerbach)">
+    <dbp:lage rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hohe_List_(Palatinate)">
+    <dbo:locatedInArea rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Monzeler_Hüttenkopf">
+    <dbo:locatedInArea rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Rolf_Huisgen">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Siege_of_Landau_(1702)">
+    <dbo:place rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Siege_of_Landau_(1793)">
+    <dbo:place rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Dollberg">
+    <dbo:locatedInArea rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Friedrichskopf_(Dollberge)">
+    <dbo:locatedInArea rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Idarkopf">
+    <dbo:locatedInArea rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kahlheid">
+    <dbo:locatedInArea rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Schimmelkopf">
+    <dbo:locatedInArea rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Wildenburger_Kopf">
+    <dbo:locatedInArea rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/An_den_zwei_Steinen">
+    <dbo:locatedInArea rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bichtenberg">
+    <dbo:locatedInArea rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ellerspring">
+    <dbo:locatedInArea rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Großer_Adelberg">
+    <dbo:locatedInArea rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Großer_Eyberg">
+    <dbo:locatedInArea rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hohe_Bühl">
+    <dbo:locatedInArea rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hüttenberg_(Haardt)">
+    <dbo:locatedInArea rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kieskautberg">
+    <dbo:locatedInArea rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nestelberg_(Wasgau)">
+    <dbo:locatedInArea rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Orensberg">
+    <dbo:locatedInArea rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Peterskopf_(Haardt)">
+    <dbo:locatedInArea rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Queitersberg">
+    <dbo:locatedInArea rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Teufelsstein_(Haardt)">
+    <dbo:locatedInArea rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Weilerskopf">
+    <dbo:locatedInArea rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Anette_Rückes">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Heinz_Weis">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Main_Railway">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/East_Rhine_Railway">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Battle_of_Remagen">
+    <dbo:place rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Glan-Münchweiler_(Verbandsgemeinde)">
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Queich">
+    <dbo:region rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+    <dbp:mouthState rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+    <dbp:sourceState rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Eiswoog">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Grünstadt_station">
+    <dbp:borough rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Monsheim_station">
+    <dbp:borough rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Niederlahnstein_station">
+    <dbp:borough rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Oberlahnstein_station">
+    <dbp:borough rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ungeheuersee">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Holpertal">
+    <dbp:location rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kondelwald">
+    <dbo:state rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Südbrücke,_Mainz">
+    <dbo:locatedInArea rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Adenauer_Bach">
+    <dbp:lage rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ardennes_and_Eifel">
+    <dbp:state rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Rheinland_Pfalz">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Fissler">
+    <dbo:locationCity rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Frankenthal_Hauptbahnhof">
+    <dbp:borough rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Germersheim_station">
+    <dbp:borough rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gonsenheim">
+    <dbo:federalState rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Koblenz_Stadtmitte_station">
+    <dbp:borough rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Koblenz_University_of_Applied_Sciences">
+    <dbo:state rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Neustadt_(Weinstraße)_Hauptbahnhof">
+    <dbp:borough rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Regionalliga_Südwest">
+    <dbp:state rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Speyer_Hauptbahnhof">
+    <dbp:borough rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/University_of_Applied_Sciences,_Kaiserslautern">
+    <dbo:state rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/University_of_Applied_Sciences_Bingen">
+    <dbo:state rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Unkel_station">
+    <dbp:borough rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Wittlich_Hauptbahnhof">
+    <dbp:borough rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Speyerbach">
+    <dbp:subdivisionName rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/1996_European_Grand_Prix">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Karlstal">
+    <dbp:location rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hunsrückquerbahn">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Limburg-Staffel–Siershahn_railway">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Moosalb_(Schwarzbach)">
+    <dbp:lage rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Rhénanie-Palatinat">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Cathedral_of_Trier">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mainz-Laubenheim">
+    <dbo:federalState rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Boppard_Hauptbahnhof">
+    <dbp:borough rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Julia_Neigel">
+    <dbo:hometown rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mombach">
+    <dbo:federalState rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sembach">
+    <dbo:federalState rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Trier_University_of_Applied_Sciences">
+    <dbo:state rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kurt_Beck">
+    <dbp:title rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Norbert_Bolz">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Wiesensee">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ellerbach_(Nahe)">
+    <dbp:location rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ahr_(wine_region)">
+    <dbo:isPartOfWineRegion rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Frédéric_Henri_Walther">
+    <dbp:deathPlace rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hochberg_(Haardt)">
+    <dbo:locatedInArea rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ida_Noddack">
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Rhenish_Massif">
+    <dbp:region rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Karl_Helfferich">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Rp">
+    <dbo:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bundesautobahn_1">
+    <dbp:states rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Moselle_Franconian_dialects">
+    <dbo:spokenIn rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bundesautobahn_3">
+    <dbp:states rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bundesautobahn_6">
+    <dbp:states rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bundesstraße_8">
+    <dbp:states rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bundesautobahn_565">
+    <dbp:states rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bundesautobahn_571">
+    <dbp:states rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bundesautobahn_573">
+    <dbp:states rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bundesautobahn_602">
+    <dbp:states rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bundesautobahn_643">
+    <dbp:states rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bundesautobahn_650">
+    <dbp:states rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Annette_Schwarz">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bundesstraße_10">
+    <dbp:states rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bundesstraße_9">
+    <dbp:states rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Karl-Hans_Riehm">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Karl_Mildenberger">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lower_Palatinate">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2._Oberliga_Südwest">
+    <dbp:state rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Helmbach_(Speyerbach)">
+    <dbp:lage rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Klingbach">
+    <dbp:lage rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Maria_Reese">
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Weidas">
+    <dbp:lage rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Worms–Bingen_Stadt_railway">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Worms–Rosengarten_train_ferry">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Großbach_(Ruwer)">
+    <dbp:lage rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Landstuhl–Kusel_railway">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lehbach">
+    <dbp:lage rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Trier_West_Railway">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bruno_Kastner">
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ernst_Ziegler">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hohenberg_(Wasgau)">
+    <dbo:locatedInArea rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/John_Peter_Zenger">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Maria_Böhmer">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Arzfeld">
+    <dbo:federalState rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bodenheim">
+    <dbo:federalState rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Köln–Frankfurt_high-speed_rail_line">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Morbach">
+    <dbo:federalState rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Palatinate_Forest">
+    <dbo:state rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Rheinsteig">
+    <dbp:location rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Rockenhausen">
+    <dbo:federalState rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Werner_Z._Hirsch">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Waldbreitbach">
+    <dbo:federalState rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Weißenthurm">
+    <dbo:federalState rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2014–15_Granada_CF_season">
+    <dbp:location rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Butterpfad">
+    <dbp:location rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/FCK_Rolling_Devils">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Klosterweg">
+    <dbp:location rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Martin_Werhand_Verlag">
+    <dbo:locationCity rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Peter_Bares">
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Franzosenwoog">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Fuchskaute">
+    <dbo:locatedInArea rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Trams_in_Mainz">
+    <dbp:locale rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Heimbach_(Nahe)–Baumholder_Railway">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lambsbach">
+    <dbp:location rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Elke_Hoff">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gitta_Lind">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Heinrich_Vogt_(astronomer)">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hermann-Josef_Lamberti">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Central_Franconian_dialects">
+    <dbo:spokenIn rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Roman_Bridge_(Trier)">
+    <dbo:locatedInArea rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vinxtbach">
+    <dbp:lage rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Blattbach">
+    <dbp:lage rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Breitenbach_(Speyerbach)">
+    <dbp:lage rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Elmstein_valley">
+    <dbp:location rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Reisbach_(Palatinate)">
+    <dbp:lage rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Rhineland-Palatinate_state_election,_2011">
+    <dbo:country rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Rheinland_pfalz">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Rhineland-Pfaelz">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Rhineland-Palatinate">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Rhenish-Palatine">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Rhineland-Palatine">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Rhineland-Palatinate" />
+  </rdf:Description>
+</rdf:RDF>

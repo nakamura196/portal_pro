@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:dbo="http://dbpedia.org/ontology/"
+	xmlns:dbp="http://dbpedia.org/property/"
+	xmlns:dct="http://purl.org/dc/terms/"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:prov="http://www.w3.org/ns/prov#"
+	xmlns:ns8="http://purl.org/linguistics/gold/" >
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Katsura_Tarō">
+    <dbo:successor rdf:resource="http://dbpedia.org/resource/Nogi_Maresuke" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Russo-Japanese_War">
+    <dbo:commander rdf:resource="http://dbpedia.org/resource/Nogi_Maresuke" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nogi">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Nogi_Maresuke" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Maresuce_Nogi">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Nogi_Maresuke" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nogi_Maresuce">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Nogi_Maresuke" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/General_Nogi">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Nogi_Maresuke" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Siege_of_Port_Arthur">
+    <dbo:commander rdf:resource="http://dbpedia.org/resource/Nogi_Maresuke" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Maresuke_Nogi">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Nogi_Maresuke" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Battle_of_Lushunkou">
+    <dbo:commander rdf:resource="http://dbpedia.org/resource/Nogi_Maresuke" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nogi_Maresuke">
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoLegalActor" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoLegalActorGeo" />
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Person100007846" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Object100002684" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q24229398" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PhysicalEntity100001930" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatPeopleOfMeiji-periodJapan" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q215627" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Serviceman110582746" />
+    <rdf:type rdf:resource="http://umbel.org/umbel/rc/PersonWithOccupation" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/MilitaryOfficer110317007" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/CommissionedOfficer109942970" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/CommissionedMilitaryOfficer109943239" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/GeneralOfficer110125786" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatJapaneseGenerals" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatPeopleAssociatedWithScouting" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/General110123844" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/SkilledWorker110605985" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Agent" />
+    <rdf:type rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson" />
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing" />
+    <rdf:type rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/MilitaryPerson" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatPeopleFromTokyo" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatPeopleOfTheRusso-JapaneseWar" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatPeopleOfTheBoshinWar" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatPeopleOfTheFirstSino-JapaneseWar" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q5" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Organism100004475" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Person" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Worker109632518" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Whole100003553" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/LivingThing100004258" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/CausalAgent100007347" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatJapanesePeople" />
+    <rdf:type rdf:resource="http://umbel.org/umbel/rc/MilitaryPerson" />
+    <rdf:type rdf:resource="http://schema.org/Person" />
+    <rdfs:label xml:lang="en">Nogi Maresuke</rdfs:label>
+    <rdfs:label xml:lang="it">Nogi Maresuke</rdfs:label>
+    <rdfs:label xml:lang="pl">Maresuke Nogi</rdfs:label>
+    <rdfs:label xml:lang="es">Nogi Maresuke</rdfs:label>
+    <rdfs:label xml:lang="ja">乃木希典</rdfs:label>
+    <rdfs:label xml:lang="fr">Nogi Maresuke</rdfs:label>
+    <rdfs:label xml:lang="ru">Ноги Марэсукэ</rdfs:label>
+    <rdfs:label xml:lang="nl">Maresuke Nogi</rdfs:label>
+    <rdfs:label xml:lang="zh">乃木希典</rdfs:label>
+    <rdfs:label xml:lang="de">Nogi Maresuke</rdfs:label>
+    <rdfs:label xml:lang="pt">Nogi Maresuke</rdfs:label>
+    <rdfs:comment xml:lang="ja">乃木 希典（のぎ まれすけ、嘉永2年11月11日（1849年12月25日） - 1912年（大正元年）9月13日）は、日本の武士（長府藩士）、軍人、教育者。日露戦争における旅順攻囲戦の指揮や、明治天皇の後を慕って殉死したことで国際的にも著名である。 階級は陸軍大将。栄典は贈正二位勲一等功一級伯爵。第10代学習院院長に任じられ、迪宮裕仁親王（昭和天皇）の教育係も務めた。「乃木大将」や「乃木将軍」と呼ばれることも多く、「乃木神社」や「乃木坂」に名前を残している。</rdfs:comment>
+    <rdfs:comment xml:lang="en">Count Nogi Maresuke (乃木 希典), also known as Kiten, Count Nogi (December 25, 1849 – September 13, 1912), was a general in the Imperial Japanese Army and a governor of Taiwan. He was one of the commanders during the 1894 capture of Port Arthur from China. He was a prominent figure in the Russo-Japanese War of 1904–05, as commander of the forces which captured Port Arthur from the Russians.</rdfs:comment>
+    <rdfs:comment xml:lang="pl">Maresuke Nogi (jap. 乃木 希典 Nogi Maresuke, ur. 25 grudnia 1849 w Tokio, zm. 13 września 1912 tamże) – generał Cesarskiej Armii Japońskiej, trzeci gubernator generalny Tajwanu, hrabia.</rdfs:comment>
+    <rdfs:comment xml:lang="nl">Maresuke Nogi (乃木 希典, Nogi Maresuke; Edo, 25 december 1849 – Tokio, 13 september 1912) was een Japans generaal.</rdfs:comment>
+    <rdfs:comment xml:lang="zh">乃木希典（1849年12月25日－1912年9月13日），日本陸軍大將，從二位・勲一等・功一級・伯爵。出生於日本長府藩藩士家庭，从师玉木文之进。多次參與日本內部及對外戰爭，在二戰前与东乡平八郎一起被多數日本人奉为“军神”（又称“圣将”、“武圣”）。</rdfs:comment>
+    <rdfs:comment xml:lang="de">Nogi Maresuke (jap. 乃木 希典; * 25. Dezember 1849 in Edo; † 13. September 1912 in Tokio) war General in der Kaiserlichen Armee Japans.</rdfs:comment>
+    <rdfs:comment xml:lang="fr">Nogi Maresuke (乃木希典, Nogi Maresuke 25 décembre 1849- 13 septembre 1912) était un général d&#39;armée japonais.</rdfs:comment>
+    <rdfs:comment xml:lang="es">El Conde Nogi Maresuke, GCB (乃木希典  Nogi Maresuke?, 25 de diciembre de 1849 - 13 de septiembre de 1912) fue un general del Ejército Imperial Japonés, así como una figura prominente durante la Guerra Ruso-Japonesa.</rdfs:comment>
+    <rdfs:comment xml:lang="ru">Ноги Марэсукэ (яп. 乃木 希典, 1 ноября 1849, Эдо, — 13 сентября 1912, Токио) — генерал Японской империи и третий генерал-губернатор Тайваня.</rdfs:comment>
+    <rdfs:comment xml:lang="pt">Nogi Maresuke (乃木 希典 Nogi Maresuke? Edo, 25 de dezembro de 1849 – Tóquio, 13 de setembro de 1912), ou Kiten, Conde Noki, foi um importante militar japonês que desempenhou um papel importante na Guerra Russo-Japonesa. Ele era considerado um herói nacional e um modelo de lealdade feudal e auto-sacrifício, por fim chegando ao suicídio.</rdfs:comment>
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q468122" />
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.01lfw0" />
+    <owl:sameAs rdf:resource="http://pt.dbpedia.org/resource/Nogi_Maresuke" />
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q468122" />
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Nogi_Maresuke" />
+    <owl:sameAs rdf:resource="http://d-nb.info/gnd/132658380" />
+    <owl:sameAs rdf:resource="http://it.dbpedia.org/resource/Nogi_Maresuke" />
+    <owl:sameAs rdf:resource="http://nl.dbpedia.org/resource/Maresuke_Nogi" />
+    <owl:sameAs rdf:resource="http://viaf.org/viaf/7381205" />
+    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/Nogi_Maresuke" />
+    <owl:sameAs rdf:resource="http://fr.dbpedia.org/resource/Nogi_Maresuke" />
+    <owl:sameAs rdf:resource="http://pl.dbpedia.org/resource/Maresuke_Nogi" />
+    <owl:sameAs rdf:resource="http://es.dbpedia.org/resource/Nogi_Maresuke" />
+    <owl:sameAs rdf:resource="http://ja.dbpedia.org/resource/乃木希典" />
+    <owl:sameAs rdf:resource="http://ko.dbpedia.org/resource/노기_마레스케" />
+    <owl:sameAs rdf:resource="http://yago-knowledge.org/resource/Nogi_Maresuke" />
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Tokyo" />
+    <dbp:deathPlace rdf:resource="http://dbpedia.org/resource/Tokyo" />
+    <dbp:deathPlace rdf:resource="http://dbpedia.org/resource/Japan" />
+    <dbo:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1912-9-13</dbo:deathDate>
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Edo" />
+    <dbp:birthPlace rdf:resource="http://dbpedia.org/resource/Japan" />
+    <dbp:birthPlace rdf:resource="http://dbpedia.org/resource/Edo" />
+    <dbo:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1849-12-25</dbo:birthDate>
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Recipients_of_the_Pour_le_Mérite_(military_class)" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Seppuku_from_Meiji_period_to_present" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Suicides_by_sharp_instrument_in_Japan" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:People_of_Meiji-period_Japan" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Japanese_military_personnel_who_committed_suicide" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Governors-General_of_Taiwan" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Japanese_generals" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Honorary_Knights_Grand_Cross_of_the_Order_of_the_Bath" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:People_of_the_First_Sino-Japanese_War" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Scouting_in_Japan" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Japanese_military_personnel_of_the_Russo-Japanese_War" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:1849_births" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Recipients_of_the_Order_of_the_Golden_Kite" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Honorary_Knights_Grand_Cross_of_the_Royal_Victorian_Order" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Recipients_of_the_Order_of_the_Sacred_Treasure" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Joint_suicides" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Nobility_who_committed_suicide" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Male_suicides" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:People_from_Tokyo" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Mōri_retainers" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:1912_deaths" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:People_of_the_Boshin_War" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:People_associated_with_Scouting" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Kazoku" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Recipients_of_the_Order_of_the_Rising_Sun_with_Paulownia_Flowers" />
+    <dbo:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">252376</dbo:wikiPageID>
+    <dbo:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">737904355</dbo:wikiPageRevisionID>
+    <dbo:wikiPageExternalLink rdf:resource="http://www.nogijinja.or.jp/" />
+    <dbo:wikiPageExternalLink rdf:resource="http://horse.shrine.net/samurai/nogi_e.html" />
+    <foaf:name xml:lang="en">Nogi Maresuke</foaf:name>
+    <foaf:name xml:lang="en">Count Nogi Maresuke</foaf:name>
+    <foaf:nick xml:lang="en">Kiten, Count Nogi</foaf:nick>
+    <foaf:depiction rdf:resource="http://en.wikipedia.org/wiki/Special:FilePath/Maresuke_Nogi,_近世名士写真_其1_-_Photo_only.jpg" />
+    <dct:description xml:lang="en">Japanese general</dct:description>
+    <foaf:gender xml:lang="en">male</foaf:gender>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Nogi_Maresuke" />
+    <dbo:thumbnail rdf:resource="http://en.wikipedia.org/wiki/Special:FilePath/Maresuke_Nogi,_近世名士写真_其1_-_Photo_only.jpg?width=300" />
+    <prov:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Nogi_Maresuke?oldid=737904355" />
+    <dbo:abstract xml:lang="fr">Nogi Maresuke (乃木希典, Nogi Maresuke 25 décembre 1849- 13 septembre 1912) était un général d&#39;armée japonais.</dbo:abstract>
+    <dbo:abstract xml:lang="de">Nogi Maresuke (jap. 乃木 希典; * 25. Dezember 1849 in Edo; † 13. September 1912 in Tokio) war General in der Kaiserlichen Armee Japans.</dbo:abstract>
+    <dbo:abstract xml:lang="es">El Conde Nogi Maresuke, GCB (乃木希典  Nogi Maresuke?, 25 de diciembre de 1849 - 13 de septiembre de 1912) fue un general del Ejército Imperial Japonés, así como una figura prominente durante la Guerra Ruso-Japonesa.</dbo:abstract>
+    <dbo:abstract xml:lang="pl">Maresuke Nogi (jap. 乃木 希典 Nogi Maresuke, ur. 25 grudnia 1849 w Tokio, zm. 13 września 1912 tamże) – generał Cesarskiej Armii Japońskiej, trzeci gubernator generalny Tajwanu, hrabia.</dbo:abstract>
+    <dbo:abstract xml:lang="zh">乃木希典（1849年12月25日－1912年9月13日），日本陸軍大將，從二位・勲一等・功一級・伯爵。出生於日本長府藩藩士家庭，从师玉木文之进。多次參與日本內部及對外戰爭，在二戰前与东乡平八郎一起被多數日本人奉为“军神”（又称“圣将”、“武圣”）。</dbo:abstract>
+    <dbo:abstract xml:lang="ja">乃木 希典（のぎ まれすけ、嘉永2年11月11日（1849年12月25日） - 1912年（大正元年）9月13日）は、日本の武士（長府藩士）、軍人、教育者。日露戦争における旅順攻囲戦の指揮や、明治天皇の後を慕って殉死したことで国際的にも著名である。 階級は陸軍大将。栄典は贈正二位勲一等功一級伯爵。第10代学習院院長に任じられ、迪宮裕仁親王（昭和天皇）の教育係も務めた。「乃木大将」や「乃木将軍」と呼ばれることも多く、「乃木神社」や「乃木坂」に名前を残している。</dbo:abstract>
+    <dbo:abstract xml:lang="pt">Nogi Maresuke (乃木 希典 Nogi Maresuke? Edo, 25 de dezembro de 1849 – Tóquio, 13 de setembro de 1912), ou Kiten, Conde Noki, foi um importante militar japonês que desempenhou um papel importante na Guerra Russo-Japonesa. Ele era considerado um herói nacional e um modelo de lealdade feudal e auto-sacrifício, por fim chegando ao suicídio.</dbo:abstract>
+    <dbo:abstract xml:lang="nl">Maresuke Nogi (乃木 希典, Nogi Maresuke; Edo, 25 december 1849 – Tokio, 13 september 1912) was een Japans generaal.</dbo:abstract>
+    <dbo:abstract xml:lang="ru">Ноги Марэсукэ (яп. 乃木 希典, 1 ноября 1849, Эдо, — 13 сентября 1912, Токио) — генерал Японской империи и третий генерал-губернатор Тайваня.</dbo:abstract>
+    <dbo:abstract xml:lang="en">Count Nogi Maresuke (乃木 希典), also known as Kiten, Count Nogi (December 25, 1849 – September 13, 1912), was a general in the Imperial Japanese Army and a governor of Taiwan. He was one of the commanders during the 1894 capture of Port Arthur from China. He was a prominent figure in the Russo-Japanese War of 1904–05, as commander of the forces which captured Port Arthur from the Russians. He was a national hero in Imperial Japan as a model of feudal loyalty and self-sacrifice, ultimately to the point of suicide. In the Satsuma Rebellion, he lost a banner of the emperor in battle, for which he tried to atone with suicidal bravery in order to recapture it, until ordered to stop. In the Russo-Japanese War, he captured Port Arthur but he felt that he had lost too many of his soldiers, so requested permission to commit suicide, which the emperor refused. These two events, as well as his desire not to outlive his master (junshi), motivated his suicide on the day of the funeral of the Emperor Meiji. His example revitalized the Japanese tradition of ritual suicide.</dbo:abstract>
+    <dbo:award rdf:resource="http://dbpedia.org/resource/Order_of_the_Bath" />
+    <dbo:award rdf:resource="http://dbpedia.org/resource/Order_of_the_Rising_Sun" />
+    <dbo:award rdf:resource="http://dbpedia.org/resource/Royal_Victorian_Order" />
+    <dbo:award rdf:resource="http://dbpedia.org/resource/Order_of_the_Sacred_Treasure" />
+    <dbo:award rdf:resource="http://dbpedia.org/resource/Order_of_the_Golden_Kite" />
+    <dbo:battle rdf:resource="http://dbpedia.org/resource/Siege_of_Port_Arthur" />
+    <dbo:battle rdf:resource="http://dbpedia.org/resource/Satsuma_Rebellion" />
+    <dbo:battle rdf:resource="http://dbpedia.org/resource/Russo-Japanese_War" />
+    <dbo:battle rdf:resource="http://dbpedia.org/resource/First_Sino-Japanese_War" />
+    <dbo:serviceEndYear rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1908</dbo:serviceEndYear>
+    <dbo:serviceStartYear rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1871</dbo:serviceStartYear>
+    <dbp:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1849-12-25</dbp:birthDate>
+    <dbp:caption rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Count Nogi Maresuke standing before his house in Nogizaka, Tokyo</dbp:caption>
+    <dbp:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1912-09-13</dbp:deathDate>
+    <dbp:rank rdf:resource="http://dbpedia.org/resource/General" />
+    <dbp:wordnet_type rdf:resource="http://www.w3.org/2006/03/wn/wn20/instances/synset-person-noun-1" />
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/General" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kiten,_Count_Nogi">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Nogi_Maresuke" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Akizuki_Rebellion">
+    <dbo:commander rdf:resource="http://dbpedia.org/resource/Nogi_Maresuke" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kodama_Gentarō">
+    <dbp:before rdf:resource="http://dbpedia.org/resource/Nogi_Maresuke" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Maresuke">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Nogi_Maresuke" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/乃木希典">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Nogi_Maresuke" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Nogi_Maresuke">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Nogi_Maresuke" />
+  </rdf:Description>
+</rdf:RDF>

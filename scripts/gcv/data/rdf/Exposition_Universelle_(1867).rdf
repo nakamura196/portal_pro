@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:dbo="http://dbpedia.org/ontology/"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:prov="http://www.w3.org/ns/prov#" >
+  <rdf:Description rdf:about="http://dbpedia.org/resource/George_Crompton">
+    <dbo:award rdf:resource="http://dbpedia.org/resource/Exposition_Universelle_(1867)" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Exposition_Universelle_(1867)">
+    <rdfs:label xml:lang="en">Exposition Universelle (1867)</rdfs:label>
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Exposition_Universelle_(1867)" />
+    <dbo:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">37043695</dbo:wikiPageID>
+    <dbo:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">513243188</dbo:wikiPageRevisionID>
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/International_Exposition_(1867)" />
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Exposition_Universelle_(1867)" />
+    <prov:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Exposition_Universelle_(1867)?oldid=513243188" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Exposition_Universelle_(1867)">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Exposition_Universelle_(1867)" />
+  </rdf:Description>
+</rdf:RDF>

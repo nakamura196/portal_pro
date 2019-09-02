@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:dct="http://purl.org/dc/terms/"
+	xmlns:dbo="http://dbpedia.org/ontology/"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:prov="http://www.w3.org/ns/prov#"
+	xmlns:dbp="http://dbpedia.org/property/"
+	xmlns:ns8="http://purl.org/linguistics/gold/" >
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Alvina_Krause">
+    <dbo:education rdf:resource="http://dbpedia.org/resource/Northwestern_University_Graduate_School" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Northwestern_University_Graduate_School">
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Institution108053576" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Organisation" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/SocialGroup107950920" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatPostgraduateSchoolsInTheUnitedStates" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Group100031264" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Organization108008335" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoPermanentlyLocatedEntity" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Abstraction100002137" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/University" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/University108286569" />
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatEducationalInstitutionsEstablishedIn1910" />
+    <rdf:type rdf:resource="http://schema.org/EducationalOrganization" />
+    <rdf:type rdf:resource="http://schema.org/CollegeOrUniversity" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q3918" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q24229398" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/EducationalInstitution108276342" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoLegalActor" />
+    <rdf:type rdf:resource="http://umbel.org/umbel/rc/University" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoLegalActorGeo" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/School108276720" />
+    <rdf:type rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/EducationalInstitution" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q43229" />
+    <rdf:type rdf:resource="http://schema.org/Organization" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/ArchitecturalStructure" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Agent" />
+    <rdf:type rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#SocialPerson" />
+    <rdfs:label xml:lang="en">Northwestern University Graduate School</rdfs:label>
+    <rdfs:comment xml:lang="en">The Graduate School (also known as TGS) is the liberal arts and sciences graduate school of Northwestern University, awarding advanced degrees in 70 disciplines. In 1910, the Trustees of the University organized The Graduate School. Governance of The Graduate School resides in the Graduate Faculty, comprising over 1,000 scholars. Appointments to the Graduate Faculty are made by the President, upon recommendation by the Dean of the Graduate School and the Provost. TGS is active on the Chicago as well as the Evanston campuses of Northwestern University.</rdfs:comment>
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Northwestern_University_Graduate_School" />
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.02v_d36" />
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q16972660" />
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q16972660" />
+    <owl:sameAs rdf:resource="http://yago-knowledge.org/resource/Northwestern_University_Graduate_School" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:1910_establishments_in_Illinois" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Graduate_schools_in_the_United_States" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Educational_institutions_established_in_1910" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Northwestern_University" />
+    <dbo:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">12326456</dbo:wikiPageID>
+    <dbo:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">702748967</dbo:wikiPageRevisionID>
+    <dbo:wikiPageExternalLink rdf:resource="http://www.tgs.northwestern.edu/" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.tgs.northwestern.edu/academics/programlist/" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.tgs.northwestern.edu" />
+    <foaf:name xml:lang="en">The Graduate School</foaf:name>
+    <foaf:homepage rdf:resource="http://www.tgs.northwestern.edu/" />
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Northwestern_University_Graduate_School" />
+    <prov:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Northwestern_University_Graduate_School?oldid=702748967" />
+    <dbo:abstract xml:lang="en">The Graduate School (also known as TGS) is the liberal arts and sciences graduate school of Northwestern University, awarding advanced degrees in 70 disciplines. In 1910, the Trustees of the University organized The Graduate School. Governance of The Graduate School resides in the Graduate Faculty, comprising over 1,000 scholars. Appointments to the Graduate Faculty are made by the President, upon recommendation by the Dean of the Graduate School and the Provost. Certain professional degrees are conferred not by TGS, but by their respective schools at Northwestern: Feinberg School of Medicine, Henry and Leigh Bienen School of Music, Kellogg School of Management, McCormick School of Engineering and Applied Science, Medill School of Journalism, School of Communication, School of Education and Social Policy, School of Law. TGS is active on the Chicago as well as the Evanston campuses of Northwestern University.</dbo:abstract>
+    <dbo:campus rdf:resource="http://dbpedia.org/resource/Suburb" />
+    <dbo:city rdf:resource="http://dbpedia.org/resource/Evanston,_Illinois" />
+    <dbo:country rdf:resource="http://dbpedia.org/resource/United_States" />
+    <dbo:state rdf:resource="http://dbpedia.org/resource/Illinois" />
+    <dbo:type rdf:resource="http://dbpedia.org/resource/Northwestern_University" />
+    <dbp:dean rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Dwight A. McBride, PhD</dbp:dean>
+    <dbp:established rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1910</dbp:established>
+    <dbp:wordnet_type rdf:resource="http://www.w3.org/2006/03/wn/wn20/instances/synset-university-noun-2" />
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Arts" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Northwestern_University_Graduate_School">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Northwestern_University_Graduate_School" />
+  </rdf:Description>
+</rdf:RDF>

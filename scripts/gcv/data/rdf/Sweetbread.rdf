@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:dct="http://purl.org/dc/terms/"
+	xmlns:dbo="http://dbpedia.org/ontology/"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:prov="http://www.w3.org/ns/prov#"
+	xmlns:dbp="http://dbpedia.org/property/"
+	xmlns:ns8="http://purl.org/linguistics/gold/" >
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Confectionery">
+    <owl:differentFrom rdf:resource="http://dbpedia.org/resource/Sweetbread" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sweetbread">
+    <rdfs:label xml:lang="nl">Kalfszwezerik</rdfs:label>
+    <rdfs:label xml:lang="fr">Ris de veau</rdfs:label>
+    <rdfs:label xml:lang="es">Lechecillas</rdfs:label>
+    <rdfs:label xml:lang="de">Kalbsbries</rdfs:label>
+    <rdfs:label xml:lang="en">Sweetbread</rdfs:label>
+    <rdfs:label xml:lang="ja">シビレ</rdfs:label>
+    <rdfs:label xml:lang="it">Animella</rdfs:label>
+    <rdfs:comment xml:lang="de">Kalbsbries, Kalbsmilch, Milke (schweizerisch), Midder oder Schweser wird küchensprachlich der Thymus des Kalbs genannt. Bei ausgewachsenen Tieren bildet sich das der Ausbildung der Immunabwehr dienende Organ zurück. Das im vorderen Bereich der Brust sitzende, etwa 250 bis 300 Gramm schwere, fast weiße Gewebe gehört wegen seiner Zartheit und des feinen Geschmacks zu den am meisten geschätzten Innereien. Kalbsbries hat eine an Hirn erinnernde, aber etwas festere Struktur und ist reich an Kalium und Vitamin C sowie Purinen.</rdfs:comment>
+    <rdfs:comment xml:lang="fr">Le ris de veau est le nom donné au thymus du veau lorsqu&#39;il est utilisé pour des préparations culinaires.« Ris : abat du veau (de l’agneau et du chevreau) formé par une glande – le thymus – située à l’entrée de la poitrine, devant la trachée, et qui disparaît à l’âge adulte. Le ris se compose d’une partie allongée, la gorge, et d’une partie ronde et savoureuse, la noix. »</rdfs:comment>
+    <rdfs:comment xml:lang="ja">シビレ（英: sweetbread）はウシ、ヒツジ、ブタなどの胸腺や膵臓を意味する料理用語である。白い色でフワッとして柔らかく滑らかな食感と繊細な味わいがあり、特にフランス料理やイタリア料理などで食材として珍重される。</rdfs:comment>
+    <rdfs:comment xml:lang="en">Sweetbreads or ris are culinary names for the thymus (also called throat, gullet, or neck sweetbread) or the pancreas (also called heart, stomach, or belly sweetbread), especially of calf (ris de veau) and lamb (ris d&#39;agneau), and, less commonly, of beef and pork. The &quot;heart&quot; sweetbreads are more spherical in shape, and surrounded symmetrically by the &quot;throat&quot; sweetbreads, which are more cylindrical in shape.</rdfs:comment>
+    <rdfs:comment xml:lang="nl">Een kalfszwezerik is een van het kalf afkomstig orgaan, dat ook wel de thymus genoemd wordt. Zwezerik wordt als delicatesse beschouwd, het is een van de fijnste stukjes orgaanvlees. De thymus of zwezerik is een orgaan (een klier) en is bij kinderen en jonge zoogdieren te vinden tussen het borstbeen en de luchtpijp. De zwezerik verschrompelt bij het volwassen worden. Mensen eten de zwezerik van kalf en lam. De klier bestaat uit twee delen: de hartzwezerik die rond en compact is en de halszwezerik die langwerpig en los van structuur is.</rdfs:comment>
+    <rdfs:comment xml:lang="es">Lechecillas es el término gastronómico para el timo y el páncreas, especialmente de ternera y cordero (si bien también se consumen los de buey y cerdo). A veces se llama a esta asadura blanca &quot;mollejas&quot;, término que también alude a una parte del intestino de ciertos vertebrados.</rdfs:comment>
+    <rdfs:comment xml:lang="it">Animella è una parte bianca e spugnosa reperibile nelle interiora di bovini ed ovini, corrispondente del timo umano, una ghiandola presente nel collo dei giovani bovini (scompare gradualmente con il sopraggiungere dell&#39;età adulta) In Piemonte viene chiamata anche lacetto. Il termine definisce anche, nel Lazio, il pancreas di bovini od ovini. Spesso il termine animelle viene esteso ad altre frattaglie del vitello, del vitellone o dell&#39;agnello, quali il pancreas e le ghiandole salivari.</rdfs:comment>
+    <owl:sameAs rdf:resource="http://es.dbpedia.org/resource/Lechecillas" />
+    <owl:sameAs rdf:resource="http://nl.dbpedia.org/resource/Kalfszwezerik" />
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q49951" />
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Sweetbread" />
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q49951" />
+    <owl:sameAs rdf:resource="http://ja.dbpedia.org/resource/シビレ" />
+    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/Kalbsbries" />
+    <owl:sameAs rdf:resource="http://it.dbpedia.org/resource/Animella" />
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.07325" />
+    <owl:sameAs rdf:resource="http://fr.dbpedia.org/resource/Ris_de_veau" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Animal_glandular_products" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Offal" />
+    <dbo:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">28664</dbo:wikiPageID>
+    <dbo:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">739910689</dbo:wikiPageRevisionID>
+    <foaf:depiction rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Sweetbreads.jpg" />
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Sweetbread" />
+    <dbo:thumbnail rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Sweetbreads.jpg?width=300" />
+    <prov:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Sweetbread?oldid=739910689" />
+    <dbo:abstract xml:lang="es">Lechecillas es el término gastronómico para el timo y el páncreas, especialmente de ternera y cordero (si bien también se consumen los de buey y cerdo). A veces se llama a esta asadura blanca &quot;mollejas&quot;, término que también alude a una parte del intestino de ciertos vertebrados. Una forma típica de preparar las lechecillas es remojarlas en salmuera, escalfarlas en leche y retirarles después la membrana exterior. Una vez secas y enfriadas, a menudo se empanan y fríen. También se usan para rellenos y patés. En muchas cocinas latinoamericanas se hacen a la parrilla, como es el caso del asado argentino, y también figuran en la cocina turca (uykuluk).</dbo:abstract>
+    <dbo:abstract xml:lang="de">Kalbsbries, Kalbsmilch, Milke (schweizerisch), Midder oder Schweser wird küchensprachlich der Thymus des Kalbs genannt. Bei ausgewachsenen Tieren bildet sich das der Ausbildung der Immunabwehr dienende Organ zurück. Das im vorderen Bereich der Brust sitzende, etwa 250 bis 300 Gramm schwere, fast weiße Gewebe gehört wegen seiner Zartheit und des feinen Geschmacks zu den am meisten geschätzten Innereien. Kalbsbries hat eine an Hirn erinnernde, aber etwas festere Struktur und ist reich an Kalium und Vitamin C sowie Purinen. Zur Vorbereitung wird das Kalbsbries gewässert, heiß überbrüht, von Häutchen, blutigen und knorpeligen Stellen befreit und unter leichtem Druck (z. B. durch ein beschwertes Küchenbrett) auskühlen gelassen, was späteres Zusammenziehen verhindert. Üblich ist auch, das Bries vor der Weiterverarbeitung in Salzwasser etwa 20 Minuten bei schwacher Hitze ziehen zu lassen. Kalbsbries kann auf viele Arten zubereitet werden: Je nach Rezept wird es gekocht, gedünstet, geschmort, in Scheiben gebraten, gegrillt oder gebacken. Es ist auch Bestandteil klassischer Ragouts wie z. B. Ragout fin. Da Kalbsbries viel Purin (500–600 mg auf 100 g, entspricht 1200–1500 mg Harnsäure) enthält, sollte es bei Hyperurikämie und Gicht im Rahmen einer kohlenhydratreichen Ernährung gemieden werden.</dbo:abstract>
+    <dbo:abstract xml:lang="en">Sweetbreads or ris are culinary names for the thymus (also called throat, gullet, or neck sweetbread) or the pancreas (also called heart, stomach, or belly sweetbread), especially of calf (ris de veau) and lamb (ris d&#39;agneau), and, less commonly, of beef and pork. The &quot;heart&quot; sweetbreads are more spherical in shape, and surrounded symmetrically by the &quot;throat&quot; sweetbreads, which are more cylindrical in shape. Various other glands used as food may also sometimes be called &quot;sweetbreads,&quot; including the parotid gland (&quot;cheek&quot; or &quot;ear&quot; sweetbread), the sublingual glands (&quot;tongue&quot; sweetbreads or &quot;throat bread&quot;), and testicles (cf. Rocky Mountain oyster, prairie oyster, or lamb fries). One common preparation of sweetbreads involves soaking in salt water, then poaching in milk, after which the outer membrane is removed. Once dried and chilled, they are often breaded and fried. They are also used for stuffing or in pâtés. They are grilled in many Latin American cuisines, such as in the Argentine asado, and served in bread in Turkish cuisine. The word &quot;sweetbread&quot; is first attested in the 16th century, but the etymology of the name is unclear. &quot;Sweet&quot; is perhaps used since the thymus is sweet and rich-tasting, as opposed to savory-tasting muscle flesh. &quot;Bread&quot; may come from brede, &quot;roasted meat&quot; or from the Old English brǣd (&quot;flesh&quot; or &quot;meat&quot;).</dbo:abstract>
+    <dbo:abstract xml:lang="nl">Een kalfszwezerik is een van het kalf afkomstig orgaan, dat ook wel de thymus genoemd wordt. Zwezerik wordt als delicatesse beschouwd, het is een van de fijnste stukjes orgaanvlees. De thymus of zwezerik is een orgaan (een klier) en is bij kinderen en jonge zoogdieren te vinden tussen het borstbeen en de luchtpijp. De zwezerik verschrompelt bij het volwassen worden. Mensen eten de zwezerik van kalf en lam. De klier bestaat uit twee delen: de hartzwezerik die rond en compact is en de halszwezerik die langwerpig en los van structuur is.</dbo:abstract>
+    <dbo:abstract xml:lang="fr">Le ris de veau est le nom donné au thymus du veau lorsqu&#39;il est utilisé pour des préparations culinaires.« Ris : abat du veau (de l’agneau et du chevreau) formé par une glande – le thymus – située à l’entrée de la poitrine, devant la trachée, et qui disparaît à l’âge adulte. Le ris se compose d’une partie allongée, la gorge, et d’une partie ronde et savoureuse, la noix. » Cet aliment assez rare est toujours cher et fort prisé des connaisseurs. Les ris de veau doivent être dégorgés, puis blanchis, égouttés et rafraîchis. Après refroidissement complet, il faut les parer puis les mettre sous presse au frais.Les ris se cuisinent le plus souvent braisés.</dbo:abstract>
+    <dbo:abstract xml:lang="it">Animella è una parte bianca e spugnosa reperibile nelle interiora di bovini ed ovini, corrispondente del timo umano, una ghiandola presente nel collo dei giovani bovini (scompare gradualmente con il sopraggiungere dell&#39;età adulta) In Piemonte viene chiamata anche lacetto. Il termine definisce anche, nel Lazio, il pancreas di bovini od ovini. Spesso il termine animelle viene esteso ad altre frattaglie del vitello, del vitellone o dell&#39;agnello, quali il pancreas e le ghiandole salivari.</dbo:abstract>
+    <dbo:abstract xml:lang="ja">シビレ（英: sweetbread）はウシ、ヒツジ、ブタなどの胸腺や膵臓を意味する料理用語である。白い色でフワッとして柔らかく滑らかな食感と繊細な味わいがあり、特にフランス料理やイタリア料理などで食材として珍重される。</dbo:abstract>
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Names" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sweet_Breads">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Sweetbread" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ragout_fin">
+    <dbo:ingredient rdf:resource="http://dbpedia.org/resource/Sweetbread" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sweetbreads">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Sweetbread" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Delicacies_(album)">
+    <dbp:title rdf:resource="http://dbpedia.org/resource/Sweetbread" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mollejas">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Sweetbread" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Uykuluk">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Sweetbread" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ris_de_veau">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Sweetbread" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/SweetBread">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Sweetbread" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sweet_bread">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Sweetbread" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sweet_breads">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Sweetbread" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Sweetbread">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Sweetbread" />
+  </rdf:Description>
+</rdf:RDF>

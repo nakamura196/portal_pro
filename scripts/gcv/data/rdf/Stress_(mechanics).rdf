@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:dct="http://purl.org/dc/terms/"
+	xmlns:dbo="http://dbpedia.org/ontology/"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:prov="http://www.w3.org/ns/prov#"
+	xmlns:ns7="http://purl.org/linguistics/gold/" >
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tensible_strength">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Stress_(mechanics)" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Stress,_mechanical">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Stress_(mechanics)" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Piola-Kirchhoff_stress_tensor">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Stress_(mechanics)" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Piola–Kirchoff_stress_tensor">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Stress_(mechanics)" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Compressive">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Stress_(mechanics)" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Deviatorics_tress">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Stress_(mechanics)" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Deviatoric_stress">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Stress_(mechanics)" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Continuum_mechanics">
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Stress_(mechanics)" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Traction_vector">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Stress_(mechanics)" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tensile_stress">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Stress_(mechanics)" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Piola–Kirchhoff_stress_tensor">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Stress_(mechanics)" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Physical_stress">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Stress_(mechanics)" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mechanical_stress">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Stress_(mechanics)" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Deviatoric">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Stress_(mechanics)" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Stress">
+    <dbo:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/Stress_(mechanics)" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Stress_(mechanics)">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Variable105857459" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Quantity105855125" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Concept105835747" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Content105809192" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Cognition100023271" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PsychologicalFeature100023100" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Idea105833840" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Abstraction100002137" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatTensors" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Tensor105864481" />
+    <rdfs:label xml:lang="en">Stress (mechanics)</rdfs:label>
+    <rdfs:label xml:lang="fr">Contrainte (mécanique)</rdfs:label>
+    <rdfs:label xml:lang="it">Tensione interna</rdfs:label>
+    <rdfs:label xml:lang="pl">Naprężenie</rdfs:label>
+    <rdfs:label xml:lang="es">Tensión mecánica</rdfs:label>
+    <rdfs:label xml:lang="pt">Tensão (mecânica)</rdfs:label>
+    <rdfs:label xml:lang="ar">إجهاد (ميكانيكا)</rdfs:label>
+    <rdfs:label xml:lang="ru">Механическое напряжение</rdfs:label>
+    <rdfs:label xml:lang="ja">応力</rdfs:label>
+    <rdfs:label xml:lang="zh">應力</rdfs:label>
+    <rdfs:label xml:lang="de">Mechanische Spannung</rdfs:label>
+    <rdfs:label xml:lang="nl">Mechanische spanning</rdfs:label>
+    <rdfs:comment xml:lang="pl">Naprężenie – miara gęstości powierzchniowej sił wewnętrznych, występujących w pewnym punkcieprzekroju ośrodka ciągłego. Jest podstawową wielkością mechaniki ośrodków ciągłych. Jednostką naprężenia jest paskal. Naprężenie (całkowite) w dowolnym punkcie przekroju zależy od kierunku normalnej zewnętrznej do tego przekroju oraz wartości i kierunku działającej na niego siły . Naprężenie oblicza się ze wzoru Wektor ten można rozłożyć na dwie składowe: gdzie: – wypadkowy wektor naprężenia, – wypadkowy wektor sił wewnętrznych, A – pole przekroju poprzecznego, – składowa normalna (prostopadła do powierzchni),</rdfs:comment>
+    <rdfs:comment xml:lang="zh">在連續介質力學裏，應力定義為單位面積所承受的作用力。以公式標記為 ； 其中， 表示應力； 表示在 方向的施力； 表示在 方向的受力面積。 假設受力面積與施力方向正交，則稱此應力分量為正向應力，如圖1所示的 、 、 ，都是正向應力；假設受力面積與施力方向互相平行，則稱此應力分量為剪應力（shear stress），如圖1所示的 、 、 、 、 、 ，都是剪應力。 「內應力」指組成單一構造的不同材質之間，因材質差異而導致變形方式的不同，繼而產生的各種應力。 採用國際單位制，应力的单位是帕斯卡（Pa），等於1牛頓／平方公尺。應力的單位與壓強的單位相同。兩種物理量都是單位面積的作用力的度量。通常，在工程學裏，使用的單位是megapascals（MPa）或gigapascals（GPa）。採用英制單位，應力的單位是磅力／平方英寸（psi）或千磅力／平方英寸（ksi）。</rdfs:comment>
+    <rdfs:comment xml:lang="ar">الإجهاد (بالإنجليزية: Stress): يعرف الإجهاد بأنه كثافة القوة في نقطة ما. إذا كانت حالة الإجهاد نفسها في كامل الجسم يعرف بأنه قياس لمتوسط كمية القوة المطبقة على وحدة المساحة. حيث: متوسط الإجهاد أو يسمى أيضًا الإجهاد الاسمي أو الإجهاد الهندسي. القوة المؤثرة على المساحة . وهو قياس لكثافة القوى الداخلية الكلية العاملة داخل جسم ما عبر مساحة المقطع العرضي التخيلي، كرد فعل على القوى الخارجية المطبقة وقوى الجسم (تأثير الجاذبية الأرضية تعتبر قوة جسم). قام بتعريفه في نظرية المرونة من قبل أوغستين لوي كوشي، في عام 1822. الإجهاد هو مفهوم يعتمد على مبدأ ميكانيكا الأوساط المتصلة.</rdfs:comment>
+    <rdfs:comment xml:lang="en">In continuum mechanics, stress is a physical quantity that expresses the internal forces that neighboring particles of a continuous material exert on each other, while strain is the measure of the deformation of the material. For example, when a solid vertical bar is supporting a weight, each particle in the bar pushes on the particles immediately below it. When a liquid is in a closed container under pressure, each particle gets pushed against by all the surrounding particles. The container walls and the pressure-inducing surface (such as a piston) push against them in (Newtonian) reaction. These macroscopic forces are actually the net result of a very large number of intermolecular forces and collisions between the particles in those molecules.</rdfs:comment>
+    <rdfs:comment xml:lang="fr">En mécanique des milieux continus, et en résistance des matériaux en règle générale, la contrainte mécanique décrit les forces que les particules élémentaires d&#39;un milieu exercent les unes sur les autres. Ce bilan des forces locales est conceptualié par un tenseur d&#39;ordre deux : le tenseur des contraintes.</rdfs:comment>
+    <rdfs:comment xml:lang="nl">Een mechanische spanning, vaak met de Engelse term stress aangeduid, is de kracht die wordt uitgeoefend per oppervlakte-eenheid. Spanning wordt uitgedrukt met de Griekse letter σ (sigma), als: waarin F de uitgeoefende kracht (in SI gebruikelijk als Newton) en A het oppervlak van de doorsnede waar de kracht op werkt (gebruikelijk in vierkante millimeter), dus als N/mm² Ter illustratie: bij een veer belast met een trekkracht zal op een willekeurige doorsnede een trekspanning optreden. In de boog van een boogbrug zijn uitsluitend drukkrachten en drukspanningen aanwezig.</rdfs:comment>
+    <rdfs:comment xml:lang="de">Die mechanische Spannung (Formelzeichen ) ist ein Begriff aus der Festigkeitslehre, einem Teilgebiet der Technischen Mechanik. Sie ist die Kraft pro Flächeneinheit, die in einer gedachten Schnittfläche durch einen Körper, eine Flüssigkeit oder ein Gas wirkt. Die mechanische Spannung (engl. stress, frz. contrainte) an einem Punkt ist in der Kontinuumsmechanik durch den Grenzwert definiert, bei dem der auf den Oberflächenteil</rdfs:comment>
+    <rdfs:comment xml:lang="ja">応力（おうりょく、ストレス、英: stress）とは、物体の内部に生じる力の大きさや作用方向を表現するために用いられる物理量である。物体の変形や破壊などに対する負担の大きさを検討するのに用いられる。 この物理量には応力ベクトル (stress vector) と応力テンソル (stress tensor) の2つがあり、単に「応力」といえば応力テンソルのことを指すことが多い。応力テンソルは座標系などを特別に断らない限り、主に2階の混合テンソルおよび混合ベクトルとして扱われる（混合テンソルについてはテンソル積#テンソル空間とテンソルを参照）。応力ベクトルと応力テンソルは、ともに連続体内部に定義した微小面積に作用する単位面積あたりの力として定義される。そのため、それらの単位は、SIでは[Pa] (N/m2)、重力単位系では[kgf/mm2]で、圧力と同じである。</rdfs:comment>
+    <rdfs:comment xml:lang="es">En física e ingeniería, se denomina tensión mecánica a la magnitud física que representa la fuerza por unidad de área en el entorno de un punto material sobre una superficie real o imaginaria de un medio continuo. Es decir posee unidades físicas de presión. La definición anterior se aplica tanto a fuerzas localizadas como fuerzas distribuidas, uniformemente o no, que actúan sobre una superficie. Con el objeto de explicar cómo se transmiten a través de los sólidos las fuerzas externas aplicadas, es necesario introducir el concepto de tensión, siendo este el concepto físico más relevante de la mecánica de los medios continuos, y de la teoría de la elasticidad en particular.</rdfs:comment>
+    <rdfs:comment xml:lang="ru">Механическое напряжение — это мера внутренних сил, возникающих в деформируемом теле под влиянием различных факторов. Механическое напряжение в точке тела определяется как отношение внутренней силы к единице площади в данной точке рассматриваемого сечения. Напряжения являются результатом взаимодействия частиц тела при его нагружении. Внешние силы стремятся изменить взаимное расположение частиц, а возникающие при этом напряжения препятствуют смещению частиц, ограничивая его в большинстве случаев некоторой малой величиной. Различают две составляющие вектора механического напряжения: ).</rdfs:comment>
+    <rdfs:comment xml:lang="it">La tensione interna (o sollecitazione interna o sforzo) è una misura delle forze di contatto esercitate tra le parti interne di un corpo continuo tridimensionale attraverso la relativa superficie di separazione. Essa è definita come la forza di contatto per unità di area, cioè è il limite del rapporto tra la forza agente e l&#39;area della superficie su cui agisce: Essa è una quantità vettoriale e la sua unità di misura è il pascal (simbolo Pa). Nella pratica tecnica si fa uso più comunemente del megapascal (MPa) o del gigapascal (GPa).</rdfs:comment>
+    <rdfs:comment xml:lang="pt">Em física e engenharia, se denomina tensão mecânica ao valor da distribuição de forças por unidade de área em torno de um ponto material dentro de um corpo material ou meio contínuo. Na mecânica dos meios contínuos, tensão é uma medida da intensidade das forças internas agindo entre as partículas de uma seção transversal imaginária de um corpo de material deformável. Essas forças internas são forças de reação contra as forças externas aplicadas no corpo. Forças externas são ou forças de superfície ou forças de campo . Como o corpo deformável carregado é admitido como contínuo, as forças internas são distribuídas continuamente por dentro do volume do corpo material, ou seja, a distribuição de tensões é expressa com uma função contínua de coordenadas espaciais e temporais.</rdfs:comment>
+    <owl:differentFrom rdf:resource="http://dbpedia.org/resource/Physiological_stress" />
+    <owl:differentFrom rdf:resource="http://dbpedia.org/resource/Thermal_stress_on_humans" />
+    <owl:sameAs rdf:resource="http://el.dbpedia.org/resource/Τάση_(μηχανική)" />
+    <owl:sameAs rdf:resource="http://pl.dbpedia.org/resource/Naprężenie" />
+    <owl:sameAs rdf:resource="http://id.dbpedia.org/resource/Tegangan_(mekanika)" />
+    <owl:sameAs rdf:resource="http://ko.dbpedia.org/resource/변형력" />
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Stress_(mechanics)" />
+    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/Mechanische_Spannung" />
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q206175" />
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q206175" />
+    <owl:sameAs rdf:resource="http://pt.dbpedia.org/resource/Tensão_(mecânica)" />
+    <owl:sameAs rdf:resource="http://es.dbpedia.org/resource/Tensión_mecánica" />
+    <owl:sameAs rdf:resource="http://cs.dbpedia.org/resource/Mechanické_napětí" />
+    <owl:sameAs rdf:resource="http://fr.dbpedia.org/resource/Contrainte_(mécanique)" />
+    <owl:sameAs rdf:resource="http://yago-knowledge.org/resource/Stress_(physics)" />
+    <owl:sameAs rdf:resource="http://nl.dbpedia.org/resource/Mechanische_spanning" />
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.026w02" />
+    <owl:sameAs rdf:resource="http://yago-knowledge.org/resource/Stress_(mechanics)" />
+    <owl:sameAs rdf:resource="http://it.dbpedia.org/resource/Tensione_interna" />
+    <owl:sameAs rdf:resource="http://d-nb.info/gnd/4134428-5" />
+    <owl:sameAs rdf:resource="http://ja.dbpedia.org/resource/応力" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Solid_mechanics" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Tensors" />
+    <dbo:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">228107</dbo:wikiPageID>
+    <dbo:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">742859889</dbo:wikiPageRevisionID>
+    <dbo:wikiPageExternalLink rdf:resource="https://books.google.ca/books?id=NPZRAAAAMAAJ" />
+    <dbo:wikiPageExternalLink rdf:resource="https://books.google.ca/books?id=s0BaKxL11KsC&amp;lpg=PP1&amp;pg=PA18#v=onepage&amp;q=&amp;f=false" />
+    <dbo:wikiPageExternalLink rdf:resource="https://books.google.ca/books?id=u_rec9uQnLcC&amp;lpg=PP1&amp;dq=mohr%20circles%2C%20sterss%20paths%20and%20geotechnics&amp;pg=PA1#v=onepage&amp;q=&amp;f=false" />
+    <dbo:wikiPageExternalLink rdf:resource="https://books.google.ca/books?id=4KWbmn_1hcYC&amp;lpg=PP1&amp;pg=PA1#v=onepage&amp;q=&amp;f=false" />
+    <dbo:wikiPageExternalLink rdf:resource="https://books.google.ca/books?id=4Z11rZaUn1UC&amp;lpg=PP1&amp;pg=PA16#v=onepage&amp;q=&amp;f=false" />
+    <dbo:wikiPageExternalLink rdf:resource="https://books.google.ca/books?id=RjzhDL5rLSoC&amp;lpg=PR1&amp;pg=PA133#v=onepage&amp;q&amp;f=false" />
+    <dbo:wikiPageExternalLink rdf:resource="https://books.google.ca/books?id=kiCVc3AJhVwC&amp;lpg=PP1&amp;pg=PA95#v=onepage&amp;q=&amp;f=false" />
+    <dbo:wikiPageExternalLink rdf:resource="https://books.google.ca/books?id=9CZsqgsfwEAC&amp;lpg=PP1&amp;dq=related%3AISBN0486435946&amp;rview=1&amp;pg=PA17#v=onepage&amp;q=&amp;f=false" />
+    <dbo:wikiPageExternalLink rdf:resource="https://books.google.com/books?id=9-pJ7Kg5XmAC&amp;lpg=PP1&amp;pg=PA1#v=onepage&amp;q=&amp;f=false" />
+    <dbo:wikiPageExternalLink rdf:resource="https://books.google.ca/books?id=yYkYAQAAIAAJ&amp;dq=inauthor:%22William+D.+Kovacs%22&amp;cd=1" />
+    <foaf:depiction rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Plastic_Protractor_Polarized_05375.jpg" />
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Stress_(mechanics)" />
+    <dbo:thumbnail rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Plastic_Protractor_Polarized_05375.jpg?width=300" />
+    <prov:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Stress_(mechanics)?oldid=742859889" />
+    <dbo:abstract xml:lang="fr">En mécanique des milieux continus, et en résistance des matériaux en règle générale, la contrainte mécanique décrit les forces que les particules élémentaires d&#39;un milieu exercent les unes sur les autres. Ce bilan des forces locales est conceptualié par un tenseur d&#39;ordre deux : le tenseur des contraintes.</dbo:abstract>
+    <dbo:abstract xml:lang="en">In continuum mechanics, stress is a physical quantity that expresses the internal forces that neighboring particles of a continuous material exert on each other, while strain is the measure of the deformation of the material. For example, when a solid vertical bar is supporting a weight, each particle in the bar pushes on the particles immediately below it. When a liquid is in a closed container under pressure, each particle gets pushed against by all the surrounding particles. The container walls and the pressure-inducing surface (such as a piston) push against them in (Newtonian) reaction. These macroscopic forces are actually the net result of a very large number of intermolecular forces and collisions between the particles in those molecules. Strain inside a material may arise by various mechanisms, such as stress as applied by external forces to the bulk material (like gravity) or to its surface (like contact forces, external pressure, or friction). Any strain (deformation) of a solid material generates an internal elastic stress, analogous to the reaction force of a spring, that tends to restore the material to its original non-deformed state. In liquids and gases, only deformations that change the volume generate persistent elastic stress. However, if the deformation is gradually changing with time, even in fluids there will usually be some viscous stress, opposing that change. Elastic and viscous stresses are usually combined under the name mechanical stress. Significant stress may exist even when deformation is negligible or non-existent (a common assumption when modeling the flow of water). Stress may exist in the absence of external forces; such built-in stress is important, for example, in prestressed concrete and tempered glass. Stress may also be imposed on a material without the application of net forces, for example by changes in temperature or chemical composition, or by external electromagnetic fields (as in piezoelectric and magnetostrictive materials). The relation between mechanical stress, deformation, and the rate of change of deformation can be quite complicated, although a linear approximation may be adequate in practice if the quantities are small enough. Stress that exceeds certain strength limits of the material will result in permanent deformation (such as plastic flow, fracture, cavitation) or even change its crystal structure and chemical composition. In some branches of engineering, the term stress is occasionally used in a looser sense as a synonym of &quot;internal force&quot;. For example, in the analysis of trusses, it may refer to the total traction or compression force acting on a beam, rather than the force divided by the area of its cross-section.</dbo:abstract>
+    <dbo:abstract xml:lang="ja">応力（おうりょく、ストレス、英: stress）とは、物体の内部に生じる力の大きさや作用方向を表現するために用いられる物理量である。物体の変形や破壊などに対する負担の大きさを検討するのに用いられる。 この物理量には応力ベクトル (stress vector) と応力テンソル (stress tensor) の2つがあり、単に「応力」といえば応力テンソルのことを指すことが多い。応力テンソルは座標系などを特別に断らない限り、主に2階の混合テンソルおよび混合ベクトルとして扱われる（混合テンソルについてはテンソル積#テンソル空間とテンソルを参照）。応力ベクトルと応力テンソルは、ともに連続体内部に定義した微小面積に作用する単位面積あたりの力として定義される。そのため、それらの単位は、SIでは[Pa] (N/m2)、重力単位系では[kgf/mm2]で、圧力と同じである。</dbo:abstract>
+    <dbo:abstract xml:lang="de">Die mechanische Spannung (Formelzeichen ) ist ein Begriff aus der Festigkeitslehre, einem Teilgebiet der Technischen Mechanik. Sie ist die Kraft pro Flächeneinheit, die in einer gedachten Schnittfläche durch einen Körper, eine Flüssigkeit oder ein Gas wirkt. Die mechanische Spannung (engl. stress, frz. contrainte) an einem Punkt ist in der Kontinuumsmechanik durch den Grenzwert definiert, bei dem der auf den Oberflächenteil wirkende Teil der Kraft ist. Die mechanische Spannung hat dieselbe physikalische Dimension wie der Druck, nämlich Kraft pro Fläche. Der Druck stellt einen Spezialfall der mechanischen Spannung dar.</dbo:abstract>
+    <dbo:abstract xml:lang="it">La tensione interna (o sollecitazione interna o sforzo) è una misura delle forze di contatto esercitate tra le parti interne di un corpo continuo tridimensionale attraverso la relativa superficie di separazione. Essa è definita come la forza di contatto per unità di area, cioè è il limite del rapporto tra la forza agente e l&#39;area della superficie su cui agisce: Essa è una quantità vettoriale e la sua unità di misura è il pascal (simbolo Pa). Nella pratica tecnica si fa uso più comunemente del megapascal (MPa) o del gigapascal (GPa). In generale un corpo o un sistema in un certo istante temporale, dal punto di vista tensionale interno, si trova in una condizione di equilibrio; lo stato tensionale interno di un materiale può essere alterato attraverso l&#39;applicazione di forze o sollecitazioni esterne che provocano una deformazione dello stesso eventualmente fino ad un limite massimo detto carico di rottura, oltre il quale il corpo raggiunge rapidamente una nuova condizione di equilibrio. Il concetto di tensione è basato sul concetto di continuo e riveste un ruolo fondamentale in tutta la meccanica del continuo in quanto caratterizza lo stato delle forze interne/sollecitazioni interne di un corpo e, di conseguenza, il comportamento del materiale costituente il corpo, cioè come questo si deforma sotto l&#39;azione di forze applicate.</dbo:abstract>
+    <dbo:abstract xml:lang="es">En física e ingeniería, se denomina tensión mecánica a la magnitud física que representa la fuerza por unidad de área en el entorno de un punto material sobre una superficie real o imaginaria de un medio continuo. Es decir posee unidades físicas de presión. La definición anterior se aplica tanto a fuerzas localizadas como fuerzas distribuidas, uniformemente o no, que actúan sobre una superficie. Con el objeto de explicar cómo se transmiten a través de los sólidos las fuerzas externas aplicadas, es necesario introducir el concepto de tensión, siendo este el concepto físico más relevante de la mecánica de los medios continuos, y de la teoría de la elasticidad en particular.</dbo:abstract>
+    <dbo:abstract xml:lang="ar">الإجهاد (بالإنجليزية: Stress): يعرف الإجهاد بأنه كثافة القوة في نقطة ما. إذا كانت حالة الإجهاد نفسها في كامل الجسم يعرف بأنه قياس لمتوسط كمية القوة المطبقة على وحدة المساحة. حيث: متوسط الإجهاد أو يسمى أيضًا الإجهاد الاسمي أو الإجهاد الهندسي. القوة المؤثرة على المساحة . وهو قياس لكثافة القوى الداخلية الكلية العاملة داخل جسم ما عبر مساحة المقطع العرضي التخيلي، كرد فعل على القوى الخارجية المطبقة وقوى الجسم (تأثير الجاذبية الأرضية تعتبر قوة جسم). قام بتعريفه في نظرية المرونة من قبل أوغستين لوي كوشي، في عام 1822. الإجهاد هو مفهوم يعتمد على مبدأ ميكانيكا الأوساط المتصلة. إن واحدة الإجهاد في النظام الدولي للواحدات هي الباسكال، ويرمز لها بـ (Pa)، وهي اسم مختزل لنيوتن واحد (قوة) في المتر المربع (واحدة المساحة). وهي نفسها واحدة الضغط، والذي يقاس أيضًا بالقوة في واحدة المساحة. تقاس الكميات الهندسية عادة بالميغا باسكال (MPa)، أو الجيغا باسكال (GPa). يعبر عن الإجهاد في الواحدة البريطانية بالباوند ثقلي في البوصة المربعة (psi)، أو الكيلو باوند في البوصة المربعة (ksi). في الإجهاد العمودي (الشد أو الضغط) تكون القوة عمودية على السطح الذي تؤثر عليه القوة. في إجهاد القص، تكون القوة موازية للسطح الذي تؤثر عليه. وكما القوى، لا يمكن قياس الإجهاد مباشرة، ولكن يمكن حسابه من قياسات الانفعال، ومعرفة خواص المرونة للمادة. يوجد أجهزة تقيس الإجهاد على نحو غير مباشر مثل مقياس الانفعال، ومقياس الانضغاطية (piezoresistor).</dbo:abstract>
+    <dbo:abstract xml:lang="nl">Een mechanische spanning, vaak met de Engelse term stress aangeduid, is de kracht die wordt uitgeoefend per oppervlakte-eenheid. Spanning wordt uitgedrukt met de Griekse letter σ (sigma), als: waarin F de uitgeoefende kracht (in SI gebruikelijk als Newton) en A het oppervlak van de doorsnede waar de kracht op werkt (gebruikelijk in vierkante millimeter), dus als N/mm² Ter illustratie: bij een veer belast met een trekkracht zal op een willekeurige doorsnede een trekspanning optreden. In de boog van een boogbrug zijn uitsluitend drukkrachten en drukspanningen aanwezig. Wanneer een spanning op een materiaal wordt aangebracht, met een uitrekking tot gevolg, kan dit worden weergegeven in een spanning-rekdiagram.</dbo:abstract>
+    <dbo:abstract xml:lang="pt">Em física e engenharia, se denomina tensão mecânica ao valor da distribuição de forças por unidade de área em torno de um ponto material dentro de um corpo material ou meio contínuo. Na mecânica dos meios contínuos, tensão é uma medida da intensidade das forças internas agindo entre as partículas de uma seção transversal imaginária de um corpo de material deformável. Essas forças internas são forças de reação contra as forças externas aplicadas no corpo. Forças externas são ou forças de superfície ou forças de campo . Como o corpo deformável carregado é admitido como contínuo, as forças internas são distribuídas continuamente por dentro do volume do corpo material, ou seja, a distribuição de tensões é expressa com uma função contínua de coordenadas espaciais e temporais. A unidade em SI para tensão é o pascal (símbolo Pa), que é uma medida de força por unidade de área. A unidade da tensão é a mesma que a da pressão. Grandezas de engenharia são normalmente medidas em megapascals (MPa) ou gigapascals (GPa). Em unidades inglesas, tensão é expressa em libras-força por polegadas quadradas (psi) ou Quilolibras-força por polegadas quadradas (ksi). Um caso particular é o de tensão uniaxial, que se define em uma situação em que se aplica força F uniformemente distribuída sobre uma área A. Nesse caso a tensão mecânica uniaxial se representa por um escalar designado com a letra grega σ (sigma) e é dada por: Sendo as unidades [Pa] (pascal = [N/m²]), [MPa] = 106 [Pa] ou [MPa] = [N/mm²]. A situação anterior pode estender-se a situações mais complicadas com forças não distribuídas uniformemente no interior de um corpo de geometria mais ou menos complexa. Nesse caso a tensão mecânica não pode ser representada por um escalar. Considera-se um corpo submetido a tensão e se imagina um corte mediante um plano imaginário π que o divida em dois, sobre cada ponto do plano de corte se pode definir um vetor tensão tπ que depende do estado tensional interno do corpo, das coordenadas do ponto escolhido e do vetor unitário normal nπ ao plano π. Nesse caso se pode provar que tπ e nπ estão relacionados por uma aplicação linear T ou campo tensorial chamado tensor tensão: É análoga ao fenômeno elementar Pressão que ocorre nos fluidos, utilizando inclusive a mesma unidade, considerando não apenas forças perpendiculares ao plano ou seção considerada mas também forças oblíquas e tangenciais a esse plano ou seção, que o sólido é capaz de suportar.</dbo:abstract>
+    <dbo:abstract xml:lang="zh">在連續介質力學裏，應力定義為單位面積所承受的作用力。以公式標記為 ； 其中， 表示應力； 表示在 方向的施力； 表示在 方向的受力面積。 假設受力面積與施力方向正交，則稱此應力分量為正向應力，如圖1所示的 、 、 ，都是正向應力；假設受力面積與施力方向互相平行，則稱此應力分量為剪應力（shear stress），如圖1所示的 、 、 、 、 、 ，都是剪應力。 「內應力」指組成單一構造的不同材質之間，因材質差異而導致變形方式的不同，繼而產生的各種應力。 採用國際單位制，应力的单位是帕斯卡（Pa），等於1牛頓／平方公尺。應力的單位與壓強的單位相同。兩種物理量都是單位面積的作用力的度量。通常，在工程學裏，使用的單位是megapascals（MPa）或gigapascals（GPa）。採用英制單位，應力的單位是磅力／平方英寸（psi）或千磅力／平方英寸（ksi）。</dbo:abstract>
+    <dbo:abstract xml:lang="pl">Naprężenie – miara gęstości powierzchniowej sił wewnętrznych, występujących w pewnym punkcieprzekroju ośrodka ciągłego. Jest podstawową wielkością mechaniki ośrodków ciągłych. Jednostką naprężenia jest paskal. Naprężenie (całkowite) w dowolnym punkcie przekroju zależy od kierunku normalnej zewnętrznej do tego przekroju oraz wartości i kierunku działającej na niego siły . Naprężenie oblicza się ze wzoru Wektor ten można rozłożyć na dwie składowe: gdzie: – wypadkowy wektor naprężenia, – wypadkowy wektor sił wewnętrznych, A – pole przekroju poprzecznego, – składowa normalna (prostopadła do powierzchni), – wektor normalny do powierzchni, – składowa styczna, ścinająca (równoległa do powierzchni).</dbo:abstract>
+    <dbo:abstract xml:lang="ru">Механическое напряжение — это мера внутренних сил, возникающих в деформируемом теле под влиянием различных факторов. Механическое напряжение в точке тела определяется как отношение внутренней силы к единице площади в данной точке рассматриваемого сечения. Напряжения являются результатом взаимодействия частиц тела при его нагружении. Внешние силы стремятся изменить взаимное расположение частиц, а возникающие при этом напряжения препятствуют смещению частиц, ограничивая его в большинстве случаев некоторой малой величиной. Q — механическое напряжение. F — сила, возникшая в теле при деформации. S — площадь. Различают две составляющие вектора механического напряжения: 
+*  Нормальное механическое напряжение — приложено на единичную площадку сечения, по нормали к сечению (обозначается ). 
+*  Касательное механическое напряжение — приложено на единичную площадку сечения, в плоскости сечения по касательной (обозначается ). Совокупность напряжений, действующих по различным площадкам, проведенным через данную точку, называется напряженным состоянием в точке. В Международной системе единиц (СИ) механическое напряжение измеряется в паскалях.</dbo:abstract>
+    <ns7:hypernym rdf:resource="http://dbpedia.org/resource/Quantity" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Normal_stress">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Stress_(mechanics)" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Thermal_stress">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Stress_(mechanics)" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Internal_stresses">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Stress_(mechanics)" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Piola-Kirchhoff_stress">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Stress_(mechanics)" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Stress_(physics)">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Stress_(mechanics)" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Octahedral_shear_stress">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Stress_(mechanics)" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Extensional_stress">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Stress_(mechanics)" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Longitudinal_stress">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Stress_(mechanics)" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Internal_stress">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Stress_(mechanics)" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/N/m2">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Stress_(mechanics)" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Cauchy&#39;s_tetrahedron">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Stress_(mechanics)" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Cauchy_tetrahedron">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Stress_(mechanics)" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Stress_(mechanics)">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Stress_(mechanics)" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Piola-Kirchoff_stress_tensor">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Stress_(mechanics)" />
+  </rdf:Description>
+</rdf:RDF>

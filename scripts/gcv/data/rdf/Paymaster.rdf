@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:dct="http://purl.org/dc/terms/"
+	xmlns:dbo="http://dbpedia.org/ontology/"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:prov="http://www.w3.org/ns/prov#"
+	xmlns:ns7="http://purl.org/linguistics/gold/" >
+  <rdf:Description rdf:about="http://dbpedia.org/resource/John_H._Stevenson">
+    <ns7:hypernym rdf:resource="http://dbpedia.org/resource/Paymaster" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jonathan_Trumbull_Jr.">
+    <dbo:occupation rdf:resource="http://dbpedia.org/resource/Paymaster" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Paymaster">
+    <rdfs:label xml:lang="en">Paymaster</rdfs:label>
+    <rdfs:comment xml:lang="en">A paymaster is someone appointed by a group of investors or government to dispense commissions, fees or salaries within the private sector or public sector. Specific titles within the British government are Paymaster of the Forces, Paymaster-General and Paymaster of Pensions.</rdfs:comment>
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.025s8k9" />
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q7156771" />
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Paymaster" />
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q7156771" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Paymasters" />
+    <dbo:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">237461</dbo:wikiPageID>
+    <dbo:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">727661067</dbo:wikiPageRevisionID>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Paymaster" />
+    <prov:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Paymaster?oldid=727661067" />
+    <dbo:abstract xml:lang="en">A paymaster is someone appointed by a group of investors or government to dispense commissions, fees or salaries within the private sector or public sector. Specific titles within the British government are Paymaster of the Forces, Paymaster-General and Paymaster of Pensions.</dbo:abstract>
+    <ns7:hypernym rdf:resource="http://dbpedia.org/resource/Someone" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Paymaster">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Paymaster" />
+  </rdf:Description>
+</rdf:RDF>

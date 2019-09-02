@@ -1,0 +1,728 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:dbo="http://dbpedia.org/ontology/"
+	xmlns:dbp="http://dbpedia.org/property/"
+	xmlns:dct="http://purl.org/dc/terms/"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:prov="http://www.w3.org/ns/prov#"
+	xmlns:ns8="http://purl.org/linguistics/gold/" >
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Akiko_Yonemura">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Kumamoto" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kengo_Kora">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Kumamoto" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Rie_Furuse">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Kumamoto" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Rie_Kugimiya">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Kumamoto" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tomoko_Yonemura">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Kumamoto" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tsutomu_Ito">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Kumamoto" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yasunosuke_Futa">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Kumamoto" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yoshihiro_Yonezawa">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Kumamoto" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/37th_Division_(Imperial_Japanese_Army)">
+    <dbo:garrison rdf:resource="http://dbpedia.org/resource/Kumamoto" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mayumi_Hirase">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Kumamoto" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yuka_Terasaki">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Kumamoto" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tomishige_Rihei">
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Kumamoto" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Shinya_Sato">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Kumamoto" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kinoko_Nasu">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Kumamoto" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Asami_Kai">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Kumamoto" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kumamoto">
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Location" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Place" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/PopulatedPlace" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatPopulatedCoastalPlacesInJapan" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatCitiesInJapan" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatPortSettlementsInJapan" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/District108552138" />
+    <rdf:type rdf:resource="http://schema.org/Place" />
+    <rdf:type rdf:resource="http://umbel.org/umbel/rc/City" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Municipality108626283" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/UrbanArea108675967" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Site108651247" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Tract108673395" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/City" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Settlement" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Port108633957" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/GeographicPoint108578706" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Point108620061" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/City108524735" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/GeographicalArea108574314" />
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing" />
+    <rdf:type rdf:resource="http://umbel.org/umbel/rc/Village" />
+    <rdf:type rdf:resource="http://umbel.org/umbel/rc/PopulatedPlace" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatPortsAndHarbours" />
+    <rdf:type rdf:resource="http://umbel.org/umbel/rc/Location_Underspecified" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PhysicalEntity100001930" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatPortCities" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Object100002684" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoLegalActorGeo" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q486972" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q515" />
+    <rdf:type rdf:resource="http://schema.org/City" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatCitiesInKumamotoPrefecture" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Location100027167" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/AdministrativeDistrict108491826" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Region108630985" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoGeoEntity" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoPermanentlyLocatedEntity" />
+    <rdfs:label xml:lang="en">Kumamoto</rdfs:label>
+    <rdfs:label xml:lang="it">Kumamoto</rdfs:label>
+    <rdfs:label xml:lang="nl">Kumamoto (stad)</rdfs:label>
+    <rdfs:label xml:lang="pt">Kumamoto (cidade)</rdfs:label>
+    <rdfs:label xml:lang="ru">Кумамото (город)</rdfs:label>
+    <rdfs:label xml:lang="zh">熊本市</rdfs:label>
+    <rdfs:label xml:lang="ar">كوماموتو (كوماموتو)</rdfs:label>
+    <rdfs:label xml:lang="pl">Kumamoto</rdfs:label>
+    <rdfs:label xml:lang="de">Kumamoto</rdfs:label>
+    <rdfs:label xml:lang="fr">Kumamoto</rdfs:label>
+    <rdfs:label xml:lang="es">Kumamoto</rdfs:label>
+    <rdfs:label xml:lang="ja">熊本市</rdfs:label>
+    <rdfs:comment xml:lang="zh">熊本市位於日本九州中部，為九州第三大城市，是熊本縣的縣廳所在地，也是縣內的最大城市，人口74萬餘。市內街道整齊，樓廈林立，富有現代感，日本三名城之一的熊本城正位於此。 熊本市與周邊町村共同構成熊本都市圈，近年來積極與周邊町村合併後，已於2012年4月1日升格為政令指定都市；並期望在未來日本可能實施的道州制中，可以進一步爭取成為新設置道州的州都。目前轄下將劃分為北區、西區、中央區、東區、南區五區。 以此為主場的職業球隊有：日本職業足球聯賽的熊本羅亞素。</rdfs:comment>
+    <rdfs:comment xml:lang="pl">Kumamoto (jap. 熊本市 Kumamoto-shi) — miasto w Japonii, ośrodek administracyjny prefektury Kumamoto, w zachodniej części wyspy Kiusiu. Ludność: 671 444 mieszkańców (01.07.2005).</rdfs:comment>
+    <rdfs:comment xml:lang="ja">熊本市（くまもとし）は、日本の熊本県にある市の一つ。同県の県庁所在地、また日本最南端の政令指定都市である。</rdfs:comment>
+    <rdfs:comment xml:lang="ar">25بك المحتوى هنا ينقصه الاستشهاد بمصادر. يرجى إيراد مصادر موثوق بها. أي معلومات غير موثقة يمكن التشكيك بها وإزالتها. (مارس 2016) مدينة كوماموتو (باليابانية 熊本市) هي المدينة الرئيسية في محافظة كوماموتو، جزيرة كيوشو، اليابان.</rdfs:comment>
+    <rdfs:comment xml:lang="de">Kumamoto (jap. 熊本市, -shi) ist eine Großstadt und Verwaltungssitz der gleichnamigen Präfektur Kumamoto auf Kyūshū, der südlichsten der großen Inseln von Japan. Kumamoto ist am 1. April 2012 zu einer durch Regierungserlass bestimmten Großstadt (seirei shitei toshi) ernannt worden. Damit ist Kumamoto die insgesamt 20. derartige Stadt Japans.</rdfs:comment>
+    <rdfs:comment xml:lang="ru">Кумамо́то (яп. 熊本市 Кумамото-си) — центральный город Японии, административный центр одноименной префектуры Кумамото. Располагается на самом южном острове Японии Кюсю, на реке Сиракава. Расстояние до Нагасаки составляет 70 км воздушным сообщением. Площадь города составляет 389,54 км², население — 740 080 человек (1 августа 2014), плотность населения — 1899,88 чел./км².</rdfs:comment>
+    <rdfs:comment xml:lang="fr">Kumamoto (熊本市, Kumamoto-shi) est une ville japonaise, capitale et ville la plus peuplée de la préfecture de Kumamoto, dans l&#39;ouest de l&#39;île de Kyūshū. C&#39;est aussi la ville la plus peuplée du sud du Japon (hors mégalopole japonaise). En 2012, la population était de 731 286 habitants pour une superficie de 389,53 km2. Cependant, avec plus de 1,4 million d&#39;habitants, l&#39;agglomération de Kumamoto est l&#39;une des vingt plus grandes du Japon. La ville comporte cinq arrondissements (区) : Kita-ku (北区), Higashi-ku (東区), Minami-ku (南区), Nishi-ku (西区) et Chūō-ku (中央区).</rdfs:comment>
+    <rdfs:comment xml:lang="es">La ciudad de Kumamoto (熊本市 Kumamoto-shi?) es la capital de la prefectura homónima en la isla de Kyushu, Japón. Desde el año 2010, esta ciudad tiene censo de 734,294 y una densidad de 1,885.90 personas por km². El área total es de 389.36 km².Esta ciudad surge de la fusión de tres ciudades y pueblos el 1 de octubre de 2008 y 23 de marzo de 2010: Es candidata a ser una ciudad designada por orden gubernamental el de 1 de abril de 2012.</rdfs:comment>
+    <rdfs:comment xml:lang="pt">Kumamoto (熊本市 -shi) é uma cidade japonesa localizada na província de Kumamoto. Em 2003 a cidade tinha uma população estimada em 669 034 habitantes e uma densidade populacional de 2 507,91 h/km². Tem uma área total de 266,77 km². Recebeu o estatuto de cidade a 1 de Abril de 1889. A cidade ficou muito conhecida dos brasileiros por ser cidade natal da cantora Tomiko Van, ex-vocalista da banda Do As Infinity.</rdfs:comment>
+    <rdfs:comment xml:lang="en">Kumamoto (熊本市 Kumamoto-shi) is the capital city of Kumamoto Prefecture on the island of Kyushu, Japan. As of March 1, 2010, the city has an estimated population of 731,286 and a population density of 1,880 persons per km2. The total area is 389.53 km2. Greater Kumamoto (熊本都市圏) had a population of 1,460,000, as of the 2000 census. As of 2010, Kumamoto Metropolitan Employment Area has a GDP of US$39.8 billion. It is not considered part of the Fukuoka–Kitakyushu metropolitan area, despite their shared border. The city was designated on April 1, 2012 by government ordinance.</rdfs:comment>
+    <rdfs:comment xml:lang="nl">Kumamoto (熊本市,Kumamoto-shi) is de hoofdstad van de Japanse prefectuur Kumamoto. Op 1 april 2009 had de stad een geschatte bevolking van 677.375 inwoners. De bevolkingsdichtheid bedroeg 2360 inw./km². De oppervlakte van de stad is 286,82 km².</rdfs:comment>
+    <rdfs:comment xml:lang="it">Kumamoto (熊本市 Kumamoto-shi?) è una città giapponese nell&#39;isola di Kyūshū (九州 Kyūshū) capoluogo della Prefettura di Kumamoto (熊本県 Kumamoto-ken). Il 1º aprile 2012 ha ottenuto lo status di città designata per ordinanza governativa, in giapponese 政令指定都市 (seirei shitei toshi) oppure 政令市 (seirei shi).</rdfs:comment>
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/History_of_Kumamoto_Prefecture" />
+    <owl:sameAs rdf:resource="http://nl.dbpedia.org/resource/Kumamoto_(stad)" />
+    <owl:sameAs rdf:resource="http://yago-knowledge.org/resource/Kumamoto" />
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Kumamoto" />
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q199889" />
+    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/Kumamoto" />
+    <owl:sameAs rdf:resource="http://ja.dbpedia.org/resource/熊本市" />
+    <owl:sameAs rdf:resource="http://cs.dbpedia.org/resource/Kumamoto" />
+    <owl:sameAs rdf:resource="http://fr.dbpedia.org/resource/Kumamoto" />
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q199889" />
+    <owl:sameAs rdf:resource="http://eu.dbpedia.org/resource/Kumamoto" />
+    <owl:sameAs rdf:resource="http://sw.cyc.com/concept/Mx4rvn2UPZwpEbGdrcN5Y29ycA" />
+    <owl:sameAs rdf:resource="http://sws.geonames.org/1858418/" />
+    <owl:sameAs rdf:resource="http://sws.geonames.org/1858421/" />
+    <owl:sameAs rdf:resource="http://ko.dbpedia.org/resource/구마모토_시" />
+    <owl:sameAs rdf:resource="http://id.dbpedia.org/resource/Kumamoto,_Kumamoto" />
+    <owl:sameAs rdf:resource="http://pt.dbpedia.org/resource/Kumamoto_(cidade)" />
+    <owl:sameAs rdf:resource="http://it.dbpedia.org/resource/Kumamoto" />
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.0gp6_0" />
+    <owl:sameAs rdf:resource="http://es.dbpedia.org/resource/Kumamoto" />
+    <owl:sameAs rdf:resource="http://pl.dbpedia.org/resource/Kumamoto" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Populated_coastal_places_in_Japan" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Port_settlements_in_Japan" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Kumamoto,_Kumamoto" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Cities_in_Kumamoto_Prefecture" />
+    <dbo:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">6793346</dbo:wikiPageID>
+    <dbo:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">741681438</dbo:wikiPageRevisionID>
+    <dbo:wikiPageExternalLink rdf:resource="http://www.city.kumamoto.kumamoto.jp" />
+    <foaf:name xml:lang="en">Kumamoto</foaf:name>
+    <foaf:name xml:lang="en">Kumamoto City</foaf:name>
+    <foaf:homepage rdf:resource="http://www.city.kumamoto.kumamoto.jp" />
+    <foaf:depiction rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Kumamoto_montage.jpg" />
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Kumamoto" />
+    <dbo:thumbnail rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Kumamoto_montage.jpg?width=300" />
+    <prov:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Kumamoto?oldid=741681438" />
+    <dbo:abstract xml:lang="fr">Kumamoto (熊本市, Kumamoto-shi) est une ville japonaise, capitale et ville la plus peuplée de la préfecture de Kumamoto, dans l&#39;ouest de l&#39;île de Kyūshū. C&#39;est aussi la ville la plus peuplée du sud du Japon (hors mégalopole japonaise). En 2012, la population était de 731 286 habitants pour une superficie de 389,53 km2. Cependant, avec plus de 1,4 million d&#39;habitants, l&#39;agglomération de Kumamoto est l&#39;une des vingt plus grandes du Japon. La ville comporte cinq arrondissements (区) : Kita-ku (北区), Higashi-ku (東区), Minami-ku (南区), Nishi-ku (西区) et Chūō-ku (中央区).</dbo:abstract>
+    <dbo:abstract xml:lang="it">Kumamoto (熊本市 Kumamoto-shi?) è una città giapponese nell&#39;isola di Kyūshū (九州 Kyūshū) capoluogo della Prefettura di Kumamoto (熊本県 Kumamoto-ken). Il 1º aprile 2012 ha ottenuto lo status di città designata per ordinanza governativa, in giapponese 政令指定都市 (seirei shitei toshi) oppure 政令市 (seirei shi).</dbo:abstract>
+    <dbo:abstract xml:lang="en">Kumamoto (熊本市 Kumamoto-shi) is the capital city of Kumamoto Prefecture on the island of Kyushu, Japan. As of March 1, 2010, the city has an estimated population of 731,286 and a population density of 1,880 persons per km2. The total area is 389.53 km2. Greater Kumamoto (熊本都市圏) had a population of 1,460,000, as of the 2000 census. As of 2010, Kumamoto Metropolitan Employment Area has a GDP of US$39.8 billion. It is not considered part of the Fukuoka–Kitakyushu metropolitan area, despite their shared border. The city was designated on April 1, 2012 by government ordinance.</dbo:abstract>
+    <dbo:abstract xml:lang="de">Kumamoto (jap. 熊本市, -shi) ist eine Großstadt und Verwaltungssitz der gleichnamigen Präfektur Kumamoto auf Kyūshū, der südlichsten der großen Inseln von Japan. Kumamoto ist am 1. April 2012 zu einer durch Regierungserlass bestimmten Großstadt (seirei shitei toshi) ernannt worden. Damit ist Kumamoto die insgesamt 20. derartige Stadt Japans.</dbo:abstract>
+    <dbo:abstract xml:lang="es">La ciudad de Kumamoto (熊本市 Kumamoto-shi?) es la capital de la prefectura homónima en la isla de Kyushu, Japón. Desde el año 2010, esta ciudad tiene censo de 734,294 y una densidad de 1,885.90 personas por km². El área total es de 389.36 km².Esta ciudad surge de la fusión de tres ciudades y pueblos el 1 de octubre de 2008 y 23 de marzo de 2010: Es candidata a ser una ciudad designada por orden gubernamental el de 1 de abril de 2012. El 14 de abril de 2016 la ciudad fue azotada por un fuerte terremoto de 6.5 grados en la escala Richter. El sismo provocó la muerte de 9 personas y dejando heridas a otras 1000 a lo largo de la prefectura homónima. El 16 de abril de 2016 se presentó un segundo terremoto, en este caso de 7.3 grados en la escala Richter, dejando como saldo la muerte de otras 4 personas y 450 heridos; se han presentado numerosas réplicas luego de los sismos y graves daños a estructuras modernas y tradicionales como el Castillo Kumamoto.</dbo:abstract>
+    <dbo:abstract xml:lang="ar">25بك المحتوى هنا ينقصه الاستشهاد بمصادر. يرجى إيراد مصادر موثوق بها. أي معلومات غير موثقة يمكن التشكيك بها وإزالتها. (مارس 2016) مدينة كوماموتو (باليابانية 熊本市) هي المدينة الرئيسية في محافظة كوماموتو، جزيرة كيوشو، اليابان.</dbo:abstract>
+    <dbo:abstract xml:lang="zh">熊本市位於日本九州中部，為九州第三大城市，是熊本縣的縣廳所在地，也是縣內的最大城市，人口74萬餘。市內街道整齊，樓廈林立，富有現代感，日本三名城之一的熊本城正位於此。 熊本市與周邊町村共同構成熊本都市圈，近年來積極與周邊町村合併後，已於2012年4月1日升格為政令指定都市；並期望在未來日本可能實施的道州制中，可以進一步爭取成為新設置道州的州都。目前轄下將劃分為北區、西區、中央區、東區、南區五區。 以此為主場的職業球隊有：日本職業足球聯賽的熊本羅亞素。</dbo:abstract>
+    <dbo:abstract xml:lang="pl">Kumamoto (jap. 熊本市 Kumamoto-shi) — miasto w Japonii, ośrodek administracyjny prefektury Kumamoto, w zachodniej części wyspy Kiusiu. Ludność: 671 444 mieszkańców (01.07.2005).</dbo:abstract>
+    <dbo:abstract xml:lang="ru">Кумамо́то (яп. 熊本市 Кумамото-си) — центральный город Японии, административный центр одноименной префектуры Кумамото. Располагается на самом южном острове Японии Кюсю, на реке Сиракава. Расстояние до Нагасаки составляет 70 км воздушным сообщением. Площадь города составляет 389,54 км², население — 740 080 человек (1 августа 2014), плотность населения — 1899,88 чел./км².</dbo:abstract>
+    <dbo:abstract xml:lang="nl">Kumamoto (熊本市,Kumamoto-shi) is de hoofdstad van de Japanse prefectuur Kumamoto. Op 1 april 2009 had de stad een geschatte bevolking van 677.375 inwoners. De bevolkingsdichtheid bedroeg 2360 inw./km². De oppervlakte van de stad is 286,82 km².</dbo:abstract>
+    <dbo:abstract xml:lang="pt">Kumamoto (熊本市 -shi) é uma cidade japonesa localizada na província de Kumamoto. Em 2003 a cidade tinha uma população estimada em 669 034 habitantes e uma densidade populacional de 2 507,91 h/km². Tem uma área total de 266,77 km². Recebeu o estatuto de cidade a 1 de Abril de 1889. A cidade ficou muito conhecida dos brasileiros por ser cidade natal da cantora Tomiko Van, ex-vocalista da banda Do As Infinity.</dbo:abstract>
+    <dbo:abstract xml:lang="ja">熊本市（くまもとし）は、日本の熊本県にある市の一つ。同県の県庁所在地、また日本最南端の政令指定都市である。</dbo:abstract>
+    <dbo:populationAsOf rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2010-03-01</dbo:populationAsOf>
+    <dbo:populationTotal rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">731286</dbo:populationTotal>
+    <dbo:region rdf:resource="http://dbpedia.org/resource/Kyushu" />
+    <dbo:type rdf:resource="http://dbpedia.org/resource/Cities_designated_by_government_ordinance_of_Japan" />
+    <dbp:aprHighC rdf:datatype="http://www.w3.org/2001/XMLSchema#double">21.3</dbp:aprHighC>
+    <dbp:aprHumidity rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">66</dbp:aprHumidity>
+    <dbp:aprLowC rdf:datatype="http://www.w3.org/2001/XMLSchema#double">10.3</dbp:aprLowC>
+    <dbp:aprMeanC rdf:datatype="http://www.w3.org/2001/XMLSchema#double">15.7</dbp:aprMeanC>
+    <dbp:aprRainDays rdf:datatype="http://www.w3.org/2001/XMLSchema#double">10.9</dbp:aprRainDays>
+    <dbp:aprRainMm rdf:datatype="http://www.w3.org/2001/XMLSchema#double">145.9</dbp:aprRainMm>
+    <dbp:aprRecordHighC rdf:datatype="http://www.w3.org/2001/XMLSchema#double">30.7</dbp:aprRecordHighC>
+    <dbp:aprRecordLowC rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">&amp;minus;2.5</dbp:aprRecordLowC>
+    <dbp:aprSun rdf:datatype="http://www.w3.org/2001/XMLSchema#double">181.4</dbp:aprSun>
+    <dbp:areaKm rdf:datatype="http://www.w3.org/2001/XMLSchema#double">389.53</dbp:areaKm>
+    <dbp:augHighC rdf:datatype="http://www.w3.org/2001/XMLSchema#double">33.2</dbp:augHighC>
+    <dbp:augHumidity rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">73</dbp:augHumidity>
+    <dbp:augLowC rdf:datatype="http://www.w3.org/2001/XMLSchema#double">24.4</dbp:augLowC>
+    <dbp:augMeanC rdf:datatype="http://www.w3.org/2001/XMLSchema#double">28.2</dbp:augMeanC>
+    <dbp:augRainDays rdf:datatype="http://www.w3.org/2001/XMLSchema#double">10.7</dbp:augRainDays>
+    <dbp:augRainMm rdf:datatype="http://www.w3.org/2001/XMLSchema#double">173.5</dbp:augRainMm>
+    <dbp:augRecordHighC rdf:datatype="http://www.w3.org/2001/XMLSchema#double">38.5</dbp:augRecordHighC>
+    <dbp:augRecordLowC rdf:datatype="http://www.w3.org/2001/XMLSchema#double">15.3</dbp:augRecordLowC>
+    <dbp:augSun rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">211</dbp:augSun>
+    <dbp:bird rdf:resource="http://dbpedia.org/resource/Great_tit" />
+    <dbp:date rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">December 2011</dbp:date>
+    <dbp:decHighC rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">13</dbp:decHighC>
+    <dbp:decHumidity rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">71</dbp:decHumidity>
+    <dbp:decLowC rdf:datatype="http://www.w3.org/2001/XMLSchema#double">3.1</dbp:decLowC>
+    <dbp:decMeanC rdf:datatype="http://www.w3.org/2001/XMLSchema#double">7.8</dbp:decMeanC>
+    <dbp:decRainDays rdf:datatype="http://www.w3.org/2001/XMLSchema#double">8.2</dbp:decRainDays>
+    <dbp:decRainMm rdf:datatype="http://www.w3.org/2001/XMLSchema#double">53.6</dbp:decRainMm>
+    <dbp:decRecordHighC rdf:datatype="http://www.w3.org/2001/XMLSchema#double">24.6</dbp:decRecordHighC>
+    <dbp:decRecordLowC rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">&amp;minus;7.9</dbp:decRecordLowC>
+    <dbp:decSun rdf:datatype="http://www.w3.org/2001/XMLSchema#double">147.5</dbp:decSun>
+    <dbp:densityKm rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1880</dbp:densityKm>
+    <dbp:febHighC rdf:datatype="http://www.w3.org/2001/XMLSchema#double">12.1</dbp:febHighC>
+    <dbp:febHumidity rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">67</dbp:febHumidity>
+    <dbp:febLowC rdf:datatype="http://www.w3.org/2001/XMLSchema#double">2.3</dbp:febLowC>
+    <dbp:febMeanC rdf:datatype="http://www.w3.org/2001/XMLSchema#double">7.1</dbp:febMeanC>
+    <dbp:febRainDays rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">9</dbp:febRainDays>
+    <dbp:febRainMm rdf:datatype="http://www.w3.org/2001/XMLSchema#double">83.3</dbp:febRainMm>
+    <dbp:febRecordHighC rdf:datatype="http://www.w3.org/2001/XMLSchema#double">26.4</dbp:febRecordHighC>
+    <dbp:febRecordLowC rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">&amp;minus;9.2</dbp:febRecordLowC>
+    <dbp:febSun rdf:datatype="http://www.w3.org/2001/XMLSchema#double">139.5</dbp:febSun>
+    <dbp:flower rdf:resource="http://dbpedia.org/resource/Camellia" />
+    <dbp:imageCaption rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">From top left:Central Kumamoto view from Kumamoto Castle, Kumamoto Castle, Kumamoto City Tramway, Fujisaki hachimangu shrine, Suizenji jojuen</dbp:imageCaption>
+    <dbp:imageFlag rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Flag of Kumamoto, Kumamoto.svg</dbp:imageFlag>
+    <dbp:imageMap rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Kumamoto in Kumamoto Prefecture Ja.svg</dbp:imageMap>
+    <dbp:imageSkyline rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Kumamoto montage.jpg</dbp:imageSkyline>
+    <dbp:janHighC rdf:datatype="http://www.w3.org/2001/XMLSchema#double">10.5</dbp:janHighC>
+    <dbp:janHumidity rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">70</dbp:janHumidity>
+    <dbp:janLowC rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.2</dbp:janLowC>
+    <dbp:janMeanC rdf:datatype="http://www.w3.org/2001/XMLSchema#double">5.7</dbp:janMeanC>
+    <dbp:janRainDays rdf:datatype="http://www.w3.org/2001/XMLSchema#double">8.6</dbp:janRainDays>
+    <dbp:janRainMm rdf:datatype="http://www.w3.org/2001/XMLSchema#double">60.1</dbp:janRainMm>
+    <dbp:janRecordHighC rdf:datatype="http://www.w3.org/2001/XMLSchema#double">22.5</dbp:janRecordHighC>
+    <dbp:janRecordLowC rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">&amp;minus;9.2</dbp:janRecordLowC>
+    <dbp:janSun rdf:datatype="http://www.w3.org/2001/XMLSchema#double">132.6</dbp:janSun>
+    <dbp:julHighC rdf:datatype="http://www.w3.org/2001/XMLSchema#double">31.7</dbp:julHighC>
+    <dbp:julHumidity rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">77</dbp:julHumidity>
+    <dbp:julLowC rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">24</dbp:julLowC>
+    <dbp:julMeanC rdf:datatype="http://www.w3.org/2001/XMLSchema#double">27.3</dbp:julMeanC>
+    <dbp:julRainDays rdf:datatype="http://www.w3.org/2001/XMLSchema#double">13.5</dbp:julRainDays>
+    <dbp:julRainMm rdf:datatype="http://www.w3.org/2001/XMLSchema#double">400.8</dbp:julRainMm>
+    <dbp:julRecordHighC rdf:datatype="http://www.w3.org/2001/XMLSchema#double">38.8</dbp:julRecordHighC>
+    <dbp:julRecordLowC rdf:datatype="http://www.w3.org/2001/XMLSchema#double">14.3</dbp:julRecordLowC>
+    <dbp:julSun rdf:datatype="http://www.w3.org/2001/XMLSchema#double">184.5</dbp:julSun>
+    <dbp:junHighC rdf:datatype="http://www.w3.org/2001/XMLSchema#double">28.2</dbp:junHighC>
+    <dbp:junHumidity rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">75</dbp:junHumidity>
+    <dbp:junLowC rdf:datatype="http://www.w3.org/2001/XMLSchema#double">19.8</dbp:junLowC>
+    <dbp:junMeanC rdf:datatype="http://www.w3.org/2001/XMLSchema#double">23.6</dbp:junMeanC>
+    <dbp:junRainDays rdf:datatype="http://www.w3.org/2001/XMLSchema#double">14.4</dbp:junRainDays>
+    <dbp:junRainMm rdf:datatype="http://www.w3.org/2001/XMLSchema#double">404.9</dbp:junRainMm>
+    <dbp:junRecordHighC rdf:datatype="http://www.w3.org/2001/XMLSchema#double">36.1</dbp:junRecordHighC>
+    <dbp:junRecordLowC rdf:datatype="http://www.w3.org/2001/XMLSchema#double">7.1</dbp:junRecordLowC>
+    <dbp:junSun rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">141</dbp:junSun>
+    <dbp:latDeg rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">32</dbp:latDeg>
+    <dbp:latMin rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">47</dbp:latMin>
+    <dbp:location rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Kumamoto, Kumamoto</dbp:location>
+    <dbp:lonDeg rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">130</dbp:lonDeg>
+    <dbp:lonMin rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">44</dbp:lonMin>
+    <dbp:marHighC rdf:datatype="http://www.w3.org/2001/XMLSchema#double">15.7</dbp:marHighC>
+    <dbp:marHumidity rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">67</dbp:marHumidity>
+    <dbp:marLowC rdf:datatype="http://www.w3.org/2001/XMLSchema#double">5.6</dbp:marLowC>
+    <dbp:marMeanC rdf:datatype="http://www.w3.org/2001/XMLSchema#double">10.6</dbp:marMeanC>
+    <dbp:marRainDays rdf:datatype="http://www.w3.org/2001/XMLSchema#double">12.4</dbp:marRainDays>
+    <dbp:marRainMm rdf:datatype="http://www.w3.org/2001/XMLSchema#double">137.9</dbp:marRainMm>
+    <dbp:marRecordHighC rdf:datatype="http://www.w3.org/2001/XMLSchema#double">27.4</dbp:marRecordHighC>
+    <dbp:marRecordLowC rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">&amp;minus;6.9</dbp:marRecordLowC>
+    <dbp:marSun rdf:datatype="http://www.w3.org/2001/XMLSchema#double">158.5</dbp:marSun>
+    <dbp:mayHighC rdf:datatype="http://www.w3.org/2001/XMLSchema#double">25.6</dbp:mayHighC>
+    <dbp:mayHumidity rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">68</dbp:mayHumidity>
+    <dbp:mayLowC rdf:datatype="http://www.w3.org/2001/XMLSchema#double">15.2</dbp:mayLowC>
+    <dbp:mayMeanC rdf:datatype="http://www.w3.org/2001/XMLSchema#double">20.2</dbp:mayMeanC>
+    <dbp:mayRainDays rdf:datatype="http://www.w3.org/2001/XMLSchema#double">11.1</dbp:mayRainDays>
+    <dbp:mayRainMm rdf:datatype="http://www.w3.org/2001/XMLSchema#double">195.5</dbp:mayRainMm>
+    <dbp:mayRecordHighC rdf:datatype="http://www.w3.org/2001/XMLSchema#double">34.4</dbp:mayRecordHighC>
+    <dbp:mayRecordLowC rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.3</dbp:mayRecordLowC>
+    <dbp:maySun rdf:datatype="http://www.w3.org/2001/XMLSchema#double">187.2</dbp:maySun>
+    <dbp:mayor rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Kazufumi Ōnishi</dbp:mayor>
+    <dbp:metricFirst rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">yes</dbp:metricFirst>
+    <dbp:novHighC rdf:datatype="http://www.w3.org/2001/XMLSchema#double">18.5</dbp:novHighC>
+    <dbp:novHumidity rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">72</dbp:novHumidity>
+    <dbp:novLowC rdf:datatype="http://www.w3.org/2001/XMLSchema#double">8.3</dbp:novLowC>
+    <dbp:novMeanC rdf:datatype="http://www.w3.org/2001/XMLSchema#double">13.1</dbp:novMeanC>
+    <dbp:novRainDays rdf:datatype="http://www.w3.org/2001/XMLSchema#double">7.9</dbp:novRainDays>
+    <dbp:novRainMm rdf:datatype="http://www.w3.org/2001/XMLSchema#double">80.6</dbp:novRainMm>
+    <dbp:novRecordHighC rdf:datatype="http://www.w3.org/2001/XMLSchema#double">28.9</dbp:novRecordHighC>
+    <dbp:novRecordLowC rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">&amp;minus;3.8</dbp:novRecordLowC>
+    <dbp:novSun rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">153</dbp:novSun>
+    <dbp:octHighC rdf:datatype="http://www.w3.org/2001/XMLSchema#double">24.6</dbp:octHighC>
+    <dbp:octHumidity rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">69</dbp:octHumidity>
+    <dbp:octLowC rdf:datatype="http://www.w3.org/2001/XMLSchema#double">14.2</dbp:octLowC>
+    <dbp:octMeanC rdf:datatype="http://www.w3.org/2001/XMLSchema#double">19.1</dbp:octMeanC>
+    <dbp:octRainDays rdf:datatype="http://www.w3.org/2001/XMLSchema#double">6.9</dbp:octRainDays>
+    <dbp:octRainMm rdf:datatype="http://www.w3.org/2001/XMLSchema#double">79.4</dbp:octRainMm>
+    <dbp:octRecordHighC rdf:datatype="http://www.w3.org/2001/XMLSchema#double">33.7</dbp:octRecordHighC>
+    <dbp:octRecordLowC rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.5</dbp:octRecordLowC>
+    <dbp:octSun rdf:datatype="http://www.w3.org/2001/XMLSchema#double">189.7</dbp:octSun>
+    <dbp:rainColour rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">green</dbp:rainColour>
+    <dbp:sepHighC rdf:datatype="http://www.w3.org/2001/XMLSchema#double">29.9</dbp:sepHighC>
+    <dbp:sepHumidity rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">72</dbp:sepHumidity>
+    <dbp:sepLowC rdf:datatype="http://www.w3.org/2001/XMLSchema#double">20.8</dbp:sepLowC>
+    <dbp:sepMeanC rdf:datatype="http://www.w3.org/2001/XMLSchema#double">24.9</dbp:sepMeanC>
+    <dbp:sepRainDays rdf:datatype="http://www.w3.org/2001/XMLSchema#double">10.6</dbp:sepRainDays>
+    <dbp:sepRainMm rdf:datatype="http://www.w3.org/2001/XMLSchema#double">170.4</dbp:sepRainMm>
+    <dbp:sepRecordHighC rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">37</dbp:sepRecordHighC>
+    <dbp:sepRecordLowC rdf:datatype="http://www.w3.org/2001/XMLSchema#double">6.7</dbp:sepRecordLowC>
+    <dbp:sepSun rdf:datatype="http://www.w3.org/2001/XMLSchema#double">175.9</dbp:sepSun>
+    <dbp:singleLine rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">yes</dbp:singleLine>
+    <dbp:source rdf:resource="http://dbpedia.org/resource/Japan_Meteorological_Agency" />
+    <dbp:tree rdf:resource="http://dbpedia.org/resource/Ginkgo_biloba" />
+    <dbp:unitRainDays rdf:datatype="http://dbpedia.org/datatype/millimetre">0.5</dbp:unitRainDays>
+    <dbp:width rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">auto</dbp:width>
+    <dbp:yearHighC rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">22</dbp:yearHighC>
+    <dbp:yearHumidity rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">71</dbp:yearHumidity>
+    <dbp:yearLowC rdf:datatype="http://www.w3.org/2001/XMLSchema#double">12.5</dbp:yearLowC>
+    <dbp:yearMeanC rdf:datatype="http://www.w3.org/2001/XMLSchema#double">16.9</dbp:yearMeanC>
+    <dbp:yearRecordHighC rdf:datatype="http://www.w3.org/2001/XMLSchema#double">38.8</dbp:yearRecordHighC>
+    <dbp:yearRecordLowC rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">&amp;minus;9.2</dbp:yearRecordLowC>
+    <dbp:cityHallAddress rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</dbp:cityHallAddress>
+    <dbp:cityHallPostalCode rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">860</dbp:cityHallPostalCode>
+    <dbp:prefecture rdf:resource="http://dbpedia.org/resource/Kumamoto_Prefecture" />
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/City" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yasuhiro_Yamashita">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Kumamoto" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Katō_Kiyomasa">
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Kumamoto" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Go_Shiozaki">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Kumamoto" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yui_Natsukawa">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Kumamoto" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kazuyuki_Otsuka">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Kumamoto" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kosei_Nakamura">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Kumamoto" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Shintaro_Kurumaya">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Kumamoto" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hide_Koga">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Kumamoto" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tetsu_Sugiyama">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Kumamoto" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yamada_Nobumichi">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Kumamoto" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Forced_Hospitalization_at_Honmyōji">
+    <dbp:location rdf:resource="http://dbpedia.org/resource/Kumamoto" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2000_Asian_Men&#39;s_Handball_Championship">
+    <dbp:stadium rdf:resource="http://dbpedia.org/resource/Kumamoto" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/106th_Division_(Imperial_Japanese_Army)">
+    <dbo:garrison rdf:resource="http://dbpedia.org/resource/Kumamoto" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Daishiro_Miyazaki">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Kumamoto" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hiroshi_Kōjina">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Kumamoto" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hiroshi_Morita">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Kumamoto" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Makoto_Oda_(footballer)">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Kumamoto" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ryo_Kushino">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Kumamoto" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Takeshi_Yamaguchi">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Kumamoto" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kenji_Ohmori">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Kumamoto" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kyoko_Ariyoshi">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Kumamoto" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Isao_Yukisada">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Kumamoto" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yuki_Kuriyama">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Kumamoto" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kōzō_Okamoto">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Kumamoto" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yasuaki_Okamoto">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Kumamoto" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yuichi_Yamauchi">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Kumamoto" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/1999_Asian_Women&#39;s_Handball_Championship">
+    <dbp:stadium rdf:resource="http://dbpedia.org/resource/Kumamoto" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hayashi_Oen">
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Kumamoto" />
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Kumamoto" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yuta_Iwasada">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Kumamoto" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kumamoto_Prefecture">
+    <dbo:capital rdf:resource="http://dbpedia.org/resource/Kumamoto" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nobuhiro_Ishida">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Kumamoto" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2001_NHK_Trophy">
+    <dbp:location rdf:resource="http://dbpedia.org/resource/Kumamoto" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Genki_Horiguchi">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Kumamoto" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kyūshū_Lutheran_College">
+    <dbo:city rdf:resource="http://dbpedia.org/resource/Kumamoto" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Minoru_Kihara">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Kumamoto" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hannah_Riddell">
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Kumamoto" />
+    <dbo:knownFor rdf:resource="http://dbpedia.org/resource/Kumamoto" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Aimer">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Kumamoto" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Maki_Narumiya">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Kumamoto" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Minamata_Convention_on_Mercury">
+    <dbp:locationSigned rdf:resource="http://dbpedia.org/resource/Kumamoto" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yoichi_Doi">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Kumamoto" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kazoh_Kitamori">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Kumamoto" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Katsuki_Ishihara">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Kumamoto" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kumamoto,_Japan">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Kumamoto" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kentaro_Asahi">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Kumamoto" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hiroko_Matsuura">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Kumamoto" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Momoko_Ueda">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Kumamoto" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Saki_Fukuda">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Kumamoto" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kawakami_Gensai">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Kumamoto" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Reiko_Shimizu">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Kumamoto" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/102nd_Division_(Imperial_Japanese_Army)">
+    <dbo:garrison rdf:resource="http://dbpedia.org/resource/Kumamoto" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Miyabi_Onitsuka">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Kumamoto" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Royal_Kobayashi">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Kumamoto" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Shingo_Kukita">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Kumamoto" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Shinichi_Takeda">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Kumamoto" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kumamoto_University">
+    <dbo:city rdf:resource="http://dbpedia.org/resource/Kumamoto" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hirokatsu_Hashimoto">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Kumamoto" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hironori_Nishi">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Kumamoto" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hisateru_Hirashima">
+    <dbp:birthPlace rdf:resource="http://dbpedia.org/resource/Kumamoto" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jumpei_Takaki">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Kumamoto" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kiyohiko_Ushihara">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Kumamoto" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kotaro_Azuse">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Kumamoto" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Masaaki_Nishimori">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Kumamoto" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Masahiro_Araki">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Kumamoto" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Masatoshi_Mihara">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Kumamoto" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Naomichi_Ueda">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Kumamoto" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sadanoumi_Takashi">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Kumamoto" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Taisuke_Akiyoshi">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Kumamoto" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Toyoaki_Horiuchi">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Kumamoto" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yuki_Sato_(wrestler)">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Kumamoto" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ryō_Ishihara">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Kumamoto" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Eiji_Hosoya">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Kumamoto" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yokoi_Shōnan">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Kumamoto" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kana_Kurashina">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Kumamoto" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Swimming_at_the_2014_Asian_Games_–_Women&#39;s_200_metre_breaststroke">
+    <dbp:asianPlace rdf:resource="http://dbpedia.org/resource/Kumamoto" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Syuusuke_Saito">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Kumamoto" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yasuo_Daichi">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Kumamoto" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Miyako_Miyazaki">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Kumamoto" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/23rd_Division_(Imperial_Japanese_Army)">
+    <dbo:garrison rdf:resource="http://dbpedia.org/resource/Kumamoto" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tamaki_Katori">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Kumamoto" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2012_FC_Gifu_season">
+    <dbp:location rdf:resource="http://dbpedia.org/resource/Kumamoto" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2012_Roasso_Kumamoto_season">
+    <dbp:location rdf:resource="http://dbpedia.org/resource/Kumamoto" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hiro_Peralta">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Kumamoto" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2015_Emperor&#39;s_Cup">
+    <dbp:stadium rdf:resource="http://dbpedia.org/resource/Kumamoto" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Eiichiro_Oda">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Kumamoto" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hiroshi_Watanabe_(animator)">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Kumamoto" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Inoue_Kowashi">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Kumamoto" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Masahiko_Kimura">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Kumamoto" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Takayuki_Kubota">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Kumamoto" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yoko_Shimada">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Kumamoto" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ryuji_Masuda">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Kumamoto" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Takamure_Itsue">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Kumamoto" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/46th_Division_(Imperial_Japanese_Army)">
+    <dbo:garrison rdf:resource="http://dbpedia.org/resource/Kumamoto" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Risa_Shiragaki">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Kumamoto" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Swimming_at_the_2010_Asian_Games_–_Men&#39;s_100_metre_backstroke">
+    <dbp:asianPlace rdf:resource="http://dbpedia.org/resource/Kumamoto" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Swimming_at_the_2010_Asian_Games_–_Women&#39;s_200_metre_breaststroke">
+    <dbp:asianPlace rdf:resource="http://dbpedia.org/resource/Kumamoto" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tamana_Girls_High_School">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Kumamoto" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Shingo_Suetsugu">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Kumamoto" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mamoru_Uchida">
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Kumamoto" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Souha_Hatono">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Kumamoto" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kumamoto,_Kumamoto">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Kumamoto" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Belgium_national_football_team_results_–_2000s">
+    <dbp:location rdf:resource="http://dbpedia.org/resource/Kumamoto" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/1997_World_Men&#39;s_Handball_Championship">
+    <dbp:stadium rdf:resource="http://dbpedia.org/resource/Kumamoto" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kumamoto_Airport">
+    <dbo:city rdf:resource="http://dbpedia.org/resource/Kumamoto" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sayuri_Ishikawa">
+    <dbo:hometown rdf:resource="http://dbpedia.org/resource/Kumamoto" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ryo_Fukudome">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Kumamoto" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Shogo_Taniguchi">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Kumamoto" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yuri_Fudoh">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Kumamoto" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Taku_Harada">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Kumamoto" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Isamu_Tajiri">
+    <dbo:occupation rdf:resource="http://dbpedia.org/resource/Kumamoto" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yoshiro_Moriyama">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Kumamoto" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ayumi_Shigemori">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Kumamoto" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kang_Sang-jung">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Kumamoto" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Shooting_at_the_2004_Summer_Olympics_–_Women&#39;s_skeet">
+    <dbp:worldPlace rdf:resource="http://dbpedia.org/resource/Kumamoto" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Shooting_at_the_2002_Asian_Games_–_Women&#39;s_skeet">
+    <dbp:worldPlaceF rdf:resource="http://dbpedia.org/resource/Kumamoto" />
+    <dbp:worldPlaceQ rdf:resource="http://dbpedia.org/resource/Kumamoto" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Swimming_at_the_2014_Asian_Games_–_Men&#39;s_100_metre_backstroke">
+    <dbp:asianPlace rdf:resource="http://dbpedia.org/resource/Kumamoto" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Adachi_Kenzō">
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Kumamoto" />
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Kumamoto" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Takeshi_Koba">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Kumamoto" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Joseph_Satoshi_Fukahori">
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Kumamoto" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2016_Emperor&#39;s_Cup">
+    <dbp:location rdf:resource="http://dbpedia.org/resource/Kumamoto" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jishūkan">
+    <dbo:type rdf:resource="http://dbpedia.org/resource/Kumamoto" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Saishunkan_(school)">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Kumamoto" />
+    <dbo:type rdf:resource="http://dbpedia.org/resource/Kumamoto" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kentaro_Nakata">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Kumamoto" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ryoko_Nakagawa">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Kumamoto" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tatsukuma_Ushijima">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Kumamoto" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Isao_Arita">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Kumamoto" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Koki_Otani">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Kumamoto" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kumomoto">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Kumamoto" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Seiki_Yoshioka">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Kumamoto" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Chihiro_Noda">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Kumamoto" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Shogo_Matsuo">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Kumamoto" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Atsushi_Tsuruyama">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Kumamoto" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Athletics_at_the_2002_Asian_Games_–_Men&#39;s_200_metres">
+    <dbp:asianPlace rdf:resource="http://dbpedia.org/resource/Kumamoto" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kumamoto_City">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Kumamoto" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Swimming_at_the_2013_Southeast_Asian_Games_–_Men&#39;s_100_metre_backstroke">
+    <dbp:asianPlace rdf:resource="http://dbpedia.org/resource/Kumamoto" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Swimming_at_the_2015_Southeast_Asian_Games_–_Men&#39;s_100_metre_backstroke">
+    <dbp:asianPlace rdf:resource="http://dbpedia.org/resource/Kumamoto" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/History_of_Kumamoto">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Kumamoto" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Kumamoto">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Kumamoto" />
+  </rdf:Description>
+</rdf:RDF>

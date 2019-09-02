@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:dct="http://purl.org/dc/terms/"
+	xmlns:dbo="http://dbpedia.org/ontology/"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:prov="http://www.w3.org/ns/prov#"
+	xmlns:dbp="http://dbpedia.org/property/"
+	xmlns:ns8="http://purl.org/linguistics/gold/" >
+  <rdf:Description rdf:about="http://dbpedia.org/resource/University_School_of_Jackson">
+    <dbo:head rdf:resource="http://dbpedia.org/resource/Head_teacher" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Head_master">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Head_teacher" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mary_Jane_Patterson">
+    <dbo:occupation rdf:resource="http://dbpedia.org/resource/Head_teacher" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/School_principal">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Head_teacher" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vashon_High_School">
+    <dbo:head rdf:resource="http://dbpedia.org/resource/Head_teacher" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Terry_McCombs">
+    <dbo:profession rdf:resource="http://dbpedia.org/resource/Head_teacher" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Des_Smith_(headteacher)">
+    <dbo:occupation rdf:resource="http://dbpedia.org/resource/Head_teacher" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Headteacher">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Head_teacher" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Labanya_Dutta_Goswami">
+    <dbo:occupation rdf:resource="http://dbpedia.org/resource/Head_teacher" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Assistant_head">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Head_teacher" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Partnerships_in_Academic_Communities">
+    <dbo:keyPerson rdf:resource="http://dbpedia.org/resource/Head_teacher" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Principal_(education)">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Head_teacher" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Eddie_Lee_Jackson">
+    <dbo:profession rdf:resource="http://dbpedia.org/resource/Head_teacher" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/List_of_Emmerdale_characters_(1998)">
+    <dbp:occupation rdf:resource="http://dbpedia.org/resource/Head_teacher" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Assistant_Head_Teacher">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Head_teacher" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Head_(disambiguation)">
+    <dbo:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/Head_teacher" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Head_teacher">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Person" />
+    <rdfs:label xml:lang="ru">Завуч</rdfs:label>
+    <rdfs:label xml:lang="pt">Mestre-escola</rdfs:label>
+    <rdfs:label xml:lang="zh">校长</rdfs:label>
+    <rdfs:label xml:lang="nl">Rector (school)</rdfs:label>
+    <rdfs:label xml:lang="pl">Dyrektor szkoły</rdfs:label>
+    <rdfs:label xml:lang="en">Head teacher</rdfs:label>
+    <rdfs:label xml:lang="de">Schulleitung</rdfs:label>
+    <rdfs:label xml:lang="ja">校長</rdfs:label>
+    <rdfs:comment xml:lang="de">Die dienstlichen Aufgaben der Schulleitung (Schulleiter bzw. Schulleiterin, teilweise auch Direktor/Direktorin bzw. Rektor/Rektorin) sind in Deutschland in den verschiedenen Schularten durch die 16 verschiedenen Landes-Schulgesetze geregelt. Bei den Grund- und Hauptschulen ist die Schulleitung den Lehrkräften vorgesetzt. Bei den weiterführenden Schulen ist die Schulleitung dienstvorgesetzt und hat insbesondere auch eine Beurteilungsfunktion.</rdfs:comment>
+    <rdfs:comment xml:lang="en">The Head teacher, headmaster, headmistress, head, or principal (sometimes another title is used) is the teacher with the greatest responsibility for the management of a College.</rdfs:comment>
+    <rdfs:comment xml:lang="ru">За́вуч — заведующий учебной частью, заместитель директора среднего и средне-специального учебного заведения. Должности завучей: 
+*  Завуч по учебной работе (начальник «Учебной части») (Составляет расписание, занимается внутришкольным контролем, ведёт учёт посещаемости и успеваемости). 
+*  Завуч по учебно-воспитательной работе (Составляет расписание, занимается методической работой, внутришкольным контролем, воспитанием учеников и сотрудников). 
+*  Завуч по ИКТ (Составляет расписание при помощи ПК, контролирует учеников на уроках информатики, консультирует сотрудников по вопросам ПК). 
+*  Завуч по научно-методической работе («завуч-методист») (Планирует и контролирует научную работу учащихся). 
+*  Завуч по административно-хозяйственной работе (Контролирует хозяйственную деятельность школы, </rdfs:comment>
+    <rdfs:comment xml:lang="pl">Dyrektor szkoły (lub przedszkola) – osoba kierująca placówką oświatową. Dyrektorem szkoły lub przedszkola jest z zasady nauczyciel lub nauczyciel akademicki. Stanowisko to można powierzyć także menedżerowi bez kwalifikacji pedagogicznych, z zastrzeżeniem, że nadzór pedagogiczny sprawować będzie nauczyciel zajmujący w szkole inne stanowisko kierownicze. Zgodnie z Kartą Nauczyciela, dyrektor szkoły odpowiedzialny jest w szczególności za:</rdfs:comment>
+    <rdfs:comment xml:lang="zh">校長是小學、初中、高中及大學等各類學校內行政、業務等各方面的最高負責人。</rdfs:comment>
+    <rdfs:comment xml:lang="ja">校長（こうちょう、米: principal、英: head teacher）は、学校などの教育に関する事業を行う教育機関・教育施設におかれる最上位の職員。学校長（がっこうちょう）ということもあるが、学校教育法ではこの表現は用いられず、一部他の法令で用いられている。児童・生徒からは学校という場で、校長先生,教職員からは校長さんと呼ばれる場合が多い。（先生は敬称）。</rdfs:comment>
+    <rdfs:comment xml:lang="pt">Mestre-escola, ou mestre de primeiras letras, designa a posição de professor de instrução primária em uma escola. Na hierarquia da Igreja Católica o termo se refere a uma dignidade eclesiástica inferior, que dirige escola pertencente a um cabido, sob uma regra que estabelece suas funções litúrgicas. É uma das funções que podem desempenhar os cônegos, juntamente com as de deão, arcediago, arcipreste e chantre.</rdfs:comment>
+    <rdfs:comment xml:lang="nl">Een rector (voor vrouwelijke rectores wordt wel rectrix gebruikt) is in Nederland de voorzitter van het dagelijks bestuur van een school of scholengemeenschap voor voortgezet onderwijs. Hij of zij vervult doorgaans administratieve en bestuurlijke taken, en geeft geen les. De rector kan bij deze taken worden terzijde gestaan door één of meer conrectoren. Oorspronkelijk was de benaming voorbehouden aan directeuren van gymnasia, maar bij samenvoegingen met andere schoolsoorten werd de benaming rector doorgaans gehandhaafd. De huidige Nederlandse wetgeving voor voortgezet onderwijs schrijft voor dat aan het hoofd van een school voor voorbereidend wetenschappelijk onderwijs een rector staat, terwijl bij andere scholen voor voortgezet onderwijs een directeur aan het hoofd staat.</rdfs:comment>
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.02wlwtm" />
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Head_teacher" />
+    <owl:sameAs rdf:resource="http://ko.dbpedia.org/resource/교장" />
+    <owl:sameAs rdf:resource="http://ja.dbpedia.org/resource/校長" />
+    <owl:sameAs rdf:resource="http://nl.dbpedia.org/resource/Rector_(school)" />
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q1056391" />
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q1056391" />
+    <owl:sameAs rdf:resource="http://pt.dbpedia.org/resource/Mestre-escola" />
+    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/Schulleitung" />
+    <owl:sameAs rdf:resource="http://pl.dbpedia.org/resource/Dyrektor_szkoły" />
+    <owl:sameAs rdf:resource="http://id.dbpedia.org/resource/Kepala_sekolah" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Education_and_training_occupations" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Positions_of_authority" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Academic_administrators" />
+    <dbo:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">833159</dbo:wikiPageID>
+    <dbo:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">744374590</dbo:wikiPageRevisionID>
+    <dbo:wikiPageExternalLink rdf:resource="http://www.hmc.org.uk" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.naht.org.uk" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.schulleiter-werden.de" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.aspa.asn.au" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.shmis.org.uk" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.icponline.org" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.ascl.org.uk" />
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Head_teacher" />
+    <prov:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Head_teacher?oldid=744374590" />
+    <dbo:abstract xml:lang="en">The Head teacher, headmaster, headmistress, head, or principal (sometimes another title is used) is the teacher with the greatest responsibility for the management of a College.</dbo:abstract>
+    <dbo:abstract xml:lang="ja">校長（こうちょう、米: principal、英: head teacher）は、学校などの教育に関する事業を行う教育機関・教育施設におかれる最上位の職員。学校長（がっこうちょう）ということもあるが、学校教育法ではこの表現は用いられず、一部他の法令で用いられている。児童・生徒からは学校という場で、校長先生,教職員からは校長さんと呼ばれる場合が多い。（先生は敬称）。</dbo:abstract>
+    <dbo:abstract xml:lang="pl">Dyrektor szkoły (lub przedszkola) – osoba kierująca placówką oświatową. Dyrektorem szkoły lub przedszkola jest z zasady nauczyciel lub nauczyciel akademicki. Stanowisko to można powierzyć także menedżerowi bez kwalifikacji pedagogicznych, z zastrzeżeniem, że nadzór pedagogiczny sprawować będzie nauczyciel zajmujący w szkole inne stanowisko kierownicze. Zgodnie z Kartą Nauczyciela, dyrektor szkoły odpowiedzialny jest w szczególności za: 1.  
+*  dydaktyczny i wychowawczy poziom szkoły; 2.  
+*  realizację zadań zgodnie z uchwałami rady pedagogicznej i rady szkoły, podjętymi w ramach ich kompetencji stanowiących, oraz zarządzeniami organów nadzorujących szkołę; 3.  
+*  tworzenie warunków do rozwijania samorządnej i samodzielnej pracy uczniów i wychowanków; 4.  
+*  zapewnienie pomocy nauczycielom w realizacji ich zadań i ich doskonaleniu zawodowym; 5.  
+*  zapewnienie w miarę możliwości odpowiednich warunków organizacyjnych do realizacji zadań dydaktycznych i opiekuńczo-wychowawczych; 6.  
+*  zapewnienie bezpieczeństwa uczniom i nauczycielom w czasie zajęć organizowanych przez szkołę. Organem wyższego stopnia w rozumieniu Kodeksu postępowania administracyjnego w stosunku do dyrektora szkoły w sprawach z zakresu obowiązku szkolnego i obowiązku nauki oraz skreślenia uczniów z listy uczniów jest kurator oświaty.</dbo:abstract>
+    <dbo:abstract xml:lang="de">Die dienstlichen Aufgaben der Schulleitung (Schulleiter bzw. Schulleiterin, teilweise auch Direktor/Direktorin bzw. Rektor/Rektorin) sind in Deutschland in den verschiedenen Schularten durch die 16 verschiedenen Landes-Schulgesetze geregelt. Bei den Grund- und Hauptschulen ist die Schulleitung den Lehrkräften vorgesetzt. Bei den weiterführenden Schulen ist die Schulleitung dienstvorgesetzt und hat insbesondere auch eine Beurteilungsfunktion. In Baden-Württemberg ist für alle Schularten der Regierungspräsident Dienstvorgesetzter. Der Schulleiter ist nur für schriftliche Missbilligungen nach der Landesdisziplinarordnung als Dienstvorgesetzter tätig.</dbo:abstract>
+    <dbo:abstract xml:lang="pt">Mestre-escola, ou mestre de primeiras letras, designa a posição de professor de instrução primária em uma escola. Na hierarquia da Igreja Católica o termo se refere a uma dignidade eclesiástica inferior, que dirige escola pertencente a um cabido, sob uma regra que estabelece suas funções litúrgicas. É uma das funções que podem desempenhar os cônegos, juntamente com as de deão, arcediago, arcipreste e chantre.</dbo:abstract>
+    <dbo:abstract xml:lang="ru">За́вуч — заведующий учебной частью, заместитель директора среднего и средне-специального учебного заведения. Должности завучей: 
+*  Завуч по учебной работе (начальник «Учебной части») (Составляет расписание, занимается внутришкольным контролем, ведёт учёт посещаемости и успеваемости). 
+*  Завуч по учебно-воспитательной работе (Составляет расписание, занимается методической работой, внутришкольным контролем, воспитанием учеников и сотрудников). 
+*  Завуч по ИКТ (Составляет расписание при помощи ПК, контролирует учеников на уроках информатики, консультирует сотрудников по вопросам ПК). 
+*  Завуч по научно-методической работе («завуч-методист») (Планирует и контролирует научную работу учащихся). 
+*  Завуч по административно-хозяйственной работе (Контролирует хозяйственную деятельность школы, обеспечение учебного процесса). При необходимости должности могут быть разделены (отдельно научная и методическая, учебная и воспитательная работа) или объединены (например, единственный заместитель директора в небольшой школе). Работа завуча регулируется должностной инструкцией, уставом школы, законом РФ «Об образовании». Кроме завучей существуют также заместители директора среднего и средне-специального учебного заведения, но они выходят далеко за рамки учебного процесса.</dbo:abstract>
+    <dbo:abstract xml:lang="nl">Een rector (voor vrouwelijke rectores wordt wel rectrix gebruikt) is in Nederland de voorzitter van het dagelijks bestuur van een school of scholengemeenschap voor voortgezet onderwijs. Hij of zij vervult doorgaans administratieve en bestuurlijke taken, en geeft geen les. De rector kan bij deze taken worden terzijde gestaan door één of meer conrectoren. Oorspronkelijk was de benaming voorbehouden aan directeuren van gymnasia, maar bij samenvoegingen met andere schoolsoorten werd de benaming rector doorgaans gehandhaafd. De huidige Nederlandse wetgeving voor voortgezet onderwijs schrijft voor dat aan het hoofd van een school voor voorbereidend wetenschappelijk onderwijs een rector staat, terwijl bij andere scholen voor voortgezet onderwijs een directeur aan het hoofd staat. In Vlaanderen en meer algemeen in België werd de directeur van sommige scholen binnen het katholieke onderwijsnet rector genoemd. Dit gold meer bepaald voor de colleges geleid door jezuïeten, wanneer een jezuïet aan het hoofd van de school stond. In bisschoppelijke colleges werd deze persoon gewoonlijk principaal genoemd en in de rijksscholen prefect. Deze benamingen zijn allen vervangen door het meer universele directeur.</dbo:abstract>
+    <dbo:abstract xml:lang="zh">校長是小學、初中、高中及大學等各類學校內行政、業務等各方面的最高負責人。</dbo:abstract>
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Teacher" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ray_Honeyford">
+    <dbo:occupation rdf:resource="http://dbpedia.org/resource/Head_teacher" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Headmaster">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Head_teacher" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Headmistress">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Head_teacher" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/School_Principal">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Head_teacher" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Carol_Nolan">
+    <dbo:occupation rdf:resource="http://dbpedia.org/resource/Head_teacher" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Su-Elise_Nash">
+    <dbo:occupation rdf:resource="http://dbpedia.org/resource/Head_teacher" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/James_Alexander_Calder">
+    <dbo:profession rdf:resource="http://dbpedia.org/resource/Head_teacher" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Principal_Designate">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Head_teacher" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kjell_Ove_Hauge">
+    <dbp:occupation rdf:resource="http://dbpedia.org/resource/Head_teacher" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/John_Palfrey">
+    <dbo:occupation rdf:resource="http://dbpedia.org/resource/Head_teacher" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/MIND_High_School">
+    <dbo:vicePrincipalLabel rdf:resource="http://dbpedia.org/resource/Head_teacher" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Manggahan_High_School">
+    <dbo:teachingStaff rdf:resource="http://dbpedia.org/resource/Head_teacher" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Shayama_Chona">
+    <dbo:occupation rdf:resource="http://dbpedia.org/resource/Head_teacher" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Daniel_H._Hastings">
+    <dbo:profession rdf:resource="http://dbpedia.org/resource/Head_teacher" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/George_Courtney">
+    <dbp:otheroccupation rdf:resource="http://dbpedia.org/resource/Head_teacher" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Head_of_School">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Head_teacher" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Assistant_vice_principal">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Head_teacher" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Assistant_Principal_(university)">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Head_teacher" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/David_Watts_(teacher)">
+    <dbo:occupation rdf:resource="http://dbpedia.org/resource/Head_teacher" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Head_mistress">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Head_teacher" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Principal_of_the_school">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Head_teacher" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Principal_Designate_(university)">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Head_teacher" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Principal_(school)">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Head_teacher" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Heedie">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Head_teacher" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Heidie">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Head_teacher" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/School_administration">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Head_teacher" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/School_administrator">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Head_teacher" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/School_administrators">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Head_teacher" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Head_Teacher">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Head_teacher" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Head_of_school">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Head_teacher" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Head_teacher">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Head_teacher" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Head_teachers">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Head_teacher" />
+  </rdf:Description>
+</rdf:RDF>

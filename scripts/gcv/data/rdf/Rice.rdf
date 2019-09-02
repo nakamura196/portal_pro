@@ -1,0 +1,847 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:dct="http://purl.org/dc/terms/"
+	xmlns:dbo="http://dbpedia.org/ontology/"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+	xmlns:prov="http://www.w3.org/ns/prov#"
+	xmlns:dbp="http://dbpedia.org/property/"
+	xmlns:ns9="http://purl.org/linguistics/gold/" >
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Economy_of_Uruguay">
+    <dbp:exportGoods rdf:resource="http://dbpedia.org/resource/Rice" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Rice">
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Plant" />
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing" />
+    <rdfs:label xml:lang="pt">Arroz</rdfs:label>
+    <rdfs:label xml:lang="nl">Rijst</rdfs:label>
+    <rdfs:label xml:lang="fr">Riz</rdfs:label>
+    <rdfs:label xml:lang="en">Rice</rdfs:label>
+    <rdfs:label xml:lang="ar">أرز</rdfs:label>
+    <rdfs:label xml:lang="ru">Рис (продукт питания)</rdfs:label>
+    <rdfs:label xml:lang="ja">米</rdfs:label>
+    <rdfs:label xml:lang="zh">稻</rdfs:label>
+    <rdfs:label xml:lang="pl">Ryż</rdfs:label>
+    <rdfs:label xml:lang="de">Reis</rdfs:label>
+    <rdfs:label xml:lang="es">Arroz</rdfs:label>
+    <rdfs:comment xml:lang="de">Als Reis werden die Getreidekörner der Pflanzenarten Oryza sativa und Oryza glaberrima bezeichnet. Oryza sativa wird weltweit in vielen Ländern angebaut, Oryza glaberrima (auch „afrikanischer Reis“ genannt) in Westafrika. Zur Gattung Reis (Oryza) gehören außer diesen beiden Reispflanzen noch weitere 17 Arten, die aber nicht domestiziert wurden. Dunkle Getreidekörner, die im Handel und in der Gastronomie als „Wildreis“ bezeichnet werden, gehören botanisch nicht zur Gattung Reis (Oryza), sondern zur Gattung Wasserreis (Zizania). Sie werden in diesem Artikel nicht behandelt.</rdfs:comment>
+    <rdfs:comment xml:lang="zh">稻或米或飯（已煮熟米），俗称大米，是人類重要的糧食作物之一，耕種及食用的歷史相當悠久，分為水稻和光稃稻。稻的栽培起源于約西元前8200年南中國珠江中游的聚落地帶，另有考古发现在约西元前8200年前的中国湖南。在1993年，考古队在道县玉蟾岩发现了世界最早的古栽培稻，距今约8200年。水稻在中国與東南亞广为栽种后，逐渐向西传播到印度，中世纪引入欧洲南部。現時全世界有一半的人口食用稻，主要在亚洲、欧洲南部和热带美洲及非洲部分地区。2013年稻的总产量占世界粮食作物产量第二位，僅低于玉米。</rdfs:comment>
+    <rdfs:comment xml:lang="ru">Рис — продукт питания, производимый из семян растений рода Рис. Он является основным продуктом питания для большей части населения Земли, хотя по объему производимого пищевого зерна уступает пшенице. Как сельскохозяйственная культура в тропиках, субтропиках и тёплых районах умеренного пояса возделывается однолетний рис посевной (Oryza sativa).В Африке также выращивают африканский, или голый рис (Oryza glaberrima). Местное население в Африке также использует в пищу зерно ряда дикорастущих видов риса, в первую очередь риса точечного (Oryza punctata) и риса короткоязычкового (Oryza barthii).</rdfs:comment>
+    <rdfs:comment xml:lang="fr">Oryza OryzaFichier:Koeh-232.jpg Oryza sativa Genre OryzaL., 1753 Classification phylogénétique Le riz est une céréale de la famille des poacées (anciennement graminées), cultivée dans les régions tropicales, subtropicales et tempérées chaudes pour son fruit, ou caryopse, riche en amidon. Il désigne l&#39;ensemble des plantes du genre Oryza, parmi lesquelles les deux seules espèces cultigènes, qui sont cultivées le plus souvent dans des champs plus ou moins inondés appelés rizière : Oryza sativa (appelé couramment « riz asiatique ») et Oryza glaberrima (appelé couramment « riz ouest-africain » ou « riz de Casamance »).Dans le langage courant, le terme de riz désigne le plus souvent ses grains, qui sont un élément fondamental de l&#39;alimentation de nombreuses populations du monde, notamment en Amé</rdfs:comment>
+    <rdfs:comment xml:lang="ja">米（こめ、英: rice）は、稲の果実である籾から外皮を取り去った粒状の穀物である。穀物の一種として米穀（べいこく）とも呼ぶ。東アジア・東南アジア・南アジア以外では一般的に主食として特別視することが希薄であり、日本語でいう「米」「稲」「飯」といった、収穫前・収穫後・調理前・調理後などによる区別がない言語が多数ある。例えば英語圏ではすべてriceという同一の単語で扱われる。</rdfs:comment>
+    <rdfs:comment xml:lang="nl">Rijst (Oryza sativa) behoort zoals alle granen tot de grassenfamilie (Poaceae). Rijst is het belangrijkste voedsel voor een groot deel van de wereldbevolking, vooral in de warmere streken. In de subtropen wordt de ondersoort Oryza sativa subsp. japonica verbouwd, terwijl in de tropen de ondersoort Oryza sativa subsp. indica de overhand heeft. China is de grootste producent en consument van rijst en Thailand is de grootste exporteur. Het woord padie heeft betrekking op rijstkorrels die nog nauw omsloten zijn door de kafjes.</rdfs:comment>
+    <rdfs:comment xml:lang="pt">O arroz (constituído por sete espécies, Oryza barthii, Oryza glaberrima, Oryza latifolia, Oryza longistaminata, Oryza punctata, Oryza rufipogon e Oryza sativa) é uma planta da família das gramíneas que alimenta mais da metade da população humana do mundo. É a terceira maior cultura cerealífera do mundo, apenas ultrapassada pelas de milho e trigo. É rico em hidratos de carbono.</rdfs:comment>
+    <rdfs:comment xml:lang="es">El arroz (del árabe أرز, Ar-ruzz) es la semilla de la planta Oryza sativa. Se trata de un cereal considerado alimento básico en muchas culturas culinarias (en especial la cocina asiática), así como en algunas partes de América Latina. El arroz es el segundo cereal más producido en el mundo, tras el maíz. Debido a que el maíz es producido con otros muchos propósitos aparte del consumo humano, se puede decir que el arroz es el cereal más importante en la alimentación humana y que contribuye de forma muy efectiva al aporte calórico de la dieta humana actual; es fuente de una quinta parte de las calorías consumidas en el mundo. Desde 2008, se ha realizado un racionamiento en algunos países debido a la carestía de arroz. En países como Bangladés y Camboya puede llegar a representar casi las tre</rdfs:comment>
+    <rdfs:comment xml:lang="ar">الأرز المزروع أو اختصاراً الأرز (باللاتينية: Oryza sativa) هو نوع نباتي يتبع جنس الأرز (باللاتينية: Oryza) ويعد الغذاء الرئيسي لأكثر من نصف سكان العالم وخاصة في قارة آسيا. وهو من محاصيل الحبوب الغذائية.</rdfs:comment>
+    <rdfs:comment xml:lang="en">Rice is the seed of the grass species Oryza sativa (Asian rice) or Oryza glaberrima (African rice). As a cereal grain, it is the most widely consumed staple food for a large part of the world&#39;s human population, especially in Asia. It is the agricultural commodity with the third-highest worldwide production, after sugarcane and maize, according to 2012 FAOSTAT data. From East Asia, rice was spread to Southeast and South Asia. Rice was introduced to Europe through Western Asia, and to the Americas through European colonization.</rdfs:comment>
+    <rdfs:comment xml:lang="pl">Ryż (Oryza L.) – rodzaj zbóż z rodziny wiechlinowatych obejmujący 25 gatunków. Występuje w strefie klimatów gorących i ciepłych na całym świecie. Ryż spożywczy, będący podstawą wyżywienia 1/3 ludności świata[potrzebny przypis], jest produktem otrzymywanym z ziarna ryżu siewnego.</rdfs:comment>
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Oryza_sativa" />
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Cultivation" />
+    <owl:sameAs rdf:resource="http://eu.dbpedia.org/resource/Arroz" />
+    <owl:sameAs rdf:resource="http://d-nb.info/gnd/4049271-0" />
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q5090" />
+    <owl:sameAs rdf:resource="http://cs.dbpedia.org/resource/Rýže" />
+    <owl:sameAs rdf:resource="http://id.dbpedia.org/resource/Beras" />
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q5090" />
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.09759" />
+    <owl:sameAs rdf:resource="http://es.dbpedia.org/resource/Arroz" />
+    <owl:sameAs rdf:resource="http://ko.dbpedia.org/resource/쌀" />
+    <owl:sameAs rdf:resource="http://ja.dbpedia.org/resource/米" />
+    <owl:sameAs rdf:resource="http://nl.dbpedia.org/resource/Rijst" />
+    <owl:sameAs rdf:resource="http://pl.dbpedia.org/resource/Ryż" />
+    <owl:sameAs rdf:resource="http://pt.dbpedia.org/resource/Arroz" />
+    <owl:sameAs rdf:resource="http://el.dbpedia.org/resource/Ρύζι" />
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Rice" />
+    <owl:sameAs rdf:resource="http://fr.dbpedia.org/resource/Riz" />
+    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/Reis" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Crops_originating_from_China" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Plant_models" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Grasses_of_Asia" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Tropical_agriculture" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Rice" />
+    <dbo:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">36979</dbo:wikiPageID>
+    <dbo:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">740080346</dbo:wikiPageRevisionID>
+    <dbo:wikiPageExternalLink rdf:resource="http://www.jstor.org/stable/3744262" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.jstor.org/stable/40030706" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.jstor.org/stable/4233289" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.jstor.org/stable/3740822" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.jstor.org/stable/23702963" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.jstor.org/stable/1884884" />
+    <dbo:wikiPageExternalLink rdf:resource="http://uark.libguides.com/rice" />
+    <dbo:wikiPageExternalLink rdf:resource="http://thecaloriecounter.net/calories-in-rice.html" />
+    <dbo:wikiPageExternalLink rdf:resource="http://irri.org/" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.havanatimes.org/?p=25078" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.pub.ac.za/resources/docs/biotech_biodiv_module_gr11_2005.pdf" />
+    <dbo:wikiPageExternalLink rdf:resource="http://nfa.gov.ph/" />
+    <dbo:wikiPageExternalLink rdf:resource="http://ricewiki.big.ac.cn/" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.trademap.org/open_access/Index.aspx?proceed=true&amp;product=1006" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.abc.net.au/health/talkinghealth/factbuster/stories/2009/01/27/2475255.htm" />
+    <dbo:wikiPageExternalLink rdf:resource="http://aas.bf.uni-lj.si/september2013/08Pazuki.pdf" />
+    <dbo:wikiPageExternalLink rdf:resource="https://books.google.com/books?hl=en&amp;lr=&amp;id=EpNk3lsX1cgC&amp;oi=fnd&amp;pg=PA492&amp;dq=International+rice+trade&amp;ots=bizmdxtY5V&amp;sig=KXiao7qVCf_t1kiOE8UTwLIDfxo" />
+    <dbo:wikiPageExternalLink rdf:resource="https://books.google.com/books?hl=en&amp;lr=&amp;id=Yxa5Sz_Puv4C" />
+    <dbo:wikiPageExternalLink rdf:resource="https://web.archive.org/web/20101021043815/http:/thecaloriecounter.net/calories-in-rice.html" />
+    <foaf:depiction rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/White,_Brown,_Red_&amp;_Wild_rice.jpg" />
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Rice" />
+    <dbo:thumbnail rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/White,_Brown,_Red_&amp;_Wild_rice.jpg?width=300" />
+    <skos:closeMatch rdf:resource="http://www.springernature.com/scigraph/things/subjects/rice" />
+    <prov:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Rice?oldid=740080346" />
+    <dbo:abstract xml:lang="fr">Oryza OryzaFichier:Koeh-232.jpg Oryza sativa Genre OryzaL., 1753 Classification phylogénétique Le riz est une céréale de la famille des poacées (anciennement graminées), cultivée dans les régions tropicales, subtropicales et tempérées chaudes pour son fruit, ou caryopse, riche en amidon. Il désigne l&#39;ensemble des plantes du genre Oryza, parmi lesquelles les deux seules espèces cultigènes, qui sont cultivées le plus souvent dans des champs plus ou moins inondés appelés rizière : Oryza sativa (appelé couramment « riz asiatique ») et Oryza glaberrima (appelé couramment « riz ouest-africain » ou « riz de Casamance »).Dans le langage courant, le terme de riz désigne le plus souvent ses grains, qui sont un élément fondamental de l&#39;alimentation de nombreuses populations du monde, notamment en Amérique du Sud, en Afrique et en Asie. C&#39;est la première céréale mondiale pour l&#39;alimentation humaine (a lui seul il représente 20 % des besoinsmondiaux en énergie alimentaire), la deuxième après le maïs pour le tonnage récolté. Le riz est l&#39;aliment de base de la cuisine asiatique, chinoise, indienne et japonaise notamment.</dbo:abstract>
+    <dbo:abstract xml:lang="pt">O arroz (constituído por sete espécies, Oryza barthii, Oryza glaberrima, Oryza latifolia, Oryza longistaminata, Oryza punctata, Oryza rufipogon e Oryza sativa) é uma planta da família das gramíneas que alimenta mais da metade da população humana do mundo. É a terceira maior cultura cerealífera do mundo, apenas ultrapassada pelas de milho e trigo. É rico em hidratos de carbono.</dbo:abstract>
+    <dbo:abstract xml:lang="nl">Rijst (Oryza sativa) behoort zoals alle granen tot de grassenfamilie (Poaceae). Rijst is het belangrijkste voedsel voor een groot deel van de wereldbevolking, vooral in de warmere streken. In de subtropen wordt de ondersoort Oryza sativa subsp. japonica verbouwd, terwijl in de tropen de ondersoort Oryza sativa subsp. indica de overhand heeft. China is de grootste producent en consument van rijst en Thailand is de grootste exporteur. Het woord padie heeft betrekking op rijstkorrels die nog nauw omsloten zijn door de kafjes. Rijst kan ook gemalen worden tot rijstemeel en vervolgens gezeefd naar rijstebloem. Een bekend merk was Molenaars kindermeel.</dbo:abstract>
+    <dbo:abstract xml:lang="ar">الأرز المزروع أو اختصاراً الأرز (باللاتينية: Oryza sativa) هو نوع نباتي يتبع جنس الأرز (باللاتينية: Oryza) ويعد الغذاء الرئيسي لأكثر من نصف سكان العالم وخاصة في قارة آسيا. وهو من محاصيل الحبوب الغذائية.</dbo:abstract>
+    <dbo:abstract xml:lang="de">Als Reis werden die Getreidekörner der Pflanzenarten Oryza sativa und Oryza glaberrima bezeichnet. Oryza sativa wird weltweit in vielen Ländern angebaut, Oryza glaberrima (auch „afrikanischer Reis“ genannt) in Westafrika. Zur Gattung Reis (Oryza) gehören außer diesen beiden Reispflanzen noch weitere 17 Arten, die aber nicht domestiziert wurden. Reis ist vor allem in Asien ein Grundnahrungsmittel und bildet damit die Nahrungsgrundlage eines großen Teils der Weltbevölkerung. Nur von zwei Nutzpflanzen werden noch größere Mengen produziert: Zuckerrohr und Mais (Stand 2012), wobei Mais nur zu einem geringen Teil als Lebensmittel genutzt wird (Mais wird überwiegend an Tiere verfüttert). Reis zählt daher zusammen mit Weizen zu den beiden wichtigsten Getreidearten im Blick auf die menschliche Ernährung. Dunkle Getreidekörner, die im Handel und in der Gastronomie als „Wildreis“ bezeichnet werden, gehören botanisch nicht zur Gattung Reis (Oryza), sondern zur Gattung Wasserreis (Zizania). Sie werden in diesem Artikel nicht behandelt.</dbo:abstract>
+    <dbo:abstract xml:lang="ru">Рис — продукт питания, производимый из семян растений рода Рис. Он является основным продуктом питания для большей части населения Земли, хотя по объему производимого пищевого зерна уступает пшенице. Как сельскохозяйственная культура в тропиках, субтропиках и тёплых районах умеренного пояса возделывается однолетний рис посевной (Oryza sativa).В Африке также выращивают африканский, или голый рис (Oryza glaberrima). Местное население в Африке также использует в пищу зерно ряда дикорастущих видов риса, в первую очередь риса точечного (Oryza punctata) и риса короткоязычкового (Oryza barthii). Рис отличается богатым содержанием углеводов и относительной бедностью белковых веществ. Доля первых в сухом веществе доходит до 70 %, вторых же, как правило, не более 12 %. Зола риса богата фосфорной кислотой. Считается основным (национальным) продуктом питания в странах Юго-Восточной Азии и Китае. Из рисового зерна производятся крупа и крахмал, из рисовых зародышей получают масло. Мука рисовая без примеси какой-либо другой мало годится для приготовления хлеба, главным образом из неё варят каши или приготовляют пироги; в большем количестве она поступает на косметические фабрики, на переработку в пудру. Существует множество блюд на основе риса, самые известные из которых плов, ризотто и паэлья. В Японии из него делают лепёшки «моти» и особые сладости для чайной церемонии. Производится также воздушный рис, по консистенции похожий на попкорн, только гладкий и округлый. Иногда его формируют в виде карамелизированных плиток, как козинаки.</dbo:abstract>
+    <dbo:abstract xml:lang="en">Rice is the seed of the grass species Oryza sativa (Asian rice) or Oryza glaberrima (African rice). As a cereal grain, it is the most widely consumed staple food for a large part of the world&#39;s human population, especially in Asia. It is the agricultural commodity with the third-highest worldwide production, after sugarcane and maize, according to 2012 FAOSTAT data. Since a large portion of maize crops are grown for purposes other than human consumption, rice is the most important grain with regard to human nutrition and caloric intake, providing more than one-fifth of the calories consumed worldwide by humans. Wild rice, from which the crop was developed, may have its native range in Australia. Chinese legends attribute the domestication of rice to Shennong, the legendary emperor of China and inventor of Chinese agriculture. Genetic evidence has shown that rice originates from a single domestication 8,200–13,500 years ago in the Pearl River valley region of Ancient China. Previously, archaeological evidence had suggested that rice was domesticated in the Yangtze River valley region in China. From East Asia, rice was spread to Southeast and South Asia. Rice was introduced to Europe through Western Asia, and to the Americas through European colonization. There are many varieties of rice and culinary preferences tend to vary regionally. In some areas such as the Far East or Spain, there is a preference for softer and stickier varieties. Rice, a monocot, is normally grown as an annual plant, although in tropical areas it can survive as a perennial and can produce a ratoon crop for up to 30 years. The rice plant can grow to 1–1.8 m (3.3–5.9 ft) tall, occasionally more depending on the variety and soil fertility. It has long, slender leaves 50–100 cm (20–39 in) long and 2–2.5 cm (0.79–0.98 in) broad. The small wind-pollinated flowers are produced in a branched arching to pendulous inflorescence 30–50 cm (12–20 in) long. The edible seed is a grain (caryopsis) 5–12 mm (0.20–0.47 in) long and 2–3 mm (0.079–0.118 in) thick. Rice cultivation is well-suited to countries and regions with low labor costs and high rainfall, as it is labor-intensive to cultivate and requires ample water. However, rice can be grown practically anywhere, even on a steep hill or mountain area with the use of water-controlling terrace systems. Although its parent species are native to Asia and certain parts of Africa, centuries of trade and exportation have made it commonplace in many cultures worldwide. The traditional method for cultivating rice is flooding the fields while, or after, setting the young seedlings. This simple method requires sound planning and servicing of the water damming and channeling, but reduces the growth of less robust weed and pest plants that have no submerged growth state, and deters vermin. While flooding is not mandatory for the cultivation of rice, all other methods of irrigation require higher effort in weed and pest control during growth periods and a different approach for fertilizing the soil. The name wild rice is usually used for species of the genera Zizania and Porteresia, both wild and domesticated, although the term may also be used for primitive or uncultivated varieties of Oryza.</dbo:abstract>
+    <dbo:abstract xml:lang="pl">Ryż (Oryza L.) – rodzaj zbóż z rodziny wiechlinowatych obejmujący 25 gatunków. Występuje w strefie klimatów gorących i ciepłych na całym świecie. Ryż spożywczy, będący podstawą wyżywienia 1/3 ludności świata[potrzebny przypis], jest produktem otrzymywanym z ziarna ryżu siewnego.</dbo:abstract>
+    <dbo:abstract xml:lang="es">El arroz (del árabe أرز, Ar-ruzz) es la semilla de la planta Oryza sativa. Se trata de un cereal considerado alimento básico en muchas culturas culinarias (en especial la cocina asiática), así como en algunas partes de América Latina. El arroz es el segundo cereal más producido en el mundo, tras el maíz. Debido a que el maíz es producido con otros muchos propósitos aparte del consumo humano, se puede decir que el arroz es el cereal más importante en la alimentación humana y que contribuye de forma muy efectiva al aporte calórico de la dieta humana actual; es fuente de una quinta parte de las calorías consumidas en el mundo. Desde 2008, se ha realizado un racionamiento en algunos países debido a la carestía de arroz. En países como Bangladés y Camboya puede llegar a representar casi las tres cuartas partes de la alimentación de la población.Se dedican muchas hectáreas al cultivo del arroz en el mundo. Se sabe que el 95 % de este cultivo se extiende entre los paralelos 53º, latitud norte, y 35º, latitud sur. Su origen es objeto de controversia entre los investigadores; se discute si fue en China o en India.</dbo:abstract>
+    <dbo:abstract xml:lang="ja">米（こめ、英: rice）は、稲の果実である籾から外皮を取り去った粒状の穀物である。穀物の一種として米穀（べいこく）とも呼ぶ。東アジア・東南アジア・南アジア以外では一般的に主食として特別視することが希薄であり、日本語でいう「米」「稲」「飯」といった、収穫前・収穫後・調理前・調理後などによる区別がない言語が多数ある。例えば英語圏ではすべてriceという同一の単語で扱われる。</dbo:abstract>
+    <dbo:abstract xml:lang="zh">稻或米或飯（已煮熟米），俗称大米，是人類重要的糧食作物之一，耕種及食用的歷史相當悠久，分為水稻和光稃稻。稻的栽培起源于約西元前8200年南中國珠江中游的聚落地帶，另有考古发现在约西元前8200年前的中国湖南。在1993年，考古队在道县玉蟾岩发现了世界最早的古栽培稻，距今约8200年。水稻在中国與東南亞广为栽种后，逐渐向西传播到印度，中世纪引入欧洲南部。現時全世界有一半的人口食用稻，主要在亚洲、欧洲南部和热带美洲及非洲部分地区。2013年稻的总产量占世界粮食作物产量第二位，僅低于玉米。</dbo:abstract>
+    <dbp:b rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Cookbook:Rice</dbp:b>
+    <dbp:date rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">June 2014</dbp:date>
+    <dbp:date rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">20101021043815</dbp:date>
+    <dbp:n rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">no</dbp:n>
+    <dbp:portal rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Lists</dbp:portal>
+    <dbp:portal rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Food</dbp:portal>
+    <dbp:portal rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Agriculture and Agronomy</dbp:portal>
+    <dbp:portal rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Biology</dbp:portal>
+    <dbp:q rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">no</dbp:q>
+    <dbp:reason rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">text starting from &quot;The seeds of the rice plant are first milled&quot; has been inserted, please set it in subsections of &quot;Production and commerce&quot;&quot;</dbp:reason>
+    <dbp:s rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">no</dbp:s>
+    <dbp:title rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Calories in rice</dbp:title>
+    <dbp:url rdf:resource="http://thecaloriecounter.net/calories-in-rice.html" />
+    <dbp:wikt rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">rice</dbp:wikt>
+    <ns9:hypernym rdf:resource="http://dbpedia.org/resource/Seed" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Arborio_rice">
+    <ns9:hypernym rdf:resource="http://dbpedia.org/resource/Rice" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Soylent_(food)">
+    <dbo:ingredient rdf:resource="http://dbpedia.org/resource/Rice" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mandi_(food)">
+    <dbo:ingredient rdf:resource="http://dbpedia.org/resource/Rice" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Étouffée">
+    <dbo:ingredient rdf:resource="http://dbpedia.org/resource/Rice" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Rice_and_curry">
+    <dbo:ingredient rdf:resource="http://dbpedia.org/resource/Rice" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Stuffed_squash">
+    <dbo:ingredient rdf:resource="http://dbpedia.org/resource/Rice" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ben_Rice">
+    <ns9:hypernym rdf:resource="http://dbpedia.org/resource/Rice" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Chireta">
+    <dbo:ingredient rdf:resource="http://dbpedia.org/resource/Rice" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Coconut_rice">
+    <dbo:ingredient rdf:resource="http://dbpedia.org/resource/Rice" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kabuni">
+    <dbo:ingredient rdf:resource="http://dbpedia.org/resource/Rice" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Red_Cargo_rice">
+    <ns9:hypernym rdf:resource="http://dbpedia.org/resource/Rice" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/🌾">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Rice" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Rice_in_Sri_Lanka">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Rice" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gepa_The_Fair_Trade_Company">
+    <dbo:product rdf:resource="http://dbpedia.org/resource/Rice" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Risotto">
+    <dbo:ingredient rdf:resource="http://dbpedia.org/resource/Rice" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bánh_cuốn">
+    <dbo:ingredient rdf:resource="http://dbpedia.org/resource/Rice" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jeera_rice">
+    <dbo:ingredient rdf:resource="http://dbpedia.org/resource/Rice" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Beika">
+    <dbo:ingredient rdf:resource="http://dbpedia.org/resource/Rice" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Canja_de_galinha">
+    <dbo:ingredient rdf:resource="http://dbpedia.org/resource/Rice" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ogokbap">
+    <dbo:ingredient rdf:resource="http://dbpedia.org/resource/Rice" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/T._T._Chang">
+    <dbo:knownFor rdf:resource="http://dbpedia.org/resource/Rice" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Diyabath">
+    <dbo:ingredient rdf:resource="http://dbpedia.org/resource/Rice" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Barley_gruel">
+    <dbo:ingredient rdf:resource="http://dbpedia.org/resource/Rice" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Dakjuk">
+    <dbo:ingredient rdf:resource="http://dbpedia.org/resource/Rice" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Spanakorizo">
+    <dbo:ingredient rdf:resource="http://dbpedia.org/resource/Rice" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Rice_(crop)">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Rice" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jambalaya">
+    <dbo:ingredient rdf:resource="http://dbpedia.org/resource/Rice" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Rice_burger">
+    <dbo:ingredient rdf:resource="http://dbpedia.org/resource/Rice" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Karelian_pasty">
+    <dbo:ingredient rdf:resource="http://dbpedia.org/resource/Rice" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kabsa">
+    <dbo:ingredient rdf:resource="http://dbpedia.org/resource/Rice" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Saleeg">
+    <dbo:ingredient rdf:resource="http://dbpedia.org/resource/Rice" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Chuak">
+    <dbo:ingredient rdf:resource="http://dbpedia.org/resource/Rice" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Botamochi">
+    <dbo:ingredient rdf:resource="http://dbpedia.org/resource/Rice" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Khichdi">
+    <dbo:ingredient rdf:resource="http://dbpedia.org/resource/Rice" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Pohay">
+    <dbo:ingredient rdf:resource="http://dbpedia.org/resource/Rice" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Zelnik">
+    <dbo:ingredient rdf:resource="http://dbpedia.org/resource/Rice" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Zosui">
+    <dbo:ingredient rdf:resource="http://dbpedia.org/resource/Rice" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ghapama">
+    <dbo:ingredient rdf:resource="http://dbpedia.org/resource/Rice" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Pakhala">
+    <dbo:ingredient rdf:resource="http://dbpedia.org/resource/Rice" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Panta_bhat">
+    <dbo:ingredient rdf:resource="http://dbpedia.org/resource/Rice" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Rice_and_peas">
+    <dbo:ingredient rdf:resource="http://dbpedia.org/resource/Rice" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Thalipeeth">
+    <dbo:ingredient rdf:resource="http://dbpedia.org/resource/Rice" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Glorified_rice">
+    <dbo:ingredient rdf:resource="http://dbpedia.org/resource/Rice" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kateh">
+    <ns9:hypernym rdf:resource="http://dbpedia.org/resource/Rice" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Economy_of_Guinea-Bissau">
+    <dbp:importGoods rdf:resource="http://dbpedia.org/resource/Rice" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Minestrone">
+    <dbo:ingredient rdf:resource="http://dbpedia.org/resource/Rice" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Soup_all&#39;Imperatrice">
+    <dbo:ingredient rdf:resource="http://dbpedia.org/resource/Rice" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Aila_(liquor)">
+    <dbo:ingredient rdf:resource="http://dbpedia.org/resource/Rice" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Pabellón_criollo">
+    <dbo:ingredient rdf:resource="http://dbpedia.org/resource/Rice" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Riceland_Foods">
+    <dbo:product rdf:resource="http://dbpedia.org/resource/Rice" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sarma_(food)">
+    <dbo:ingredient rdf:resource="http://dbpedia.org/resource/Rice" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gołąbki">
+    <dbo:ingredient rdf:resource="http://dbpedia.org/resource/Rice" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sapin-sapin">
+    <ns9:hypernym rdf:resource="http://dbpedia.org/resource/Rice" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mixian_(noodle)">
+    <dbo:ingredient rdf:resource="http://dbpedia.org/resource/Rice" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Pilaf">
+    <dbo:ingredient rdf:resource="http://dbpedia.org/resource/Rice" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Arroz_a_la_cubana">
+    <dbo:ingredient rdf:resource="http://dbpedia.org/resource/Rice" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Chimichanga">
+    <dbo:ingredient rdf:resource="http://dbpedia.org/resource/Rice" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mansaf">
+    <dbo:ingredient rdf:resource="http://dbpedia.org/resource/Rice" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nasi_kandar">
+    <dbo:ingredient rdf:resource="http://dbpedia.org/resource/Rice" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Parboiled_rice">
+    <ns9:hypernym rdf:resource="http://dbpedia.org/resource/Rice" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Meghli">
+    <dbo:ingredient rdf:resource="http://dbpedia.org/resource/Rice" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Quzi">
+    <ns9:hypernym rdf:resource="http://dbpedia.org/resource/Rice" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Zerde">
+    <dbo:ingredient rdf:resource="http://dbpedia.org/resource/Rice" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bhutanese_red_rice">
+    <ns9:hypernym rdf:resource="http://dbpedia.org/resource/Rice" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bubur_ayam">
+    <dbo:ingredient rdf:resource="http://dbpedia.org/resource/Rice" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kadhi_chawal">
+    <dbo:ingredient rdf:resource="http://dbpedia.org/resource/Rice" />
+    <ns9:hypernym rdf:resource="http://dbpedia.org/resource/Rice" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Rengginang">
+    <dbo:ingredient rdf:resource="http://dbpedia.org/resource/Rice" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lepet">
+    <ns9:hypernym rdf:resource="http://dbpedia.org/resource/Rice" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Amol">
+    <dbp:caption rdf:resource="http://dbpedia.org/resource/Rice" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Aus_rice">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Rice" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sona_Masuri">
+    <ns9:hypernym rdf:resource="http://dbpedia.org/resource/Rice" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Spam_musubi">
+    <dbo:ingredient rdf:resource="http://dbpedia.org/resource/Rice" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yamada_Nishiki">
+    <ns9:hypernym rdf:resource="http://dbpedia.org/resource/Rice" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ebro_Foods">
+    <dbo:product rdf:resource="http://dbpedia.org/resource/Rice" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/California_roll">
+    <dbo:ingredient rdf:resource="http://dbpedia.org/resource/Rice" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mieum_(food)">
+    <dbo:ingredient rdf:resource="http://dbpedia.org/resource/Rice" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nasi_goreng_pattaya">
+    <dbo:ingredient rdf:resource="http://dbpedia.org/resource/Rice" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nasi_gurih">
+    <ns9:hypernym rdf:resource="http://dbpedia.org/resource/Rice" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nasi_kebuli">
+    <dbo:ingredient rdf:resource="http://dbpedia.org/resource/Rice" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nasi_mandy">
+    <ns9:hypernym rdf:resource="http://dbpedia.org/resource/Rice" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nasi_tim">
+    <dbo:ingredient rdf:resource="http://dbpedia.org/resource/Rice" />
+    <ns9:hypernym rdf:resource="http://dbpedia.org/resource/Rice" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nasi_timbel">
+    <ns9:hypernym rdf:resource="http://dbpedia.org/resource/Rice" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nasi_tumpang">
+    <dbo:ingredient rdf:resource="http://dbpedia.org/resource/Rice" />
+    <dbo:type rdf:resource="http://dbpedia.org/resource/Rice" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Paprykarz_szczeciński">
+    <dbo:ingredient rdf:resource="http://dbpedia.org/resource/Rice" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tapai">
+    <dbo:ingredient rdf:resource="http://dbpedia.org/resource/Rice" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Cơm_tấm">
+    <dbo:ingredient rdf:resource="http://dbpedia.org/resource/Rice" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Joan_Rice">
+    <ns9:hypernym rdf:resource="http://dbpedia.org/resource/Rice" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Manjū">
+    <dbo:ingredient rdf:resource="http://dbpedia.org/resource/Rice" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mahmous">
+    <dbo:ingredient rdf:resource="http://dbpedia.org/resource/Rice" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tavë_kosi">
+    <dbp:minorIngredient rdf:resource="http://dbpedia.org/resource/Rice" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Chitranna">
+    <dbo:ingredient rdf:resource="http://dbpedia.org/resource/Rice" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Red_yeast_rice">
+    <ns9:hypernym rdf:resource="http://dbpedia.org/resource/Rice" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/1970s_peasant_revolts_in_Thailand">
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Rice" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Waakye">
+    <dbo:ingredient rdf:resource="http://dbpedia.org/resource/Rice" />
+    <dbo:type rdf:resource="http://dbpedia.org/resource/Rice" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Meatball_soup">
+    <dbo:ingredient rdf:resource="http://dbpedia.org/resource/Rice" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sulu_köfte">
+    <dbo:ingredient rdf:resource="http://dbpedia.org/resource/Rice" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tahchin">
+    <dbo:ingredient rdf:resource="http://dbpedia.org/resource/Rice" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yogurt_soup">
+    <dbo:ingredient rdf:resource="http://dbpedia.org/resource/Rice" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Boluo_fan">
+    <dbo:ingredient rdf:resource="http://dbpedia.org/resource/Rice" />
+    <dbo:type rdf:resource="http://dbpedia.org/resource/Rice" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Migan">
+    <dbo:ingredient rdf:resource="http://dbpedia.org/resource/Rice" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/White_aval">
+    <ns9:hypernym rdf:resource="http://dbpedia.org/resource/Rice" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Amazonas_Region">
+    <dbp:resources rdf:resource="http://dbpedia.org/resource/Rice" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bisque_(food)">
+    <dbo:ingredient rdf:resource="http://dbpedia.org/resource/Rice" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bombay_mix">
+    <dbo:ingredient rdf:resource="http://dbpedia.org/resource/Rice" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Paddy_(unmilled_rice)">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Rice" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Rice_(disambiguation)">
+    <dbo:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/Rice" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Dosa">
+    <dbo:ingredient rdf:resource="http://dbpedia.org/resource/Rice" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Idli">
+    <dbo:ingredient rdf:resource="http://dbpedia.org/resource/Rice" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gruel">
+    <dbo:ingredient rdf:resource="http://dbpedia.org/resource/Rice" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Rice_pudding">
+    <dbo:ingredient rdf:resource="http://dbpedia.org/resource/Rice" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tilda_Uganda">
+    <dbo:industry rdf:resource="http://dbpedia.org/resource/Rice" />
+    <dbo:product rdf:resource="http://dbpedia.org/resource/Rice" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Banana_leaf_rice">
+    <dbo:ingredient rdf:resource="http://dbpedia.org/resource/Rice" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bandeja_paisa">
+    <dbo:ingredient rdf:resource="http://dbpedia.org/resource/Rice" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sher_Berinj">
+    <dbo:ingredient rdf:resource="http://dbpedia.org/resource/Rice" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Injera">
+    <dbo:ingredient rdf:resource="http://dbpedia.org/resource/Rice" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ciorbă_de_perișoare">
+    <dbo:ingredient rdf:resource="http://dbpedia.org/resource/Rice" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Carnaroli">
+    <ns9:hypernym rdf:resource="http://dbpedia.org/resource/Rice" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tumpeng">
+    <dbo:ingredient rdf:resource="http://dbpedia.org/resource/Rice" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yamazaki_Baking">
+    <dbo:product rdf:resource="http://dbpedia.org/resource/Rice" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Germinated_brown_rice">
+    <ns9:hypernym rdf:resource="http://dbpedia.org/resource/Rice" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Chapea">
+    <dbo:ingredient rdf:resource="http://dbpedia.org/resource/Rice" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tenshindon">
+    <dbo:ingredient rdf:resource="http://dbpedia.org/resource/Rice" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Arisa_Pitha">
+    <dbo:ingredient rdf:resource="http://dbpedia.org/resource/Rice" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Benne_dose">
+    <dbo:ingredient rdf:resource="http://dbpedia.org/resource/Rice" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Malabar_Matthi_Curry">
+    <dbo:ingredient rdf:resource="http://dbpedia.org/resource/Rice" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bhoonja">
+    <dbo:ingredient rdf:resource="http://dbpedia.org/resource/Rice" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Dovga">
+    <dbo:ingredient rdf:resource="http://dbpedia.org/resource/Rice" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Rice_and_gravy">
+    <dbo:ingredient rdf:resource="http://dbpedia.org/resource/Rice" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/IRRI-6_White_Long_Grain_Rice">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Rice" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/IRRI-9_White_Long_Grain_Rice">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Rice" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/PK-386_White_Long_Grain_rice">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Rice" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Maratelli">
+    <ns9:hypernym rdf:resource="http://dbpedia.org/resource/Rice" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Feronia_Inc.">
+    <dbo:product rdf:resource="http://dbpedia.org/resource/Rice" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lotus_Foods">
+    <dbo:genre rdf:resource="http://dbpedia.org/resource/Rice" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nam_khao">
+    <dbo:ingredient rdf:resource="http://dbpedia.org/resource/Rice" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Arequipa_Region">
+    <dbp:resources rdf:resource="http://dbpedia.org/resource/Rice" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Piura_Region">
+    <dbp:resources rdf:resource="http://dbpedia.org/resource/Rice" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Zatarain&#39;s">
+    <dbo:product rdf:resource="http://dbpedia.org/resource/Rice" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Dolma">
+    <dbo:ingredient rdf:resource="http://dbpedia.org/resource/Rice" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hoppin&#39;_John">
+    <dbo:ingredient rdf:resource="http://dbpedia.org/resource/Rice" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mujaddara">
+    <dbo:ingredient rdf:resource="http://dbpedia.org/resource/Rice" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Pongal_(dish)">
+    <dbo:ingredient rdf:resource="http://dbpedia.org/resource/Rice" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Rice_vermicelli">
+    <dbo:ingredient rdf:resource="http://dbpedia.org/resource/Rice" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Galinha_à_portuguesa">
+    <dbp:minorIngredient rdf:resource="http://dbpedia.org/resource/Rice" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Khanom_bueang">
+    <dbo:ingredient rdf:resource="http://dbpedia.org/resource/Rice" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Pulihora">
+    <dbo:ingredient rdf:resource="http://dbpedia.org/resource/Rice" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Teurgoule">
+    <dbo:ingredient rdf:resource="http://dbpedia.org/resource/Rice" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jollof_rice">
+    <dbo:ingredient rdf:resource="http://dbpedia.org/resource/Rice" />
+    <dbo:type rdf:resource="http://dbpedia.org/resource/Rice" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bánh_canh">
+    <dbo:ingredient rdf:resource="http://dbpedia.org/resource/Rice" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Claypot_chicken_rice">
+    <dbo:ingredient rdf:resource="http://dbpedia.org/resource/Rice" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Unni_appam">
+    <dbo:ingredient rdf:resource="http://dbpedia.org/resource/Rice" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ba-wan">
+    <dbo:ingredient rdf:resource="http://dbpedia.org/resource/Rice" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Neer_dosa">
+    <dbo:ingredient rdf:resource="http://dbpedia.org/resource/Rice" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Simple_rice">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Rice" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Arroz_a_la_valenciana">
+    <dbo:ingredient rdf:resource="http://dbpedia.org/resource/Rice" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Paddu">
+    <dbo:ingredient rdf:resource="http://dbpedia.org/resource/Rice" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sevai">
+    <dbo:ingredient rdf:resource="http://dbpedia.org/resource/Rice" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Shrimp_Creole">
+    <dbo:ingredient rdf:resource="http://dbpedia.org/resource/Rice" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kiritanpo">
+    <dbo:ingredient rdf:resource="http://dbpedia.org/resource/Rice" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Live_from_the_Union_Chapel">
+    <ns9:hypernym rdf:resource="http://dbpedia.org/resource/Rice" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Supplì">
+    <dbo:ingredient rdf:resource="http://dbpedia.org/resource/Rice" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Palay">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Rice" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Doodhpak">
+    <dbo:ingredient rdf:resource="http://dbpedia.org/resource/Rice" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Khanom_chin">
+    <dbo:ingredient rdf:resource="http://dbpedia.org/resource/Rice" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Arroz_junto">
+    <dbo:ingredient rdf:resource="http://dbpedia.org/resource/Rice" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Punugulu">
+    <dbo:ingredient rdf:resource="http://dbpedia.org/resource/Rice" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jiayang_Li">
+    <dbo:field rdf:resource="http://dbpedia.org/resource/Rice" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sholezard">
+    <dbo:ingredient rdf:resource="http://dbpedia.org/resource/Rice" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ezogelin_soup">
+    <dbo:ingredient rdf:resource="http://dbpedia.org/resource/Rice" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Boro_rice">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Rice" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lia_(food)">
+    <dbo:ingredient rdf:resource="http://dbpedia.org/resource/Rice" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kamby_arro">
+    <dbo:ingredient rdf:resource="http://dbpedia.org/resource/Rice" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Coulibiac">
+    <dbo:ingredient rdf:resource="http://dbpedia.org/resource/Rice" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Pals_Rice">
+    <ns9:hypernym rdf:resource="http://dbpedia.org/resource/Rice" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Juanfen">
+    <dbo:ingredient rdf:resource="http://dbpedia.org/resource/Rice" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Polished_rice(medical)">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Rice" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Instant_rice">
+    <ns9:hypernym rdf:resource="http://dbpedia.org/resource/Rice" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sasanishiki">
+    <ns9:hypernym rdf:resource="http://dbpedia.org/resource/Rice" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Biryani">
+    <dbo:ingredient rdf:resource="http://dbpedia.org/resource/Rice" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Anarsa">
+    <dbo:ingredient rdf:resource="http://dbpedia.org/resource/Rice" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Arroz_con_gandules">
+    <dbo:ingredient rdf:resource="http://dbpedia.org/resource/Rice" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Galinhada">
+    <dbo:ingredient rdf:resource="http://dbpedia.org/resource/Rice" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bhat_(food)">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Rice" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Chawal">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Rice" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Pirate&#39;s_Booty">
+    <ns9:hypernym rdf:resource="http://dbpedia.org/resource/Rice" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Glutinous_rice">
+    <ns9:hypernym rdf:resource="http://dbpedia.org/resource/Rice" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Chandpur,_Malda">
+    <dbp:demographics2Info rdf:resource="http://dbpedia.org/resource/Rice" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Zarda_(food)">
+    <dbo:ingredient rdf:resource="http://dbpedia.org/resource/Rice" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Shahe_fen">
+    <dbo:ingredient rdf:resource="http://dbpedia.org/resource/Rice" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Baji_(food)">
+    <ns9:hypernym rdf:resource="http://dbpedia.org/resource/Rice" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Flattened_rice">
+    <ns9:hypernym rdf:resource="http://dbpedia.org/resource/Rice" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Harira">
+    <dbo:ingredient rdf:resource="http://dbpedia.org/resource/Rice" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kheer">
+    <dbo:ingredient rdf:resource="http://dbpedia.org/resource/Rice" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kombdi_vade">
+    <dbo:ingredient rdf:resource="http://dbpedia.org/resource/Rice" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kushari">
+    <dbo:ingredient rdf:resource="http://dbpedia.org/resource/Rice" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Papadum">
+    <dbo:hasVariant rdf:resource="http://dbpedia.org/resource/Rice" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Curd_rice">
+    <dbo:ingredient rdf:resource="http://dbpedia.org/resource/Rice" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Dhokla">
+    <dbo:ingredient rdf:resource="http://dbpedia.org/resource/Rice" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Henri_de_Laulanie">
+    <dbo:knownFor rdf:resource="http://dbpedia.org/resource/Rice" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Red_beans_and_rice">
+    <dbo:ingredient rdf:resource="http://dbpedia.org/resource/Rice" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Pootharekulu">
+    <dbo:ingredient rdf:resource="http://dbpedia.org/resource/Rice" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Congee">
+    <dbo:ingredient rdf:resource="http://dbpedia.org/resource/Rice" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kiribath">
+    <dbo:ingredient rdf:resource="http://dbpedia.org/resource/Rice" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lihapiirakka">
+    <dbo:ingredient rdf:resource="http://dbpedia.org/resource/Rice" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Guoba">
+    <dbo:ingredient rdf:resource="http://dbpedia.org/resource/Rice" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Burasa">
+    <dbo:ingredient rdf:resource="http://dbpedia.org/resource/Rice" />
+    <ns9:hypernym rdf:resource="http://dbpedia.org/resource/Rice" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Coppola_Foods">
+    <dbo:product rdf:resource="http://dbpedia.org/resource/Rice" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Al-Muhaidib">
+    <dbo:product rdf:resource="http://dbpedia.org/resource/Rice" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sutarfeni">
+    <dbo:ingredient rdf:resource="http://dbpedia.org/resource/Rice" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Songpyeon">
+    <dbo:ingredient rdf:resource="http://dbpedia.org/resource/Rice" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kedgeree">
+    <dbo:ingredient rdf:resource="http://dbpedia.org/resource/Rice" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gyūdon">
+    <dbo:ingredient rdf:resource="http://dbpedia.org/resource/Rice" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Partan_bree">
+    <dbo:ingredient rdf:resource="http://dbpedia.org/resource/Rice" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Spiced_rice">
+    <dbo:ingredient rdf:resource="http://dbpedia.org/resource/Rice" />
+    <ns9:hypernym rdf:resource="http://dbpedia.org/resource/Rice" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Puto">
+    <dbo:ingredient rdf:resource="http://dbpedia.org/resource/Rice" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kharcho">
+    <dbo:ingredient rdf:resource="http://dbpedia.org/resource/Rice" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Twibap">
+    <dbo:ingredient rdf:resource="http://dbpedia.org/resource/Rice" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vietnam_Long_Grain_Rice">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Rice" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/RetrOryza">
+    <dbp:organism rdf:resource="http://dbpedia.org/resource/Rice" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Rice_plant">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Rice" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Indori_Poha">
+    <dbo:ingredient rdf:resource="http://dbpedia.org/resource/Rice" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Podo_pitha">
+    <dbo:ingredient rdf:resource="http://dbpedia.org/resource/Rice" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Upland_rice">
+    <ns9:hypernym rdf:resource="http://dbpedia.org/resource/Rice" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Rice_cultivation_in_Sri_Lanka">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Rice" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Grain_of_rice">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Rice" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Grains_of_rice">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Rice" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/15th_Scripps_National_Spelling_Bee">
+    <ns9:hypernym rdf:resource="http://dbpedia.org/resource/Rice" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Cheser_Mog">
+    <ns9:hypernym rdf:resource="http://dbpedia.org/resource/Rice" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Chaaval">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Rice" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Making_rice">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Rice" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Rice_farmer">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Rice" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Rice_farming">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Rice" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Buly_rice">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Rice" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tjereh_rice">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Rice" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Rice">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Rice" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Plain_cooked_rice">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Rice" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Rice_cultivation">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Rice" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Rice_in_Asia">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Rice" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Rlce">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Rice" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Boiled_rice">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Rice" />
+  </rdf:Description>
+</rdf:RDF>

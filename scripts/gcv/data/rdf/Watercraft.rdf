@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:dct="http://purl.org/dc/terms/"
+	xmlns:dbo="http://dbpedia.org/ontology/"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:prov="http://www.w3.org/ns/prov#"
+	xmlns:dbp="http://dbpedia.org/property/"
+	xmlns:ns8="http://purl.org/linguistics/gold/" >
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ship_transport">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Watercraft" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Submarine">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Watercraft" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Personal_water_craft">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Watercraft" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Glossary_of_nautical_terms">
+    <dbp:content rdf:resource="http://dbpedia.org/resource/Watercraft" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Batboat">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Watercraft" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Catamaran">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Watercraft" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Fireboat">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Watercraft" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Riverboat">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Watercraft" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Water_taxi">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Watercraft" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Padded_V-hull">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Watercraft" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Quadrimaran">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Watercraft" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Craft_(disambiguation)">
+    <dbo:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/Watercraft" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Watercraft">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing" />
+    <rdfs:label xml:lang="fr">Embarcation</rdfs:label>
+    <rdfs:label xml:lang="ar">مركبة مائية</rdfs:label>
+    <rdfs:label xml:lang="it">Natante</rdfs:label>
+    <rdfs:label xml:lang="pt">Embarcação</rdfs:label>
+    <rdfs:label xml:lang="pl">Jednostka pływająca</rdfs:label>
+    <rdfs:label xml:lang="es">Embarcación</rdfs:label>
+    <rdfs:label xml:lang="ru">Плавсредство</rdfs:label>
+    <rdfs:label xml:lang="de">Wasserfahrzeug</rdfs:label>
+    <rdfs:label xml:lang="en">Watercraft</rdfs:label>
+    <rdfs:comment xml:lang="it">Nell&#39;ordinamento giuridico italiano, sono definite natanti le unità da diporto a remi e quelle il cui scafo, misurato secondo le norme armonizzate EN/ISO/DIS 8666, abbia una lunghezza pari o inferiore a 10 m, indipendentemente dalla loro propulsione. I natanti, come categoria di unità da diporto, esistono solo nel diritto italiano.</rdfs:comment>
+    <rdfs:comment xml:lang="pl">Jednostka pływająca – pojęcie szersze w stosunku do statku wodnego. Jest to każda konstrukcja zdolna do samodzielnego unoszenia się na powierzchni wody lub do czasowego przebywania pod jej powierzchnią, z napędem własnym ew. cudzym (holowana lub pchana), lub też zakotwiczona na stałe, o jednym lub wielu z niżej wymienionych przeznaczeń: scn:Barca</rdfs:comment>
+    <rdfs:comment xml:lang="es">Una embarcación es todo tipo de artilugio capaz de navegar sobre o bajo el agua. La mayor parte de las embarcaciones pueden ser descritas como barcos, buques o botes, pero también son embarcaciones (en algunos países legislados como «artefactos flotantes o de playa») las canoas, las piraguas, los kayaks, las balsas, las gabarras y hasta las tablas de surf. Los catamaranes y los submarinos también son considerados embarcaciones .</rdfs:comment>
+    <rdfs:comment xml:lang="pt">Designa-se por embarcação, grande Barco e/ou &quot;Nave&quot;(utilizado no Brasil muitas vezes como sendo de mesma espécie, segundo a maioria dos dicionários), porém para os especialistas existe distinção a todas as construções de grande porte, cujo objectivo é navegar, tanto no mar, como em lagos, rios, etc, independentemente do tamanho, forma de propulsão, Calado função ou material de construção, dai a contradição dos dicionários com a técnica de construção naval.</rdfs:comment>
+    <rdfs:comment xml:lang="en">Watercraft are water-borne vehicles including ships, boats, hovercraft and submarines. Watercraft usually have propulsive capability (whether by sail, oar or engine) and hence are distinct from a simple device that merely floats, such as a log raft.</rdfs:comment>
+    <rdfs:comment xml:lang="fr">Une embarcation est un engin flottant pouvant embarquer une ou plusieurs personnes, animaux ou matériels. Ce terme désigne le plus souvent un bateau capable d&#39;être dirigé et le plus souvent de faible dimension, souvent non ponté, propulsé à l&#39;aviron, à la pagaie, à la voile ou au moteur. Mais ce peut aussi être un radeau ou un bateau peu rapide ou manœuvrant. En marine traditionnelle, l&#39;embarcation est un bateau de petite taille et assez étroit pouvant être embarqué sur un navire de guerre ou de pêche pour lui servir d&#39;annexe (chaloupe, canot d&#39;état major, baleinière, yole, etc.).</rdfs:comment>
+    <rdfs:comment xml:lang="ar">25بك المحتوى هنا ينقصه الاستشهاد بمصادر. يرجى إيراد مصادر موثوق بها. أي معلومات غير موثقة يمكن التشكيك بها وإزالتها. (مارس 2016) هو مصطلح يطلق بشكل عام على كل المركبات التي تتنقل على سطح الماء مثل السفن و القوارب و الحوامات و الغواصات. هذا المصطلح يطلق على السفن التي تتحرك بقوة دفع (سواء عن طريق شراع او محرك او مجداف) و لا تمثل الأشياء التي تكاد تطفوا مثل الطوف الخشبي.</rdfs:comment>
+    <rdfs:comment xml:lang="ru">Плавсре́дство (сокр. от «плавучее средство») — самоходное или несамоходное плавучее сооружение, используемое для перевозки грузов, багажа и почты, пассажиров, рыбного или иного морского или речного промысла, спасания людей, буксировки иных плавучих объектов, военных, гидротехнических, научных, учебных, спортивных, развлекательных целей и эксплуатирующееся в условиях водной среды. Технической особенностью является то, что плавсредство может иметь положительную, отрицательную или нейтральную плавучесть. Может быть надводным или подводным в зависимости от конструктивных особенностей.</rdfs:comment>
+    <rdfs:comment xml:lang="de">Wasserfahrzeuge sind Fahrzeuge, die zur Fortbewegung auf dem oder im Wasser bestimmt sind. Wesentlichste Unterscheidung, mit auch rechtlichen Konsequenzen, ist die Art des Antriebs, die grob in der Reihenfolge ihres Aufkommens einzuteilen ist: 
+*  muskelkraftbetriebene Fahrzeuge 
+*  nur flussabwärtsgelenkte, eventuell flussaufwärts von Land aus per Seil gezogene (z.B. Floß) 
+*  quer zum Fluss fahrende Fähren  
+*  Fahrzeuge unter Segeln; windbetriebene 
+*  maschinenbetriebene Fahrzeuge.</rdfs:comment>
+    <owl:sameAs rdf:resource="http://cs.dbpedia.org/resource/Plavidlo" />
+    <owl:sameAs rdf:resource="http://es.dbpedia.org/resource/Embarcación" />
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Watercraft" />
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.01rzcn" />
+    <owl:sameAs rdf:resource="http://pl.dbpedia.org/resource/Jednostka_pływająca" />
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q1229765" />
+    <owl:sameAs rdf:resource="http://pt.dbpedia.org/resource/Embarcação" />
+    <owl:sameAs rdf:resource="http://d-nb.info/gnd/4136257-3" />
+    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/Wasserfahrzeug" />
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q1229765" />
+    <owl:sameAs rdf:resource="http://fr.dbpedia.org/resource/Embarcation" />
+    <owl:sameAs rdf:resource="http://it.dbpedia.org/resource/Natante" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Ship_registration" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Naval_architecture" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Water_transport" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Nautical_terminology" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Watercraft" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Technical_terminology" />
+    <dbo:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">301664</dbo:wikiPageID>
+    <dbo:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">741153898</dbo:wikiPageRevisionID>
+    <dbo:wikiPageExternalLink rdf:resource="http://www.civilization.ca/cmc/exhibitions/aborig/watercraft/wainteng.shtml" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.sciencetech.technomuses.ca/english/collection/watercraft.cfm" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.RecreationalWatercraft.com" />
+    <foaf:depiction rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Tage_Erlander_and_Nikita_Khrushchev_at_Harpsund_1964_(colour).jpg" />
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Watercraft" />
+    <dbo:thumbnail rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Tage_Erlander_and_Nikita_Khrushchev_at_Harpsund_1964_(colour).jpg?width=300" />
+    <prov:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Watercraft?oldid=741153898" />
+    <dbo:abstract xml:lang="fr">Une embarcation est un engin flottant pouvant embarquer une ou plusieurs personnes, animaux ou matériels. Ce terme désigne le plus souvent un bateau capable d&#39;être dirigé et le plus souvent de faible dimension, souvent non ponté, propulsé à l&#39;aviron, à la pagaie, à la voile ou au moteur. Mais ce peut aussi être un radeau ou un bateau peu rapide ou manœuvrant. En marine traditionnelle, l&#39;embarcation est un bateau de petite taille et assez étroit pouvant être embarqué sur un navire de guerre ou de pêche pour lui servir d&#39;annexe (chaloupe, canot d&#39;état major, baleinière, yole, etc.).</dbo:abstract>
+    <dbo:abstract xml:lang="ru">Плавсре́дство (сокр. от «плавучее средство») — самоходное или несамоходное плавучее сооружение, используемое для перевозки грузов, багажа и почты, пассажиров, рыбного или иного морского или речного промысла, спасания людей, буксировки иных плавучих объектов, военных, гидротехнических, научных, учебных, спортивных, развлекательных целей и эксплуатирующееся в условиях водной среды. Технической особенностью является то, что плавсредство может иметь положительную, отрицательную или нейтральную плавучесть. Может быть надводным или подводным в зависимости от конструктивных особенностей. Примеры плавсредств — военный корабль, грузовое судно, баржа, понтон, плавпричал, яхта, нефтедобывающая платформа, плот, рыбопромысловое судно, подводная лодка, батискаф, плавкран и т. д.</dbo:abstract>
+    <dbo:abstract xml:lang="es">Una embarcación es todo tipo de artilugio capaz de navegar sobre o bajo el agua. La mayor parte de las embarcaciones pueden ser descritas como barcos, buques o botes, pero también son embarcaciones (en algunos países legislados como «artefactos flotantes o de playa») las canoas, las piraguas, los kayaks, las balsas, las gabarras y hasta las tablas de surf. Los catamaranes y los submarinos también son considerados embarcaciones . A lo largo de la historia, las embarcaciones han sido diseñadas y denominadas de diferentes maneras en todos los rincones de la tierra para desplazarse por lagos, ríos y mares.</dbo:abstract>
+    <dbo:abstract xml:lang="it">Nell&#39;ordinamento giuridico italiano, sono definite natanti le unità da diporto a remi e quelle il cui scafo, misurato secondo le norme armonizzate EN/ISO/DIS 8666, abbia una lunghezza pari o inferiore a 10 m, indipendentemente dalla loro propulsione. I natanti, come categoria di unità da diporto, esistono solo nel diritto italiano.</dbo:abstract>
+    <dbo:abstract xml:lang="de">Wasserfahrzeuge sind Fahrzeuge, die zur Fortbewegung auf dem oder im Wasser bestimmt sind. Wesentlichste Unterscheidung, mit auch rechtlichen Konsequenzen, ist die Art des Antriebs, die grob in der Reihenfolge ihres Aufkommens einzuteilen ist: 
+*  muskelkraftbetriebene Fahrzeuge 
+*  nur flussabwärtsgelenkte, eventuell flussaufwärts von Land aus per Seil gezogene (z.B. Floß) 
+*  quer zum Fluss fahrende Fähren  
+*  Fahrzeuge unter Segeln; windbetriebene 
+*  maschinenbetriebene Fahrzeuge. Von Ausnahmen wie Luftkissenbooten und Tragflächenbooten abgesehen, wird der notwendige Auftrieb bei mechanisch betriebenen Fahrzeugen durch das archimedische Prinzip erzeugt. Der Begriff Wasserfahrzeug dient als zusammenfassende Kategorie für Boots- und Schiffstypen. Die meisten Wasserfahrzeuge werden als Boot, Floß oder Schiff bezeichnet. Obwohl die meisten Schiffe größer als viele Boote sind, ist die Unterscheidung zwischen diesen beiden Kategorien nicht immer eine Sache der Größe. 
+*  Eine Regel besagt „ein Boot passt auf ein Schiff, aber ein Schiff niemals auf ein Boot“. In der Tat sind die meisten Schiffe groß genug ihre eigenen Boote zu tragen, z. B. Rettungsboote oder Beiboote. 
+*  Oft gibt es Regeln, welche die Größe (oder die Anzahl der Masten) definieren, die ein Schiff von einem Boot unterscheiden. 
+*  alle Unterwasserfahrzeuge werden als Untersee„boote“ bezeichnet. Nach den Statuten der International Maritime Organization ist ein Wasserfahrzeug ein solches, wenn es sich nicht höher als zwei Meter über dem Wasser bewegen kann. Nach dieser Definition wären beispielsweise Bodeneffektfahrzeuge, nicht aber Flugboote oder Verkehrsflugschiffe als Wasserfahrzeuge anzusehen.</dbo:abstract>
+    <dbo:abstract xml:lang="ar">25بك المحتوى هنا ينقصه الاستشهاد بمصادر. يرجى إيراد مصادر موثوق بها. أي معلومات غير موثقة يمكن التشكيك بها وإزالتها. (مارس 2016) هو مصطلح يطلق بشكل عام على كل المركبات التي تتنقل على سطح الماء مثل السفن و القوارب و الحوامات و الغواصات. هذا المصطلح يطلق على السفن التي تتحرك بقوة دفع (سواء عن طريق شراع او محرك او مجداف) و لا تمثل الأشياء التي تكاد تطفوا مثل الطوف الخشبي.</dbo:abstract>
+    <dbo:abstract xml:lang="pt">Designa-se por embarcação, grande Barco e/ou &quot;Nave&quot;(utilizado no Brasil muitas vezes como sendo de mesma espécie, segundo a maioria dos dicionários), porém para os especialistas existe distinção a todas as construções de grande porte, cujo objectivo é navegar, tanto no mar, como em lagos, rios, etc, independentemente do tamanho, forma de propulsão, Calado função ou material de construção, dai a contradição dos dicionários com a técnica de construção naval. As embarcações, dividem-se por vários tipos entre os quais se destacam: barcos degrande porte, navios, botes de uso Militar, que se transformam em Pontes flutuantes, pela Engenharia Militar, e outros como o da figura, que podem ser estendidos, com ligaduras, formando um grande Plano de Transporte, como os Catamarãs de dois, três ou mais cascos. Estes ainda se subdividem em grupos, sub-grupos, famílias, com base em inúmeros critérios navais. Dada a utilização generalizada do termo &quot;Barco&quot; como unidades de boca (convés a quilha), ponte (Boreste a Bombordo) e pequeno Calado (área submersa), assistimos muitas vezes de forma errada à divisão entre embarcação e barco, ou entre embarcação e navio, devido ao pequeno navio e nave (soma de navios). Na realidade tanto um como o outro são primeiro embarcações, devido a possibilidade de se processar nas suas unidades, dessa forma, e só depois Barco ou pequeno Navio, sendo veleiro, moto propulsado ou velomotor. Da mesma forma que um submarino convencional e um Submarino Atômico, às vezes do tamanho de pequenos Porta Aviões ou Balsas que possibilitam as justas posições, são embarcações. Ou seja, todos os barcos são embarcações, mas nem todas as embarcações são barcos, pois embarcação é maior que barco, no Brasil. O que distingue um pequeno Navio de um barco, segundo os dicionários é o seu uso especifico ou seja, o Porta Aviões é um grande Navio, como o é também o submarino, os pequenos e grandes barcos tanto grandes como pequenos, de uso genérico como os chamados Iates em que existem verdadeiros Transatlânticos, são barcos grandes, embora haja Iates com o tamanho de pequenos navios. Um termo, como foi dito acima, embarcação é correspondente de nave, que é bastante conhecido devido às naves espaciais, que se acoplam uma as outras, formando as naves, barcos que se transformam em naves, para facilitar o trabalho dos espaçonautas; Sendo essas, de grande e de pequeno tamanho. A nave pode também referis-se enquanto elemento da arquitetura, numa ligação simbólica com a embarcação e/ou nave, que se forma com os diversos Barcos de pesca de São Pedro, o Pescador, onde o Barco de pesca de São Pedro, que era pequeno, se amplia, com o aumento de Barco, formando uma grande nave, e a Igreja grande - Barco(Nave).</dbo:abstract>
+    <dbo:abstract xml:lang="pl">Jednostka pływająca – pojęcie szersze w stosunku do statku wodnego. Jest to każda konstrukcja zdolna do samodzielnego unoszenia się na powierzchni wody lub do czasowego przebywania pod jej powierzchnią, z napędem własnym ew. cudzym (holowana lub pchana), lub też zakotwiczona na stałe, o jednym lub wielu z niżej wymienionych przeznaczeń: 
+*  badawcze – np. batyskaf, łódź głębinowa, statek badawczy 
+*  komunikacyjne – np. most pontonowy 
+*  magazynowe lub bytowe – np. hulk, botel 
+*  militarne – np. okręt, łódź saperska (rozpoznawcza, desantowa) 
+*  rekreacyjne – np. jacht, żaglówka 
+*  sygnalizacyjne – np. latarniowiec, pława 
+*  techniczne – np. żuraw pływający, dok pływający, 
+*  transportowe – nie tylko statek, ale także np. barka 
+*  przemysłowe – np. platforma wiertnicza, statek-przetwórnia, młyn pływający 
+*  specjalne – np. statek do przewozu ładunków wielkogabarytowych scn:Barca</dbo:abstract>
+    <dbo:abstract xml:lang="en">Watercraft are water-borne vehicles including ships, boats, hovercraft and submarines. Watercraft usually have propulsive capability (whether by sail, oar or engine) and hence are distinct from a simple device that merely floats, such as a log raft.</dbo:abstract>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Boat">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Watercraft" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ship">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Watercraft" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Waka_(canoe)">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Watercraft" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Runnymede-class_large_landing_craft">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Watercraft" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Takia_(watercraft)">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Watercraft" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Wave_Race">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Watercraft" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Pahi">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Watercraft" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Aleutian_kayak">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Watercraft" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Pedalo">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Watercraft" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sea-Doo_GTX">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Watercraft" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Surface_effect_ship">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Watercraft" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bathtub_boat">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Watercraft" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/War_canoe">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Watercraft" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Marine_vessel">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Watercraft" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Long-tail_boat">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Watercraft" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yamaha_WaveBlaster">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Watercraft" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gunboat">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Watercraft" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Spartan_Scout">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Watercraft" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/HD-4">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Watercraft" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yamaha_FX-1">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Watercraft" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Human-powered_hydrofoil">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Watercraft" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/General_Frank_S._Besson-class_logistics_support_vessel">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Watercraft" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yamaha_SuperJet">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Watercraft" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Water_craft">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Watercraft" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Dragon_boat">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Watercraft" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Amatasi">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Watercraft" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Innespace_Seabreacher">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Watercraft" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Human-powered_watercraft">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Watercraft" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hydrocycle">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Watercraft" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Team_boat">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Watercraft" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Junk_raft">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Watercraft" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sea_Truck">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Watercraft" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sea_vessel">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Watercraft" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Camakau">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Watercraft" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Water_Craft">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Watercraft" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vessel_(boat)">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Watercraft" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Garbage_scow">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Watercraft" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lakatoi">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Watercraft" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vaka_katea">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Watercraft" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Seacraft">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Watercraft" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Piranha_Unmanned_Surface_Vessel">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Watercraft" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/MAR_Proteus">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Watercraft" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Watercraft">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Watercraft" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tongiaki">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Watercraft" />
+  </rdf:Description>
+</rdf:RDF>

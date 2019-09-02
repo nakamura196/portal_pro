@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:dct="http://purl.org/dc/terms/"
+	xmlns:dbo="http://dbpedia.org/ontology/"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:prov="http://www.w3.org/ns/prov#"
+	xmlns:dbp="http://dbpedia.org/property/"
+	xmlns:ns8="http://purl.org/linguistics/gold/" >
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Rokkaku_clan">
+    <dbp:parentHouse rdf:resource="http://dbpedia.org/resource/Sasaki_clan" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Shibata_clan">
+    <dbp:parentHouse rdf:resource="http://dbpedia.org/resource/Sasaki_clan" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Amago_clan">
+    <dbp:parentHouse rdf:resource="http://dbpedia.org/resource/Sasaki_clan" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Takaoka_Muneyasu">
+    <dbo:relation rdf:resource="http://dbpedia.org/resource/Sasaki_clan" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Uda_Genji">
+    <dbp:cadetBranches rdf:resource="http://dbpedia.org/resource/Sasaki_clan" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kyōgoku_clan">
+    <dbp:parentHouse rdf:resource="http://dbpedia.org/resource/Sasaki_clan" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sasaki">
+    <dbo:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/Sasaki_clan" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sasaki_clan">
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Group100031264" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/EthnicGroup" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatJapaneseClans" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Kin107969695" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Abstraction100002137" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/SocialGroup107950920" />
+    <rdfs:label xml:lang="en">Sasaki clan</rdfs:label>
+    <rdfs:label xml:lang="pt">Clã Sasaki</rdfs:label>
+    <rdfs:label xml:lang="fr">Clan Sasaki</rdfs:label>
+    <rdfs:label xml:lang="ja">佐々木氏</rdfs:label>
+    <rdfs:label xml:lang="zh">佐佐木氏</rdfs:label>
+    <rdfs:label xml:lang="de">Sasaki (Klan)</rdfs:label>
+    <rdfs:comment xml:lang="de">Die Sasaki (jap. 佐々木氏, Sasaki-shi) waren eine Familie des Schwertadels, die sich von Minamoto Masanobu (Uda-Genji), Enkel des Kaisers Uda, ableitete.</rdfs:comment>
+    <rdfs:comment xml:lang="ja">佐々木氏（ささきし）は、日本の武家（軍事貴族）である。本姓は源氏。家系は宇多天皇宇多源氏の流れを汲む、源成頼の孫・佐々木経方を祖とする一族。近江国蒲生郡佐々木荘を発祥とし、後に源平合戦（治承・寿永の乱）で活躍し全国に勢力を広げた。</rdfs:comment>
+    <rdfs:comment xml:lang="fr">Le clan Sasaki (佐々木氏, Sasaki-shi) est un clan japonais très ancien.</rdfs:comment>
+    <rdfs:comment xml:lang="zh">佐佐木氏　是日本人的一個氏族。目前是日本第十四大姓氏。這個姓氏可以追溯到第59代天皇宇多天皇之苗裔，其始祖是源扶義(父親是宇多源氏始祖源雅信)、及其兒源成賴。</rdfs:comment>
+    <rdfs:comment xml:lang="en">Sasaki clan (佐々木氏 Sasaki-shi) are a historical Japanese clan. (Uda Genji)</rdfs:comment>
+    <rdfs:comment xml:lang="pt">O Clã Sasaki (松平氏,  Sasaki-shi?), também conhecido como Ōmi Genji, foi um clã do Japão de samurais que ganhou destaque durante os períodos Sengoku e Edo da História do Japão .</rdfs:comment>
+    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/Sasaki_(Klan)" />
+    <owl:sameAs rdf:resource="http://pt.dbpedia.org/resource/Clã_Sasaki" />
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q1028587" />
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q1028587" />
+    <owl:sameAs rdf:resource="http://ja.dbpedia.org/resource/佐々木氏" />
+    <owl:sameAs rdf:resource="http://fr.dbpedia.org/resource/Clan_Sasaki" />
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.0fqyhr" />
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Sasaki_clan" />
+    <owl:sameAs rdf:resource="http://yago-knowledge.org/resource/Sasaki_clan" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Japanese_clans" />
+    <dbo:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">6116566</dbo:wikiPageID>
+    <dbo:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">682486347</dbo:wikiPageRevisionID>
+    <dbo:wikiPageExternalLink rdf:resource="http://books.google.com/books?id=fW9v37poqcQC&amp;client=firefox-a" />
+    <dbo:wikiPageExternalLink rdf:resource="http://books.google.com/books?id=y0zGAAAACAAJ&amp;dq=Japan+Encyclopedia&amp;source=gbs_book_other_versions_r&amp;cad=0_2" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.worldcat.org/wcpa/isbn/2706816325" />
+    <foaf:depiction rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Kamon_yotumeyui.png" />
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Sasaki_clan" />
+    <dbo:thumbnail rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Kamon_yotumeyui.png?width=300" />
+    <prov:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Sasaki_clan?oldid=682486347" />
+    <dbo:abstract xml:lang="fr">Le clan Sasaki (佐々木氏, Sasaki-shi) est un clan japonais très ancien.</dbo:abstract>
+    <dbo:abstract xml:lang="de">Die Sasaki (jap. 佐々木氏, Sasaki-shi) waren eine Familie des Schwertadels, die sich von Minamoto Masanobu (Uda-Genji), Enkel des Kaisers Uda, ableitete.</dbo:abstract>
+    <dbo:abstract xml:lang="zh">佐佐木氏　是日本人的一個氏族。目前是日本第十四大姓氏。這個姓氏可以追溯到第59代天皇宇多天皇之苗裔，其始祖是源扶義(父親是宇多源氏始祖源雅信)、及其兒源成賴。</dbo:abstract>
+    <dbo:abstract xml:lang="ja">佐々木氏（ささきし）は、日本の武家（軍事貴族）である。本姓は源氏。家系は宇多天皇宇多源氏の流れを汲む、源成頼の孫・佐々木経方を祖とする一族。近江国蒲生郡佐々木荘を発祥とし、後に源平合戦（治承・寿永の乱）で活躍し全国に勢力を広げた。</dbo:abstract>
+    <dbo:abstract xml:lang="en">Sasaki clan (佐々木氏 Sasaki-shi) are a historical Japanese clan. (Uda Genji)</dbo:abstract>
+    <dbo:abstract xml:lang="pt">O Clã Sasaki (松平氏,  Sasaki-shi?), também conhecido como Ōmi Genji, foi um clã do Japão de samurais que ganhou destaque durante os períodos Sengoku e Edo da História do Japão .</dbo:abstract>
+    <dbp:cadetBranches rdf:resource="http://dbpedia.org/resource/Rokkaku_clan" />
+    <dbp:cadetBranches rdf:resource="http://dbpedia.org/resource/Amago_clan" />
+    <dbp:cadetBranches rdf:resource="http://dbpedia.org/resource/Kuroda_clan" />
+    <dbp:cadetBranches rdf:resource="http://dbpedia.org/resource/Kyōgoku_clan" />
+    <dbp:caption rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">The emblem  of the Sasaki clan</dbp:caption>
+    <dbp:founder rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Minamoto no Nariyori</dbp:founder>
+    <dbp:foundingYear rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">10</dbp:foundingYear>
+    <dbp:parentHouse rdf:resource="http://dbpedia.org/resource/Uda_Genji" />
+    <dbp:parentHouse rdf:resource="http://dbpedia.org/resource/Seiwa_Genji" />
+    <dbp:provinceOfOrigin rdf:resource="http://dbpedia.org/resource/Ōmi_province" />
+    <dbp:surnameNihongo rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">佐々木氏</dbp:surnameNihongo>
+    <dbp:titles rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Various</dbp:titles>
+    <dbp:ruledUntil rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1871</dbp:ruledUntil>
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Clan" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sasaki_family">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Sasaki_clan" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Sasaki_clan">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Sasaki_clan" />
+  </rdf:Description>
+</rdf:RDF>

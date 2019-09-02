@@ -1,0 +1,114 @@
+{
+    "entities": [
+        {
+            "mentions": [
+                {
+                    "text": {
+                        "beginOffset": 12,
+                        "content": "病気"
+                    },
+                    "type": "COMMON"
+                },
+                {
+                    "text": {
+                        "beginOffset": 81,
+                        "content": "病気"
+                    },
+                    "type": "COMMON"
+                }
+            ],
+            "metadata": {},
+            "name": "病気",
+            "salience": 0.23467794,
+            "type": "OTHER"
+        },
+        {
+            "mentions": [
+                {
+                    "text": {
+                        "beginOffset": 0,
+                        "content": "勤労者"
+                    },
+                    "type": "COMMON"
+                },
+                {
+                    "text": {
+                        "beginOffset": 69,
+                        "content": "勤労者"
+                    },
+                    "type": "COMMON"
+                }
+            ],
+            "metadata": {},
+            "name": "勤労者",
+            "salience": 0.20942228,
+            "type": "PERSON"
+        },
+        {
+            "mentions": [
+                {
+                    "text": {
+                        "beginOffset": 21,
+                        "content": "社説"
+                    },
+                    "type": "COMMON"
+                },
+                {
+                    "text": {
+                        "beginOffset": 90,
+                        "content": "社説"
+                    },
+                    "type": "COMMON"
+                }
+            ],
+            "metadata": {},
+            "name": "社説",
+            "salience": 0.2052843,
+            "type": "OTHER"
+        },
+        {
+            "mentions": [
+                {
+                    "text": {
+                        "beginOffset": 107,
+                        "content": "朝日新聞"
+                    },
+                    "type": "PROPER"
+                },
+                {
+                    "text": {
+                        "beginOffset": 122,
+                        "content": "朝日新聞社"
+                    },
+                    "type": "PROPER"
+                }
+            ],
+            "metadata": {
+                "mid": "/m/01ttwm",
+                "wikipedia_url": "https://en.wikipedia.org/wiki/Asahi_Shimbun"
+            },
+            "name": "朝日新聞",
+            "salience": 0.12479469,
+            "type": "ORGANIZATION"
+        },
+        {
+            "mentions": [
+                {
+                    "text": {
+                        "beginOffset": 142,
+                        "content": "ja"
+                    },
+                    "type": "PROPER"
+                }
+            ],
+            "metadata": {
+                "mid": "/g/1q6jfqkhz",
+                "wikipedia_url": "https://en.wikipedia.org/wiki/Japan_Agricultural_Cooperatives"
+            },
+            "name": "ja",
+            "salience": 0.0975313,
+            "type": "ORGANIZATION"
+        }
+    ],
+    "language": "ja"
+}

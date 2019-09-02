@@ -1,0 +1,370 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:dbo="http://dbpedia.org/ontology/"
+	xmlns:dct="http://purl.org/dc/terms/"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	xmlns:prov="http://www.w3.org/ns/prov#"
+	xmlns:ns8="http://dbpedia.org/ontology/PopulatedPlace/"
+	xmlns:georss="http://www.georss.org/georss/"
+	xmlns:dbp="http://dbpedia.org/property/" >
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jordan_Maritime_Authority">
+    <dbo:headquarter rdf:resource="http://dbpedia.org/resource/Aqaba" />
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Aqaba" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jordanian_Southern_Command">
+    <dbo:garrison rdf:resource="http://dbpedia.org/resource/Aqaba" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ali_Jamal_Zaghab">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Aqaba" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Akkaba">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Aqaba" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Legio_X_Fretensis">
+    <dbo:garrison rdf:resource="http://dbpedia.org/resource/Aqaba" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Aqaba_Archaeological_Museum">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Aqaba" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Arab_Gas_Pipeline">
+    <dbp:through rdf:resource="http://dbpedia.org/resource/Aqaba" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Aqaba,_Jordan">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Aqaba" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Aqaba_Governorate">
+    <dbo:capital rdf:resource="http://dbpedia.org/resource/Aqaba" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/King_Hussein_International_Airport">
+    <dbo:city rdf:resource="http://dbpedia.org/resource/Aqaba" />
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Aqaba" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Knud_Holmboe">
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Aqaba" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Al-&#39;Aqaba">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Aqaba" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Al-&#39;Aqabah">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Aqaba" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Al_&#39;Aqaba">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Aqaba" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Al_&#39;Aqabah">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Aqaba" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Alcamo">
+    <dbo:twinTown rdf:resource="http://dbpedia.org/resource/Aqaba" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Aqaba">
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Place" />
+    <rdf:type rdf:resource="http://umbel.org/umbel/rc/Location_Underspecified" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatAncientCities" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatBays" />
+    <rdf:type rdf:resource="http://schema.org/Place" />
+    <rdf:type rdf:resource="http://umbel.org/umbel/rc/City" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatPopulatedPlacesInJordan" />
+    <rdf:type rdf:resource="http://schema.org/City" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Battlefield108506641" />
+    <rdf:type rdf:resource="http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatCitiesInTheGreatRiftValley" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/UrbanArea108675967" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Site108651247" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Tract108673395" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Municipality108626283" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/GeographicalArea108574314" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/City108524735" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Settlement" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/City" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatHebrewBiblePlaces" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoLegalActorGeo" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Object100002684" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PhysicalEntity100001930" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatPortCitiesAndTownsOfTheRedSea" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Thing100002452" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Bay109215664" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/BodyOfWater109225146" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/District108552138" />
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatBiblicalPlaces" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q515" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatPopulatedPlacesInTheAqabaGovernorate" />
+    <rdf:type rdf:resource="http://umbel.org/umbel/rc/Village" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatPortCitiesInTheArabianPeninsula" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q486972" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Region108630985" />
+    <rdf:type rdf:resource="http://umbel.org/umbel/rc/PopulatedPlace" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Location100027167" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/AdministrativeDistrict108491826" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoGeoEntity" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoPermanentlyLocatedEntity" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatBattlefields" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/PopulatedPlace" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Location" />
+    <rdfs:label xml:lang="pl">Akaba</rdfs:label>
+    <rdfs:label xml:lang="it">Aqaba</rdfs:label>
+    <rdfs:label xml:lang="fr">Aqaba</rdfs:label>
+    <rdfs:label xml:lang="ru">Акаба</rdfs:label>
+    <rdfs:label xml:lang="de">Akaba (Jordanien)</rdfs:label>
+    <rdfs:label xml:lang="en">Aqaba</rdfs:label>
+    <rdfs:label xml:lang="pt">Aqaba</rdfs:label>
+    <rdfs:label xml:lang="nl">Akaba (stad)</rdfs:label>
+    <rdfs:label xml:lang="ja">アカバ</rdfs:label>
+    <rdfs:label xml:lang="zh">亞喀巴</rdfs:label>
+    <rdfs:label xml:lang="ar">العقبة</rdfs:label>
+    <rdfs:label xml:lang="es">Áqaba</rdfs:label>
+    <rdfs:comment xml:lang="ja">アカバ（العقبة, Al-`Aqabah 英語表記 Aqaba）は、ヨルダン南部の港湾都市。人口62,773人 (1994年)。準内陸国であるヨルダンが唯一海に接する場所であり港湾として、戦略的な要地である。</rdfs:comment>
+    <rdfs:comment xml:lang="ar">20بك إن كنت تبحث عن عناوين مشابهة، فانظر العقبة (توضيح). العقبة مدينة أردنية تقع على ساحل البحر الأحمر في أقصى جنوب الأردن، وهي مركز محافظة العقبة. تبعد عن العاصمة عمّان حوالي 330 كلم.تتميز مدينة العقبة بأنها منطقة استراتيجية والمنفذ البحري الوحيد للأردن، للعقبة حدود مع مدينة حقل في المملكة العربية السعودية عبر مركز حدود الدرة, ومصر،  وأيضا مع مدينة ايلات عبر معبر وادي عربة وكلتا المدينتين تقعا على رأس خليج العقبة المتفرع من البحر الأحمر. وتشتهر العقبة كمنظقة للغوص وبشواطئها المطلة على البحر الأحمر.</rdfs:comment>
+    <rdfs:comment xml:lang="nl">Akaba of Aqaba (Arabisch: العقبة al-‘Aqabah) is een stad in Zuidwest-Jordanië en de enige havenstad van het land. De stad grenst aan het Israëlische Eilat. Akaba en Eilat bevinden zich aan het uiterste noorden van de Golf van Akaba die deel uitmaakt van de Rode Zee. In 2009 had de stad ongeveer 103.100 inwoners.</rdfs:comment>
+    <rdfs:comment xml:lang="zh">亞喀巴（阿拉伯语：العقبة‎）位於約旦南部、亚喀巴湾的盡頭，与以色列埃拉特相邻，是亚喀巴省的首府、南部地区行政中心、渡假胜地，也是该国唯一的港口，人口103,100（2009年）。 亚喀巴出口產品有貝殼及磷酸鹽。</rdfs:comment>
+    <rdfs:comment xml:lang="es">Áqaba (en árabe, العقبة) es una ciudad que se encuentra en el extremo sudoeste de Jordania. Esta ciudad es una de las pocas localidades costeras de Jordania, y da su nombre al golfo de Aqaba. La ciudad más cercana a Áqaba es Eilat (en Israel).</rdfs:comment>
+    <rdfs:comment xml:lang="ru">Ака́ба (араб. العقبة‎, Аль-Акаба) — город в Иордании, являющийся её единственным морским портом, а также единственным морским курортом. Расположен на северном побережье Акабского залива Красного моря рядом с израильским городом Эйлат. Порт специализируется на вывозе фосфатов, а также иракской нефти. Население составляет 140 тысяч человек (2014) — около 2 % населения Иордании.</rdfs:comment>
+    <rdfs:comment xml:lang="de">Akaba oder Aqaba (arabisch العقبة, DMG al-ʿAqaba, lokale Aussprache el-ʿAgabe, für steiler Abhang) ist eine Stadt in Jordanien mit 80.059 Einwohnern (Volkszählung 2004). Sie ist ein Seehafen am Golf von Akaba (auch Golf von Eilat), einem Seitenarm des Roten Meeres. Akaba ist eine Freihandelszone und besitzt einen Flughafen.</rdfs:comment>
+    <rdfs:comment xml:lang="it">ʿAqaba (in arabo: العقبة‎,  al-ʿaqaba) è il porto principale della Giordania all&#39;interno del golfo omonimo, capoluogo del governatorato omonimo; città conquistata da Thomas Edward Lawrence, noto anche come Lawrence d&#39;Arabia, nella battaglia di Aqaba durante la prima guerra mondiale, strappandola ai turchi-ottomani, alleati con le Potenze Centrali.</rdfs:comment>
+    <rdfs:comment xml:lang="pt">Aqaba ou Acaba e Ácaba (em árabe: العقبة; transl.: al-ʿAqabah; em hebraico: עקבה), também chamada Aila (em árabe: أيلة; transl.: Ayla) na Idade Média, é uma cidade costeira do extremo sul da Jordânia, capital da província jordana homônima. Único porto marítimo do país, a cidade é de importância estratégica para a Jordânia. A cidade limita com Eilat, em Israel, e conta com um posto de fronteira onde é possível atravessar para o país vizinho. Tanto Aqaba quanto Eilat encontram-se no extremo norte do golfo de Aqaba.</rdfs:comment>
+    <rdfs:comment xml:lang="en">Aqaba (English pronunciation: /ˈækəbə/; Arabic: العقبة‎‎) is the only coastal city in Jordan and the largest and most populous city on the Gulf of Aqaba. Situated in southernmost Jordan, Aqaba is the administrative centre of the Aqaba Governorate. The city has a population of 188,160 and a land area of 375 square kilometres (144.8 sq mi). Today, Aqaba plays a major role in the development of the Jordanian economy, through the vibrant trade and tourism sectors. The Port of Aqaba also serves other countries in the region.</rdfs:comment>
+    <rdfs:comment xml:lang="fr">Aqaba ou Akaba (en arabe : العقبة al-ʻAqabah) est une ville côtière de 88 780 habitants à l&#39;extrémité sud de la Jordanie. Aqaba occupe une position stratégique pour la Jordanie car c&#39;est le seul port du pays. La ville est mitoyenne d&#39;Eilat, en Israël, et un poste-frontière permet de s&#39;y rendre. Aqaba et Eilat sont à la pointe nord du golfe d&#39;Aqaba.</rdfs:comment>
+    <rdfs:comment xml:lang="pl">Akaba (arab. العقبة, al-ʿAqabah; hebr. עקבה) – miasto w południowo-zachodniej Jordanii, stolica muhafazy Akaba, nad Zatoką Akaba (Morze Czerwone), będące jedynym portem morskim kraju (jedynie 27 km linii brzegowej). Miasto ma port rybacki, lotnisko, połączenie drogowe i kolejowe z Ammanem oraz drogowe z Medyną (Arabia Saudyjska). Przez port wywozi się fosforyty, jest strefa wolnocłowa, przemysł chemiczny to gł. produkcja nawozów fosforowych. Znajduje się tutaj ośrodek sportów wodnych oraz akwarium morskie.</rdfs:comment>
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Jordan" />
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/List_of_twin_towns" />
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Sister_cities" />
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Battle_of_Aqaba" />
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Jordanian_cuisine" />
+    <owl:sameAs rdf:resource="http://pt.dbpedia.org/resource/Aqaba" />
+    <owl:sameAs rdf:resource="http://fr.dbpedia.org/resource/Aqaba" />
+    <owl:sameAs rdf:resource="http://id.dbpedia.org/resource/Aqaba" />
+    <owl:sameAs rdf:resource="http://sws.geonames.org/250774/" />
+    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/Akaba_(Jordanien)" />
+    <owl:sameAs rdf:resource="http://pl.dbpedia.org/resource/Akaba" />
+    <owl:sameAs rdf:resource="http://es.dbpedia.org/resource/Áqaba" />
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q180522" />
+    <owl:sameAs rdf:resource="http://yago-knowledge.org/resource/Aqaba" />
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q180522" />
+    <owl:sameAs rdf:resource="http://cs.dbpedia.org/resource/Akaba" />
+    <owl:sameAs rdf:resource="http://nl.dbpedia.org/resource/Akaba_(stad)" />
+    <owl:sameAs rdf:resource="http://linkedgeodata.org/triplify/node798842911" />
+    <owl:sameAs rdf:resource="http://ja.dbpedia.org/resource/アカバ" />
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.01wh27" />
+    <owl:sameAs rdf:resource="http://el.dbpedia.org/resource/Άκαμπα" />
+    <owl:sameAs rdf:resource="http://sw.cyc.com/concept/Mx4r0D4B2sHyQdeW46I7n_KZoA" />
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Aqaba" />
+    <owl:sameAs rdf:resource="http://eu.dbpedia.org/resource/Aqaba" />
+    <owl:sameAs rdf:resource="http://it.dbpedia.org/resource/Aqaba" />
+    <owl:sameAs rdf:resource="http://ko.dbpedia.org/resource/아카바" />
+    <owl:sameAs rdf:resource="http://d-nb.info/gnd/4255105-5" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Tourism_in_Jordan" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Port_cities_and_towns_of_the_Red_Sea" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Port_cities_in_the_Arabian_Peninsula" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Populated_places_in_the_Aqaba_Governorate" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Cities_in_the_Great_Rift_Valley" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Aqaba" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Battlefields" />
+    <dbo:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">328399</dbo:wikiPageID>
+    <dbo:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">744307508</dbo:wikiPageRevisionID>
+    <dbo:wikiPageExternalLink rdf:resource="http://worldweather.wmo.int/069/c00591.htm" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.aqaba.jo" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.aqabazone.com" />
+    <foaf:name xml:lang="en">Aqaba</foaf:name>
+    <foaf:name xml:lang="en">العقبة</foaf:name>
+    <foaf:nick xml:lang="en">The Bride of the Red Sea</foaf:nick>
+    <foaf:homepage rdf:resource="http://www.aqabazone.com" />
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#float">29.5167</geo:lat>
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#float">29.5167</geo:lat>
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#float">35.0</geo:long>
+    <foaf:depiction rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Aqaba_City.jpg" />
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Aqaba" />
+    <geo:geometry rdf:datatype="http://www.openlinksw.com/schemas/virtrdf#Geometry">POINT(35 29.516666412354)</geo:geometry>
+    <geo:geometry rdf:datatype="http://www.openlinksw.com/schemas/virtrdf#Geometry">POINT(35 29.516700744629)</geo:geometry>
+    <dbo:thumbnail rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Aqaba_City.jpg?width=300" />
+    <prov:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Aqaba?oldid=744307508" />
+    <ns8:areaTotal rdf:datatype="http://dbpedia.org/datatype/squareKilometre">375.0</ns8:areaTotal>
+    <ns8:populationDensity rdf:datatype="http://dbpedia.org/datatype/inhabitantsPerSquareKilometre">502.0</ns8:populationDensity>
+    <dbo:abstract xml:lang="pl">Akaba (arab. العقبة, al-ʿAqabah; hebr. עקבה) – miasto w południowo-zachodniej Jordanii, stolica muhafazy Akaba, nad Zatoką Akaba (Morze Czerwone), będące jedynym portem morskim kraju (jedynie 27 km linii brzegowej). Miasto ma port rybacki, lotnisko, połączenie drogowe i kolejowe z Ammanem oraz drogowe z Medyną (Arabia Saudyjska). Przez port wywozi się fosforyty, jest strefa wolnocłowa, przemysł chemiczny to gł. produkcja nawozów fosforowych. Znajduje się tutaj ośrodek sportów wodnych oraz akwarium morskie.</dbo:abstract>
+    <dbo:abstract xml:lang="fr">Aqaba ou Akaba (en arabe : العقبة al-ʻAqabah) est une ville côtière de 88 780 habitants à l&#39;extrémité sud de la Jordanie. Aqaba occupe une position stratégique pour la Jordanie car c&#39;est le seul port du pays. La ville est mitoyenne d&#39;Eilat, en Israël, et un poste-frontière permet de s&#39;y rendre. Aqaba et Eilat sont à la pointe nord du golfe d&#39;Aqaba.</dbo:abstract>
+    <dbo:abstract xml:lang="ja">アカバ（العقبة, Al-`Aqabah 英語表記 Aqaba）は、ヨルダン南部の港湾都市。人口62,773人 (1994年)。準内陸国であるヨルダンが唯一海に接する場所であり港湾として、戦略的な要地である。</dbo:abstract>
+    <dbo:abstract xml:lang="ru">Ака́ба (араб. العقبة‎, Аль-Акаба) — город в Иордании, являющийся её единственным морским портом, а также единственным морским курортом. Расположен на северном побережье Акабского залива Красного моря рядом с израильским городом Эйлат. Порт специализируется на вывозе фосфатов, а также иракской нефти. Население составляет 140 тысяч человек (2014) — около 2 % населения Иордании.</dbo:abstract>
+    <dbo:abstract xml:lang="pt">Aqaba ou Acaba e Ácaba (em árabe: العقبة; transl.: al-ʿAqabah; em hebraico: עקבה), também chamada Aila (em árabe: أيلة; transl.: Ayla) na Idade Média, é uma cidade costeira do extremo sul da Jordânia, capital da província jordana homônima. Único porto marítimo do país, a cidade é de importância estratégica para a Jordânia. A cidade limita com Eilat, em Israel, e conta com um posto de fronteira onde é possível atravessar para o país vizinho. Tanto Aqaba quanto Eilat encontram-se no extremo norte do golfo de Aqaba. Sua população foi estimada em 95 408 habitantes (2008). e sua área é de 375 km². É conhecida hoje como um balneário de mergulho e praia. Entretanto, a atividade industrial também é relevante para a região e a cidade exporta fosfato e conchas. Aqaba é um centro administrativo importante no sul da Jordânia.</dbo:abstract>
+    <dbo:abstract xml:lang="de">Akaba oder Aqaba (arabisch العقبة, DMG al-ʿAqaba, lokale Aussprache el-ʿAgabe, für steiler Abhang) ist eine Stadt in Jordanien mit 80.059 Einwohnern (Volkszählung 2004). Sie ist ein Seehafen am Golf von Akaba (auch Golf von Eilat), einem Seitenarm des Roten Meeres. Akaba ist der einzige Seehafen Jordaniens. Haupteinnahmequellen sind der Tourismus und der Export von Phosphatdünger. Akaba ist auch der einzige jordanische Tauchort am Roten Meer. Bereits unter König Hussein I. wurde in den 1990er Jahren ein Teil der Korallenriffe unter Naturschutz gestellt und weitere künstliche Riffe geschaffen. Trotzdem sind die Korallenriffe weiter in Gefahr. Akaba ist eine Freihandelszone und besitzt einen Flughafen.</dbo:abstract>
+    <dbo:abstract xml:lang="es">Áqaba (en árabe, العقبة) es una ciudad que se encuentra en el extremo sudoeste de Jordania. Esta ciudad es una de las pocas localidades costeras de Jordania, y da su nombre al golfo de Aqaba. La ciudad más cercana a Áqaba es Eilat (en Israel). Áqaba es conocida por sus balnearios y hoteles de lujo, que atienden a los turistas que van a divertirse en sus playas así como en deportes acuáticos como el windsurfing y el buceo con botellas de aire comprimido. Ofrece también otras actividades que aprovechan su ubicación en el desierto. Otro lugar muy popular es el baño turco (Hammam), en el cual los vecinos y visitantes acuden a relajarse.</dbo:abstract>
+    <dbo:abstract xml:lang="en">Aqaba (English pronunciation: /ˈækəbə/; Arabic: العقبة‎‎) is the only coastal city in Jordan and the largest and most populous city on the Gulf of Aqaba. Situated in southernmost Jordan, Aqaba is the administrative centre of the Aqaba Governorate. The city has a population of 188,160 and a land area of 375 square kilometres (144.8 sq mi). Today, Aqaba plays a major role in the development of the Jordanian economy, through the vibrant trade and tourism sectors. The Port of Aqaba also serves other countries in the region. Aqaba&#39;s strategic location at the northeastern tip of the Red Sea between the continents of Asia and Africa, has made its port important over the course of thousands of years. The ancient city was called Ayla, its strategic location and proximity to copper mines, made it a regional hub for copper production and trade in the Chalcolithic period. Ayla became a bishopric under Byzantine rule and later became a Latin Catholic titular see after Islamic conquest around 600 AD, when Ayla became known as Aqaba. The Great Arab Revolt&#39;s Battle of Aqaba, depicted in the film Lawrence of Arabia, resulted in victory for Arab forces over the Ottoman defenders. Aqaba&#39;s location next to Wadi Rum and Petra has placed it in Jordan&#39;s golden triangle of tourism, which strengthened the city&#39;s location on the world map and made it one of the major tourist attractions in Jordan. The city is administered by the Aqaba Special Economic Zone Authority, which has turned Aqaba into a low-tax, duty-free city, attracting several mega projects like Ayla Oasis, Saraya Aqaba, Marsa Zayed and expansion of the Port of Aqaba. They are expected to turn the city into a major tourism hub in the region. However, industrial and commercial activities remain important, due to the strategic location of the city as the country&#39;s only seaport.</dbo:abstract>
+    <dbo:abstract xml:lang="nl">Akaba of Aqaba (Arabisch: العقبة al-‘Aqabah) is een stad in Zuidwest-Jordanië en de enige havenstad van het land. De stad grenst aan het Israëlische Eilat. Akaba en Eilat bevinden zich aan het uiterste noorden van de Golf van Akaba die deel uitmaakt van de Rode Zee. In 2009 had de stad ongeveer 103.100 inwoners. Er worden fosfaten en enkele soorten zeeschelpen uit deze stad geëxporteerd, en het is een favoriete plaats voor mensen die de duiksport beoefenen. De Jordaanse overheid wil van de stad een enorme toeristische trekpleister maken, en daarom is het officieel een belastingvrije zone: er wordt geen btw of accijns geheven op de verhandelde producten.</dbo:abstract>
+    <dbo:abstract xml:lang="it">ʿAqaba (in arabo: العقبة‎,  al-ʿaqaba) è il porto principale della Giordania all&#39;interno del golfo omonimo, capoluogo del governatorato omonimo; città conquistata da Thomas Edward Lawrence, noto anche come Lawrence d&#39;Arabia, nella battaglia di Aqaba durante la prima guerra mondiale, strappandola ai turchi-ottomani, alleati con le Potenze Centrali.</dbo:abstract>
+    <dbo:abstract xml:lang="ar">20بك إن كنت تبحث عن عناوين مشابهة، فانظر العقبة (توضيح). العقبة مدينة أردنية تقع على ساحل البحر الأحمر في أقصى جنوب الأردن، وهي مركز محافظة العقبة. تبعد عن العاصمة عمّان حوالي 330 كلم.تتميز مدينة العقبة بأنها منطقة استراتيجية والمنفذ البحري الوحيد للأردن، للعقبة حدود مع مدينة حقل في المملكة العربية السعودية عبر مركز حدود الدرة, ومصر،  وأيضا مع مدينة ايلات عبر معبر وادي عربة وكلتا المدينتين تقعا على رأس خليج العقبة المتفرع من البحر الأحمر. وتشتهر العقبة كمنظقة للغوص وبشواطئها المطلة على البحر الأحمر. تضم المدينة العديد من المنشآت الصناعية الهامة، والمناطق التجارية الحرة، ومطار الملك حسين الدولي. وتعتبر مركزا إدارياً مهماً في منطقة أقصى جنوب الأردن. ومصدر للفوسفات وبعض أنواع الصدف. ويقدر عدد سكان المدينة بحوالي 150,000 نسمة.</dbo:abstract>
+    <dbo:abstract xml:lang="zh">亞喀巴（阿拉伯语：العقبة‎）位於約旦南部、亚喀巴湾的盡頭，与以色列埃拉特相邻，是亚喀巴省的首府、南部地区行政中心、渡假胜地，也是该国唯一的港口，人口103,100（2009年）。 亚喀巴出口產品有貝殼及磷酸鹽。</dbo:abstract>
+    <dbo:areaCode>+(962)3</dbo:areaCode>
+    <dbo:areaTotal rdf:datatype="http://www.w3.org/2001/XMLSchema#double">3.75e+08</dbo:areaTotal>
+    <dbo:country rdf:resource="http://dbpedia.org/resource/Jordan" />
+    <dbo:elevation rdf:datatype="http://www.w3.org/2001/XMLSchema#double">6.0</dbo:elevation>
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Aqaba_Governorate" />
+    <dbo:leaderTitle xml:lang="en">Chief Commissioner</dbo:leaderTitle>
+    <dbo:populationDensity rdf:datatype="http://www.w3.org/2001/XMLSchema#double">502.0</dbo:populationDensity>
+    <dbo:populationTotal rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">188160</dbo:populationTotal>
+    <dbo:postalCode>77110</dbo:postalCode>
+    <dbo:timeZone rdf:resource="http://dbpedia.org/resource/Eastern_European_Time" />
+    <georss:point>29.5167 35.0</georss:point>
+    <georss:point>29.516666666666666 35.0</georss:point>
+    <dbp:aprHighC rdf:datatype="http://www.w3.org/2001/XMLSchema#double">30.7</dbp:aprHighC>
+    <dbp:aprLowC rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">17</dbp:aprLowC>
+    <dbp:aprPrecipitationDays rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.8</dbp:aprPrecipitationDays>
+    <dbp:aprPrecipitationMm rdf:datatype="http://www.w3.org/2001/XMLSchema#double">3.4</dbp:aprPrecipitationMm>
+    <dbp:augHighC rdf:datatype="http://www.w3.org/2001/XMLSchema#double">39.1</dbp:augHighC>
+    <dbp:augLowC rdf:datatype="http://www.w3.org/2001/XMLSchema#double">25.3</dbp:augLowC>
+    <dbp:augPrecipitationDays rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">0</dbp:augPrecipitationDays>
+    <dbp:augPrecipitationMm rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">0</dbp:augPrecipitationMm>
+    <dbp:coordinatesRegion rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">JO</dbp:coordinatesRegion>
+    <dbp:date rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">September 2011</dbp:date>
+    <dbp:decHighC rdf:datatype="http://www.w3.org/2001/XMLSchema#double">21.8</dbp:decHighC>
+    <dbp:decLowC rdf:datatype="http://www.w3.org/2001/XMLSchema#double">10.3</dbp:decLowC>
+    <dbp:decPrecipitationDays rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.9</dbp:decPrecipitationDays>
+    <dbp:decPrecipitationMm rdf:datatype="http://www.w3.org/2001/XMLSchema#double">7.7</dbp:decPrecipitationMm>
+    <dbp:establishedDate rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2001</dbp:establishedDate>
+    <dbp:establishedDate rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4000</dbp:establishedDate>
+    <dbp:establishedTitle rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Founded</dbp:establishedTitle>
+    <dbp:establishedTitle rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Authority</dbp:establishedTitle>
+    <dbp:febHighC rdf:datatype="http://www.w3.org/2001/XMLSchema#double">22.2</dbp:febHighC>
+    <dbp:febLowC rdf:datatype="http://www.w3.org/2001/XMLSchema#double">10.1</dbp:febLowC>
+    <dbp:febPrecipitationDays rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.4</dbp:febPrecipitationDays>
+    <dbp:febPrecipitationMm rdf:datatype="http://www.w3.org/2001/XMLSchema#double">5.2</dbp:febPrecipitationMm>
+    <dbp:imageCaption rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Aqaba city, from right to left and from above to below: Shatt Al-Ghandour Gardens, view of Aqaba, diving in Red Sea and Aqaba&#39;s skyline</dbp:imageCaption>
+    <dbp:imageMap rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">250</dbp:imageMap>
+    <dbp:imageSeal rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Aqaba logo.jpg</dbp:imageSeal>
+    <dbp:imageSkyline rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Aqaba City.jpg</dbp:imageSkyline>
+    <dbp:imagesize rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">300</dbp:imagesize>
+    <dbp:janHighC rdf:datatype="http://www.w3.org/2001/XMLSchema#double">20.5</dbp:janHighC>
+    <dbp:janLowC rdf:datatype="http://www.w3.org/2001/XMLSchema#double">8.9</dbp:janLowC>
+    <dbp:janPrecipitationDays rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</dbp:janPrecipitationDays>
+    <dbp:janPrecipitationMm rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.9</dbp:janPrecipitationMm>
+    <dbp:julHighC rdf:datatype="http://www.w3.org/2001/XMLSchema#double">39.4</dbp:julHighC>
+    <dbp:julLowC rdf:datatype="http://www.w3.org/2001/XMLSchema#double">25.1</dbp:julLowC>
+    <dbp:julPrecipitationDays rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">0</dbp:julPrecipitationDays>
+    <dbp:julPrecipitationMm rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">0</dbp:julPrecipitationMm>
+    <dbp:junHighC rdf:datatype="http://www.w3.org/2001/XMLSchema#double">38.4</dbp:junHighC>
+    <dbp:junLowC rdf:datatype="http://www.w3.org/2001/XMLSchema#double">23.6</dbp:junLowC>
+    <dbp:junPrecipitationDays rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">0</dbp:junPrecipitationDays>
+    <dbp:junPrecipitationMm rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">0</dbp:junPrecipitationMm>
+    <dbp:latd rdf:datatype="http://www.w3.org/2001/XMLSchema#double">29.5167</dbp:latd>
+    <dbp:latns rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">N</dbp:latns>
+    <dbp:leaderName rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Hani Mulki</dbp:leaderName>
+    <dbp:location rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Aqaba</dbp:location>
+    <dbp:longd rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">35</dbp:longd>
+    <dbp:longew rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">E</dbp:longew>
+    <dbp:marHighC rdf:datatype="http://www.w3.org/2001/XMLSchema#double">25.7</dbp:marHighC>
+    <dbp:marLowC rdf:datatype="http://www.w3.org/2001/XMLSchema#double">12.9</dbp:marLowC>
+    <dbp:marPrecipitationDays rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.5</dbp:marPrecipitationDays>
+    <dbp:marPrecipitationMm rdf:datatype="http://www.w3.org/2001/XMLSchema#double">4.6</dbp:marPrecipitationMm>
+    <dbp:mayHighC rdf:datatype="http://www.w3.org/2001/XMLSchema#double">35.1</dbp:mayHighC>
+    <dbp:mayLowC rdf:datatype="http://www.w3.org/2001/XMLSchema#double">20.7</dbp:mayLowC>
+    <dbp:mayPrecipitationDays rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.5</dbp:mayPrecipitationDays>
+    <dbp:mayPrecipitationMm rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</dbp:mayPrecipitationMm>
+    <dbp:metricFirst rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">yes</dbp:metricFirst>
+    <dbp:nativeNameLang rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">ar</dbp:nativeNameLang>
+    <dbp:novHighC rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">27</dbp:novHighC>
+    <dbp:novLowC rdf:datatype="http://www.w3.org/2001/XMLSchema#double">14.9</dbp:novLowC>
+    <dbp:novPrecipitationDays rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.9</dbp:novPrecipitationDays>
+    <dbp:novPrecipitationMm rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</dbp:novPrecipitationMm>
+    <dbp:octHighC rdf:datatype="http://www.w3.org/2001/XMLSchema#double">32.7</dbp:octHighC>
+    <dbp:octLowC rdf:datatype="http://www.w3.org/2001/XMLSchema#double">19.9</dbp:octLowC>
+    <dbp:octPrecipitationDays rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.6</dbp:octPrecipitationDays>
+    <dbp:octPrecipitationMm rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.8</dbp:octPrecipitationMm>
+    <dbp:populationAsOf rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2014</dbp:populationAsOf>
+    <dbp:populationDemonym rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Aqabawi</dbp:populationDemonym>
+    <dbp:postalCodeType rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Postal code</dbp:postalCodeType>
+    <dbp:pushpinMap rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Jordan</dbp:pushpinMap>
+    <dbp:pushpinMapSize rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">300</dbp:pushpinMapSize>
+    <dbp:sealSize rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">200</dbp:sealSize>
+    <dbp:sepHighC rdf:datatype="http://www.w3.org/2001/XMLSchema#double">36.4</dbp:sepHighC>
+    <dbp:sepLowC rdf:datatype="http://www.w3.org/2001/XMLSchema#double">23.3</dbp:sepLowC>
+    <dbp:sepPrecipitationDays rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">0</dbp:sepPrecipitationDays>
+    <dbp:sepPrecipitationMm rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">0</dbp:sepPrecipitationMm>
+    <dbp:settlementType rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">City</dbp:settlementType>
+    <dbp:singleLine rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">yes</dbp:singleLine>
+    <dbp:source rdf:resource="http://worldweather.wmo.int/069/c00591.htm" />
+    <dbp:subdivisionType rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Country</dbp:subdivisionType>
+    <dbp:subdivisionType rdf:resource="http://dbpedia.org/resource/Governorates_of_Jordan" />
+    <dbp:timezone1Dst rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">+3 Arabia Standard Time</dbp:timezone1Dst>
+    <dbp:wordnet_type rdf:resource="http://www.w3.org/2006/03/wn/wn20/instances/synset-city-noun-3" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Arab_Bridge_Maritime">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Aqaba" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Port_of_Aqaba">
+    <dbp:country rdf:resource="http://dbpedia.org/resource/Aqaba" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Aela_(Arabia)">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Aqaba" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Wadi_Araba_Crossing">
+    <dbo:locatedInArea rdf:resource="http://dbpedia.org/resource/Aqaba" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Durra_Border_Crossing">
+    <dbo:locatedInArea rdf:resource="http://dbpedia.org/resource/Aqaba" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Highway_15_(Jordan)">
+    <dbo:routeEnd rdf:resource="http://dbpedia.org/resource/Aqaba" />
+    <dbo:routeJunction rdf:resource="http://dbpedia.org/resource/Aqaba" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Highway_65_(Jordan)">
+    <dbo:routeEnd rdf:resource="http://dbpedia.org/resource/Aqaba" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Aqaba_Railway_Corporation">
+    <dbo:headquarter rdf:resource="http://dbpedia.org/resource/Aqaba" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Battle_of_Aqaba">
+    <dbo:place rdf:resource="http://dbpedia.org/resource/Aqaba" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Al_Aqabah">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Aqaba" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Highway_80_(Jordan)">
+    <dbo:routeEnd rdf:resource="http://dbpedia.org/resource/Aqaba" />
+    <dbo:routeStart rdf:resource="http://dbpedia.org/resource/Aqaba" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Land_Rover_Discovery__3_L319__1">
+    <dbo:assembly rdf:resource="http://dbpedia.org/resource/Aqaba" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Land_Rover_Discovery__4_L319__1">
+    <dbo:assembly rdf:resource="http://dbpedia.org/resource/Aqaba" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Land_Rover_Discovery__Discovery__1">
+    <dbo:assembly rdf:resource="http://dbpedia.org/resource/Aqaba" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Land_Rover_Discovery__Series_II_L318__1">
+    <dbo:assembly rdf:resource="http://dbpedia.org/resource/Aqaba" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Aqaba_Special_Economic_Zone_Authority">
+    <dbo:headquarter rdf:resource="http://dbpedia.org/resource/Aqaba" />
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Aqaba" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Red_Sea_Institute_of_Cinematic_Arts">
+    <dbo:city rdf:resource="http://dbpedia.org/resource/Aqaba" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Saraya_Aqaba">
+    <dbo:locationCity rdf:resource="http://dbpedia.org/resource/Aqaba" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Al_ٰĀqaba">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Aqaba" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Aelana">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Aqaba" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Al_‘Aqabah">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Aqaba" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Aqaba_Church">
+    <dbp:location rdf:resource="http://dbpedia.org/resource/Aqaba" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ailah">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Aqaba" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Aqaba">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Aqaba" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/History_of_Aqaba">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Aqaba" />
+  </rdf:Description>
+</rdf:RDF>

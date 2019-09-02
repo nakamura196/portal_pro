@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:dct="http://purl.org/dc/terms/"
+	xmlns:dbo="http://dbpedia.org/ontology/"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:prov="http://www.w3.org/ns/prov#"
+	xmlns:dbp="http://dbpedia.org/property/" >
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Shukan_Shincho_(magazine)">
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q41298" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/WrittenWork" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Work" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/PeriodicalLiterature" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Magazine" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q1092563" />
+    <rdf:type rdf:resource="http://schema.org/CreativeWork" />
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q386724" />
+    <rdfs:label xml:lang="ja">週刊新潮</rdfs:label>
+    <rdfs:label xml:lang="en">Shukan Shincho (magazine)</rdfs:label>
+    <rdfs:comment xml:lang="ja">『週刊新潮』（しゅうかんしんちょう）は、株式会社新潮社から発行されている週刊誌。1956年（昭和31年）2月6日（2月19日号）創刊。 発行部数53万部は週刊文春に次いで業界第2位。発売日は毎週木曜日（地域によっては金曜日・土曜日）。定価は400円（8%消費税込み）。</rdfs:comment>
+    <rdfs:comment xml:lang="en">Shukan Shincho (週刊新潮 Shūkan Shinchō) is a Japanese weekly news magazine based in Tokyo, Japan. It is one of the major and respected news magazines in the country. It was the first Japanese weekly magazine founded by a publishing company, which does not own a major newspaper.</rdfs:comment>
+    <owl:sameAs rdf:resource="http://ja.dbpedia.org/resource/週刊新潮" />
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q11640065" />
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Shukan_Shincho_(magazine)" />
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q11640065" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Magazines_published_in_Tokyo" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Magazines_established_in_1956" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Asian_news_magazines" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Japanese_men&#39;s_magazines" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Conservative_magazines" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:1956_establishments_in_Japan" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Shinchosha_magazines" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Conservatism_in_Japan" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Japanese_weekly_magazines" />
+    <dbo:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">51616674</dbo:wikiPageID>
+    <dbo:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">745236441</dbo:wikiPageRevisionID>
+    <dbo:wikiPageExternalLink rdf:resource="http://www.shinchosha.co.jp/shukanshincho/" />
+    <foaf:name xml:lang="en">Shukan Shincho</foaf:name>
+    <foaf:homepage rdf:resource="http://www.shinchosha.co.jp/shukanshincho/" />
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Shukan_Shincho_(magazine)" />
+    <prov:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Shukan_Shincho_(magazine)?oldid=745236441" />
+    <dbo:abstract xml:lang="ja">『週刊新潮』（しゅうかんしんちょう）は、株式会社新潮社から発行されている週刊誌。1956年（昭和31年）2月6日（2月19日号）創刊。 発行部数53万部は週刊文春に次いで業界第2位。発売日は毎週木曜日（地域によっては金曜日・土曜日）。定価は400円（8%消費税込み）。</dbo:abstract>
+    <dbo:abstract xml:lang="en">Shukan Shincho (週刊新潮 Shūkan Shinchō) is a Japanese weekly news magazine based in Tokyo, Japan. It is one of the major and respected news magazines in the country. It was the first Japanese weekly magazine founded by a publishing company, which does not own a major newspaper.</dbo:abstract>
+    <dbo:circulation rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">537596</dbo:circulation>
+    <dbo:city rdf:resource="http://dbpedia.org/resource/Tokyo" />
+    <dbo:country rdf:resource="http://dbpedia.org/resource/Japan" />
+    <dbo:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1956-02-19</dbo:date>
+    <dbo:language rdf:resource="http://dbpedia.org/resource/Japanese_language" />
+    <dbo:publisher rdf:resource="http://dbpedia.org/resource/Shinchosha" />
+    <dbp:category rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">News magazine</dbp:category>
+    <dbp:founded rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1956</dbp:founded>
+    <dbp:frequency rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Weekly</dbp:frequency>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Shukan_Shincho_(magazine)">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Shukan_Shincho_(magazine)" />
+  </rdf:Description>
+</rdf:RDF>

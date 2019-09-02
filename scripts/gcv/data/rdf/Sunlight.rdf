@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:dct="http://purl.org/dc/terms/"
+	xmlns:dbo="http://dbpedia.org/ontology/"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:prov="http://www.w3.org/ns/prov#"
+	xmlns:dbp="http://dbpedia.org/property/"
+	xmlns:ns8="http://purl.org/linguistics/gold/" >
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sunshine">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Sunlight" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Solar_Irradiation">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Sunlight" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sun_light">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Sunlight" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sunlight">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/AnatomicalStructure" />
+    <rdfs:label xml:lang="it">Radiazione solare</rdfs:label>
+    <rdfs:label xml:lang="es">Luz solar</rdfs:label>
+    <rdfs:label xml:lang="ja">太陽光</rdfs:label>
+    <rdfs:label xml:lang="pt">Luz solar</rdfs:label>
+    <rdfs:label xml:lang="ar">أشعة الشمس</rdfs:label>
+    <rdfs:label xml:lang="nl">Zonlicht</rdfs:label>
+    <rdfs:label xml:lang="de">Sonnenstrahlung</rdfs:label>
+    <rdfs:label xml:lang="zh">太阳光</rdfs:label>
+    <rdfs:label xml:lang="ru">Солнечная радиация</rdfs:label>
+    <rdfs:label xml:lang="en">Sunlight</rdfs:label>
+    <rdfs:label xml:lang="pl">Promieniowanie słoneczne</rdfs:label>
+    <rdfs:label xml:lang="fr">Rayonnement solaire</rdfs:label>
+    <rdfs:comment xml:lang="ru">Со́лнечная радиа́ция — электромагнитное и корпускулярное излучение Солнца. Следует отметить, что данный термин является калькой с англ. Solar radiation («Солнечное излучение»), и в данном случае не означает радиацию в «бытовом» смысле этого слова (ионизирующее излучение). Солнечная радиация измеряется по её тепловому действию (калории на единицу поверхности за единицу времени) и интенсивности (ватты на единицу поверхности). В целом, Земля получает от Солнца менее 0,5×10−9 от его излучения.</rdfs:comment>
+    <rdfs:comment xml:lang="pl">Promieniowanie słoneczne – strumień fal elektromagnetycznych i cząstek elementarnych (promieniowanie korpuskularne) docierający ze Słońca do Ziemi.Natężenie promieniowania słonecznego docierającego do górnych granic atmosfery określone jest przez stałą słoneczną. Wielkość ta jest zdefiniowana dla średniej odległości Ziemia-Słońce i wynosi około 1366,1 W/m2. Natężenie promieniowania słonecznego zmienia się w cyklu rocznym ze względu na zmiany odległości pomiędzy Ziemią a Słońcem w zakresie ±3,4%. Chwilowa wartość natężenia promieniowania słonecznego docierającego do górnych granic atmosfery może być wyznaczona ze wzoru</rdfs:comment>
+    <rdfs:comment xml:lang="zh">太陽光，廣義的定義是來自太陽所有頻譜的電磁輻射。在地球，陽光顯而易見是當太陽在地平线之上，經過地球大氣層過濾照射到地球表面的太陽輻射，則稱為日光。 當太陽輻射沒有被雲遮蔽，直接照射時通常被稱為陽光，是明亮的光線和輻射熱的組合。世界氣象組織定義&quot;日照時間&quot;是指一個地區直接接收到的陽光輻照度在每平方公尺120瓦特以上的時間累積。 陽光照射的時間可以使用陽光錄影機、全天空輻射計或日射強度計來記錄。陽光需要8.3分鐘才能從太陽抵達地球。 直接照射的陽光亮度效能約有每瓦特93流明的輻射通量，其中包括紅外線、可見光和紫外線。明亮的陽光對地球表面上提供的照度大約是每平方米100,000流明或100,000勒克司。陽光是光合作用的關鍵因素，對於地球上的生命至關重要。</rdfs:comment>
+    <rdfs:comment xml:lang="it">La radiazione solare è l&#39;energia radiante emessa nello spazio interplanetario dal Sole, generata a partire dalle reazioni termonucleari di fusione che avvengono nel nucleo solare e che producono radiazioni elettromagnetiche a varie frequenze o lunghezze d&#39;onda, le quali si propagano poi nello spazio alle velocità tipiche di queste onde, trasportando con sé energia solare. La quantità totale di radiazione emessa dal Sole nell&#39;unità di tempo, nell&#39;unità di superficie e misurata alle soglie esterne dell&#39;atmosfera, valore pressoché costante nel tempo, è detta costante solare.</rdfs:comment>
+    <rdfs:comment xml:lang="ar">أشعة الشمس أو الأشعة الشمسية  أو ضوء الشمس هو عباره عن مجموع من الموجات الكهرومغناطيسية ، يمكن للإنسان رؤية جزء منها يسمى ضوء مرئي وبقيتة لا يري بالعين المجردة . تتميز الأشعة المرئية من طيف الشمس بأنها تتكون من أشعة لونية من الأحمر إلى البنفسجي وهي ألوان قوس قزح. موجات الأحمر لها طول موجة 700 نانومتر وموجات البنفسجي قصيرة الموجة وطول موجتها 400 نانومتر . جزئين من طيف الشمس لا ترى بالعين المجردة: كما في الشكل الجزء ذو موجة أطول من 700 نانومتر (تصل إلى نحو 2700 نانومتر ) وهذا هو نطاق الأشعة تحت الحمراء ، والجزء الآخر ذو طول موجات أقل من 400 نانومتر (إلى اليسار في الرسم البياني للطيف ) ، وهو يسمى نطاق الأشعة فوق البنفسجية .</rdfs:comment>
+    <rdfs:comment xml:lang="de">Sonnenstrahlung oder Solarstrahlung ist die von der Sonne ausgesandte Strahlung. Das elektromagnetische Spektrum der Sonne hat die größte Intensität im Bereich des sichtbaren Lichts (Sonnenlicht). Abhängig von der Wellenlänge wird die Sonnenstrahlung von der Atmosphäre mehr oder weniger stark absorbiert. Die an der Erdoberfläche eintreffende Intensität hängt zudem stark vom Wetter und vom Sonnenstand ab.</rdfs:comment>
+    <rdfs:comment xml:lang="en">Sunlight is a portion of the electromagnetic radiation given off by the Sun, in particular infrared, visible, and ultraviolet light. On Earth, sunlight is filtered through Earth&#39;s atmosphere, and is obvious as daylight when the Sun is above the horizon. When the direct solar radiation is not blocked by clouds, it is experienced as sunshine, a combination of bright light and radiant heat. When it is blocked by the clouds or reflects off other objects, it is experienced as diffused light. The World Meteorological Organization uses the term &quot;sunshine duration&quot; to mean the cumulative time during which an area receives direct irradiance from the Sun of at least 120 watts per square meter.</rdfs:comment>
+    <rdfs:comment xml:lang="fr">Le rayonnement solaire est l&#39;ensemble des ondes électromagnétiques émises par le Soleil. Il est composé de toute la gamme des rayonnements, de l&#39;ultraviolet lointain comme les rayons gamma aux ondes radio en passant par la lumière visible. Le rayonnement solaire contient aussi des rayons cosmiques de particules animées d&#39;une vitesse et d&#39;une énergie extrêmement élevées.</rdfs:comment>
+    <rdfs:comment xml:lang="es">La luz solar, en el más amplio sentido, es el espectro total de radiación electromagnética proveniente del Sol. Esto es usualmente durante las horas consideradas como día. Cerca de los polos geográficos durante el verano, la luz solar también ocurre en las horas que definen la noche y en los inviernos en estas zonas la luz solar podría simplemente no llegar. La radiación térmica producida directamente por la radiación del sol es diferente del incremento en la temperatura atmosférica debido al calentamiento radiactivo de la atmósfera por la radiación solar. La luz solar puede ser &quot;grabada&quot; usando un heliógrafo. La Organización Meteorológica Mundial define la luz solar como la irradiación directa proveniente del sol medida en el suelo de al menos 120 W·m−2.</rdfs:comment>
+    <rdfs:comment xml:lang="ja">太陽光（たいようこう、英: sunlight）とは、太陽が放つ光である。日光（にっこう）とも言う。地球における生物の営みや気候などに多大な影響を与えている。人類も、太陽の恵みとも言われる日の光の恩恵を享受してきた。</rdfs:comment>
+    <rdfs:comment xml:lang="nl">Zonlicht is het zichtbare deel van het totale spectrum van elektromagnetische straling dat door de zon wordt verspreid. Het zonlicht dat de aarde bereikt is een zeer klein deel van de totale hoeveelheid, maar voldoende en essentieel om het leven op aarde in stand te houden.</rdfs:comment>
+    <rdfs:comment xml:lang="pt">Luz solar no seu sentido mais amplo é o espectro total da radiação eletromagnética fornecida pelo Sol. Na Terra, a luz solar é filtrada pela atmosfera terrestre, e a radiação solar é visível como a luz do dia quando o Sol está acima do horizonte, a água reflete a luz solar no arco íris portanto a cor da luz do Sol, perceptíveis pelos nossos olhos, são as cores do arco íris.</rdfs:comment>
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Ultraviolet" />
+    <owl:sameAs rdf:resource="http://es.dbpedia.org/resource/Luz_solar" />
+    <owl:sameAs rdf:resource="http://it.dbpedia.org/resource/Radiazione_solare" />
+    <owl:sameAs rdf:resource="http://fr.dbpedia.org/resource/Rayonnement_solaire" />
+    <owl:sameAs rdf:resource="http://ja.dbpedia.org/resource/太陽光" />
+    <owl:sameAs rdf:resource="http://eu.dbpedia.org/resource/Eguzki-erradiazio" />
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.06z0n" />
+    <owl:sameAs rdf:resource="http://d-nb.info/gnd/4139254-1" />
+    <owl:sameAs rdf:resource="http://cs.dbpedia.org/resource/Sluneční_světlo" />
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Sunlight" />
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q193788" />
+    <owl:sameAs rdf:resource="http://pt.dbpedia.org/resource/Luz_solar" />
+    <owl:sameAs rdf:resource="http://id.dbpedia.org/resource/Sinar_matahari" />
+    <owl:sameAs rdf:resource="http://ko.dbpedia.org/resource/햇빛" />
+    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/Sonnenstrahlung" />
+    <owl:sameAs rdf:resource="http://pl.dbpedia.org/resource/Promieniowanie_słoneczne" />
+    <owl:sameAs rdf:resource="http://nl.dbpedia.org/resource/Zonlicht" />
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q193788" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Sun" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Atmospheric_radiation" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Climate_forcing" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Solar_energy" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:IARC_Group_1_carcinogens" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Light_sources" />
+    <dbo:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">27979</dbo:wikiPageID>
+    <dbo:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">744861592</dbo:wikiPageRevisionID>
+    <dbo:wikiPageExternalLink rdf:resource="http://avc.comm.nsdlib.org/cgi-bin/wiki_grade_interface.pl?Measuring_Solar_Radiation" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.eoearth.org/article/Solar_radiation" />
+    <dbo:wikiPageExternalLink rdf:resource="http://websurf.nao.rl.ac.uk/surfbin/first.cgi" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.astm.org/Standards/G173.htm" />
+    <dbo:wikiPageExternalLink rdf:resource="http://starhop.com/library/pdf/studyguide/high/SolInt-19.pdf" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.ecy.wa.gov/programs/eap/models/solrad.zip" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.macaulay.ac.uk/LADSS/papers.html?2002" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.pmodwrc.ch/pmod.php?topic=tsi/composite/SolarConstant" />
+    <dbo:wikiPageExternalLink rdf:resource="http://apod.nasa.gov/apod/archivepix.html" />
+    <dbo:wikiPageExternalLink rdf:resource="http://bass2000.obspm.fr/solar_spect.php" />
+    <dbo:wikiPageExternalLink rdf:resource="http://apod.nasa.gov/apod/ap100627.html" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.ecy.wa.gov/programs/eap/models.html" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.macaulay.ac.uk/LADSS/papers.html?2005" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.ngdc.noaa.gov/stp/solar/solarirrad.html" />
+    <foaf:depiction rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Sunshine_at_Dunstanburgh.JPG" />
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Sunlight" />
+    <dbo:thumbnail rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Sunshine_at_Dunstanburgh.JPG?width=300" />
+    <prov:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Sunlight?oldid=744861592" />
+    <dbo:abstract xml:lang="it">La radiazione solare è l&#39;energia radiante emessa nello spazio interplanetario dal Sole, generata a partire dalle reazioni termonucleari di fusione che avvengono nel nucleo solare e che producono radiazioni elettromagnetiche a varie frequenze o lunghezze d&#39;onda, le quali si propagano poi nello spazio alle velocità tipiche di queste onde, trasportando con sé energia solare. Ogni forma di vita sulla Terra viene mantenuta dal flusso energetico solare che penetra nella biosfera; l&#39;energia utilizzata per la formazione ed il mantenimento della biomassa è l&#39;1% della radiazione totale in arrivo. La radiazione ha un&#39;influenza diretta sulla temperatura dell&#39;aria e del terreno e sul processo di evapotraspirazione (consiste nella quantità d&#39;acqua che dal terreno passa nell&#39;aria allo stato di vapore per effetto congiunto della traspirazione, attraverso le piante, e dell&#39;evaporazione, direttamente dal terreno), ed indiretta sul valore dell&#39;umidità atmosferica, sul movimento delle masse d&#39;aria e sulle precipitazioni. La quantità totale di radiazione emessa dal Sole nell&#39;unità di tempo, nell&#39;unità di superficie e misurata alle soglie esterne dell&#39;atmosfera, valore pressoché costante nel tempo, è detta costante solare.</dbo:abstract>
+    <dbo:abstract xml:lang="ru">Со́лнечная радиа́ция — электромагнитное и корпускулярное излучение Солнца. Следует отметить, что данный термин является калькой с англ. Solar radiation («Солнечное излучение»), и в данном случае не означает радиацию в «бытовом» смысле этого слова (ионизирующее излучение). Солнечная радиация измеряется по её тепловому действию (калории на единицу поверхности за единицу времени) и интенсивности (ватты на единицу поверхности). В целом, Земля получает от Солнца менее 0,5×10−9 от его излучения. Электромагнитная составляющая солнечной радиации распространяется со скоростью света и проникает в земную атмосферу. До земной поверхности солнечная радиация доходит в виде прямых и рассеянных лучей.Всего Земля получает от Солнца менее одной двухмиллиардной его излучения. Спектральный диапазон электромагнитного излучения Солнца очень широк — от радиоволн (Солнечные радио всплески) до рентгеновских лучей — однако максимум его интенсивности приходится на видимую (жёлто-зелёную) часть спектра. Существует также корпускулярная часть солнечной радиации, состоящая преимущественно из протонов, движущихся от Солнца со скоростями 300—1500 км/с (см. Солнечный ветер). Во время солнечных вспышек образуются также частицы больших энергий (в основном протоны и электроны), образующие солнечную компоненту космических лучей. Энергетический вклад корпускулярной составляющей солнечной радиации в её общую интенсивность невелик по сравнению с электромагнитной. Поэтому в ряде приложений термин «солнечная радиация» используют в узком смысле, имея в виду только её электромагнитную часть. Солнечная радиация — главный источник энергии для всех физико-географических процессов, происходящих на земной поверхности и в атмосфере (см. Инсоляция). Количество солнечной радиации зависит от высоты солнца, времени года, прозрачности атмосферы. Для измерения солнечной радиации служат пиранометры и пиргелиометры. Интенсивность солнечной радиации обычно измеряется по её тепловому действию и выражается в ваттах на единицу поверхности (см. Солнечная постоянная).</dbo:abstract>
+    <dbo:abstract xml:lang="de">Sonnenstrahlung oder Solarstrahlung ist die von der Sonne ausgesandte Strahlung. Das elektromagnetische Spektrum der Sonne hat die größte Intensität im Bereich des sichtbaren Lichts (Sonnenlicht). Abhängig von der Wellenlänge wird die Sonnenstrahlung von der Atmosphäre mehr oder weniger stark absorbiert. Die an der Erdoberfläche eintreffende Intensität hängt zudem stark vom Wetter und vom Sonnenstand ab. Meist nicht zur Sonnenstrahlung gerechnet wird die neben der elektromagnetischen Strahlung von der Sonne ebenfalls emittierte massebehaftete Teilchenstrahlung. Sie besteht aus den geladenen Teilchen des Sonnenwinds und den Neutrinos, die bei der Kernfusion im Innern der Sonne entstehen.</dbo:abstract>
+    <dbo:abstract xml:lang="pt">Luz solar no seu sentido mais amplo é o espectro total da radiação eletromagnética fornecida pelo Sol. Na Terra, a luz solar é filtrada pela atmosfera terrestre, e a radiação solar é visível como a luz do dia quando o Sol está acima do horizonte, a água reflete a luz solar no arco íris portanto a cor da luz do Sol, perceptíveis pelos nossos olhos, são as cores do arco íris.</dbo:abstract>
+    <dbo:abstract xml:lang="fr">Le rayonnement solaire est l&#39;ensemble des ondes électromagnétiques émises par le Soleil. Il est composé de toute la gamme des rayonnements, de l&#39;ultraviolet lointain comme les rayons gamma aux ondes radio en passant par la lumière visible. Le rayonnement solaire contient aussi des rayons cosmiques de particules animées d&#39;une vitesse et d&#39;une énergie extrêmement élevées.</dbo:abstract>
+    <dbo:abstract xml:lang="ja">太陽光（たいようこう、英: sunlight）とは、太陽が放つ光である。日光（にっこう）とも言う。地球における生物の営みや気候などに多大な影響を与えている。人類も、太陽の恵みとも言われる日の光の恩恵を享受してきた。</dbo:abstract>
+    <dbo:abstract xml:lang="ar">أشعة الشمس أو الأشعة الشمسية  أو ضوء الشمس هو عباره عن مجموع من الموجات الكهرومغناطيسية ، يمكن للإنسان رؤية جزء منها يسمى ضوء مرئي وبقيتة لا يري بالعين المجردة . تتميز الأشعة المرئية من طيف الشمس بأنها تتكون من أشعة لونية من الأحمر إلى البنفسجي وهي ألوان قوس قزح. موجات الأحمر لها طول موجة 700 نانومتر وموجات البنفسجي قصيرة الموجة وطول موجتها 400 نانومتر . جزئين من طيف الشمس لا ترى بالعين المجردة: كما في الشكل الجزء ذو موجة أطول من 700 نانومتر (تصل إلى نحو 2700 نانومتر ) وهذا هو نطاق الأشعة تحت الحمراء ، والجزء الآخر ذو طول موجات أقل من 400 نانومتر (إلى اليسار في الرسم البياني للطيف ) ، وهو يسمى نطاق الأشعة فوق البنفسجية . الأشعة الشمسية تحمل طاقة وتختلف طاقتها بحسب طول موجتها ، فكلما زادت موجة الضوء كلما انخفضت طاقته . معنى ذلك ان الأشعة فوق البنفسجية طاقتها عالية نسبيا ، ولذلك فهي ضارة لجلد الإنسان إذا تعرض إليها طويلا . تسقط أشعة الشمس على الأرض بعد مرورها خلال الغلاف الجوي للأرض . ويقوم الغلاف الجوي للأرض بامتصاص بعضها فلا يصل إلينا . ويبين الشكل أجزاء الطيف التي تصل إلى سطح الارض (معلمة باللون البني في الشكل ) حيث أن الغازات المختلفة في الجو من نتروجين و أكسجين و ثاني أكسيد الكربون وبخار الماء وغيرها لها قدرات مختلفة على امتصاص أشعة الشمس. وضوء الشمس المباشر قد تكون مضيئة بكفاءة 93 lumens اشعاعا لكل واط من التدفق ، وهو يضم الأشعة تحت الحمراء و الضوء المرئي ، والأشعة فوق البنفسجية. وتبلغ متوسط القدرة للطقة الشمسية الساقطة على المتر المربع من سطح الأرض : ويسمى هذا المقدار الثابت الشمسي. وأشعة الشمس هي عامل رئيسي في عملية التمثيل الضوئي.</dbo:abstract>
+    <dbo:abstract xml:lang="nl">Zonlicht is het zichtbare deel van het totale spectrum van elektromagnetische straling dat door de zon wordt verspreid. Het zonlicht dat de aarde bereikt is een zeer klein deel van de totale hoeveelheid, maar voldoende en essentieel om het leven op aarde in stand te houden.</dbo:abstract>
+    <dbo:abstract xml:lang="zh">太陽光，廣義的定義是來自太陽所有頻譜的電磁輻射。在地球，陽光顯而易見是當太陽在地平线之上，經過地球大氣層過濾照射到地球表面的太陽輻射，則稱為日光。 當太陽輻射沒有被雲遮蔽，直接照射時通常被稱為陽光，是明亮的光線和輻射熱的組合。世界氣象組織定義&quot;日照時間&quot;是指一個地區直接接收到的陽光輻照度在每平方公尺120瓦特以上的時間累積。 陽光照射的時間可以使用陽光錄影機、全天空輻射計或日射強度計來記錄。陽光需要8.3分鐘才能從太陽抵達地球。 直接照射的陽光亮度效能約有每瓦特93流明的輻射通量，其中包括紅外線、可見光和紫外線。明亮的陽光對地球表面上提供的照度大約是每平方米100,000流明或100,000勒克司。陽光是光合作用的關鍵因素，對於地球上的生命至關重要。</dbo:abstract>
+    <dbo:abstract xml:lang="en">Sunlight is a portion of the electromagnetic radiation given off by the Sun, in particular infrared, visible, and ultraviolet light. On Earth, sunlight is filtered through Earth&#39;s atmosphere, and is obvious as daylight when the Sun is above the horizon. When the direct solar radiation is not blocked by clouds, it is experienced as sunshine, a combination of bright light and radiant heat. When it is blocked by the clouds or reflects off other objects, it is experienced as diffused light. The World Meteorological Organization uses the term &quot;sunshine duration&quot; to mean the cumulative time during which an area receives direct irradiance from the Sun of at least 120 watts per square meter. The ultraviolet radiation in sunlight has both positive and negative health effects, as it is both a principal source of vitamin D3 and a mutagen.</dbo:abstract>
+    <dbo:abstract xml:lang="es">La luz solar, en el más amplio sentido, es el espectro total de radiación electromagnética proveniente del Sol. Esto es usualmente durante las horas consideradas como día. Cerca de los polos geográficos durante el verano, la luz solar también ocurre en las horas que definen la noche y en los inviernos en estas zonas la luz solar podría simplemente no llegar. La radiación térmica producida directamente por la radiación del sol es diferente del incremento en la temperatura atmosférica debido al calentamiento radiactivo de la atmósfera por la radiación solar. La luz solar puede ser &quot;grabada&quot; usando un heliógrafo. La Organización Meteorológica Mundial define la luz solar como la irradiación directa proveniente del sol medida en el suelo de al menos 120 W·m−2. La luz solar directa proporciona alrededor de 93 lumenes de iluminación por vatio de potencia electromagnética, incluyendo infrarrojo, visible y ultra-violeta. Luz solar brillante proporciona iluminación de aproximadamente 100 000 candelas por metro cuadrado en la superficie terrestre. La luz solar es un factor fundamental en el proceso de fotosíntesis, tan importante para la vida.</dbo:abstract>
+    <dbo:abstract xml:lang="pl">Promieniowanie słoneczne – strumień fal elektromagnetycznych i cząstek elementarnych (promieniowanie korpuskularne) docierający ze Słońca do Ziemi.Natężenie promieniowania słonecznego docierającego do górnych granic atmosfery określone jest przez stałą słoneczną. Wielkość ta jest zdefiniowana dla średniej odległości Ziemia-Słońce i wynosi około 1366,1 W/m2. Natężenie promieniowania słonecznego zmienia się w cyklu rocznym ze względu na zmiany odległości pomiędzy Ziemią a Słońcem w zakresie ±3,4%. Chwilowa wartość natężenia promieniowania słonecznego docierającego do górnych granic atmosfery może być wyznaczona ze wzoru gdzie oznacza stała słoneczną, dn określa kolejny dzień roku dn = 1 pierwszy stycznia; dn = 2 drugi stycznia; dn = 32 pierwszy lutego itd. Wpływ aktywności Słońca na natężenie promieniowania słonecznego docierającego do Ziemi jest znacząco mniejszy i średnio w cyklu 11 letnim sięga około 0,1%. Rozkład spektralnym promieniowania słonecznego jest zbliżony do promieniowania ciała doskonale czarnego o temperaturze około 5800 K opisywany rozkładem Plancka. Maksimum energii zgodnie z prawem Wiena przypada na długości fali około 0,5 μm. Około połowy energii promieniowania słonecznego przypada na zakres widzialny, zaś pozostała na promieniowanie ultrafioletowe i bliską podczerwień. W spektrum promieniowania słonecznego wyróżniamy następujące zakresy: 
+*  ultrafiolet C z zakresem fal od 100 do 280 nm 
+*  ultrafiolet B z zakresem fal od 280 do 315 nm 
+*  ultrafiolet A z zakresem fal od 315 do 400 nm 
+*  światło widzialne z zakresem fal od 400 do 700 nm (cały zakres światła słonecznego odbierany jest przez człowieka jako światło białe) 
+*  bliska podczerwień z zakresem fal od 700 do 1400 nm 
+*  środkowa podczerwień z zakresem fal od 1400 do 4000 nm Promieniowania słoneczne przechodząc przez atmosferę ulega osłabieniu wskutek procesów absorpcji i rozpraszania. Wyznaczenie natężenie promieniowania słonecznego lub radiancji docierającej do powierzchni ziemi wymaga rozwiązania równania transferu promieniowania w atmosferze. Wyniki takich symulacji oraz obserwacji wskazują, że około 30% promieniowania słonecznego dochodzącego do naszej planety jest odbijane przez atmosferę, 20% jest przez nią pochłaniane, a tylko 50% energii dociera do powierzchni Ziemi. Wartości te odnoszą się do całego globu i lokalnie mogą znacząco się różnić.</dbo:abstract>
+    <dbp:expiry rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2016-10-22</dbp:expiry>
+    <dbp:small rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">yes</dbp:small>
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Portion" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Natural_lighting">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Sunlight" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2001_WUSA_Founders_Cup">
+    <dbp:weather rdf:resource="http://dbpedia.org/resource/Sunlight" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sun_(disambiguation)">
+    <dbo:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/Sunlight" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sunlit">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Sunlight" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Atmosphere_of_Earth">
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Sunlight" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Solar_spectrum">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Sunlight" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Solar_Radiation">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Sunlight" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sun_radiation">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Sunlight" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sun_shine">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Sunlight" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sydney_New_Year&#39;s_Eve_2011–12">
+    <dbp:song rdf:resource="http://dbpedia.org/resource/Sunlight" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sunlight_(disambiguation)">
+    <dbo:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/Sunlight" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Solar_irradiation">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Sunlight" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Solar_output">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Sunlight" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Uses_of_sunlight">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Sunlight" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Total_Solar_Irradiance">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Sunlight" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sun_emission_spectrum">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Sunlight" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Sunlight">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Sunlight" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sun&#39;s_radiation">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Sunlight" />
+  </rdf:Description>
+</rdf:RDF>

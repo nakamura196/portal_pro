@@ -1,0 +1,629 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:dbo="http://dbpedia.org/ontology/"
+	xmlns:dct="http://purl.org/dc/terms/"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	xmlns:prov="http://www.w3.org/ns/prov#"
+	xmlns:dbp="http://dbpedia.org/property/"
+	xmlns:georss="http://www.georss.org/georss/" >
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Shuhei_Akasaki">
+    <dbo:team rdf:resource="http://dbpedia.org/resource/University_of_Tsukuba" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tomoyasu_Asaoka">
+    <dbo:team rdf:resource="http://dbpedia.org/resource/University_of_Tsukuba" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Choi_Kyu-hah">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Tsukuba" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Meiji_Jingu_Gaien_Stadium">
+    <dbp:before rdf:resource="http://dbpedia.org/resource/University_of_Tsukuba" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kenta_Hasegawa__2">
+    <dbo:team rdf:resource="http://dbpedia.org/resource/University_of_Tsukuba" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hiroshi_Matsuda">
+    <dbo:team rdf:resource="http://dbpedia.org/resource/University_of_Tsukuba" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hiroshi_Ninomiya_(footballer,_born_1969)">
+    <dbo:team rdf:resource="http://dbpedia.org/resource/University_of_Tsukuba" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Toshiyuki_Abe">
+    <dbo:team rdf:resource="http://dbpedia.org/resource/University_of_Tsukuba" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Masahiro_Sukigara__1">
+    <dbo:team rdf:resource="http://dbpedia.org/resource/University_of_Tsukuba" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Michihisa_Date__1">
+    <dbo:team rdf:resource="http://dbpedia.org/resource/University_of_Tsukuba" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Takaya_Oishi">
+    <dbo:team rdf:resource="http://dbpedia.org/resource/University_of_Tsukuba" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Takaya_Oishi__1">
+    <dbo:team rdf:resource="http://dbpedia.org/resource/University_of_Tsukuba" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2015_Rugby_World_Cup_squads">
+    <dbp:club rdf:resource="http://dbpedia.org/resource/University_of_Tsukuba" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Naotake_Hanyu">
+    <dbo:team rdf:resource="http://dbpedia.org/resource/University_of_Tsukuba" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/University_of_Tsukuba">
+    <rdf:type rdf:resource="http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/University" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/University108286569" />
+    <rdf:type rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatJapaneseNationalUniversities" />
+    <rdf:type rdf:resource="http://schema.org/CollegeOrUniversity" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoPermanentlyLocatedEntity" />
+    <rdf:type rdf:resource="http://schema.org/EducationalOrganization" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Organisation" />
+    <rdf:type rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#SocialPerson" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Abstraction100002137" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/SocialGroup107950920" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatUniversitiesAndCollegesInJapan" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Group100031264" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Organization108008335" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatUniversitiesAndCollegesInIbarakiPrefecture" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Agent" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q3918" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q43229" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/EducationalInstitution" />
+    <rdf:type rdf:resource="http://schema.org/Organization" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/EducationalInstitution108276342" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Institution108053576" />
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q24229398" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoLegalActor" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoLegalActorGeo" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatEducationalInstitutionsEstablishedIn1872" />
+    <rdfs:label xml:lang="ja">筑波大学</rdfs:label>
+    <rdfs:label xml:lang="zh">筑波大学</rdfs:label>
+    <rdfs:label xml:lang="es">Universidad de Tsukuba</rdfs:label>
+    <rdfs:label xml:lang="de">Universität Tsukuba</rdfs:label>
+    <rdfs:label xml:lang="ar">جامعة تسوكوبا</rdfs:label>
+    <rdfs:label xml:lang="en">University of Tsukuba</rdfs:label>
+    <rdfs:label xml:lang="fr">Université de Tsukuba</rdfs:label>
+    <rdfs:comment xml:lang="es">La Universidad de Tsukuba (筑波大学 Tsukuba daigaku?) está localizada en la ciudad de Tsukuba, Prefectura de Ibaraki en la región de Kantō. La Universidad tiene 28 colegios y escuelas con un total de cerca de 15,000 estudiantes (en 2003), es considerada una de las mejores universidades de Japón y posee el campus universitario (único), el más grande del país.</rdfs:comment>
+    <rdfs:comment xml:lang="ja">筑波大学（つくばだいがく、英語: University of Tsukuba）は、茨城県つくば市天王台一丁目1番地1に本部を置く日本の国立大学である。1973年に設置された。大学の略称は特にないが、筑波（つくば）、筑波大（つくばだい）、波大（ばだい）、筑大（つくだい）などと呼ばれている。</rdfs:comment>
+    <rdfs:comment xml:lang="ar">25بك المحتوى هنا ينقصه الاستشهاد بمصادر. يرجى إيراد مصادر موثوق بها. أي معلومات غير موثقة يمكن التشكيك بها وإزالتها. (فبراير 2016) جامعة تسوكوبا باليابانية (筑波大学, Tsukuba daigaku) وبالإنجليزية تكتب University of Tsukuba تقع في مدينة تسوكوبا بمحافظة إيباراكي في منطقة كانتو. تعتبر واحدة من أشهر الجامعات اليابانية. ولها أكثر من 28 كلية بمجموع 15,000 طالب (عام 2003). في 11 من يوليو 1991، طعن حتى الموت المترجم الياباني هيتوشي ايقاراشي المترجم كتاب آيات شيطانية إلى اللغة اليابانية ووقع ذلك في مكتبة بجامعة تسوكوبا.</rdfs:comment>
+    <rdfs:comment xml:lang="zh">筑波大学（日语：筑波大学／つくばだいがく Tsukuba daigaku；英語譯名：University of Tsukuba），是一所本部位於茨城县筑波市天王台1-1-1号的日本國立大學，也是結合筑波研究學園都市的新型大學，簡稱筑大（筑大（つくだい））。前身為日本第一所师范学校「东京教育大学」。 筑大曾有3名教授獲得諾貝爾獎。筑波校區佔地258公頃，是日本面積最大的單一大學校園。</rdfs:comment>
+    <rdfs:comment xml:lang="de">Die Universität Tsukuba (jap. 筑波大学, Tsukuba daigaku) ist eine staatliche Universität in Japan. Der Hauptcampus liegt in Tennōdai, Tsukuba in der Präfektur Ibaraki.</rdfs:comment>
+    <rdfs:comment xml:lang="en">The University of Tsukuba (筑波大学 Tsukuba daigaku), one of the oldest national universities (established by Japanese Government) and one of the most comprehensive research universities in Japan, is in the city of Tsukuba (known as Tsukuba Science City), Ibaraki Prefecture in the Kantō region of Japan. The university has 28 college clusters and schools with around 16,500 students (as of 2014). The main Tsukuba campus covers an area of 258 hectares (636 acres), making it the second largest single campus in Japan. The branch campus is in Bunkyo-ku, Tokyo, which offers graduate programs for working adults in the capital and manages K-12 schools in Tokyo that are attached to the university.</rdfs:comment>
+    <rdfs:comment xml:lang="fr">L&#39;Université de Tsukuba (筑波大学, Tsukuba daigaku, couramment abrégée en Tsukubadai, 筑波大) est une université nationale japonaise, située à Tsukuba dans la préfecture d&#39;Ibaraki.</rdfs:comment>
+    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/Universität_Tsukuba" />
+    <owl:sameAs rdf:resource="http://es.dbpedia.org/resource/Universidad_de_Tsukuba" />
+    <owl:sameAs rdf:resource="http://yago-knowledge.org/resource/University_of_Tsukuba" />
+    <owl:sameAs rdf:resource="http://d-nb.info/gnd/115418-7" />
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/University_of_Tsukuba" />
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q743615" />
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q743615" />
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.06ksqy" />
+    <owl:sameAs rdf:resource="http://ja.dbpedia.org/resource/筑波大学" />
+    <owl:sameAs rdf:resource="http://sw.cyc.com/concept/Mx4rdQA5DNEIQdiRiICDCaiueA" />
+    <owl:sameAs rdf:resource="http://ko.dbpedia.org/resource/쓰쿠바_대학" />
+    <owl:sameAs rdf:resource="http://fr.dbpedia.org/resource/Université_de_Tsukuba" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Tsukuba,_Ibaraki" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Super_Global_Universities" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:1872_establishments_in_Japan" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Universities_and_colleges_in_Ibaraki_Prefecture" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Educational_institutions_established_in_1872" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Japanese_national_universities" />
+    <dbo:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2080195</dbo:wikiPageID>
+    <dbo:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">743864996</dbo:wikiPageRevisionID>
+    <dbo:wikiPageExternalLink rdf:resource="http://www.global.tsukuba.ac.jp" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.emp.tsukuba.ac.jp/english/" />
+    <dbo:wikiPageExternalLink rdf:resource="http://hbp.tsukuba.ac.jp/en/" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.rihed.seameo.org/programmes/aims/" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.tsukuba.ac.jp/english/" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.education-japan.org/africa/" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.tsukuba.ac.jp/english/organization/centers/arena/" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.global.tsukuba.ac.jp/" />
+    <dbo:wikiPageExternalLink rdf:resource="http://wpi-iiis.tsukuba.ac.jp/" />
+    <foaf:name xml:lang="en">University of Tsukuba</foaf:name>
+    <foaf:name xml:lang="en">筑波大学</foaf:name>
+    <foaf:homepage rdf:resource="http://www.tsukuba.ac.jp/english/" />
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#float">36.1114</geo:lat>
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#float">140.104</geo:long>
+    <foaf:depiction rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/University_of_Tsukuba_dsc04769.jpg" />
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/University_of_Tsukuba" />
+    <geo:geometry rdf:datatype="http://www.openlinksw.com/schemas/virtrdf#Geometry">POINT(140.10383605957 36.111431121826)</geo:geometry>
+    <dbo:thumbnail rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/University_of_Tsukuba_dsc04769.jpg?width=300" />
+    <prov:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/University_of_Tsukuba?oldid=743864996" />
+    <dbo:abstract xml:lang="en">The University of Tsukuba (筑波大学 Tsukuba daigaku), one of the oldest national universities (established by Japanese Government) and one of the most comprehensive research universities in Japan, is in the city of Tsukuba (known as Tsukuba Science City), Ibaraki Prefecture in the Kantō region of Japan. The university has 28 college clusters and schools with around 16,500 students (as of 2014). The main Tsukuba campus covers an area of 258 hectares (636 acres), making it the second largest single campus in Japan. The branch campus is in Bunkyo-ku, Tokyo, which offers graduate programs for working adults in the capital and manages K-12 schools in Tokyo that are attached to the university.</dbo:abstract>
+    <dbo:abstract xml:lang="zh">筑波大学（日语：筑波大学／つくばだいがく Tsukuba daigaku；英語譯名：University of Tsukuba），是一所本部位於茨城县筑波市天王台1-1-1号的日本國立大學，也是結合筑波研究學園都市的新型大學，簡稱筑大（筑大（つくだい））。前身為日本第一所师范学校「东京教育大学」。 筑大曾有3名教授獲得諾貝爾獎。筑波校區佔地258公頃，是日本面積最大的單一大學校園。</dbo:abstract>
+    <dbo:abstract xml:lang="ja">筑波大学（つくばだいがく、英語: University of Tsukuba）は、茨城県つくば市天王台一丁目1番地1に本部を置く日本の国立大学である。1973年に設置された。大学の略称は特にないが、筑波（つくば）、筑波大（つくばだい）、波大（ばだい）、筑大（つくだい）などと呼ばれている。</dbo:abstract>
+    <dbo:abstract xml:lang="ar">25بك المحتوى هنا ينقصه الاستشهاد بمصادر. يرجى إيراد مصادر موثوق بها. أي معلومات غير موثقة يمكن التشكيك بها وإزالتها. (فبراير 2016) جامعة تسوكوبا باليابانية (筑波大学, Tsukuba daigaku) وبالإنجليزية تكتب University of Tsukuba تقع في مدينة تسوكوبا بمحافظة إيباراكي في منطقة كانتو. تعتبر واحدة من أشهر الجامعات اليابانية. ولها أكثر من 28 كلية بمجموع 15,000 طالب (عام 2003). أنشأت الجامعة في أكتوبر من عام 1973 ميلادية. صنفت الجامعة بالمركز 9 إلى 17 من كل الجامعات في المنطقة الآسيوية التي تغطي تقريبا ثلث سكان العالم. كما يوجد بها العديد من حملة جوائز نوبل العالمية منهم ليو إساكي، هيديكي شيراكاوا وشينيتشيرو توموناغا. في 11 من يوليو 1991، طعن حتى الموت المترجم الياباني هيتوشي ايقاراشي المترجم كتاب آيات شيطانية إلى اللغة اليابانية ووقع ذلك في مكتبة بجامعة تسوكوبا. 
+* 32xبوابة اليابان 
+* 32xبوابة تربيةمشاريع شقيقة في كومنز صور وملفات عن: جامعة تسوكوبا</dbo:abstract>
+    <dbo:abstract xml:lang="fr">L&#39;Université de Tsukuba (筑波大学, Tsukuba daigaku, couramment abrégée en Tsukubadai, 筑波大) est une université nationale japonaise, située à Tsukuba dans la préfecture d&#39;Ibaraki.</dbo:abstract>
+    <dbo:abstract xml:lang="de">Die Universität Tsukuba (jap. 筑波大学, Tsukuba daigaku) ist eine staatliche Universität in Japan. Der Hauptcampus liegt in Tennōdai, Tsukuba in der Präfektur Ibaraki.</dbo:abstract>
+    <dbo:abstract xml:lang="es">La Universidad de Tsukuba (筑波大学 Tsukuba daigaku?) está localizada en la ciudad de Tsukuba, Prefectura de Ibaraki en la región de Kantō. La Universidad tiene 28 colegios y escuelas con un total de cerca de 15,000 estudiantes (en 2003), es considerada una de las mejores universidades de Japón y posee el campus universitario (único), el más grande del país. A sólo 45 minutos en tren del centro de la capital, la ciudad se encuentra situada a 60 kilómetros al noreste de Tokio, la universidad hace de eje principal para la ciudad de la ciencia de Tsukuba, la cual representa uno de los mayores esfuerzos coordinados para el impulso del avance en descubrimientos científicos de calidad en el mundo y es la primera ciudad científica de Japón. Con este objetivo, el gobierno japonés destina cerca de la mitad de su inversión en ciencia y tecnología para esta urbe. La universidad sirve de centro para la ciudad, la cual cuenta con más de 240 centros de investigación privados y 60 instituciones públicas educativas y de investigación tales como JAXA (japan aerospace exploration agency), NIMS (National Institute for Materials Science) y AIST (National Institute of Advanced Industrial Science and Technology), teniendo amplia colaboración con dichas entidades. La ciudad fue construida utilizando como modelo a ciudades igualmente planificadas con el desarrollo científico como norte, tales como Brasilia, Novosibirsk&#39;s Akademgorodok, Bethesda, y Palo Alto. La misma fue fundada al unificar asentamientos antiguos como Ōho, Sakura, Toyosato y Yatabe. Dada su naturaleza, la universidad se sitúa en una ciudad que cuenta con una de las poblaciones más eruditas del país en densidad, con más de 15.000 Ph.D de entre una población total de 207.394 personas para el año 2008. Recientemente, Tsukuba ha sido nombrada como el centro neurálgico en robótica y nanotecnología de Japón. Parte de ello se debe a la existencia del proyecto Cybernics como parte del programa Global COE, aprobado y financiado por el Ministerio de Educación, Cultura, Deporte, Ciencia y Tecnología de Japón (MEXT), como estrategia para el desarrollo de centros de educación e investigación japoneses de &quot;clase mundial&quot; que impulsen el desarrollo general del sistema educativo de la nación. Dicho proyecto es liderado por el profesor Yoshiyuki Sankai de la universidad de Tsukuba en los laboratorios de esta casa de estudio, buscando fusionar humanos, máquina y sistemas de información en solo concepto; gracias a ello, se ha logrado desarrollar el sistema HAL (Hybrid Assistive Limbs), un traje robótico exoesquelético, capaz de detectar las señales bioeléctricas débiles en extremidades, compensando las fallas e incrementando la fuerza en personas con impedimentos físicos, entre varias utilidades. Esta invención fue la ganadora del prestigioso World Technology Award 2005.</dbo:abstract>
+    <dbo:city rdf:resource="http://dbpedia.org/resource/Tsukuba" />
+    <dbo:country rdf:resource="http://dbpedia.org/resource/Japan" />
+    <dbo:facultySize rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">2616</dbo:facultySize>
+    <dbo:mascot>None</dbo:mascot>
+    <dbo:motto>Imagine the future</dbo:motto>
+    <dbo:numberOfPostgraduateStudents rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">6661</dbo:numberOfPostgraduateStudents>
+    <dbo:numberOfStudents rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">16459</dbo:numberOfStudents>
+    <dbo:numberOfUndergraduateStudents rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">9798</dbo:numberOfUndergraduateStudents>
+    <dbo:staff rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">2284</dbo:staff>
+    <dbo:state rdf:resource="http://dbpedia.org/resource/Ibaraki_Prefecture" />
+    <dbo:type rdf:resource="http://dbpedia.org/resource/National_university" />
+    <georss:point>36.11143 140.10383</georss:point>
+    <dbp:campus rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Urban</dbp:campus>
+    <dbp:established rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">October 1973</dbp:established>
+    <dbp:wordnet_type rdf:resource="http://www.w3.org/2006/03/wn/wn20/instances/synset-university-noun-2" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hitoshi_Igarashi">
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/University_of_Tsukuba" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Shigeyoshi_Mochizuki__2">
+    <dbo:team rdf:resource="http://dbpedia.org/resource/University_of_Tsukuba" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hiroshi_Nakano_(footballer)__1">
+    <dbo:team rdf:resource="http://dbpedia.org/resource/University_of_Tsukuba" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mitsuru_Chiyotanda__2">
+    <dbo:team rdf:resource="http://dbpedia.org/resource/University_of_Tsukuba" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Toshiko_Yuasa">
+    <dbp:workplaces rdf:resource="http://dbpedia.org/resource/University_of_Tsukuba" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Akira_Matsunaga_(footballer,_born_1914)">
+    <dbo:team rdf:resource="http://dbpedia.org/resource/University_of_Tsukuba" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jun_Suzuki_(footballer,_born_1961)">
+    <dbo:team rdf:resource="http://dbpedia.org/resource/University_of_Tsukuba" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Masashi_Nakayama__1">
+    <dbo:team rdf:resource="http://dbpedia.org/resource/University_of_Tsukuba" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Toshiya_Fujita__2">
+    <dbo:team rdf:resource="http://dbpedia.org/resource/University_of_Tsukuba" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yasutaka_Nomoto__1">
+    <dbo:team rdf:resource="http://dbpedia.org/resource/University_of_Tsukuba" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hitoshi_Sasaki_(footballer,_born_1891)__1">
+    <dbo:team rdf:resource="http://dbpedia.org/resource/University_of_Tsukuba" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kosei_Ishigami">
+    <dbo:team rdf:resource="http://dbpedia.org/resource/University_of_Tsukuba" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kosei_Ishigami__1">
+    <dbo:team rdf:resource="http://dbpedia.org/resource/University_of_Tsukuba" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2013_Kashiwa_Reysol_season">
+    <dbp:team rdf:resource="http://dbpedia.org/resource/University_of_Tsukuba" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Shuhei_Akasaki__2">
+    <dbo:team rdf:resource="http://dbpedia.org/resource/University_of_Tsukuba" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Arisa_Inoue">
+    <dbo:club rdf:resource="http://dbpedia.org/resource/University_of_Tsukuba" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Toshinori_Ishikuma">
+    <dbp:workInstitution rdf:resource="http://dbpedia.org/resource/University_of_Tsukuba" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yoshiyuki_Sankai">
+    <dbp:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Tsukuba" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kenta_Hasegawa">
+    <dbo:team rdf:resource="http://dbpedia.org/resource/University_of_Tsukuba" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Masashi_Nakayama">
+    <dbo:team rdf:resource="http://dbpedia.org/resource/University_of_Tsukuba" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hiroto_Muraoka">
+    <dbo:team rdf:resource="http://dbpedia.org/resource/University_of_Tsukuba" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Junji_Kawano">
+    <dbo:team rdf:resource="http://dbpedia.org/resource/University_of_Tsukuba" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kazuo_Imanishi">
+    <dbo:team rdf:resource="http://dbpedia.org/resource/University_of_Tsukuba" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nobuo_Matsunaga">
+    <dbo:team rdf:resource="http://dbpedia.org/resource/University_of_Tsukuba" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mikio_Manaka">
+    <dbo:team rdf:resource="http://dbpedia.org/resource/University_of_Tsukuba" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2013_IRB_Pacific_Nations_Cup">
+    <dbp:club rdf:resource="http://dbpedia.org/resource/University_of_Tsukuba" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hitoshi_Sasaki_(footballer,_born_1891)">
+    <dbo:team rdf:resource="http://dbpedia.org/resource/University_of_Tsukuba" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kozo_Tashima">
+    <dbo:team rdf:resource="http://dbpedia.org/resource/University_of_Tsukuba" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Reizo_Fukuhara">
+    <dbo:team rdf:resource="http://dbpedia.org/resource/University_of_Tsukuba" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/David_Toshio_Tsumura">
+    <dbp:workplaces rdf:resource="http://dbpedia.org/resource/University_of_Tsukuba" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tomoko_Nagai">
+    <dbp:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Tsukuba" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2013_Emperor&#39;s_Cup">
+    <dbp:team rdf:resource="http://dbpedia.org/resource/University_of_Tsukuba" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2014_Emperor&#39;s_Cup">
+    <dbp:team rdf:resource="http://dbpedia.org/resource/University_of_Tsukuba" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yang_Changji">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Tsukuba" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2007_Emperor&#39;s_Cup">
+    <dbp:team rdf:resource="http://dbpedia.org/resource/University_of_Tsukuba" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Fang_Chih">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Tsukuba" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Akira_Matsunaga_(footballer,_born_1914)__1">
+    <dbo:team rdf:resource="http://dbpedia.org/resource/University_of_Tsukuba" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hiroshi_Matsuda__1">
+    <dbo:team rdf:resource="http://dbpedia.org/resource/University_of_Tsukuba" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jun_Suzuki_(footballer,_born_1961)__1">
+    <dbo:team rdf:resource="http://dbpedia.org/resource/University_of_Tsukuba" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Michihiro_Ozawa__1">
+    <dbo:team rdf:resource="http://dbpedia.org/resource/University_of_Tsukuba" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yahiro_Kazama__11">
+    <dbo:team rdf:resource="http://dbpedia.org/resource/University_of_Tsukuba" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yahiro_Kazama__2">
+    <dbo:team rdf:resource="http://dbpedia.org/resource/University_of_Tsukuba" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yoshinori_Taguchi__1">
+    <dbo:team rdf:resource="http://dbpedia.org/resource/University_of_Tsukuba" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2015_Asian_Rugby_Championship">
+    <dbp:club rdf:resource="http://dbpedia.org/resource/University_of_Tsukuba" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Stergomena_Tax">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Tsukuba" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kazuyori_Mochizuki">
+    <dbo:team rdf:resource="http://dbpedia.org/resource/University_of_Tsukuba" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kazuyori_Mochizuki__1">
+    <dbo:team rdf:resource="http://dbpedia.org/resource/University_of_Tsukuba" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mitsuhiro_Abiko">
+    <dbp:universityteam rdf:resource="http://dbpedia.org/resource/University_of_Tsukuba" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Toshiya_Fujita">
+    <dbo:team rdf:resource="http://dbpedia.org/resource/University_of_Tsukuba" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Fujio_Yamamoto">
+    <dbo:team rdf:resource="http://dbpedia.org/resource/University_of_Tsukuba" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hiroyuki_Sakashita">
+    <dbo:team rdf:resource="http://dbpedia.org/resource/University_of_Tsukuba" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Keiju_Karashima">
+    <dbo:team rdf:resource="http://dbpedia.org/resource/University_of_Tsukuba" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Masahiro_Sukigara">
+    <dbo:team rdf:resource="http://dbpedia.org/resource/University_of_Tsukuba" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Michihisa_Date">
+    <dbo:team rdf:resource="http://dbpedia.org/resource/University_of_Tsukuba" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mitsuhiro_Toda">
+    <dbo:team rdf:resource="http://dbpedia.org/resource/University_of_Tsukuba" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Takayuki_Nishigaya">
+    <dbo:team rdf:resource="http://dbpedia.org/resource/University_of_Tsukuba" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tomoaki_Ōgami">
+    <dbo:team rdf:resource="http://dbpedia.org/resource/University_of_Tsukuba" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yahiro_Kazama">
+    <dbo:managerClub rdf:resource="http://dbpedia.org/resource/University_of_Tsukuba" />
+    <dbo:team rdf:resource="http://dbpedia.org/resource/University_of_Tsukuba" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yasuharu_Kurata">
+    <dbo:team rdf:resource="http://dbpedia.org/resource/University_of_Tsukuba" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yasutaka_Nomoto">
+    <dbo:team rdf:resource="http://dbpedia.org/resource/University_of_Tsukuba" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kenji_Narisako">
+    <dbp:universityteam rdf:resource="http://dbpedia.org/resource/University_of_Tsukuba" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tomoaki_Ōgami__1">
+    <dbo:team rdf:resource="http://dbpedia.org/resource/University_of_Tsukuba" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hideki_Shirakawa">
+    <dbp:workInstitutions rdf:resource="http://dbpedia.org/resource/University_of_Tsukuba" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sin&#39;ichirō_Tomonaga">
+    <dbp:workplaces rdf:resource="http://dbpedia.org/resource/University_of_Tsukuba" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yutaka_Tsujinaka">
+    <dbo:occupation rdf:resource="http://dbpedia.org/resource/University_of_Tsukuba" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2015_World_Rugby_Pacific_Nations_Cup">
+    <dbp:club rdf:resource="http://dbpedia.org/resource/University_of_Tsukuba" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hiroshi_Nakano_(footballer)">
+    <dbo:team rdf:resource="http://dbpedia.org/resource/University_of_Tsukuba" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Daihachiro_Sato">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Tsukuba" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Masami_Ihara__1">
+    <dbo:team rdf:resource="http://dbpedia.org/resource/University_of_Tsukuba" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Naotake_Hanyu__2">
+    <dbo:team rdf:resource="http://dbpedia.org/resource/University_of_Tsukuba" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2012_Emperor&#39;s_Cup">
+    <dbp:team rdf:resource="http://dbpedia.org/resource/University_of_Tsukuba" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2012_Kashima_Antlers_season">
+    <dbp:team rdf:resource="http://dbpedia.org/resource/University_of_Tsukuba" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/William_Bodiford">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Tsukuba" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Naoto_Tobe">
+    <dbp:education rdf:resource="http://dbpedia.org/resource/University_of_Tsukuba" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yuji_Hiramatsu">
+    <dbp:education rdf:resource="http://dbpedia.org/resource/University_of_Tsukuba" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Institute_for_Comparative_Research_in_Human_and_Social_Sciences">
+    <dbo:affiliation rdf:resource="http://dbpedia.org/resource/University_of_Tsukuba" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Michihiro_Ozawa">
+    <dbo:team rdf:resource="http://dbpedia.org/resource/University_of_Tsukuba" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Go_Oiwa">
+    <dbo:team rdf:resource="http://dbpedia.org/resource/University_of_Tsukuba" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Go_Oiwa__2">
+    <dbo:team rdf:resource="http://dbpedia.org/resource/University_of_Tsukuba" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tsukuba_University">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/University_of_Tsukuba" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/An_Chang-rim">
+    <dbp:university rdf:resource="http://dbpedia.org/resource/University_of_Tsukuba" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Takanori_Nagase">
+    <dbp:university rdf:resource="http://dbpedia.org/resource/University_of_Tsukuba" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hajime_Yamashita">
+    <dbo:university rdf:resource="http://dbpedia.org/resource/University_of_Tsukuba" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kentaro_Takahashi">
+    <dbp:teams rdf:resource="http://dbpedia.org/resource/University_of_Tsukuba" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2011_Emperor&#39;s_Cup">
+    <dbp:team rdf:resource="http://dbpedia.org/resource/University_of_Tsukuba" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/UT-VPN">
+    <dbo:author rdf:resource="http://dbpedia.org/resource/University_of_Tsukuba" />
+    <dbo:developer rdf:resource="http://dbpedia.org/resource/University_of_Tsukuba" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Fumitake_Miura">
+    <dbo:team rdf:resource="http://dbpedia.org/resource/University_of_Tsukuba" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Fumitake_Miura__1">
+    <dbo:team rdf:resource="http://dbpedia.org/resource/University_of_Tsukuba" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hiroki_Hattori">
+    <dbo:team rdf:resource="http://dbpedia.org/resource/University_of_Tsukuba" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hiroki_Hattori__1">
+    <dbo:team rdf:resource="http://dbpedia.org/resource/University_of_Tsukuba" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Keiju_Karashima__1">
+    <dbo:team rdf:resource="http://dbpedia.org/resource/University_of_Tsukuba" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Masanaga_Kageyama__1">
+    <dbo:team rdf:resource="http://dbpedia.org/resource/University_of_Tsukuba" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mikio_Manaka__1">
+    <dbo:team rdf:resource="http://dbpedia.org/resource/University_of_Tsukuba" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Takashi_Kiyama">
+    <dbo:team rdf:resource="http://dbpedia.org/resource/University_of_Tsukuba" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Takashi_Kiyama__1">
+    <dbo:team rdf:resource="http://dbpedia.org/resource/University_of_Tsukuba" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Takayuki_Nishigaya__1">
+    <dbo:team rdf:resource="http://dbpedia.org/resource/University_of_Tsukuba" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Takeshi_Ono_(footballer,_born_1962)">
+    <dbo:team rdf:resource="http://dbpedia.org/resource/University_of_Tsukuba" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Takeshi_Ono_(footballer,_born_1962)__1">
+    <dbo:team rdf:resource="http://dbpedia.org/resource/University_of_Tsukuba" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Toshiyuki_Abe__1">
+    <dbo:team rdf:resource="http://dbpedia.org/resource/University_of_Tsukuba" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yusaku_Ueno">
+    <dbo:team rdf:resource="http://dbpedia.org/resource/University_of_Tsukuba" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yusaku_Ueno__1">
+    <dbo:team rdf:resource="http://dbpedia.org/resource/University_of_Tsukuba" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tokyo_University_of_Education">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/University_of_Tsukuba" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jungo_Fujimoto">
+    <dbo:team rdf:resource="http://dbpedia.org/resource/University_of_Tsukuba" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Masanaga_Kageyama">
+    <dbo:team rdf:resource="http://dbpedia.org/resource/University_of_Tsukuba" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Shigeyoshi_Mochizuki">
+    <dbo:team rdf:resource="http://dbpedia.org/resource/University_of_Tsukuba" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tetsu_Nagasawa">
+    <dbo:team rdf:resource="http://dbpedia.org/resource/University_of_Tsukuba" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yoshinori_Taguchi">
+    <dbo:team rdf:resource="http://dbpedia.org/resource/University_of_Tsukuba" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mitsuru_Chiyotanda">
+    <dbo:team rdf:resource="http://dbpedia.org/resource/University_of_Tsukuba" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Akihiro_Hyodo">
+    <dbo:team rdf:resource="http://dbpedia.org/resource/University_of_Tsukuba" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Akihiro_Hyodo__2">
+    <dbo:team rdf:resource="http://dbpedia.org/resource/University_of_Tsukuba" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mitsuhiro_Toda__2">
+    <dbo:team rdf:resource="http://dbpedia.org/resource/University_of_Tsukuba" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hiroto_Muraoka__1">
+    <dbo:team rdf:resource="http://dbpedia.org/resource/University_of_Tsukuba" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hiroyuki_Sakashita__1">
+    <dbo:team rdf:resource="http://dbpedia.org/resource/University_of_Tsukuba" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Junji_Kawano__1">
+    <dbo:team rdf:resource="http://dbpedia.org/resource/University_of_Tsukuba" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kazuo_Imanishi__1">
+    <dbo:team rdf:resource="http://dbpedia.org/resource/University_of_Tsukuba" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kozo_Tashima__1">
+    <dbo:team rdf:resource="http://dbpedia.org/resource/University_of_Tsukuba" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Masaru_Uchiyama__1">
+    <dbo:team rdf:resource="http://dbpedia.org/resource/University_of_Tsukuba" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nobuo_Matsunaga__1">
+    <dbo:team rdf:resource="http://dbpedia.org/resource/University_of_Tsukuba" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Reizo_Fukuhara__1">
+    <dbo:team rdf:resource="http://dbpedia.org/resource/University_of_Tsukuba" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Shinichiro_Tani">
+    <dbo:team rdf:resource="http://dbpedia.org/resource/University_of_Tsukuba" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Shinichiro_Tani__1">
+    <dbo:team rdf:resource="http://dbpedia.org/resource/University_of_Tsukuba" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Takeshi_Koshida">
+    <dbo:team rdf:resource="http://dbpedia.org/resource/University_of_Tsukuba" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Takeshi_Koshida__1">
+    <dbo:team rdf:resource="http://dbpedia.org/resource/University_of_Tsukuba" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tomoyasu_Asaoka__1">
+    <dbo:team rdf:resource="http://dbpedia.org/resource/University_of_Tsukuba" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yasuharu_Kurata__1">
+    <dbo:team rdf:resource="http://dbpedia.org/resource/University_of_Tsukuba" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yoshiro_Moriyama">
+    <dbo:team rdf:resource="http://dbpedia.org/resource/University_of_Tsukuba" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yoshiro_Moriyama__1">
+    <dbo:team rdf:resource="http://dbpedia.org/resource/University_of_Tsukuba" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yuta_Narawa">
+    <dbo:team rdf:resource="http://dbpedia.org/resource/University_of_Tsukuba" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yuta_Narawa__2">
+    <dbo:team rdf:resource="http://dbpedia.org/resource/University_of_Tsukuba" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Masami_Ihara">
+    <dbo:team rdf:resource="http://dbpedia.org/resource/University_of_Tsukuba" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2014_IRB_Pacific_Nations_Cup">
+    <dbp:club rdf:resource="http://dbpedia.org/resource/University_of_Tsukuba" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/SoftEther_VPN">
+    <dbo:author rdf:resource="http://dbpedia.org/resource/University_of_Tsukuba" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Masaru_Uchiyama">
+    <dbo:team rdf:resource="http://dbpedia.org/resource/University_of_Tsukuba" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jungo_Fujimoto__2">
+    <dbo:team rdf:resource="http://dbpedia.org/resource/University_of_Tsukuba" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2011_Kashima_Antlers_season">
+    <dbp:team rdf:resource="http://dbpedia.org/resource/University_of_Tsukuba" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Fujio_Yamamoto__1">
+    <dbo:team rdf:resource="http://dbpedia.org/resource/University_of_Tsukuba" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hiroshi_Ninomiya_(footballer,_born_1969)__1">
+    <dbo:team rdf:resource="http://dbpedia.org/resource/University_of_Tsukuba" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tetsu_Nagasawa__1">
+    <dbo:team rdf:resource="http://dbpedia.org/resource/University_of_Tsukuba" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/1995_Verdy_Kawasaki_season">
+    <dbp:team rdf:resource="http://dbpedia.org/resource/University_of_Tsukuba" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/1998_Kashima_Antlers_season">
+    <dbp:team rdf:resource="http://dbpedia.org/resource/University_of_Tsukuba" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2013_Wales_rugby_union_tour_of_Japan">
+    <dbp:club rdf:resource="http://dbpedia.org/resource/University_of_Tsukuba" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Akihiko_Matsui_(economist)">
+    <dbo:institution rdf:resource="http://dbpedia.org/resource/University_of_Tsukuba" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Saburo_Aoki">
+    <dbo:occupation rdf:resource="http://dbpedia.org/resource/University_of_Tsukuba" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hiroki_Yamamoto">
+    <dbo:university rdf:resource="http://dbpedia.org/resource/University_of_Tsukuba" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Iftekhar_Uddin_Chowdhury">
+    <dbo:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Tsukuba" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Fumiya_Hayakawa">
+    <dbo:team rdf:resource="http://dbpedia.org/resource/University_of_Tsukuba" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Fumiya_Hayakawa__1">
+    <dbo:team rdf:resource="http://dbpedia.org/resource/University_of_Tsukuba" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hiromu_Mitsumaru">
+    <dbo:team rdf:resource="http://dbpedia.org/resource/University_of_Tsukuba" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hiromu_Mitsumaru__1">
+    <dbo:team rdf:resource="http://dbpedia.org/resource/University_of_Tsukuba" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yuya_Miura">
+    <dbo:team rdf:resource="http://dbpedia.org/resource/University_of_Tsukuba" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yuya_Miura__1">
+    <dbo:team rdf:resource="http://dbpedia.org/resource/University_of_Tsukuba" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/1988_AFC_Asian_Cup_squads">
+    <dbp:club rdf:resource="http://dbpedia.org/resource/University_of_Tsukuba" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tokyo_Higher_Normal_School">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/University_of_Tsukuba" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Shimoda_Marine_Research_Center">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/University_of_Tsukuba" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/University_of_Tsukuba">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/University_of_Tsukuba" />
+  </rdf:Description>
+</rdf:RDF>

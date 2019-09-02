@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:dct="http://purl.org/dc/terms/"
+	xmlns:dbo="http://dbpedia.org/ontology/"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:prov="http://www.w3.org/ns/prov#"
+	xmlns:dbp="http://dbpedia.org/property/"
+	xmlns:ns8="http://purl.org/linguistics/gold/" >
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Derfflinger-class_battlecruiser">
+    <dbo:type rdf:resource="http://dbpedia.org/resource/Battlecruiser" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/SMS_Derfflinger">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Battlecruiser" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Invincible-class_battlecruiser">
+    <dbo:type rdf:resource="http://dbpedia.org/resource/Battlecruiser" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Glossary_of_nautical_terms">
+    <dbp:content rdf:resource="http://dbpedia.org/resource/Battlecruiser" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Scharnhorst-class_battleship">
+    <dbo:type rdf:resource="http://dbpedia.org/resource/Battlecruiser" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Japanese_battlecruiser_Ibuki">
+    <dbo:class rdf:resource="http://dbpedia.org/resource/Battlecruiser" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Russian_battlecruiser_Admiral_Nakhimov">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Battlecruiser" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Battlecruiser">
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PhysicalEntity100001930" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Conveyance103100490" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Object100002684" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Ship" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/MilitaryVehicle103764276" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Ship104194289" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Craft103125870" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Artifact100021939" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Vessel104530566" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Warship104552696" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Vehicle104524313" />
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Whole100003553" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Instrumentality103575240" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatCruisers" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Cruiser103140900" />
+    <rdfs:label xml:lang="ja">巡洋戦艦</rdfs:label>
+    <rdfs:label xml:lang="es">Crucero de batalla</rdfs:label>
+    <rdfs:label xml:lang="pl">Krążownik liniowy</rdfs:label>
+    <rdfs:label xml:lang="fr">Croiseur de bataille</rdfs:label>
+    <rdfs:label xml:lang="nl">Slagkruiser</rdfs:label>
+    <rdfs:label xml:lang="ru">Линейный крейсер</rdfs:label>
+    <rdfs:label xml:lang="en">Battlecruiser</rdfs:label>
+    <rdfs:label xml:lang="de">Schlachtkreuzer</rdfs:label>
+    <rdfs:label xml:lang="it">Incrociatore da battaglia</rdfs:label>
+    <rdfs:label xml:lang="zh">战列巡洋舰</rdfs:label>
+    <rdfs:label xml:lang="pt">Cruzador de batalha</rdfs:label>
+    <rdfs:comment xml:lang="ru">Лине́йный кре́йсер — класс артиллерийских кораблей, имеющих вооружение, близкое к линкорам, но обладающих большей скоростью хода при более лёгком бронировании. Появились в начале ХХ века как развитие броненосных крейсеров. Они должны были составлять авангард главных сил флота, а в бою играть роль его быстроходного крыла. Результаты морских сражений Первой мировой войны, а также Вашингтонское морское соглашение 1922 года прервали эволюцию линейных крейсеров. В дальнейшем прогресс в области силовых установок привёл к слиянию линейных крейсеров и линкоров в единый класс быстроходных линейных кораблей. Тем не менее ряд кораблей, построенных в 1930—1940-х годах, нередко именуется в военно-морской литературе линейными крейсерами в силу их промежуточного положения между «настоящими» линкорами и т</rdfs:comment>
+    <rdfs:comment xml:lang="nl">Een slagkruiser is de aanduiding voor een oorlogsschip dat de slagkracht van een slagschip paart aan de snelheid van een kruiser. De hoge snelheid werd gerealiseerd door zwaardere turbines met meer vermogen te plaatsen. Om deze binnen de scheepsromp te huisvesten werd een deel van de bepantsering opgeofferd.</rdfs:comment>
+    <rdfs:comment xml:lang="ja">巡洋戦艦（じゅんようせんかん、英: Battlecruiser, 独: Schlachtkreuzer）は、強力な攻撃力を持つ大型巡洋艦を指す。戦艦と同等の大口径砲を持ち、戦艦よりも長大な艦形で大出力機関を搭載し、高速性能を持つ。装甲巡洋艦（Armored cruiser）を発展させて誕生した。第二次世界大戦までは戦艦とともに主力艦の扱いを受けた。 最初にこの種の艦を1908年に建造したイギリス海軍の定義では、「戦闘巡洋艦」、すなわち広義では巡洋艦で、攻撃力は戦艦に匹敵する艦種を指す。高速力を持つが、防御力は装甲巡洋艦と同等のままである。</rdfs:comment>
+    <rdfs:comment xml:lang="de">Ein Schlachtkreuzer ist ein großes Kriegsschiff, von der Größe und der Bewaffnung einem Schlachtschiff vergleichbar, aber mit einer höheren, für Kreuzer typischen Geschwindigkeit auf Kosten von geringerer Panzerung. Schlachtkreuzer gehören somit zur Gruppe der Großkampfschiffe. Dies erwies sich als unbefriedigender Kompromiss, sodass das Konzept des Schlachtkreuzers schon nach dem Ersten Weltkrieg aufgegeben wurde, als leistungsstärkere Maschinenanlagen ausreichende Panzerstärken ermöglichten. Einige Schiffe dieses Typs blieben aber bis zum Ende des Zweiten Weltkriegs im Einsatz.</rdfs:comment>
+    <rdfs:comment xml:lang="es">Los cruceros de batalla fueron los mayores buques de guerra durante la primera mitad del siglo XX desde que fueron introducidos por la Royal Navy británica. Los cruceros de batalla fueron desarrollados como los sucesores de los cruceros acorazados, pero su evolución estuvo estrechamente ligada a la de los acorazados tipo dreadnought. El primero de estos buques, el Invincible, estuvo designado originalmente como &quot;crucero dreadnought&quot;.</rdfs:comment>
+    <rdfs:comment xml:lang="zh">战列巡洋舰（英语：battlecruiser或battle cruiser），又譯巡洋戰艦，是一种流行于20世纪前期的大型战舰。在當時是在装甲巡洋舰的基础上演变而来的功能性很强的新型战舰，可以看作一種以刪減裝甲換取機動性的战列舰。 英国广布全球的漫长海上航运线和商业网络相互联系的殖民利益，需要强大并且可以快速集结的海军舰队保护。英国皇家海军也需要一种结合强大火力与高机动力的战舰，不仅可以有效打击敌方的袭扰，又能够快速部署应付突发性事件。于是英国海军以“理想型巡洋舰”名义设计的战列巡洋舰是一种將战列舰强大火力和巡洋舰高机动合而為一的战舰，当时的新技术提供了建造新型战舰的可能性。 战列巡洋舰与装甲舰之间最大的区别在于武装。战列巡洋舰的主炮口径比装甲巡洋舰大。从主炮口径大小和威力方面可与战列舰媲美，但防护装甲比战列舰薄。装甲方面節省下来的重量被用在更强大的驱动装置上，这为战列巡洋舰提供了更高的速度。</rdfs:comment>
+    <rdfs:comment xml:lang="it">L&#39;incrociatore da battaglia (traduzione letterale del termine inglese battlecruiser) fu un tipo di grande nave da guerra dell&#39;inizio del XX secolo. Si evolse a partire dall&#39;incrociatore corazzato man mano che la nuova tecnologia permise di costruire navi più grandi. La differenza principale era il suo armamento principale uniforme, a differenza dell&#39;incrociatore corazzato che possedeva cannoni di calibro grande ed intermedio. Gli incrociatori da battaglia erano di dimensioni comparabili ad una corazzata ed avevano i cannoni di una corazzata, ma una corazzatura sostanzialmente più leggera (almeno inizialmente), utilizzando il risparmio di peso per installare motori potenti per ottenere una velocità maggiore. Un elemento alla base della loro costruzione fu la battaglia di Tsushima, dove gli </rdfs:comment>
+    <rdfs:comment xml:lang="en">A battlecruiser, or battle cruiser, was a capital ship built in the first half of the 20th century. They were similar in size, cost, and armament to battleships, but they generally carried less armour in order to obtain faster speeds. The first battlecruisers were designed in the United Kingdom in the first decade of the century, as a development of the armoured cruiser, at the same time as the dreadnought succeeded the pre-dreadnought battleship. The goal of the design was to outrun any ship with similar armament, and chase down any ship with lesser armament; they were intended to hunt down slower, older armoured cruisers and destroy them with heavy gunfire while avoiding combat with the more powerful but slower battleships. However, as more and more battlecruisers were built, they were i</rdfs:comment>
+    <rdfs:comment xml:lang="pt">O cruzador de batalha é um tipo de grande navio de guerra que surgiu na primeira metade do século XX, introduzido pela Marinha Real Britânica. Foram uma evolução dos cruzadores blindados e, em termos de classificação, ocupam uma área nebulosa entre os cruzadores e os encouraçados. Geralmente, os cruzadores de batalha eram similares em projeto e armamento aos encouraçados do tipo dreadnought, mas com muito menos blindagem a fim de obter maior velocidade. O primeiro navio desse tipo, o HMS Invincible, foi inicialmente denominado &quot;cruzador dreadnought&quot;.</rdfs:comment>
+    <rdfs:comment xml:lang="pl">Krążownik liniowy - klasa dużych okrętów artyleryjskich, która wykształciła się w okresie poprzedzającym I wojnę światową jako połączenie cech krążowników (duża prędkość) i pancerników (wielkość i uzbrojenie). Krążowniki liniowe zaliczane były obok pancerników do okrętów liniowych. W dawnym polskim piśmiennictwie nazywano je też &quot;krążownikami bojowymi&quot;.</rdfs:comment>
+    <rdfs:comment xml:lang="fr">Le croiseur de bataille est un type de navire de guerre apparu au début du XXe siècle. Ses caractéristiques sont semblables à celles du cuirassé pour le déplacement, le calibre de l&#39;artillerie principale, l&#39;effectif de l&#39;équipage, le rayon d&#39;action, mais sa vitesse est nettement supérieure, dépassant aussi celle des plus grands croiseurs de l&#39;époque, grâce à des dimensions de coque et un appareil propulsif plus puissant. Ce poids supplémentaire est compensé, sur les navires de conception britannique, par un blindage plus léger, et cette moindre protection constitue la principale restriction à l&#39;emploi de ce type de navire ainsi que le montrent les principaux combats auxquels ils participent pendant la Première Guerre mondiale.</rdfs:comment>
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Design_1047_battlecruiser" />
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/List_of_battlecruisers_of_the_Second_World_War" />
+    <owl:sameAs rdf:resource="http://ja.dbpedia.org/resource/巡洋戦艦" />
+    <owl:sameAs rdf:resource="http://nl.dbpedia.org/resource/Slagkruiser" />
+    <owl:sameAs rdf:resource="http://cs.dbpedia.org/resource/Bitevní_křižník" />
+    <owl:sameAs rdf:resource="http://d-nb.info/gnd/4136641-4" />
+    <owl:sameAs rdf:resource="http://fr.dbpedia.org/resource/Croiseur_de_bataille" />
+    <owl:sameAs rdf:resource="http://pt.dbpedia.org/resource/Cruzador_de_batalha" />
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q214190" />
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.019yc" />
+    <owl:sameAs rdf:resource="http://pl.dbpedia.org/resource/Krążownik_liniowy" />
+    <owl:sameAs rdf:resource="http://it.dbpedia.org/resource/Incrociatore_da_battaglia" />
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Battlecruiser" />
+    <owl:sameAs rdf:resource="http://es.dbpedia.org/resource/Crucero_de_batalla" />
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q214190" />
+    <owl:sameAs rdf:resource="http://yago-knowledge.org/resource/Battlecruiser" />
+    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/Schlachtkreuzer" />
+    <owl:sameAs rdf:resource="http://ko.dbpedia.org/resource/순양전함" />
+    <owl:sameAs rdf:resource="http://id.dbpedia.org/resource/Kapal_jelajah_tempur" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Ship_types" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Battlecruisers" />
+    <dbo:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4057</dbo:wikiPageID>
+    <dbo:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">742499426</dbo:wikiPageRevisionID>
+    <dbo:wikiPageExternalLink rdf:resource="http://www.maritimequest.com/warship_directory/20th_century_battleship_overview.htm" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.worldwar1.co.uk/battlecr.htm" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.navsource.org/archives/04idx.htm" />
+    <foaf:depiction rdf:resource="http://en.wikipedia.org/wiki/Special:FilePath/HMS_Hood_(51)_-_March_17,_1924.jpg" />
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Battlecruiser" />
+    <dbo:thumbnail rdf:resource="http://en.wikipedia.org/wiki/Special:FilePath/HMS_Hood_(51)_-_March_17,_1924.jpg?width=300" />
+    <prov:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Battlecruiser?oldid=742499426" />
+    <dbo:abstract xml:lang="de">Ein Schlachtkreuzer ist ein großes Kriegsschiff, von der Größe und der Bewaffnung einem Schlachtschiff vergleichbar, aber mit einer höheren, für Kreuzer typischen Geschwindigkeit auf Kosten von geringerer Panzerung. Schlachtkreuzer gehören somit zur Gruppe der Großkampfschiffe. Dies erwies sich als unbefriedigender Kompromiss, sodass das Konzept des Schlachtkreuzers schon nach dem Ersten Weltkrieg aufgegeben wurde, als leistungsstärkere Maschinenanlagen ausreichende Panzerstärken ermöglichten. Einige Schiffe dieses Typs blieben aber bis zum Ende des Zweiten Weltkriegs im Einsatz. Abweichend von dieser Definition werden die Einheiten der russischen Kirow-Klasse innerhalb der NATO als Schlachtkreuzer klassifiziert.</dbo:abstract>
+    <dbo:abstract xml:lang="it">L&#39;incrociatore da battaglia (traduzione letterale del termine inglese battlecruiser) fu un tipo di grande nave da guerra dell&#39;inizio del XX secolo. Si evolse a partire dall&#39;incrociatore corazzato man mano che la nuova tecnologia permise di costruire navi più grandi. La differenza principale era il suo armamento principale uniforme, a differenza dell&#39;incrociatore corazzato che possedeva cannoni di calibro grande ed intermedio. Gli incrociatori da battaglia erano di dimensioni comparabili ad una corazzata ed avevano i cannoni di una corazzata, ma una corazzatura sostanzialmente più leggera (almeno inizialmente), utilizzando il risparmio di peso per installare motori potenti per ottenere una velocità maggiore. Un elemento alla base della loro costruzione fu la battaglia di Tsushima, dove gli incrociatori corazzati vennero utilizzati dalla Marina Imperiale Giapponese nella loro linea di battaglia e dove nessuna corazzatura più spessa di 6 pollici (150 mm) venne penetrata. L&#39;idea era che i grossi cannoni avrebbero permesso ad un incrociatore da battaglia di eliminare i cacciatorpediniere ed altri incrociatori minori prima che questi potessero portare a distanza di tiro i loro cannoni o torpedini, mentre la loro velocità avrebbe permesso di sfuggire alle corazzate nemiche o di affondare una corazzata nemica danneggiata durante un&#39;azione di flotta. L&#39;idea venne concepita principalmente dall&#39;ammiraglio britannico Jackie Fisher e riassunta nel suo detto &quot;la velocità è la miglior protezione&quot;.</dbo:abstract>
+    <dbo:abstract xml:lang="pt">O cruzador de batalha é um tipo de grande navio de guerra que surgiu na primeira metade do século XX, introduzido pela Marinha Real Britânica. Foram uma evolução dos cruzadores blindados e, em termos de classificação, ocupam uma área nebulosa entre os cruzadores e os encouraçados. Geralmente, os cruzadores de batalha eram similares em projeto e armamento aos encouraçados do tipo dreadnought, mas com muito menos blindagem a fim de obter maior velocidade. O primeiro navio desse tipo, o HMS Invincible, foi inicialmente denominado &quot;cruzador dreadnought&quot;. Embora as especificações técnicas variem, todos os cruzadores de batalha partilhavam um papel a desempenhar semelhante aos dos encouraçados, e geralmente eram tão grandes e tão caros como. Foram concebidos para caçar e abater navios de guerra menores (ou navios mercantes, no caso dos &quot;encouraçados de bolso&quot;), e escapar de navios de guerra maiores que não poderiam enfrentar, significando que não haviam sido projetados para enfrentar canhões do mesmo calibre que carregavam. Originalmente, a fim de possibilitar isto, afastou-se da prática padrão de proporcionar a um navio blindagem suficiente para protegê-lo de suas próprias armas. O peso poupado da blindagem reduzida permitiu a instalação de motores mais potentes. A distinção entre cruzador de batalha e encouraçado nunca ficou completamente esclarecida.A ideia do cruzador de batalha foi concebida originalmente pelo Almirante Jackie Fisher, que acreditava que a &quot;velocidade é a melhor proteção&quot;. A ideia de Fisher centrava-se em cruzadores de batalha operando com a esquadra, com a intenção deles caçarem esquadrões de cruzadores inimigos e escapar dos encouraçados. A Marinha Imperial Alemã, ao contrário, sacrificou calibre de canhão ao invés de blindagem, a fim de aumentar a velocidade. Apesar da diferença básica entre as filosofias de projeto, ambos desempenharam a mesma tarefa. Contudo, o encouraçado continuou a dominar a estratégia naval durante a I Guerra Mundial, e o cruzador de batalha fou usado principalmente para acrescentar um apoio veloz e de grosso calibre a uma esquadra de encouraçados. Cruzadores de batalha formaram parte dfas marinhas britânica, alemã e japonesa durante a I Guera Mundial e tomaram parte em muitas batalhas navais entre a Grã-Bretanha e a Alemanha, inclusive na Batalha da Jutlândia. Ao final da guerra, havia pouca diferença entre o projeto de um cruzador de batalha e o de um encouraçado rápido. Grã-Bretanha, Japão e Estados Unidos projetaram cruzadores de batalha ao final da I Guerra Mundial que tinham tanta blindagem quanto os encouraçados, apesar de mais velozes e com menos armamento. O Tratado Naval de Washington, que limitaria a construção de navios de linha a partir de 1922, considerou encouraçados e cruzadores de batalha como iguais. A geração mais recente de cruzadores de batalha projetados foi sucateada para a adequação aos termos do Tratado. A partir da década de 1930, apenas a Marinha Real Britânica continuou a usar a classificação &quot;cruzador de batalha&quot; para seus navios de guerra. Apesar disso, os navios de linha mais leves e velozes desenvolvidos por Alemanha e França das classes Scharnhorst e Dunkerque foram e continuam freqüentemente sendo chamados de &quot;cruzadores de batalha&quot;. Estes navios eram tão blindados quanto muitos dos encouraçados porém carregavam armamento de menor calibre. Os cruzadores de batalha tornaram-se obsoletos no início da II Guerra Mundial, quando os avanços em projeto e tecnologia permitiram o desenvolvimento de encouraçados rápidos, que combinavam ou até superavam as melhores características dos cruzadores de batalha e lentos encouraçados da I Guerra Mundial A II Guerra Mundial veria os cruzadores de batalha em ação novamente. Contudo, nenhum cruzador de batalha teve sua construção iniciada durante a guerra: a construção de navios de linha foi reduzida a fim de redirecionar recursos para mais porta-aviões e aeronaves. Desde o início da II Guerra Mundial, não foram mais construídos &quot;cruzadores de batalha&quot;, apesar de vários navios terem sido descritos como tais.</dbo:abstract>
+    <dbo:abstract xml:lang="en">A battlecruiser, or battle cruiser, was a capital ship built in the first half of the 20th century. They were similar in size, cost, and armament to battleships, but they generally carried less armour in order to obtain faster speeds. The first battlecruisers were designed in the United Kingdom in the first decade of the century, as a development of the armoured cruiser, at the same time as the dreadnought succeeded the pre-dreadnought battleship. The goal of the design was to outrun any ship with similar armament, and chase down any ship with lesser armament; they were intended to hunt down slower, older armoured cruisers and destroy them with heavy gunfire while avoiding combat with the more powerful but slower battleships. However, as more and more battlecruisers were built, they were increasingly used alongside the better-protected battleships. Battlecruisers served in the navies of the UK, Germany, the Ottoman Empire, Australia and Japan during World War I, most notably at the Battle of the Falkland Islands and in the several raids and skirmishes in the North Sea which culminated in a pitched fleet battle, the Battle of Jutland. British battlecruisers in particular suffered heavy losses at Jutland, where their light armour made them very vulnerable to large-caliber shells. By the end of the war, capital ship design had developed with battleships becoming faster and battlecruisers becoming more heavily armoured, blurring the distinction between a battlecruiser and a fast battleship. The Washington Naval Treaty, which limited capital ship construction from 1922 onwards, treated battleships and battlecruisers identically, and the new generation of battlecruisers planned was scrapped under the terms of the treaty. From the 1930s on, only the Royal Navy continued to use &quot;battlecruiser&quot; as a classification for the World War I–era capital ships that remained in the fleet; while Japan&#39;s battlecruisers remained in service, they had been significantly reconstructed and were re-rated as full-fledged battleships. Battlecruisers were put into action again during World War II, and only one survived to the end. There was also renewed interest in large &quot;cruiser-killer&quot; type warships, but few were ever begun, as construction of battleships and battlecruisers were curtailed in favor of more-needed convoy escorts, aircraft carriers, and cargo ships. In the post–Cold War era, the Soviet Kirov class of large guided missile cruisers have also been termed &quot;battlecruisers&quot;.</dbo:abstract>
+    <dbo:abstract xml:lang="fr">Le croiseur de bataille est un type de navire de guerre apparu au début du XXe siècle. Ses caractéristiques sont semblables à celles du cuirassé pour le déplacement, le calibre de l&#39;artillerie principale, l&#39;effectif de l&#39;équipage, le rayon d&#39;action, mais sa vitesse est nettement supérieure, dépassant aussi celle des plus grands croiseurs de l&#39;époque, grâce à des dimensions de coque et un appareil propulsif plus puissant. Ce poids supplémentaire est compensé, sur les navires de conception britannique, par un blindage plus léger, et cette moindre protection constitue la principale restriction à l&#39;emploi de ce type de navire ainsi que le montrent les principaux combats auxquels ils participent pendant la Première Guerre mondiale. Dans les classifications du Traité naval de Washington de 1922, les croiseurs de bataille ne sont pas reconnus en tant que tels, mais sont de fait assimilés aux cuirassés, alors que les croiseurs sont définis comme ayant un déplacement bien moindre, au maximum 10 000 tonnes « Washington » (tW) et une artillerie limitée à un calibre maximum de 203 mm. À partir de 1935, alors que vont expirer les traités de limitation des armements navals, les principales marines vont s&#39;efforcer d&#39;atteindre les objectifs assignés aux croiseurs de bataille avec le concept de cuirassé rapide, d&#39;un déplacement de 25 000 à 35 000 tonnes, jouant sur la puissance de l&#39;armement (avec huit, neuf ou dix canons, de 280 mm à 406 mm), le blindage (avec des ceintures blindées de 230 à 356 mm), ou la vitesse, de 27 à 32 nœuds.</dbo:abstract>
+    <dbo:abstract xml:lang="zh">战列巡洋舰（英语：battlecruiser或battle cruiser），又譯巡洋戰艦，是一种流行于20世纪前期的大型战舰。在當時是在装甲巡洋舰的基础上演变而来的功能性很强的新型战舰，可以看作一種以刪減裝甲換取機動性的战列舰。 英国广布全球的漫长海上航运线和商业网络相互联系的殖民利益，需要强大并且可以快速集结的海军舰队保护。英国皇家海军也需要一种结合强大火力与高机动力的战舰，不仅可以有效打击敌方的袭扰，又能够快速部署应付突发性事件。于是英国海军以“理想型巡洋舰”名义设计的战列巡洋舰是一种將战列舰强大火力和巡洋舰高机动合而為一的战舰，当时的新技术提供了建造新型战舰的可能性。 战列巡洋舰与装甲舰之间最大的区别在于武装。战列巡洋舰的主炮口径比装甲巡洋舰大。从主炮口径大小和威力方面可与战列舰媲美，但防护装甲比战列舰薄。装甲方面節省下来的重量被用在更强大的驱动装置上，这为战列巡洋舰提供了更高的速度。</dbo:abstract>
+    <dbo:abstract xml:lang="es">Los cruceros de batalla fueron los mayores buques de guerra durante la primera mitad del siglo XX desde que fueron introducidos por la Royal Navy británica. Los cruceros de batalla fueron desarrollados como los sucesores de los cruceros acorazados, pero su evolución estuvo estrechamente ligada a la de los acorazados tipo dreadnought. El primero de estos buques, el Invincible, estuvo designado originalmente como &quot;crucero dreadnought&quot;. Los cruceros de batalla compartían con los acorazados el mismo armamento principal de grueso calibre, y eran generalmente, tan grandes y costosos como los acorazados de la misma generación. Cambiaban blindaje o potencia de fuego por velocidad, la cual era posible gracias a la potencia de sus máquinas y a la esbeltez de sus cascos. Los primeros cruceros de batalla, portaban un blindaje notablemente menor que los acorazados equivalentes, lo que implicaba, que al contrario que estos, no estaban diseñados para resistir impactos del calibre que ellos mismos portaban. Estos buques, eran capaces de infligir un daño mucho mayor del que eran capaces de absorber. La relación entre el crucero de batalla y el acorazado, nunca estuvo totalmente clara. La invención del crucero de batalla por parte de la Royal Navy fue conducida por el almirante Sir John Arbuthnot Fisher, que los concibió como un nuevo y revolucionario tipo de crucero acorazado el cual, podría reemplazar al acorazado como principal arma británica de combate en el mar. La idea de Fisher, se centraba en que los cruceros serían los responsables de la defensa imperial, dentro de una red de información del almirantazgo para destruir a los buques más débiles, y apresar a los buques mercantes enemigos en aguas internacionales, mientras que para los buques de guerra más poderosos, aprovecharían sus cañones de mayor alcance . No obstante, el acorazado continuó dominando la guerra naval durante la Primera Guerra Mundial, y el crucero de batalla fue utilizado principalmente para proporcionar velocidad y potencia de disparo en apoyo a las flotas de acorazados. Los cruceros de batalla formaban parte de las armadas Británica, alemana y Japonesa durante la primera guerra mundial, en la que tomaron parte en batallas entre las flotas británica y germana, incluida la Batalla de Jutlandia. Al final de la guerra había muy pocas diferencias entre los diseños de los cruceros de batalla y los acorazados rápidos. Británicos, Japoneses y estadounidenses diseñaron cruceros de batalla al final de la primera guerra mundial, los cuales estaban tan blindados como los acorazados y, aunque eran rápidos, no estaban tan armados como sus predecesores. El Tratado naval de Washington, de 1922, que limitaba la construcción de buques capitales, trataba por igual a los acorazados y los cruceros de batalla, por lo que la nueva generación de cruceros de batalla en construcción, fue desguazada o convertida en portaaviones bajo los términos del tratado. Desde los años 30, únicamente la Royal Navy continuo usando la denominación crucero de batalla en sus buques. Sin embargo, los buques capitales rápidos desarrollados por Alemania y Francia, las clases Gneisenau y Dunkerque fueron y son en ocasiones catalogados como cruceros de batalla. Estos buques estaban tan bien blindados como muchos acorazados, pero portaban un armamento de menor calibre. Durante la Segunda Guerra Mundial, los cruceros de batalla, volvieron a participar en combate. No obstante, no se comenzaron nuevos cruceros de batalla durante la guerra, y la construcción de acorazados, se paralizó, para proporcionar los recursos necesarios para la construcción de nuevos aviones y portaaviones. Desde el inicio de la segunda guerra mundial, no se ha iniciado la construcción de ningún crucero de batalla, aunque en ocasiones, algunos buques han sido descritos como cruceros de batalla como la Clase Kirov.</dbo:abstract>
+    <dbo:abstract xml:lang="ja">巡洋戦艦（じゅんようせんかん、英: Battlecruiser, 独: Schlachtkreuzer）は、強力な攻撃力を持つ大型巡洋艦を指す。戦艦と同等の大口径砲を持ち、戦艦よりも長大な艦形で大出力機関を搭載し、高速性能を持つ。装甲巡洋艦（Armored cruiser）を発展させて誕生した。第二次世界大戦までは戦艦とともに主力艦の扱いを受けた。 最初にこの種の艦を1908年に建造したイギリス海軍の定義では、「戦闘巡洋艦」、すなわち広義では巡洋艦で、攻撃力は戦艦に匹敵する艦種を指す。高速力を持つが、防御力は装甲巡洋艦と同等のままである。</dbo:abstract>
+    <dbo:abstract xml:lang="pl">Krążownik liniowy - klasa dużych okrętów artyleryjskich, która wykształciła się w okresie poprzedzającym I wojnę światową jako połączenie cech krążowników (duża prędkość) i pancerników (wielkość i uzbrojenie). Krążowniki liniowe zaliczane były obok pancerników do okrętów liniowych. W dawnym polskim piśmiennictwie nazywano je też &quot;krążownikami bojowymi&quot;.</dbo:abstract>
+    <dbo:abstract xml:lang="nl">Een slagkruiser is de aanduiding voor een oorlogsschip dat de slagkracht van een slagschip paart aan de snelheid van een kruiser. De hoge snelheid werd gerealiseerd door zwaardere turbines met meer vermogen te plaatsen. Om deze binnen de scheepsromp te huisvesten werd een deel van de bepantsering opgeofferd.</dbo:abstract>
+    <dbo:abstract xml:lang="ru">Лине́йный кре́йсер — класс артиллерийских кораблей, имеющих вооружение, близкое к линкорам, но обладающих большей скоростью хода при более лёгком бронировании. Появились в начале ХХ века как развитие броненосных крейсеров. Они должны были составлять авангард главных сил флота, а в бою играть роль его быстроходного крыла. Результаты морских сражений Первой мировой войны, а также Вашингтонское морское соглашение 1922 года прервали эволюцию линейных крейсеров. В дальнейшем прогресс в области силовых установок привёл к слиянию линейных крейсеров и линкоров в единый класс быстроходных линейных кораблей. Тем не менее ряд кораблей, построенных в 1930—1940-х годах, нередко именуется в военно-морской литературе линейными крейсерами в силу их промежуточного положения между «настоящими» линкорами и тяжёлыми крейсерами. Последний классический линейный крейсер — «Явуз» — был списан в 1954 году.</dbo:abstract>
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Ship" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/HMS_Tiger_(1913)">
+    <dbo:type rdf:resource="http://dbpedia.org/resource/Battlecruiser" />
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Battlecruiser" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Primus_class_battlecruiser">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Battlecruiser" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Borodino-class_battlecruiser">
+    <dbo:type rdf:resource="http://dbpedia.org/resource/Battlecruiser" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Russian_battlecruiser_Admiral_Lazarev">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Battlecruiser" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lion-class_battlecruiser">
+    <dbo:type rdf:resource="http://dbpedia.org/resource/Battlecruiser" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/SMS_Von_der_Tann">
+    <dbo:class rdf:resource="http://dbpedia.org/resource/Battlecruiser" />
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Battlecruiser" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kronshtadt-class_battlecruiser">
+    <dbo:type rdf:resource="http://dbpedia.org/resource/Battlecruiser" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lexington-class_battlecruiser">
+    <dbo:type rdf:resource="http://dbpedia.org/resource/Battlecruiser" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/SMS_Hindenburg">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Battlecruiser" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kirov-class_battlecruiser">
+    <dbo:type rdf:resource="http://dbpedia.org/resource/Battlecruiser" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/HMS_Inflexible_(1907)">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Battlecruiser" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mackensen-class_battlecruiser">
+    <dbo:type rdf:resource="http://dbpedia.org/resource/Battlecruiser" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Battle-cruiser">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Battlecruiser" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Amagi-class_battlecruiser">
+    <dbo:type rdf:resource="http://dbpedia.org/resource/Battlecruiser" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Battle_cruisers">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Battlecruiser" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/HMS_Queen_Mary">
+    <dbo:type rdf:resource="http://dbpedia.org/resource/Battlecruiser" />
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Battlecruiser" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Stalingrad-class_battlecruiser">
+    <dbo:type rdf:resource="http://dbpedia.org/resource/Battlecruiser" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/HMS_Hood">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Battlecruiser" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/HMS_Invincible_(1907)">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Battlecruiser" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/HMS_Repulse_(1916)">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Battlecruiser" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/SMS_Lützow">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Battlecruiser" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Warship">
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Battlecruiser" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/HMS_Furious_(47)">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Battlecruiser" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Admiral-class_battlecruiser">
+    <dbo:type rdf:resource="http://dbpedia.org/resource/Battlecruiser" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/G3_battlecruiser">
+    <dbo:type rdf:resource="http://dbpedia.org/resource/Battlecruiser" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Russian_battlecruiser_Pyotr_Velikiy">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Battlecruiser" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Cruiser_(disambiguation)">
+    <dbo:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/Battlecruiser" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Battle-Cruiser">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Battlecruiser" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/HMS_Indefatigable_(1909)">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Battlecruiser" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/HMS_Lion_(1910)">
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Battlecruiser" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Indefatigable-class_battlecruiser">
+    <dbo:type rdf:resource="http://dbpedia.org/resource/Battlecruiser" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/SMS_Seydlitz">
+    <dbo:class rdf:resource="http://dbpedia.org/resource/Battlecruiser" />
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Battlecruiser" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Japanese_battlecruiser_Kurama">
+    <dbo:class rdf:resource="http://dbpedia.org/resource/Battlecruiser" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kongō-class_battlecruiser">
+    <dbo:type rdf:resource="http://dbpedia.org/resource/Battlecruiser" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/O-class_battlecruiser">
+    <dbo:type rdf:resource="http://dbpedia.org/resource/Battlecruiser" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Battlecruisers">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Battlecruiser" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ersatz_Yorck-class_battlecruiser">
+    <dbo:type rdf:resource="http://dbpedia.org/resource/Battlecruiser" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Renown-class_battlecruiser">
+    <dbo:type rdf:resource="http://dbpedia.org/resource/Battlecruiser" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Battle_cruiser">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Battlecruiser" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Moltke-class_battlecruiser">
+    <dbo:type rdf:resource="http://dbpedia.org/resource/Battlecruiser" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Design_1047_battlecruiser">
+    <dbo:type rdf:resource="http://dbpedia.org/resource/Battlecruiser" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/J3_Class_battlecruiser">
+    <dbo:type rdf:resource="http://dbpedia.org/resource/Battlecruiser" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Battlecrusiers">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Battlecruiser" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Cruiser_killer">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Battlecruiser" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Battlecruiser">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Battlecruiser" />
+  </rdf:Description>
+</rdf:RDF>

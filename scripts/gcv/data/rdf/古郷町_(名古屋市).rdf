@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:dbpedia-owl="http://dbpedia.org/ontology/"
+	xmlns:prop-ja="http://ja.dbpedia.org/property/" >
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/名古屋米穀取引所">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/古郷町_(名古屋市)" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/米浜町">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/古郷町_(名古屋市)" />
+    <prop-ja:north rdf:resource="http://ja.dbpedia.org/resource/古郷町_(名古屋市)" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/data/古郷町_(名古屋市).rdf">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document" />
+    <foaf:primaryTopic rdf:resource="http://ja.dbpedia.org/resource/古郷町_(名古屋市)" />
+  </rdf:Description>
+</rdf:RDF>

@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:dct="http://purl.org/dc/terms/"
+	xmlns:dbo="http://dbpedia.org/ontology/"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:prov="http://www.w3.org/ns/prov#"
+	xmlns:dbp="http://dbpedia.org/property/"
+	xmlns:ns8="http://purl.org/linguistics/gold/" >
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Matsutarō_Shōriki">
+    <dbo:employer rdf:resource="http://dbpedia.org/resource/Yomiuri_Shimbun" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yomiuri_newspaper">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Yomiuri_Shimbun" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Daily_Yomiuri">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Yomiuri_Shimbun" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yomiuri_Telecasting_Corporation">
+    <dbo:owner rdf:resource="http://dbpedia.org/resource/Yomiuri_Shimbun" />
+    <dbo:owningCompany rdf:resource="http://dbpedia.org/resource/Yomiuri_Shimbun" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Aomori_FM_Broadcasting">
+    <dbo:owner rdf:resource="http://dbpedia.org/resource/Yomiuri_Shimbun" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/In_the_Miso_Soup">
+    <dbo:publisher rdf:resource="http://dbpedia.org/resource/Yomiuri_Shimbun" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Fukuoka_Broadcasting_Corporation____1">
+    <dbo:owner rdf:resource="http://dbpedia.org/resource/Yomiuri_Shimbun" />
+    <dbo:owningCompany rdf:resource="http://dbpedia.org/resource/Yomiuri_Shimbun" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Daily_Yomiuri">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Yomiuri_Shimbun" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yomiuri_Giants">
+    <dbp:owner rdf:resource="http://dbpedia.org/resource/Yomiuri_Shimbun" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tokyo_FM">
+    <dbo:owner rdf:resource="http://dbpedia.org/resource/Yomiuri_Shimbun" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yomiuri_Shimbun">
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Object100002684" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatPublicationsEstablishedIn1874" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q11032" />
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q1092563" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Newspaper" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/PeriodicalLiterature" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatEnglish-languageNewspapersPublishedInJapan" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatNewspapersPublishedInJapan" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatJapanese-languageNewspapers" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Work" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Magazine106595351" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/WrittenWork" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Creation103129123" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Product104007894" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Whole100003553" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Publication106589574" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Work104599396" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q386724" />
+    <rdf:type rdf:resource="http://schema.org/CreativeWork" />
+    <rdf:type rdf:resource="http://umbel.org/umbel/rc/NewspaperSeries" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Artifact100021939" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Press106263369" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Instrumentality103575240" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PrintMedia106263609" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Medium106254669" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Newspaper106267145" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PhysicalEntity100001930" />
+    <rdfs:label xml:lang="en">Yomiuri Shimbun</rdfs:label>
+    <rdfs:label xml:lang="es">Yomiuri Shimbun</rdfs:label>
+    <rdfs:label xml:lang="it">Yomiuri Shinbun</rdfs:label>
+    <rdfs:label xml:lang="zh">讀賣新聞</rdfs:label>
+    <rdfs:label xml:lang="ja">読売新聞</rdfs:label>
+    <rdfs:label xml:lang="pl">Yomiuri Shimbun</rdfs:label>
+    <rdfs:label xml:lang="ru">Ёмиури симбун</rdfs:label>
+    <rdfs:label xml:lang="pt">Yomiuri Shimbun</rdfs:label>
+    <rdfs:label xml:lang="ar">جريدة يوميوري</rdfs:label>
+    <rdfs:label xml:lang="fr">Yomiuri shinbun</rdfs:label>
+    <rdfs:label xml:lang="de">Yomiuri Shimbun</rdfs:label>
+    <rdfs:comment xml:lang="zh">《讀賣新聞》是日本一家全國性報紙，1874年11月2日由子安峻在东京创刊，1924年由正力松太郎接手經營後，透過版面改革，同時收購多家中小型报纸， 以及在二戰後向全國各地開展發行網絡，逐漸從地方性報紙躍升成為全國大報。至2010年，每日發行量已超過1350萬份（包括早報版與晚報版），為世界發行量最大的日報，並被列入金氏世界紀錄，近年則下降至934萬份左右。政治立場屬中間偏右的保守派。 報名「讀賣」指的是江戶時代的新聞出版物「瓦版」的銷售方式，當時瓦版的販售者在街頭上閱讀報導內容以促進銷量，是一般大眾了解時事的主要管道。該報創辦時，希望能提供如同「讀賣」般的親切度，讓一般大眾都能夠了解新聞，因而取名。 以讀賣新聞為中心的讀賣新聞集團，擁有有以讀賣巨人軍、中央公論社、日本電視台、讀賣電視台、體育報知為首的眾多子公司，事業橫跨報紙、廣播、電視、雜誌等傳媒事業，甚至職業棒球、旅行社等。</rdfs:comment>
+    <rdfs:comment xml:lang="es">El Yomiuri Shimbun (Shinjitai: 読売新聞, Kyūjitai: 讀賣新聞 Yomiuri Shimbun?) es un periódico japonés que consiste en tres sociedades anónimas: Sociedad Anónima Yomiuri Shimbun de Tokio, Sociedad Anónima Yomiuri Shimbun de Osaka y Sociedad Anónima Yomiuri Shimbun del Oeste con oficinas en Fukuoka. Fundado el 2 de noviembre de 1874, en la actualidad cuenta con seis oficinas principales distribuidas por Japón y una red de información con 352 puestos informativos en Japón y 34 en el mundo. Posee 29 imprentas y es considerado el máximo exponente como empresa periodística dentro de Japón.</rdfs:comment>
+    <rdfs:comment xml:lang="en">The Yomiuri Shimbun (読売新聞 Yomiuri Shinbun) is a Japanese newspaper published in Tokyo, Osaka, Fukuoka, and other major Japanese cities. It is part of the , Japan&#39;s largest media conglomerate. It is one of the five national newspapers in Japan; the other four are the Asahi Shimbun, the Mainichi Shimbun, Nihon Keizai Shimbun, and the Sankei Shimbun. The headquarters is in Otemachi, Chiyoda, Tokyo. Yomiuri Shimbun established the Yomiuri Prize in 1948. Its winners have included Yukio Mishima and Haruki Murakami.</rdfs:comment>
+    <rdfs:comment xml:lang="ru">«Ёмиури симбун» (яп. 読売新聞 Ёмиури симбун) — японская газета, издаваемая в Токио, Осаке, Фукуоке и других крупных городах. Она является одной из пяти национальных газет Японии, в число которых также входят «Асахи симбун», «Майнити симбун», «Нихон кэйдзай симбун» и «Санкэй симбун». Поддерживая свои общенациональные сети доставки выпусков на дом читателям, эта пятерка газет монополизирует более 53 % суммарного тиража.</rdfs:comment>
+    <rdfs:comment xml:lang="ja">読売新聞（よみうりしんぶん、新聞の題字及び漢字制限前の表記は讀賣新聞、英語：Yomiuri Shimbun）は、株式会社読売新聞東京本社、株式会社読売新聞大阪本社及び株式会社読売新聞西部本社が発行する世界最多の発行部数を有する新聞である。2015年上半期の販売部数は朝刊が約910万部、夕刊が約295万部（日本ABC協会調べ）で世界最多。 題号は、江戸時代に瓦版を読みながら売っていた「読売」に由来する。</rdfs:comment>
+    <rdfs:comment xml:lang="ar">جريدة يوميوري  (باليابانية: 読売新聞) كبرى الجرائد اليابانية إلى جانب صحيفة أساهي وتعد أكثر الصحف انتشارا في العالم حيث تبيع 10 ملايين نسخة من الطبعة الصباحية و3.7 مليون نسخة من الطبعة المسائية.تأسست سنة 1874 وتصدر طبعتين يوميا كما أن لديها عدة طبعات محلية.</rdfs:comment>
+    <rdfs:comment xml:lang="de">Yomiuri Shimbun (jap. 読売新聞) ist eine japanische Tageszeitung mit Sitz in Tokio. Sie wurde 1874 gegründet und wird in den Metropolregionen Tokio, Osaka und Fukuoka veröffentlicht. Die Zeitung erscheint als Morgenausgabe, mit einer Auflage von derzeit etwa 9,56 Millionen, und als Abendausgabe, mit einer Auflage von etwa 3,21 Millionen Exemplaren (Stand: 1. Halbjahr 2014). Damit gilt sie als die auflagenstärkste Zeitung der Welt. Insgesamt erreicht sie etwa 23,70 Millionen Leser (Stand: 1. Halbjahr 2013). Yomiuri Shimbun ist politisch konservativ ausgerichtet und steht der langjährigen Regierungspartei, der Liberaldemokratischen Partei, nahe.</rdfs:comment>
+    <rdfs:comment xml:lang="pt">O Yomiuri Shimbun (読売新聞 Yomiuri Shinbun) é um jornal japonês publicado em Tóquio, Osaka, Fukuoka, e outras cidades principais. É um dos cinco maiores jornais japoneses. Fundado em 1874, o Yomiuri Shimbun é tido como o jornal com a maior circulação do mundo.</rdfs:comment>
+    <rdfs:comment xml:lang="pl">Yomiuri Shimbun (jap. 読売新聞 Yomiuri Shinbun) – japońska gazeta wydawana w Tokio, Osace, Fukuoce i kilku innych głównych miastach Japonii. Założona w 1874 roku Yomiuri Shimbun, jest obecnie uznawana za gazetę o największym nakładzie na świecie, mającą połączony nakład dzienny oraz wieczorny, wynoszący ponad 13 mln egzemplarzy (stan na rok 2015). Gazeta jest drukowana dwa razy dziennie w odrębnych wydaniach lokalnych. Spółka Yomiuri Shimbun w 1948 roku ufundowała Nagrodę Yomiuri, która jest przyznawana za osiągnięcia na polu tworzenia kultury narodowej.</rdfs:comment>
+    <rdfs:comment xml:lang="it">Lo Yomiuri Shimbun (読売新聞 Yomiuri Shinbun?) è un quotidiano giapponese pubblicato a Tokyo, Osaka, Fukuoka e in altre città del Giappone. Fondato il 2 novembre 1874, è il giornale più diffuso al mondo, la sua tiratura si aggira intorno alle 14 milioni di copie giornaliere. È stampato due volte al giorno e ha molte edizioni locali. Il giornale è anche patrocinatore del premio letterario Yomiuri-bungaku, fondato nel 1948, che ha visto tra i vincitori anche scrittori come Yukio Mishima e Haruki Murakami. È un quotidiano conservatore, da alcuni considerato vicino al centro-destra.</rdfs:comment>
+    <rdfs:comment xml:lang="fr">Yomiuri shinbun (読売新聞), ou Yomiuri shimbun, est un journal japonais de tendance conservatrice, à tendance protectionniste, vendu à plus de 10,1 millions d&#39;exemplaires chaque jour (13,870 millions en moyenne journalière entre juillet et décembre 2007), et touche un lectorat de plus de 26 millions de personnes. C&#39;est ainsi le quotidien le plus vendu de la planète. Le groupe Yomiuri a aussi une équipe de baseball, les Giants de Yomiuri, le parc d&#39;attractions Yomiuri Land, et aussi l&#39;Orchestre symphonique Yomiuri du Japon. Le journal a été fondé en 1874.</rdfs:comment>
+    <owl:sameAs rdf:resource="http://es.dbpedia.org/resource/Yomiuri_Shimbun" />
+    <owl:sameAs rdf:resource="http://pl.dbpedia.org/resource/Yomiuri_Shimbun" />
+    <owl:sameAs rdf:resource="http://pt.dbpedia.org/resource/Yomiuri_Shimbun" />
+    <owl:sameAs rdf:resource="http://it.dbpedia.org/resource/Yomiuri_Shinbun" />
+    <owl:sameAs rdf:resource="http://fr.dbpedia.org/resource/Yomiuri_shinbun" />
+    <owl:sameAs rdf:resource="http://ko.dbpedia.org/resource/요미우리_신문" />
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q645218" />
+    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/Yomiuri_Shimbun" />
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.01m0m7" />
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Yomiuri_Shimbun" />
+    <owl:sameAs rdf:resource="http://yago-knowledge.org/resource/Yomiuri_Shimbun" />
+    <owl:sameAs rdf:resource="http://ja.dbpedia.org/resource/読売新聞" />
+    <owl:sameAs rdf:resource="http://id.dbpedia.org/resource/Yomiuri_Shimbun" />
+    <owl:sameAs rdf:resource="http://d-nb.info/gnd/4268419-5" />
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q645218" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Publications_established_in_1874" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Companies_based_in_Tokyo" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Newspapers_published_in_Japan" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Newspaper_companies_of_Japan" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:English-language_newspapers_published_in_Japan" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Conservatism_in_Japan" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:1874_establishments_in_Japan" />
+    <dbo:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">256591</dbo:wikiPageID>
+    <dbo:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">730163830</dbo:wikiPageRevisionID>
+    <dbo:wikiPageExternalLink rdf:resource="http://www.yomiuri.co.jp/" />
+    <dbo:wikiPageExternalLink rdf:resource="http://community.guinnessworldrecords.com/_Its-Back-The-Original-Guinness-Book-Of-Records-Returns-After-55-Years-Of-Evolution/blog/1339913/7691.html" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.yomiko.co.jp" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.yomiuri.co.jp" />
+    <dbo:wikiPageExternalLink rdf:resource="http://the-japan-news.com/" />
+    <foaf:name xml:lang="en">Yomiuri Shimbun</foaf:name>
+    <foaf:homepage rdf:resource="http://www.yomiuri.co.jp/" />
+    <foaf:depiction rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Yomiuri_Shimbun_first_issue.jpg" />
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Yomiuri_Shimbun" />
+    <dbo:thumbnail rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Yomiuri_Shimbun_first_issue.jpg?width=300" />
+    <prov:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Yomiuri_Shimbun?oldid=730163830" />
+    <dbo:abstract xml:lang="ru">«Ёмиури симбун» (яп. 読売新聞 Ёмиури симбун) — японская газета, издаваемая в Токио, Осаке, Фукуоке и других крупных городах. Она является одной из пяти национальных газет Японии, в число которых также входят «Асахи симбун», «Майнити симбун», «Нихон кэйдзай симбун» и «Санкэй симбун». Поддерживая свои общенациональные сети доставки выпусков на дом читателям, эта пятерка газет монополизирует более 53 % суммарного тиража. «Ёмиури симбун» публикуется дважды в день. Она существует с 1874 года, и к настоящему моменту печатается крупнейшим в мире тиражом, в частности, совокупный тираж утренних и вечерних газет в январе 2002 года составил 14,323,781 экземпляров. «Ёмиури» выпускает крупнейшую в Японии газету на английском языке — The Daily Yomiuri; еженедельное новостное приложение The Yomiuri Weekly и спортивную ежедневную газету «Хоти симбун». Де факто является спонсором бейсбольной команды Yomiuri Giants, ежегодной Японской премии фэнтези и самого престижного титульного матча по сёги — Рюо.</dbo:abstract>
+    <dbo:abstract xml:lang="pl">Yomiuri Shimbun (jap. 読売新聞 Yomiuri Shinbun) – japońska gazeta wydawana w Tokio, Osace, Fukuoce i kilku innych głównych miastach Japonii. Założona w 1874 roku Yomiuri Shimbun, jest obecnie uznawana za gazetę o największym nakładzie na świecie, mającą połączony nakład dzienny oraz wieczorny, wynoszący ponad 13 mln egzemplarzy (stan na rok 2015). Gazeta jest drukowana dwa razy dziennie w odrębnych wydaniach lokalnych. Spółka Yomiuri Shimbun w 1948 roku ufundowała Nagrodę Yomiuri, która jest przyznawana za osiągnięcia na polu tworzenia kultury narodowej.</dbo:abstract>
+    <dbo:abstract xml:lang="en">The Yomiuri Shimbun (読売新聞 Yomiuri Shinbun) is a Japanese newspaper published in Tokyo, Osaka, Fukuoka, and other major Japanese cities. It is part of the , Japan&#39;s largest media conglomerate. It is one of the five national newspapers in Japan; the other four are the Asahi Shimbun, the Mainichi Shimbun, Nihon Keizai Shimbun, and the Sankei Shimbun. The headquarters is in Otemachi, Chiyoda, Tokyo. Founded in 1874, the Yomiuri Shimbun is credited with having the largest newspaper circulation in the world, having a combined morning and evening circulation of 14,323,781 through January 2002. In 2010, the daily was the number one in the list of the world&#39;s biggest selling newspapers with a circulation of 10,021,000. As of mid-year 2011, it still had a combined morning-evening circulation of almost 13.5 million for its national edition. The paper is printed twice a day and in several different local editions. Yomiuri Shimbun established the Yomiuri Prize in 1948. Its winners have included Yukio Mishima and Haruki Murakami.</dbo:abstract>
+    <dbo:abstract xml:lang="fr">Yomiuri shinbun (読売新聞), ou Yomiuri shimbun, est un journal japonais de tendance conservatrice, à tendance protectionniste, vendu à plus de 10,1 millions d&#39;exemplaires chaque jour (13,870 millions en moyenne journalière entre juillet et décembre 2007), et touche un lectorat de plus de 26 millions de personnes. C&#39;est ainsi le quotidien le plus vendu de la planète. Le groupe Yomiuri a aussi une équipe de baseball, les Giants de Yomiuri, le parc d&#39;attractions Yomiuri Land, et aussi l&#39;Orchestre symphonique Yomiuri du Japon. Il est membre de l&#39;Asia News Network et est publié à Tokyo, Ōsaka, Fukuoka et dans d&#39;autres villes importantes. Il est l&#39;un des cinq journaux nationaux du Japon avec le Asahi Shimbun, le Mainichi Shimbun, le Nihon Keizai Shimbun et le Sankei Shimbun. Le journal a été fondé en 1874.</dbo:abstract>
+    <dbo:abstract xml:lang="de">Yomiuri Shimbun (jap. 読売新聞) ist eine japanische Tageszeitung mit Sitz in Tokio. Sie wurde 1874 gegründet und wird in den Metropolregionen Tokio, Osaka und Fukuoka veröffentlicht. Die Zeitung erscheint als Morgenausgabe, mit einer Auflage von derzeit etwa 9,56 Millionen, und als Abendausgabe, mit einer Auflage von etwa 3,21 Millionen Exemplaren (Stand: 1. Halbjahr 2014). Damit gilt sie als die auflagenstärkste Zeitung der Welt. Insgesamt erreicht sie etwa 23,70 Millionen Leser (Stand: 1. Halbjahr 2013). Yomiuri Shimbun ist politisch konservativ ausgerichtet und steht der langjährigen Regierungspartei, der Liberaldemokratischen Partei, nahe. Neben der Washington Post und der Daily Mail kooperiert die Zeitung seit Februar 2011 mit dem FC Bayern München. Seitdem berichtet Yomiuri Shimbun ausführlicher über den deutschen Rekordmeister. Seit 1949 vergibt der Zeitungsverlag jährlich den Yomiuri-Literaturpreis.</dbo:abstract>
+    <dbo:abstract xml:lang="zh">《讀賣新聞》是日本一家全國性報紙，1874年11月2日由子安峻在东京创刊，1924年由正力松太郎接手經營後，透過版面改革，同時收購多家中小型报纸， 以及在二戰後向全國各地開展發行網絡，逐漸從地方性報紙躍升成為全國大報。至2010年，每日發行量已超過1350萬份（包括早報版與晚報版），為世界發行量最大的日報，並被列入金氏世界紀錄，近年則下降至934萬份左右。政治立場屬中間偏右的保守派。 報名「讀賣」指的是江戶時代的新聞出版物「瓦版」的銷售方式，當時瓦版的販售者在街頭上閱讀報導內容以促進銷量，是一般大眾了解時事的主要管道。該報創辦時，希望能提供如同「讀賣」般的親切度，讓一般大眾都能夠了解新聞，因而取名。 以讀賣新聞為中心的讀賣新聞集團，擁有有以讀賣巨人軍、中央公論社、日本電視台、讀賣電視台、體育報知為首的眾多子公司，事業橫跨報紙、廣播、電視、雜誌等傳媒事業，甚至職業棒球、旅行社等。</dbo:abstract>
+    <dbo:abstract xml:lang="ja">読売新聞（よみうりしんぶん、新聞の題字及び漢字制限前の表記は讀賣新聞、英語：Yomiuri Shimbun）は、株式会社読売新聞東京本社、株式会社読売新聞大阪本社及び株式会社読売新聞西部本社が発行する世界最多の発行部数を有する新聞である。2015年上半期の販売部数は朝刊が約910万部、夕刊が約295万部（日本ABC協会調べ）で世界最多。 題号は、江戸時代に瓦版を読みながら売っていた「読売」に由来する。</dbo:abstract>
+    <dbo:abstract xml:lang="pt">O Yomiuri Shimbun (読売新聞 Yomiuri Shinbun) é um jornal japonês publicado em Tóquio, Osaka, Fukuoka, e outras cidades principais. É um dos cinco maiores jornais japoneses. Fundado em 1874, o Yomiuri Shimbun é tido como o jornal com a maior circulação do mundo.</dbo:abstract>
+    <dbo:abstract xml:lang="es">El Yomiuri Shimbun (Shinjitai: 読売新聞, Kyūjitai: 讀賣新聞 Yomiuri Shimbun?) es un periódico japonés que consiste en tres sociedades anónimas: Sociedad Anónima Yomiuri Shimbun de Tokio, Sociedad Anónima Yomiuri Shimbun de Osaka y Sociedad Anónima Yomiuri Shimbun del Oeste con oficinas en Fukuoka. Fundado el 2 de noviembre de 1874, en la actualidad cuenta con seis oficinas principales distribuidas por Japón y una red de información con 352 puestos informativos en Japón y 34 en el mundo. Posee 29 imprentas y es considerado el máximo exponente como empresa periodística dentro de Japón. Con una tirada que supera el millón de ejemplares, es el periódico de mayor distribución del mundo en la actualidad (enero de 2007). Figura en el Libro Guinness de los Récords como el Periódico diario de mayor circulación por una tirada de 14.323.781 ejemplares contabilizando ediciones matutina y vespertina en el 2002. La tirada de la segunda mitad del 2006 fue de 10.030.000 de ejemplares promedio según declaraciones públicas. Se estima que una parte substancial de alrededor de 8 millones de ejemplares son subscripciones. Tiene acuerdos de cooperación con el periódico The Times de Inglaterra y diversos periódicos japoneses de corriente cooperacionista con Estados Unidos. Es considerado un tabloide popular.</dbo:abstract>
+    <dbo:abstract xml:lang="it">Lo Yomiuri Shimbun (読売新聞 Yomiuri Shinbun?) è un quotidiano giapponese pubblicato a Tokyo, Osaka, Fukuoka e in altre città del Giappone. Fondato il 2 novembre 1874, è il giornale più diffuso al mondo, la sua tiratura si aggira intorno alle 14 milioni di copie giornaliere. È stampato due volte al giorno e ha molte edizioni locali. Il giornale è anche patrocinatore del premio letterario Yomiuri-bungaku, fondato nel 1948, che ha visto tra i vincitori anche scrittori come Yukio Mishima e Haruki Murakami. È un quotidiano conservatore, da alcuni considerato vicino al centro-destra. Il giornalista investigativo e scrittore di gialli statunitense Jake Adelstein è stato il primo redattore non giapponese dello Yomiuri Shimbun, nel 1993.</dbo:abstract>
+    <dbo:abstract xml:lang="ar">جريدة يوميوري  (باليابانية: 読売新聞) كبرى الجرائد اليابانية إلى جانب صحيفة أساهي وتعد أكثر الصحف انتشارا في العالم حيث تبيع 10 ملايين نسخة من الطبعة الصباحية و3.7 مليون نسخة من الطبعة المسائية.تأسست سنة 1874 وتصدر طبعتين يوميا كما أن لديها عدة طبعات محلية.</dbo:abstract>
+    <dbo:circulation rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">10021000</dbo:circulation>
+    <dbo:format rdf:resource="http://dbpedia.org/resource/Broadsheet" />
+    <dbo:headquarter rdf:resource="http://dbpedia.org/resource/Otemachi" />
+    <dbo:headquarter rdf:resource="http://dbpedia.org/resource/Tokyo" />
+    <dbo:type rdf:resource="http://dbpedia.org/resource/Daily_newspaper" />
+    <dbp:political rdf:resource="http://dbpedia.org/resource/Conservative" />
+    <dbp:caption rdf:datatype="http://www.w3.org/2001/XMLSchema#gMonthDay">--11-02</dbp:caption>
+    <dbp:foundation rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1874</dbp:foundation>
+    <dbp:logo rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">240</dbp:logo>
+    <dbp:owners rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Yomiuri Group</dbp:owners>
+    <dbp:wordnet_type rdf:resource="http://www.w3.org/2006/03/wn/wn20/instances/synset-newspaper-noun-2" />
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Newspaper" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Atashin&#39;chi">
+    <dbo:magazine rdf:resource="http://dbpedia.org/resource/Yomiuri_Shimbun" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yomiuri_Shinbun">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Yomiuri_Shimbun" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yomiuri_shinbun">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Yomiuri_Shimbun" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yomiuri">
+    <dbo:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/Yomiuri_Shimbun" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kobo,_the_Li&#39;l_Rascal">
+    <dbo:magazine rdf:resource="http://dbpedia.org/resource/Yomiuri_Shimbun" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kisei">
+    <dbp:sponsors rdf:resource="http://dbpedia.org/resource/Yomiuri_Shimbun" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yomiuri_shimbun">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Yomiuri_Shimbun" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2009_Yomiuri_Giants_season">
+    <dbp:owners rdf:resource="http://dbpedia.org/resource/Yomiuri_Shimbun" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yomiuri_Group">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Yomiuri_Shimbun" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Yomiuri_Shimbun">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Yomiuri_Shimbun" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/読売新聞">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Yomiuri_Shimbun" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yomiuri_Online">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Yomiuri_Shimbun" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yomiuri_ShimBun">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Yomiuri_Shimbun" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Japan_News">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Yomiuri_Shimbun" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Yomiuri_Shimbun">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Yomiuri_Shimbun" />
+  </rdf:Description>
+</rdf:RDF>

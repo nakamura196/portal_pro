@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:dct="http://purl.org/dc/terms/"
+	xmlns:dbo="http://dbpedia.org/ontology/"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:prov="http://www.w3.org/ns/prov#"
+	xmlns:dbp="http://dbpedia.org/property/"
+	xmlns:ns8="http://purl.org/linguistics/gold/" >
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Trafalgar_square">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Trafalgar_Square" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/List_of_licensed_and_localized_editions_of_Monopoly:_Europe">
+    <dbp:space rdf:resource="http://dbpedia.org/resource/Trafalgar_Square" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/High_Commission_of_South_Africa,_London">
+    <dbp:location rdf:resource="http://dbpedia.org/resource/Trafalgar_Square" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/London_Buses_route_24">
+    <dbp:via rdf:resource="http://dbpedia.org/resource/Trafalgar_Square" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/London_Buses_route_29">
+    <dbp:end rdf:resource="http://dbpedia.org/resource/Trafalgar_Square" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Charing_Cross">
+    <dbp:northwest rdf:resource="http://dbpedia.org/resource/Trafalgar_Square" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/National_Gallery">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Trafalgar_Square" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Covent_Garden">
+    <dbp:southwest rdf:resource="http://dbpedia.org/resource/Trafalgar_Square" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Canada_House">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Trafalgar_Square" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/London_Buses_route_6">
+    <dbp:via rdf:resource="http://dbpedia.org/resource/Trafalgar_Square" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/London_Buses_route_12">
+    <dbp:via rdf:resource="http://dbpedia.org/resource/Trafalgar_Square" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hahn/Cock">
+    <dbo:museum rdf:resource="http://dbpedia.org/resource/Trafalgar_Square" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/London_Buses_route_88">
+    <dbp:via rdf:resource="http://dbpedia.org/resource/Trafalgar_Square" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Trafalgar">
+    <dbo:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/Trafalgar_Square" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Trafalgar_Square">
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Structure104341686" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Region108630985" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/GeographicalArea108574314" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Location100027167" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/District108552138" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Place" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Location" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatSquaresInTheCityOfWestminster" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatFountainsInTheUnitedKingdom" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Fountain103388043" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Artifact100021939" />
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing" />
+    <rdf:type rdf:resource="http://schema.org/Place" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Infrastructure" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatArtGalleryDistricts" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Road104096066" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Road" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/RouteOfTransportation" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Whole100003553" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoGeoEntity" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoPermanentlyLocatedEntity" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q34442" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PublicSquare108619620" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Memorial103743902" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatMonumentsAndMemorialsInLondon" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Way104564698" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoLegalActorGeo" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatStreetsInLondon" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Object100002684" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PhysicalEntity100001930" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/ArchitecturalStructure" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatSquaresInLondon" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatNationalSquares" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Tract108673395" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Thoroughfare104426618" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Street104334599" />
+    <rdfs:label xml:lang="de">Trafalgar Square</rdfs:label>
+    <rdfs:label xml:lang="ru">Трафальгарская площадь</rdfs:label>
+    <rdfs:label xml:lang="ja">トラファルガー広場</rdfs:label>
+    <rdfs:label xml:lang="zh">特拉法加廣場</rdfs:label>
+    <rdfs:label xml:lang="fr">Trafalgar Square</rdfs:label>
+    <rdfs:label xml:lang="nl">Trafalgar Square</rdfs:label>
+    <rdfs:label xml:lang="en">Trafalgar Square</rdfs:label>
+    <rdfs:label xml:lang="ar">ميدان ترفلغار</rdfs:label>
+    <rdfs:label xml:lang="it">Trafalgar Square</rdfs:label>
+    <rdfs:label xml:lang="pl">Trafalgar Square</rdfs:label>
+    <rdfs:label xml:lang="es">Trafalgar Square</rdfs:label>
+    <rdfs:label xml:lang="pt">Trafalgar Square</rdfs:label>
+    <rdfs:comment xml:lang="pl">Trafalgar Square, Plac Trafalgarski – plac w centralnym Londynie położony w dawnym miejscu stajni królewskich, upamiętniający zwycięstwo brytyjskiej Royal Navy w morskiej bitwie pod Trafalgarem (1805). Do placu dochodzą ulice: od zachodu Pall Mall, od wschodu Duncannon St.Północną ścianę placu zajmuje budynek National Gallery. Od północnego wschodu do placu przylega kościół St. Martin-in-the-Fields. Od strony południowej znajduje się rondo komunikacyjne, na którym zbiegają się ulice Cockspur St., Strand, Northumberland Avenue i Whitehall.</rdfs:comment>
+    <rdfs:comment xml:lang="ru">Трафальга́рская пло́щадь (англ. Trafalgar Square) — площадь в центре Лондона, где на месте Чарингского Креста сходятся три первостепенные улицы Вестминстера — Стрэнд, Уайтхолл и Мэлл. Первоначально носила название площади короля Вильгельма IV, но окончательное название получила в честь победы Англии в 1805 году. Площадь — важная транспортная развязка. На неё также выходит станция метро «Чаринг Кросс» линий Бэйкерлоо и Северной.</rdfs:comment>
+    <rdfs:comment xml:lang="fr">Trafalgar Square est une place très célèbre de Westminster à Londres dont le nom commémore la bataille de Trafalgar qui opposa les flottes franco-espagnoles et britanniques en 1805. Le lieu est bien connu pour être un espace social et de liberté d&#39;expression.</rdfs:comment>
+    <rdfs:comment xml:lang="ja">トラファルガー広場（トラファルガーひろば、Trafalgar Square）は、イギリス・ロンドンのウェストミンスターにある広場である。1805年のトラファルガーの海戦における勝利を記念して造られた。当初は「ウィリアム4世広場」という名前だったが、建築家のGeorge Ledwell Taylorの提案によってトラファルガー広場となった。トラファルガーの名は海戦があったスペインのトラファルガル岬に由来するが、元々はスペインに進出したアラビア人がタアリフ・アルガル（洞窟の岬）とアラビア語で呼んでいた。 この広場は、エドワード1世の時代には王家の厩であった。1820年代、ジョージ4世が建築家のジョン・ナッシュにこの地域の再開発を依頼。現在の形になったのは1845年である。 また、この広場は政治演説をする人が多いことでも有名で、週末には何らかの集会が行われていることが多い。</rdfs:comment>
+    <rdfs:comment xml:lang="es">Trafalgar Square («Plaza de Trafalgar» o «Plaza Trafalgar», en español) es una plaza del centro de Londres (Reino Unido), construida para conmemorar la batalla de Trafalgar (21 de octubre del año 1805), en la que la armada británica venció a las armadas francesa y española frente al cabo de Trafalgar, Los Caños de Meca, localidad del municipio de Vejer de la Frontera (hoy perteneciente a Barbate tras su segregación en 1940), Cádiz, España. El nombre original era plaza de Guillermo IV, pero George Ledwell Taylor sugirió cambiar el nombre.</rdfs:comment>
+    <rdfs:comment xml:lang="de">Der Trafalgar Square ist ein großer Platz in der Mitte Londons, als dessen eigentliches Zentrum er vielen gilt. Der Trafalgar Square ist der größte öffentliche Platz und ist seit dem Mittelalter ein zentraler Treffpunkt. Hier laufen von Westminster kommend die Straße Whitehall, von Buckingham Palace die Straße The Mall, und von St James’s Palace die Pall Mall zusammen. Über die Strand gelangt man zur City of London. In unmittelbar nördlicher Nähe befindet sich der Leicester Square.</rdfs:comment>
+    <rdfs:comment xml:lang="it">Il template {{Coord}} ha riscontrato degli errori (istruzioni): Modulo:Wikidata:398: attempt to index field &#39;wikibase&#39; (a nil value) Trafalgar Square è una piazza di Londra dedicata al ricordo della battaglia di Trafalgar (1805), in cui la Royal Navy di Horatio Nelson sconfisse le flotte combinate di Francia e Spagna, durante le guerre napoleoniche. In origine doveva essere intitolata a Re Guglielmo IV, ma l&#39;architetto George Ledwell Taylor suggerì e ottenne di darle l&#39;attuale nome.</rdfs:comment>
+    <rdfs:comment xml:lang="en">Trafalgar Square (/ˌtrəˈfælɡər/ trə-FAL-gər) is a public square in the City of Westminster, Central London, built around the area formerly known as Charing Cross. Its name commemorates the Battle of Trafalgar, a British naval victory in the Napoleonic Wars with France and Spain that took place on 21 October 1805 off the coast of Cape Trafalgar, Spain.</rdfs:comment>
+    <rdfs:comment xml:lang="pt">Trafalgar Square é uma praça no centro de Londres que celebra a Batalha de Trafalgar (1805), uma vitória da Marinha Real Britânica nas Guerras Napoleónicas. O nome original, na verdade, era para ser &quot;King William the Fourth&#39;s Square&quot;, em homenagem ao rei Guilherme IV, porém George Ledwell Taylor sugeriu o nome Trafalgar Square. A praça tem em seu centro uma coluna encimada pela Coluna de Nelson, em homenagem ao Almirante Nelson, que liderou a Royal Navy na costa de Cádis, Espanha.</rdfs:comment>
+    <rdfs:comment xml:lang="ar">25بك المحتوى هنا ينقصه الاستشهاد بمصادر. يرجى إيراد مصادر موثوق بها. أي معلومات غير موثقة يمكن التشكيك بها وإزالتها. (نوفمبر 2013) ميدان ترافالغار أو طرف الغار[بحاجة لمصدر] أو الطرف الأغر (بالإنجليزية: Trafalgar Square). ساحة تقع في قلب لندن، وتعد من أهم الوجهات السياحية والتاريخية في بريطانيا عامة ولندن خاصة، وكانت تعتبر مركز للتظاهرات والاحتجاجات والاعتصامات والخطب السياسية وما زالت كذلك إلى الآن، وكذلك تعتبر أشهر نقطة تجمع في لندن لإقامة الاحتفالات، كاحتفال رأس السنة.</rdfs:comment>
+    <rdfs:comment xml:lang="zh">特拉法加廣場（英语：Trafalgar Square）是英國大倫敦西敏市的著名广场，也是旅游景点，建于1805年。 广场南端是伦敦传统中心点查令十字，再往南是政府办公区白厅，通向国会大厦，西南是水师提督门，背后是通往白金汉宫的仪仗道林荫路。广场北面是国家美术馆。广场四周还有圣马田教堂，和加拿大，南非和马来西亚等英联邦国的高級專員署（英联邦国家互派的大使级代表处）。过去广场四周有街道环绕。近年北边的街道被封，改为人行道，改善了广场的交通和环境。 广场最突出的标志是南端的納爾遜紀念柱，高53公尺。此碑纪念着拿破仑战争中的海军上将，英国民族英雄霍雷肖·納爾遜。柱顶是将军的銅像。柱底四周是四只巨型銅獅。柱基四周是記念拿破仑战争各次戰役的浮雕。广场中部是两个花形喷水池。广场北端是台阶。广场四角上有四个雕塑基座；国家美术馆前另有两个。这六个基座中有五个现有铜像，包括数位历史名将，君主和美国开国总统华盛顿。西北角的“第四基座”一直空缺着。近年伦敦市政府在此轮流置放一些当代雕塑作品。 特拉法加廣場是當地交通的中心樞紐，查令十字車站即位於其附近，有巴士及五條地鐵綫經此。二百多年來它一直是倫敦乃至全英人民聚集慶祝除夕夜、圣诞节及其他節日，和舉行政治示威的場地。</rdfs:comment>
+    <rdfs:comment xml:lang="nl">Trafalgar Square behoort samen met Piccadilly Circus en Leicester Square tot de bekendste pleinen in Londen. Het is genoemd naar de slag bij Trafalgar van 1805 waarbij Horatio Nelson een Spaans-Franse vloot van Napoleon versloeg. Bij dit zeegevecht kwam Admiraal Nelson om het leven. Hij ligt begraven in St. Paul&#39;s Cathedral. Door de overwinning op Napoleon kon het Verenigd Koninkrijk voor vele jaren zijn heerschappij over de zeeën vestigen.</rdfs:comment>
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Trafalgar_Square_Christmas_tree" />
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Save_the_Trafalgar_Square_Pigeons" />
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q129143" />
+    <owl:sameAs rdf:resource="http://el.dbpedia.org/resource/Πλατεία_Τραφάλγκαρ" />
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.0gsxw" />
+    <owl:sameAs rdf:resource="http://sws.geonames.org/6619832/" />
+    <owl:sameAs rdf:resource="http://es.dbpedia.org/resource/Trafalgar_Square" />
+    <owl:sameAs rdf:resource="http://fr.dbpedia.org/resource/Trafalgar_Square" />
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q129143" />
+    <owl:sameAs rdf:resource="http://nl.dbpedia.org/resource/Trafalgar_Square" />
+    <owl:sameAs rdf:resource="http://id.dbpedia.org/resource/Alun-Alun_Trafalgar" />
+    <owl:sameAs rdf:resource="http://cs.dbpedia.org/resource/Trafalgarské_náměstí" />
+    <owl:sameAs rdf:resource="http://pt.dbpedia.org/resource/Trafalgar_Square" />
+    <owl:sameAs rdf:resource="http://it.dbpedia.org/resource/Trafalgar_Square" />
+    <owl:sameAs rdf:resource="http://yago-knowledge.org/resource/Trafalgar_Square" />
+    <owl:sameAs rdf:resource="http://ko.dbpedia.org/resource/트라팔가_광장" />
+    <owl:sameAs rdf:resource="http://ja.dbpedia.org/resource/トラファルガー広場" />
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Trafalgar_Square" />
+    <owl:sameAs rdf:resource="http://pl.dbpedia.org/resource/Trafalgar_Square" />
+    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/Trafalgar_Square" />
+    <owl:sameAs rdf:resource="http://eu.dbpedia.org/resource/Trafalgar_Square" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Cultural_infrastructure_completed_in_1845" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:A4_road_(England)" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Visitor_attractions_in_London" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Monuments_and_memorials_in_London" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Squares_in_the_City_of_Westminster" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Road_junctions_in_London" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Trafalgar_Square" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Horatio_Nelson" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:London_Monopoly_places" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:1845_establishments_in_England" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Fountains_in_the_United_Kingdom" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Art_gallery_districts" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Visitor_attractions_in_the_City_of_Westminster" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:National_squares" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Works_of_Edwin_Lutyens" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Regency_London" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Battle_of_Trafalgar" />
+    <dbo:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">62107</dbo:wikiPageID>
+    <dbo:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">741413795</dbo:wikiPageRevisionID>
+    <dbo:wikiPageExternalLink rdf:resource="http://web.archive.org/web/20110708013959/http:/www.blitzandblight.com/fourth-plinth" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.blitzandblight.com/fourth-plinth" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.london.gov.uk/trafalgarsquare" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.camvista.com/england/london/trafsq.php3" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.london.gov.uk/trafalgarsquare/" />
+    <foaf:name xml:lang="en">Trafalgar Square</foaf:name>
+    <foaf:homepage rdf:resource="http://www.london.gov.uk/trafalgarsquare" />
+    <foaf:depiction rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Trafalgar_Square,_London_2_-_Jun_2009.jpg" />
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Trafalgar_Square" />
+    <dbo:thumbnail rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Trafalgar_Square,_London_2_-_Jun_2009.jpg?width=300" />
+    <prov:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Trafalgar_Square?oldid=741413795" />
+    <dbo:abstract xml:lang="ja">トラファルガー広場（トラファルガーひろば、Trafalgar Square）は、イギリス・ロンドンのウェストミンスターにある広場である。1805年のトラファルガーの海戦における勝利を記念して造られた。当初は「ウィリアム4世広場」という名前だったが、建築家のGeorge Ledwell Taylorの提案によってトラファルガー広場となった。トラファルガーの名は海戦があったスペインのトラファルガル岬に由来するが、元々はスペインに進出したアラビア人がタアリフ・アルガル（洞窟の岬）とアラビア語で呼んでいた。 この広場は、エドワード1世の時代には王家の厩であった。1820年代、ジョージ4世が建築家のジョン・ナッシュにこの地域の再開発を依頼。現在の形になったのは1845年である。 また、この広場は政治演説をする人が多いことでも有名で、週末には何らかの集会が行われていることが多い。</dbo:abstract>
+    <dbo:abstract xml:lang="nl">Trafalgar Square behoort samen met Piccadilly Circus en Leicester Square tot de bekendste pleinen in Londen. Het is genoemd naar de slag bij Trafalgar van 1805 waarbij Horatio Nelson een Spaans-Franse vloot van Napoleon versloeg. Bij dit zeegevecht kwam Admiraal Nelson om het leven. Hij ligt begraven in St. Paul&#39;s Cathedral. Door de overwinning op Napoleon kon het Verenigd Koninkrijk voor vele jaren zijn heerschappij over de zeeën vestigen. Op het midden van het plein staat Nelson&#39;s Column. Deze zuil is ongeveer 50 meter hoog terwijl het beeld van Nelson zelf maar 5,5 meter hoog is. Onderaan de Column zijn vier bronzen reliëfs bevestigd. Deze beelden vier van Admiraal Nelson&#39;s zeeslagen uit. Nelson&#39;s Column wordt omgeven door vier bronzen leeuwen ontworpen door Edwin Landseer en geplaatst door Marocchetti. De leeuwen werden in 1868 voltooid. Het plein zelf werd al in 1840 voltooid. Ook op het plein, ten noorden van Nelson&#39;s Column, staan twee fonteinen. Zij werden ontworpen door Edwin Lutyens in de periode 1937-1939, ter vervanging van twee oudere fonteinen, die zich inmiddels bevinden in Canada. De fonteinen zijn monumenten ter ere van de admiralen John Jellicoe (west) en David Beatty (oost). Verder bevindt zich er de kerk St. Martin-in-the-Fields en het wereldberoemde museum National Gallery. Naar het zuiden toe verlaat men het plein via Whitehall; in westelijke richting loopt men via The Mall naar Buckingham Palace. Ook een aantal ambassades, waaronder de Zuid-Afrikaanse, liggen aan Trafalgar Square.</dbo:abstract>
+    <dbo:abstract xml:lang="fr">Trafalgar Square est une place très célèbre de Westminster à Londres dont le nom commémore la bataille de Trafalgar qui opposa les flottes franco-espagnoles et britanniques en 1805. Le lieu est bien connu pour être un espace social et de liberté d&#39;expression.</dbo:abstract>
+    <dbo:abstract xml:lang="en">Trafalgar Square (/ˌtrəˈfælɡər/ trə-FAL-gər) is a public square in the City of Westminster, Central London, built around the area formerly known as Charing Cross. Its name commemorates the Battle of Trafalgar, a British naval victory in the Napoleonic Wars with France and Spain that took place on 21 October 1805 off the coast of Cape Trafalgar, Spain. The site of Trafalgar Square had been a significant landmark since the 13th century and originally contained the King&#39;s Mews. After George IV moved the mews to Buckingham Palace, the area was redeveloped by John Nash but progress was slow after his death and the square did not open until 1844. The 169-foot (52 m) Nelson&#39;s Column at its centre is guarded by four lion statues. A number of commemorative statues and sculptures occupy the square but the Fourth Plinth, left empty since 1840, has been host to contemporary art since 1999. The square has been used for community gatherings and political demonstrations including Bloody Sunday, the first Aldermaston March, anti-war protests, and campaigns against climate change. A Christmas tree has been donated to the square by Norway since 1947 and is erected for twelve days before and after Christmas Day. The square is a centre of annual celebrations on New Year&#39;s Eve. It was well known for its feral pigeons until their removal in the early 21st century.</dbo:abstract>
+    <dbo:abstract xml:lang="it">Il template {{Coord}} ha riscontrato degli errori (istruzioni): Modulo:Wikidata:398: attempt to index field &#39;wikibase&#39; (a nil value) Trafalgar Square è una piazza di Londra dedicata al ricordo della battaglia di Trafalgar (1805), in cui la Royal Navy di Horatio Nelson sconfisse le flotte combinate di Francia e Spagna, durante le guerre napoleoniche. In origine doveva essere intitolata a Re Guglielmo IV, ma l&#39;architetto George Ledwell Taylor suggerì e ottenne di darle l&#39;attuale nome. Il sito dove oggi insiste Trafalgar Square era originariamente sede delle stalle reali; dopo che queste furono spostate presso Buckingham Palace, l&#39;area fu interessata da un profondo rinnovamento urbano, a opera dell&#39;architetto John Nash. Trafalgar Square è ornata dall&#39;imponente colonna dell&#39;ammiraglio Nelson e da una serie di statue e sculture commemorative.</dbo:abstract>
+    <dbo:abstract xml:lang="ar">25بك المحتوى هنا ينقصه الاستشهاد بمصادر. يرجى إيراد مصادر موثوق بها. أي معلومات غير موثقة يمكن التشكيك بها وإزالتها. (نوفمبر 2013) ميدان ترافالغار أو طرف الغار[بحاجة لمصدر] أو الطرف الأغر (بالإنجليزية: Trafalgar Square). ساحة تقع في قلب لندن، وتعد من أهم الوجهات السياحية والتاريخية في بريطانيا عامة ولندن خاصة، وكانت تعتبر مركز للتظاهرات والاحتجاجات والاعتصامات والخطب السياسية وما زالت كذلك إلى الآن، وكذلك تعتبر أشهر نقطة تجمع في لندن لإقامة الاحتفالات، كاحتفال رأس السنة.</dbo:abstract>
+    <dbo:abstract xml:lang="zh">特拉法加廣場（英语：Trafalgar Square）是英國大倫敦西敏市的著名广场，也是旅游景点，建于1805年。 广场南端是伦敦传统中心点查令十字，再往南是政府办公区白厅，通向国会大厦，西南是水师提督门，背后是通往白金汉宫的仪仗道林荫路。广场北面是国家美术馆。广场四周还有圣马田教堂，和加拿大，南非和马来西亚等英联邦国的高級專員署（英联邦国家互派的大使级代表处）。过去广场四周有街道环绕。近年北边的街道被封，改为人行道，改善了广场的交通和环境。 广场最突出的标志是南端的納爾遜紀念柱，高53公尺。此碑纪念着拿破仑战争中的海军上将，英国民族英雄霍雷肖·納爾遜。柱顶是将军的銅像。柱底四周是四只巨型銅獅。柱基四周是記念拿破仑战争各次戰役的浮雕。广场中部是两个花形喷水池。广场北端是台阶。广场四角上有四个雕塑基座；国家美术馆前另有两个。这六个基座中有五个现有铜像，包括数位历史名将，君主和美国开国总统华盛顿。西北角的“第四基座”一直空缺着。近年伦敦市政府在此轮流置放一些当代雕塑作品。 特拉法加廣場是當地交通的中心樞紐，查令十字車站即位於其附近，有巴士及五條地鐵綫經此。二百多年來它一直是倫敦乃至全英人民聚集慶祝除夕夜、圣诞节及其他節日，和舉行政治示威的場地。</dbo:abstract>
+    <dbo:abstract xml:lang="pt">Trafalgar Square é uma praça no centro de Londres que celebra a Batalha de Trafalgar (1805), uma vitória da Marinha Real Britânica nas Guerras Napoleónicas. O nome original, na verdade, era para ser &quot;King William the Fourth&#39;s Square&quot;, em homenagem ao rei Guilherme IV, porém George Ledwell Taylor sugeriu o nome Trafalgar Square. A praça tem em seu centro uma coluna encimada pela Coluna de Nelson, em homenagem ao Almirante Nelson, que liderou a Royal Navy na costa de Cádis, Espanha.</dbo:abstract>
+    <dbo:abstract xml:lang="ru">Трафальга́рская пло́щадь (англ. Trafalgar Square) — площадь в центре Лондона, где на месте Чарингского Креста сходятся три первостепенные улицы Вестминстера — Стрэнд, Уайтхолл и Мэлл. Первоначально носила название площади короля Вильгельма IV, но окончательное название получила в честь победы Англии в 1805 году. Площадь — важная транспортная развязка. На неё также выходит станция метро «Чаринг Кросс» линий Бэйкерлоо и Северной.</dbo:abstract>
+    <dbo:abstract xml:lang="es">Trafalgar Square («Plaza de Trafalgar» o «Plaza Trafalgar», en español) es una plaza del centro de Londres (Reino Unido), construida para conmemorar la batalla de Trafalgar (21 de octubre del año 1805), en la que la armada británica venció a las armadas francesa y española frente al cabo de Trafalgar, Los Caños de Meca, localidad del municipio de Vejer de la Frontera (hoy perteneciente a Barbate tras su segregación en 1940), Cádiz, España. El nombre original era plaza de Guillermo IV, pero George Ledwell Taylor sugirió cambiar el nombre. En la zona norte de la plaza se situaron las caballerizas reales desde la época de Eduardo I, mientras que al sur se encontraba la Charing Cross original. Actualmente se considera a Charing Cross como el corazón de Londres y desde ella se miden todas las distancias. En 1820, el rey Jorge IV encargó a John Nash la urbanización de la zona. La arquitectura actual de la plaza se debe a Charles Barry y fue terminada en 1845. La plaza es lugar habitual de manifestaciones políticas y es el lugar sobre el que se alza la columna de Nelson.</dbo:abstract>
+    <dbo:abstract xml:lang="de">Der Trafalgar Square ist ein großer Platz in der Mitte Londons, als dessen eigentliches Zentrum er vielen gilt. Der Trafalgar Square ist der größte öffentliche Platz und ist seit dem Mittelalter ein zentraler Treffpunkt. Hier laufen von Westminster kommend die Straße Whitehall, von Buckingham Palace die Straße The Mall, und von St James’s Palace die Pall Mall zusammen. Über die Strand gelangt man zur City of London. In unmittelbar nördlicher Nähe befindet sich der Leicester Square.</dbo:abstract>
+    <dbo:abstract xml:lang="pl">Trafalgar Square, Plac Trafalgarski – plac w centralnym Londynie położony w dawnym miejscu stajni królewskich, upamiętniający zwycięstwo brytyjskiej Royal Navy w morskiej bitwie pod Trafalgarem (1805). Jego budowę zaczęto w 1829 roku a w 1843 ustawiono na środku 55–metrową kolumnę Nelsona. Plac zdobią także pomniki króla Jerzego IV, gen. Havelocka i gen. Napiera oraz fontanny sir Lutyensa. Na czwartym cokole miał również stanąć pomnik konny, ale zabrakło na niego pieniędzy. Od 1999 do 2001 na cokole co roku umieszczano nowe dzieło. Po kilku latach przerwy w 2005 powrócono do tego pomysłu. W 2007 roku ustawiono tam rzeźbę Marca Quinna zatytułowaną Ciężarna Alison Lapper. Ostatnia to model hotelu, wykonany z kolorowego szkła przez niemieckiego artystę Thomasa Schutte. Kolumny i fontann strzegą cztery ogromne lwy odlane z brązu. Do placu dochodzą ulice: od zachodu Pall Mall, od wschodu Duncannon St.Północną ścianę placu zajmuje budynek National Gallery. Od północnego wschodu do placu przylega kościół St. Martin-in-the-Fields. Od strony południowej znajduje się rondo komunikacyjne, na którym zbiegają się ulice Cockspur St., Strand, Northumberland Avenue i Whitehall. Trafalgar Square to tradycyjne miejsce spotkań i zgromadzeń zarówno politycznych jak i sylwestrowych. 7 lipca 2011 na Trafalgar Square odbyła się światowa premiera filmu Harry Potter i Insygnia Śmierci: Część II.</dbo:abstract>
+    <dbo:formerName xml:lang="en">Charing Cross</dbo:formerName>
+    <dbo:location rdf:resource="http://dbpedia.org/resource/London" />
+    <dbo:location rdf:resource="http://dbpedia.org/resource/England" />
+    <dbo:location rdf:resource="http://dbpedia.org/resource/City_of_Westminster" />
+    <dbo:maintainedBy rdf:resource="http://dbpedia.org/resource/Greater_London_Authority" />
+    <dbo:picture rdf:resource="http://dbpedia.org/resource/Trafalgar_Square,_Barbados" />
+    <dbo:postalCode>WC2</dbo:postalCode>
+    <dbp:alt rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">View of the square in 2009</dbp:alt>
+    <dbp:caption rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">View of the square in 2009</dbp:caption>
+    <dbp:date rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">April 2016</dbp:date>
+    <dbp:designer rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Sir Charles Barry</dbp:designer>
+    <dbp:east rdf:resource="http://dbpedia.org/resource/Strand,_London" />
+    <dbp:imageSize rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">240</dbp:imageSize>
+    <dbp:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">51.5081</dbp:latitude>
+    <dbp:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-0.128056</dbp:longitude>
+    <dbp:mapCaption rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Location within Central London</dbp:mapCaption>
+    <dbp:mapType rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">United Kingdom London Westminster</dbp:mapType>
+    <dbp:namesake rdf:resource="http://dbpedia.org/resource/Battle_of_Trafalgar" />
+    <dbp:north rdf:resource="http://dbpedia.org/resource/Charing_Cross_Road" />
+    <dbp:south rdf:resource="http://dbpedia.org/resource/Whitehall" />
+    <dbp:south rdf:resource="http://dbpedia.org/resource/Northumberland_Avenue" />
+    <dbp:website rdf:resource="http://www.london.gov.uk/trafalgarsquare" />
+    <dbp:west rdf:resource="http://dbpedia.org/resource/The_Mall,_London" />
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Square" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Whitehall">
+    <dbo:routeStart rdf:resource="http://dbpedia.org/resource/Trafalgar_Square" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/London_Buses_route_15">
+    <dbp:end rdf:resource="http://dbpedia.org/resource/Trafalgar_Square" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/London_Buses_route_15_(Heritage)">
+    <dbp:end rdf:resource="http://dbpedia.org/resource/Trafalgar_Square" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Town_square">
+    <dbp:caption rdf:resource="http://dbpedia.org/resource/Trafalgar_Square" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Trafalger_square">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Trafalgar_Square" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Trafaggy">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Trafalgar_Square" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/High_Commission_of_Canada_to_the_United_Kingdom">
+    <dbp:address rdf:resource="http://dbpedia.org/resource/Trafalgar_Square" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/London_Buses_route_9">
+    <dbp:via rdf:resource="http://dbpedia.org/resource/Trafalgar_Square" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/London_Buses_route_9_(Heritage)">
+    <dbp:end rdf:resource="http://dbpedia.org/resource/Trafalgar_Square" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Eid_in_the_Square">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Trafalgar_Square" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Trafalgar_Square_(disambiguation)">
+    <dbo:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/Trafalgar_Square" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Statue_of_James_II,_Trafalgar_Square">
+    <dbo:museum rdf:resource="http://dbpedia.org/resource/Trafalgar_Square" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/London_Buses_route_159">
+    <dbp:via rdf:resource="http://dbpedia.org/resource/Trafalgar_Square" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Equestrian_statue_of_George_IV,_Trafalgar_Square">
+    <dbo:museum rdf:resource="http://dbpedia.org/resource/Trafalgar_Square" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Trafalgar_Square,_London,_England">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Trafalgar_Square" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lie_With_Me_(TV_series)">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Trafalgar_Square" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/List_of_night_buses_in_London">
+    <dbp:via rdf:resource="http://dbpedia.org/resource/Trafalgar_Square" />
+    <dbp:end rdf:resource="http://dbpedia.org/resource/Trafalgar_Square" />
+    <dbp:start rdf:resource="http://dbpedia.org/resource/Trafalgar_Square" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Trafalgar_Square">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Trafalgar_Square" />
+  </rdf:Description>
+</rdf:RDF>

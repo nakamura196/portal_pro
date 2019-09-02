@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:dct="http://purl.org/dc/terms/"
+	xmlns:dbo="http://dbpedia.org/ontology/"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:prov="http://www.w3.org/ns/prov#"
+	xmlns:dbp="http://dbpedia.org/property/"
+	xmlns:ns8="http://purl.org/linguistics/gold/" >
+  <rdf:Description rdf:about="http://dbpedia.org/resource/John_Diamond_(journalist)">
+    <dbp:credits rdf:resource="http://dbpedia.org/resource/Daily_Mirror" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Piers_Morgan">
+    <dbo:employer rdf:resource="http://dbpedia.org/resource/Daily_Mirror" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_New_Day_(newspaper)">
+    <dbo:sisterNewspaper rdf:resource="http://dbpedia.org/resource/Daily_Mirror" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Sunday_Pictorial">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Daily_Mirror" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Winner_Stays_On">
+    <dbp:rev rdf:resource="http://dbpedia.org/resource/Daily_Mirror" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Daily_Mirror">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Daily_Mirror" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Slade_Box">
+    <dbp:rev rdf:resource="http://dbpedia.org/resource/Daily_Mirror" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Daily_Mirror">
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PhysicalEntity100001930" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatEnglish-languageNewspapers" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Press106263369" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Instrumentality103575240" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Magazine106595351" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatPublicationsEstablishedIn1903" />
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Newspaper106267145" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Newspaper" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatNationalNewspapersPublishedInTheUnitedKingdom" />
+    <rdf:type rdf:resource="http://umbel.org/umbel/rc/NewspaperSeries" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatNewspapersPublishedInTheUnitedKingdom" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Publication106589574" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Medium106254669" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q1092563" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Work" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Work104599396" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q11032" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/WrittenWork" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Product104007894" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Creation103129123" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Whole100003553" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Artifact100021939" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatNewspapersPublishedInIreland" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/PeriodicalLiterature" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q386724" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PrintMedia106263609" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Object100002684" />
+    <rdf:type rdf:resource="http://schema.org/CreativeWork" />
+    <rdfs:label xml:lang="en">Daily Mirror</rdfs:label>
+    <rdfs:label xml:lang="fr">The Daily Mirror</rdfs:label>
+    <rdfs:label xml:lang="it">Daily Mirror</rdfs:label>
+    <rdfs:label xml:lang="es">Daily Mirror</rdfs:label>
+    <rdfs:label xml:lang="nl">Daily Mirror</rdfs:label>
+    <rdfs:label xml:lang="zh">每日镜报</rdfs:label>
+    <rdfs:label xml:lang="ar">ديلي ميرور</rdfs:label>
+    <rdfs:label xml:lang="pl">Daily Mirror</rdfs:label>
+    <rdfs:label xml:lang="pt">Daily Mirror</rdfs:label>
+    <rdfs:label xml:lang="de">Daily Mirror</rdfs:label>
+    <rdfs:label xml:lang="ja">デイリー・ミラー</rdfs:label>
+    <rdfs:label xml:lang="ru">The Daily Mirror</rdfs:label>
+    <rdfs:comment xml:lang="fr">The Daily Mirror est un quotidien britannique, classé dans la catégorie tabloïd, lancé en 1903 par Alfred Harmsworth et appartenant aujourd&#39;hui au groupe Trinity Mirror. Il est le premier journal de l&#39;histoire de la presse à être exclusivement illustré par des photographies. En 1915, il lance un supplément dominical qui devient en 1963 le Sunday Mirror.</rdfs:comment>
+    <rdfs:comment xml:lang="en">The Daily Mirror is a British national daily tabloid newspaper founded in 1903. It is owned by parent company Trinity Mirror. From 1985 to 1987, and from 1997 to 2002, the title on its masthead was simply The Mirror. It had an average daily print circulation of 962,670 in March 2014. Its Sunday sister paper is the Sunday Mirror. The paper has consistently supported the Labour Party since the 1945 general election.</rdfs:comment>
+    <rdfs:comment xml:lang="ja">デイリー・ミラー（The Daily Mirror）はイギリスの主要な日刊タブロイド紙。1990年代には一時名称を「The Mirror」としていた。</rdfs:comment>
+    <rdfs:comment xml:lang="ru">The Daily Mirror — британский таблоид, основанный в 1903 году. Тираж газеты по состоянию на июнь 2011 года составляет 1 170 541 экземпляров.</rdfs:comment>
+    <rdfs:comment xml:lang="de">Der Daily Mirror ist eine britische Tageszeitung im Boulevardstil (Yellow Press) mit vielen Reportagefotos. Die Zeitung erscheint im Kleinformat (Tabloid). Hauptsitz ist das Gebäude One Canada Square in London.</rdfs:comment>
+    <rdfs:comment xml:lang="it">Il Daily Mirror, noto informalmente come The Mirror, è un quotidiano britannico di tipo tabloid. È l&#39;unico quotidiano nazionale britannico che sostiene dal 1945 il Partito Laburista. Fu fondato il 2 novembre 1903 da Alfred Harmsworth (poi Lord Northcliffe) come giornale femminile prodotto da donne. Lo scarso successo iniziale indusse il fondatore a trasformare il giornale in periodico illustrato, con la trasformazione del titolo di testa in The Daily Illustrated Mirror ed è stato il primo quotidiano di informazione illustrato. Il nuovo nome fu utilizzato dal 26 gennaio al 27 aprile 1904, quando il giornale tornò alla denominazione originale.</rdfs:comment>
+    <rdfs:comment xml:lang="pt">The Daily Mirror, normalmente conhecido como simplesmente The Mirror, é um tablóide diário britânico. Durante alguns períodos em sua história (de 1985 a 1987 e de 1997 a 2002), The Mirror era o nome usado na capa. O tabloide ganhou notoriedade em novembro de 2004 ao publicar uma edição cuja capa estampava o presidente reeleito dos Estados Unidos George W. Bush, com os dizeres: How can 59,054,087 people be so DUMB? (&quot;Como podem 59.054.087 pessoas serem tão BURRAS?&quot;). É proprietário do jornal escocês Daily Record, desde 1985.</rdfs:comment>
+    <rdfs:comment xml:lang="ar">25بك المحتوى هنا ينقصه الاستشهاد بمصادر. يرجى إيراد مصادر موثوق بها. أي معلومات غير موثقة يمكن التشكيك بها وإزالتها. (مارس 2016) الدايلي ميرور صحيفة بريطانية يومية تغير اسمها خلال فترة التسعينيات إلى &quot;ذا ميرور&quot; ثم أعيد مرة أخرى إلى الدايلي ميرور سنة 2002 م. بدأ إصدار الصحيفة سنة 1903 م على يد ألفريد هارمسورث كصحيفة نسائية لكنها لم تلاق النجاح الكافي فسرعان ما قام بتغيير مضمون الصحيفة وأضاف إليها الصور مما أدى إلى ازدياد شعبيتها.</rdfs:comment>
+    <rdfs:comment xml:lang="es">El Daily Mirror es un periódico sensacionalista británico matutino, que intenta, sobre todo a través de reportajes fotográficos, acercar las noticias a los lectores. Se imprime en formato tabloide. Su director actual es Richard Wallace.</rdfs:comment>
+    <rdfs:comment xml:lang="pl">Daily Mirror – bulwarowy dziennik brytyjski, wydawany od 1903 w Londynie (Alfred Harmsworth). W 1996 przemianowany na „The Mirror”, wkrótce powrócił do starej nazwy. Obecnie wydawany w formie tabloidu, w nakładzie ponad 2 mln egzemplarzy. Jest własnością Trinity Mirror (Robert Maxwell). Utrzymuje centrowo-lewicowy profil polityczny.</rdfs:comment>
+    <rdfs:comment xml:lang="nl">De Daily Mirror is een Brits dagblad op tabloidformaat. De krant is in handen van de Trinity Mirror en werd in 1903 opgericht.</rdfs:comment>
+    <rdfs:comment xml:lang="zh">《每日镜报》（英文：Daily Mirror）是英国一家创立于1903年的小型报。现为三一镜报集团旗下。在该报历史上曾有两次改名为《镜报》，此名称也是英国对该报的流行称法。2011年4月，《每日镜报》日发行量为1172785份。其姐妹报纸为《星期日镜报》。</rdfs:comment>
+    <owl:sameAs rdf:resource="http://es.dbpedia.org/resource/Daily_Mirror" />
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.01j78g" />
+    <owl:sameAs rdf:resource="http://yago-knowledge.org/resource/Daily_Mirror" />
+    <owl:sameAs rdf:resource="http://ja.dbpedia.org/resource/デイリー・ミラー" />
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Daily_Mirror" />
+    <owl:sameAs rdf:resource="http://pt.dbpedia.org/resource/Daily_Mirror" />
+    <owl:sameAs rdf:resource="http://pl.dbpedia.org/resource/Daily_Mirror" />
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q217623" />
+    <owl:sameAs rdf:resource="http://it.dbpedia.org/resource/Daily_Mirror" />
+    <owl:sameAs rdf:resource="http://yago-knowledge.org/resource/Irish_Daily_Mirror" />
+    <owl:sameAs rdf:resource="http://id.dbpedia.org/resource/Daily_Mirror" />
+    <owl:sameAs rdf:resource="http://fr.dbpedia.org/resource/The_Daily_Mirror" />
+    <owl:sameAs rdf:resource="http://nl.dbpedia.org/resource/Daily_Mirror" />
+    <owl:sameAs rdf:resource="http://cs.dbpedia.org/resource/Daily_Mirror" />
+    <owl:sameAs rdf:resource="http://ko.dbpedia.org/resource/데일리_미러" />
+    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/Daily_Mirror" />
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q217623" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Daily_newspapers_published_in_the_United_Kingdom" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Trinity_Mirror" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:National_newspapers_published_in_the_United_Kingdom" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Publications_established_in_1903" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Newspapers_published_in_London" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:1903_establishments_in_the_United_Kingdom" />
+    <dbo:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">235688</dbo:wikiPageID>
+    <dbo:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">739634649</dbo:wikiPageRevisionID>
+    <dbo:wikiPageExternalLink rdf:resource="https://web.archive.org/web/20041125053916/http:/www.cnn.com/2004/WORLD/meast/05/13/iraq.abuse.statement/index.html" />
+    <dbo:wikiPageExternalLink rdf:resource="https://web.archive.org/web/20041012123314/http:/www.cnn.com/2004/WORLD/meast/05/14/iraq.abuse.uk/" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.cnn.com/2004/WORLD/meast/05/13/iraq.abuse.statement/index.html" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.cnn.com/2004/WORLD/meast/05/14/iraq.abuse.uk/" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.mirror.co.uk" />
+    <foaf:name xml:lang="en">Daily Mirror</foaf:name>
+    <foaf:homepage rdf:resource="http://www.mirror.co.uk" />
+    <foaf:depiction rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Alfred_Harmsworth,_1st_Viscount_Northcliffe_-_Project_Gutenberg_eText_15305.jpg" />
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Daily_Mirror" />
+    <dbo:thumbnail rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Alfred_Harmsworth,_1st_Viscount_Northcliffe_-_Project_Gutenberg_eText_15305.jpg?width=300" />
+    <prov:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Daily_Mirror?oldid=739634649" />
+    <dbo:abstract xml:lang="ja">デイリー・ミラー（The Daily Mirror）はイギリスの主要な日刊タブロイド紙。1990年代には一時名称を「The Mirror」としていた。</dbo:abstract>
+    <dbo:abstract xml:lang="it">Il Daily Mirror, noto informalmente come The Mirror, è un quotidiano britannico di tipo tabloid. È l&#39;unico quotidiano nazionale britannico che sostiene dal 1945 il Partito Laburista. Fu fondato il 2 novembre 1903 da Alfred Harmsworth (poi Lord Northcliffe) come giornale femminile prodotto da donne. Lo scarso successo iniziale indusse il fondatore a trasformare il giornale in periodico illustrato, con la trasformazione del titolo di testa in The Daily Illustrated Mirror ed è stato il primo quotidiano di informazione illustrato. Il nuovo nome fu utilizzato dal 26 gennaio al 27 aprile 1904, quando il giornale tornò alla denominazione originale. Ha un&#39;edizione domenicale chiamata The Sunday Mirror, pubblicata dal 1915.</dbo:abstract>
+    <dbo:abstract xml:lang="es">El Daily Mirror es un periódico sensacionalista británico matutino, que intenta, sobre todo a través de reportajes fotográficos, acercar las noticias a los lectores. Se imprime en formato tabloide. Su director actual es Richard Wallace.</dbo:abstract>
+    <dbo:abstract xml:lang="en">The Daily Mirror is a British national daily tabloid newspaper founded in 1903. It is owned by parent company Trinity Mirror. From 1985 to 1987, and from 1997 to 2002, the title on its masthead was simply The Mirror. It had an average daily print circulation of 962,670 in March 2014. Its Sunday sister paper is the Sunday Mirror. Originally pitched to the middle class reader, it was transformed into a working-class newspaper after 1934, in order to reach a large, lowbrow audience. The Mirror has had a number of owners. It was founded by Alfred Harmsworth, who sold it to his brother Harold Harmsworth (from 1914 Lord Rothermere) in 1913. In 1963 a restructuring of the media interests of the Harmsworth family led to the Mirror becoming a part of International Publishing Corporation. The Mirror was owned by Robert Maxwell between 1984 and 1991. The paper went through a protracted period of crisis after his death before merging with the regional newspaper group Trinity in 1999 to form Trinity Mirror. The paper has consistently supported the Labour Party since the 1945 general election.</dbo:abstract>
+    <dbo:abstract xml:lang="ar">25بك المحتوى هنا ينقصه الاستشهاد بمصادر. يرجى إيراد مصادر موثوق بها. أي معلومات غير موثقة يمكن التشكيك بها وإزالتها. (مارس 2016) الدايلي ميرور صحيفة بريطانية يومية تغير اسمها خلال فترة التسعينيات إلى &quot;ذا ميرور&quot; ثم أعيد مرة أخرى إلى الدايلي ميرور سنة 2002 م. بدأ إصدار الصحيفة سنة 1903 م على يد ألفريد هارمسورث كصحيفة نسائية لكنها لم تلاق النجاح الكافي فسرعان ما قام بتغيير مضمون الصحيفة وأضاف إليها الصور مما أدى إلى ازدياد شعبيتها. انتقلت ملكية الصحيفة بعد ذلك إلى هارولد هارمسورث أخي الفريد هارمسورث ثم اشتراها روبرت ماكسويل في 1984 م. حاليا تملكها شركة ترينيتي ميرور. في سنة 1978 م أعلنت الصحيفة تأييدها لأنسحاب بريطانيا من إيرلندا 
+* 32xبوابة المملكة المتحدة 
+* 32xبوابة اشتراكية 
+* 32xبوابة إعلاممشاريع شقيقة في كومنز صور وملفات عن: ديلي ميرور25بك هذه بذرة مقالة عن الصحافة بحاجة للتوسيع. شارك في تحريرها.</dbo:abstract>
+    <dbo:abstract xml:lang="pl">Daily Mirror – bulwarowy dziennik brytyjski, wydawany od 1903 w Londynie (Alfred Harmsworth). W 1996 przemianowany na „The Mirror”, wkrótce powrócił do starej nazwy. Obecnie wydawany w formie tabloidu, w nakładzie ponad 2 mln egzemplarzy. Jest własnością Trinity Mirror (Robert Maxwell). Utrzymuje centrowo-lewicowy profil polityczny.</dbo:abstract>
+    <dbo:abstract xml:lang="ru">The Daily Mirror — британский таблоид, основанный в 1903 году. Тираж газеты по состоянию на июнь 2011 года составляет 1 170 541 экземпляров.</dbo:abstract>
+    <dbo:abstract xml:lang="zh">《每日镜报》（英文：Daily Mirror）是英国一家创立于1903年的小型报。现为三一镜报集团旗下。在该报历史上曾有两次改名为《镜报》，此名称也是英国对该报的流行称法。2011年4月，《每日镜报》日发行量为1172785份。其姐妹报纸为《星期日镜报》。</dbo:abstract>
+    <dbo:abstract xml:lang="de">Der Daily Mirror ist eine britische Tageszeitung im Boulevardstil (Yellow Press) mit vielen Reportagefotos. Die Zeitung erscheint im Kleinformat (Tabloid). Hauptsitz ist das Gebäude One Canada Square in London.</dbo:abstract>
+    <dbo:abstract xml:lang="fr">The Daily Mirror est un quotidien britannique, classé dans la catégorie tabloïd, lancé en 1903 par Alfred Harmsworth et appartenant aujourd&#39;hui au groupe Trinity Mirror. Il est le premier journal de l&#39;histoire de la presse à être exclusivement illustré par des photographies. En 1915, il lance un supplément dominical qui devient en 1963 le Sunday Mirror.</dbo:abstract>
+    <dbo:abstract xml:lang="nl">De Daily Mirror is een Brits dagblad op tabloidformaat. De krant is in handen van de Trinity Mirror en werd in 1903 opgericht.</dbo:abstract>
+    <dbo:abstract xml:lang="pt">The Daily Mirror, normalmente conhecido como simplesmente The Mirror, é um tablóide diário britânico. Durante alguns períodos em sua história (de 1985 a 1987 e de 1997 a 2002), The Mirror era o nome usado na capa. O tabloide ganhou notoriedade em novembro de 2004 ao publicar uma edição cuja capa estampava o presidente reeleito dos Estados Unidos George W. Bush, com os dizeres: How can 59,054,087 people be so DUMB? (&quot;Como podem 59.054.087 pessoas serem tão BURRAS?&quot;). É proprietário do jornal escocês Daily Record, desde 1985.</dbo:abstract>
+    <dbo:circulation rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">897786</dbo:circulation>
+    <dbo:editor rdf:resource="http://dbpedia.org/resource/Lloyd_Embley" />
+    <dbo:format rdf:resource="http://dbpedia.org/resource/Tabloid_(newspaper_format)" />
+    <dbo:headquarter rdf:resource="http://dbpedia.org/resource/One_Canada_Square" />
+    <dbo:owner rdf:resource="http://dbpedia.org/resource/Trinity_Mirror" />
+    <dbp:circulationDate rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">March 2015</dbp:circulationDate>
+    <dbp:oclc rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">223228477</dbp:oclc>
+    <dbp:political rdf:resource="http://dbpedia.org/resource/Labour_Party_(UK)" />
+    <dbp:type rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Daily newspaper</dbp:type>
+    <dbp:wordnet_type rdf:resource="http://www.w3.org/2006/03/wn/wn20/instances/synset-newspaper-noun-2" />
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Newspaper" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mirror_(disambiguation)">
+    <dbo:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/Daily_Mirror" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Frank_Taylor_(journalist)">
+    <dbp:workplaces rdf:resource="http://dbpedia.org/resource/Daily_Mirror" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Christopher_Ward_(journalist)">
+    <dbo:employer rdf:resource="http://dbpedia.org/resource/Daily_Mirror" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Humasyouhitch/Sonofabitch">
+    <dbp:rev rdf:resource="http://dbpedia.org/resource/Daily_Mirror" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Singles_Collection_(The_Coral_album)">
+    <dbp:rev rdf:resource="http://dbpedia.org/resource/Daily_Mirror" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Richard_Hammond">
+    <dbo:employer rdf:resource="http://dbpedia.org/resource/Daily_Mirror" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Daily_Mirror_(disambiguation)">
+    <dbo:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/Daily_Mirror" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mirror_(UK)">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Daily_Mirror" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Varieté_(album)">
+    <dbp:rev rdf:resource="http://dbpedia.org/resource/Daily_Mirror" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Angu_Mashoko">
+    <dbp:rev rdf:resource="http://dbpedia.org/resource/Daily_Mirror" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/London_Daily_Mirror">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Daily_Mirror" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Legend_of_Yeti_Gonzales">
+    <dbp:rev rdf:resource="http://dbpedia.org/resource/Daily_Mirror" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/We_Dance_On">
+    <dbp:rev rdf:resource="http://dbpedia.org/resource/Daily_Mirror" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Celeb_on_Sunday">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Daily_Mirror" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/We_Love_Telly">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Daily_Mirror" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Scurra">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Daily_Mirror" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mirror.co.uk">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Daily_Mirror" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Irish_Daily_Mirror">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Daily_Mirror" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mr_2Kay">
+    <dbp:rev rdf:resource="http://dbpedia.org/resource/Daily_Mirror" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Monday_Mania">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Daily_Mirror" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mirror_Online">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Daily_Mirror" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/1978_Champion_of_Champions">
+    <dbp:tournamentName rdf:resource="http://dbpedia.org/resource/Daily_Mirror" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Mirror_(United_Kingdom)">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Daily_Mirror" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Daily_Mirror">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Daily_Mirror" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Irish_Mirror">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Daily_Mirror" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Daily_mirror">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Daily_Mirror" />
+  </rdf:Description>
+</rdf:RDF>

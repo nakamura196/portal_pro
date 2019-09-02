@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:dct="http://purl.org/dc/terms/"
+	xmlns:dbo="http://dbpedia.org/ontology/"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:prov="http://www.w3.org/ns/prov#" >
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ike_(Fire_Emblem)">
+    <rdfs:label xml:lang="en">Ike (Fire Emblem)</rdfs:label>
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Ike_(Fire_Emblem)" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Super_Smash_Bros._fighters" />
+    <dbo:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3090357</dbo:wikiPageID>
+    <dbo:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">433304676</dbo:wikiPageRevisionID>
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/List_of_Fire_Emblem:_Path_of_Radiance_characters" />
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Ike_(Fire_Emblem)" />
+    <prov:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Ike_(Fire_Emblem)?oldid=433304676" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Ike_(Fire_Emblem)">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Ike_(Fire_Emblem)" />
+  </rdf:Description>
+</rdf:RDF>

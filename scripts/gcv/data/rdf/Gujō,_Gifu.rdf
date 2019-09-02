@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:dbo="http://dbpedia.org/ontology/"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:prov="http://www.w3.org/ns/prov#" >
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tōkai-Hokuriku_Expressway">
+    <dbo:city rdf:resource="http://dbpedia.org/resource/Gujō,_Gifu" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mount_Bessan">
+    <dbo:locatedInArea rdf:resource="http://dbpedia.org/resource/Gujō,_Gifu" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mount_Sannomine">
+    <dbo:locatedInArea rdf:resource="http://dbpedia.org/resource/Gujō,_Gifu" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gujō_Hachiman_Castle">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Gujō,_Gifu" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mount_Dainichi">
+    <dbo:locatedInArea rdf:resource="http://dbpedia.org/resource/Gujō,_Gifu" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Takasu_Snow_Park">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Gujō,_Gifu" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gujō,_Gifu">
+    <rdfs:label xml:lang="en">Gujō, Gifu</rdfs:label>
+    <owl:sameAs rdf:resource="http://sws.geonames.org/7419031/" />
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Gujō,_Gifu" />
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Gujō,_Gifu" />
+    <dbo:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">47676708</dbo:wikiPageID>
+    <dbo:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">678711342</dbo:wikiPageRevisionID>
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Gujō" />
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Gujō,_Gifu" />
+    <prov:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Gujō,_Gifu?oldid=678711342" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Gujō,_Gifu">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Gujō,_Gifu" />
+  </rdf:Description>
+</rdf:RDF>

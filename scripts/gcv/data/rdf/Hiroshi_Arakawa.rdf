@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:dbo="http://dbpedia.org/ontology/"
+	xmlns:dct="http://purl.org/dc/terms/"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:prov="http://www.w3.org/ns/prov#" >
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hiroshi_Arakawa">
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Person" />
+    <rdfs:label xml:lang="ja">荒川博</rdfs:label>
+    <rdfs:label xml:lang="en">Hiroshi Arakawa</rdfs:label>
+    <rdfs:label xml:lang="zh">荒川博</rdfs:label>
+    <rdfs:comment xml:lang="en">Arakawa (born August 6, 1930 in Tokyo) is a former professional baseball player in Japan. He played for the Mainichi Orions and the Daimai Orions in the Japan Pacific League .</rdfs:comment>
+    <rdfs:comment xml:lang="zh">荒川博（1930年8月6日－），日本職棒知名職棒選手、教練、球評，最為華人所熟知的是擔任讀賣巨人隊教練期間，指導世界全壘打王王貞治「稻草人打法」，使其全壘打產量快速增長。</rdfs:comment>
+    <rdfs:comment xml:lang="ja">荒川 博（あらかわ ひろし、1930年8月6日 - ）は、東京都台東区出身の元プロ野球選手（外野手）・コーチ・監督、解説者。 一時期、「博久（ひろひさ）」に改名。</rdfs:comment>
+    <owl:sameAs rdf:resource="http://ja.dbpedia.org/resource/荒川博" />
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q9332727" />
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q9332727" />
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Hiroshi_Arakawa" />
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Taitō" />
+    <dbo:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1930-8-6</dbo:birthDate>
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Living_people" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:1930_births" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Sportspeople_from_Tokyo" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Japanese_baseball_players" />
+    <dbo:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">51133656</dbo:wikiPageID>
+    <dbo:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">744736790</dbo:wikiPageRevisionID>
+    <foaf:name xml:lang="en">Hiroshi Arakawa</foaf:name>
+    <dct:description xml:lang="en">Japanese baseball player</dct:description>
+    <foaf:givenName xml:lang="en">Hiroshi</foaf:givenName>
+    <foaf:gender xml:lang="en">male</foaf:gender>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Hiroshi_Arakawa" />
+    <foaf:surname xml:lang="en">Arakawa</foaf:surname>
+    <prov:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Hiroshi_Arakawa?oldid=744736790" />
+    <dbo:abstract xml:lang="ja">荒川 博（あらかわ ひろし、1930年8月6日 - ）は、東京都台東区出身の元プロ野球選手（外野手）・コーチ・監督、解説者。 一時期、「博久（ひろひさ）」に改名。</dbo:abstract>
+    <dbo:abstract xml:lang="zh">荒川博（1930年8月6日－），日本職棒知名職棒選手、教練、球評，最為華人所熟知的是擔任讀賣巨人隊教練期間，指導世界全壘打王王貞治「稻草人打法」，使其全壘打產量快速增長。</dbo:abstract>
+    <dbo:abstract xml:lang="en">Arakawa (born August 6, 1930 in Tokyo) is a former professional baseball player in Japan. He played for the Mainichi Orions and the Daimai Orions in the Japan Pacific League .</dbo:abstract>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Hiroshi_Arakawa">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Hiroshi_Arakawa" />
+  </rdf:Description>
+</rdf:RDF>

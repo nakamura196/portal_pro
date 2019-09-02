@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:dbo="http://dbpedia.org/ontology/"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:prov="http://www.w3.org/ns/prov#"
+	xmlns:dbp="http://dbpedia.org/property/" >
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Seihin_Ikeda">
+    <dbp:after rdf:resource="http://dbpedia.org/resource/Toyotaro_Yuki" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Toyotaro_Yuki">
+    <rdfs:label xml:lang="en">Toyotaro Yuki</rdfs:label>
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Toyotaro_Yuki" />
+    <dbo:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">31575760</dbo:wikiPageID>
+    <dbo:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">452020170</dbo:wikiPageRevisionID>
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Toyotarō_Yūki" />
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Toyotaro_Yuki" />
+    <prov:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Toyotaro_Yuki?oldid=452020170" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Toyotaro_Yuki">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Toyotaro_Yuki" />
+  </rdf:Description>
+</rdf:RDF>

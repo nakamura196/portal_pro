@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:dct="http://purl.org/dc/terms/"
+	xmlns:dbo="http://dbpedia.org/ontology/"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:prov="http://www.w3.org/ns/prov#"
+	xmlns:dbp="http://dbpedia.org/property/"
+	xmlns:ns8="http://purl.org/linguistics/gold/" >
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Civ_Pro">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Civil_procedure" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Civ_pro">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Civil_procedure" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Code_of_civil_procedure">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Civil_procedure" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Civil_procedure">
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Organisation" />
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing" />
+    <rdfs:label xml:lang="en">Civil procedure</rdfs:label>
+    <rdfs:label xml:lang="nl">Burgerlijk procesrecht</rdfs:label>
+    <rdfs:label xml:lang="pt">Direito processual civil</rdfs:label>
+    <rdfs:label xml:lang="zh">民事訴訟法</rdfs:label>
+    <rdfs:label xml:lang="fr">Procédure civile</rdfs:label>
+    <rdfs:label xml:lang="es">Derecho procesal civil</rdfs:label>
+    <rdfs:label xml:lang="de">Zivilprozessrecht</rdfs:label>
+    <rdfs:label xml:lang="ja">民事訴訟法</rdfs:label>
+    <rdfs:label xml:lang="ru">Гражданское процессуальное право</rdfs:label>
+    <rdfs:label xml:lang="it">Processo civile</rdfs:label>
+    <rdfs:comment xml:lang="es">El Derecho procesal civil y comercial es una rama del Derecho procesal que regula la actuación ante los Tribunales para obtener la tutela de los derechos en asuntos de naturaleza civil o mercantil.</rdfs:comment>
+    <rdfs:comment xml:lang="ru">Гражда́нское процессуа́льное пра́во — отрасль права, включающая совокупность правовых норм, регулирующих общественные отношения, возникающие между судом и иными участниками судебного производства в ходе осуществления правосудия по гражданским делам, а также исполнения судебных постановлений, которое является одним из этапов судопроизводства. Гражданским процессуальным правом именуются также юридическая наука и учебная дисциплина, предметом которых являются правовые нормы, регулирующие отношения в сфере правосудия по гражданским делам.</rdfs:comment>
+    <rdfs:comment xml:lang="de">Das Zivilprozessrecht oder Zivilverfahrensrecht bezeichnet als Rechtsgebiet alle gesetzlichen Bestimmungen, die den formalen Ablauf von Zivilverfahren (Zivilprozessen), also Gerichtsverfahren im Bereich des Zivilrechts regeln – in Abgrenzung zu Strafprozessen und Verfahren in anderen Rechtsgebieten. Diese Trennung besteht in den meisten modernen Staaten.</rdfs:comment>
+    <rdfs:comment xml:lang="nl">Het burgerlijk procesrecht (in België gerechtelijk recht genoemd) is het geheel van rechtsregels die het verloop van een procedure voor de burgerlijke rechter regelen. Klik hieronder voor het artikel over het burgerlijk procesrecht van een bepaald land: 
+*  Burgerlijk procesrecht (België) 
+*  Burgerlijk procesrecht (Nederland)</rdfs:comment>
+    <rdfs:comment xml:lang="it">Il processo civile è uno strumento giuridico atto a dirimere controversie aventi ad oggetto il diritto privato. Si basa sui principi del diritto processuale civile contenuti per gran parte nel codice di procedura civile.</rdfs:comment>
+    <rdfs:comment xml:lang="zh">民事訴訟法（Civil procedure）乃是以民事實體法上權利實現及救濟為目的所制定的法律。民事訴訟如同刑事訴訟、行政訴訟一樣，都是透過國家所設立的法院來進行的訴訟程序，僅是依其所針對事務的不同，而將其劃歸為此三大類。刑事訴訟重在國家刑罰權的實現，藉由刑事訴訟對於犯罪行為進行追訴並加以處罰；行政訴訟則重在救濟國家行政機關行使公權力時所產生的錯誤。而所謂的「民事訴訟」乃指民事法院依當事人之請求，就民事紛爭事件利用國家公權力強制解決之程序。而須注意的是，民事訴訟法中規範的對象主要是針對民事訴訟的開始（起訴）、進行（審理）、終結（判決）之部分，另外就保全程序的部分亦是在民事訴訟法中加以規定，而就訴訟終結後的執行問題則是屬於強制執行法的問題。</rdfs:comment>
+    <rdfs:comment xml:lang="fr">La procédure civile est l&#39;ensemble des règles relatives à l&#39;organisation d&#39;une action en justice devant une juridiction civile. Elle s&#39;entend aussi de toutes les démarches à entreprendre pour saisir une juridiction civile. La procédure civile peut être régie par un Code de procédure civile.</rdfs:comment>
+    <rdfs:comment xml:lang="ja">民事訴訟法（みんじそしょうほう） 1.  
+*  民事訴訟に関する手続について定めた法令や裁判所の規則などの法体系。「民事訴訟法」という名の法令を有する国もあれば（日本、イギリスなど）、それ以外の名の付く法令を有する国もある。後者の例として、アメリカ合衆国では連邦民事訴訟規則（Federal Rules of Civil Procedure）という裁判所規則が連邦裁判所における民事訴訟に関する手続を定めた一般法であり、各州の裁判所における民事訴訟に関する手続を定めた法令の手本ともなっている。欧州連合（EU）におけるブラッセル条約（das Gerichtsstands- und Vollstreckungsübereinkommen der Europäischen Gemeinschaft (EuGVÜ)）およびルガノ条約（Lugano-Übereinkommen）は国際裁判籍や執行に関する条約である。 2.  
+*  日本の法律。狭義には「民事訴訟法」という題名の法律（民事訴訟法典）を指し、これは形式的意義の民事訴訟法といわれる。広義には民事訴訟法典に民事執行法、民事保全法、仲裁法、非訟事件手続法などの関連法令を含めた法体系全般を指し、これは実質的意義の民事訴訟法といわれる。 本項では2を詳述する。</rdfs:comment>
+    <rdfs:comment xml:lang="en">Civil procedure is the body of law that sets out the rules and standards that courts follow when adjudicating civil lawsuits (as opposed to procedures in criminal law matters). These rules govern how a lawsuit or case may be commenced, what kind of service of process (if any) is required, the types of pleadings or statements of case, motions or applications, and orders allowed in civil cases, the timing and manner of depositions and discovery or disclosure, the conduct of trials, the process for judgment, various available remedies, and how the courts and clerks must function.</rdfs:comment>
+    <rdfs:comment xml:lang="pt">O Direito processual civil é o conjunto de princípios e normas jurídicas que regem a solução de conflitos de interesses por meio do exercício da jurisdição, função de soberania de um Estado, por isso se diz que é um ramo do Direito Público. O processo civil tem um caráter instrumental, e busca a efetividade das leis materiais. Jurisdição é a atuação estatal de dizer o direito, isto é, de fazer valer no caso concreto o respeito às leis de forma definitiva e coativa.</rdfs:comment>
+    <owl:sameAs rdf:resource="http://pt.dbpedia.org/resource/Direito_processual_civil" />
+    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/Zivilprozessrecht" />
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q206937" />
+    <owl:sameAs rdf:resource="http://nl.dbpedia.org/resource/Burgerlijk_procesrecht" />
+    <owl:sameAs rdf:resource="http://fr.dbpedia.org/resource/Procédure_civile" />
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Civil_procedure" />
+    <owl:sameAs rdf:resource="http://it.dbpedia.org/resource/Processo_civile" />
+    <owl:sameAs rdf:resource="http://cs.dbpedia.org/resource/Občanské_právo_procesní" />
+    <owl:sameAs rdf:resource="http://ko.dbpedia.org/resource/민사소송법" />
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.0k4k4" />
+    <owl:sameAs rdf:resource="http://es.dbpedia.org/resource/Derecho_procesal_civil" />
+    <owl:sameAs rdf:resource="http://el.dbpedia.org/resource/Πολιτική_Δικονομία" />
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q206937" />
+    <owl:sameAs rdf:resource="http://ja.dbpedia.org/resource/民事訴訟法" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Civil_procedure" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Legal_procedure" />
+    <dbo:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">76381</dbo:wikiPageID>
+    <dbo:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">740343668</dbo:wikiPageRevisionID>
+    <dbo:wikiPageExternalLink rdf:resource="http://www.dca.gov.uk/civil/procrules_fin/" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.law.cornell.edu/rules/frcp/" />
+    <dbo:wikiPageExternalLink rdf:resource="http://highconstable.com/resources/ri/district_court_rules/" />
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Civil_procedure" />
+    <prov:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Civil_procedure?oldid=740343668" />
+    <dbo:abstract xml:lang="nl">Het burgerlijk procesrecht (in België gerechtelijk recht genoemd) is het geheel van rechtsregels die het verloop van een procedure voor de burgerlijke rechter regelen. Klik hieronder voor het artikel over het burgerlijk procesrecht van een bepaald land: 
+*  Burgerlijk procesrecht (België) 
+*  Burgerlijk procesrecht (Nederland)</dbo:abstract>
+    <dbo:abstract xml:lang="fr">La procédure civile est l&#39;ensemble des règles relatives à l&#39;organisation d&#39;une action en justice devant une juridiction civile. Elle s&#39;entend aussi de toutes les démarches à entreprendre pour saisir une juridiction civile. La procédure civile peut être régie par un Code de procédure civile.</dbo:abstract>
+    <dbo:abstract xml:lang="pt">O Direito processual civil é o conjunto de princípios e normas jurídicas que regem a solução de conflitos de interesses por meio do exercício da jurisdição, função de soberania de um Estado, por isso se diz que é um ramo do Direito Público. O processo civil tem um caráter instrumental, e busca a efetividade das leis materiais. Também pode-se dizer que o processo civil designa o meio legal de acesso aos tribunais comuns pelas partes, num determinado litígio de ordem privada. O processo civil é orientado pelo conjunto de princípios e regras do direito processual civil, regulando a tramitação do acesso a jurisdição. Este processo é regulado pelas regras comuns do direito civil, designadamente pelo Código de Processo Civil e supletivamente pelo Código Civil. Jurisdição é a atuação estatal de dizer o direito, isto é, de fazer valer no caso concreto o respeito às leis de forma definitiva e coativa. Difere do Direito Processual Penal por não incidir sobre processos que envolvam pretensão punitiva do Estado, ou seja, matéria criminal. O Direito Processual Civil é, por exclusão, a ciência que regula todo e qualquer conflito de interesses que não se encaixe no âmbito criminal. A finalidade do processo é a solução das lides, pacificando assim a sociedade. Lide é a pretensão resistida, isto é, quando uma das partes exige o cumprimento de um direito subjetivo. São partes integrantes do processo o autor (polo ativo), o réu (polo passivo), o juiz e os assistentes processuais. Só há evidentemente lide em juízo por meio de ação judicial. O exercício da jurisdição deve obedecer a um conjunto de normas que visam garantir a efetividade da tutela jurisdicional, permitir a participação dos interessados e definir e delimitar a atuação dos juízes e da elaboração das leis.</dbo:abstract>
+    <dbo:abstract xml:lang="ja">民事訴訟法（みんじそしょうほう） 1.  
+*  民事訴訟に関する手続について定めた法令や裁判所の規則などの法体系。「民事訴訟法」という名の法令を有する国もあれば（日本、イギリスなど）、それ以外の名の付く法令を有する国もある。後者の例として、アメリカ合衆国では連邦民事訴訟規則（Federal Rules of Civil Procedure）という裁判所規則が連邦裁判所における民事訴訟に関する手続を定めた一般法であり、各州の裁判所における民事訴訟に関する手続を定めた法令の手本ともなっている。欧州連合（EU）におけるブラッセル条約（das Gerichtsstands- und Vollstreckungsübereinkommen der Europäischen Gemeinschaft (EuGVÜ)）およびルガノ条約（Lugano-Übereinkommen）は国際裁判籍や執行に関する条約である。 2.  
+*  日本の法律。狭義には「民事訴訟法」という題名の法律（民事訴訟法典）を指し、これは形式的意義の民事訴訟法といわれる。広義には民事訴訟法典に民事執行法、民事保全法、仲裁法、非訟事件手続法などの関連法令を含めた法体系全般を指し、これは実質的意義の民事訴訟法といわれる。 本項では2を詳述する。 民事訴訟法（みんじそしょうほう）は、民事訴訟に関する手続について定めた日本の法律で、主に以下の法律を指す。 
+*  民事訴訟法（平成8年6月26日法律第109号） 適正かつ迅速な民事訴訟制度の構築を図ることを目的に新法として制定された。1998年（平成10年）1月1日施行。 
+*</dbo:abstract>
+    <dbo:abstract xml:lang="es">El Derecho procesal civil y comercial es una rama del Derecho procesal que regula la actuación ante los Tribunales para obtener la tutela de los derechos en asuntos de naturaleza civil o mercantil.</dbo:abstract>
+    <dbo:abstract xml:lang="en">Civil procedure is the body of law that sets out the rules and standards that courts follow when adjudicating civil lawsuits (as opposed to procedures in criminal law matters). These rules govern how a lawsuit or case may be commenced, what kind of service of process (if any) is required, the types of pleadings or statements of case, motions or applications, and orders allowed in civil cases, the timing and manner of depositions and discovery or disclosure, the conduct of trials, the process for judgment, various available remedies, and how the courts and clerks must function.</dbo:abstract>
+    <dbo:abstract xml:lang="it">Il processo civile è uno strumento giuridico atto a dirimere controversie aventi ad oggetto il diritto privato. Si basa sui principi del diritto processuale civile contenuti per gran parte nel codice di procedura civile.</dbo:abstract>
+    <dbo:abstract xml:lang="ru">Гражда́нское процессуа́льное пра́во — отрасль права, включающая совокупность правовых норм, регулирующих общественные отношения, возникающие между судом и иными участниками судебного производства в ходе осуществления правосудия по гражданским делам, а также исполнения судебных постановлений, которое является одним из этапов судопроизводства. Гражданским процессуальным правом именуются также юридическая наука и учебная дисциплина, предметом которых являются правовые нормы, регулирующие отношения в сфере правосудия по гражданским делам.</dbo:abstract>
+    <dbo:abstract xml:lang="zh">民事訴訟法（Civil procedure）乃是以民事實體法上權利實現及救濟為目的所制定的法律。民事訴訟如同刑事訴訟、行政訴訟一樣，都是透過國家所設立的法院來進行的訴訟程序，僅是依其所針對事務的不同，而將其劃歸為此三大類。刑事訴訟重在國家刑罰權的實現，藉由刑事訴訟對於犯罪行為進行追訴並加以處罰；行政訴訟則重在救濟國家行政機關行使公權力時所產生的錯誤。而所謂的「民事訴訟」乃指民事法院依當事人之請求，就民事紛爭事件利用國家公權力強制解決之程序。而須注意的是，民事訴訟法中規範的對象主要是針對民事訴訟的開始（起訴）、進行（審理）、終結（判決）之部分，另外就保全程序的部分亦是在民事訴訟法中加以規定，而就訴訟終結後的執行問題則是屬於強制執行法的問題。</dbo:abstract>
+    <dbo:abstract xml:lang="de">Das Zivilprozessrecht oder Zivilverfahrensrecht bezeichnet als Rechtsgebiet alle gesetzlichen Bestimmungen, die den formalen Ablauf von Zivilverfahren (Zivilprozessen), also Gerichtsverfahren im Bereich des Zivilrechts regeln – in Abgrenzung zu Strafprozessen und Verfahren in anderen Rechtsgebieten. Diese Trennung besteht in den meisten modernen Staaten.</dbo:abstract>
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Body" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Procedure">
+    <dbo:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/Civil_procedure" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Götz_Schulze">
+    <dbo:field rdf:resource="http://dbpedia.org/resource/Civil_procedure" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Geoffrey_C._Hazard,_Jr.">
+    <dbo:field rdf:resource="http://dbpedia.org/resource/Civil_procedure" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Arthur_R._Miller">
+    <dbo:field rdf:resource="http://dbpedia.org/resource/Civil_procedure" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Erwin_Chemerinsky">
+    <dbo:field rdf:resource="http://dbpedia.org/resource/Civil_procedure" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Civil_Procedure">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Civil_procedure" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Civil_procedure_law">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Civil_procedure" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Code_of_Civil_Procedure">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Civil_procedure" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Illinois_v._Hemi_Group_LLC">
+    <dbp:keywords rdf:resource="http://dbpedia.org/resource/Civil_procedure" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Civil_procedure">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Civil_procedure" />
+  </rdf:Description>
+</rdf:RDF>

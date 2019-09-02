@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:dct="http://purl.org/dc/terms/"
+	xmlns:dbo="http://dbpedia.org/ontology/"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:prov="http://www.w3.org/ns/prov#"
+	xmlns:ns7="http://purl.org/linguistics/gold/" >
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Girder_rail">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Rail_profile" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Rail_size">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Rail_profile" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Pound_(rail)">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Rail_profile" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bullhead_rail">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Rail_profile" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Rail">
+    <dbo:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/Rail_profile" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Rail_profile">
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PsychologicalFeature100023100" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Occupation100582388" />
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Album" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Application100949134" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Use100947128" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Profession100609953" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/RailTechnology100951037" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatRailTechnologies" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Technology100949619" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoPermanentlyLocatedEntity" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Act100030358" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Activity100407535" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Event100029378" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Abstraction100002137" />
+    <rdfs:label xml:lang="es">Riel</rdfs:label>
+    <rdfs:label xml:lang="nl">Railprofiel</rdfs:label>
+    <rdfs:label xml:lang="pt">Trilho</rdfs:label>
+    <rdfs:label xml:lang="pl">Szyna (profil)</rdfs:label>
+    <rdfs:label xml:lang="ru">Рельс</rdfs:label>
+    <rdfs:label xml:lang="de">Schiene (Schienenverkehr)</rdfs:label>
+    <rdfs:label xml:lang="ja">軌条</rdfs:label>
+    <rdfs:label xml:lang="fr">Rail</rdfs:label>
+    <rdfs:label xml:lang="en">Rail profile</rdfs:label>
+    <rdfs:label xml:lang="it">Rotaia Vignoles</rdfs:label>
+    <rdfs:comment xml:lang="es">Se denomina riel, carril, raíl o trillo a cada una de las barras metálicas sobre las que se desplazan las ruedas de los trenes y tranvías. Los rieles se disponen como una de las partes fundamentales de las vías férreas y actúan como soporte, dispositivo de guiado y elemento conductor de la corriente eléctrica. La característica técnica más importante del ferrocarril es el contacto entre el riel y la rueda con pestaña, siendo sus principales cualidades su material, forma y peso.</rdfs:comment>
+    <rdfs:comment xml:lang="en">The rail profile is the cross sectional shape of a railway rail, perpendicular to the length of the rail. Early rails were made of wood, cast iron or wrought iron. All modern rails are hot rolled steel of a specific cross sectional profile. Typically the cross section (profile) approximates an I-beam but is asymmetric about a horizontal axis (however see grooved rail below). The head is profiled to resist wear and to give a good ride, the foot is profiled to suit the fixing system.</rdfs:comment>
+    <rdfs:comment xml:lang="ru">Рельсы (от мн. ч. англ. rails — от лат. regula — прямая палка, изобретены древними римлянами, начальная ширина между ними составляла 143,5 см.) — стальные балки специального сечения, укладываемые на шпалах или других опорах для образования, как правило, двухниточного пути, по которому перемещается подвижной состав железнодорожного транспорта, городских железных дорог, специализированный состав в шахтах, карьерах, крановое оборудование. Кроме того, облегчённые рельсы используются в кинематографе для передвижения операторских тележек.</rdfs:comment>
+    <rdfs:comment xml:lang="pl">Szyna – profil metalowy o przekroju dwuteownika lub zbliżonym, stosowany do podtrzymania i prowadzenia pojazdów kolei szynowej, a także innych dziedzinach jak np. budownictwo czy medycyna.</rdfs:comment>
+    <rdfs:comment xml:lang="de">Schienen sind im Bahnwesen lineare Trag- und Führungselemente, die meist paarig und parallel zueinander im Abstand der Spurweite angeordnet den Fahrweg für Schienenfahrzeuge bilden. Frühe Schienen in diesem Sinne waren Spurrillen, längs ausgelegte Baumstämme oder Holzbohlen. Moderne Schienen sind standardisierte und genormte Walzstahlerzeugnisse. Sie sind in regelmäßigen, kurzen Abständen zumeist auf quer zur Gleisachse ausgelegten Bahnschwellen aus Beton, Stahl, Holz oder Kunststoff befestigt und bilden als Gleis zusammen mit dem Kleineisen und der Bettung den Oberbau einer Bahnstrecke.</rdfs:comment>
+    <rdfs:comment xml:lang="it">La rotaia Vignoles è il tipo di rotaia maggiormente usato nella costruzione di linee ferroviarie. Tale tipo di rotaia ha progressivamente sostituito a partire dal 1831 i precedenti tipi, è divenuta di uso comune su tutte le strade ferrate, ed è tuttora in uso. Deve il suo nome all&#39;ingegnere inglese Charles Vignoles, che la introdusse in Europa nel 1836, dopo averla notata negli Stati Uniti d&#39;America dov&#39;era impiegata da alcuni anni dall&#39;inventore Robert Livingston Stevens. La norma UNI relativa alle rotaie Vignoles è la UNI 3141.</rdfs:comment>
+    <rdfs:comment xml:lang="ja">軌条（きじょう）とは、鉄道の線路（軌道）を構成する要素のひとつで、鉄道車両の車輪がその上を転がり重量を支えるとともに進路を誘導する案内路のことである。一般的にはレールと呼ばれる場合が多い。 鉄鋼分野では、棒鋼の一種に分類されている。 一般的には、断面が逆Tの字型をした棒状の鋼製品が用いられる。これを所定の間隔で2本平行に並べ、道床の上に並べられたまくらぎの上に締結装置（犬くぎなど）を用いて固定する。まくらぎと軌条は垂直である。この様にして敷かれた線路上を走る鉄道を普通鉄道という。普通鉄道のほか、桁状の1本の案内路を使うモノレールや、特殊な案内路を用いる案内軌条式鉄道もあり、これらの軌道の材質は鋼に限られずコンクリートなども用いられる。 ここでは、普通鉄道に使われる鋼製の断面が逆T字型をした鉄道レールを中心に記述する。</rdfs:comment>
+    <rdfs:comment xml:lang="pt">Os trilhos (português brasileiro) ou carris (português europeu) são perfis de aço laminado, dispostos de forma paralela entre si, sobre dormentes (travessas) as quais são peças de madeira, de concreto (betão) armado, de aço ou ainda de polimeros. Os trilhos ou carris são fixados sobre os dormentes ou travessas através de elementos de fixação, compostos por grampos ou tirafundos. As travessas ou dormentes assentam por sua vez em cima de brita, composto por rochas trituradas em granulometrias definidas. O conjunto forma as denominadas vias-férreas por onde podem circular trens (comboios), bondes (elétricos), automotoras. Os trilhos ou carris também podem ser utilizados para formar o caminho de rolamento de uma ponte rolante.</rdfs:comment>
+    <rdfs:comment xml:lang="fr">Un rail est une barre d’acier profilée. Deux files parallèles de rails mis bout à bout forment une voie ferrée. Ils reposent alors généralement sur des traverses pour conserver un écartement constant. Les rails servent à la fois de guide et de support de roulement pour les véhicules. Étant conducteurs électriques, ils peuvent aussi être utilisés pour la transmission de signaux (circuits de voie) et pour le retour des courants de traction et des auxiliaires du train (ligne train pour le chauffage et la climatisation sur les rames tractées).</rdfs:comment>
+    <rdfs:comment xml:lang="nl">Het NP46-profiel (ook wel 46E3 profiel) is het oudste spoorprofiel en wordt anno 2003 geleidelijk vervangen. Het getal 46 staat voor 46 kilogram per meter rail. Deze spoorstaaf is 142 millimeter hoog, heeft een voet van 120 mm breed en een kop van 74 mm breed. Het UIC54-profiel (ook wel 54E1-profiel) heeft een gewicht van 54,43 kg/m en is 159 mm hoog, heeft een voet van 140 mm breed en een kop van 70 mm breed.</rdfs:comment>
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Tramway_track" />
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Wagonway" />
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Plateways" />
+    <owl:sameAs rdf:resource="http://pt.dbpedia.org/resource/Trilho" />
+    <owl:sameAs rdf:resource="http://fr.dbpedia.org/resource/Rail" />
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q633423" />
+    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/Schiene_(Schienenverkehr)" />
+    <owl:sameAs rdf:resource="http://cs.dbpedia.org/resource/Kolejnice" />
+    <owl:sameAs rdf:resource="http://es.dbpedia.org/resource/Riel" />
+    <owl:sameAs rdf:resource="http://ja.dbpedia.org/resource/軌条" />
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.02qr4gv" />
+    <owl:sameAs rdf:resource="http://it.dbpedia.org/resource/Rotaia_Vignoles" />
+    <owl:sameAs rdf:resource="http://d-nb.info/gnd/4140411-7" />
+    <owl:sameAs rdf:resource="http://pl.dbpedia.org/resource/Szyna_(profil)" />
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Rail_profile" />
+    <owl:sameAs rdf:resource="http://nl.dbpedia.org/resource/Railprofiel" />
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q633423" />
+    <owl:sameAs rdf:resource="http://el.dbpedia.org/resource/Σιδηροτροχιά" />
+    <owl:sameAs rdf:resource="http://yago-knowledge.org/resource/Rail_profile" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Permanent_way" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Structural_steel" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Rail_technologies" />
+    <dbo:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">10822838</dbo:wikiPageID>
+    <dbo:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">744108898</dbo:wikiPageRevisionID>
+    <dbo:wikiPageExternalLink rdf:resource="http://www.atlantictrack.com/international/espanol/pdf/MRT_Brochure.pdf" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.oberbauhandbuch.de/en/oberbauhandbuch/oberbaustoffe/schienen/vignolschienen-feldbahnschienen.html" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.oberbauhandbuch.de/en/oberbauhandbuch/oberbaustoffe/schienen/vignolschienen.html" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.akrailroad.com/products/tee-rail-section-data" />
+    <dbo:wikiPageExternalLink rdf:resource="http://onlinepubs.trb.org/onlinepubs/tcrp/tcrp_rpt_57-c.pdf" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.wirthrail.com/en/product_girder.htm" />
+    <dbo:wikiPageExternalLink rdf:resource="http://britishsteel.co.uk/what-we-do/special-profiles/crane-rail/" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.tkgftgleistechnik.de/en/railway_track_manual/oberbaustoffe/schienen/rillenschienen.html" />
+    <dbo:wikiPageExternalLink rdf:resource="http://britishsteel.co.uk/what-we-do/rail/" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.skelton-metals.com/railsections_eurogirderguardrail.htm" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.arcelormittal.com/rails+specialsections/en/crane-rails.html" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.lr55-rail-road-system.co.uk" />
+    <foaf:depiction rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Rail_Barrow_Steel_1896.jpg" />
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Rail_profile" />
+    <dbo:thumbnail rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Rail_Barrow_Steel_1896.jpg?width=300" />
+    <prov:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Rail_profile?oldid=744108898" />
+    <dbo:abstract xml:lang="ja">軌条（きじょう）とは、鉄道の線路（軌道）を構成する要素のひとつで、鉄道車両の車輪がその上を転がり重量を支えるとともに進路を誘導する案内路のことである。一般的にはレールと呼ばれる場合が多い。 鉄鋼分野では、棒鋼の一種に分類されている。 一般的には、断面が逆Tの字型をした棒状の鋼製品が用いられる。これを所定の間隔で2本平行に並べ、道床の上に並べられたまくらぎの上に締結装置（犬くぎなど）を用いて固定する。まくらぎと軌条は垂直である。この様にして敷かれた線路上を走る鉄道を普通鉄道という。普通鉄道のほか、桁状の1本の案内路を使うモノレールや、特殊な案内路を用いる案内軌条式鉄道もあり、これらの軌道の材質は鋼に限られずコンクリートなども用いられる。 ここでは、普通鉄道に使われる鋼製の断面が逆T字型をした鉄道レールを中心に記述する。</dbo:abstract>
+    <dbo:abstract xml:lang="pt">Os trilhos (português brasileiro) ou carris (português europeu) são perfis de aço laminado, dispostos de forma paralela entre si, sobre dormentes (travessas) as quais são peças de madeira, de concreto (betão) armado, de aço ou ainda de polimeros. Os trilhos ou carris são fixados sobre os dormentes ou travessas através de elementos de fixação, compostos por grampos ou tirafundos. As travessas ou dormentes assentam por sua vez em cima de brita, composto por rochas trituradas em granulometrias definidas. O conjunto forma as denominadas vias-férreas por onde podem circular trens (comboios), bondes (elétricos), automotoras. Os trilhos ou carris também podem ser utilizados para formar o caminho de rolamento de uma ponte rolante. É comum atribuir a designação de trilho ou carril a qualquer dispositivo que permita o guiamento ou o suporte e o guiamento de rodas, ganchos ou outros. Assim, em português do Brasil, as portas de correr têm trilhos, e também as cortinas, mas em português europeu as cortinas e os bancos de automóvel têm calhas ou guias. O perfil de carril mais comum utilizado na ferrovia é o designado perfil &quot;Vignol&quot;.</dbo:abstract>
+    <dbo:abstract xml:lang="it">La rotaia Vignoles è il tipo di rotaia maggiormente usato nella costruzione di linee ferroviarie. Tale tipo di rotaia ha progressivamente sostituito a partire dal 1831 i precedenti tipi, è divenuta di uso comune su tutte le strade ferrate, ed è tuttora in uso. Deve il suo nome all&#39;ingegnere inglese Charles Vignoles, che la introdusse in Europa nel 1836, dopo averla notata negli Stati Uniti d&#39;America dov&#39;era impiegata da alcuni anni dall&#39;inventore Robert Livingston Stevens. La forma della rotaia, ormai classica, è quella di un profilato a doppio &quot;T&quot;, dalla base più larga con lo stelo alto su cui posa e si allarga il piano di rotolamento dalla forma a fungo. Infatti la parte superiore si chiama &quot;fungo&quot;, quella centrale più stretta &quot;anima&quot; e la base a forma di T rovesciata &quot;suola&quot;. Le caratteristiche delle rotaie si sono evolute nel tempo sia come aumento della qualità dell&#39;acciaio sia per le misure del profilo, e sono solitamente indicate con una data impressa su ogni segmento, e da un codice UIC composto dalla sigla UIC seguita dal peso in kilogrammi di un metro di rotaia. Agli inizi vennero usate rotaie da 18, 25 o 27 kg/m. In seguito divennero assai diffuse le rotaie da 36 kg/m per le ferrovie meno importanti e da 46 o 48 kg/m per quelle principali. A partire dagli anni sessanta anche in Italia si è cominciato a sostituire in occasione delle manutenzioni e degli ammodernamenti le varie tipologie di rotaia con quelle unificate UIC 50 e UIC 60 (che pesano quindi rispettivamente cinque e sei tonnellate per 100 metri). Maggiore il peso lineare, maggiori le prestazioni. La norma UNI relativa alle rotaie Vignoles è la UNI 3141.</dbo:abstract>
+    <dbo:abstract xml:lang="de">Schienen sind im Bahnwesen lineare Trag- und Führungselemente, die meist paarig und parallel zueinander im Abstand der Spurweite angeordnet den Fahrweg für Schienenfahrzeuge bilden. Frühe Schienen in diesem Sinne waren Spurrillen, längs ausgelegte Baumstämme oder Holzbohlen. Moderne Schienen sind standardisierte und genormte Walzstahlerzeugnisse. Sie sind in regelmäßigen, kurzen Abständen zumeist auf quer zur Gleisachse ausgelegten Bahnschwellen aus Beton, Stahl, Holz oder Kunststoff befestigt und bilden als Gleis zusammen mit dem Kleineisen und der Bettung den Oberbau einer Bahnstrecke.</dbo:abstract>
+    <dbo:abstract xml:lang="ru">Рельсы (от мн. ч. англ. rails — от лат. regula — прямая палка, изобретены древними римлянами, начальная ширина между ними составляла 143,5 см.) — стальные балки специального сечения, укладываемые на шпалах или других опорах для образования, как правило, двухниточного пути, по которому перемещается подвижной состав железнодорожного транспорта, городских железных дорог, специализированный состав в шахтах, карьерах, крановое оборудование. Кроме того, облегчённые рельсы используются в кинематографе для передвижения операторских тележек. Рельсы служат для направления колёс при их движении, непосредственно воспринимают и упруго передают давление от колёс на нижележащие элементы верхнего строения пути. На участках с электрической тягой рельсы служат проводниками обратного силового тока, а на участках с автоблокировкой — проводниками сигнального тока.</dbo:abstract>
+    <dbo:abstract xml:lang="pl">Szyna – profil metalowy o przekroju dwuteownika lub zbliżonym, stosowany do podtrzymania i prowadzenia pojazdów kolei szynowej, a także innych dziedzinach jak np. budownictwo czy medycyna.</dbo:abstract>
+    <dbo:abstract xml:lang="en">The rail profile is the cross sectional shape of a railway rail, perpendicular to the length of the rail. Early rails were made of wood, cast iron or wrought iron. All modern rails are hot rolled steel of a specific cross sectional profile. Typically the cross section (profile) approximates an I-beam but is asymmetric about a horizontal axis (however see grooved rail below). The head is profiled to resist wear and to give a good ride, the foot is profiled to suit the fixing system. Unlike some other uses of iron and steel, railway rails are subject to very high stresses and are made of very high quality steel. It took many decades to improve the quality of the materials, including the change from iron to steel. Minor flaws in the steel that may pose no problems in other applications can lead to broken rails and dangerous derailments when used on railway tracks. By and large, the heavier the rails and the rest of the trackwork, the heavier and faster the trains these tracks can carry. The rails represent a substantial fraction of the cost of a railway line. Only a small number of rail sizes are made by steelworks at one time, so a railway must choose the nearest suitable size. Worn, heavy rail from a mainline is often reclaimed and downgraded for re-use on a branchline, siding or yard.</dbo:abstract>
+    <dbo:abstract xml:lang="nl">Het NP46-profiel (ook wel 46E3 profiel) is het oudste spoorprofiel en wordt anno 2003 geleidelijk vervangen. Het getal 46 staat voor 46 kilogram per meter rail. Deze spoorstaaf is 142 millimeter hoog, heeft een voet van 120 mm breed en een kop van 74 mm breed. Het UIC54-profiel (ook wel 54E1-profiel) heeft een gewicht van 54,43 kg/m en is 159 mm hoog, heeft een voet van 140 mm breed en een kop van 70 mm breed. Het UIC60-profiel (ook wel 60E1 profiel) heeft een gewicht van 60,34 kg/m en is 172 mm hoog, heeft een voet van 150 mm breed en een kop van 72 mm breed. Dit profiel wordt in Nederland gebruikt op de Betuweroute en de HSL en in Duitsland op hoofdspoorlijnen. Door het rijden van de treinen over de rails, zal de rail slijten. Ook kunnen golfslijtage en brandplekken (door slippende wielen) ontstaan. Om de rails weer in het juiste profiel terug te brengen, wordt een slijptrein ingezet. Met een Ultrasoontrein kunnen breuken in de spoorstaaf opgespoord worden. In België wordt door Infrabel naast het profiel UIC60 ook veel gebruikgemaakt van het profiel UIC50. Dit is een profiel dat ongeveer 50 kg per meter weegt, 151 mm hoog is, met een voet van 140 mm breed en een kop van 72 mm breed.</dbo:abstract>
+    <dbo:abstract xml:lang="es">Se denomina riel, carril, raíl o trillo a cada una de las barras metálicas sobre las que se desplazan las ruedas de los trenes y tranvías. Los rieles se disponen como una de las partes fundamentales de las vías férreas y actúan como soporte, dispositivo de guiado y elemento conductor de la corriente eléctrica. La característica técnica más importante del ferrocarril es el contacto entre el riel y la rueda con pestaña, siendo sus principales cualidades su material, forma y peso.</dbo:abstract>
+    <dbo:abstract xml:lang="fr">Un rail est une barre d’acier profilée. Deux files parallèles de rails mis bout à bout forment une voie ferrée. Ils reposent alors généralement sur des traverses pour conserver un écartement constant. Les rails servent à la fois de guide et de support de roulement pour les véhicules. Étant conducteurs électriques, ils peuvent aussi être utilisés pour la transmission de signaux (circuits de voie) et pour le retour des courants de traction et des auxiliaires du train (ligne train pour le chauffage et la climatisation sur les rames tractées). Un système de transport fondé sur l’utilisation d’un seul rail est un monorail. Un (voire deux) rail(s) peut(peuvent) servir aussi à l’alimentation électrique (alimentation par troisième rail ou par troisième et quatrième rails).</dbo:abstract>
+    <ns7:hypernym rdf:resource="http://dbpedia.org/resource/Shape" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vignoles_rail">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Rail_profile" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/LR55_system">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Rail_profile" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Flanged_T_rail">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Rail_profile" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Grooved_rail">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Rail_profile" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Double-headed_rail">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Rail_profile" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/T-rail">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Rail_profile" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Flat-bottom_rail">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Rail_profile" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Flanged_t_rail">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Rail_profile" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tangential_turnout">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Rail_profile" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Fishbelly_rail">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Rail_profile" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Groove_rail">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Rail_profile" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Flanged_rail">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Rail_profile" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Strap-iron_rail">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Rail_profile" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Strap_iron_rail">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Rail_profile" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Types_of_rail_profile">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Rail_profile" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Phoenix_rail">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Rail_profile" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Rail_weight">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Rail_profile" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Rail_profile">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Rail_profile" />
+  </rdf:Description>
+</rdf:RDF>

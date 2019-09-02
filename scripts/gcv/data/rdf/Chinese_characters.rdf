@@ -1,0 +1,407 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:dct="http://purl.org/dc/terms/"
+	xmlns:dbo="http://dbpedia.org/ontology/"
+	xmlns:dbp="http://dbpedia.org/property/"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:prov="http://www.w3.org/ns/prov#"
+	xmlns:ns8="http://purl.org/linguistics/gold/" >
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jiangwan,_Harbin">
+    <dbp:translitLang rdf:resource="http://dbpedia.org/resource/Chinese_characters" />
+    <dbp:translitLang1Type rdf:resource="http://dbpedia.org/resource/Chinese_characters" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Chữ_Nôm">
+    <dbp:fam rdf:resource="http://dbpedia.org/resource/Chinese_characters" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Batang,_Sichuan">
+    <dbp:translitLang2Type rdf:resource="http://dbpedia.org/resource/Chinese_characters" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Chinese_system_of_writing">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Chinese_characters" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Chinese_hanzi">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Chinese_characters" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kangxi_radical">
+    <dbp:script rdf:resource="http://dbpedia.org/resource/Chinese_characters" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Han_Tu">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Chinese_characters" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/CJK_Unified_Ideographs_Extension_C">
+    <dbp:script rdf:resource="http://dbpedia.org/resource/Chinese_characters" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/North_Sumatra">
+    <dbp:translitLang1Type rdf:resource="http://dbpedia.org/resource/Chinese_characters" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/CJK_Radicals_Supplement">
+    <dbp:script rdf:resource="http://dbpedia.org/resource/Chinese_characters" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Five_Hundred_Most_Commonly_Used_Chinese_Characters">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Chinese_characters" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Middle_Chinese">
+    <dbp:script rdf:resource="http://dbpedia.org/resource/Chinese_characters" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Chinese_characters">
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Cognition100023271" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PsychologicalFeature100023100" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Communication100033020" />
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Abstraction100002137" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Ability105616246" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Orthography106351202" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/ImaginaryBeing109483738" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Imagination105625465" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Creativity105624700" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/FictionalCharacter109587565" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Writing106359877" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WrittenCommunication106349220" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatChineseCharacters" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatWritingSystems" />
+    <rdfs:label xml:lang="fr">Caractères chinois</rdfs:label>
+    <rdfs:label xml:lang="ru">Китайское письмо</rdfs:label>
+    <rdfs:label xml:lang="zh">汉字</rdfs:label>
+    <rdfs:label xml:lang="en">Chinese characters</rdfs:label>
+    <rdfs:label xml:lang="de">Chinesische Schrift</rdfs:label>
+    <rdfs:label xml:lang="it">Caratteri cinesi</rdfs:label>
+    <rdfs:label xml:lang="ja">漢字</rdfs:label>
+    <rdfs:label xml:lang="nl">Hanzi</rdfs:label>
+    <rdfs:label xml:lang="pl">Pismo chińskie</rdfs:label>
+    <rdfs:label xml:lang="ar">مقاطع صينية</rdfs:label>
+    <rdfs:label xml:lang="es">Sinograma</rdfs:label>
+    <rdfs:label xml:lang="pt">Caracteres chineses</rdfs:label>
+    <rdfs:comment xml:lang="fr">Les caractères chinois (ou sinogrammes) sont les unités de l’écriture logographique des langues chinoises. Leur utilisation s&#39;étend sur une large étendue géographique, la « sinosphère ». Ils sont appelés en chinois hànzì qui s&#39;écrivent, traditionnellement, 漢字, « caractères han » et, depuis le XXe siècle en République populaire de Chine et en Malaisie (et Singapour) par la majorité des Chinois, en chinois simplifié 汉字. Ils ont été dans le passé ou sont également de nos jours utilisés pour écrire d&#39;autres langues, à titre principal ou complémentaire, notamment le coréen (hanja), le japonais (kanji) ou le vietnamien (chữ nho).</rdfs:comment>
+    <rdfs:comment xml:lang="ar">25بك المحتوى هنا ينقصه الاستشهاد بمصادر. يرجى إيراد مصادر موثوق بها. أي معلومات غير موثقة يمكن التشكيك بها وإزالتها. (مارس 2016) الحروف الصينية هي رموز تستخدم في كتابة اللغة الصينية، اليابانية والكورية. لم تعد الحروف الصينية مستخدمة في اللغة الفيتنامية حيث كانت مستخدمة حتى القرن العشرين. وقد اختفت في كوريا الجنوبية، حيث استبدلت تماما بالهانغول ولا تستخدم إلا لماماً في كوريا الشمالية. لا ترتبط اليابانية ولا الكورية ولا الفيتنامية برابط لساني مع الصينية ولذا فقد تم تبني عدة تعديلات على الأحرف الصينية لتلائم هذا اللغات ذات القواعد والنطق المختلفين.</rdfs:comment>
+    <rdfs:comment xml:lang="ja">漢字（かんじ）は、古代中国で発祥した象形文字。中国語と日本語の表記に使われる。 現代でも使われている文字の中で最古の文字体系である。また史上最も文字数が多い文字体系であり、その数は10万字をはるかに超え、他の文字体系を圧倒する。 古代から周辺諸国家や地域に伝播して漢字文化圏を形成し、言語のみならず文化上の大きな影響を与えた。20世紀には日本語と中国語以外は漢字表記をほとんど廃止したが、なお約15億人が使用し、約50億人が使うラテン文字についで、世界で２番目に使用者数が多い。</rdfs:comment>
+    <rdfs:comment xml:lang="pl">Pismo chińskie (jap. kanji, kor.: hancha, wietn.: hán tự) – sylabowe pismo logograficzne (ideograficzno-fonetyczne), stworzone najwcześniej 8 tys. lat temu, a najpóźniej 4,5 tys. lat temu w Chinach, zaadaptowane do zapisu innych języków Azji Wschodniej, obecnie przede wszystkim japońskiego, a w mniejszym stopniu także koreańskiego. Chińskie pismo jest również systemem złożonym, w którym znak z reprezentowanym słowem może łączyć zasada semantyczna, fonetyczna, albo obie naraz. Dlatego nazywanie go pismem ideograficznym lub pismem obrazkowym jest również nieporozumieniem.</rdfs:comment>
+    <rdfs:comment xml:lang="de">Die chinesische Schrift (chinesisch 中文字, Pinyin zhōngwénzì, Zhuyin ㄓㄨㄥ ㄨㄣˊ ㄗˋ) oder Han-Schrift (漢字 / 汉字, hànzì, Zhuyin ㄏㄢˋ ㄗˋ) fixiert die chinesischen Sprachen, vor allem das Hochchinesische, mit chinesischen Schriftzeichen. Sie ist damit ein zentraler Träger der chinesischen Kultur und diente auch als Grundlage der japanischen Schriften (Kanji, Hiragana, Katakana), einer vietnamesischen Schrift (Chữ nôm) und einer der koreanischen Schriften (Hanja).</rdfs:comment>
+    <rdfs:comment xml:lang="zh">漢字，在中國亦称中文字、国字、唐字、方塊字，是漢字文化圈廣泛使用的一種文字，也是世界上唯一仍被廣泛使用的高度發展的語素文字。 廣義的漢字指從甲骨文、大篆、金文、籀文、小篆，至隶书、草书、楷书（以及衍生的行书）等的文字，狹義指以正楷作為標準寫法的漢字，也是今日普遍使用的現代漢字。漢字在古文中只稱「字」，少數民族為區別而稱「漢字」，指漢人使用的文字。 漢字為上古時代的華夏族人所發明創製並作改進，目前确切歷史可追溯至約公元前1300年商朝的甲骨文、籀文、金文。再到秦朝的小篆，發展至漢朝隸變，至唐代楷化為今日所用的手寫字體標準——正楷。 汉字是迄今为止连续使用时间最长的主要文字，也是上古时期各大文字体系中唯一传承至今的文字，期間東亞諸國都有一定程度地自行創製漢字。相较而言，古埃及、古巴比伦、古印度文字都早已消亡，所以有學者認為漢字是維繫中國南北長期處於統一狀態的關鍵元素之一，亦有學者將漢字列為中國第五大發明。 中國歷代皆以漢字為主要官方文字，現時中國定為國家規範用字。漢字在古代已發展至高度完備的水準，不單中國使用，在很長時期內還充當東亞地區唯一的國際交流文字，20世紀前都是日本、朝鮮半島、越南、琉球等國家官方的書面規範文字。</rdfs:comment>
+    <rdfs:comment xml:lang="en">(Unless otherwise specified, Chinese text in this article is written in the format (Simplified Chinese / Traditional Chinese; Pinyin). If the Simplified and Traditional Chinese characters are identical, they are written only once.)(For the species of moth known as &quot;Chinese Character&quot;, see Cilix glaucata.)
+</rdfs:comment>
+    <rdfs:comment xml:lang="it">I caratteri cinesi (漢字T, 汉字S, hànzìP) sono le unità minime di significato (in linguaggio specialistico chiamate logogrammi) utilizzate nella scrittura del cinese. Le più antiche testimonianze certe dell&#39;esistenza di un sistema di scrittura basato sui caratteri antenati degli attuali caratteri cinesi risalgono al 1250 a.C. Alcune varianti dei caratteri cinesi sono impiegati anche nell&#39;ambito della scrittura del giapponese, del coreano e in passato anche nel vietnamita.</rdfs:comment>
+    <rdfs:comment xml:lang="pt">Os caracteres chineses ou caracteres Han (汉字 / 漢字, Hanzi) são logogramas (e não ideogramas) utilizados como sistema de escrita do chinês, japonês, coreano (apenas na Coreia do Sul, e com importância unicamente histórica e/ou cultural) e outros idiomas, como por exemplo o dong. Foram usados na Coreia do Norte até 1949 e no Vietname até o século XVII. Também denominados sinogramas, as suas origens são remotas, possivelmente anteriores à dinastia Shang, no século XIII a.C., quando aparecem os primeiros registros desta escrita, em ossos de animais. Confúcio, por exemplo, faz referência a existência de um sistema de escrita na China anterior a 2000 a.C. É, contudo, difícil traçar a sua história e a sua origem pertencente ao domínio da mitologia chinesa.</rdfs:comment>
+    <rdfs:comment xml:lang="nl">Hanzi (IPA: [ han tsɨ ]) betekent letterlijk &#39;Chinees karakter&#39; in het Standaardmandarijn. Deze karakters worden gebruikt om de Chinese talen op te schrijven. Hanzi is onder te verdelen in traditionele en vereenvoudigde karakters. Chinese tekens worden doorgaans ingedeeld in 5 categorieën: Het grootste deel van de gebruikte karakters zijn fonogrammen (~90%).</rdfs:comment>
+    <rdfs:comment xml:lang="ru">Китайское письмо́ (кит. трад. 漢字, упр. 汉字, пиньинь: hànzì, палл.: ханьцзы; вьетн. Chữ Hán, тьы-хан) — тысячелетняя иероглифическая или идеографическая система записи, возникшая на территории Китая. Отличается от алфавитной тем, что каждому знаку приписано какое-то значение (не только фонетическое), и число знаков очень велико (десятки тысяч). В Китае имеет две основные формы — старую (вэньянь) и современную (байхуа).</rdfs:comment>
+    <rdfs:comment xml:lang="es">Un sinograma o carácter han (chino tradicional: 漢字, chino simplificado: 汉字, pinyin: hànzì) es un logograma originario de China. Los sinogramas eran utilizados antiguamente por las naciones de Asia del Este para escribir textos en chino clásico, y posteriormente lo han sido en la escritura china y la japonesa, así como en la coreana, en la vietnamita y en .</rdfs:comment>
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Chinese_family_of_scripts" />
+    <owl:sameAs rdf:resource="http://es.dbpedia.org/resource/Sinograma" />
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q8201" />
+    <owl:sameAs rdf:resource="http://yago-knowledge.org/resource/Chinese_characters" />
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Chinese_characters" />
+    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/Chinesische_Schrift" />
+    <owl:sameAs rdf:resource="http://yago-knowledge.org/resource/Chinese_character" />
+    <owl:sameAs rdf:resource="http://d-nb.info/gnd/4443074-7" />
+    <owl:sameAs rdf:resource="http://id.dbpedia.org/resource/Aksara_Han" />
+    <owl:sameAs rdf:resource="http://el.dbpedia.org/resource/Κινεζικοί_χαρακτήρες" />
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q8201" />
+    <owl:sameAs rdf:resource="http://fr.dbpedia.org/resource/Caractères_chinois" />
+    <owl:sameAs rdf:resource="http://it.dbpedia.org/resource/Caratteri_cinesi" />
+    <owl:sameAs rdf:resource="http://ko.dbpedia.org/resource/한자" />
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.0mmzb" />
+    <owl:sameAs rdf:resource="http://pl.dbpedia.org/resource/Pismo_chińskie" />
+    <owl:sameAs rdf:resource="http://nl.dbpedia.org/resource/Hanzi" />
+    <owl:sameAs rdf:resource="http://ja.dbpedia.org/resource/漢字" />
+    <owl:sameAs rdf:resource="http://cs.dbpedia.org/resource/Čínské_znaky" />
+    <owl:sameAs rdf:resource="http://pt.dbpedia.org/resource/Caracteres_chineses" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:East_Asian_culture" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Writing_systems_without_word_boundaries" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Scripts_encoded_in_Unicode_1.0" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Chinese_characters" />
+    <dbo:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">91231</dbo:wikiPageID>
+    <dbo:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">744538704</dbo:wikiPageRevisionID>
+    <dbo:wikiPageExternalLink rdf:resource="http://www.cymraeg.ru/daoulagad.html" />
+    <dbo:wikiPageExternalLink rdf:resource="http://lingua.mtsu.edu/chinese-computing/" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.grsampson.net/ARoc.pdf" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.pinyin.info/readings/texts/visible/index.html" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.cchar.com/" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.unicode.org/charts/unihan.html" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.chineseetymology.org/" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.omniglot.com/writing/chinese_evolution.htm" />
+    <dbo:wikiPageExternalLink rdf:resource="http://ctext.org/dictionary.pl?if=en" />
+    <dbo:wikiPageExternalLink rdf:resource="https://books.google.com/books?id=fkc7AAAAIAAJ&amp;printsec=frontcover&amp;source=gbs_ge_summary_r&amp;cad=0#v=onepage&amp;q&amp;f=false" />
+    <dbo:wikiPageExternalLink rdf:resource="http://shahon.org/wp-content/uploads/2010/02/Galambos-2006-Orthography-of-early-Chinese-writing.pdf" />
+    <dbo:wikiPageExternalLink rdf:resource="http://zhongwen.com/" />
+    <dbp:name rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Chinese writing</dbp:name>
+    <foaf:depiction rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Hanzi.svg" />
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Chinese_characters" />
+    <dbo:thumbnail rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Hanzi.svg?width=300" />
+    <prov:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Chinese_characters?oldid=744538704" />
+    <dbo:abstract xml:lang="zh">漢字，在中國亦称中文字、国字、唐字、方塊字，是漢字文化圈廣泛使用的一種文字，也是世界上唯一仍被廣泛使用的高度發展的語素文字。 廣義的漢字指從甲骨文、大篆、金文、籀文、小篆，至隶书、草书、楷书（以及衍生的行书）等的文字，狹義指以正楷作為標準寫法的漢字，也是今日普遍使用的現代漢字。漢字在古文中只稱「字」，少數民族為區別而稱「漢字」，指漢人使用的文字。 漢字為上古時代的華夏族人所發明創製並作改進，目前确切歷史可追溯至約公元前1300年商朝的甲骨文、籀文、金文。再到秦朝的小篆，發展至漢朝隸變，至唐代楷化為今日所用的手寫字體標準——正楷。 汉字是迄今为止连续使用时间最长的主要文字，也是上古时期各大文字体系中唯一传承至今的文字，期間東亞諸國都有一定程度地自行創製漢字。相较而言，古埃及、古巴比伦、古印度文字都早已消亡，所以有學者認為漢字是維繫中國南北長期處於統一狀態的關鍵元素之一，亦有學者將漢字列為中國第五大發明。 中國歷代皆以漢字為主要官方文字，現時中國定為國家規範用字。漢字在古代已發展至高度完備的水準，不單中國使用，在很長時期內還充當東亞地區唯一的國際交流文字，20世紀前都是日本、朝鮮半島、越南、琉球等國家官方的書面規範文字。 現代中文漢字大致分成正體中文與簡體中文兩個體系。前者主要用於香港、澳門以及臺灣，而後者由中国大陆制定使用，并为新加坡、馬來西亞、印度尼西亚等國家采用。非中文体系中，日本也对部分汉字进行了简化，称为新字体，韓國也製定了官方的漢字使用規範，而在越南、北韓和蒙古，漢字已不再具有官方規範地位。</dbo:abstract>
+    <dbo:abstract xml:lang="en">(Unless otherwise specified, Chinese text in this article is written in the format (Simplified Chinese / Traditional Chinese; Pinyin). If the Simplified and Traditional Chinese characters are identical, they are written only once.)(For the species of moth known as &quot;Chinese Character&quot;, see Cilix glaucata.)
+Chinese characters are logograms used in the writing of Chinese and some other Asian languages. In Standard Chinese, and sometimes also in English, they are called hànzì (simplified Chinese: 汉字; traditional Chinese: 漢字). They have been adapted to write a number of other languages including: Japanese, where they are known as kanji, Korean, where they are known as hanja, and Vietnamese in a system known as chữ Nôm. Collectively, they are known as CJK characters. In English, they are sometimes called Han characters. Chinese characters constitute the oldest continuously used system of writing in the world. By virtue of their widespread current use in East Asia, and historic use throughout the Sinosphere, Chinese characters are among the most widely adopted writing systems in the world. Chinese characters number in the tens of thousands, though most of them are minor graphic variants encountered only in historical texts. Studies in China have shown that functional literacy in written Chinese requires a knowledge of between three and four thousand characters. In Japan, 2,136 are taught through secondary school (the Jōyō kanji); hundreds more are in everyday use (note that the characters used in Japan are distinct from those used in China in many respects). There are various national standard lists of characters, forms, and pronunciations. Simplified forms of certain characters are used in mainland China, Singapore, and Malaysia; the corresponding traditional characters are used in Taiwan, Hong Kong, Macau, and to a limited extent in South Korea. In Japan, common characters are written in post-WWII Japan-specific simplified forms (shinjitai), which are closer to traditional forms than Chinese simplifications, while uncommon characters are written in Japanese traditional forms (kyūjitai), which are virtually identical to Chinese traditional forms. In South Korea, when Chinese characters are used they are of the traditional variant and are almost identical to those used in places like Taiwan and Hong Kong. Teaching of Chinese characters in South Korea starts in the 7th grade and continues until the 12th grade where 1,800 total characters are taught albeit these characters are only used in certain cases (on signs, academic papers, historical writings, etc.) and are slowly declining in use. In Old Chinese (and Classical Chinese, which is based on it), most words were monosyllabic and there was a close correspondence between characters and words. In modern Chinese (esp. Mandarin Chinese), characters do not necessarily correspond to words; indeed the majority of Chinese words today consist of two or more characters due to the merging and loss of sounds in the Chinese language over time. Rather, a character almost always corresponds to a single syllable that is also a morpheme.However, there are a few exceptions to this general correspondence, including bisyllabic morphemes (written with two characters), bimorphemic syllables (written with two characters) and cases where a single character represents a polysyllabic word or phrase. Modern Chinese has many homophones; thus the same spoken syllable may be represented by many characters, depending on meaning. A single character may also have a range of meanings, or sometimes quite distinct meanings; occasionally these correspond to different pronunciations. Cognates in the several varieties of Chinese are generally written with the same character. They typically have similar meanings, but often quite different pronunciations. In , most significantly today in Japanese and sometimes in Korean, characters are used to represent Chinese loanwords, to represent native words independent of the Chinese pronunciation, and as purely phonetic elements based on their pronunciation in the historical variety of Chinese from which they were acquired. These foreign adaptations of Chinese pronunciation are known as Sino-Xenic pronunciations, and have been useful in the reconstruction of Middle Chinese.</dbo:abstract>
+    <dbo:abstract xml:lang="ja">漢字（かんじ）は、古代中国で発祥した象形文字。中国語と日本語の表記に使われる。 現代でも使われている文字の中で最古の文字体系である。また史上最も文字数が多い文字体系であり、その数は10万字をはるかに超え、他の文字体系を圧倒する。 古代から周辺諸国家や地域に伝播して漢字文化圏を形成し、言語のみならず文化上の大きな影響を与えた。20世紀には日本語と中国語以外は漢字表記をほとんど廃止したが、なお約15億人が使用し、約50億人が使うラテン文字についで、世界で２番目に使用者数が多い。</dbo:abstract>
+    <dbo:abstract xml:lang="pl">Pismo chińskie (jap. kanji, kor.: hancha, wietn.: hán tự) – sylabowe pismo logograficzne (ideograficzno-fonetyczne), stworzone najwcześniej 8 tys. lat temu, a najpóźniej 4,5 tys. lat temu w Chinach, zaadaptowane do zapisu innych języków Azji Wschodniej, obecnie przede wszystkim japońskiego, a w mniejszym stopniu także koreańskiego. Pismo chińskie składa się ze znaków, które w językach chińskich na ogół odpowiadają poszczególnym sylabom, dlatego nazywa się je także pismem logosylabowym lub monosylabowym. Przeważająca większość znaków ma również odrębne znaczenie jako wyraz (słowo) lub morfem. Lekcja każdego z nich może się bardzo różnić w zależności od dialektu lub języka użytkownika, jednak jego znaczenie pozostaje na ogół niezmienne. Na przykład znak &quot;człowiek&quot; – 人, może być odczytany jako rén (mand.), yan4 (kant.), jîn, lîn, lâng (minnan), hito, jin, nin (jap.), in (kor.) albo nhân (wietn.). Pismo chińskie jest systemem otwartym, co oznacza, że ciągle powstają nowe znaki. W XX wieku wymyślono np. odrębne znaki dla pierwiastków chemicznych. System nie posiada jednego, uznawanego powszechnie uporządkowania, którym cechują się alfabety (np. od Α do Ω), dlatego spotykany czasem termin alfabet chiński jest nieporozumieniem, chyba że chodzi o bopomofo. Chińskie pismo jest również systemem złożonym, w którym znak z reprezentowanym słowem może łączyć zasada semantyczna, fonetyczna, albo obie naraz. Dlatego nazywanie go pismem ideograficznym lub pismem obrazkowym jest również nieporozumieniem. Pismo chińskie składa się z około 50 000 znaków, wypracowanych w toku długiej ewolucji. Znajomość tzw. tradycyjnego pisma chińskiego nadal pozwala odczytać starożytne teksty. W języku współczesnym ponad 95% objętości tekstów w codziennej prasie i popularnych książkach jest pisane przy użyciu 5-6 tysięcy najczęściej używanych znaków. Tyle wystarczy się nauczyć, żeby biegle czytać. Osobę, która zna mniej niż 2000 znaków uznaje się za analfabetę. Pismo obejmuje również własny system cyfr oraz pozwala na sinizację nazw obcych na zasadzie m.in. podobieństwa fonetycznego. Poczynając od końca lat 50. XX w. w Chinach Ludowych ok. 50% znaków zostało uproszczonych, co miało ułatwić ich naukę i przyczynić się do likwidacji analfabetyzmu. Uproszczone pismo chińskie przerwało jednak ewolucyjną ciągłość wielu znaków. Dobrze wykształceni ludzie nadal uczą się pisma tradycyjnego, które mimo reformy pełni w ChRL funkcję reprezentacyjną i jest używane na wizytówkach, szyldach, w malarstwie i kaligrafii. Ze względu na wielki szacunek, jakim otaczano w cesarskich Chinach zapisany papier i osoby posługujące się pismem, znaki chińskiego pisma na Zachodzie bywają – analogicznie do najstarszej formy pisma egipskiego – nazywane hieroglifami (święte znaki). We Francji jest używana nazwa &quot;sinogramy&quot; (sinogrammes - chińskie znaki).</dbo:abstract>
+    <dbo:abstract xml:lang="pt">Os caracteres chineses ou caracteres Han (汉字 / 漢字, Hanzi) são logogramas (e não ideogramas) utilizados como sistema de escrita do chinês, japonês, coreano (apenas na Coreia do Sul, e com importância unicamente histórica e/ou cultural) e outros idiomas, como por exemplo o dong. Foram usados na Coreia do Norte até 1949 e no Vietname até o século XVII. Também denominados sinogramas, as suas origens são remotas, possivelmente anteriores à dinastia Shang, no século XIII a.C., quando aparecem os primeiros registros desta escrita, em ossos de animais. Confúcio, por exemplo, faz referência a existência de um sistema de escrita na China anterior a 2000 a.C. É, contudo, difícil traçar a sua história e a sua origem pertencente ao domínio da mitologia chinesa. Os sinogramas são chamados hànzì em mandarim, kanji em japonês, hanja ou hanmun em coreano e hán tư em vietnamita.</dbo:abstract>
+    <dbo:abstract xml:lang="ru">Китайское письмо́ (кит. трад. 漢字, упр. 汉字, пиньинь: hànzì, палл.: ханьцзы; вьетн. Chữ Hán, тьы-хан) — тысячелетняя иероглифическая или идеографическая система записи, возникшая на территории Китая. Отличается от алфавитной тем, что каждому знаку приписано какое-то значение (не только фонетическое), и число знаков очень велико (десятки тысяч). В Китае имеет две основные формы — старую (вэньянь) и современную (байхуа). Знаки китайского письма также широко используются в японском и корейском письме (там они называются кандзи и ханча, соответственно). До 1945 года китайское письмо («хан ты» или «тьы-хан», вьетн. Chữ Hán) использовалось также для записи вьетнамского языка. Технически, знаковые символы письменностей, основанных на китайской, называют ККЯ (англ. CJK) (Китайский, Корейский, Японский и Chinese, Japanese, Korean соответственно) или ККЯВ (англ. CJKV) (с добавлением Вьетнамский и Vietnamese соответственно). Китайскими иероглифами записан один из буддийских канонов (китайская трипитака), содержащий как переводные с санскрита (преимущественно) тексты, так и оригинальные сочинения китайских буддистов.</dbo:abstract>
+    <dbo:abstract xml:lang="de">Die chinesische Schrift (chinesisch 中文字, Pinyin zhōngwénzì, Zhuyin ㄓㄨㄥ ㄨㄣˊ ㄗˋ) oder Han-Schrift (漢字 / 汉字, hànzì, Zhuyin ㄏㄢˋ ㄗˋ) fixiert die chinesischen Sprachen, vor allem das Hochchinesische, mit chinesischen Schriftzeichen. Sie ist damit ein zentraler Träger der chinesischen Kultur und diente auch als Grundlage der japanischen Schriften (Kanji, Hiragana, Katakana), einer vietnamesischen Schrift (Chữ nôm) und einer der koreanischen Schriften (Hanja). Insgesamt gibt es circa 87.000 Schriftzeichen, von denen viele jedoch nur selten verwendet werden. Für den alltäglichen Bedarf ist die Kenntnis von 3000 bis 5000 Zeichen notwendig.</dbo:abstract>
+    <dbo:abstract xml:lang="nl">Hanzi (IPA: [ han tsɨ ]) betekent letterlijk &#39;Chinees karakter&#39; in het Standaardmandarijn. Deze karakters worden gebruikt om de Chinese talen op te schrijven. Hanzi is onder te verdelen in traditionele en vereenvoudigde karakters. Chinese tekens worden doorgaans ingedeeld in 5 categorieën: 
+* ideogrammen (ideeweergave): 下 = onder, 上 = boven 
+* pictogrammen (beeldweergave): 月 = maan, 日 = zon 
+* samengestelde ideogrammen: 日+月 = 明 = helder 
+* fonogrammen (betekenisweergave via radicaal en fonetisch deel) 
+* vb: 女 (radicaal: ‘vrouw’ + 马 (fonetisch element ‘ma’ (paard)) = 妈 ‘moeder’ 
+* uitleg: de radicaal geeft de betekenis weer (een vrouw), het fonetisch element ‘ma’ geeft de uitspraak weer van het samengestelde teken 妈 (‘màa’). 
+* leenkarakters: voor abstracte woorden neemt men een al bestaand karakter en de bijbehorende uitspraak over 
+* vb: 象(olifant) wordt ook gebruikt voor “lijken/gelijken op” Het grootste deel van de gebruikte karakters zijn fonogrammen (~90%).</dbo:abstract>
+    <dbo:abstract xml:lang="es">Un sinograma o carácter han (chino tradicional: 漢字, chino simplificado: 汉字, pinyin: hànzì) es un logograma originario de China. Los sinogramas eran utilizados antiguamente por las naciones de Asia del Este para escribir textos en chino clásico, y posteriormente lo han sido en la escritura china y la japonesa, así como en la coreana, en la vietnamita y en . Como los caracteres chinos (hanzi), los sinogramas son morfosilábicos: cada uno corresponde a una sílaba pronunciada y aporta un significado elemental. Aunque las hay de uno, la mayoría de las palabras se escriben con dos o más sinogramas (por tanto son bi- o polisilábicas), y tienen un significado distinto a la suma de los sinogramas que la componen. Los cognados entre dialectos chinos tienen las misma escritura (el mismo sinograma) y significados similares pero suelen tener pronunciaciones diferentes. Como los caracteres japoneses (kanji), los sinogramas se comportan como lexemas y la gramática se complementa con los silabarios japoneses. En japonés un sinograma puede representar varias sílabas. De otros idiomas nacionales, destaca el coreano (hanja), que los ha sustituido por el alfabeto coreano pero los sigue utilizando para desambiguar palabras homófonas, y el vietnamita (hán tự) que los ha sustituido completamente por el alfabeto vietnamita: letras latinas con diacríticos. En estos casos los sinogramas pueden representar solo el significado pero la pronunciación del idioma local, o a la vez significado y pronunciación en palabras tomadas del chino. Las pronunciaciones extranjeras de caracteres chinos se conocen como sinoxénicas.</dbo:abstract>
+    <dbo:abstract xml:lang="it">I caratteri cinesi (漢字T, 汉字S, hànzìP) sono le unità minime di significato (in linguaggio specialistico chiamate logogrammi) utilizzate nella scrittura del cinese. Le più antiche testimonianze certe dell&#39;esistenza di un sistema di scrittura basato sui caratteri antenati degli attuali caratteri cinesi risalgono al 1250 a.C. Alcune varianti dei caratteri cinesi sono impiegati anche nell&#39;ambito della scrittura del giapponese, del coreano e in passato anche nel vietnamita.</dbo:abstract>
+    <dbo:abstract xml:lang="fr">Les caractères chinois (ou sinogrammes) sont les unités de l’écriture logographique des langues chinoises. Leur utilisation s&#39;étend sur une large étendue géographique, la « sinosphère ». Ils sont appelés en chinois hànzì qui s&#39;écrivent, traditionnellement, 漢字, « caractères han » et, depuis le XXe siècle en République populaire de Chine et en Malaisie (et Singapour) par la majorité des Chinois, en chinois simplifié 汉字. Ils ont été dans le passé ou sont également de nos jours utilisés pour écrire d&#39;autres langues, à titre principal ou complémentaire, notamment le coréen (hanja), le japonais (kanji) ou le vietnamien (chữ nho). Les caractères chinois forment le plus ancien système d&#39;écriture qui soit resté d&#39;un usage continu.Du fait de leur usage généralisé en Chine et au Japon, et par l&#39;usage historique qui en a été fait dans la sinosphère, les caractères chinois figurent au deuxième rang des systèmes d&#39;écriture dans le monde, derrière l&#39;alphabet latin, et devant tous les autres systèmes alphabétiques. L’effectif précis des sinogrammes existants est sujet à débat. Leur nombre peut se compter en dizaines de milliers, les estimations vont de 40 000 à plus de 60 000 si on prend en considération leur nombre sur la durée totale d’existence de l’écriture chinoise. Mais les 3/4 sont des variantes graphiques (异体字 / 異體字, yìtǐzì) qui ne sont plus utilisées. Le chinois courant requiert la connaissance de 3 000 à 5 000 sinogrammes et le japonais de 2 000 à 3 000. Les caractères chinois retranscrivent à l&#39;origine le chinois archaïque et le chinois médiéval. Ils se rattachent à présent à divers standards nationaux de caractères, qui donnent une référence pour la forme et la prononciation. Les sinogrammes simplifiés sont utilisés en Chine continentale (dans ses différentes langues chinoises : mandarin standard, cantonais...) et à Singapour. Les sinogrammes traditionnels sont utilisés à Taïwan, à Hong Kong et à Macao. Au Japon, une partie des caractères d&#39;usage fréquent sont écrits en forme simplifiée japonaise (shinjitai), assez proche des caractères traditionnels ; les caractères plus rares sont écrits en forme traditionnelle. Taïwan et Hong Kong utilisent toujours l’écriture que les Occidentaux appellent « traditionnelle » et que les Chinois désignent soit par le terme 繁体字 / 繁體字, fántǐzì, « caractères compliqués » soit par le terme 正体字 / 正體字, zhèngtǐzì, « caractères normaux », cette deuxième appellation étant principalement utilisée en République de Chine (Taïwan). Le nombre de traits (筆素, bǐ sù) d&#39;un sinogramme peut aller de un (一 / 乙) à trente six (齉, Nàng) pour ce qui est de l’écriture simplifiée (简体字 / 簡體字, jiǎntǐzì) en usage en République populaire de Chine et à Singapour, voire plus pour des idéogrammes traditionnels ou des variantes.</dbo:abstract>
+    <dbo:abstract xml:lang="ar">25بك المحتوى هنا ينقصه الاستشهاد بمصادر. يرجى إيراد مصادر موثوق بها. أي معلومات غير موثقة يمكن التشكيك بها وإزالتها. (مارس 2016) الحروف الصينية هي رموز تستخدم في كتابة اللغة الصينية، اليابانية والكورية. لم تعد الحروف الصينية مستخدمة في اللغة الفيتنامية حيث كانت مستخدمة حتى القرن العشرين. وقد اختفت في كوريا الجنوبية، حيث استبدلت تماما بالهانغول ولا تستخدم إلا لماماً في كوريا الشمالية. تسمى الأحرف الصينية «خنتسي» (hànzì) في الصينية المندرينية، الكانجي في اليابانية، الهانجا أو الهانمون في الكورية وهنتي في الفيتنامية (كل هذه الأسماء ما عدا الاسم الأخير هي نطق الحرفين الذين تكتب بهما كلمة &quot;الأحرف الصينية&quot; وهما 漢字 في هذه اللغات). تتشكل كل كلمة صينية من حرف واحد أو أكثر (&quot;字&quot; zì)، فمثلا كلمة hànzì تتشكل من حرفين. يمثل كل حرف وحدة مقطعية منفردة في جميع التشكيلات المنطوقة من اللغة الصينية التي لازلت موجودة لحد الآن وكذلك الأمر بالنسبة للكورية. واستثناء هذه القاعدة هو الحرف 児 ذو الصيغة المبسطة 儿، الذي يمثل الصوت -r الذي يلحق ببعض الكلمات في الماندرين. على خلاف الاعتقاد السائد، قليل من الأحرف الصينية رموز صورية رغم أن هذه الأخيرة حروف للكلمات الأكثر تداولا. فمثلا، الحرف الصيني الذي يعني &quot;مظلة&quot; هو رمز صوري لمظلة : 傘 (伞) san. معظم الحروف مبنية على حروف أخرى. مثلا : &quot;按&quot; والذي ينطق àn ويعني الفعل &quot;ضغط&quot;، يضم الحرف &quot;安&quot; الذي يعني &quot;السلام&quot; والذي يستخدم في نطق هذه الكلمة، والحرف &quot;手&quot; الذي ينطق shǒu ويعني &quot;يد&quot; أي أن هذا الفعل يؤدى باليد. في بر الصين الرئيسي، تم تشكيل آلاف الحروف المبسطة بين سنتي 1956 و 1964 وذلك لمحاربة الأمية. وهذا ما خلق فرقا أساسيا بين مجموعتي الأحرف القائمة الآن. تستخدم الأحرف التقليدية في تايوان، هونغ كونغ، ماكاو وماليزيا بينما تستخدم الحروف المبسطة في البر الصيني، سنغافورة وأيضا في ماليزيا. لا ترتبط اليابانية ولا الكورية ولا الفيتنامية برابط لساني مع الصينية ولذا فقد تم تبني عدة تعديلات على الأحرف الصينية لتلائم هذا اللغات ذات القواعد والنطق المختلفين. عدد الأحرف الصينية  الواردة في القاموس هو حوالي 47035، ورغم أن عددا كبيرا من هؤلاء التي تراكمت على مر التاريخ نادرا ما يتم استخدام البدائل. الدراسات التي اجريت في الصين أظهرت أن محو الامية الكاملة يتطلب معرفة من بين ثلاثة وأربعة آلاف حرف.</dbo:abstract>
+    <dbp:teo rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">hang3 ri7</dbp:teo>
+    <dbp:bpmf rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">ㄏㄢˋ ㄗˋ</dbp:bpmf>
+    <dbp:caption rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Elephant</dbp:caption>
+    <dbp:caption rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Mountain</dbp:caption>
+    <dbp:caption rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Sun</dbp:caption>
+    <dbp:direction rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">vertical</dbp:direction>
+    <dbp:fam rdf:resource="http://dbpedia.org/resource/Oracle_Bone_Script" />
+    <dbp:footer rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Structures of compounds, with marked positions of radicals.</dbp:footer>
+    <dbp:footer rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Evolution of Pictograms</dbp:footer>
+    <dbp:gan rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">hon5-ci5</dbp:gan>
+    <dbp:gr rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Hanntzyh</dbp:gr>
+    <dbp:h rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">hon55 sii55</dbp:h>
+    <dbp:hangul rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">한자</dbp:hangul>
+    <dbp:hiragana rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">かんじ</dbp:hiragana>
+    <dbp:image rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Busyu-kamae6.svg</dbp:image>
+    <dbp:image rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Busyu-ashi3.svg</dbp:image>
+    <dbp:image rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Busyu-tsukuri.svg</dbp:image>
+    <dbp:image rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Busyu-kamae3.svg</dbp:image>
+    <dbp:image rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Busyu-kamae5.svg</dbp:image>
+    <dbp:image rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Busyu-tare.svg</dbp:image>
+    <dbp:image rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Evo-elephant.png</dbp:image>
+    <dbp:image rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Busyu-kanmuri.svg</dbp:image>
+    <dbp:image rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Busyu-hen.svg</dbp:image>
+    <dbp:image rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Evo-shān.svg</dbp:image>
+    <dbp:image rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Busyu-ashi2.svg</dbp:image>
+    <dbp:image rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Busyu-kamae2.svg</dbp:image>
+    <dbp:image rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Evo-rì.svg</dbp:image>
+    <dbp:image rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Busyu-kamae4.svg</dbp:image>
+    <dbp:image rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Busyu-ashi.svg</dbp:image>
+    <dbp:image rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Busyu-nyou.svg</dbp:image>
+    <dbp:image rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Busyu-kamae.svg</dbp:image>
+    <dbp:iso rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Hani</dbp:iso>
+    <dbp:j rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">hon3 zi6</dbp:j>
+    <dbp:kanji rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">漢字</dbp:kanji>
+    <dbp:kunrei rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">kanzi</dbp:kunrei>
+    <dbp:l rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">&quot;Han characters&quot;</dbp:l>
+    <dbp:languages rdf:resource="http://dbpedia.org/resource/Korean_language" />
+    <dbp:languages rdf:resource="http://dbpedia.org/resource/Vietnamese_language" />
+    <dbp:languages rdf:resource="http://dbpedia.org/resource/Chinese_language" />
+    <dbp:languages rdf:resource="http://dbpedia.org/resource/Japanese_language" />
+    <dbp:mc rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">xanCdzɨC</dbp:mc>
+    <dbp:mr rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">hancha</dbp:mr>
+    <dbp:p rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">hànzì</dbp:p>
+    <dbp:p rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">shuāngxǐ</dbp:p>
+    <dbp:pic rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Hanzi.svg200px</dbp:pic>
+    <dbp:piccap rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">&quot;Chinese character&quot; in traditional  and simplified form</dbp:piccap>
+    <dbp:poj rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">hàn-jī</dbp:poj>
+    <dbp:project rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">wiktionary</dbp:project>
+    <dbp:revhep rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">kanji</dbp:revhep>
+    <dbp:rr rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">hanja</dbp:rr>
+    <dbp:s rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">双喜</dbp:s>
+    <dbp:s rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">汉字</dbp:s>
+    <dbp:t rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">漢字</dbp:t>
+    <dbp:t rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">雙喜</dbp:t>
+    <dbp:text rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Radical index on Wiktionary</dbp:text>
+    <dbp:text rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Total strokes index on Wiktionary</dbp:text>
+    <dbp:time rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Bronze Age China to present</dbp:time>
+    <dbp:title rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">The Chinese recorder and missionary journal, Volume 3</dbp:title>
+    <dbp:type rdf:resource="http://dbpedia.org/resource/Logographic" />
+    <dbp:vie rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">chữ Hán</dbp:vie>
+    <dbp:w rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">han4-tzu4</dbp:w>
+    <dbp:width rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">300</dbp:width>
+    <dbp:width rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">30</dbp:width>
+    <dbp:y rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">hon-jih</dbp:y>
+    <dbp:year rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1871</dbp:year>
+    <dbp:zha rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">15</dbp:zha>
+    <dbp:zha rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Sawgun</dbp:zha>
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Logograms" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Chinese_ideography">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Chinese_characters" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hànzì">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Chinese_characters" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hán_tu">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Chinese_characters" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/CJK_Compatibility_Ideographs_Supplement">
+    <dbp:script rdf:resource="http://dbpedia.org/resource/Chinese_characters" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/CJK_Symbols_and_Punctuation">
+    <dbp:script rdf:resource="http://dbpedia.org/resource/Chinese_characters" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/CJK_Unified_Ideographs_(Unicode_block)">
+    <dbp:script rdf:resource="http://dbpedia.org/resource/Chinese_characters" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/CJK_Unified_Ideographs_Extension_A">
+    <dbp:script rdf:resource="http://dbpedia.org/resource/Chinese_characters" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/CJK_Unified_Ideographs_Extension_B">
+    <dbp:script rdf:resource="http://dbpedia.org/resource/Chinese_characters" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/CJK_Unified_Ideographs_Extension_E">
+    <dbp:script rdf:resource="http://dbpedia.org/resource/Chinese_characters" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Chinese_character">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Chinese_characters" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Han_characters">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Chinese_characters" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/List_of_common_Chinese_characters">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Chinese_characters" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Chinese_script">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Chinese_characters" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Old_Mandarin">
+    <dbp:script rdf:resource="http://dbpedia.org/resource/Chinese_characters" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/CJK_Compatibility_Ideographs">
+    <dbp:script rdf:resource="http://dbpedia.org/resource/Chinese_characters" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kanbun_(Unicode_block)">
+    <dbp:alphabets rdf:resource="http://dbpedia.org/resource/Chinese_characters" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Chinese_Characters">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Chinese_characters" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Origins_of_Chinese_Characters">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Chinese_characters" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Chữ_Trung_Quốc">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Chinese_characters" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hán_Tự">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Chinese_characters" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Polysyllabic_character">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Chinese_characters" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Southern_Min">
+    <dbp:script rdf:resource="http://dbpedia.org/resource/Chinese_characters" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Suiyang_County">
+    <dbp:translitLang rdf:resource="http://dbpedia.org/resource/Chinese_characters" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gaocheng,_Sichuan">
+    <dbp:translitLang rdf:resource="http://dbpedia.org/resource/Chinese_characters" />
+    <dbp:translitLang2Type rdf:resource="http://dbpedia.org/resource/Chinese_characters" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hanzi">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Chinese_characters" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hainanese">
+    <dbp:script rdf:resource="http://dbpedia.org/resource/Chinese_characters" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Oracle_bone_script">
+    <dbp:children rdf:resource="http://dbpedia.org/resource/Chinese_characters" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Han_character">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Chinese_characters" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Han_graphs">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Chinese_characters" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/CJK_Unified_Ideographs_Extension_D">
+    <dbp:script rdf:resource="http://dbpedia.org/resource/Chinese_characters" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sinograph">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Chinese_characters" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sinography">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Chinese_characters" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Han_ideographs">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Chinese_characters" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ancient_Chinese_characters">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Chinese_characters" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Chu_Trung_Quoc">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Chinese_characters" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Chinese_Character">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Chinese_characters" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Chinese_Symbols">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Chinese_characters" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Origins_of_Chinese_characters">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Chinese_characters" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/汉字">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Chinese_characters" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Han-Tu">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Chinese_characters" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Han-tu">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Chinese_characters" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hán-Tự">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Chinese_characters" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hán-tự">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Chinese_characters" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hántự">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Chinese_characters" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Han_Character">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Chinese_characters" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Number_of_Chinese_characters">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Chinese_characters" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Number_of_characters_in_Chinese">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Chinese_characters" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Number_of_characters_in_the_Chinese_language">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Chinese_characters" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Han_script">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Chinese_characters" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/List_of_Frequently_Used_Characters">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Chinese_characters" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Chinese_symbol">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Chinese_characters" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Han_tự">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Chinese_characters" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sawgun">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Chinese_characters" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Chinese_letters">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Chinese_characters" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Polysyllabic_Chinese_character">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Chinese_characters" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Polysyllabic_Chinese_morpheme">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Chinese_characters" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Chinese_characters">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Chinese_characters" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Han-tzu">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Chinese_characters" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Semantic-phonetic_compound">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Chinese_characters" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Han_(script)">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Chinese_characters" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hani_(script)">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Chinese_characters" />
+  </rdf:Description>
+</rdf:RDF>

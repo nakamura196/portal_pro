@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:dbo="http://dbpedia.org/ontology/"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:prov="http://www.w3.org/ns/prov#" >
+  <rdf:Description rdf:about="http://dbpedia.org/resource/TASS">
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Abbreviation107091587" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Word106286395" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Abstraction100002137" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Form106290637" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Relation100031921" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Part113809207" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/LanguageUnit106284225" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatAbbreviations" />
+    <rdfs:label xml:lang="en">TASS</rdfs:label>
+    <rdfs:label xml:lang="de">TASS (Begriffsklärung)</rdfs:label>
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/TASS" />
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q1905225" />
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q1905225" />
+    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/TASS_(Begriffsklärung)" />
+    <owl:sameAs rdf:resource="http://yago-knowledge.org/resource/TASS" />
+    <dbo:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">434844</dbo:wikiPageID>
+    <dbo:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">745094132</dbo:wikiPageRevisionID>
+    <dbo:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/Technical,_Administrative_and_Supervisory_Section" />
+    <dbo:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/Toxic_Anterior_Segment_Syndrome" />
+    <dbo:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/Tactical_Automated_Security_System" />
+    <dbo:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/Tass_Times_in_Tonetown" />
+    <dbo:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/Trading_Advisor_Selection_System" />
+    <dbo:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/Tass,_Hungary" />
+    <dbo:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/Tass_River" />
+    <dbo:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/Russian_News_Agency_TASS" />
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/TASS" />
+    <prov:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/TASS?oldid=745094132" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tass">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/TASS" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/TASS_(disambiguation)">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/TASS" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/TASS">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/TASS" />
+  </rdf:Description>
+</rdf:RDF>

@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:dbo="http://dbpedia.org/ontology/"
+	xmlns:dbp="http://dbpedia.org/property/"
+	xmlns:dct="http://purl.org/dc/terms/"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:prov="http://www.w3.org/ns/prov#"
+	xmlns:georss="http://www.georss.org/georss/"
+	xmlns:ns10="http://purl.org/linguistics/gold/" >
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nathan_Straus">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Palatinate_(region)" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kreisliga_Hessen">
+    <dbp:state rdf:resource="http://dbpedia.org/resource/Palatinate_(region)" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kreisliga_Saar">
+    <dbp:state rdf:resource="http://dbpedia.org/resource/Palatinate_(region)" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Westkreis-Liga">
+    <dbp:state rdf:resource="http://dbpedia.org/resource/Palatinate_(region)" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/German_Palatinate">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Palatinate_(region)" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ludwig_Fischer">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Palatinate_(region)" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/John_Jacob_Astor">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Palatinate_(region)" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Phillip_Hamman">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Palatinate_(region)" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Palatine_German_language">
+    <dbo:spokenIn rdf:resource="http://dbpedia.org/resource/Palatinate_(region)" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Isidor_Straus">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Palatinate_(region)" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Oskar_Bolza">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Palatinate_(region)" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Palatinate">
+    <dbo:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/Palatinate_(region)" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/List_of_German_dishes">
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Palatinate_(region)" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lewis_P._Ohliger">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Palatinate_(region)" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Werner_Lamberz">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Palatinate_(region)" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Palatinate_(region)">
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Region108630039" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PhysicalEntity100001930" />
+    <rdf:type rdf:resource="http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Object100002684" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Settlement" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoLegalActorGeo" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Location100027167" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatRegionsOfRhineland-Palatinate" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoGeoEntity" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoPermanentlyLocatedEntity" />
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatFormerGovernmentRegionsOfGermany" />
+    <rdfs:label xml:lang="de">Pfalz (Region)</rdfs:label>
+    <rdfs:label xml:lang="fr">Palatinat rhénan</rdfs:label>
+    <rdfs:label xml:lang="ru">Пфальц (регион)</rdfs:label>
+    <rdfs:label xml:lang="es">Palatinado Renano</rdfs:label>
+    <rdfs:label xml:lang="zh">普法爾茨地區</rdfs:label>
+    <rdfs:label xml:lang="en">Palatinate (region)</rdfs:label>
+    <rdfs:label xml:lang="nl">Palts (streek)</rdfs:label>
+    <rdfs:label xml:lang="ja">プファルツ地方</rdfs:label>
+    <rdfs:label xml:lang="pl">Palatynat</rdfs:label>
+    <rdfs:label xml:lang="it">Palatinato (regione)</rdfs:label>
+    <rdfs:label xml:lang="pt">Palatinado (região)</rdfs:label>
+    <rdfs:comment xml:lang="de">Die Pfalz ist eine Region in Südwestdeutschland, die im Süden des Landes Rheinland-Pfalz liegt. Sie besitzt eine Fläche von 5451,13 km² und hat etwa 1,4 Millionen Einwohner.</rdfs:comment>
+    <rdfs:comment xml:lang="zh">普法爾茨地區 (德语：Pfalz) 是德國的一個地理區域。指萊茵蘭-普法爾茨的南部地區。普法爾茨一詞是指一座特殊領地，其領主稱為普法爾茨伯爵，意為「王權伯爵」。在普法爾茨領地內，普法爾茨伯爵擁有行使王權的能力。在拿破崙戰爭之後，普法爾茨地區是巴伐利亞王國的一塊飛地。</rdfs:comment>
+    <rdfs:comment xml:lang="pl">Palatynat (niem. Pfalz), historycznie także Palatynat Reński (Rheinpfalz) – kraina historyczna w zachodnich Niemczech na zachód od Renu. Obecnie wchodzi w skład kraju związkowego Nadrenia-Palatynat i części Badenii-Wirtembergii (Heidelberg).Główne miasta: Ludwigshafen am Rhein, Kaiserslautern, Frankenthal (Pfalz), Neustadt an der Weinstraße, Landau in der Pfalz, Heidelberg, Spira, Mannheim, Pirmasens, Zweibrücken.</rdfs:comment>
+    <rdfs:comment xml:lang="nl">De Palts (Duits: Pfalz, Paltsisch: Palz) is een streek in het zuiden van het Duitse bondsland Rijnland-Palts. Het gebied is 5.451 km² groot en heeft ongeveer 1,4 miljoen inwoners. De wijnstreek Palts is de op één na grootste wijnstreek van Duitsland. Een derde van de Palts wordt ingenomen door het Paltserwoud. De meeste steden liggen in de Rijnvlakte.</rdfs:comment>
+    <rdfs:comment xml:lang="en">The Palatinate (German: die Pfalz, Pfälzer dialect: Palz), historically also Rhenish Palatinate (German: Rheinpfalz), is a region in southwestern Germany. It occupies more than a quarter of the German federal state of Rhineland-Palatinate (Rheinland-Pfalz), covering an area of 5,451 square kilometres (2,105 sq mi) with about 1.4 million inhabitants. Its demonym is Palatine.</rdfs:comment>
+    <rdfs:comment xml:lang="es">El Palatinado Renano (en alemán: Rheinpfalz, a veces llamado &quot;Bajo Palatinado&quot; o Niederpfalz, en contraposición con el &quot;Alto Palatinado&quot; o Oberpfalz) era un área geográfica que abarcaba históricamente todo el territorio al oeste del río Rin. En la actualidad forma parte, desde 1946, del land alemán de Renania-Palatinado y contiene las ciudades de Ludwigshafen, Kaiserslautern, Neustadt an der Weinstraße, Pirmasens, Rodalben, Zweibrücken, Landau in der Pfalz y Espira.</rdfs:comment>
+    <rdfs:comment xml:lang="ja">プファルツ地方 (ドイツ語: Pfalz) は、ドイツのラインラント＝プファルツ州の南部地方のこと。ファルツ、プァルツとも表記される。 かつてのライン宮中伯領（プファルツ選帝侯領）の一部で、現在は上級自治体連合のプファルツ県連合 (Bezirksverband Pfalz) となっている。 英語では“Palatinate”（パラティネート）。他のヨーロッパ諸語での名称もドイツ語名あるいは英語名に類する。</rdfs:comment>
+    <rdfs:comment xml:lang="pt">O Palatinado (em alemão: Pfalz), historicamente Palatinado Renano (em latim: Palatinatum Renensis; em alemão: Rheinpfalz), é uma região no sudoeste da Alemanha. A região ocupa mais que um quarto do estado (Bundesland) da Renânia-Palatinado (Rheinland-Pfalz).</rdfs:comment>
+    <rdfs:comment xml:lang="fr">Le Palatinat rhénan (en allemand : Pfalz ou Rheinpfalz) est une région dans l&#39;Ouest de l&#39;Allemagne, occupant plus d&#39;un quart du land de Rhénanie-Palatinat. Il compte environ 1,4 million d&#39;habitants pour 5 451,13 km2.</rdfs:comment>
+    <rdfs:comment xml:lang="it">Il Palatinato (Pfalz in tedesco, Palz in tedesco palatino), conosciuto anche come Palatinato renano (in tedesco Rheinpfalz) è una regione storica, geografica, e linguistica della Germania sud-occidentale. Occupa circa un quarto dello stato federato della Renania-Palatinato.</rdfs:comment>
+    <rdfs:comment xml:lang="ru">Пфальц (нем. Pfalz) — историческая область на юго-западе Германии на юге федеральной земли Рейнланд-Пфальц восточнее Саара и к западу от Гессена. Площадь — около 5 тыс. км², население около 1,4 млн.жителей. Около трети территории региона занимает Пфальцский Лес, считающийся самым крупным лесным массивом Германии. В долинах развито выращивание винограда. В Пфальце ежегодно производится 6,5 млн. гектолитров вина. Больше вина в Германии производится лишь в Рейнгессене.</rdfs:comment>
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Palatinate_(wine_region)" />
+    <owl:sameAs rdf:resource="http://pt.dbpedia.org/resource/Palatinado_(região)" />
+    <owl:sameAs rdf:resource="http://fr.dbpedia.org/resource/Palatinat_rhénan" />
+    <owl:sameAs rdf:resource="http://it.dbpedia.org/resource/Palatinato_(regione)" />
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q326359" />
+    <owl:sameAs rdf:resource="http://yago-knowledge.org/resource/Palatinate_(region)" />
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q326359" />
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.09plw" />
+    <owl:sameAs rdf:resource="http://ja.dbpedia.org/resource/プファルツ地方" />
+    <owl:sameAs rdf:resource="http://cs.dbpedia.org/resource/Rýnská_Falc" />
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Palatinate_(region)" />
+    <owl:sameAs rdf:resource="http://es.dbpedia.org/resource/Palatinado_Renano" />
+    <owl:sameAs rdf:resource="http://nl.dbpedia.org/resource/Palts_(streek)" />
+    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/Pfalz_(Region)" />
+    <owl:sameAs rdf:resource="http://d-nb.info/gnd/4076031-5" />
+    <owl:sameAs rdf:resource="http://ko.dbpedia.org/resource/팔츠" />
+    <owl:sameAs rdf:resource="http://pl.dbpedia.org/resource/Palatynat" />
+    <owl:sameAs rdf:resource="http://eu.dbpedia.org/resource/Renaniar_Palatinatu" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Geography_of_Rhineland-Palatinate" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Regions_of_Rhineland-Palatinate" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Former_government_regions_of_Germany" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Palatinate_(region)" />
+    <dbo:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">38849</dbo:wikiPageID>
+    <dbo:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">744520498</dbo:wikiPageRevisionID>
+    <dbo:wikiPageExternalLink rdf:resource="http://www.newadvent.org/cathen/11415b.htm" />
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#float">49.4333</geo:lat>
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#float">7.76667</geo:long>
+    <foaf:depiction rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Wappen_Rheinpfalz.svg" />
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Palatinate_(region)" />
+    <geo:geometry rdf:datatype="http://www.openlinksw.com/schemas/virtrdf#Geometry">POINT(7.7666668891907 49.433334350586)</geo:geometry>
+    <dbo:thumbnail rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Wappen_Rheinpfalz.svg?width=300" />
+    <prov:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Palatinate_(region)?oldid=744520498" />
+    <dbo:abstract xml:lang="en">The Palatinate (German: die Pfalz, Pfälzer dialect: Palz), historically also Rhenish Palatinate (German: Rheinpfalz), is a region in southwestern Germany. It occupies more than a quarter of the German federal state of Rhineland-Palatinate (Rheinland-Pfalz), covering an area of 5,451 square kilometres (2,105 sq mi) with about 1.4 million inhabitants. Its demonym is Palatine.</dbo:abstract>
+    <dbo:abstract xml:lang="pl">Palatynat (niem. Pfalz), historycznie także Palatynat Reński (Rheinpfalz) – kraina historyczna w zachodnich Niemczech na zachód od Renu. Obecnie wchodzi w skład kraju związkowego Nadrenia-Palatynat i części Badenii-Wirtembergii (Heidelberg).Główne miasta: Ludwigshafen am Rhein, Kaiserslautern, Frankenthal (Pfalz), Neustadt an der Weinstraße, Landau in der Pfalz, Heidelberg, Spira, Mannheim, Pirmasens, Zweibrücken.</dbo:abstract>
+    <dbo:abstract xml:lang="ja">プファルツ地方 (ドイツ語: Pfalz) は、ドイツのラインラント＝プファルツ州の南部地方のこと。ファルツ、プァルツとも表記される。 かつてのライン宮中伯領（プファルツ選帝侯領）の一部で、現在は上級自治体連合のプファルツ県連合 (Bezirksverband Pfalz) となっている。 英語では“Palatinate”（パラティネート）。他のヨーロッパ諸語での名称もドイツ語名あるいは英語名に類する。</dbo:abstract>
+    <dbo:abstract xml:lang="de">Die Pfalz ist eine Region in Südwestdeutschland, die im Süden des Landes Rheinland-Pfalz liegt. Sie besitzt eine Fläche von 5451,13 km² und hat etwa 1,4 Millionen Einwohner.</dbo:abstract>
+    <dbo:abstract xml:lang="zh">普法爾茨地區 (德语：Pfalz) 是德國的一個地理區域。指萊茵蘭-普法爾茨的南部地區。普法爾茨一詞是指一座特殊領地，其領主稱為普法爾茨伯爵，意為「王權伯爵」。在普法爾茨領地內，普法爾茨伯爵擁有行使王權的能力。在拿破崙戰爭之後，普法爾茨地區是巴伐利亞王國的一塊飛地。</dbo:abstract>
+    <dbo:abstract xml:lang="it">Il Palatinato (Pfalz in tedesco, Palz in tedesco palatino), conosciuto anche come Palatinato renano (in tedesco Rheinpfalz) è una regione storica, geografica, e linguistica della Germania sud-occidentale. Occupa circa un quarto dello stato federato della Renania-Palatinato.</dbo:abstract>
+    <dbo:abstract xml:lang="es">El Palatinado Renano (en alemán: Rheinpfalz, a veces llamado &quot;Bajo Palatinado&quot; o Niederpfalz, en contraposición con el &quot;Alto Palatinado&quot; o Oberpfalz) era un área geográfica que abarcaba históricamente todo el territorio al oeste del río Rin. En la actualidad forma parte, desde 1946, del land alemán de Renania-Palatinado y contiene las ciudades de Ludwigshafen, Kaiserslautern, Neustadt an der Weinstraße, Pirmasens, Rodalben, Zweibrücken, Landau in der Pfalz y Espira. El Bajo Palatinado fue gobernado por los condes de la dinastía Wittelsbach desde 1214 hasta 1918, (dejando aparte los años de la anexión por Francia después de 1795). Esta área fue devastada durante la Guerra de los Treinta Años, y por la invasión Francesa en 1689. El Alto Palatinado, por el contrario, es de mayor tamaño y está situado en Baviera, a 300 kilómetros del anterior, al norte del río Danubio, y es un distrito del Bundesland de Baviera, sin tener contacto con el anterior. Contiene las ciudades de Ratisbona y Amberg. El nombre de Palatinado procede de Conde Palatino. Un cargo del Sacro Imperio Romano Germánico el cual tenía a su cargo varios castillos donde el Emperador del Sacro Imperio se alojaba en sus viajes.</dbo:abstract>
+    <dbo:abstract xml:lang="ru">Пфальц (нем. Pfalz) — историческая область на юго-западе Германии на юге федеральной земли Рейнланд-Пфальц восточнее Саара и к западу от Гессена. Площадь — около 5 тыс. км², население около 1,4 млн.жителей. Около трети территории региона занимает Пфальцский Лес, считающийся самым крупным лесным массивом Германии. В долинах развито выращивание винограда. В Пфальце ежегодно производится 6,5 млн. гектолитров вина. Больше вина в Германии производится лишь в Рейнгессене.</dbo:abstract>
+    <dbo:abstract xml:lang="nl">De Palts (Duits: Pfalz, Paltsisch: Palz) is een streek in het zuiden van het Duitse bondsland Rijnland-Palts. Het gebied is 5.451 km² groot en heeft ongeveer 1,4 miljoen inwoners. De wijnstreek Palts is de op één na grootste wijnstreek van Duitsland. Een derde van de Palts wordt ingenomen door het Paltserwoud. De meeste steden liggen in de Rijnvlakte.</dbo:abstract>
+    <dbo:abstract xml:lang="fr">Le Palatinat rhénan (en allemand : Pfalz ou Rheinpfalz) est une région dans l&#39;Ouest de l&#39;Allemagne, occupant plus d&#39;un quart du land de Rhénanie-Palatinat. Il compte environ 1,4 million d&#39;habitants pour 5 451,13 km2.</dbo:abstract>
+    <dbo:abstract xml:lang="pt">O Palatinado (em alemão: Pfalz), historicamente Palatinado Renano (em latim: Palatinatum Renensis; em alemão: Rheinpfalz), é uma região no sudoeste da Alemanha. A região ocupa mais que um quarto do estado (Bundesland) da Renânia-Palatinado (Rheinland-Pfalz).</dbo:abstract>
+    <georss:point>49.43333333333333 7.766666666666667</georss:point>
+    <ns10:hypernym rdf:resource="http://dbpedia.org/resource/Region" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Pfalz_(region)">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Palatinate_(region)" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Schindhübel">
+    <dbo:locatedInArea rdf:resource="http://dbpedia.org/resource/Palatinate_(region)" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Teufelsberg_(Haardt)">
+    <dbo:locatedInArea rdf:resource="http://dbpedia.org/resource/Palatinate_(region)" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Dunkelfelder">
+    <dbo:origin rdf:resource="http://dbpedia.org/resource/Palatinate_(region)" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bezirksliga_Rhein">
+    <dbp:state rdf:resource="http://dbpedia.org/resource/Palatinate_(region)" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bezirksliga_Rhein-Saar">
+    <dbp:state rdf:resource="http://dbpedia.org/resource/Palatinate_(region)" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bezirksliga_Rheinhessen-Saar">
+    <dbp:state rdf:resource="http://dbpedia.org/resource/Palatinate_(region)" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Rhenish_Bavaria">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Palatinate_(region)" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Christian_Dingler">
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Palatinate_(region)" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Michael_Hahn">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Palatinate_(region)" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Cabernet_Dorsa">
+    <dbo:origin rdf:resource="http://dbpedia.org/resource/Palatinate_(region)" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Cabernet_Mitos">
+    <dbo:origin rdf:resource="http://dbpedia.org/resource/Palatinate_(region)" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bärbel_Wartenberg-Potter">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Palatinate_(region)" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Alexander_Mack">
+    <dbp:birthPlace rdf:resource="http://dbpedia.org/resource/Palatinate_(region)" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Paul_Joseph_Nardini">
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Palatinate_(region)" />
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Palatinate_(region)" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Rhine_Palatinate">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Palatinate_(region)" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Verbandsliga_Südwest">
+    <dbp:region rdf:resource="http://dbpedia.org/resource/Palatinate_(region)" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gauliga_Südwest/Mainhessen">
+    <dbp:state rdf:resource="http://dbpedia.org/resource/Palatinate_(region)" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Karl_Haas">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Palatinate_(region)" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Palatinate_Forest">
+    <dbo:region rdf:resource="http://dbpedia.org/resource/Palatinate_(region)" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Karl-Adolf_Hollidt">
+    <dbp:birthPlace rdf:resource="http://dbpedia.org/resource/Palatinate_(region)" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Morio_Muscat">
+    <dbo:origin rdf:resource="http://dbpedia.org/resource/Palatinate_(region)" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Niederpfalz">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Palatinate_(region)" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Elizabeth_Christ_Trump">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Palatinate_(region)" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Palatinate,_Rhenish">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Palatinate_(region)" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Anterior_Palatinate">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Palatinate_(region)" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Palatinate">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Palatinate_(region)" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/South_Palatine">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Palatinate_(region)" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Palatinate_(region)">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Palatinate_(region)" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Palatinate,_Germany">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Palatinate_(region)" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Die_Pfalz">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Palatinate_(region)" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/South_Palatinate">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Palatinate_(region)" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Palatinate_region">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Palatinate_(region)" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Palatine_region">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Palatinate_(region)" />
+  </rdf:Description>
+</rdf:RDF>

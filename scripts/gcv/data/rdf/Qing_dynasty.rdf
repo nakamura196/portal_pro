@@ -1,0 +1,823 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:dbo="http://dbpedia.org/ontology/"
+	xmlns:dbp="http://dbpedia.org/property/"
+	xmlns:dct="http://purl.org/dc/terms/"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	xmlns:prov="http://www.w3.org/ns/prov#"
+	xmlns:georss="http://www.georss.org/georss/" >
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Itō_Hirobumi">
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Qing_dynasty" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Soong_Mei-ling">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Qing_dynasty" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Zhou_Enlai">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Qing_dynasty" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/C._K._Yang_(sociologist)">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Qing_dynasty" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kangxi_Emperor">
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Qing_dynasty" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Zuo_Zongtang">
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Qing_dynasty" />
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Qing_dynasty" />
+    <dbo:country rdf:resource="http://dbpedia.org/resource/Qing_dynasty" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Wong_Kei-ying">
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Qing_dynasty" />
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Qing_dynasty" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Li_Shouxin">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Qing_dynasty" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Xu_Fuguan">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Qing_dynasty" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Treaty_of_Lhasa">
+    <dbp:locationSigned rdf:resource="http://dbpedia.org/resource/Qing_dynasty" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Qing_Period">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Qing_dynasty" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tsing_Dynasty">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Qing_dynasty" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Maurice_Bowra">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Qing_dynasty" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Manchu_Dynasty">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Qing_dynasty" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Qing">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Qing_dynasty" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Baishaling_Incident">
+    <dbo:place rdf:resource="http://dbpedia.org/resource/Qing_dynasty" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ryū_Ryū_Ko">
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Qing_dynasty" />
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Qing_dynasty" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ma_Fuxing">
+    <dbo:country rdf:resource="http://dbpedia.org/resource/Qing_dynasty" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yang_Changjun">
+    <dbo:country rdf:resource="http://dbpedia.org/resource/Qing_dynasty" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hushenying">
+    <dbo:country rdf:resource="http://dbpedia.org/resource/Qing_dynasty" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ji_Yun">
+    <dbo:country rdf:resource="http://dbpedia.org/resource/Qing_dynasty" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Convention_Between_Great_Britain_and_China_Respecting_Tibet">
+    <dbp:locationSigned rdf:resource="http://dbpedia.org/resource/Qing_dynasty" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/House_of_Qing">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Qing_dynasty" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Later_Jin_(17th_century)">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Qing_dynasty" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nicholas_Kao_Se_Tseien">
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Qing_dynasty" />
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Qing_dynasty" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Wong_Fei-hung">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Qing_dynasty" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Zeng_Guofan">
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Qing_dynasty" />
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Qing_dynasty" />
+    <dbo:country rdf:resource="http://dbpedia.org/resource/Qing_dynasty" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Liu_Mingchuan">
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Qing_dynasty" />
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Qing_dynasty" />
+    <dbo:country rdf:resource="http://dbpedia.org/resource/Qing_dynasty" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Liang_Hongzhi">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Qing_dynasty" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ma_Qi">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Qing_dynasty" />
+    <dbo:country rdf:resource="http://dbpedia.org/resource/Qing_dynasty" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mao_Fumei">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Qing_dynasty" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mo_Xiong">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Qing_dynasty" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Plain_Yellow_Banner">
+    <dbo:country rdf:resource="http://dbpedia.org/resource/Qing_dynasty" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Shun_dynasty">
+    <dbp:after rdf:resource="http://dbpedia.org/resource/Qing_dynasty" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Zhao_Erfeng">
+    <dbo:country rdf:resource="http://dbpedia.org/resource/Qing_dynasty" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Borjigit,_Demoted_Empress">
+    <dbp:title rdf:resource="http://dbpedia.org/resource/Qing_dynasty" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Chinese_Repository">
+    <dbo:country rdf:resource="http://dbpedia.org/resource/Qing_dynasty" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Qing_government">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Qing_dynasty" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Qing_Chinese_Empire">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Qing_dynasty" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Chiang_Kai-shek">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Qing_dynasty" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Deng_Xiaoping">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Qing_dynasty" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mao_Zedong">
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Qing_dynasty" />
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Qing_dynasty" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Qing_dynasty">
+    <rdf:type rdf:resource="http://schema.org/Place" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q6256" />
+    <rdf:type rdf:resource="http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing" />
+    <rdf:type rdf:resource="http://schema.org/Country" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatStatesAndTerritoriesDisestablishedIn1912" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Object100002684" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoLegalActorGeo" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PhysicalEntity100001930" />
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatStatesAndTerritoriesEstablishedIn1644" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatFormerCountriesInEastAsia" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Location" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Country" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Place" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/PopulatedPlace" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoGeoEntity" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoPermanentlyLocatedEntity" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Region108630985" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Country108544813" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Location100027167" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/AdministrativeDistrict108491826" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/District108552138" />
+    <rdfs:label xml:lang="de">Qing-Dynastie</rdfs:label>
+    <rdfs:label xml:lang="it">Dinastia Qing</rdfs:label>
+    <rdfs:label xml:lang="es">Dinastía Qing</rdfs:label>
+    <rdfs:label xml:lang="en">Qing dynasty</rdfs:label>
+    <rdfs:label xml:lang="ar">سلالة تشينغ</rdfs:label>
+    <rdfs:label xml:lang="zh">清朝</rdfs:label>
+    <rdfs:label xml:lang="ru">Империя Цин</rdfs:label>
+    <rdfs:label xml:lang="pt">Dinastia Qing</rdfs:label>
+    <rdfs:label xml:lang="nl">Qing-dynastie</rdfs:label>
+    <rdfs:label xml:lang="pl">Dynastia Qing</rdfs:label>
+    <rdfs:label xml:lang="fr">Dynastie Qing</rdfs:label>
+    <rdfs:label xml:lang="ja">清</rdfs:label>
+    <rdfs:comment xml:lang="zh">「清」重定向至此。關於中文姓氏，詳見「清姓」。 清朝（1616年2月17日、1636年5月15日或1644年10月30日－1912年2月12日），正式國号為大清（满语：ᡩᠠᡳᠴᡳᠩᡤᡠᡵᡠᠨ，穆麟德：daicing gurun，太清：daiqing gurun），對外自稱大清帝國或大清国，又有稱為中华大清国、中国等等名稱，是中国历史上由滿人建立的一個朝代，也是最后一个專制王朝。统治者为建州女真的爱新觉罗氏。其最早前身為1616年努尔哈赤在滿洲地區建立的後金，1636年皇太极称帝，改定国号为「大清」，1644年藉協助明朝軍隊平定民變的名義進軍中國本土，徹底消滅明朝後統治整個中國，直至1912年中華民國建立後滅國。 政治制度基本上沿襲明朝，然而其最高決策單位隨皇帝的授權而變動，例如軍機處、總理衙門等，提升行政效率，皇帝也能充分掌權。清朝中期文字獄興盛，若有疑似反清復明的運動與散播被認為不利皇帝的消息，往往會引來冤獄，牽連成千上萬人受害。軍事方面原先以八旗軍為精銳，龐大的綠營為輔，後來以綠營和地方軍如湘軍、淮軍為支柱。清朝領土极盛时可達1310万平方公里，清末時期也維持1130萬平方公里。政治穩定、廣泛種植新作物與賦稅制度的改變，使得中國人口最後突破以往的平均值，達到四億左右。國內與國外的貿易提升，帶動經濟農業與手工業的發展。</rdfs:comment>
+    <rdfs:comment xml:lang="ja">清（しん）は、清朝、大清国、大清帝国ともいい、1616年に満洲において建国され、1644年から1912年まで中国とモンゴルを支配した最後の統一王朝である。首都は盛京（瀋陽）、後に北京に置かれた。満洲族の愛新覚羅氏（アイシンギョロ氏）が建てた征服王朝で、満洲語でᡩᠠᡳᠴᡳᠩᡤᡠᡵᡠᠨ（ラテン文字転写：Daicing gurun、カタカナ転写：ダイチン・グルン、漢語訳：大清国）といい、中国語では大清（拼音: Dàqīng、カタカナ転写：ダァチン）と号した。</rdfs:comment>
+    <rdfs:comment xml:lang="pt">A dinastia Qing (manchu: daicing gurun; em pinyin: qīng cháoe Wade-Giles: ch&#39;ing ch&#39;ao; mongol : Манж Чин Улс; mandarim: 清朝), Também Império do Grande Qing ou Grande Qing foi a última dinastia imperial da China, governando 1644-1912 com uma breve restauração abortiva em 1917. Foi precedida pela dinastia Ming e sucedida pela República da China. A Qing foi a última dinastia imperial da China; os seus imperadores ocuparam a sua capital entre 1644 e 1912 , quando, no seguimento da Revolução Xinhai, uma república foi estabelecida e o último imperador da China, Pǔyí Xiānsheng, abdicou.</rdfs:comment>
+    <rdfs:comment xml:lang="pl">Dynastia Qing (chiń.: 清朝; pinyin: Qīng cháo; Wade-Giles: Ch’ing ch’ao); mandż. , Daicing gurun, wymowa: [tɕʰi̯əŋ, pol. &quot;ćing&quot;) – ostatnia dynastia cesarska Qing, nazywana też dynastią mandżurską, panująca w Chinach w latach 1644–1912. Członkowie dynastii wywodzili się z mandżurskiego klanu Aisin Gioro.</rdfs:comment>
+    <rdfs:comment xml:lang="it">La dinastia Qing o Ch&#39;ing (cinese: 清朝S, Qīng cháoP, Ch&#39;ing ch&#39;aoW), a volte nota anche come dinastia Manciù (mancese: daicing gurun), fu fondata dal clan Manciù degli Aisin Gioro, nell&#39;attuale Manciuria, espansasi poi nella Cina vera e propria e nei territori circostanti dell&#39;Asia interna, costituendo così l&#39;Impero del grande Qing (Cinese: 大清帝国S, dàqīngdìguóP). Dichiarata in seguito come dinastia Jin Posteriore nel 1616, cambiò il suo nome nel 1636 in &quot;Qing&quot; e conquistò l&#39;intera Cina nel 1644 governandola fino al 1912. La denominazione &quot;Jin&quot; non è da confondersi con l&#39;omonima dinastia del periodo tra il 936 e il 946.</rdfs:comment>
+    <rdfs:comment xml:lang="en">The Qing dynasty (Chinese: 清朝; pinyin: Qīng Cháo; Wade–Giles: Ch&#39;ing Ch&#39;ao), officially the Great Qing (大清; Dà Qīng), also called the Empire of the Great Qing or the Manchu dynasty, was the last imperial dynasty of China, ruling from 1644 to 1912 with a brief, abortive restoration in 1917. It was preceded by the Ming dynasty and succeeded by the Republic of China. The Qing multi-cultural empire lasted almost three centuries and formed the territorial base for the modern Chinese state.</rdfs:comment>
+    <rdfs:comment xml:lang="fr">La dynastie Qing (également retranscrit dynastie Ch&#39;ing, ou dynastie Ching, ou dynastie Tsing, chinois : 清朝 ; pinyin : qīng cháo ; Wade : Ch&#39;ing ch&#39;ao ; mandchou :  Daicing gurun ; mongol : Манж Чин Улс), d&#39;origine mandchoue, est la dernière dynastie impériale à avoir régné sur la Chine, de 1644 à 1912. Elle a succédé à la dernière dynastie des Hans, la dynastie Ming. En rébellion ouverte contre les Ming dès 1616, les Mandchous prirent progressivement le pouvoir dans l&#39;ensemble de la Chine, prenant Pékin en 1644 et instaurant un nouveau régime politique, l&#39;Empire du Grand Qing (chinois simplifié : 大清国 ou 大清帝国 ; chinois traditionnel : 大清國 ou 大清帝國 ; pinyin : Dà Qīng Dì Guó). La Chine ne fut totalement sous leur autorité qu&#39;en 1683.</rdfs:comment>
+    <rdfs:comment xml:lang="de">Die Qing-Dynastie (mandschurisch ᡩᠠᡳᠴᡳᠩ ᡤᡠᡵᡠᠨ Daicing Gurun; chinesisch 清朝, Pinyin Qīngcháo, W.-G. Ch&#39;ing Ch&#39;ao), auch Mandschu-Dynastie, wurde 1616 von den Mandschu unter Nurhaci begründet und herrschte ab 1644 im Kaiserreich China. Sie löste die Ming-Dynastie ab und endete nach der Xinhai-Revolution von 1911 mit der Ausrufung der Republik China am 1. Januar 1912.</rdfs:comment>
+    <rdfs:comment xml:lang="ar">20 عن إن كنت تبحث عن سلالات حاكمة أخرى تدعى جين، فانظر أسرة جين (توضيح). مملكة تشينغ، وتعرف أيضًا باسم إمبراطورية تشينغ العظيمة أو تشينغ العظيمة، كانت آخر ممالك الصين، التي حكمت من 1644 وحتى 1912 مع محاولة استعادة فاشلة وقصيرة للحكم عام 1917. وكانت قد سبقتها في الحكم أسرة مينغ وجاء بعدها جمهورية الصين.</rdfs:comment>
+    <rdfs:comment xml:lang="es">La dinastía ching o dinastía Qing (chino: 清朝; Wade-Giles: Ch&#39;ing1 Ch&#39;ao2, pinyin: Qīng Cháo, en Idioma manchú: ᡩᠠᡳᠴᡳᠩ ᡤᡠᡵᡠᠨ , Transliteración: Daicing Gurun) o dinastía manchú fue la última de las dinastías imperiales chinas. Fue fundada por el clan manchú de Aisin-Gioro en el actual noreste de China. Al expandir su dominio por el resto de China y algunos territorios colindantes de Asia Central, estableció el Imperio del gran Qing (chino tradicional: 大淸帝國, pinyin: dàqīng dìguó).Tuvo su capital en Pekín desde su fundación en 1644 hasta la abdicación en 1912 del último emperador, como consecuencia de la Revolución de Xinhai y el establecimiento de la República de China.</rdfs:comment>
+    <rdfs:comment xml:lang="nl">De Qing-dynastie (Chinees: 清; Standaardkantonees: Tsing Tsiew), ook wel Mantsjoe-dynastie, was de laatste keizerlijke dynastie van China. Het volgde de Ming-dynastie in 1644 op en werd zelf vervangen door de republiek China in 1912.</rdfs:comment>
+    <rdfs:comment xml:lang="ru">Династия Цин, официально Великая Цин (маньчж.  дайцин гурунь, кит. трад. 大清國, палл.: Да Цин го), также известная, как Империя Великой Цин, или Маньчжурская династия, была последней императорской династией Китая. Она правила страной с 1644 по 1912 год с краткой реставрацией в 1917 (последняя продлилась всего 11 дней). Эпохе Цин предшествовала династия Мин и последовала Китайская республика. Мультикультурная Цинская Империя существовала в течение почти трёх веков и сформировала территориальную базу для современного китайского государства.</rdfs:comment>
+    <owl:differentFrom rdf:resource="http://dbpedia.org/resource/Qin_dynasty" />
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Revolt_of_the_Three_Feudatories" />
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Economic_history_of_China_before_1912" />
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Military_history_of_China_before_1911" />
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Qing_conquest_of_the_Ming" />
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Names_of_China" />
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Chinese_art" />
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Ten_Great_Campaigns" />
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Islam_during_the_Qing_dynasty" />
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Mandarin_(bureaucrat)" />
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q8733" />
+    <owl:sameAs rdf:resource="http://fr.dbpedia.org/resource/Dynastie_Qing" />
+    <owl:sameAs rdf:resource="http://pl.dbpedia.org/resource/Dynastia_Qing" />
+    <owl:sameAs rdf:resource="http://cs.dbpedia.org/resource/Dynastie_Čching" />
+    <owl:sameAs rdf:resource="http://el.dbpedia.org/resource/Δυναστεία_Τσινγκ" />
+    <owl:sameAs rdf:resource="http://d-nb.info/gnd/4088875-7" />
+    <owl:sameAs rdf:resource="http://it.dbpedia.org/resource/Dinastia_Qing" />
+    <owl:sameAs rdf:resource="http://id.dbpedia.org/resource/Dinasti_Qing" />
+    <owl:sameAs rdf:resource="http://ko.dbpedia.org/resource/청나라" />
+    <owl:sameAs rdf:resource="http://eu.dbpedia.org/resource/Qing_dinastia" />
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Qing_dynasty" />
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q8733" />
+    <owl:sameAs rdf:resource="http://pt.dbpedia.org/resource/Dinastia_Qing" />
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.06b9n" />
+    <owl:sameAs rdf:resource="http://es.dbpedia.org/resource/Dinastía_Qing" />
+    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/Qing-Dynastie" />
+    <owl:sameAs rdf:resource="http://nl.dbpedia.org/resource/Qing-dynastie" />
+    <owl:sameAs rdf:resource="http://ja.dbpedia.org/resource/清" />
+    <owl:sameAs rdf:resource="http://yago-knowledge.org/resource/Qing_dynasty" />
+    <owl:sameAs rdf:resource="http://yago-knowledge.org/resource/Qing_Dynasty" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:17th_century_in_China" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:History_of_Mongolia" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:History_of_Manchuria" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:20th_century_in_China" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Articles_containing_video_clips" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:1644_establishments_in_China" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:States_and_territories_disestablished_in_1912" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:States_and_territories_established_in_1644" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:18th_century_in_China" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:1912_disestablishments_in_China" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:19th_century_in_China" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Dynasties_in_Chinese_history" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Qing_dynasty" />
+    <dbo:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">25310</dbo:wikiPageID>
+    <dbo:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">745248089</dbo:wikiPageRevisionID>
+    <dbo:wikiPageExternalLink rdf:resource="http://scholar.harvard.edu/files/elliott/files/elliott_jas_limits_of_tartary_0.pdf" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.webcitation.org/6PoJk3VFf" />
+    <dbo:wikiPageExternalLink rdf:resource="https://web.archive.org/web/20090924212813/http:/afe.easia.columbia.edu/special/china_1950_population.htm" />
+    <dbo:wikiPageExternalLink rdf:resource="https://books.google.com/books?id=8nXLwSG2O8AC&amp;pg=PA858" />
+    <dbo:wikiPageExternalLink rdf:resource="http://escholarship.org/uc/item/3pk3t096" />
+    <dbo:wikiPageExternalLink rdf:resource="https://web.archive.org/web/20140325231543/https:/webspace.utexas.edu/hl4958/perspectives/Zhao%20-%20reinventing%20china.pdf" />
+    <dbo:wikiPageExternalLink rdf:resource="https://books.google.com/books?id=_qtgoTIAiKUC&amp;printsec=frontcover#v=onepage&amp;q&amp;f=false" />
+    <dbo:wikiPageExternalLink rdf:resource="https://webspace.utexas.edu/hl4958/perspectives/Zhao%20-%20reinventing%20china.pdf" />
+    <dbo:wikiPageExternalLink rdf:resource="https://books.google.com/books?id=ORBmFSFcJKoC&amp;printsec=frontcover#v=onepage&amp;q&amp;f=false" />
+    <foaf:name xml:lang="en">Qing dynasty</foaf:name>
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#float">39.9</geo:lat>
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#float">116.383</geo:long>
+    <foaf:depiction rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Flag_of_the_Republic_of_China_1912-1928.svg" />
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Qing_dynasty" />
+    <geo:geometry rdf:datatype="http://www.openlinksw.com/schemas/virtrdf#Geometry">POINT(116.38333129883 39.900001525879)</geo:geometry>
+    <dbo:thumbnail rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Flag_of_the_Republic_of_China_1912-1928.svg?width=300" />
+    <prov:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Qing_dynasty?oldid=745248089" />
+    <dbo:abstract xml:lang="pt">A dinastia Qing (manchu: daicing gurun; em pinyin: qīng cháoe Wade-Giles: ch&#39;ing ch&#39;ao; mongol : Манж Чин Улс; mandarim: 清朝), Também Império do Grande Qing ou Grande Qing foi a última dinastia imperial da China, governando 1644-1912 com uma breve restauração abortiva em 1917. Foi precedida pela dinastia Ming e sucedida pela República da China. Esta dinastia teve início quando os manchus invadiram o norte da China em 1644 e derrotaram a dinastia Ming. Desta região, os manchus expandiram a dinastia para a China propriamente dita e os territórios circundantes da Ásia central, estabelecendo o Império do Grande Qing (em pinyin: Dà Qīng Dìguó) . A Qing foi a última dinastia imperial da China; os seus imperadores ocuparam a sua capital entre 1644 e 1912 , quando, no seguimento da Revolução Xinhai, uma república foi estabelecida e o último imperador da China, Pǔyí Xiānsheng, abdicou.</dbo:abstract>
+    <dbo:abstract xml:lang="ja">清（しん）は、清朝、大清国、大清帝国ともいい、1616年に満洲において建国され、1644年から1912年まで中国とモンゴルを支配した最後の統一王朝である。首都は盛京（瀋陽）、後に北京に置かれた。満洲族の愛新覚羅氏（アイシンギョロ氏）が建てた征服王朝で、満洲語でᡩᠠᡳᠴᡳᠩᡤᡠᡵᡠᠨ（ラテン文字転写：Daicing gurun、カタカナ転写：ダイチン・グルン、漢語訳：大清国）といい、中国語では大清（拼音: Dàqīng、カタカナ転写：ダァチン）と号した。</dbo:abstract>
+    <dbo:abstract xml:lang="ar">20 عن إن كنت تبحث عن سلالات حاكمة أخرى تدعى جين، فانظر أسرة جين (توضيح). مملكة تشينغ، وتعرف أيضًا باسم إمبراطورية تشينغ العظيمة أو تشينغ العظيمة، كانت آخر ممالك الصين، التي حكمت من 1644 وحتى 1912 مع محاولة استعادة فاشلة وقصيرة للحكم عام 1917. وكانت قد سبقتها في الحكم أسرة مينغ وجاء بعدها جمهورية الصين. تأسست المملكة على يد عشيرة آيسين جيورو جورتشين في شمال شرق الصين حاليًا. بدأ زعيم آيسين جيورو، نورهس، الذي كان في الأصل تابعًا لأباطرة مينغ، في توحيد عشائر جورتشين في نهايات القرن السادس عشر. وبحلول عام 1635، ادعى ابن نورهس هونج تاي تشي أنهم يكونون شعب مانشو واحدًا وموحدًا وبدأ في إجبار مينج على الخروج من لياونينغ في جنوب منشوريا. وفي عام 1644، حوصرت عاصمة مينج بكين في ثورة الفلاحين بقيادة لي زيتشنج، وهو أحد المسؤولين السابقين في مملكة مينج والذي أصبح فيما بعد قائدًا لثورة الفلاحين، ثم ادعى فيما بعد أحقيته في مملكة شن. أما عن آخر حكام مينج الإمبراطور شونجزن، فقد أقدم على الانتحار عندما سقطت المدينة. وعندما تحرك لي زيتشنج ضد جنرال مينج وو سانغيو، أقام الأخير تحالفًا مع المانشو وفتح ممر شان هاي أمام الجيش المنشوري. وفي ظل حكم الأمير دورجون، أحكموا سيطرتهم على بكين وقضوا على مملكة شن قصيرة الأمد للي زيتشنج. وبحلول عام 1683، كان قد تم التوصل لتهدئة كاملة في الصين في ظل حكم الإمبراطور كانغ شي. وفي عهده، أصبحت مملكة تشين متكاملة للغاية مع الثقافة الصينية. استمرت الفحوصات الإمبراطورية وأدار موظفو الخدمة المدنية الإمبراطورية مع المانشو. بلغت تشينج أوجها في عهد الإمبراطور تشيان لونغ في القرن الثامن عشر، حيث توسعت متجاوزة الحدود الأمامية والخلفية للصين. تمثل الفساد الإمبراطوري في الوزير خو شين وسلسلة من الثورات، والكوارث الطبيعية، والهزائم في الحروب ضد القوى الأوروبية التي أضعفت تشينج خلال القرن التاسع عشر. &quot;قدمت المعاهدات غير المتكافئة&quot; الخروج عن التشريع الوطني وأزالت مناطق ضخمة من منافذ المعاهدات من السيادة الصينية. وقامت الحكومة بعدة محاولات للتحديث خلال حركة التقوية الذاتية في نهايات القرن التاسع عشر والتي أسفرت عن عدة نتائج دائمة. ومثلت خسارة الحرب اليابانية الصينية الأولى للفترة 1894–1895 نقطة تحول لحكومة تشينغ وأظهرت النتائج أن هذا الإصلاح قد ترك أثرًا في تطوير اليابان بشكل كبير منذ استعراش مييجي عام 1867، خاصة عند مقارنتها حركة التقوية الذاتية في الصين.</dbo:abstract>
+    <dbo:abstract xml:lang="zh">「清」重定向至此。關於中文姓氏，詳見「清姓」。 清朝（1616年2月17日、1636年5月15日或1644年10月30日－1912年2月12日），正式國号為大清（满语：ᡩᠠᡳᠴᡳᠩᡤᡠᡵᡠᠨ，穆麟德：daicing gurun，太清：daiqing gurun），對外自稱大清帝國或大清国，又有稱為中华大清国、中国等等名稱，是中国历史上由滿人建立的一個朝代，也是最后一个專制王朝。统治者为建州女真的爱新觉罗氏。其最早前身為1616年努尔哈赤在滿洲地區建立的後金，1636年皇太极称帝，改定国号为「大清」，1644年藉協助明朝軍隊平定民變的名義進軍中國本土，徹底消滅明朝後統治整個中國，直至1912年中華民國建立後滅國。 1616年，女真族人努尔哈赤在今中国东北地区建国称汗，建立后金，定都赫图阿拉，又稱為兴京（今辽宁新宾）。1636年，努尔哈赤的繼承者皇太极在盛京（今瀋陽）称帝，定国号为「大清」，當時其領土僅止於滿洲地區，但已對退守長城以南的明朝造成重大威脅。1644年，起兵叛明的李自成建国大顺，並於同年攻陷北京城，明朝灭亡。同年，清军藉口協助吳三桂部等原明朝軍隊對抗李自成而進入山海关内，隨後違反約定攻佔北京盤據不走，全面展開對中國本土的入侵行動。从清军�a cesarska Qing, nazywana też dynastią mandżurską, panująca w Chinach w latach 1644–1912. Członkowie dynastii wywodzili się z mandżurskiego klanu Aisin Gioro.</dbo:abstract>
+    <dbo:abstract xml:lang="de">Die Qing-Dynastie (mandschurisch ᡩᠠᡳᠴᡳᠩ ᡤᡠᡵᡠᠨ Daicing Gurun; chinesisch 清朝, Pinyin Qīngcháo, W.-G. Ch&#39;ing Ch&#39;ao), auch Mandschu-Dynastie, wurde 1616 von den Mandschu unter Nurhaci begründet und herrschte ab 1644 im Kaiserreich China. Sie löste die Ming-Dynastie ab und endete nach der Xinhai-Revolution von 1911 mit der Ausrufung der Republik China am 1. Januar 1912. Die Qing-Dynastie war nach der mongolischen Yuan-Dynastie die zweite Dynastie, die über ganz China herrschte und nicht von Han-Chinesen begründet wurde. Sie basierte auf dem Aufstieg des Volks der Jurchen, die als Jin-Dynastie (1125–1234) und später als Spätere Jin (chinesisch 後金, Pinyin hòujīn) in Nordchina herrschten. 1635 änderten die Jurchen ihren Namen in Mandschu. Ab 1636 wurde die Dynastie selbst Qing genannt.</dbo:abstract>
+    <dbo:abstract xml:lang="zh">「清」重定向至此。關於中文姓氏，詳見「清姓」。 清朝（1616年2月17日、1636年5月15日或1644年10月30日－1912年2月12日），正式國号為大清（满语：ᡩᠠᡳᠴᡳᠩᡤᡠᡵᡠᠨ，穆麟德：daicing gurun，太清：daiqing gurun），對外自稱大清帝國或大清国，又有稱為中华大清国、中国等等名稱，是中国历史上由滿人建立的一個朝代，也是最后一个專制王朝。统治者为建州女真的爱新觉罗氏。其最早前身為1616年努尔哈赤在滿洲地區建立的後金，1636年皇太极称帝，改定国号为「大清」，1644年藉協助明朝軍隊平定民變的名義進軍中國本土，徹底消滅明朝後統治整個中國，直至1912年中華民國建立後滅國。 1616年，女真族人努尔哈赤在今中国东北地区建国称汗，建立后金，定都赫图阿拉，又稱為兴京（今辽宁新宾）。1636年，努尔哈赤的繼承者皇太极在盛京（今瀋陽）称帝，定国号为「大清」，當時其領土僅止於滿洲地區，但已對退守長城以南的明朝造成重大威脅。1644年，起兵叛明的李自成建国大顺，並於同年攻陷北京城，明朝灭亡。同年，清军藉口協助吳三桂部等原明朝軍隊對抗李自成而進入山海关内，隨後違反約定攻佔北京盤據不走，全面展開對中國本土的入侵行動。从清军入关到其后的数十年时间内，清軍陆续消灭華北殘餘明朝勢力、李自成的大順军、張獻忠的大西國、南明和明鄭等势力，统一中国全境。歷經康熙、雍正及乾隆三帝，清朝的綜合國力及經濟文化逐步得到恢復和發展，建立龐大的領土與藩屬國，史稱康雍乾盛世，是清朝發展的高峰時期。有學者認為，因為清廷推行文字獄與“首崇满洲”政策而不認同康乾盛世為文化意義上的盛世，亦有學者認為清代學術在中國學術史上價值極大，清代輯佚學的發展亦修復了不少在古代已失傳了的文獻著作，而清代文人崇實學、重證據以及注重考辨和考據精神亦在推動漢學的發展方面發揮了重要作用。 清朝人口在中国历史上为最高，其GDP总量所占的世界比例在中国近三千年历史上也是最高的，据著名的英国经济学家安格斯·麦迪森的研究，1820年清朝GDP总量为2286亿美元，占世界GDP总量的32.9%，中国人均GDP为600美元，当时经过第一次工业革命的英国人均GDP为1,706美元。据他研究，即便被认为是中国历史上经济最繁荣时代的宋朝，其GDP总量为265.5亿美元，才占世界经济总量的22.7%，宋代中国的人均GDP在450美元，略低于阿拉伯帝国阿巴斯王朝的人均GDP（621美元）；这两个地区皆超过当时西欧人均GDP（427美元）。这里仅表明购买力平价，与所谓财政收入是不同的概念，英国财政年收入在1830年代至1840年代在5000万英镑以下；不过，清朝GDP数值在1840年前凌驾于欧洲之上，这一说法基本得到普遍认同，但大多数中国学者如刘逖仍认为麦迪森高估了中国历史上的GDP总量和人均GDP。因此，刘逖对麦迪森1600至1840年数据做了调整，认为1820年中国人均GDP在325美元，而非麦迪森说的600美元。 鴉片戰爭開啟中國近代歷史，使中國由東亞的中心變成列強環伺的國家。西方列強迫使清廷簽訂不平等條約，以武力獲得在華利益。清朝在抵抗外侮與內憂的同時，也一直處於改革派與守舊派拉鋸的局面。在列强入侵的同时西方科學與文化亦引入中國，讓清朝發起一連串的改革與革命，如自強運動，促使中國文化的成長與革新。然而甲午戰爭的失敗使改革的努力受到沉重打击，并使列強瓜分中國。而維新運動隨守舊派抵制而告終。在義和團排外失敗、引來八國聯軍後，清廷也推動清末新政，虽取得一些成效，但部分內容讓许多立憲派知識分子失望，轉而支持革命。1911年辛亥革命爆發，1912年1月1日中華民國在南京正式成立，同年宣統帝（愛新覺羅·溥儀）於2月12日退位，清朝正式滅亡。清朝從後金時期算起，共經歷十二個皇帝，十三个年号，歷時296年，又有滿清十三皇朝之稱，自1644年進攻中國並遷都北京以來，一共十帝，歷時268年。 政治制度基本上沿襲明朝，然而其最高決策單位隨皇帝的授權而變動，例如軍機處、總理衙門等，提升行政效率，皇帝也能充分掌權。清朝中期文字獄興盛，若有疑似反清復明的運動與散播被認為不利皇帝的消息，往往會引來冤獄，牽連成千上萬人受害。軍事方面原先以八旗軍為精銳，龐大的綠營為輔，後來以綠營和地方軍如湘軍、淮軍為支柱。清朝領土极盛时可達1310万平方公里，清末時期也維持1130萬平方公里。政治穩定、廣泛種植新作物與賦稅制度的改變，使得中國人口最後突破以往的平均值，達到四億左右。國內與國外的貿易提升，帶動經濟農業與手工業的發展。</dbo:abstract>
+    <dbo:abstract xml:lang="fr">La dynastie Qing (également retranscrit dynastie Ch&#39;ing, ou dynastie Ching, ou dynastie Tsing, chinois : 清朝 ; pinyin : qīng cháo ; Wade : Ch&#39;ing ch&#39;ao ; mandchou :  Daicing gurun ; mongol : Манж Чин Улс), d&#39;origine mandchoue, est la dernière dynastie impériale à avoir régné sur la Chine, de 1644 à 1912. Elle a succédé à la dernière dynastie des Hans, la dynastie Ming. En rébellion ouverte contre les Ming dès 1616, les Mandchous prirent progressivement le pouvoir dans l&#39;ensemble de la Chine, prenant Pékin en 1644 et instaurant un nouveau régime politique, l&#39;Empire du Grand Qing (chinois simplifié : 大清国 ou 大清帝国 ; chinois traditionnel : 大清國 ou 大清帝國 ; pinyin : Dà Qīng Dì Guó). La Chine ne fut totalement sous leur autorité qu&#39;en 1683. Dans la seconde moitié du XIXe siècle, l&#39;Empire Qing connut un long déclin, affaibli par les conflits internes comme par les pressions internationales, et fut finalement renversé par la révolution Xinhai, laissant la place à la République de Chine. Le règne de la dynastie Qing prit fin le 12 février 1912, avec l&#39;abdication du dernier empereur de Chine, Puyi, alors âgé de six ans.</dbo:abstract>
+    <dbo:abstract xml:lang="ar">20 عن إن كنت تبحث عن سلالات حاكمة أخرى تدعى جين، فانظر أسرة جين (توضيح). مملكة تشينغ، وتعرف أيضًا باسم إمبراطورية تشينغ العظيمة أو تشينغ العظيمة، كانت آخر ممالك الصين، التي حكمت من 1644 وحتى 1912 مع محاولة استعادة فاشلة وقصيرة للحكم عام 1917. وكانت قد سبقتها في الحكم أسرة مينغ وجاء بعدها جمهورية ا�ese disasters, in the Tongzhi Restoration of the 1860s, Han Chinese elites rallied to the defense of the Confucian order and the Qing rulers. The initial gains in the Self-Strengthening Movement were destroyed in the First Sino-Japanese War of 1895, in which the Qing lost its influence over Korea and the possession of Taiwan. New Armies were organized, but the ambitious Hundred Days&#39; Reform of 1898 was turned back by Empress Dowager Cixi, a ruthless but capable leader. When the Scramble for Concessions by foreign powers triggered the violently anti-foreign Yihetuan (&quot;Boxers&quot;), the foreign powers invaded China, the Empress Dowager declared war on them, leading to defeat and the flight of the Imperial Court to Xi&#39;an. After agreeing to sign the Boxer Protocol the government then initiated unprecedented fiscal and administrative reforms, including elections, a new legal code, and abolition of the examination system. Sun Yat-sen and other revolutionaries competed with reformers such as Liang Qichao and monarchists such as Kang Youwei to transform the Qing empire into a modern nation. After the death of Empress Dowager Cixi and the Guangxu Emperor in 1908, the hardline Manchu court alienated reformers and local elites alike. Local uprisings starting on October 11, 1911 led to the Xinhai Revolution. Puyi, the last emperor, abdicated on February 12, 1912.</dbo:abstract>
+    <dbo:abstract xml:lang="nl">De Qing-dynastie (Chinees: 清; Standaardkantonees: Tsing Tsiew), ook wel Mantsjoe-dynastie, was de laatste keizerlijke dynastie van China. Het volgde de Ming-dynastie in 1644 op en werd zelf vervangen door de republiek China in 1912. De oorsprong van de dynastie lag in Mantsjoerije bij de Aisin Gioro, een van de vele clans die in het gebied leefden. Onder Nurhaci (1559-1626) wist de clan door verovering en allianties de dominante te worden van alle stammen van de Jurchen en overige stammen ten noordoosten van het Chinese rijk. Nurhaci wist die te verenigen in een confederatie. In 1616 benoemde hij zijn dynastie als de Latere Jin. Onder zijn zoon Hong Taiji (1592-1643) kwam de multi-etnische coalitie tot stand die hij in 1635 als Mantsjoes benoemde. In 1636 hernoemde Hong Taiji de naam van de dynastie en gaf die de naam Qing. (Helder). In 1644 veroverden de Mantsjoes Peking. Na de inname van Peking zou het nog veertig jaar duren voordat de Qing hun macht in het gehele land daadwerkelijk hadden geconsolideerd. De Qing vormden het grootste Chinese rijk ooit. De omvang van het rijk werd vergeleken met dat van de Ming meer dan verdubbeld. Het aantal inwoners van het rijk aan het eind van de dynastie was met ruim 500.000.000 ruim het dubbele van het aantal in het begin van de dynastie. Met name vanaf de achttiende eeuw waren er in het rijk groepen aanwezig die daarvoor nooit deel hadden uitgemaakt van een Chinese staat, zoals Tibetanen, Oeigoeren, sommige groepen Mongolen, Birmezen en inheemse groepen op Taiwan.Het rijk van de Qing had een veel multi-etnischer karakter dan het rijk van welke dynastie daarvoor ook. Er is onder westerse historici ook wel een debat geweest of de Mantsjoe-keizers hun rijk nu als een Chinees rijk zagen of als een Qing-rijk waarvan China wel de verreweg belangrijkste maar niet de enige component was. Die laatste opvatting werd door Chinese historici fel bestreden. De huidige Volksrepubliek legitimeert huidige grenzen en aanspraken op betwist gebied op basis van ontwikkelingen tijdens deze dynastie. Ook de republiek China deed dat tussen 1912 en 1949. Om een rijk met die omvang te kunnen regeren creëerden de Qing nieuwe en meer effectieve vormen van bestuur en communicatie. Tijdens de bloeiperiode van de dynastie, eind zeventiende tot eind achttiende eeuw, werd een productieniveau en welvaart bereikt dat aanzienlijk hoger was dan in welke dynastie daarvoor. De gemiddelde levensstandaard tijdens de achttiende eeuw was in China vermoedelijk hoger dan in West-Europa. Aan het eind van de achttiende eeuw zijn er echter ook al tekenen dat het systeem begint te falen en onvoldoende in staat is problemen op te lossen. De contacten en handel met Europa speelden in strategisch opzicht lang slechts een marginale rol in de periferie. Pas vanaf de Eerste Opiumoorlog van 1839-1842 gaan gebeurtenissen in China voor een deel bepaald worden door westerse interventie en imperialisme. De dynastie is dan al ernstig verzwakt en overleefde de Taipingopstand van 1850 -1864 nauwelijks. Vanaf de periode na deze opstand waren er facties aanwezig, die zich de noodzaak van hervormingen realiseerden. Het doel van de Zelfversterkingsbeweging was de introductie van westerse militaire technologie en het starten van een industriële ontwikkeling naar westers model juist om de Qing-dynastie te laten overleven en traditionele confuciaanse waarden te handhaven. Een aantal elementen hadden ook wel enig succes. Meer in het algemeen was er toch te weinig blijvend resultaat vanwege het ontbreken van een op nationaal niveau consistent uitgevoerd moderniseringsbeleid. Er was daarnaast bij aanzienlijke groepen in de samenleving de opvatting dat zelfs een beperkte modernisering al gelijk stond aan cultureel verraad waardoor er uiteindelijk onvoldoende draagvlak was voor het consequent invoeren en toepassen van technologische en wetenschappelijke veranderingen. Na de Bokseropstand van 1899-1900 vond een herleving van een aantal hervormingen plaats die bekendstaat als De Nieuwe Politiek. Het zouden juist de instituten zijn, die gecreëerd waren door De Nieuwe Politiek vanaf 1901, zoals nieuw gevormde legerkorpsen, Kamers van Koophandel en provinciale assemblees die zouden zorgen voor de val van de dynastie.</dbo:abstract>
+    <dbo:abstract xml:lang="it">La dinastia Qing o Ch&#39;ing (cinese: 清朝S, Qīng cháoP, Ch&#39;ing ch&#39;aoW), a volte nota anche come dinastia Manciù (mancese: daicing gurun), fu fondata dal clan Manciù degli Aisin Gioro, nell&#39;attuale Manciuria, espansasi poi nella Cina vera e propria e nei territori circostanti dell&#39;Asia interna, costituendo così l&#39;Impero del grande Qing (Cinese: 大清帝国S, dàqīngdìguóP). Dichiarata in seguito come dinastia Jin Posteriore nel 1616, cambiò il suo nome nel 1636 in &quot;Qing&quot; e conquistò l&#39;intera Cina nel 1644 governandola fino al 1912. La denominazione &quot;Jin&quot; non è da confondersi con l&#39;omonima dinastia del periodo tra il 936 e il 946.</dbo:abstract>
+    <dbo:abstract xml:lang="pl">Dynastia Qing (chiń.: 清朝; pinyin: Qīng cháo; Wade-Giles: Ch’ing ch’ao); mandż. , Daicing gurun, wymowa: [tɕʰi̯əŋ, pol. &quot;ćing&quot;) – ostatnia dynastia cesarska Qing, nazywana też dynastią mandżurską, panująca w Chinach w latach 1644–1912. Członkowie dynastii wywodzili się z mandżurskiego klanu Aisin Gioro.</dbo:abstract>
+    <dbo:abstract xml:lang="ru">Династия Цин, официально Великая Цин (маньчж.  дайцин гурунь, кит. трад. 大清國, палл.: Да Цин го), также известная, как Империя Великой Цин, или Маньчжурская династия, была последней императорской династией Китая. Она правила страной с 1644 по 1912 год с краткой реставрацией в 1917 (последняя продлилась всего 11 дней). Эпохе Цин предшествовала династия Мин и последовала Китайская республика. Мультикультурная Цинская Империя существовала в течение почти трёх веков и сформировала территориальную базу для современного китайского государства. Династия была основана чжурчжэньским кланом Айсин Гёро из Маньчжурии. В конце XVI века вассал династии Мин Айсиньгиоро Нурхаци начал объединять чжурчжэньские кланы в так называемую «Восьмизнамённую армию». Нурхаци сформировал из них не только военную силу, но и социальную общность, которая стала известна как Маньчжуры. К 1636 году его сын Айсиньгиоро Абахай начал вытеснять силы Мин из Ляонина и провозгласил новую династию Цин. В 1644 году крестьянская повстанческая армия, возглавляемая Ли Цзычэном, захватила столицу страны Пекин. Минский генерал У Саньгуй вступил в сговор с маньчжурами и открыл Шанхайский проход восьмизнамённой армии под командованием принца Доргоня, который нанёс повстанцам поражение и выбил их из Пекина. Маньчжурское завоевание Китая продолжалось до 1683 года и закончилось только во времена императора Канси (правил в 1661—1722). Десять Великих Походов (см. en:Ten Great Campaigns) императора Цяньлуна, которые он организовал в 1750—1790-е, расширили зону влияния Китая в Центральной Азии. Хотя ранние правители из династии Цин продолжали придерживаться маньчжурского образа жизни и, нося официальный титул императора, продолжали оставаться одновременно ханами монголов и оказывать покровительство буддизму в Тибете, они правили страной, используя конфуцианский подход и бюрократический аппарат, традиционный для Китая. Они сохранили и использовали традиционную систему экзаменов, чтобы рекрутировать китайцев-хань в государственный аппарат, и прониклись идеалами вассальных отношений с близлежащими странами, привычных со времен прежней династии. В таких регионах, как Тайвань, внешняя политика цинских владык была похожа на колониальную. Правление императора Цяньлуна (1735—1796) стало апогеем имперского могущества, с которого начался закат Цин. Население империи выросло до примерно 400 миллионов человек, но налоги и сборы оставались низкими, что заложило основу для будущих проблем и кризиса. Коррупция была повсеместной, а повстанцы бросали вызов правительству, в то время как правящая элита не желала менять свои взгляды в ногу со временем перед лицом изменений, которые происходили в мире. Победив Китай в первой из опиумных войн, европейские державы заключили с ним неравноправные договоры, введя свободную торговлю, экстерриториальность и свободные порты, находившиеся под иностранным контролем. Восстание тайпинов (1850-64) и Дунганское восстание в Центральной Азии стоили жизни 20 миллионам человек. Все эти бедствия привели к консолидации элит общества и попыткам экстренных реформ. Однако их первые результаты были уничтожены поражением Китая в Первой японо-китайской войне. Разгром 1895 года привёл к потере династией контроля над Тайванем и влияния в Корее. Последовала военная реорганизация, но амбициозные Сто дней реформ 1898 года провалились из-за противостояния им императрицы Цыси, жестокого, но эффективного лидера. Затем, противодействуя Боксёрскому восстанию, восемь иностранных держав вторглись в Китай. Цыси объявила им войну, проиграла, и императорский двор вынужден был покинуть столицу. Дав согласие подписать Заключительный протокол, правительство затем инициировало беспрецедентные налоговые и административные реформы в стране, включавшие выборы, новый свод законов и отмену системы государственных экзаменов. Сунь Ятсен и другие революционеры соревновались с такими реформаторами, как Лян Цичао и монархистами вроде Кан Ювэя в своих попытках трансформировать Цинскую монархию в современное государство. После смерти императора Гуансюя и императрицы Цыси в 1908 бескомпромиссный маньчжурский суд остановил реформы. 11 октября 1911 начались волнения, которые переросли в Синьхайскую революцию. Пу И, последний император, отрёкся от престола 12 февраля 1912 года.</dbo:abstract>
+    <dbo:abstract xml:lang="fr">La dynastie Qing (également retranscrit dynastie Ch&#39;ing, ou dynastie Ching, ou dynastie Tsing, chinois : 清朝 ; pinyin : qīng cháo ; Wade : Ch&#39;ing ch&#39;ao ; mandchou :  Daicing gurun ; mongol : Манж Чин Улс), d&#39;origine mandchoue, est la dernière dynastie impériale à avoir régné sur la Chine, de 1644 à 1912. Elle a succédé à la dernière dynastie des Hans, la dynastie Ming. En rébellion ouverte contre les Ming dès 1616, les Mandchous prirent progressivement le pouvoir dans l&#39;ensemble de la Chine, prenant Pékin en 1644 et instaurant un nouveau régime politique, l&#39;Empire du Grand Qing (chinois simplifié : 大清国 ou 大清帝国 ; chinois traditionnel : 大清國 ou 大清帝國 ; pinyin : Dà Qīng Dì Guó). La Chine ne fut totalement sous leur autorité qu&#39;en 1683. Dans la seconde moitié du XIXe siècle, l&#39;Empire Qing connut un long déclin, affaibli par les conflits internes comme par les pressions internationales, et fut finalement renversé par la révolution Xinhai, laissant la place à la République de Chine. Le règne de la dynastie Qing prit fin le 12 février 1912, avec l&#39;abdication du dernier empereur de Chine, Puyi, alors âgé de six ans.</dbo:abstract>
+    <dbo:anthem rdf:resource="http://dbpedia.org/resource/Cup_of_Solid_Gold" />
+    <dbo:capital rdf:resource="http://dbpedia.org/resource/Beijing" />
+    <dbo:currency rdf:resource="http://dbpedia.org/resource/Chinese_cash_(currency_unit)" />
+    <dbo:currency rdf:resource="http://dbpedia.org/resource/Tael" />
+    <dbo:dissolutionDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1912-02-12</dbo:dissolutionDate>
+    <dbo:dissolutionYear rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1912</dbo:dissolutionYear>
+    <dbo:foundingYear rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1644</dbo:foundingYear>
+    <dbo:governmentType rdf:resource="http://dbpedia.org/resource/Absolute_monarchy" />
+    <dbo:governmentType rdf:resource="http://dbpedia.org/resource/Constitutional_monarchy" />
+    <dbp:mnc rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">ᡤᡠᡵᡠᠨ</dbp:mnc>
+    <dbp:mnc rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">ᡩᠠᡳᠴᡳᠩ</dbp:mnc>
+    <dbp:mncA rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Daiqing gurun</dbp:mncA>
+    <dbp:mncV rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Daicing gurun</dbp:mncV>
+    <georss:point>39.9 116.38333333333334</georss:point>
+    <dbp:altname rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">(Great Qing)</dbp:altname>
+    <dbp:c rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">清朝</dbp:c>
+    <dbp:commonLanguages rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Mandarin, Manchu, Mongolian, Tibetan, Turki , numerous regional languages and varieties of Chinese</dbp:commonLanguages>
+    <dbp:continent rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Asia</dbp:continent>
+    <dbp:country rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">China</dbp:country>
+    <dbp:dateEnd rdf:datatype="http://www.w3.org/2001/XMLSchema#gMonthDay">--02-12</dbp:dateEnd>
+    <dbp:dateEvent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1856</dbp:dateEvent>
+    <dbp:dateEvent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1839</dbp:dateEvent>
+    <dbp:dateEvent rdf:datatype="http://www.w3.org/2001/XMLSchema#gMonthDay">--08-01</dbp:dateEvent>
+    <dbp:dateEvent rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1911-10-10</dbp:dateEvent>
+    <dbp:deputy rdf:resource="http://dbpedia.org/resource/Yikuang,_Prince_Qing" />
+    <dbp:deputy rdf:resource="http://dbpedia.org/resource/Yuan_Shikai" />
+    <dbp:era rdf:resource="http://dbpedia.org/resource/History_of_China" />
+    <dbp:event rdf:resource="http://dbpedia.org/resource/Second_Opium_War" />
+    <dbp:event rdf:resource="http://dbpedia.org/resource/Xinhai_Revolution" />
+    <dbp:event rdf:resource="http://dbpedia.org/resource/First_Sino-Japanese_War" />
+    <dbp:event rdf:resource="http://dbpedia.org/resource/First_Opium_War" />
+    <dbp:eventEnd rdf:resource="http://dbpedia.org/resource/Puyi" />
+    <dbp:eventStart rdf:resource="http://dbpedia.org/resource/Qing_conquest_of_the_Ming" />
+    <dbp:flag rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Flag of the Qing dynasty</dbp:flag>
+    <dbp:flagS rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Flag of the Republic of China 1912-1928.svg</dbp:flagS>
+    <dbp:flagType rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Flag</dbp:flagType>
+    <dbp:imageCoat rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Seal of Qing dynasty.svg</dbp:imageCoat>
+    <dbp:imageFlag rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Flag of the Qing Dynasty .svg</dbp:imageFlag>
+    <dbp:imageMap rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">18</dbp:imageMap>
+    <dbp:imageMapCaption rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Qing dynasty in 1765</dbp:imageMapCaption>
+    <dbp:j rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Cing1 ciu4</dbp:j>
+    <dbp:j rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">daai6 cing1</dbp:j>
+    <dbp:labels rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">no</dbp:labels>
+    <dbp:latd rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">39</dbp:latd>
+    <dbp:latm rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">54</dbp:latm>
+    <dbp:latns rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">N</dbp:latns>
+    <dbp:leader rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Puyi</dbp:leader>
+    <dbp:leader rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Shunzhi</dbp:leader>
+    <dbp:links rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">no</dbp:links>
+    <dbp:longd rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">116</dbp:longd>
+    <dbp:longew rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">E</dbp:longew>
+    <dbp:longm rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">23</dbp:longm>
+    <dbp:p rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Dà Qīng</dbp:p>
+    <dbp:p rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Qīng Cháo</dbp:p>
+    <dbp:p rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">cong long ru guan</dbp:p>
+    <dbp:p rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Qīng cháo</dbp:p>
+    <dbp:p rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Ming dynasty</dbp:p>
+    <dbp:pic rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Qing dynasty .svg</dbp:pic>
+    <dbp:piccap rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">&quot;Qing dynasty&quot; in Chinese  and Manchu</dbp:piccap>
+    <dbp:picsize rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">125</dbp:picsize>
+    <dbp:poj rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Chheng tiâu</dbp:poj>
+    <dbp:poj rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Tāi-chheng</dbp:poj>
+    <dbp:region rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">East Asia</dbp:region>
+    <dbp:religion rdf:resource="http://dbpedia.org/resource/Shamanism" />
+    <dbp:religion rdf:resource="http://dbpedia.org/resource/Chinese_folk_religion" />
+    <dbp:religion rdf:resource="http://dbpedia.org/resource/Heaven_worship" />
+    <dbp:religion rdf:resource="http://dbpedia.org/resource/Taoism" />
+    <dbp:religion rdf:resource="http://dbpedia.org/resource/Confucianism" />
+    <dbp:religion rdf:resource="http://dbpedia.org/resource/Christianity" />
+    <dbp:religion rdf:resource="http://dbpedia.org/resource/Islam" />
+    <dbp:religion rdf:resource="http://dbpedia.org/resource/Buddhism" />
+    <dbp:religion rdf:resource="http://dbpedia.org/resource/Religion_in_China" />
+    <dbp:representative rdf:resource="http://dbpedia.org/resource/Zaifeng" />
+    <dbp:s rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Republic of China Republic of China</dbp:s>
+    <dbp:statArea rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">14700000</dbp:statArea>
+    <dbp:statPop rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">395918000</dbp:statPop>
+    <dbp:statPop rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">367000000</dbp:statPop>
+    <dbp:statPop rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">301000000</dbp:statPop>
+    <dbp:statPop rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">408000000</dbp:statPop>
+    <dbp:statPop rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">268238000</dbp:statPop>
+    <dbp:statPop rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">140000000</dbp:statPop>
+    <dbp:statPop rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">383100000</dbp:statPop>
+    <dbp:statPop rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">361000000</dbp:statPop>
+    <dbp:statYear rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1740</dbp:statYear>
+    <dbp:statYear rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1776</dbp:statYear>
+    <dbp:statYear rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1790</dbp:statYear>
+    <dbp:statYear rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1865</dbp:statYear>
+    <dbp:statYear rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1898</dbp:statYear>
+    <dbp:statYear rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1812</dbp:statYear>
+    <dbp:statYear rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1820</dbp:statYear>
+    <dbp:statYear rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1851</dbp:statYear>
+    <dbp:suz rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Tshin záu</dbp:suz>
+    <dbp:symbolType rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Imperial seal</dbp:symbolType>
+    <dbp:t rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">從龍入關</dbp:t>
+    <dbp:t rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">親王</dbp:t>
+    <dbp:t rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">義皇帝</dbp:t>
+    <dbp:title rdf:resource="http://dbpedia.org/resource/Dynasties_in_Chinese_history" />
+    <dbp:title rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Qing dynasty</dbp:title>
+    <dbp:titleDeputy rdf:resource="http://dbpedia.org/resource/List_of_premiers_of_China" />
+    <dbp:titleLeader rdf:resource="http://dbpedia.org/resource/List_of_emperors_of_the_Qing_dynasty" />
+    <dbp:titleRepresentative rdf:resource="http://dbpedia.org/resource/Regent" />
+    <dbp:tl rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Tshing tiâu</dbp:tl>
+    <dbp:tl rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Tāi-tshing</dbp:tl>
+    <dbp:w rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Ch&#39;ing1 ch&#39;ao2</dbp:w>
+    <dbp:w rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Ta2 Ch&#39;ing1</dbp:w>
+    <dbp:w rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Ch&#39;ing Ch&#39;ao</dbp:w>
+    <dbp:y rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Chīng chìuh</dbp:y>
+    <dbp:yearDeputy rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1911</dbp:yearDeputy>
+    <dbp:yearLeader rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1644</dbp:yearLeader>
+    <dbp:yearLeader rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1908</dbp:yearLeader>
+    <dbp:yearRepresentative rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1908</dbp:yearRepresentative>
+    <dbp:years rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1644</dbp:years>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hung_Hei-gun">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Qing_dynasty" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kansu_Braves">
+    <dbo:country rdf:resource="http://dbpedia.org/resource/Qing_dynasty" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Robert_Morrison_(missionary)">
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Qing_dynasty" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Damdin_Sükhbaatar">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Qing_dynasty" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hanyang_88">
+    <dbp:usedBy rdf:resource="http://dbpedia.org/resource/Qing_dynasty" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Manchu_dynasty">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Qing_dynasty" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Qing_Dynasty">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Qing_dynasty" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Empress_Xiaoduanwen">
+    <dbp:title rdf:resource="http://dbpedia.org/resource/Qing_dynasty" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Su_Yu">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Qing_dynasty" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yan_Fu">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Qing_dynasty" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ch&#39;ing_Dynasty">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Qing_dynasty" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ching_Dynasty">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Qing_dynasty" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Qing_China">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Qing_dynasty" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Liang_Cheng">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Qing_dynasty" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ningpo_massacre">
+    <dbo:place rdf:resource="http://dbpedia.org/resource/Qing_dynasty" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Wang_Huiwu">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Qing_dynasty" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jiang_Shi">
+    <dbp:period rdf:resource="http://dbpedia.org/resource/Qing_dynasty" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Puankhequa">
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Qing_dynasty" />
+    <dbo:residence rdf:resource="http://dbpedia.org/resource/Qing_dynasty" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Seven_Heroes_and_Five_Gallants">
+    <dbo:country rdf:resource="http://dbpedia.org/resource/Qing_dynasty" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Li_Da_(general)">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Qing_dynasty" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Wang_Ganchang">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Qing_dynasty" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Beiyang_government">
+    <dbp:before rdf:resource="http://dbpedia.org/resource/Qing_dynasty" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Manchu_Qing_dynasty">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Qing_dynasty" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Chen_Yi_(Kuomintang)">
+    <dbp:birthPlace rdf:resource="http://dbpedia.org/resource/Qing_dynasty" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Empress_Dowager_Cixi">
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Qing_dynasty" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Qing_(disambiguation)">
+    <dbo:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/Qing_dynasty" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Shiing-Shen_Chern">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Qing_dynasty" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Zhonghua_minzu">
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Qing_dynasty" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Charlie_Soong">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Qing_dynasty" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Chen_Cheng">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Qing_dynasty" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Li_Xiannian">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Qing_dynasty" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Qian_Xuesen">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Qing_dynasty" />
+    <dbo:residence rdf:resource="http://dbpedia.org/resource/Qing_dynasty" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tan_Kah_Kee">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Qing_dynasty" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Fang_Chih">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Qing_dynasty" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Empire_of_the_Great_Qing">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Qing_dynasty" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ye_Qisun">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Qing_dynasty" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lu_Kanru">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Qing_dynasty" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mary_C._Wright">
+    <dbo:knownFor rdf:resource="http://dbpedia.org/resource/Qing_dynasty" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/First_Sino-Japanese_War">
+    <dbo:territory rdf:resource="http://dbpedia.org/resource/Qing_dynasty" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Qin_dynasty">
+    <owl:differentFrom rdf:resource="http://dbpedia.org/resource/Qing_dynasty" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Taiping_Heavenly_Kingdom">
+    <dbp:era rdf:resource="http://dbpedia.org/resource/Qing_dynasty" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Feng_Yuxiang">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Qing_dynasty" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Japanese_invasion_of_Taiwan_(1874)">
+    <dbo:place rdf:resource="http://dbpedia.org/resource/Qing_dynasty" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Philip_A._Kuhn">
+    <dbo:field rdf:resource="http://dbpedia.org/resource/Qing_dynasty" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/H._H._Kung">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Qing_dynasty" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/History_of_the_Republic_of_China">
+    <dbp:before rdf:resource="http://dbpedia.org/resource/Qing_dynasty" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Demchugdongrub">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Qing_dynasty" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Peng_Dehuai">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Qing_dynasty" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yongzheng_Emperor">
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Qing_dynasty" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Zheng_Keshuang">
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Qing_dynasty" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Dai_Zhen">
+    <dbo:occupation rdf:resource="http://dbpedia.org/resource/Qing_dynasty" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/K._C._Wu">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Qing_dynasty" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lee_Kong_Chian">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Qing_dynasty" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Luo_Yixiu">
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Qing_dynasty" />
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Qing_dynasty" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ulanhu">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Qing_dynasty" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Empress_Xiaocigao_(Qing_dynasty)">
+    <dbp:title rdf:resource="http://dbpedia.org/resource/Qing_dynasty" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Liao_Zhongkai">
+    <dbo:nationality rdf:resource="http://dbpedia.org/resource/Qing_dynasty" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tan_Ting-pho">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Qing_dynasty" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jin_Shuren">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Qing_dynasty" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yang_Zengxin">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Qing_dynasty" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ching_dynasty">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Qing_dynasty" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Daicing_Gurun">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Qing_dynasty" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Qing_Chao">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Qing_dynasty" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Qing_Cháo">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Qing_dynasty" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Zhang_Guohua">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Qing_dynasty" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Qing_Manchu">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Qing_dynasty" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Duanfang">
+    <dbo:country rdf:resource="http://dbpedia.org/resource/Qing_dynasty" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ji_Chaoding">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Qing_dynasty" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Zhou_Fu">
+    <dbp:citizenship rdf:resource="http://dbpedia.org/resource/Qing_dynasty" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Chen_Bojun">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Qing_dynasty" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Li_Zhimin">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Qing_dynasty" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Liu_Bingzhang">
+    <dbp:citizenship rdf:resource="http://dbpedia.org/resource/Qing_dynasty" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/History_of_Mongolia">
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Qing_dynasty" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Zheng_Dongguo">
+    <dbp:birthPlace rdf:resource="http://dbpedia.org/resource/Qing_dynasty" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Great_Qing_Empire">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Qing_dynasty" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/6th_Dalai_Lama">
+    <dbp:deathPlace rdf:resource="http://dbpedia.org/resource/Qing_dynasty" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Borjigin">
+    <dbp:after rdf:resource="http://dbpedia.org/resource/Qing_dynasty" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hsu_Yun">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Qing_dynasty" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Liang_Qichao">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Qing_dynasty" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ch&#39;ing_Ch&#39;ao">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Qing_dynasty" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/China_under_Manchu_rule">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Qing_dynasty" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Dà_Qīng">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Qing_dynasty" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Run_Run_Shaw">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Qing_dynasty" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Eight_Banners">
+    <dbo:country rdf:resource="http://dbpedia.org/resource/Qing_dynasty" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Soong_Ching-ling">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Qing_dynasty" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yoshiko_Kawashima">
+    <dbp:birthPlace rdf:resource="http://dbpedia.org/resource/Qing_dynasty" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Zhu_De">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Qing_dynasty" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Emma_Eames">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Qing_dynasty" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Duan_Qirui">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Qing_dynasty" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Chinese_Maritime_Customs_Service">
+    <dbo:jurisdiction rdf:resource="http://dbpedia.org/resource/Qing_dynasty" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Wenxiu">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Qing_dynasty" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ch&#39;ing">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Qing_dynasty" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lang_Jingshan">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Qing_dynasty" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Zhang_Dingcheng">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Qing_dynasty" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Qing_Politics">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Qing_dynasty" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Chu_Guiting">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Qing_dynasty" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Huang_Kecheng">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Qing_dynasty" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Xiao_Ke">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Qing_dynasty" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Amursana">
+    <dbo:knownFor rdf:resource="http://dbpedia.org/resource/Qing_dynasty" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lady_Abahai">
+    <dbp:title rdf:resource="http://dbpedia.org/resource/Qing_dynasty" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Johann_Adam_Schall_von_Bell">
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Qing_dynasty" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Maqsud_Shah">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Qing_dynasty" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Watchman_Nee">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Qing_dynasty" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Aisin_Gioro">
+    <dbp:parentHouse rdf:resource="http://dbpedia.org/resource/Qing_dynasty" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kang_Sheng">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Qing_dynasty" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Shen_Congwen">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Qing_dynasty" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Qing_Empire">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Qing_dynasty" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Luo_Zhenyu">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Qing_dynasty" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Thomas_Pereira">
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Qing_dynasty" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Zhang_Shichuan">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Qing_dynasty" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Georgette_Chen">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Qing_dynasty" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Qing_dynasties">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Qing_dynasty" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/List_of_My_Fair_Princess_characters">
+    <dbp:data rdf:resource="http://dbpedia.org/resource/Qing_dynasty" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mao_Zuquan">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Qing_dynasty" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lu_Rongting">
+    <dbo:country rdf:resource="http://dbpedia.org/resource/Qing_dynasty" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nenghai">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Qing_dynasty" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Wang_Yingkai">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Qing_dynasty" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tai_Cheng_dynasty">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Qing_dynasty" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Empress_of_the_Qing_Dynasty">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Qing_dynasty" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tang_Fei-fan">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Qing_dynasty" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Qīng_Dynasty">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Qing_dynasty" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Manchu_China">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Qing_dynasty" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Qīng">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Qing_dynasty" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Empire_of_Great_Qing_of_China">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Qing_dynasty" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Red_Revenue">
+    <dbp:countryOfProduction rdf:resource="http://dbpedia.org/resource/Qing_dynasty" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Great_Qing">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Qing_dynasty" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ching_Empire">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Qing_dynasty" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Qing&#39;s_China">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Qing_dynasty" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ch&#39;Ing">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Qing_dynasty" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/History_of_the_Qing_Dynasty">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Qing_dynasty" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Qing_empire">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Qing_dynasty" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Qing_dynasty">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Qing_dynasty" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ta_Tsing_Empire">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Qing_dynasty" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Qing_army">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Qing_dynasty" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/China_under_Qing_Dynasty">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Qing_dynasty" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/大清帝國">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Qing_dynasty" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/清朝">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Qing_dynasty" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Qing_Government">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Qing_dynasty" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Manchu_Ch&#39;ing">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Qing_dynasty" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Qing-dynasty">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Qing_dynasty" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Empress_of_the_Qing_dynasty">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Qing_dynasty" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Chíng_Dynasty">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Qing_dynasty" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Chíng_dynasty">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Qing_dynasty" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ching_China">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Qing_dynasty" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Qing_Dyansty">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Qing_dynasty" />
+  </rdf:Description>
+</rdf:RDF>

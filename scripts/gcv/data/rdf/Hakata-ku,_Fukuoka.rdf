@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:dbo="http://dbpedia.org/ontology/"
+	xmlns:dct="http://purl.org/dc/terms/"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	xmlns:prov="http://www.w3.org/ns/prov#"
+	xmlns:ns8="http://dbpedia.org/ontology/PopulatedPlace/"
+	xmlns:georss="http://www.georss.org/georss/"
+	xmlns:dbp="http://dbpedia.org/property/"
+	xmlns:ns11="http://purl.org/linguistics/gold/" >
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hakata,_Fukuoka">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Hakata-ku,_Fukuoka" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Aoi_Teshima">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Hakata-ku,_Fukuoka" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Avispa_Fukuoka">
+    <dbo:ground rdf:resource="http://dbpedia.org/resource/Hakata-ku,_Fukuoka" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Naomi_Tani">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Hakata-ku,_Fukuoka" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hakata">
+    <dbo:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/Hakata-ku,_Fukuoka" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tetsuya_Takeda">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Hakata-ku,_Fukuoka" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hakata-ku,_Fukuoka">
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/District108552138" />
+    <rdf:type rdf:resource="http://schema.org/Place" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Location" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Place" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/PopulatedPlace" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Location100027167" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/AdministrativeDistrict108491826" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Region108630985" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoGeoEntity" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoPermanentlyLocatedEntity" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Settlement" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q486972" />
+    <rdf:type rdf:resource="http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PhysicalEntity100001930" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Object100002684" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoLegalActorGeo" />
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing" />
+    <rdfs:label xml:lang="es">Hakata-ku (Fukuoka)</rdfs:label>
+    <rdfs:label xml:lang="ja">博多区</rdfs:label>
+    <rdfs:label xml:lang="pt">Hakata</rdfs:label>
+    <rdfs:label xml:lang="fr">Hakata-ku</rdfs:label>
+    <rdfs:label xml:lang="en">Hakata-ku, Fukuoka</rdfs:label>
+    <rdfs:label xml:lang="zh">博多區</rdfs:label>
+    <rdfs:comment xml:lang="pt">Hakata ou Hacata (博多区; -ku) é um distrito de Fukuoka, no Japão. Possui uma população de 176 585 habitantes. É muito conhecida por ser o local da principal estação de trem de Fukuoka, a Estação Hakata. O prédio-sede do governo da província de Fukuoka também está localizado em Hakata, assim como a estação de ferry boat. Hakata é um centro tradicional de produção de bonecas, típicas da região e famosas em todo o Japão. Estas são chamadas de Hakata ningyo(博多人形|博多人形). O dialeto falado em Fukuoka é chamado de Hakata-ben. Hakata teve um papel importante na falha da invasão Mongol no Japão.</rdfs:comment>
+    <rdfs:comment xml:lang="fr">Hakata (博多区, Hakata-ku) est l&#39;un des sept arrondissements de la ville de Fukuoka au Japon. Il est situé à l&#39;est de la ville. En 2016, sa population est de 229 239 habitants pour une superficie de 31,63 km², ce qui fait une densité de population de 7 250 hab./km².</rdfs:comment>
+    <rdfs:comment xml:lang="zh">博多區是位於日本福岡縣福岡市東部的一個行政區。區內有博多港、福岡機場和博多站等交通設施，福岡縣政府也設於此。</rdfs:comment>
+    <rdfs:comment xml:lang="ja">博多区（はかたく）は、福岡市を構成する7区の行政区の一つである。 博多区には福岡県庁が置かれている。博多駅や博多港・福岡空港を抱え、国道3号が区内を縦断しており、交通の中枢となる区でもある。</rdfs:comment>
+    <rdfs:comment xml:lang="es">Hakata-ku (博多区 Hakata-ku?) es uno de los siete barrios de la ciudad de Fukuoka, Japón. Hasta el 1 de agosto de 2011 tenía una población estimada de 215.403 habitantes y una densidad de 6,840 personas por metro cuadrado. La superficie total del barrio es de 31,47 km².</rdfs:comment>
+    <rdfs:comment xml:lang="en">Hakata-ku (博多区) is a ward of the city of Fukuoka in Fukuoka Prefecture, Japan. Many of Fukuoka Prefecture and Fukuoka City&#39;s principal government, commercial, retail and entertainment establishments are located in the district. Hakata-ku is also the location of Fukuoka&#39;s main train station, Hakata Station, Fukuoka Airport and the Hakata Port international passenger ship terminal.</rdfs:comment>
+    <owl:sameAs rdf:resource="http://ko.dbpedia.org/resource/하카타_구" />
+    <owl:sameAs rdf:resource="http://id.dbpedia.org/resource/Hakata" />
+    <owl:sameAs rdf:resource="http://es.dbpedia.org/resource/Hakata-ku_(Fukuoka)" />
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q1330839" />
+    <owl:sameAs rdf:resource="http://ja.dbpedia.org/resource/博多区" />
+    <owl:sameAs rdf:resource="http://pt.dbpedia.org/resource/Hakata" />
+    <owl:sameAs rdf:resource="http://yago-knowledge.org/resource/Hakata-ku,_Fukuoka" />
+    <owl:sameAs rdf:resource="http://fr.dbpedia.org/resource/Hakata-ku" />
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.01ry1m" />
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q1330839" />
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Hakata-ku,_Fukuoka" />
+    <owl:sameAs rdf:resource="http://sws.geonames.org/1863373/" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Wards_of_Fukuoka" />
+    <dbo:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">301350</dbo:wikiPageID>
+    <dbo:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">742088687</dbo:wikiPageRevisionID>
+    <dbo:wikiPageExternalLink rdf:resource="http://www.omijapankorea.net/en/history/history2.html" />
+    <dbo:wikiPageExternalLink rdf:resource="http://hakatanewlifechurch.org/" />
+    <foaf:name xml:lang="en">Hakata</foaf:name>
+    <foaf:name xml:lang="en">Hakata Ward</foaf:name>
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#float">33.5914</geo:lat>
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#float">130.415</geo:long>
+    <foaf:depiction rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Hakata_Port_01.jpg" />
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Hakata-ku,_Fukuoka" />
+    <geo:geometry rdf:datatype="http://www.openlinksw.com/schemas/virtrdf#Geometry">POINT(130.41471862793 33.591388702393)</geo:geometry>
+    <dbo:thumbnail rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Hakata_Port_01.jpg?width=300" />
+    <prov:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Hakata-ku,_Fukuoka?oldid=742088687" />
+    <ns8:areaTotal rdf:datatype="http://dbpedia.org/datatype/squareKilometre">31.47</ns8:areaTotal>
+    <ns8:populationDensity rdf:datatype="http://dbpedia.org/datatype/inhabitantsPerSquareKilometre">6886.81</ns8:populationDensity>
+    <dbo:abstract xml:lang="ja">博多区（はかたく）は、福岡市を構成する7区の行政区の一つである。 博多区には福岡県庁が置かれている。博多駅や博多港・福岡空港を抱え、国道3号が区内を縦断しており、交通の中枢となる区でもある。</dbo:abstract>
+    <dbo:abstract xml:lang="fr">Hakata (博多区, Hakata-ku) est l&#39;un des sept arrondissements de la ville de Fukuoka au Japon. Il est situé à l&#39;est de la ville. En 2016, sa population est de 229 239 habitants pour une superficie de 31,63 km², ce qui fait une densité de population de 7 250 hab./km².</dbo:abstract>
+    <dbo:abstract xml:lang="zh">博多區是位於日本福岡縣福岡市東部的一個行政區。區內有博多港、福岡機場和博多站等交通設施，福岡縣政府也設於此。</dbo:abstract>
+    <dbo:abstract xml:lang="pt">Hakata ou Hacata (博多区; -ku) é um distrito de Fukuoka, no Japão. Possui uma população de 176 585 habitantes. É muito conhecida por ser o local da principal estação de trem de Fukuoka, a Estação Hakata. O prédio-sede do governo da província de Fukuoka também está localizado em Hakata, assim como a estação de ferry boat. Hakata era uma cidade independente até 1889, quando fundiu-se com Fukuoka. Hakata, que era próxima ao mar, abrigava os mercadores, enquanto Fukuoka era a cidade dos samurais. A junção das duas cidades foi nomeada de Fukuoka devido à pressão dos samurais. No entanto, Fukuoka é, muitas vezes, chamada de Hakata pela população. Hakata é um centro tradicional de produção de bonecas, típicas da região e famosas em todo o Japão. Estas são chamadas de Hakata ningyo(博多人形|博多人形). O dialeto falado em Fukuoka é chamado de Hakata-ben. Hakata teve um papel importante na falha da invasão Mongol no Japão.</dbo:abstract>
+    <dbo:abstract xml:lang="es">Hakata-ku (博多区 Hakata-ku?) es uno de los siete barrios de la ciudad de Fukuoka, Japón. Hasta el 1 de agosto de 2011 tenía una población estimada de 215.403 habitantes y una densidad de 6,840 personas por metro cuadrado. La superficie total del barrio es de 31,47 km².</dbo:abstract>
+    <dbo:abstract xml:lang="en">Hakata-ku (博多区) is a ward of the city of Fukuoka in Fukuoka Prefecture, Japan. Many of Fukuoka Prefecture and Fukuoka City&#39;s principal government, commercial, retail and entertainment establishments are located in the district. Hakata-ku is also the location of Fukuoka&#39;s main train station, Hakata Station, Fukuoka Airport and the Hakata Port international passenger ship terminal.</dbo:abstract>
+    <dbo:areaTotal rdf:datatype="http://www.w3.org/2001/XMLSchema#double">3.147e+07</dbo:areaTotal>
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Fukuoka_Prefecture" />
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Fukuoka,_Fukuoka" />
+    <dbo:populationAsOf rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2012-03-01</dbo:populationAsOf>
+    <dbo:populationDensity rdf:datatype="http://www.w3.org/2001/XMLSchema#double">6886.81</dbo:populationDensity>
+    <dbo:populationTotal rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">216728</dbo:populationTotal>
+    <dbo:timeZone rdf:resource="http://dbpedia.org/resource/Japan_Standard_Time" />
+    <dbo:type rdf:resource="http://dbpedia.org/resource/Wards_of_Japan" />
+    <dbo:utcOffset>+9</dbo:utcOffset>
+    <georss:point>33.591388888888886 130.41472222222222</georss:point>
+    <dbp:blank1InfoSec rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</dbp:blank1InfoSec>
+    <dbp:blank1NameSec rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Address</dbp:blank1NameSec>
+    <dbp:blank1NameSec rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">- Tree</dbp:blank1NameSec>
+    <dbp:blank2NameSec rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">- Flower</dbp:blank2NameSec>
+    <dbp:blank3NameSec rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">- Bird</dbp:blank3NameSec>
+    <dbp:blankInfoSec rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">92</dbp:blankInfoSec>
+    <dbp:blankNameSec rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">City Symbols</dbp:blankNameSec>
+    <dbp:blankNameSec rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Phone number</dbp:blankNameSec>
+    <dbp:coordinatesDisplay rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">inline,title</dbp:coordinatesDisplay>
+    <dbp:coordinatesRegion rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">JP</dbp:coordinatesRegion>
+    <dbp:imageCaption rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Hakata Port</dbp:imageCaption>
+    <dbp:imageMap rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Fukuoka City hakata-ward.png</dbp:imageMap>
+    <dbp:imageSkyline rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Hakata Port 01.jpg</dbp:imageSkyline>
+    <dbp:latd rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">33</dbp:latd>
+    <dbp:latm rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">35</dbp:latm>
+    <dbp:latns rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">N</dbp:latns>
+    <dbp:lats rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">29</dbp:lats>
+    <dbp:longd rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">130</dbp:longd>
+    <dbp:longew rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">E</dbp:longew>
+    <dbp:longm rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">24</dbp:longm>
+    <dbp:longs rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">53</dbp:longs>
+    <dbp:mapCaption rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">(Location of Hakata-ku in Fukuoka)</dbp:mapCaption>
+    <dbp:nativeNameLang rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">ja</dbp:nativeNameLang>
+    <dbp:pushpinMap rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Japan</dbp:pushpinMap>
+    <dbp:subdivisionName rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Japan</dbp:subdivisionName>
+    <dbp:subdivisionName rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Kyushu</dbp:subdivisionName>
+    <dbp:subdivisionType rdf:resource="http://dbpedia.org/resource/List_of_regions_of_Japan" />
+    <dbp:subdivisionType rdf:resource="http://dbpedia.org/resource/List_of_sovereign_states" />
+    <dbp:subdivisionType rdf:resource="http://dbpedia.org/resource/Cities_of_Japan" />
+    <dbp:subdivisionType rdf:resource="http://dbpedia.org/resource/Prefectures_of_Japan" />
+    <ns11:hypernym rdf:resource="http://dbpedia.org/resource/Ward" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Link_Airs">
+    <dbo:headquarter rdf:resource="http://dbpedia.org/resource/Hakata-ku,_Fukuoka" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Riho_Makise">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Hakata-ku,_Fukuoka" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2014_Emperor&#39;s_Cup">
+    <dbp:stadium rdf:resource="http://dbpedia.org/resource/Hakata-ku,_Fukuoka" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kyushu_Railway_Company">
+    <dbo:locationCity rdf:resource="http://dbpedia.org/resource/Hakata-ku,_Fukuoka" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hakata_Dontaku">
+    <dbo:country rdf:resource="http://dbpedia.org/resource/Hakata-ku,_Fukuoka" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hakata_Gion_Yamakasa">
+    <dbo:country rdf:resource="http://dbpedia.org/resource/Hakata-ku,_Fukuoka" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2011_Júbilo_Iwata_season">
+    <dbp:stadium rdf:resource="http://dbpedia.org/resource/Hakata-ku,_Fukuoka" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2016_Avispa_Fukuoka_season">
+    <dbp:location rdf:resource="http://dbpedia.org/resource/Hakata-ku,_Fukuoka" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2016_Sanfrecce_Hiroshima_season">
+    <dbp:location rdf:resource="http://dbpedia.org/resource/Hakata-ku,_Fukuoka" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sei_Kawahara">
+    <dbp:currenttraininglocations rdf:resource="http://dbpedia.org/resource/Hakata-ku,_Fukuoka" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kyohei_Nakamura">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Hakata-ku,_Fukuoka" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Hakata-ku,_Fukuoka">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Hakata-ku,_Fukuoka" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hakata-ku">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Hakata-ku,_Fukuoka" />
+  </rdf:Description>
+</rdf:RDF>

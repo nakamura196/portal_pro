@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:dct="http://purl.org/dc/terms/"
+	xmlns:dbo="http://dbpedia.org/ontology/"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:prov="http://www.w3.org/ns/prov#"
+	xmlns:georss="http://www.georss.org/georss/"
+	xmlns:dbp="http://dbpedia.org/property/" >
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ikawa,_Shizuoka">
+    <dbp:district rdf:resource="http://dbpedia.org/resource/Abe_District,_Shizuoka" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Abe_District,_Shizuoka">
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatFormerDistrictsOfShizuokaPrefecture" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Object100002684" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoLegalActorGeo" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PhysicalEntity100001930" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoGeoEntity" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoPermanentlyLocatedEntity" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Region108630985" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/District108552138" />
+    <rdf:type rdf:resource="http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Location100027167" />
+    <rdfs:label xml:lang="zh">安倍郡</rdfs:label>
+    <rdfs:label xml:lang="ja">安倍郡</rdfs:label>
+    <rdfs:label xml:lang="en">Abe District, Shizuoka</rdfs:label>
+    <rdfs:comment xml:lang="ja">安倍郡（あべぐん、あべのこおり）は静岡県（駿河国）にあった郡。</rdfs:comment>
+    <rdfs:comment xml:lang="en">Abe District (安倍郡 Abe-gun) was formerly a rural district located in Shizuoka Prefecture, Japan. The entire area of the district is now within modern Shizuoka City, with the original core area corresponding to the extension of Aoi Ward.</rdfs:comment>
+    <rdfs:comment xml:lang="zh">安倍郡為靜岡縣的一郡。已於1969年1月1日因無管轄町村而廢除。 廢除時有以下6村： 
+* 大河內村 
+* 梅之島村 
+* 玉川村 
+* 井川村 
+* 清澤村 
+* 大川村</rdfs:comment>
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q4666382" />
+    <owl:sameAs rdf:resource="http://yago-knowledge.org/resource/Abe_District,_Shizuoka" />
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Abe_District,_Shizuoka" />
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q4666382" />
+    <owl:sameAs rdf:resource="http://ja.dbpedia.org/resource/安倍郡" />
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.0kfzgdd" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Former_districts_of_Shizuoka_Prefecture" />
+    <dbo:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">36576152</dbo:wikiPageID>
+    <dbo:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">598831748</dbo:wikiPageRevisionID>
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#float">34.975</geo:lat>
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#float">138.384</geo:long>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Abe_District,_Shizuoka" />
+    <geo:geometry rdf:datatype="http://www.openlinksw.com/schemas/virtrdf#Geometry">POINT(138.38360595703 34.974998474121)</geo:geometry>
+    <prov:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Abe_District,_Shizuoka?oldid=598831748" />
+    <dbo:abstract xml:lang="zh">安倍郡為靜岡縣的一郡。已於1969年1月1日因無管轄町村而廢除。 廢除時有以下6村： 
+* 大河內村 
+* 梅之島村 
+* 玉川村 
+* 井川村 
+* 清澤村 
+* 大川村</dbo:abstract>
+    <dbo:abstract xml:lang="en">Abe District (安倍郡 Abe-gun) was formerly a rural district located in Shizuoka Prefecture, Japan. The entire area of the district is now within modern Shizuoka City, with the original core area corresponding to the extension of Aoi Ward.</dbo:abstract>
+    <dbo:abstract xml:lang="ja">安倍郡（あべぐん、あべのこおり）は静岡県（駿河国）にあった郡。</dbo:abstract>
+    <georss:point>34.975 138.38361111111112</georss:point>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Abe_District,_Shizuoka">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Abe_District,_Shizuoka" />
+  </rdf:Description>
+</rdf:RDF>

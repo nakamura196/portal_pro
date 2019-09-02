@@ -1,0 +1,291 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:dbo="http://dbpedia.org/ontology/"
+	xmlns:dbp="http://dbpedia.org/property/"
+	xmlns:dct="http://purl.org/dc/terms/"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	xmlns:prov="http://www.w3.org/ns/prov#"
+	xmlns:ns9="http://dbpedia.org/ontology/PopulatedPlace/"
+	xmlns:georss="http://www.georss.org/georss/"
+	xmlns:ns11="http://purl.org/linguistics/gold/" >
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tsutomu_Shibayama">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Taitō" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yokoyama_Taikan">
+    <dbo:deathPlace rdf:resource="http://dbpedia.org/resource/Taitō" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Taito-ku">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Taitō" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Taito,_Tokyo">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Taitō" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Isamu_Tanonaka">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Taitō" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Momoko_Kōchi">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Taitō" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hiroshi_Arakawa">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Taitō" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Masayuki_Dobashi">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Taitō" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Toshiko_Yuasa">
+    <dbp:birthPlace rdf:resource="http://dbpedia.org/resource/Taitō" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Daisuke_Asakura">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Taitō" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tomoyuki_Yoshino">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Taitō" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Chiharu_Tezuka">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Taitō" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Toyoko_Iwahara">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Taitō" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yuko_Kusunoki">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Taitō" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Taitō">
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Location" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Place" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/PopulatedPlace" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q486972" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Location100027167" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/AdministrativeDistrict108491826" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Region108630985" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Settlement" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoGeoEntity" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PhysicalEntity100001930" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoPermanentlyLocatedEntity" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Object100002684" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoLegalActorGeo" />
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing" />
+    <rdf:type rdf:resource="http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing" />
+    <rdf:type rdf:resource="http://schema.org/Place" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/District108552138" />
+    <rdfs:label xml:lang="fr">Taitō</rdfs:label>
+    <rdfs:label xml:lang="es">Taitō (Tokio)</rdfs:label>
+    <rdfs:label xml:lang="nl">Taito (Tokio)</rdfs:label>
+    <rdfs:label xml:lang="pl">Taitō (Tokio)</rdfs:label>
+    <rdfs:label xml:lang="en">Taitō</rdfs:label>
+    <rdfs:label xml:lang="zh">台東區</rdfs:label>
+    <rdfs:label xml:lang="ja">台東区</rdfs:label>
+    <rdfs:label xml:lang="pt">Taito</rdfs:label>
+    <rdfs:label xml:lang="ru">Тайто (специальный район)</rdfs:label>
+    <rdfs:label xml:lang="de">Taitō</rdfs:label>
+    <rdfs:label xml:lang="ar">تايتو (طوكيو)</rdfs:label>
+    <rdfs:label xml:lang="it">Taitō</rdfs:label>
+    <rdfs:comment xml:lang="de">Taitō (jap. 台東区, -ku) ist einer der 23 Bezirke der Präfektur Tokio. Er liegt östlich des Zentrums der japanischen Hauptstadt Tokio.</rdfs:comment>
+    <rdfs:comment xml:lang="es">Taitō (台東区 Taitō-ku?) es uno de los 23 barrios especiales de Tokio, Japón. Es común que se autodenomine en otros idiomas como &quot;Ciudad de Taitō&quot;. En 2008, la población se estimaba en 175.346 habitantes, con una densidad de 15.890 personas por km², en un área de 10,08 km². Creado el 15 de marzo de 1947, el barrio está situado al noreste de los 23 barrios especiales. Algunos hitos urbanos son el Parque Ueno, el parque Sumida, y el templo Sensoji.</rdfs:comment>
+    <rdfs:comment xml:lang="pt">Taitō (台東区; -ku) é um do 23 bairros de Tóquio, no Japão.Em 2003, tinha uma população estimada em 162,685 habitantes e uma densidade populacional de 16,139.38 h/km². Tem uma área total de 10.08 km². O bairro foi fundado a 15 de março de 1947.</rdfs:comment>
+    <rdfs:comment xml:lang="nl">Taitō (台東区,Taitō-ku) is een van de 23 speciale wijken van Tokio. Taitō heeft het statuut van stad en noemt zich in het Engels ook Taito City. Op 1 mei 2009 had de stad 173.526 inwoners. De bevolkingsdichtheid bedroeg 17210 inw./km². De oppervlakte van de stad is 10,08 km². In het district Ueno van Taitō ligt het Uenopark waarin meerdere Japanse nationale musea zijn gehuisvest.</rdfs:comment>
+    <rdfs:comment xml:lang="ar">تايتو (باليابانية: 台東区تايتو-كو) وتعني &quot;حي تايتو&quot; هو أحد أحياء طوكيو ال 23.</rdfs:comment>
+    <rdfs:comment xml:lang="it">Taitō (台東区 Taitō-ku?) è un quartiere speciale di Tokyo, che confina con i quartieri di (da nord in senso orario): Arakawa, Sumida, Chūō, Chiyoda, Bunkyo, Kita. Nel 2008 il quartiere era abitato da circa 175.346 persone, con una densità di 15.890 persone/km² su un&#39;area di 10.08 km². Taitō divenne quartiere speciale il 15 marzo 1947.</rdfs:comment>
+    <rdfs:comment xml:lang="en">Taitō (台東区 Taitō-ku) is a special ward located in Tokyo Metropolis, Japan. In English, it is known as Taito City. As of May 1, 2015, the ward has an estimated population of 186,276 and a population density of 18,420 persons per km². The total area is 10.11 km². This makes Taito ward the smallest of Tokyo&#39;s wards in area, and third smallest in population.</rdfs:comment>
+    <rdfs:comment xml:lang="ru">Тайто (яп. 台東区 Тайто-ку) — один из 23 специальных районов Токио.</rdfs:comment>
+    <rdfs:comment xml:lang="pl">Taitō (jap. 台東区, Taitō-ku) – jeden z 23 specjalnych okręgów (dzielnic) japońskiej stolicy Tokio. W 2008 roku liczba ludności okręgu wynosiła 175 346 mieszkańców, a gęstość zaludnienia 15 890 osób na km2. Okręg zajmuje obszar 10,08 km2. Taitō leży w środkowej części Tokio między okręgami: Chiyoda, Bunkyō, Arakawa, Sumida i Chūō. Dzielnice okręgu Taitō: 
+*  Ueno  
+*  Asakusa 
+*  Akihabara 
+*  Ameyoko 
+*  Yanaka 
+*  Asakusabashi Świątynie i chramy: 
+*  Sensō-ji  
+*  Kan&#39;ei-ji Parki: 
+*  Asakusa Park 
+*  Sumida Park 
+*  Ueno Park 
+*  Yanaka Park</rdfs:comment>
+    <rdfs:comment xml:lang="ja">台東区（たいとうく）は、東京都の特別区の一つで、23区東部に区分される。</rdfs:comment>
+    <rdfs:comment xml:lang="zh">台東区（日语：台東区／たいとうく Taitō ku */?）是日本東京都內特別區之一，為東京各特別區中面積最小者。全區幾乎位於東京23區的中心，東接隅田川。台東區擁有上野、浅草兩大繁華商圈商業街，該區域的特產是皮革制品、人偶、玩具、傳統工藝品等。</rdfs:comment>
+    <rdfs:comment xml:lang="fr">Taitō (台東区, Taitō-ku) est un des 23 arrondissements spéciaux (特別区, Tokubetsu-ku) formant Tokyo, au Japon. L&#39;arrondissement a été fondé le 15 mars 1947. La population de l&#39;arrondissement était de 175 346 habitants pour une superficie de 10,08 km2 en 2008.</rdfs:comment>
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.07rf6" />
+    <owl:sameAs rdf:resource="http://fr.dbpedia.org/resource/Taitō" />
+    <owl:sameAs rdf:resource="http://nl.dbpedia.org/resource/Taito_(Tokio)" />
+    <owl:sameAs rdf:resource="http://es.dbpedia.org/resource/Taitō_(Tokio)" />
+    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/Taitō" />
+    <owl:sameAs rdf:resource="http://eu.dbpedia.org/resource/Taitō_(Tokio)" />
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Taitō" />
+    <owl:sameAs rdf:resource="http://id.dbpedia.org/resource/Taitō,_Tokyo" />
+    <owl:sameAs rdf:resource="http://ko.dbpedia.org/resource/다이토_구" />
+    <owl:sameAs rdf:resource="http://sws.geonames.org/7475134/" />
+    <owl:sameAs rdf:resource="http://pl.dbpedia.org/resource/Taitō_(Tokio)" />
+    <owl:sameAs rdf:resource="http://it.dbpedia.org/resource/Taitō" />
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q232641" />
+    <owl:sameAs rdf:resource="http://yago-knowledge.org/resource/Taitō,_Tokyo" />
+    <owl:sameAs rdf:resource="http://ja.dbpedia.org/resource/台東区" />
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q232641" />
+    <owl:sameAs rdf:resource="http://pt.dbpedia.org/resource/Taito" />
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Taitō" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Wards_of_Tokyo" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Taitō" />
+    <dbo:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">31504</dbo:wikiPageID>
+    <dbo:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">736039286</dbo:wikiPageRevisionID>
+    <dbo:wikiPageExternalLink rdf:resource="http://www.city.taito.tokyo.jp/foreign/english/taitou-e.html" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www15.j-server.com/LUCTAITO/ns/tl.cgi/http%3A/www15.j-server.com/LUCTAITO/ns/warning_mess4.cgi?url=http%3a//www.city.taito.lg.jp/&amp;target=_top&amp;SLANG=ja&amp;TLANG=en&amp;XMODE=0&amp;XJSID=0" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.taito-culture.jp/" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.city.taito.tokyo.jp/" />
+    <foaf:name xml:lang="en">Taitō City</foaf:name>
+    <foaf:homepage rdf:resource="http://www.city.taito.tokyo.jp/foreign/english/taitou-e.html" />
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#float">35.7126</geo:lat>
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#float">139.78</geo:long>
+    <foaf:depiction rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Straatbeeld_Tokyo_juli_2004.jpg" />
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Taitō" />
+    <geo:geometry rdf:datatype="http://www.openlinksw.com/schemas/virtrdf#Geometry">POINT(139.7799987793 35.712608337402)</geo:geometry>
+    <dbo:thumbnail rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Straatbeeld_Tokyo_juli_2004.jpg?width=300" />
+    <prov:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Taitō?oldid=736039286" />
+    <ns9:areaTotal rdf:datatype="http://dbpedia.org/datatype/squareKilometre">10.11</ns9:areaTotal>
+    <ns9:populationDensity rdf:datatype="http://dbpedia.org/datatype/inhabitantsPerSquareKilometre">18420.0</ns9:populationDensity>
+    <dbo:abstract xml:lang="ru">Тайто (яп. 台東区 Тайто-ку) — один из 23 специальных районов Токио.</dbo:abstract>
+    <dbo:abstract xml:lang="pt">Taitō (台東区; -ku) é um do 23 bairros de Tóquio, no Japão.Em 2003, tinha uma população estimada em 162,685 habitantes e uma densidade populacional de 16,139.38 h/km². Tem uma área total de 10.08 km². O bairro foi fundado a 15 de março de 1947.</dbo:abstract>
+    <dbo:abstract xml:lang="zh">台東区（日语：台東区／たいとうく Taitō ku */?）是日本東京都內特別區之一，為東京各特別區中面積最小者。全區幾乎位於東京23區的中心，東接隅田川。台東區擁有上野、浅草兩大繁華商圈商業街，該區域的特產是皮革制品、人偶、玩具、傳統工藝品等。</dbo:abstract>
+    <dbo:abstract xml:lang="ar">تايتو (باليابانية: 台東区تايتو-كو) وتعني &quot;حي تايتو&quot; هو أحد أحياء طوكيو ال 23.</dbo:abstract>
+    <dbo:abstract xml:lang="nl">Taitō (台東区,Taitō-ku) is een van de 23 speciale wijken van Tokio. Taitō heeft het statuut van stad en noemt zich in het Engels ook Taito City. Op 1 mei 2009 had de stad 173.526 inwoners. De bevolkingsdichtheid bedroeg 17210 inw./km². De oppervlakte van de stad is 10,08 km². In het district Ueno van Taitō ligt het Uenopark waarin meerdere Japanse nationale musea zijn gehuisvest.</dbo:abstract>
+    <dbo:abstract xml:lang="pl">Taitō (jap. 台東区, Taitō-ku) – jeden z 23 specjalnych okręgów (dzielnic) japońskiej stolicy Tokio. W 2008 roku liczba ludności okręgu wynosiła 175 346 mieszkańców, a gęstość zaludnienia 15 890 osób na km2. Okręg zajmuje obszar 10,08 km2. Taitō leży w środkowej części Tokio między okręgami: Chiyoda, Bunkyō, Arakawa, Sumida i Chūō. Dzielnice okręgu Taitō: 
+*  Ueno  
+*  Asakusa 
+*  Akihabara 
+*  Ameyoko 
+*  Yanaka 
+*  Asakusabashi Świątynie i chramy: 
+*  Sensō-ji  
+*  Kan&#39;ei-ji Parki: 
+*  Asakusa Park 
+*  Sumida Park 
+*  Ueno Park 
+*  Yanaka Park</dbo:abstract>
+    <dbo:abstract xml:lang="it">Taitō (台東区 Taitō-ku?) è un quartiere speciale di Tokyo, che confina con i quartieri di (da nord in senso orario): Arakawa, Sumida, Chūō, Chiyoda, Bunkyo, Kita. Nel 2008 il quartiere era abitato da circa 175.346 persone, con una densità di 15.890 persone/km² su un&#39;area di 10.08 km². Taitō divenne quartiere speciale il 15 marzo 1947.</dbo:abstract>
+    <dbo:abstract xml:lang="de">Taitō (jap. 台東区, -ku) ist einer der 23 Bezirke der Präfektur Tokio. Er liegt östlich des Zentrums der japanischen Hauptstadt Tokio.</dbo:abstract>
+    <dbo:abstract xml:lang="en">Taitō (台東区 Taitō-ku) is a special ward located in Tokyo Metropolis, Japan. In English, it is known as Taito City. As of May 1, 2015, the ward has an estimated population of 186,276 and a population density of 18,420 persons per km². The total area is 10.11 km². This makes Taito ward the smallest of Tokyo&#39;s wards in area, and third smallest in population.</dbo:abstract>
+    <dbo:abstract xml:lang="ja">台東区（たいとうく）は、東京都の特別区の一つで、23区東部に区分される。</dbo:abstract>
+    <dbo:abstract xml:lang="fr">Taitō (台東区, Taitō-ku) est un des 23 arrondissements spéciaux (特別区, Tokubetsu-ku) formant Tokyo, au Japon. L&#39;arrondissement a été fondé le 15 mars 1947. La population de l&#39;arrondissement était de 175 346 habitants pour une superficie de 10,08 km2 en 2008.</dbo:abstract>
+    <dbo:abstract xml:lang="es">Taitō (台東区 Taitō-ku?) es uno de los 23 barrios especiales de Tokio, Japón. Es común que se autodenomine en otros idiomas como &quot;Ciudad de Taitō&quot;. En 2008, la población se estimaba en 175.346 habitantes, con una densidad de 15.890 personas por km², en un área de 10,08 km². Creado el 15 de marzo de 1947, el barrio está situado al noreste de los 23 barrios especiales. Algunos hitos urbanos son el Parque Ueno, el parque Sumida, y el templo Sensoji. En el distrito de Ueno tuvo lugar la batalla donde las fuerzas imperiales derrotaron al último apoyo del shogunado Tokugawa en 1868. El distrito está dominado por el Parque Ueno, creado en el lugar de la batalla y convertido en parque público en 1873. El parque alberga a varios museos, incluyendo el Museo Nacional de Tokio, el Museo Nacional de las Ciencias y el Museo Nacional de Arte Occidental. En el parque está la tumba Shogi Tai: dos lápidas que recuerdan a los samurái que lucharon en la batalla de Monte Ueno. En el barrio se llevan a cabo el festival de fuegos artificiales Sumidagawa, el carnaval de samba Asakusa, y el festival Sanja Matsuri, uno de los tres mayores festivales de Tokio.</dbo:abstract>
+    <dbo:areaTotal rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.011e+07</dbo:areaTotal>
+    <dbo:country rdf:resource="http://dbpedia.org/resource/Japan" />
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Tokyo" />
+    <dbo:isPartOf rdf:resource="http://dbpedia.org/resource/Kantō_region" />
+    <dbo:leaderTitle xml:lang="en">Mayor (Ward)</dbo:leaderTitle>
+    <dbo:populationAsOf rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2015-05-01</dbo:populationAsOf>
+    <dbo:populationDensity rdf:datatype="http://www.w3.org/2001/XMLSchema#double">18420.0</dbo:populationDensity>
+    <dbo:populationTotal rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">186276</dbo:populationTotal>
+    <dbo:timeZone rdf:resource="http://dbpedia.org/resource/Japan_Standard_Time" />
+    <dbo:type rdf:resource="http://dbpedia.org/resource/Special_wards_of_Tokyo" />
+    <dbo:utcOffset>+9</dbo:utcOffset>
+    <georss:point>35.712608333333336 139.77999444444444</georss:point>
+    <dbp:blank1InfoSec rdf:resource="http://dbpedia.org/resource/Cherry_blossom" />
+    <dbp:blank1NameSec rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Tree</dbp:blank1NameSec>
+    <dbp:blank2InfoSec rdf:resource="http://dbpedia.org/resource/Ipomoea_nil" />
+    <dbp:blank2NameSec rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Flower</dbp:blank2NameSec>
+    <dbp:blankNameSec rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">City symbols</dbp:blankNameSec>
+    <dbp:coordinatesDisplay rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">title</dbp:coordinatesDisplay>
+    <dbp:coordinatesRegion rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">JP</dbp:coordinatesRegion>
+    <dbp:imageBlankEmblem rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Symbol of Taito, Tokyo.svg</dbp:imageBlankEmblem>
+    <dbp:imageCaption rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">A street in Ueno, Taitō</dbp:imageCaption>
+    <dbp:imageFlag rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Flag of Taito, Tokyo.svg</dbp:imageFlag>
+    <dbp:imageMap rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Taitō-ku in Tokyo Prefecture Ja.svg</dbp:imageMap>
+    <dbp:imageSkyline rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Straatbeeld Tokyo juli 2004.jpg</dbp:imageSkyline>
+    <dbp:latd rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">35</dbp:latd>
+    <dbp:latm rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">42</dbp:latm>
+    <dbp:latns rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">N</dbp:latns>
+    <dbp:lats rdf:datatype="http://www.w3.org/2001/XMLSchema#double">45.39</dbp:lats>
+    <dbp:leaderName rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Hiroshi Yoshizumi</dbp:leaderName>
+    <dbp:longd rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">139</dbp:longd>
+    <dbp:longew rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">E</dbp:longew>
+    <dbp:longm rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">46</dbp:longm>
+    <dbp:longs rdf:datatype="http://www.w3.org/2001/XMLSchema#double">47.98</dbp:longs>
+    <dbp:mapCaption rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Location of Taitō in Tokyo Metropolis</dbp:mapCaption>
+    <dbp:nativeNameLang rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">ja</dbp:nativeNameLang>
+    <dbp:pushpinMap rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Japan</dbp:pushpinMap>
+    <dbp:subdivisionType rdf:resource="http://dbpedia.org/resource/List_of_sovereign_states" />
+    <dbp:subdivisionType rdf:resource="http://dbpedia.org/resource/List_of_regions_of_Japan" />
+    <dbp:subdivisionType rdf:resource="http://dbpedia.org/resource/Prefectures_of_Japan" />
+    <ns11:hypernym rdf:resource="http://dbpedia.org/resource/Ward" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Manami_Katsu">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Taitō" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yoshikatsu_Nakayama">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Taitō" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ayako_Sana">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Taitō" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Maki_Sakai">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Taitō" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Motoharu_Sano">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Taitō" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yokoyama_Taikan_Memorial_Hall">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Taitō" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bandai">
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Taitō" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yumi_Adachi">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Taitō" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yūki_Amami">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Taitō" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hayashiya_Sanpei_II">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Taitō" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Remi_Hirano">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Taitō" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hayashiya_Sanpei_I">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Taitō" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kaori_Muraji">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Taitō" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Shuji_Tsurumi">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Taitō" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Taitoo">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Taitō" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Taitoo,_Tookyoo">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Taitō" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Taitou,_Toukyou">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Taitō" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yoshihiro_Nishimura">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Taitō" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Taito-ku,_Tokyo">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Taitō" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Toshiaki_Karasawa">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Taitō" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yumiko_Kokonoe">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Taitō" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kiyoto_Tsuji">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Taitō" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kōji_Ochiai">
+    <dbo:birthPlace rdf:resource="http://dbpedia.org/resource/Taitō" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Taitō">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Taitō" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Taitō,_Tōkyō">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Taitō" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Taitō,_Tokyo">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Taitō" />
+  </rdf:Description>
+</rdf:RDF>

@@ -1,0 +1,424 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:dct="http://purl.org/dc/terms/"
+	xmlns:dbo="http://dbpedia.org/ontology/"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	xmlns:prov="http://www.w3.org/ns/prov#"
+	xmlns:dbp="http://dbpedia.org/property/"
+	xmlns:georss="http://www.georss.org/georss/"
+	xmlns:ns10="http://purl.org/linguistics/gold/" >
+  <rdf:Description rdf:about="http://dbpedia.org/resource/United_States_Coast_Guard">
+    <dbo:commandStructure rdf:resource="http://dbpedia.org/resource/United_States_Department_of_the_Treasury" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Internal_Revenue_Service">
+    <dbo:parentOrganisation rdf:resource="http://dbpedia.org/resource/United_States_Department_of_the_Treasury" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/David_H._McCormick">
+    <dbp:title rdf:resource="http://dbpedia.org/resource/United_States_Department_of_the_Treasury" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Steamboat_Inspection_Service">
+    <dbo:parentOrganisation rdf:resource="http://dbpedia.org/resource/United_States_Department_of_the_Treasury" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/U.S._Treasury">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/United_States_Department_of_the_Treasury" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Moscow_City_Hall_(Idaho)">
+    <dbo:architect rdf:resource="http://dbpedia.org/resource/United_States_Department_of_the_Treasury" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/United_States_Department_Of_The_Treasury">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/United_States_Department_of_the_Treasury" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bureau_of_Engraving_and_Printing">
+    <dbo:parentOrganisation rdf:resource="http://dbpedia.org/resource/United_States_Department_of_the_Treasury" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Department_of_the_Treasury">
+    <dbo:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/United_States_Department_of_the_Treasury" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/United_States_Mint">
+    <dbo:parentOrganisation rdf:resource="http://dbpedia.org/resource/United_States_Department_of_the_Treasury" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_New_Spirit">
+    <dbp:studio rdf:resource="http://dbpedia.org/resource/United_States_Department_of_the_Treasury" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/US_Treasury_Department">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/United_States_Department_of_the_Treasury" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/U._S._Treasury_Department">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/United_States_Department_of_the_Treasury" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Office_of_Thrift_Supervision">
+    <dbo:parentOrganisation rdf:resource="http://dbpedia.org/resource/United_States_Department_of_the_Treasury" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Treasury_(disambiguation)">
+    <dbo:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/United_States_Department_of_the_Treasury" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/United_States_Department_of_Treasury">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/United_States_Department_of_the_Treasury" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/United_States_Department_of_the_Treasury">
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/ExecutiveDepartment108123167" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoLegalActor" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoLegalActorGeo" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/FederalDepartment108122141" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/GovernmentDepartment108119821" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatUnitedStatesFederalExecutiveDepartments" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Unit108189659" />
+    <rdf:type rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#SocialPerson" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q43229" />
+    <rdf:type rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/GovernmentAgency" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Department108114861" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Division108220714" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/AdministrativeUnit108077292" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Agency108337324" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Abstraction100002137" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/SocialGroup107950920" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Group100031264" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Organization108008335" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q327333" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Settlement" />
+    <rdf:type rdf:resource="http://schema.org/Organization" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q24229398" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatOrganizationsBasedInWashington,D.C." />
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Organisation" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatAgenciesOfTheUnitedStatesGovernment" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/RegulatoryAgency108353406" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatFinancialRegulatoryAuthoritiesOfTheUnitedStates" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoPermanentlyLocatedEntity" />
+    <rdf:type rdf:resource="http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Agent" />
+    <rdfs:label xml:lang="pl">Departament Skarbu Stanów Zjednoczonych</rdfs:label>
+    <rdfs:label xml:lang="zh">美国财政部</rdfs:label>
+    <rdfs:label xml:lang="en">United States Department of the Treasury</rdfs:label>
+    <rdfs:label xml:lang="ja">アメリカ合衆国財務省</rdfs:label>
+    <rdfs:label xml:lang="it">Dipartimento del Tesoro degli Stati Uniti d&#39;America</rdfs:label>
+    <rdfs:label xml:lang="ar">وزارة الخزانة الأمريكية</rdfs:label>
+    <rdfs:label xml:lang="fr">Département du Trésor des États-Unis</rdfs:label>
+    <rdfs:label xml:lang="de">Finanzministerium der Vereinigten Staaten</rdfs:label>
+    <rdfs:label xml:lang="pt">Departamento do Tesouro dos Estados Unidos</rdfs:label>
+    <rdfs:label xml:lang="nl">United States Department of the Treasury</rdfs:label>
+    <rdfs:label xml:lang="es">Departamento del Tesoro de los Estados Unidos</rdfs:label>
+    <rdfs:label xml:lang="ru">Министерство финансов США</rdfs:label>
+    <rdfs:comment xml:lang="de">Das Finanzministerium der Vereinigten Staaten von Amerika (amtl. United States Department of the Treasury) ist Teil der Bundesregierung des Staates und zuständig für die Erhebung, Verwaltung und Ausgabe der öffentlichen Einnahmen. Es wurde am 2. September 1789 per Beschluss des Kongresses eingerichtet. Sitz des Ministeriums ist Washington, D.C. Das Gebäude ist auf der Rückseite der 10-Dollar-Note abgebildet, dessen Vorderseite das Bild Alexander Hamiltons zeigt.</rdfs:comment>
+    <rdfs:comment xml:lang="pl">Departament Skarbu Stanów Zjednoczonych (ang. United States Department of the Treasury) - organ wykonawczy federalnego rządu Stanów Zjednoczonych, odpowiedzialny za bezpieczeństwo finansowe państwa. Został ustanowiony aktem Kongresu w 1789 roku. Departament Skarbu jest odpowiednikiem ministerstw finansów w innych krajach. Na czele Departamentu Skarbu stoi Sekretarz Skarbu. Pierwszym sekretarzem skarbu był Alexander Hamilton, który został zaprzysiężony 11 września 1789 roku przez prezydenta George&#39;a Washingtona.</rdfs:comment>
+    <rdfs:comment xml:lang="fr">Le département du Trésor des États-Unis (United States Department of the Treasury), établi en septembre 1789, a pour fonction de répondre aux besoins fiscaux et monétaires des États-Unis. Il est dirigé par le secrétaire du Trésor, actuellement Jack Lew.</rdfs:comment>
+    <rdfs:comment xml:lang="ar">وزارة الخزانة الأمريكية (بالإنكليزية: Department of the Treasury) هو قسم تنفيذي مسؤول عن خزينة الحكومة الفيدرالية للولايات المتحدة. أُنشئت بقرار صادر من الكونغرس عام 1789 لأدارة إيرادات الحكومة. تُدار الوزارة من قبل وزير الخزانة الأمريكي والذي هو عضو في مجلس الوزراء. &quot;جاك ليو&quot; هو الوزير الحالي، وقد أدى اليمين الدستوري في 28 شباط 2013.</rdfs:comment>
+    <rdfs:comment xml:lang="pt">O Departamento do Tesouro dos Estados Unidos (em inglês: United States Department of the Treasury) é o gabinete ou delegação que administra o tesouro público dos Estados Unidos, e foi criado mediante a acta de fundação pelo Congresso dos Estados Unidos em 1789 para recolher apoio econômico aos governos iniciais dos Estados Unidos.</rdfs:comment>
+    <rdfs:comment xml:lang="zh">美国财政部（英语：United States Department of the Treasury）是美国政府一个内阁部门。它由美国国会于1789年建立，管理美国政府的收入。</rdfs:comment>
+    <rdfs:comment xml:lang="ru">Министерство финансов США / Департамент казначейства США (англ. United States Department of the Treasury) — один из органов исполнительной власти США. В функции министерства входит разработка и исполнение экономической и денежной политики США, регулирование экспорта и импорта, контроль за деятельностью банковских и финансовых организаций, сбор налогов, эмиссия банкнот и чеканка металлических монет.</rdfs:comment>
+    <rdfs:comment xml:lang="ja">アメリカ合衆国財務省（アメリカがっしゅうこくざいむしょう、United States Department of the Treasury）は、アメリカ合衆国政府の官庁の1つ。 合衆国政府の歳入管理を目的とし、1789年に合衆国議会の法令により設立。庁舎はホワイトハウスの東側に隣接。</rdfs:comment>
+    <rdfs:comment xml:lang="es">Departamento del Tesoro de los Estados Unidos (en inglés United States Department of the Treasury) es el gabinete o delegación para administrar el tesoro público de Estados Unidos. Creado mediante el acta de fundación por el Congreso en 1789 para recaudar apoyos económicos al gobierno inicial.</rdfs:comment>
+    <rdfs:comment xml:lang="nl">Het United States Department of the Treasury is het ministerie van Financiën van de Verenigde Staten. Het werd op 2 september 1789 bij wet opgericht door het Amerikaanse Congres, dat enkele maanden daarvoor was opgericht. Het doel van het ministerie is het beheren van de financiën van de Amerikaanse regering. Sinds 28 februari 2013 is Jack Lew de Secretary of the Treasury (minister van Financiën) in het kabinet van president Obama. Onder het ministerie vallen onder meer het Alcohol and Tobacco Tax and Trade Bureau (voor o.m. de accijnzen op alcohol en tabak) en de Internal Revenue Service (de federale belastingdienst).</rdfs:comment>
+    <rdfs:comment xml:lang="it">Il Dipartimento del Tesoro degli Stati Uniti d&#39;America (in lingua inglese United States Department of the Treasury) è il dicastero del governo federale statunitense che si occupa della gestione del debito pubblico.</rdfs:comment>
+    <rdfs:comment xml:lang="en">The Department of the Treasury is an executive department and the treasury of the United States federal government. It was established by an Act of Congress in 1789 to manage government revenue. The Department is administered by the Secretary of the Treasury, who is a member of the Cabinet. Jacob J. Lew is the current Secretary of the Treasury; he was sworn in on February 28, 2013. Besides the Secretary, one of the best-known Treasury officials is the Treasurer of the United States whose signature, along with the Treasury Secretary&#39;s, appears on all Federal Reserve notes.</rdfs:comment>
+    <owl:sameAs rdf:resource="http://d-nb.info/gnd/4235522-9" />
+    <owl:sameAs rdf:resource="http://id.dbpedia.org/resource/Departemen_Keuangan_Amerika_Serikat" />
+    <owl:sameAs rdf:resource="http://nl.dbpedia.org/resource/United_States_Department_of_the_Treasury" />
+    <owl:sameAs rdf:resource="http://ja.dbpedia.org/resource/アメリカ合衆国財務省" />
+    <owl:sameAs rdf:resource="http://ko.dbpedia.org/resource/미국_재무부" />
+    <owl:sameAs rdf:resource="http://fr.dbpedia.org/resource/Département_du_Trésor_des_États-Unis" />
+    <owl:sameAs rdf:resource="http://pl.dbpedia.org/resource/Departament_Skarbu_Stanów_Zjednoczonych" />
+    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/Finanzministerium_der_Vereinigten_Staaten" />
+    <owl:sameAs rdf:resource="http://es.dbpedia.org/resource/Departamento_del_Tesoro_de_los_Estados_Unidos" />
+    <owl:sameAs rdf:resource="http://yago-knowledge.org/resource/United_States_Department_of_the_Treasury" />
+    <owl:sameAs rdf:resource="http://data.nytimes.com/N74713508322097426022" />
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q648666" />
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/United_States_Department_of_the_Treasury" />
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.0f1r9" />
+    <owl:sameAs rdf:resource="http://it.dbpedia.org/resource/Dipartimento_del_Tesoro_degli_Stati_Uniti_d&#39;America" />
+    <owl:sameAs rdf:resource="http://pt.dbpedia.org/resource/Departamento_do_Tesouro_dos_Estados_Unidos" />
+    <owl:sameAs rdf:resource="http://eu.dbpedia.org/resource/Ameriketako_Estatu_Batuetako_Ogasun_Saila" />
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q648666" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:United_States_federal_executive_departments" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:United_States_Department_of_the_Treasury" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:1789_establishments_in_the_United_States" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Financial_regulatory_authorities_of_the_United_States" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Robert_Mills_buildings" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Ministries_established_in_1789" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Finance_ministries" />
+    <dbo:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">53667</dbo:wikiPageID>
+    <dbo:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">744272490</dbo:wikiPageRevisionID>
+    <dbo:wikiPageExternalLink rdf:resource="http://www.treasury.gov/" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.up2maps.net/maps/TSoprano/World/major_foreign_holders_of_treasury_securities.html" />
+    <dbo:wikiPageExternalLink rdf:resource="https://fraser.stlouisfed.org/scribd/?title_id=1121&amp;filepath=/docs/historical/congressional/treasury-act.pdf" />
+    <dbo:wikiPageExternalLink rdf:resource="https://fraser.stlouisfed.org/title/194" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.treas.gov/tigta/" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.whitehouse.gov/sites/default/files/omb/budget/fy2013/assets/treasury.pdf" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.treas.gov/" />
+    <dbo:wikiPageExternalLink rdf:resource="https://www.federalregister.gov/agencies/treasury-department" />
+    <foaf:name xml:lang="en">Department of the Treasury</foaf:name>
+    <foaf:homepage rdf:resource="http://www.treasury.gov/" />
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#float">38.8983</geo:lat>
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-77.0342</geo:long>
+    <foaf:depiction rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Flag_of_the_United_States_Department_of_the_Treasury.png" />
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/United_States_Department_of_the_Treasury" />
+    <geo:geometry rdf:datatype="http://www.openlinksw.com/schemas/virtrdf#Geometry">POINT(-77.034164428711 38.898334503174)</geo:geometry>
+    <dbo:thumbnail rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Flag_of_the_United_States_Department_of_the_Treasury.png?width=300" />
+    <prov:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/United_States_Department_of_the_Treasury?oldid=744272490" />
+    <dbo:abstract xml:lang="nl">Het United States Department of the Treasury is het ministerie van Financiën van de Verenigde Staten. Het werd op 2 september 1789 bij wet opgericht door het Amerikaanse Congres, dat enkele maanden daarvoor was opgericht. Het doel van het ministerie is het beheren van de financiën van de Amerikaanse regering. Sinds 28 februari 2013 is Jack Lew de Secretary of the Treasury (minister van Financiën) in het kabinet van president Obama. Onder het ministerie vallen onder meer het Alcohol and Tobacco Tax and Trade Bureau (voor o.m. de accijnzen op alcohol en tabak) en de Internal Revenue Service (de federale belastingdienst).</dbo:abstract>
+    <dbo:abstract xml:lang="en">The Department of the Treasury is an executive department and the treasury of the United States federal government. It was established by an Act of Congress in 1789 to manage government revenue. The Department is administered by the Secretary of the Treasury, who is a member of the Cabinet. Jacob J. Lew is the current Secretary of the Treasury; he was sworn in on February 28, 2013. The first Secretary of the Treasury was Alexander Hamilton, who was sworn into office on September 11, 1789. Hamilton was asked by President George Washington to serve after first having asked Robert Morris (who declined, recommending Hamilton instead). Hamilton almost single-handedly worked out the nation&#39;s early financial system, and for several years was a major presence in Washington&#39;s administration as well. His portrait is on the obverse of the U.S. ten-dollar bill while the Treasury Department building is shown on the reverse. Besides the Secretary, one of the best-known Treasury officials is the Treasurer of the United States whose signature, along with the Treasury Secretary&#39;s, appears on all Federal Reserve notes. The Treasury prints and mints all paper currency and coins in circulation through the Bureau of Engraving and Printing and the United States Mint. The Department also collects all federal taxes through the Internal Revenue Service, and manages U.S. government debt instruments.</dbo:abstract>
+    <dbo:abstract xml:lang="es">Departamento del Tesoro de los Estados Unidos (en inglés United States Department of the Treasury) es el gabinete o delegación para administrar el tesoro público de Estados Unidos. Creado mediante el acta de fundación por el Congreso en 1789 para recaudar apoyos económicos al gobierno inicial.</dbo:abstract>
+    <dbo:abstract xml:lang="ja">アメリカ合衆国財務省（アメリカがっしゅうこくざいむしょう、United States Department of the Treasury）は、アメリカ合衆国政府の官庁の1つ。 合衆国政府の歳入管理を目的とし、1789年に合衆国議会の法令により設立。庁舎はホワイトハウスの東側に隣接。</dbo:abstract>
+    <dbo:abstract xml:lang="zh">美国财政部（英语：United States Department of the Treasury）是美国政府一个内阁部门。它由美国国会于1789年建立，管理美国政府的收入。</dbo:abstract>
+    <dbo:abstract xml:lang="pt">O Departamento do Tesouro dos Estados Unidos (em inglês: United States Department of the Treasury) é o gabinete ou delegação que administra o tesouro público dos Estados Unidos, e foi criado mediante a acta de fundação pelo Congresso dos Estados Unidos em 1789 para recolher apoio econômico aos governos iniciais dos Estados Unidos.</dbo:abstract>
+    <dbo:abstract xml:lang="pl">Departament Skarbu Stanów Zjednoczonych (ang. United States Department of the Treasury) - organ wykonawczy federalnego rządu Stanów Zjednoczonych, odpowiedzialny za bezpieczeństwo finansowe państwa. Został ustanowiony aktem Kongresu w 1789 roku. Departament Skarbu jest odpowiednikiem ministerstw finansów w innych krajach. Na czele Departamentu Skarbu stoi Sekretarz Skarbu. Pierwszym sekretarzem skarbu był Alexander Hamilton, który został zaprzysiężony 11 września 1789 roku przez prezydenta George&#39;a Washingtona. Departament jest odpowiedzialny za drukowanie banknotów i bicie monet, a także za pobór podatków federalnych poprzez Urząd Podatkowy Stanów Zjednoczonych.</dbo:abstract>
+    <dbo:abstract xml:lang="ar">وزارة الخزانة الأمريكية (بالإنكليزية: Department of the Treasury) هو قسم تنفيذي مسؤول عن خزينة الحكومة الفيدرالية للولايات المتحدة. أُنشئت بقرار صادر من الكونغرس عام 1789 لأدارة إيرادات الحكومة. تُدار الوزارة من قبل وزير الخزانة الأمريكي والذي هو عضو في مجلس الوزراء. &quot;جاك ليو&quot; هو الوزير الحالي، وقد أدى اليمين الدستوري في 28 شباط 2013. وزير الخزانة الأمريكي الاول هو الكسندر هاملتون الذي ادى اليمين الدستورية في 11 أيلول سنة 1789. كان هاملتون هو المرشح الثاني للمنصب حيث اختار الرئيس جورج واشنطن روبرت موريس لكنه رفض وأوصى بهاملتون كبديل. عمل هاملتون لبناء النظام المالي لوحده تقريباً. توضع صورته الان على الورقة فئة عشرة دلاورات أمريكي بينما توضع صورة لوزارة الخزانة في الجهة الاخرى من العملة.</dbo:abstract>
+    <dbo:abstract xml:lang="ru">Министерство финансов США / Департамент казначейства США (англ. United States Department of the Treasury) — один из органов исполнительной власти США. В функции министерства входит разработка и исполнение экономической и денежной политики США, регулирование экспорта и импорта, контроль за деятельностью банковских и финансовых организаций, сбор налогов, эмиссия банкнот и чеканка металлических монет. Министерство имеет право финансировать государственные расходы за счёт сбора налогов, размещения долларовых займов путём выпуска облигаций Казначейства и увеличения государственного долга в пределах, устанавливаемых Конгрессом. Деятельностью министерства руководит секретарь Департамента Казначейства США (на русский язык должность обычно переводится как министр финансов). С 27 февраля 2013 министром является Джейкоб Лью.</dbo:abstract>
+    <dbo:abstract xml:lang="it">Il Dipartimento del Tesoro degli Stati Uniti d&#39;America (in lingua inglese United States Department of the Treasury) è il dicastero del governo federale statunitense che si occupa della gestione del debito pubblico.</dbo:abstract>
+    <dbo:abstract xml:lang="de">Das Finanzministerium der Vereinigten Staaten von Amerika (amtl. United States Department of the Treasury) ist Teil der Bundesregierung des Staates und zuständig für die Erhebung, Verwaltung und Ausgabe der öffentlichen Einnahmen. Es wurde am 2. September 1789 per Beschluss des Kongresses eingerichtet. Sitz des Ministeriums ist Washington, D.C. Das Gebäude ist auf der Rückseite der 10-Dollar-Note abgebildet, dessen Vorderseite das Bild Alexander Hamiltons zeigt.</dbo:abstract>
+    <dbo:abstract xml:lang="fr">Le département du Trésor des États-Unis (United States Department of the Treasury), établi en septembre 1789, a pour fonction de répondre aux besoins fiscaux et monétaires des États-Unis. Il est dirigé par le secrétaire du Trésor, actuellement Jack Lew.</dbo:abstract>
+    <dbo:childOrganisation rdf:resource="http://dbpedia.org/resource/Internal_Revenue_Service" />
+    <dbo:childOrganisation rdf:resource="http://dbpedia.org/resource/Bureau_of_Engraving_and_Printing" />
+    <dbo:childOrganisation rdf:resource="http://dbpedia.org/resource/United_States_Mint" />
+    <dbo:headquarter rdf:resource="http://dbpedia.org/resource/Northwest,_Washington,_D.C." />
+    <dbo:headquarter rdf:resource="http://dbpedia.org/resource/Treasury_Building_(Washington,_D.C.)" />
+    <dbo:headquarter rdf:resource="http://dbpedia.org/resource/Pennsylvania_Avenue_(Washington,_D.C.)" />
+    <dbo:jurisdiction rdf:resource="http://dbpedia.org/resource/Federal_government_of_the_United_States" />
+    <dbo:leader rdf:resource="http://dbpedia.org/resource/Jacob_Lew" />
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Northwest,_Washington,_D.C." />
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Pennsylvania_Avenue_(Washington,_D.C.)" />
+    <dbo:location rdf:resource="http://dbpedia.org/resource/Treasury_Building_(Washington,_D.C.)" />
+    <dbo:numberOfEmployees rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">115897</dbo:numberOfEmployees>
+    <georss:point>38.89833333333333 -77.03416666666666</georss:point>
+    <dbp:chief1Position rdf:resource="http://dbpedia.org/resource/United_States_Secretary_of_the_Treasury" />
+    <dbp:chief2Name rdf:resource="http://dbpedia.org/resource/Sarah_Bloom_Raskin" />
+    <dbp:chief2Position rdf:resource="http://dbpedia.org/resource/United_States_Deputy_Secretary_of_the_Treasury" />
+    <dbp:chief3Name rdf:resource="http://dbpedia.org/resource/Rosa_Gumataotao_Rios" />
+    <dbp:chief3Position rdf:resource="http://dbpedia.org/resource/Treasurer_of_the_United_States" />
+    <dbp:date rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">19961226124309</dbp:date>
+    <dbp:latd rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">38</dbp:latd>
+    <dbp:latm rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">53</dbp:latm>
+    <dbp:latns rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">N</dbp:latns>
+    <dbp:lats rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">54</dbp:lats>
+    <dbp:logo rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Flag of the United States Department of the Treasury.pngborder</dbp:logo>
+    <dbp:logoCaption rdf:resource="http://dbpedia.org/resource/Symbols_of_the_United_States_Department_of_the_Treasury" />
+    <dbp:logoWidth rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">175</dbp:logoWidth>
+    <dbp:longd rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">77</dbp:longd>
+    <dbp:longew rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">W</dbp:longew>
+    <dbp:longm rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</dbp:longm>
+    <dbp:longs rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</dbp:longs>
+    <dbp:picture rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Treasury Department rear view.JPG</dbp:picture>
+    <dbp:pictureCaption rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Treasury Building</dbp:pictureCaption>
+    <dbp:preceding rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Board of Treasury</dbp:preceding>
+    <dbp:seal rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">US-DeptOfTheTreasury-Seal.svg</dbp:seal>
+    <dbp:sealCaption rdf:resource="http://dbpedia.org/resource/Symbols_of_the_United_States_Department_of_the_Treasury" />
+    <dbp:sealWidth rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">175</dbp:sealWidth>
+    <dbp:title rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">United States Department of the Treasury</dbp:title>
+    <dbp:url rdf:resource="http://www.treas.gov/" />
+    <dbp:child4Agency rdf:resource="http://dbpedia.org/resource/Category:United_States_Department_of_the_Treasury_agencies" />
+    <dbp:wordnet_type rdf:resource="http://www.w3.org/2006/03/wn/wn20/instances/synset-location-noun-1" />
+    <ns10:hypernym rdf:resource="http://dbpedia.org/resource/Department" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Denver_Mint">
+    <dbo:governingBody rdf:resource="http://dbpedia.org/resource/United_States_Department_of_the_Treasury" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Federal_Financing_Bank">
+    <dbo:parentOrganisation rdf:resource="http://dbpedia.org/resource/United_States_Department_of_the_Treasury" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Border_Security,_Economic_Opportunity,_and_Immigration_Modernization_Act_of_2013">
+    <dbp:agenciesaffected rdf:resource="http://dbpedia.org/resource/United_States_Department_of_the_Treasury" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/U.S._Treasury_Department">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/United_States_Department_of_the_Treasury" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/US_Department_of_Treasury">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/United_States_Department_of_the_Treasury" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/United_States_Post_Office_(The_Dalles,_Oregon,_1916)">
+    <dbo:architect rdf:resource="http://dbpedia.org/resource/United_States_Department_of_the_Treasury" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Donald_Niven_Wheeler">
+    <dbo:employer rdf:resource="http://dbpedia.org/resource/United_States_Department_of_the_Treasury" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Financial_Management_Service">
+    <dbo:parentOrganisation rdf:resource="http://dbpedia.org/resource/United_States_Department_of_the_Treasury" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Office_of_the_Comptroller_of_the_Currency">
+    <dbo:parentOrganisation rdf:resource="http://dbpedia.org/resource/United_States_Department_of_the_Treasury" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/United_States_Assay_Commission">
+    <dbo:parentOrganisation rdf:resource="http://dbpedia.org/resource/United_States_Department_of_the_Treasury" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/United_States_Treasury_Department">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/United_States_Department_of_the_Treasury" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Alcohol_and_Tobacco_Tax_and_Trade_Bureau">
+    <dbo:parentOrganisation rdf:resource="http://dbpedia.org/resource/United_States_Department_of_the_Treasury" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Financial_Crimes_Enforcement_Network">
+    <dbo:parentOrganisation rdf:resource="http://dbpedia.org/resource/United_States_Department_of_the_Treasury" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/United_States_Customs_Service">
+    <dbo:parentOrganisation rdf:resource="http://dbpedia.org/resource/United_States_Department_of_the_Treasury" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bureau_of_the_Public_Debt">
+    <dbo:parentOrganisation rdf:resource="http://dbpedia.org/resource/United_States_Department_of_the_Treasury" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/US_Treasury">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/United_States_Department_of_the_Treasury" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/U.S._Department_of_Treasury">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/United_States_Department_of_the_Treasury" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/U.S._Department_of_the_Treasury">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/United_States_Department_of_the_Treasury" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Electrify_Africa_Act_of_2013">
+    <dbp:agenciesaffected rdf:resource="http://dbpedia.org/resource/United_States_Department_of_the_Treasury" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/North_Korea_Sanctions_Enforcement_Act_of_2013">
+    <dbp:agenciesaffected rdf:resource="http://dbpedia.org/resource/United_States_Department_of_the_Treasury" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Office_of_Financial_Research">
+    <dbo:parentOrganisation rdf:resource="http://dbpedia.org/resource/United_States_Department_of_the_Treasury" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/United_States_Post_Office_(Greenwich,_Connecticut)">
+    <dbo:architect rdf:resource="http://dbpedia.org/resource/United_States_Department_of_the_Treasury" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/United_States_Post_Office_(Flatbush,_Brooklyn)">
+    <dbo:architect rdf:resource="http://dbpedia.org/resource/United_States_Department_of_the_Treasury" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/No_Budget,_No_Pay_Act_of_2013">
+    <dbp:agenciesaffected rdf:resource="http://dbpedia.org/resource/United_States_Department_of_the_Treasury" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Innovation_Act_of_the_114th_Congress">
+    <dbp:agenciesaffected rdf:resource="http://dbpedia.org/resource/United_States_Department_of_the_Treasury" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ramin_Toloui">
+    <dbo:occupation rdf:resource="http://dbpedia.org/resource/United_States_Department_of_the_Treasury" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Symbols_of_the_United_States_Department_of_the_Treasury">
+    <dbp:armiger rdf:resource="http://dbpedia.org/resource/United_States_Department_of_the_Treasury" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bureau_of_Navigation">
+    <dbo:parentOrganisation rdf:resource="http://dbpedia.org/resource/United_States_Department_of_the_Treasury" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/US_Department_of_the_Treasury">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/United_States_Department_of_the_Treasury" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/United_States_Treasury">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/United_States_Department_of_the_Treasury" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bureau_of_the_Fiscal_Service">
+    <dbo:parentOrganisation rdf:resource="http://dbpedia.org/resource/United_States_Department_of_the_Treasury" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/United_States_Revenue_Cutter_Service">
+    <dbo:commandStructure rdf:resource="http://dbpedia.org/resource/United_States_Department_of_the_Treasury" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Arnold_Weiss">
+    <dbo:occupation rdf:resource="http://dbpedia.org/resource/United_States_Department_of_the_Treasury" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/National_Park_Service_100th_Anniversary_Commemorative_Coin_Act">
+    <dbp:agenciesaffected rdf:resource="http://dbpedia.org/resource/United_States_Department_of_the_Treasury" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ukraine_Support_Act">
+    <dbp:agenciesaffected rdf:resource="http://dbpedia.org/resource/United_States_Department_of_the_Treasury" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Digital_Accountability_and_Transparency_Act_of_2014">
+    <dbp:agenciesaffected rdf:resource="http://dbpedia.org/resource/United_States_Department_of_the_Treasury" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Intelligence_Authorization_Act_for_Fiscal_Year_2014">
+    <dbp:agenciesaffected rdf:resource="http://dbpedia.org/resource/United_States_Department_of_the_Treasury" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_United_States_Treasury">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/United_States_Department_of_the_Treasury" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Money_Remittances_Improvement_Act_of_2014">
+    <dbp:agenciesaffected rdf:resource="http://dbpedia.org/resource/United_States_Department_of_the_Treasury" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/O._F._R.">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/United_States_Department_of_the_Treasury" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/OFR">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/United_States_Department_of_the_Treasury" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/United_States_Treasury_Departmet">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/United_States_Department_of_the_Treasury" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/USA_Treasury">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/United_States_Department_of_the_Treasury" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Us_treasury">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/United_States_Department_of_the_Treasury" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Treasury_of_the_United_States">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/United_States_Department_of_the_Treasury" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Budget_and_Accounting_Transparency_Act_of_2014">
+    <dbp:agenciesaffected rdf:resource="http://dbpedia.org/resource/United_States_Department_of_the_Treasury" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Homeowner_Flood_Insurance_Affordability_Act_of_2014">
+    <dbp:agenciesaffected rdf:resource="http://dbpedia.org/resource/United_States_Department_of_the_Treasury" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Omnibus_Territories_Act_of_2013">
+    <dbp:agenciesaffected rdf:resource="http://dbpedia.org/resource/United_States_Department_of_the_Treasury" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Government_Reports_Elimination_Act_of_2014">
+    <dbp:agenciesaffected rdf:resource="http://dbpedia.org/resource/United_States_Department_of_the_Treasury" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Innovation_Act">
+    <dbp:agenciesaffected rdf:resource="http://dbpedia.org/resource/United_States_Department_of_the_Treasury" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Streamlining_Energy_Efficiency_for_Schools_Act_of_2014">
+    <dbp:agenciesaffected rdf:resource="http://dbpedia.org/resource/United_States_Department_of_the_Treasury" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Agriculture_Reform,_Food,_and_Jobs_Act_of_2013">
+    <dbp:agenciesaffected rdf:resource="http://dbpedia.org/resource/United_States_Department_of_the_Treasury" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Treasury_and_State_Department">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/United_States_Department_of_the_Treasury" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Public_Law_113–11">
+    <dbp:agenciesaffected rdf:resource="http://dbpedia.org/resource/United_States_Department_of_the_Treasury" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/United_States_Department_of_the_Treasury">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/United_States_Department_of_the_Treasury" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Department_of_State_Operations_and_Embassy_Security_Authorization_Act,_Fiscal_Year_2014">
+    <dbp:agenciesaffected rdf:resource="http://dbpedia.org/resource/United_States_Department_of_the_Treasury" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Intelligence_Authorization_Act_for_Fiscal_Years_2014_and_2015">
+    <dbp:agenciesaffected rdf:resource="http://dbpedia.org/resource/United_States_Department_of_the_Treasury" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hezbollah_International_Financing_Prevention_Act_of_2014">
+    <dbp:agenciesaffected rdf:resource="http://dbpedia.org/resource/United_States_Department_of_the_Treasury" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/U._S._Department_of_the_Treasury">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/United_States_Department_of_the_Treasury" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Commissioner_of_Revenue">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/United_States_Department_of_the_Treasury" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/O_F_R">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/United_States_Department_of_the_Treasury" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/USDOTT">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/United_States_Department_of_the_Treasury" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/U.S._Treasury_Dept.">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/United_States_Department_of_the_Treasury" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Student_and_Family_Tax_Simplification_Act">
+    <dbp:agenciesaffected rdf:resource="http://dbpedia.org/resource/United_States_Department_of_the_Treasury" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/O.F.R.">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/United_States_Department_of_the_Treasury" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Exchange_Information_Disclosure_Act">
+    <dbp:agenciesaffected rdf:resource="http://dbpedia.org/resource/United_States_Department_of_the_Treasury" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Digital_Accountability_and_Transparency_Act_of_2013">
+    <dbp:agenciesaffected rdf:resource="http://dbpedia.org/resource/United_States_Department_of_the_Treasury" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/United_States_treasury">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/United_States_Department_of_the_Treasury" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Untied_States_Department_of_the_Treasury">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/United_States_Department_of_the_Treasury" />
+  </rdf:Description>
+</rdf:RDF>

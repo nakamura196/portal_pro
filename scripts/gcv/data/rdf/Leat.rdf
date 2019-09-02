@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:dct="http://purl.org/dc/terms/"
+	xmlns:dbo="http://dbpedia.org/ontology/"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:prov="http://www.w3.org/ns/prov#"
+	xmlns:ns7="http://purl.org/linguistics/gold/" >
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Devonport_Leat">
+    <ns7:hypernym rdf:resource="http://dbpedia.org/resource/Leat" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Leat">
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Object100002684" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatAqueductsInTheUnitedKingdom" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatCanalsInSwitzerland" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Artifact100021939" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Passage103895293" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoGeoEntity" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoPermanentlyLocatedEntity" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Canal102947212" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Watercourse104559275" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Way104564698" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Conduit103089014" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PhysicalEntity100001930" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Aqueduct102732433" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Whole100003553" />
+    <rdfs:label xml:lang="en">Leat</rdfs:label>
+    <rdfs:comment xml:lang="en">A leat (also lete or leet, or millstream) is the name, common in the south and west of England and in Wales (Lade in Scotland), for an artificial watercourse or aqueduct dug into the ground, especially one supplying water to a watermill or its mill pond. Other common uses for leats include delivery of water for mineral washing and concentration, for irrigation, to serve a dye works or other industrial plant, and provision of drinking water to a farm or household or as a catchment cut-off to improve the yield of a reservoir.</rdfs:comment>
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Leat" />
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q14556915" />
+    <owl:sameAs rdf:resource="http://yago-knowledge.org/resource/Leat" />
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.0hc5v" />
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q14556915" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:History_of_mining" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Hydraulic_engineering" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Aqueducts_in_the_United_Kingdom" />
+    <dbo:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">65345</dbo:wikiPageID>
+    <dbo:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">710428973</dbo:wikiPageRevisionID>
+    <foaf:depiction rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Devonport_leat_6.jpg" />
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Leat" />
+    <dbo:thumbnail rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Devonport_leat_6.jpg?width=300" />
+    <prov:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Leat?oldid=710428973" />
+    <dbo:abstract xml:lang="en">A leat (also lete or leet, or millstream) is the name, common in the south and west of England and in Wales (Lade in Scotland), for an artificial watercourse or aqueduct dug into the ground, especially one supplying water to a watermill or its mill pond. Other common uses for leats include delivery of water for mineral washing and concentration, for irrigation, to serve a dye works or other industrial plant, and provision of drinking water to a farm or household or as a catchment cut-off to improve the yield of a reservoir. According to the Oxford English Dictionary, leat is cognate with let in the sense of &quot;allow to pass through&quot;. Other names for the same thing include fleam (probably a leat supplying water to a mill that did not have a millpool). In parts of northern England, for example around Sheffield, the equivalent word is goit. In southern England, a leat used to supply water for water-meadow irrigation is often called a carrier, top carrier, or main.</dbo:abstract>
+    <ns7:hypernym rdf:resource="http://dbpedia.org/resource/Name" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mill_leat">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Leat" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Goit">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Leat" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/A_leat">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Leat" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Leat">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Leat" />
+  </rdf:Description>
+</rdf:RDF>

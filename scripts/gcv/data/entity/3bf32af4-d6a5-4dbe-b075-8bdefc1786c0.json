@@ -1,0 +1,113 @@
+{
+    "entities": [
+        {
+            "mentions": [
+                {
+                    "text": {
+                        "beginOffset": 0,
+                        "content": "テキスト"
+                    },
+                    "type": "COMMON"
+                }
+            ],
+            "metadata": {},
+            "name": "テキスト",
+            "salience": 0.15976395,
+            "type": "OTHER"
+        },
+        {
+            "mentions": [
+                {
+                    "text": {
+                        "beginOffset": 15,
+                        "content": "ブック"
+                    },
+                    "type": "COMMON"
+                }
+            ],
+            "metadata": {},
+            "name": "ブック",
+            "salience": 0.15976395,
+            "type": "WORK_OF_ART"
+        },
+        {
+            "mentions": [
+                {
+                    "text": {
+                        "beginOffset": 27,
+                        "content": "ヲフ"
+                    },
+                    "type": "PROPER"
+                }
+            ],
+            "metadata": {},
+            "name": "ヲフ",
+            "salience": 0.15256417,
+            "type": "OTHER"
+        },
+        {
+            "mentions": [
+                {
+                    "text": {
+                        "beginOffset": 36,
+                        "content": "ボタニー"
+                    },
+                    "type": "PROPER"
+                }
+            ],
+            "metadata": {},
+            "name": "ボタニー",
+            "salience": 0.15256417,
+            "type": "PERSON"
+        },
+        {
+            "mentions": [
+                {
+                    "text": {
+                        "beginOffset": 60,
+                        "content": "貸渡ノ件\t S0001/Mo047/0005\t -07-26\t 件\t 公開\t 本郷\t 直轄院部校館所"
+                    },
+                    "type": "PROPER"
+                }
+            ],
+            "metadata": {},
+            "name": "貸渡ノ件 S0001/Mo047/0005 -07-26 件 公開 本郷 直轄院部校館所",
+            "salience": 0.134295,
+            "type": "ORGANIZATION"
+        },
+        {
+            "mentions": [
+                {
+                    "text": {
+                        "beginOffset": 144,
+                        "content": "東京師範学校"
+                    },
+                    "type": "PROPER"
+                }
+            ],
+            "metadata": {
+                "mid": "/g/1233rf7h",
+                "wikipedia_url": "https://ja.wikipedia.org/wiki/東京高等師範学校"
+            },
+            "name": "東京師範学校",
+            "salience": 0.13134338,
+            "type": "ORGANIZATION"
+        },
+        {
+            "mentions": [
+                {
+                    "text": {
+                        "beginOffset": 51,
+                        "content": "外一部"
+                    },
+                    "type": "COMMON"
+                }
+            ],
+            "metadata": {},
+            "name": "外一部",
+            "salience": 0.10970537,
+            "type": "OTHER"
+        }
+    ],
+    "language": "ja"
+}

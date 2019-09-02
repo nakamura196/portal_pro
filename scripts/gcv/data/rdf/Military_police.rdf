@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:dct="http://purl.org/dc/terms/"
+	xmlns:dbo="http://dbpedia.org/ontology/"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:prov="http://www.w3.org/ns/prov#"
+	xmlns:dbp="http://dbpedia.org/property/"
+	xmlns:ns8="http://purl.org/linguistics/gold/" >
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Military_Police_Corps_(Ireland)">
+    <dbo:type rdf:resource="http://dbpedia.org/resource/Military_police" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/46th_Military_Police_Command">
+    <dbo:type rdf:resource="http://dbpedia.org/resource/Military_police" />
+    <dbp:specialization rdf:resource="http://dbpedia.org/resource/Military_police" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Military_policemen">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Military_police" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Naval_Police">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Military_police" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/49th_Military_Police_Brigade_(United_States)">
+    <dbo:type rdf:resource="http://dbpedia.org/resource/Military_police" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/2nd_Lancers_Regiment_(Portugal)">
+    <dbo:type rdf:resource="http://dbpedia.org/resource/Military_police" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Military_Police">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Military_police" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/610th_Security_Forces_Squadron">
+    <dbo:type rdf:resource="http://dbpedia.org/resource/Military_police" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Police_officer">
+    <dbp:relatedOccupation rdf:resource="http://dbpedia.org/resource/Military_police" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/MP">
+    <dbo:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/Military_police" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Military_police">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Organisation" />
+    <rdfs:label xml:lang="fr">Police militaire</rdfs:label>
+    <rdfs:label xml:lang="en">Military police</rdfs:label>
+    <rdfs:label xml:lang="zh">宪兵</rdfs:label>
+    <rdfs:label xml:lang="es">Policía militar</rdfs:label>
+    <rdfs:label xml:lang="pt">Polícia militar</rdfs:label>
+    <rdfs:label xml:lang="ja">憲兵</rdfs:label>
+    <rdfs:label xml:lang="ar">شرطة عسكرية</rdfs:label>
+    <rdfs:label xml:lang="it">Polizia militare</rdfs:label>
+    <rdfs:label xml:lang="nl">Militaire politie</rdfs:label>
+    <rdfs:label xml:lang="de">Militärpolizei</rdfs:label>
+    <rdfs:label xml:lang="ru">Военная полиция</rdfs:label>
+    <rdfs:comment xml:lang="fr">La police militaire assure la sécurité et l&#39;application des lois au sein d&#39;une organisation militaire. Son action se limite en général à l&#39;organisation et ses membres. En temps de guerre, la police militaire peut s&#39;occuper de la sécurité des infrastructures, la protection des officiers et des personnes importantes, la gestion des prisonniers de guerre, le contrôle du trafic et de l&#39;approvisionnement, ainsi que toutes les missions habituellement accomplies en temps de paix. Dans la marine, les policiers militaires sont souvent appelés capitaine d&#39;armes.</rdfs:comment>
+    <rdfs:comment xml:lang="ja">憲兵（けんぺい）とは、戦闘支援兵科の一種であり、主に軍隊内部の秩序維持と交通整理を任務とする。英語ではMilitary police（MP）と記され、軍警察（ぐんけいさつ）とも呼ばれる。また、日本軍の憲兵については特にkempeitaiと表記されることも多い。一般警察としての役割も兼ねている憲兵組織は国家憲兵と呼ばれる。</rdfs:comment>
+    <rdfs:comment xml:lang="pt">A polícia militar PM - segundo o conceito usado internacionalmente - é a corporação que exerce o poder de polícia no âmbito interno das forças armadas, garantindo a segurança, a ordem e a lei no seu seio. Geralmente, a sua ação limita-se apenas às instalações e aos membros das forças armadas. Em diversas forças armadas, o comandante da polícia militar tem o título de &quot;preboste&quot;, título que em alguns exércitos também é utilizado para designar o próprio serviço de polícia militar.</rdfs:comment>
+    <rdfs:comment xml:lang="zh">憲兵，是多國家在軍隊中設立的一個特殊部隊、兵種或軍種，意在維護和貫徹國家憲法，該部隊通常的任務不是與敵人作戰，而是維繫軍紀、執行軍法、約束其他軍人行為舉止，即軍事警察。而戍守首都、防衛重要軍事處所及政府機關、押送軍事物資、審訊戰俘的憲兵通常稱為國家憲兵。在大部分國家，地方警察無權管轄軍人犯罪事務，處理這些事務就是憲兵的職責。有時，對於平民的重大犯罪行為（通常是涉及政治或軍事的犯罪行為）必要時支援警方之鎮暴勤務及反恐任務，也屬於憲兵的管理權限。總括來說，憲兵是具有司法警察性質，介於一般軍隊與警察之間，亦軍亦警的特殊軍事部隊。</rdfs:comment>
+    <rdfs:comment xml:lang="it">La polizia militare è un corpo militare che esercita l&#39;attività di polizia all&#39;interno di una forza armata, con il compito di prevenire e reprimere i reati militari. In alcuni paesi si occupa anche di ogni reato commesso da un militare.</rdfs:comment>
+    <rdfs:comment xml:lang="nl">De militaire politie (MP) is een politiedienst die verantwoordelijk is voor beveiliging en wetshandhaving binnen een militaire organisatie. De militaire politie kan een legeronderdeel zijn dat uitsluitend politietaken uitvoert binnen de krijgsmacht, maar het komt ook vaak voor dat de militaire politietaken worden uitgevoerd door een gendarmerie, een op militaire leest geschoeide civiele politieorganisatie die ook andere politietaken uitvoert. Het tweede model is van oudsher in Nederland in gebruik, waar militaire politietaken door de Koninklijke Marechaussee worden uitgevoerd.</rdfs:comment>
+    <rdfs:comment xml:lang="ar">الشرطة العسكرية هي شرطة لقوة عسكرية، عادة يكون لهم لباس مميز يوضع حول العضد وأحيانا على الخوذة الذي يرتديه رجل الشرطة العسكرية ويكتب اختصاراً (ش.ع.) أو بالإنجليزية (M P) ، وفي النظام العسكري العراقي تسمى هذه القوات ب(( الانضباط العسكري )) وتضع حروف (أ.ع) على العضد مع قبعة (بيرية ) حمراء اللون .</rdfs:comment>
+    <rdfs:comment xml:lang="en">Military police (MP) are law enforcement agencies connected with, or part of, the military of a state.</rdfs:comment>
+    <rdfs:comment xml:lang="es">La Policía militar (abreviado PM) es un tipo de fuerza policial que opera dentro de una estructura militar.</rdfs:comment>
+    <rdfs:comment xml:lang="ru">Военная полиция — особая служба в вооружённых силах многих государств для поддержания законности и правопорядка.</rdfs:comment>
+    <rdfs:comment xml:lang="de">Eine Militärpolizei (internat. Abk. MP von engl. Military Police) übernimmt polizeiliche Aufgaben innerhalb einer Militär-Organisation.</rdfs:comment>
+    <owl:differentFrom rdf:resource="http://dbpedia.org/resource/Gendarmerie" />
+    <owl:differentFrom rdf:resource="http://dbpedia.org/resource/Militarization_of_police" />
+    <owl:sameAs rdf:resource="http://ko.dbpedia.org/resource/헌병" />
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q210815" />
+    <owl:sameAs rdf:resource="http://id.dbpedia.org/resource/Polisi_militer" />
+    <owl:sameAs rdf:resource="http://es.dbpedia.org/resource/Policía_militar" />
+    <owl:sameAs rdf:resource="http://pt.dbpedia.org/resource/Polícia_militar" />
+    <owl:sameAs rdf:resource="http://nl.dbpedia.org/resource/Militaire_politie" />
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.01pbjy" />
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q210815" />
+    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/Militärpolizei" />
+    <owl:sameAs rdf:resource="http://d-nb.info/gnd/4137987-1" />
+    <owl:sameAs rdf:resource="http://it.dbpedia.org/resource/Polizia_militare" />
+    <owl:sameAs rdf:resource="http://fr.dbpedia.org/resource/Police_militaire" />
+    <owl:sameAs rdf:resource="http://cs.dbpedia.org/resource/Vojenská_policie" />
+    <owl:sameAs rdf:resource="http://ja.dbpedia.org/resource/憲兵" />
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Military_police" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Military_law" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Law_enforcement" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Combat_support_occupations" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Military_police" />
+    <dbo:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">275990</dbo:wikiPageID>
+    <dbo:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">745014370</dbo:wikiPageRevisionID>
+    <dbo:wikiPageExternalLink rdf:resource="http://www.mil.ee" />
+    <dbo:wikiPageExternalLink rdf:resource="http://leahy.senate.gov/press/200609/091906a.html" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.dmbcrtaf.thaigov.net/rtaf_dbc.htm" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.dmbcrtaf.thaigov.net/a12mp4.htm" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.dmbcrtaf.thaigov.net/mpen.htm" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.dmbcrtaf.thaigov.net/" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.dmbcrtaf.thaigov.net/a12.htm" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.army.cz/scripts/detail.php?id=6257/" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.army.cz/scripts/detail.php?id=6223/" />
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Military_police" />
+    <prov:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Military_police?oldid=745014370" />
+    <dbo:abstract xml:lang="es">La Policía militar (abreviado PM) es un tipo de fuerza policial que opera dentro de una estructura militar.</dbo:abstract>
+    <dbo:abstract xml:lang="ru">Военная полиция — особая служба в вооружённых силах многих государств для поддержания законности и правопорядка.</dbo:abstract>
+    <dbo:abstract xml:lang="fr">La police militaire assure la sécurité et l&#39;application des lois au sein d&#39;une organisation militaire. Son action se limite en général à l&#39;organisation et ses membres. En temps de guerre, la police militaire peut s&#39;occuper de la sécurité des infrastructures, la protection des officiers et des personnes importantes, la gestion des prisonniers de guerre, le contrôle du trafic et de l&#39;approvisionnement, ainsi que toutes les missions habituellement accomplies en temps de paix. Dans beaucoup de pays, les forces militaires disposent d&#39;un système judiciaire indépendant des entités civiles. Les armées peuvent gérer leurs propres prisons et tribunaux avec une législation différente. La police militaire peut être amenée à enquêter sur des membres de son armée et procéder à des investigations dans des affaires criminelles (stupéfiants, vols, etc.) en temps de paix ou de guerre. Le commandement de la police militaire est souvent connu sous le nom de prévôté ou prévôté militaire. Ce titre ancien était donné, à l&#39;origine, à un officier dont la mission consistait à s&#39;assurer que les armées du roi ne s&#39;en prenaient pas sans raison au peuple. Le statut de policier militaire passe souvent par le port apparent d&#39;insignes distinctifs sur le casque et/ou sur le bras (brassard). Au cours de la Seconde Guerre mondiale, la police militaire de l&#39;armée allemande portait en plus une plaque métallique autour du cou. Dans la marine, les policiers militaires sont souvent appelés capitaine d&#39;armes.</dbo:abstract>
+    <dbo:abstract xml:lang="zh">憲兵，是多國家在軍隊中設立的一個特殊部隊、兵種或軍種，意在維護和貫徹國家憲法，該部隊通常的任務不是與敵人作戰，而是維繫軍紀、執行軍法、約束其他軍人行為舉止，即軍事警察。而戍守首都、防衛重要軍事處所及政府機關、押送軍事物資、審訊戰俘的憲兵通常稱為國家憲兵。在大部分國家，地方警察無權管轄軍人犯罪事務，處理這些事務就是憲兵的職責。有時，對於平民的重大犯罪行為（通常是涉及政治或軍事的犯罪行為）必要時支援警方之鎮暴勤務及反恐任務，也屬於憲兵的管理權限。總括來說，憲兵是具有司法警察性質，介於一般軍隊與警察之間，亦軍亦警的特殊軍事部隊。</dbo:abstract>
+    <dbo:abstract xml:lang="pt">A polícia militar PM - segundo o conceito usado internacionalmente - é a corporação que exerce o poder de polícia no âmbito interno das forças armadas, garantindo a segurança, a ordem e a lei no seu seio. Geralmente, a sua ação limita-se apenas às instalações e aos membros das forças armadas. Em tempo de guerra, além das anteriores missões, a polícia militar também se pode encarregar da defesa imediata de infraestruturas estratégicas, da proteção de altas individualidades militares e civis, da administração dos prisioneiros de guerra, da regulação do tráfego rodoviário e da segurança pública nas regiões sujeitas a administração militar. Em muitos países, as forças armadas dispõem de um sistema judiciário independente do sistema judiciário civil, podendo administrar as suas próprias prisões e tribunais, os quais se regulam por legislação distinta. No âmbito dos sistemas judiciários militares de alguns países, pode competir à polícia militar a função de polícia judiciária, encarregando-se da investigação de crimes militares ou de crimes comuns (tais como roubos, homicídios ou tráfico de droga) cometidos por militares. Em diversas forças armadas, o comandante da polícia militar tem o título de &quot;preboste&quot;, título que em alguns exércitos também é utilizado para designar o próprio serviço de polícia militar. Na maioria dos países, os membros da polícia militar distinguem-se dos restantes militares pelo uso de distintivos especiais, como são os casos de cinturões brancos, de braçais e capacetes com as siglas &quot;PM&quot;, usados pelas polícias militares de inúmeros países. Outro distintivo tradicional eram os gorjais, placas metálicas com o emblema nacional usadas penduradas no pescoço pelos membros da polícia militar alemã, até ao final da Segunda Guerra Mundial. Nalgumas forças armadas, o termo &quot;polícia militar&quot; aplica-se exclusivamente às polícias das suas componentes terrestres, designando-se as polícias das outras componentes por termos diferentes como &quot;polícia naval&quot; ou &quot;polícia aérea&quot;.</dbo:abstract>
+    <dbo:abstract xml:lang="nl">De militaire politie (MP) is een politiedienst die verantwoordelijk is voor beveiliging en wetshandhaving binnen een militaire organisatie. De militaire politie kan een legeronderdeel zijn dat uitsluitend politietaken uitvoert binnen de krijgsmacht, maar het komt ook vaak voor dat de militaire politietaken worden uitgevoerd door een gendarmerie, een op militaire leest geschoeide civiele politieorganisatie die ook andere politietaken uitvoert. Het eerste model is het huidige Belgische model: nadat de Rijkswacht, die tot dan toe deze taken uitvoerde, in de geïntegreerde politie opging, kregen de Belgische Strijdkrachten hun eigen militaire politie. Het tweede model is van oudsher in Nederland in gebruik, waar militaire politietaken door de Koninklijke Marechaussee worden uitgevoerd. Wanneer de militaire politie taken binnen de krijgsmacht uitvoert, zijn zij doorgaans duidelijk van andere officieren en manschappen te onderscheiden, meestal door de aanduiding MP op hun helm of op een armband.</dbo:abstract>
+    <dbo:abstract xml:lang="ar">الشرطة العسكرية هي شرطة لقوة عسكرية، عادة يكون لهم لباس مميز يوضع حول العضد وأحيانا على الخوذة الذي يرتديه رجل الشرطة العسكرية ويكتب اختصاراً (ش.ع.) أو بالإنجليزية (M P) ، وفي النظام العسكري العراقي تسمى هذه القوات ب(( الانضباط العسكري )) وتضع حروف (أ.ع) على العضد مع قبعة (بيرية ) حمراء اللون . 
+*  أهم الواجبات 
+*  تسهيل الحركة المرورية لحركة القوات داخل المدن. 
+*  تامين الحراسة وتسهيل المرور للقوافل الإدارية داخل المدن وفي حركتها من المنطقة الاستراتيجية الخلفية وصولا للمنطقة الامامية الاستراتيجية التعبوية. 
+*  حراسة أسرى الحرب. 
+*  التنسيق مع الجهات الأمنية للقبض على الفارين من أرض المعركة. 
+*  مشاركة الاستخبارات العامة والعسكرية في التحقيق مع أسرى الحرب. 
+*  القبض على الأفراد العسكريين أثناء مشاهدتهم في سلوك مسيء أو غير منضبط خارج الوحدات العسكرية. 
+*  تأمين أمن المنشات العسكرية الحساسة ومراكز القيادة ومباني القيادة العسكرية والمدن السكنية العسكرية. 
+*  أمن الشخصيات الهامة للقوات العسكرية وضيوف القوات أو وزارة الدفاع. 
+*  مباشرة القضايا الجنائية التي تقع في ضمن نطاق مسؤوليتها والتنسيق مع الجهات الأمنية ذات العلاقة لإكمال الإجراءات اللازمة. 
+*  إحضار الضباط والأفراد المطلوبين في قضايا مختلفة لدى الجهات القضائية والأمنية. 
+*  تنفيذ الأحكام العسكرية الصادرة بحق الضباط وضباط الصف والجنود.</dbo:abstract>
+    <dbo:abstract xml:lang="it">La polizia militare è un corpo militare che esercita l&#39;attività di polizia all&#39;interno di una forza armata, con il compito di prevenire e reprimere i reati militari. In alcuni paesi si occupa anche di ogni reato commesso da un militare.</dbo:abstract>
+    <dbo:abstract xml:lang="ja">憲兵（けんぺい）とは、戦闘支援兵科の一種であり、主に軍隊内部の秩序維持と交通整理を任務とする。英語ではMilitary police（MP）と記され、軍警察（ぐんけいさつ）とも呼ばれる。また、日本軍の憲兵については特にkempeitaiと表記されることも多い。一般警察としての役割も兼ねている憲兵組織は国家憲兵と呼ばれる。</dbo:abstract>
+    <dbo:abstract xml:lang="en">Military police (MP) are law enforcement agencies connected with, or part of, the military of a state.</dbo:abstract>
+    <dbo:abstract xml:lang="de">Eine Militärpolizei (internat. Abk. MP von engl. Military Police) übernimmt polizeiliche Aufgaben innerhalb einer Militär-Organisation.</dbo:abstract>
+    <ns8:hypernym rdf:resource="http://dbpedia.org/resource/Agencies" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/United_States_Air_Force_Security_Forces">
+    <dbo:type rdf:resource="http://dbpedia.org/resource/Military_police" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/42nd_Military_Police_Brigade_(United_States)">
+    <dbo:type rdf:resource="http://dbpedia.org/resource/Military_police" />
+    <dbp:specialization rdf:resource="http://dbpedia.org/resource/Military_police" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Polícia_Aérea">
+    <dbo:militaryBranch rdf:resource="http://dbpedia.org/resource/Military_police" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Leroy_Jethro_Gibbs">
+    <dbo:occupation rdf:resource="http://dbpedia.org/resource/Military_police" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Armed_Forces_Police">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Military_police" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Central_Provost_of_Islamic_Republic_of_Iran_Army">
+    <dbo:type rdf:resource="http://dbpedia.org/resource/Military_police" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/General_Provost_of_Army_of_the_Guardians_of_the_Islamic_Revolution">
+    <dbo:type rdf:resource="http://dbpedia.org/resource/Military_police" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lithuanian_Military_Police">
+    <dbo:militaryBranch rdf:resource="http://dbpedia.org/resource/Military_police" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/220th_Military_Police_Brigade">
+    <dbo:type rdf:resource="http://dbpedia.org/resource/Military_police" />
+    <dbp:specialization rdf:resource="http://dbpedia.org/resource/Military_police" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/95th_Military_Police_Battalion">
+    <dbo:type rdf:resource="http://dbpedia.org/resource/Military_police" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/8th_Military_Police_Brigade_(United_States)">
+    <dbo:type rdf:resource="http://dbpedia.org/resource/Military_police" />
+    <dbp:specialization rdf:resource="http://dbpedia.org/resource/Military_police" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Military_police_officer">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Military_police" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/433rd_Security_Forces_Squadron">
+    <dbo:type rdf:resource="http://dbpedia.org/resource/Military_police" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Law_&amp;_Order_(G.I._Joe)">
+    <dbp:function rdf:resource="http://dbpedia.org/resource/Military_police" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Military_policeman">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Military_police" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Military_police_investigator">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Military_police" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Croatian_Military_Police">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Military_police" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Service_Police_(RMP/RAFP/RNP)">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Military_police" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Military_police">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Military_police" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/%22Naval_Security_Forces%22">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Military_police" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Naval_Security_Forces">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Military_police" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/American_military_police">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Military_police" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Army_mps">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Military_police" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Thai_Army_Military_Police">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Military_police" />
+  </rdf:Description>
+</rdf:RDF>

@@ -1,0 +1,59 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "maniefst",
+    "@type": "sc:Manifest",
+    "label": "label",
+    "sequences": [
+        {
+            "@id": "sequence_id",
+            "@type": "sc:Sequence",
+            "label": "Current Page Order",
+            "viewingHint": "non-paged",
+            "canvases": [
+                {
+                    "@id": "canvas_id",
+                    "@type": "sc:Canvas",
+                    "label": "canvas_label",
+                    "thumbnail": {
+                        "@id": "thumbnail_image_url"
+                    },
+                    "width": -1,
+                    "height": -1,
+                    "images": [
+                        {
+                            "@id": "original_image_id",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@type": "oa:Choice",
+                                "default": {
+                                    "@type": "dctypes:Image",
+                                    "width": -1,
+                                    "height": -1,
+                                    "label": "original_label",
+                                    "format": "image/jpeg",
+                                    "@id": "original_image_url"
+                                },
+                                "width": -1,
+                                "height": -1,
+                                "item": [
+                                    {
+                                        "label": "item_label",
+                                        "@type": "dctypes:Image",
+                                        "@id": "item_image_url",
+                                        "format": "image/jpeg",
+                                        "width": -1,
+                                        "height": -1
+                                    }
+                                ],
+                                "@id": "original_image_url",
+                                "format": "image/jpeg"
+                            },
+                            "on": "canvas_id"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

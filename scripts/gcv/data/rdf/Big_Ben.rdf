@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:dct="http://purl.org/dc/terms/"
+	xmlns:dbo="http://dbpedia.org/ontology/"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	xmlns:prov="http://www.w3.org/ns/prov#"
+	xmlns:georss="http://www.georss.org/georss/"
+	xmlns:dbp="http://dbpedia.org/property/"
+	xmlns:ns10="http://purl.org/linguistics/gold/" >
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Great_Bell_of_Westminster">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Big_Ben" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/One_hundred_pounds_(British_coin)">
+    <dbp:reverseDesign rdf:resource="http://dbpedia.org/resource/Big_Ben" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ben_(disambiguation)">
+    <dbo:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/Big_Ben" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Great_Clock_of_Westminster">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Big_Ben" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/BB">
+    <dbo:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/Big_Ben" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Big_Ben">
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/BellTower102826886" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Whole100003553" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Artifact100021939" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Tower104460130" />
+    <rdf:type rdf:resource="http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatTowers" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Person" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatInclinedTowers" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Structure104341686" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q41176" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Building" />
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Memorial103743902" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatTowersCompletedIn1856" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatBellTowers" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Timepiece104437953" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatIndividualBells" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatTurretClocks" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatTowersInLondon" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/TurretClock104502059" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Instrument103574816" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Device103183080" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/ArchitecturalStructure" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoGeoEntity" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoPermanentlyLocatedEntity" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatClockTowers" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PhysicalEntity100001930" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Place" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Location" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Object100002684" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Bell102824448" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/SignalingDevice104217718" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/AcousticDevice102676261" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/MeasuringInstrument103733925" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/ClockTower103047052" />
+    <rdf:type rdf:resource="http://schema.org/Place" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Clock103046257" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Instrumentality103575240" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatClockTowersInTheUnitedKingdom" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatBellTowersInTheUnitedKingdom" />
+    <rdfs:label xml:lang="it">Big Ben</rdfs:label>
+    <rdfs:label xml:lang="pl">Big Ben</rdfs:label>
+    <rdfs:label xml:lang="en">Big Ben</rdfs:label>
+    <rdfs:label xml:lang="fr">Big Ben</rdfs:label>
+    <rdfs:label xml:lang="zh">大本钟</rdfs:label>
+    <rdfs:label xml:lang="de">Big Ben</rdfs:label>
+    <rdfs:label xml:lang="nl">Big Ben</rdfs:label>
+    <rdfs:label xml:lang="ru">Биг-Бен</rdfs:label>
+    <rdfs:label xml:lang="ja">ビッグ・ベン</rdfs:label>
+    <rdfs:label xml:lang="es">Big Ben</rdfs:label>
+    <rdfs:label xml:lang="ar">بيغ بن</rdfs:label>
+    <rdfs:label xml:lang="pt">Big Ben</rdfs:label>
+    <rdfs:comment xml:lang="pl">Big Ben – nazwa zwyczajowa wieży zegarowej Elizabeth Tower w Londynie w Wielkiej Brytanii. Nazwa początkowo odnosiła się do dzwonu ze St. Stephen’s Tower (z ang. Wieża św. Szczepana), zwanej również The Clock Tower (ang. „Wieża Zegarowa”), należącej do Pałacu Westminsterskiego. Obecnie nazwa Big Ben odnosi się często zarówno do dzwonu, jak i zegara oraz samej wieży. 12 września 2012 roku wieża została oficjalnie nazwana Elizabeth Tower dla uhonorowania 60-letniego panowania królowej Elżbiety II.</rdfs:comment>
+    <rdfs:comment xml:lang="ar">ساعة بيغ بن الشهيرة في لندن، بدأ عملها 3 يونيو عام 1859 م.</rdfs:comment>
+    <rdfs:comment xml:lang="fr">Big Ben est le surnom de la grande cloche de 13,5 tonnes se trouvant au sommet de l&#39;Elizabeth Tower, la tour horloge du Palais de Westminster, qui est le siège du parlement britannique (Houses of Parliament), à Londres. La tour renommé sous le nom Elizabeth Tower, pour célébrer le jubilé de diamant d&#39;Elizabeth II en 2012, auparavant, il était connu simplement comme la tour horloge. Seules les personnes qui habitent au Royaume-Uni peuvent visiter Big Ben, après avoir obtenu une autorisation.</rdfs:comment>
+    <rdfs:comment xml:lang="en">(For other uses, see Big Ben (disambiguation).) Big Ben is the nickname for the Great Bell of the clock at the north end of the Palace of Westminster in London, and often extended to refer to the clock and the clock tower. The tower is officially known as Elizabeth Tower, renamed to celebrate the Diamond Jubilee of Elizabeth II in 2012; previously it was known simply as the Clock Tower. The tower holds the second largest four-faced chiming clock in the world (after Minneapolis City Hall). The tower was completed in 1859 and had its 150th anniversary on 31 May 2009, during which celebratory events took place. The tower has become one of the most prominent symbols of the United Kingdom and is often in the establishing shot of films set in London.</rdfs:comment>
+    <rdfs:comment xml:lang="zh">大本钟（英语：Big Ben，或譯作大笨鐘、大鵬鐘）是倫敦威斯敏斯特宫北端鐘樓的大報時鐘的暱稱，也常代指该钟所在的钟楼 。 钟楼坐落在泰晤士河畔，是伦敦的标志之一。于1858年4月10日建成，高320英尺（约合97.5米），是世界第三高钟楼。外墙上有四面巨大的钟表朝向东南西北四个方向，分针有14英尺长（约合4.27米），国会开会期间，钟面会发出光芒。大本鐘直徑7公尺，重13.5公噸，為英国最大的钟。 大本钟的命名來源眾說紛紜，有一种说法称大本钟的名字来自于本杰明·豪尔爵士，他负责修建了威斯敏斯特宫。 2009年6月1日，歡慶啟用150週年。2012年6月26日，英国政府宣布为庆祝伊丽莎白二世登基60周年，将大本钟所在的钟楼正式改名为伊丽莎白塔。</rdfs:comment>
+    <rdfs:comment xml:lang="ru">Башня Елизаветы (англ. Elizabeth Tower) — часовая башня Вестминстерского дворца. Биг-Бен (англ. Big Ben) — название самого большого из пяти колоколов, часто это название относят к часам и Часовой башне в целом. На момент отливки Биг-Бен был самым большим и тяжёлым (13,7 тонны) колоколом Соединённого Королевства. В 1881 году уступил первенство колоколу Большой Полрусск. (17 тонн).</rdfs:comment>
+    <rdfs:comment xml:lang="pt">Big Ben é o nome do sino que foi instalado no Palácio de Westminster durante a gestão de Sir Benjamin Hall, ministro de Obras Públicas da Inglaterra, em 1859. Apesar do termo também ser usado para se referir à torre do relógio onde o sino está localizado, a estrutura é oficialmente conhecida como a Elizabeth Tower, rebatizada para comemorar o Jubileu de Diamante da Rainha Isabel II do Reino Unido (antes de ser rebatizada em 2012, a torre era conhecida simplesmente como &quot;Clock Tower&quot;). A edificação possui o segundo maior relógio de quatro faces do mundo (o da prefeitura de Minneapolis, Estados Unidos, é o primeiro), foi construída em estilo neogótico e tem 96 metros de altura.A torre foi concluída em 1858 e tornou-se um dos símbolos mais importantes do Reino Unido, sendo frequentemente retr</rdfs:comment>
+    <rdfs:comment xml:lang="it">Il Big Ben è il nomignolo della campana più grande dell&#39;orologio della torre all&#39;angolo nord-est del palazzo di Westminster, conosciuto anche come House of Parliament, a Londra. Per tradizione l&#39;uso del nome si è esteso anche all&#39;orologio e all&#39;intera torre in stile neogotico, alta 96 metri, iniziata nel 1834 e terminata nel 1858. Conosciuta come Clock Tower (Torre dell&#39;Orologio), in occasione del Giubileo di diamante di Elisabetta II del Regno Unito del giugno 2012 è diventata ufficialmente la Elizabeth Tower. Questa torre suona ogni quarto d&#39;ora, ogni mezz&#39;ora e ogni ora.</rdfs:comment>
+    <rdfs:comment xml:lang="es">Big Ben es el nombre con el que se conoce a la gran campana del reloj situado en el lado noroeste del Palacio de Westminster, la sede del Parlamento del Reino Unido, en Londres, y popularmente por extensión se utiliza también para nombrar al reloj de la torre. Su nombre oficial era Clock Tower hasta que el 26 de junio de 2012, en honor al jubileo de diamante de la reina Isabel II, se decidió que la torre pasaría a llamarse Elizabeth Tower (Torre Isabel).</rdfs:comment>
+    <rdfs:comment xml:lang="ja">ビッグ・ベン（Big Ben）は、イギリスの首都ロンドンにあるウェストミンスター宮殿（英国国会議事堂）に付属する、時計台の大時鐘の愛称。現在では、転じて時計台全体・大時計そのものの名称として使われている。 時計台の正式名称は「クロック・タワー」 (Clock Tower)であったが、エリザベス2世の在位60周年を記念して「エリザベス・タワー」（Elizabeth Tower）に改称されることになった。</rdfs:comment>
+    <rdfs:comment xml:lang="nl">Big Ben is de bijnaam van de grote klok die in de klokkentoren van het Palace of Westminster in Londen hangt. Ze is zowel luidklok als slagklok. De klok is een van de zwaarste ter wereld. Rondom de klok staat het opschrift This bell was cast by George Mears of Whitechapel for the clock of the Houses of Parliament under the direction of Edmund Becket Den­ison QC in the 21st year of the reign of Queen Victoria in the year of our Lord MDCCCLVIII. Vaak worden ook het uurwerk en zelfs de hele toren Big Ben genoemd.</rdfs:comment>
+    <rdfs:comment xml:lang="de">Der Name Big Ben (engl. Kurzform für „großer Benjamin“) bezeichnet die mit 13,5 t Gewicht schwerste der fünf Glocken des berühmten Uhrturms am Palace of Westminster in London. Der Glockenschlag von Big Ben gilt im Volksmund als The Voice of Britain (Die Stimme Britanniens). Auch auf die Uhr oder den Uhrturm wird die Bezeichnung Big Ben häufig übertragen. Seit September 2012 heißt der Turm offiziell Elizabeth Tower. Die Umbenennung des ehemaligen Clock Tower erfolgte aus Anlass des diamantenen Thronjubiläums von Königin Elisabeth II. und wurde vom britischen Parlament gebilligt.</rdfs:comment>
+    <owl:sameAs rdf:resource="http://fr.dbpedia.org/resource/Big_Ben" />
+    <owl:sameAs rdf:resource="http://pl.dbpedia.org/resource/Big_Ben" />
+    <owl:sameAs rdf:resource="http://yago-knowledge.org/resource/Big_Ben" />
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Big_Ben" />
+    <owl:sameAs rdf:resource="http://yago-knowledge.org/resource/Big_Ben_(bell)" />
+    <owl:sameAs rdf:resource="http://d-nb.info/gnd/4223680-0" />
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q41225" />
+    <owl:sameAs rdf:resource="http://es.dbpedia.org/resource/Big_Ben" />
+    <owl:sameAs rdf:resource="http://nl.dbpedia.org/resource/Big_Ben" />
+    <owl:sameAs rdf:resource="http://pt.dbpedia.org/resource/Big_Ben" />
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.026ydc" />
+    <owl:sameAs rdf:resource="http://sws.geonames.org/6618994/" />
+    <owl:sameAs rdf:resource="http://id.dbpedia.org/resource/Big_Ben" />
+    <owl:sameAs rdf:resource="http://el.dbpedia.org/resource/Μπιγκ_Μπεν" />
+    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/Big_Ben" />
+    <owl:sameAs rdf:resource="http://eu.dbpedia.org/resource/Big_Ben" />
+    <owl:sameAs rdf:resource="http://ko.dbpedia.org/resource/빅_벤" />
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q41225" />
+    <owl:sameAs rdf:resource="http://sw.cyc.com/concept/Mx4rwP1XwZwpEbGdrcN5Y29ycA" />
+    <owl:sameAs rdf:resource="http://cs.dbpedia.org/resource/Big_Ben" />
+    <owl:sameAs rdf:resource="http://yago-knowledge.org/resource/Great_Clock_of_Westminster" />
+    <owl:sameAs rdf:resource="http://it.dbpedia.org/resource/Big_Ben" />
+    <owl:sameAs rdf:resource="http://ja.dbpedia.org/resource/ビッグ・ベン" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Palace_of_Westminster" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Towers_in_London" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:National_government_buildings_in_London" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Bell_towers_in_the_United_Kingdom" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Government_buildings_completed_in_1870" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Buildings_and_structures_in_the_City_of_Westminster" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Visitor_attractions_in_the_City_of_Westminster" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Gothic_Revival_architecture_in_London" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Towers_completed_in_1859" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Clock_towers_in_the_United_Kingdom" />
+    <dbo:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">7290308</dbo:wikiPageID>
+    <dbo:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">744784546</dbo:wikiPageRevisionID>
+    <dbo:wikiPageExternalLink rdf:resource="http://www.houghtonlespring.org.uk/articles/big_ben_clapper.htm" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.flickr.com/photos/uk_parliament/tags/bigben" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.parliament.uk/bigben" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.raeng.org.uk/news/publications/list/lectures/two_towers_lecture.pdf" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.whitechapelbellfoundry.co.uk/bigben.htm" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.parliament.uk/about/living-heritage/building/palace/" />
+    <dbo:wikiPageExternalLink rdf:resource="http://westminster.lovesguide.com/articles/bigben.htm" />
+    <foaf:name xml:lang="en">Elizabeth Tower</foaf:name>
+    <foaf:homepage rdf:resource="http://www.parliament.uk/bigben" />
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#float">51.5008</geo:lat>
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-0.124661</geo:long>
+    <foaf:depiction rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Clock_Tower_-_Palace_of_Westminster,_London_-_May_2007.jpg" />
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Big_Ben" />
+    <geo:geometry rdf:datatype="http://www.openlinksw.com/schemas/virtrdf#Geometry">POINT(-0.12466111034155 51.500755310059)</geo:geometry>
+    <dbo:thumbnail rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Clock_Tower_-_Palace_of_Westminster,_London_-_May_2007.jpg?width=300" />
+    <prov:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Big_Ben?oldid=744784546" />
+    <dbo:abstract xml:lang="nl">Big Ben is de bijnaam van de grote klok die in de klokkentoren van het Palace of Westminster in Londen hangt. Ze is zowel luidklok als slagklok. De klok is een van de zwaarste ter wereld. Rondom de klok staat het opschrift This bell was cast by George Mears of Whitechapel for the clock of the Houses of Parliament under the direction of Edmund Becket Den­ison QC in the 21st year of the reign of Queen Victoria in the year of our Lord MDCCCLVIII. Vaak worden ook het uurwerk en zelfs de hele toren Big Ben genoemd. Big Ben is genoemd naar de politicus Benjamin Hall (1802-1867) die aanzet gaf tot de bouw van de toren en vanwege zijn rijzige gestalte Big Ben werd genoemd. De grote klok werd geïnstalleerd in 1858. Op 31 mei 1859 begon het uurwerk te tikken, om pas in 1956 voor het eerst te worden stilgezet voor onderhoud. De slagklokken klonken voor het eerst op 11 juli 1859. Big Ben zelf slaat alleen de volle uren. De kwartieren worden geluid door een voorslag van vier kleinere klokken die eromheen hangen. Zowel de toren als het geluid van de klokken (Westminsterslag) hebben wereldwijde bekendheid verworven. Als luidklok doet Big Ben alleen dienst in bijzondere situaties, zoals de uitvaart van een monarch, wanneer de klok het aantal levensjaren van de overledene slaat. Dit gebeurde voor het laatst in 1952, toen Big Ben 56 slagen liet horen voor koning George VI. Sindsdien heeft Big Ben alleen geluid op 27 juli 2012, ter inleiding van de Olympische Zomerspelen die dat jaar in Londen gehouden werden. Na de veertig slagen van Big Ben vielen de Londense kerkklokken in om tien minuten lang te luiden.</dbo:abstract>
+    <dbo:abstract xml:lang="es">Big Ben es el nombre con el que se conoce a la gran campana del reloj situado en el lado noroeste del Palacio de Westminster, la sede del Parlamento del Reino Unido, en Londres, y popularmente por extensión se utiliza también para nombrar al reloj de la torre. Su nombre oficial era Clock Tower hasta que el 26 de junio de 2012, en honor al jubileo de diamante de la reina Isabel II, se decidió que la torre pasaría a llamarse Elizabeth Tower (Torre Isabel). La torre alberga el reloj de cuatro caras más grande del mundo, y es la tercera torre de reloj más alta del mundo. Celebró su 150 aniversario el 31 de mayo de 2009, y se llevaron a cabo diversos actos de conmemoración. La torre se completó en el año 1858 y el reloj entró en funcionamiento el 7 de septiembre de 1859.</dbo:abstract>
+    <dbo:abstract xml:lang="it">Il Big Ben è il nomignolo della campana più grande dell&#39;orologio della torre all&#39;angolo nord-est del palazzo di Westminster, conosciuto anche come House of Parliament, a Londra. Per tradizione l&#39;uso del nome si è esteso anche all&#39;orologio e all&#39;intera torre in stile neogotico, alta 96 metri, iniziata nel 1834 e terminata nel 1858. Conosciuta come Clock Tower (Torre dell&#39;Orologio), in occasione del Giubileo di diamante di Elisabetta II del Regno Unito del giugno 2012 è diventata ufficialmente la Elizabeth Tower. Questa torre suona ogni quarto d&#39;ora, ogni mezz&#39;ora e ogni ora.</dbo:abstract>
+    <dbo:abstract xml:lang="pl">Big Ben – nazwa zwyczajowa wieży zegarowej Elizabeth Tower w Londynie w Wielkiej Brytanii. Nazwa początkowo odnosiła się do dzwonu ze St. Stephen’s Tower (z ang. Wieża św. Szczepana), zwanej również The Clock Tower (ang. „Wieża Zegarowa”), należącej do Pałacu Westminsterskiego. Obecnie nazwa Big Ben odnosi się często zarówno do dzwonu, jak i zegara oraz samej wieży. 12 września 2012 roku wieża została oficjalnie nazwana Elizabeth Tower dla uhonorowania 60-letniego panowania królowej Elżbiety II.</dbo:abstract>
+    <dbo:abstract xml:lang="ru">Башня Елизаветы (англ. Elizabeth Tower) — часовая башня Вестминстерского дворца. Биг-Бен (англ. Big Ben) — название самого большого из пяти колоколов, часто это название относят к часам и Часовой башне в целом. На момент отливки Биг-Бен был самым большим и тяжёлым (13,7 тонны) колоколом Соединённого Королевства. В 1881 году уступил первенство колоколу Большой Полрусск. (17 тонн).</dbo:abstract>
+    <dbo:abstract xml:lang="fr">Big Ben est le surnom de la grande cloche de 13,5 tonnes se trouvant au sommet de l&#39;Elizabeth Tower, la tour horloge du Palais de Westminster, qui est le siège du parlement britannique (Houses of Parliament), à Londres. La tour renommé sous le nom Elizabeth Tower, pour célébrer le jubilé de diamant d&#39;Elizabeth II en 2012, auparavant, il était connu simplement comme la tour horloge. Seules les personnes qui habitent au Royaume-Uni peuvent visiter Big Ben, après avoir obtenu une autorisation. Le bâtiment fait face à la Tamise, entre le Pont de Westminster (Westminster Bridge) et l&#39;Abbaye de Westminster (Westminster Abbey).</dbo:abstract>
+    <dbo:abstract xml:lang="ja">ビッグ・ベン（Big Ben）は、イギリスの首都ロンドンにあるウェストミンスター宮殿（英国国会議事堂）に付属する、時計台の大時鐘の愛称。現在では、転じて時計台全体・大時計そのものの名称として使われている。 時計台の正式名称は「クロック・タワー」 (Clock Tower)であったが、エリザベス2世の在位60周年を記念して「エリザベス・タワー」（Elizabeth Tower）に改称されることになった。</dbo:abstract>
+    <dbo:abstract xml:lang="de">Der Name Big Ben (engl. Kurzform für „großer Benjamin“) bezeichnet die mit 13,5 t Gewicht schwerste der fünf Glocken des berühmten Uhrturms am Palace of Westminster in London. Der Glockenschlag von Big Ben gilt im Volksmund als The Voice of Britain (Die Stimme Britanniens). Auch auf die Uhr oder den Uhrturm wird die Bezeichnung Big Ben häufig übertragen. Seit September 2012 heißt der Turm offiziell Elizabeth Tower. Die Umbenennung des ehemaligen Clock Tower erfolgte aus Anlass des diamantenen Thronjubiläums von Königin Elisabeth II. und wurde vom britischen Parlament gebilligt.</dbo:abstract>
+    <dbo:abstract xml:lang="ar">ساعة بيغ بن الشهيرة في لندن، بدأ عملها 3 يونيو عام 1859 م.</dbo:abstract>
+    <dbo:abstract xml:lang="en">(For other uses, see Big Ben (disambiguation).) Big Ben is the nickname for the Great Bell of the clock at the north end of the Palace of Westminster in London, and often extended to refer to the clock and the clock tower. The tower is officially known as Elizabeth Tower, renamed to celebrate the Diamond Jubilee of Elizabeth II in 2012; previously it was known simply as the Clock Tower. The tower holds the second largest four-faced chiming clock in the world (after Minneapolis City Hall). The tower was completed in 1859 and had its 150th anniversary on 31 May 2009, during which celebratory events took place. The tower has become one of the most prominent symbols of the United Kingdom and is often in the establishing shot of films set in London.</dbo:abstract>
+    <dbo:abstract xml:lang="pt">Big Ben é o nome do sino que foi instalado no Palácio de Westminster durante a gestão de Sir Benjamin Hall, ministro de Obras Públicas da Inglaterra, em 1859. Apesar do termo também ser usado para se referir à torre do relógio onde o sino está localizado, a estrutura é oficialmente conhecida como a Elizabeth Tower, rebatizada para comemorar o Jubileu de Diamante da Rainha Isabel II do Reino Unido (antes de ser rebatizada em 2012, a torre era conhecida simplesmente como &quot;Clock Tower&quot;). A edificação possui o segundo maior relógio de quatro faces do mundo (o da prefeitura de Minneapolis, Estados Unidos, é o primeiro), foi construída em estilo neogótico e tem 96 metros de altura.A torre foi concluída em 1858 e tornou-se um dos símbolos mais importantes do Reino Unido, sendo frequentemente retratada em filmes ambientados em Londres.</dbo:abstract>
+    <dbo:abstract xml:lang="zh">大本钟（英语：Big Ben，或譯作大笨鐘、大鵬鐘）是倫敦威斯敏斯特宫北端鐘樓的大報時鐘的暱稱，也常代指该钟所在的钟楼 。 钟楼坐落在泰晤士河畔，是伦敦的标志之一。于1858年4月10日建成，高320英尺（约合97.5米），是世界第三高钟楼。外墙上有四面巨大的钟表朝向东南西北四个方向，分针有14英尺长（约合4.27米），国会开会期间，钟面会发出光芒。大本鐘直徑7公尺，重13.5公噸，為英国最大的钟。 大本钟的命名來源眾說紛紜，有一种说法称大本钟的名字来自于本杰明·豪尔爵士，他负责修建了威斯敏斯特宫。 2009年6月1日，歡慶啟用150週年。2012年6月26日，英国政府宣布为庆祝伊丽莎白二世登基60周年，将大本钟所在的钟楼正式改名为伊丽莎白塔。</dbo:abstract>
+    <dbo:architect rdf:resource="http://dbpedia.org/resource/Augustus_Pugin" />
+    <dbo:architecturalStyle rdf:resource="http://dbpedia.org/resource/Gothic_Revival" />
+    <dbo:buildingEndDate>1855</dbo:buildingEndDate>
+    <dbo:height rdf:datatype="http://www.w3.org/2001/XMLSchema#double">96.0</dbo:height>
+    <dbo:location rdf:resource="http://dbpedia.org/resource/London" />
+    <dbo:type rdf:resource="http://dbpedia.org/resource/Tower" />
+    <georss:point>51.50075555555556 -0.12466111111111111</georss:point>
+    <dbp:alternateNames rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Big Ben</dbp:alternateNames>
+    <dbp:caption rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Elizabeth Tower stands at the north end of the Palace of Westminster</dbp:caption>
+    <dbp:imageSize rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">240</dbp:imageSize>
+    <ns10:hypernym rdf:resource="http://dbpedia.org/resource/Nickname" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Tower_of_Big_Ben">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Big_Ben" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Clock_Tower_(Westminster)">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Big_Ben" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Westminster_Clock_Tower">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Big_Ben" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Big_Ben_(disambiguation)">
+    <dbo:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/Big_Ben" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Palace_of_Westminster_Clock_Tower">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Big_Ben" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Clock_Tower,_Palace_of_Westminster">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Big_Ben" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Palace_of_Westminster_Clock_Tower,_Great_Clock_of_Westminster">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Big_Ben" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Big-ben">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Big_Ben" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Big_Ben,_London">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Big_Ben" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Big_ben">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Big_Ben" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Big_Ben/version_2">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Big_Ben" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Big_Ben_(bell)">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Big_Ben" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Westminster_Clock">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Big_Ben" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Elizabeth_Tower,_Palace_of_Westminster">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Big_Ben" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Elizabeth_Tower">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Big_Ben" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Elizabeth_Tower">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Big_Ben" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Big_Ben_bell">
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Big_Ben" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Big_Ben">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Big_Ben" />
+  </rdf:Description>
+</rdf:RDF>

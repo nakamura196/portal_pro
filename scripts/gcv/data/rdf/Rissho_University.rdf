@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:dct="http://purl.org/dc/terms/"
+	xmlns:dbo="http://dbpedia.org/ontology/"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	xmlns:prov="http://www.w3.org/ns/prov#"
+	xmlns:georss="http://www.georss.org/georss/"
+	xmlns:dbp="http://dbpedia.org/property/" >
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kenji_Arai">
+    <dbo:team rdf:resource="http://dbpedia.org/resource/Rissho_University" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kenji_Arai__1">
+    <dbo:team rdf:resource="http://dbpedia.org/resource/Rissho_University" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/An_Yong-hak__1">
+    <dbo:team rdf:resource="http://dbpedia.org/resource/Rissho_University" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/An_Yong-hak">
+    <dbo:team rdf:resource="http://dbpedia.org/resource/Rissho_University" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Naoki_Miyata">
+    <dbo:team rdf:resource="http://dbpedia.org/resource/Rissho_University" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Naoki_Miyata__1">
+    <dbo:team rdf:resource="http://dbpedia.org/resource/Rissho_University" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hironari_Iwamoto">
+    <dbo:team rdf:resource="http://dbpedia.org/resource/Rissho_University" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sheng-yen">
+    <dbp:education rdf:resource="http://dbpedia.org/resource/Rissho_University" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hiroshi_Yoshikawa">
+    <dbo:institution rdf:resource="http://dbpedia.org/resource/Rissho_University" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Rissho_University">
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Agent" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/SocialGroup107950920" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Group100031264" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Organization108008335" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoPermanentlyLocatedEntity" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoLegalActor" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoLegalActorGeo" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatUniversitiesAndCollegesInTokyo" />
+    <rdf:type rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent" />
+    <rdf:type rdf:resource="http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Institution108053576" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/EducationalInstitution108276342" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q3918" />
+    <rdf:type rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#SocialPerson" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatUniversitiesAndCollegesInJapan" />
+    <rdf:type rdf:resource="http://schema.org/EducationalOrganization" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q43229" />
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing" />
+    <rdf:type rdf:resource="http://schema.org/CollegeOrUniversity" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatPrivateUniversitiesAndCollegesInJapan" />
+    <rdf:type rdf:resource="http://schema.org/Organization" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatBuddhistUniversitiesAndColleges" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WikicatEducationalInstitutionsEstablishedIn1924" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/University108286569" />
+    <rdf:type rdf:resource="http://www.wikidata.org/entity/Q24229398" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/EducationalInstitution" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/University" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Abstraction100002137" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Organisation" />
+    <rdfs:label xml:lang="nl">Rissho-universiteit</rdfs:label>
+    <rdfs:label xml:lang="de">Risshō-Universität</rdfs:label>
+    <rdfs:label xml:lang="en">Rissho University</rdfs:label>
+    <rdfs:label xml:lang="ja">立正大学</rdfs:label>
+    <rdfs:label xml:lang="zh">立正大學</rdfs:label>
+    <rdfs:comment xml:lang="en">Rissho University (立正大学 Risshō Daigaku), one of the oldest universities in Japan, was founded in 1580, when a seminary was established as a learning center for young monks of the Nichiren shu. The university&#39;s name came from the Rissho Ankoku Ron, a thesis written by Nichiren, a prominent Buddhist priest of the Kamakura period. Rissho University enrolls approximately 11,900 students. It has 14 undergraduate departments and 6 graduate school research departments on two separate campuses.</rdfs:comment>
+    <rdfs:comment xml:lang="nl">De Rissho-universiteit (立正大学,  Risshō Daigaku) is een van de oudste universiteiten van Japan. De universiteit bevindt zich in Tokio.</rdfs:comment>
+    <rdfs:comment xml:lang="zh">立正大學（日語：りっしょうだいがく，英語：Rissho University），是一所位於東京都品川區的私立大學。1924年創校，簡稱立正大、立正、RIS。</rdfs:comment>
+    <rdfs:comment xml:lang="ja">立正大学（りっしょうだいがく、英語: Rissho University）は、東京都品川区大崎4丁目2番16号に本部を置く日本の私立大学である。1924年に設置された。大学の略称は立正大、立正、RIS。</rdfs:comment>
+    <rdfs:comment xml:lang="de">Im Jahre 2002 konnte die Risshō-Universität (立正大学, Risshō daigaku) ihr 130 jähriges Bestehen feiern und gehört somit zu den ältesten Universitäten Japans.Als Priesterseminar der Nichiren-shū, einer Schule des Nichiren-Buddhismus, reichen ihre Ursprünge jedoch bis in das Jahr 1580 zurück. Einer ihrer ehemaligen Direktoren (Tanzan Ishibashi) war von 1956 bis 1957 der 55. Premierminister Japans. Dieser galt als bedeutender Wirtschaftsexperte und trat seinerzeit vehement für die Wiederaufnahme diplomatischer Beziehungen zu China ein.</rdfs:comment>
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q1149176" />
+    <owl:sameAs rdf:resource="http://ko.dbpedia.org/resource/릿쇼_대학" />
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q1149176" />
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Rissho_University" />
+    <owl:sameAs rdf:resource="http://yago-knowledge.org/resource/Rissho_University" />
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.02pk2fp" />
+    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/Risshō-Universität" />
+    <owl:sameAs rdf:resource="http://nl.dbpedia.org/resource/Rissho-universiteit" />
+    <owl:sameAs rdf:resource="http://ja.dbpedia.org/resource/立正大学" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Buddhist_universities_and_colleges" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Buddhist_education" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Universities_and_colleges_in_Tokyo" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Nichiren_Buddhism" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Educational_institutions_established_in_1924" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Private_universities_and_colleges_in_Japan" />
+    <dbo:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">9562150</dbo:wikiPageID>
+    <dbo:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">726351307</dbo:wikiPageRevisionID>
+    <dbo:wikiPageExternalLink rdf:resource="http://www.ris.ac.jp/en/" />
+    <dbo:wikiPageExternalLink rdf:resource="http://www.ris.ac.jp/" />
+    <foaf:name xml:lang="en">立正大学</foaf:name>
+    <foaf:name xml:lang="en">Rissho University</foaf:name>
+    <foaf:homepage rdf:resource="http://www.ris.ac.jp/en/" />
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#float">35.6211</geo:lat>
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#float">139.723</geo:long>
+    <foaf:depiction rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/20130217_Ris_Campus.JPG" />
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Rissho_University" />
+    <geo:geometry rdf:datatype="http://www.openlinksw.com/schemas/virtrdf#Geometry">POINT(139.7229309082 35.62109375)</geo:geometry>
+    <dbo:thumbnail rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/20130217_Ris_Campus.JPG?width=300" />
+    <prov:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Rissho_University?oldid=726351307" />
+    <dbo:abstract xml:lang="zh">立正大學（日語：りっしょうだいがく，英語：Rissho University），是一所位於東京都品川區的私立大學。1924年創校，簡稱立正大、立正、RIS。</dbo:abstract>
+    <dbo:abstract xml:lang="ja">立正大学（りっしょうだいがく、英語: Rissho University）は、東京都品川区大崎4丁目2番16号に本部を置く日本の私立大学である。1924年に設置された。大学の略称は立正大、立正、RIS。</dbo:abstract>
+    <dbo:abstract xml:lang="de">Im Jahre 2002 konnte die Risshō-Universität (立正大学, Risshō daigaku) ihr 130 jähriges Bestehen feiern und gehört somit zu den ältesten Universitäten Japans.Als Priesterseminar der Nichiren-shū, einer Schule des Nichiren-Buddhismus, reichen ihre Ursprünge jedoch bis in das Jahr 1580 zurück. Einer ihrer ehemaligen Direktoren (Tanzan Ishibashi) war von 1956 bis 1957 der 55. Premierminister Japans. Dieser galt als bedeutender Wirtschaftsexperte und trat seinerzeit vehement für die Wiederaufnahme diplomatischer Beziehungen zu China ein. Der Hauptcampus der Universität befindet sich in Shinagawa, Tokio (35° 37′ 16″ N, 139° 43′ 23″ O) sowie Kumagaya in der Präfektur Saitama (36° 6′ 29″ N, 139° 21′ 51″ O).</dbo:abstract>
+    <dbo:abstract xml:lang="nl">De Rissho-universiteit (立正大学,  Risshō Daigaku) is een van de oudste universiteiten van Japan. De universiteit bevindt zich in Tokio.</dbo:abstract>
+    <dbo:abstract xml:lang="en">Rissho University (立正大学 Risshō Daigaku), one of the oldest universities in Japan, was founded in 1580, when a seminary was established as a learning center for young monks of the Nichiren shu. The university&#39;s name came from the Rissho Ankoku Ron, a thesis written by Nichiren, a prominent Buddhist priest of the Kamakura period. Rissho University enrolls approximately 11,900 students. It has 14 undergraduate departments and 6 graduate school research departments on two separate campuses.</dbo:abstract>
+    <dbo:city rdf:resource="http://dbpedia.org/resource/Shinagawa,_Tokyo" />
+    <dbo:country rdf:resource="http://dbpedia.org/resource/Japan" />
+    <dbo:facultySize rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">555</dbo:facultySize>
+    <dbo:motto>1. Seek truth and show sincerity.</dbo:motto>
+    <dbo:motto>3. Desire peace and serve humankind.</dbo:motto>
+    <dbo:motto>2. Value justice and reject evil.</dbo:motto>
+    <dbo:numberOfPostgraduateStudents rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">223</dbo:numberOfPostgraduateStudents>
+    <dbo:numberOfUndergraduateStudents rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">10401</dbo:numberOfUndergraduateStudents>
+    <dbo:staff rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">242</dbo:staff>
+    <dbo:type rdf:resource="http://dbpedia.org/resource/Private_University" />
+    <georss:point>35.621094 139.722936</georss:point>
+    <dbp:campus rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Urban</dbp:campus>
+    <dbp:established rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1580</dbp:established>
+    <dbp:president rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Kazumi Yamazaki</dbp:president>
+    <dbp:state rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#langString">Tokyo</dbp:state>
+    <dbp:wordnet_type rdf:resource="http://www.w3.org/2006/03/wn/wn20/instances/synset-university-noun-2" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nikken_Abe">
+    <dbp:almaMater rdf:resource="http://dbpedia.org/resource/Rissho_University" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hironari_Iwamoto__1">
+    <dbo:team rdf:resource="http://dbpedia.org/resource/Rissho_University" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tatsuya_Ai">
+    <dbo:team rdf:resource="http://dbpedia.org/resource/Rissho_University" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tatsuya_Ai__1">
+    <dbo:team rdf:resource="http://dbpedia.org/resource/Rissho_University" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Rissho_University">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Rissho_University" />
+  </rdf:Description>
+</rdf:RDF>

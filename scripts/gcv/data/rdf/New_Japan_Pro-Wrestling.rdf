@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:dbo="http://dbpedia.org/ontology/"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:prov="http://www.w3.org/ns/prov#" >
+  <rdf:Description rdf:about="http://dbpedia.org/resource/New_Japan_Pro-Wrestling">
+    <rdfs:label xml:lang="en">New Japan Pro-Wrestling</rdfs:label>
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/New_Japan_Pro-Wrestling" />
+    <dbo:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">27254507</dbo:wikiPageID>
+    <dbo:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">360483338</dbo:wikiPageRevisionID>
+    <dbo:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/New_Japan_Pro_Wrestling" />
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/New_Japan_Pro-Wrestling" />
+    <prov:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/New_Japan_Pro-Wrestling?oldid=360483338" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/New_Japan_Pro-Wrestling">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/New_Japan_Pro-Wrestling" />
+  </rdf:Description>
+</rdf:RDF>

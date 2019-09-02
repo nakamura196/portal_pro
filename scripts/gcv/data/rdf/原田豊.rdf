@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:dbpedia-owl="http://dbpedia.org/ontology/" >
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/北海道日本ハムファイターズの選手一覧">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/原田豊" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/府中牝馬ステークス">
+    <dbpedia-owl:wikiPageWikiLink rdf:resource="http://ja.dbpedia.org/resource/原田豊" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/data/原田豊.rdf">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document" />
+    <foaf:primaryTopic rdf:resource="http://ja.dbpedia.org/resource/原田豊" />
+  </rdf:Description>
+</rdf:RDF>

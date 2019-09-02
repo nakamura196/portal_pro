@@ -1,0 +1,233 @@
+{
+    "entities": [
+        {
+            "mentions": [
+                {
+                    "text": {
+                        "beginOffset": 0,
+                        "content": "Emergency"
+                    },
+                    "type": "PROPER"
+                }
+            ],
+            "metadata": {},
+            "name": "Emergency",
+            "salience": 0.18350925,
+            "type": "CONSUMER_GOOD"
+        },
+        {
+            "mentions": [
+                {
+                    "text": {
+                        "beginOffset": 10,
+                        "content": "Bulletin."
+                    },
+                    "type": "PROPER"
+                }
+            ],
+            "metadata": {},
+            "name": "Bulletin.",
+            "salience": 0.18350925,
+            "type": "OTHER"
+        },
+        {
+            "mentions": [
+                {
+                    "text": {
+                        "beginOffset": 20,
+                        "content": "No.3∽A-2-147-1\t アイテム\t A-2-147-1"
+                    },
+                    "type": "PROPER"
+                }
+            ],
+            "metadata": {},
+            "name": "No.3∽A-2-147-1 アイテム A-2-147-1",
+            "salience": 0.113278925,
+            "type": "LOCATION"
+        },
+        {
+            "mentions": [
+                {
+                    "text": {
+                        "beginOffset": 63,
+                        "content": "東京大学大学院情報学環\t 1970"
+                    },
+                    "type": "PROPER"
+                }
+            ],
+            "metadata": {},
+            "name": "東京大学大学院情報学環 1970",
+            "salience": 0.07149772,
+            "type": "ORGANIZATION"
+        },
+        {
+            "mentions": [
+                {
+                    "text": {
+                        "beginOffset": 138,
+                        "content": "新聞研究所"
+                    },
+                    "type": "PROPER"
+                }
+            ],
+            "metadata": {},
+            "name": "新聞研究所",
+            "salience": 0.070810564,
+            "type": "ORGANIZATION"
+        },
+        {
+            "mentions": [
+                {
+                    "text": {
+                        "beginOffset": 114,
+                        "content": "小野秀雄"
+                    },
+                    "type": "PROPER"
+                }
+            ],
+            "metadata": {
+                "mid": "/g/121xjwn9",
+                "wikipedia_url": "https://de.wikipedia.org/wiki/Ono_Hideo"
+            },
+            "name": "小野秀雄",
+            "salience": 0.052542027,
+            "type": "PERSON"
+        },
+        {
+            "mentions": [
+                {
+                    "text": {
+                        "beginOffset": 179,
+                        "content": "図書室"
+                    },
+                    "type": "COMMON"
+                }
+            ],
+            "metadata": {},
+            "name": "図書室",
+            "salience": 0.049365737,
+            "type": "OTHER"
+        },
+        {
+            "mentions": [
+                {
+                    "text": {
+                        "beginOffset": 189,
+                        "content": "社会情報研究資料センター"
+                    },
+                    "type": "COMMON"
+                }
+            ],
+            "metadata": {},
+            "name": "社会情報研究資料センター",
+            "salience": 0.049365737,
+            "type": "OTHER"
+        },
+        {
+            "mentions": [
+                {
+                    "text": {
+                        "beginOffset": 231,
+                        "content": "再配置"
+                    },
+                    "type": "COMMON"
+                }
+            ],
+            "metadata": {},
+            "name": "再配置",
+            "salience": 0.049365737,
+            "type": "EVENT"
+        },
+        {
+            "mentions": [
+                {
+                    "text": {
+                        "beginOffset": 245,
+                        "content": "A\t 2\t 147\t 1\t Emergency Bulletin."
+                    },
+                    "type": "PROPER"
+                }
+            ],
+            "metadata": {},
+            "name": "A 2147 1 Emergency Bulletin.",
+            "salience": 0.037294496,
+            "type": "OTHER"
+        },
+        {
+            "mentions": [
+                {
+                    "text": {
+                        "beginOffset": 334,
+                        "content": "玉井　建也\t 新聞or雑誌\t 01逐次刊行-新聞類\t Emergency\t No.3\t Chandler & Co."
+                    },
+                    "type": "PROPER"
+                }
+            ],
+            "metadata": {},
+            "name": "玉井 建也 新聞or雑誌 01逐次刊行-新聞類 Emergency No.3 Chandler & Co.",
+            "salience": 0.036723215,
+            "type": "ORGANIZATION"
+        },
+        {
+            "mentions": [
+                {
+                    "text": {
+                        "beginOffset": 307,
+                        "content": "252\t 191\t 玉井　建也"
+                    },
+                    "type": "PROPER"
+                }
+            ],
+            "metadata": {},
+            "name": "252191 玉井 建也",
+            "salience": 0.035202365,
+            "type": "PERSON"
+        },
+        {
+            "mentions": [
+                {
+                    "text": {
+                        "beginOffset": 460,
+                        "content": "単体\t A-0002-0147-0001"
+                    },
+                    "type": "PROPER"
+                }
+            ],
+            "metadata": {},
+            "name": "単体 A-0002-0147-0001",
+            "salience": 0.02470412,
+            "type": "CONSUMER_GOOD"
+        },
+        {
+            "mentions": [
+                {
+                    "text": {
+                        "beginOffset": 430,
+                        "content": "完成"
+                    },
+                    "type": "COMMON"
+                }
+            ],
+            "metadata": {},
+            "name": "完成",
+            "salience": 0.02141543,
+            "type": "EVENT"
+        },
+        {
+            "mentions": [
+                {
+                    "text": {
+                        "beginOffset": 439,
+                        "content": "公刊形態"
+                    },
+                    "type": "COMMON"
+                }
+            ],
+            "metadata": {},
+            "name": "公刊形態",
+            "salience": 0.02141543,
+            "type": "OTHER"
+        }
+    ],
+    "language": "ja"
+}
