@@ -1,0 +1,853 @@
+
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <meta name="description" content="">
+  <meta name="author" content="">
+  <!-- Font Awesome -->
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+  <!-- Bootstrap core CSS -->
+  <link href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.0.0/css/bootstrap.min.css" rel="stylesheet">
+  <!-- Material Design Bootstrap -->
+  <link href="https://cdnjs.cloudflare.com/ajax/libs/mdbootstrap/4.5.4/css/mdb.min.css" rel="stylesheet">
+
+  <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.10.15/css/jquery.dataTables.min.css"/>
+
+  <title>LOD Applications</title>
+  
+</head>
+
+<body>
+
+  <header>
+
+    <!--Navbar-->
+    <nav class="navbar navbar-expand-lg navbar-light white scrolling-navbar">
+      <div class="container-fluid">
+        <a class="navbar-brand" href="../">LOD Applications</a>
+
+      </div>
+    </nav>
+    <!--/.Navbar-->
+
+  </header>
+
+  <div class="container-fluid mt-5">
+
+    <div class="row">
+      <div class="col-md-6">
+        <!-- Card -->
+        <div class="card mb-5">
+
+          <!-- Card content -->
+          <div class="card-body">
+
+            <div class="pricing-header px-3 py-3 pt-md-5 pb-md-4 mx-auto text-center">
+              <h3>石本コレクションⅠ</h3>
+              <p class="lead">Total: <span id="total"></span></p>
+            </div>
+
+            <div class="text-center" id="loading">
+              <img src="https://upload.wikimedia.org/wikipedia/commons/b/b1/Loading_icon.gif"/>
+            </div>
+
+            <div id="container2"></div>
+
+          </div>
+
+        </div>
+        <!-- Card -->
+
+        <!-- Card -->
+        <div class="card mb-5">
+
+          <!-- Card content -->
+          <div class="card-body">
+
+            <table class="table table-hover" id="table">
+              <thead id="thead">
+                <tr>
+                  <th></th>
+                  <th>Database Label</th>
+                  <th>No. of data</th>
+                </tr>
+              </thead>
+              <tbody id="resourceListBody">
+              </tbody>
+            </table>
+          </div>
+        </div>
+        <!-- Card -->
+
+
+
+      </div> <!-- col -->
+      <div class="col-md-6">
+        <!-- Card -->
+        <div class="card mb-5">
+
+          <!-- Card content -->
+          <div class="card-body">
+
+            <div class="pricing-header px-3 py-3 pt-md-5 pb-md-4 mx-auto text-center">
+              <h3>石本コレクションⅡ</h3>
+              <p class="lead">Total: <span id="total2"></span></p>
+            </div>
+
+            <div class="text-center" id="loading2">
+              <img src="https://upload.wikimedia.org/wikipedia/commons/b/b1/Loading_icon.gif"/>
+            </div>
+
+            <div id="container2_2"></div>
+
+          </div>
+
+        </div>
+        <!-- Card -->
+
+        <!-- Card -->
+        <div class="card mb-5">
+
+          <!-- Card content -->
+          <div class="card-body">
+
+            <table class="table table-hover" id="table2">
+              <thead id="thead2">
+                <tr>
+                  <th></th>
+                  <th>Database Label</th>
+                  <th>No. of data</th>
+                </tr>
+              </thead>
+              <tbody id="resourceListBody2">
+              </tbody>
+            </table>
+
+          </div>
+
+        </div>
+        <!-- Card -->
+      </div><!-- col -->
+    </div><!-- row -->
+
+
+    <!-- Card -->
+    <div class="card mb-5">
+      <!-- Card content -->
+      <div class="card-body">
+
+        <div id="container01"></div>
+      </div>
+    </div><!-- Card -->
+
+    <!-- Card -->
+    <div class="card mb-5">
+      <!-- Card content -->
+      <div class="card-body">
+
+        <div id="container02"></div>
+      </div>
+    </div><!-- Card -->
+
+    <div class="row">
+      <div class="col-md-6">
+        <!-- Card -->
+        <div class="card mb-5">
+
+          <!-- Card content -->
+          <div class="card-body">
+
+            <div class="pricing-header px-3 py-3 pt-md-5 pb-md-4 mx-auto text-center">
+              <h3>石本コレクションⅠ</h3>
+            </div>
+
+            <table class="table table-hover table-bordered" id="table01">
+              <thead id="thead01">
+                <tr id="tr01">
+                  <th></th>
+                  <th>西暦</th>
+                  <th>点数</th>
+                </tr>
+              </thead>
+              <tbody id="resourceListBody01">
+              </tbody>
+            </table>
+
+          </div>
+
+        </div>
+        <!-- Card -->
+      </div><!-- col -->
+
+      <div class="col-md-6">
+        <!-- Card -->
+        <div class="card mb-5">
+
+          <!-- Card content -->
+          <div class="card-body">
+
+            <div class="pricing-header px-3 py-3 pt-md-5 pb-md-4 mx-auto text-center">
+              <h3>石本コレクションⅡ</h3>
+            </div>
+
+            <table class="table table-hover table-bordered" id="table01">
+              <thead id="thead02">
+                <tr id="tr02">
+                  <th></th>
+                  <th>西暦</th>
+                  <th>点数</th>
+                </tr>
+              </thead>
+              <tbody id="resourceListBody02">
+              </tbody>
+            </table>
+
+          </div>
+
+        </div>
+        <!-- Card -->
+      </div><!-- col -->
+
+    </div><!-- row -->
+
+
+  </div>
+
+  <!--Footer-->
+  <footer class="page-footer text-center font-small mdb-color darken-2 mt-4 fadeIn">
+
+    <!--Copyright-->
+    <div class="footer-copyright py-5">
+      <a href="https://researchmap.jp/nakamura.satoru/?lang=english">Satoru Nakamura</a>. CC BY.
+    </div>
+    <!--/.Copyright-->
+
+  </footer>
+  <!--/.Footer-->
+
+
+  <script
+  src="//code.jquery.com/jquery-3.3.1.min.js"
+  integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8="
+  crossorigin="anonymous"></script>
+  <script src="//maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+
+  <script type="text/javascript" src="https://cdn.datatables.net/1.10.15/js/jquery.dataTables.min.js"></script>
+
+
+  <script src="//code.highcharts.com/highcharts.js"></script>
+
+  <script>
+  jQuery(document).ready(function() {
+
+    jQuery.ajaxSetup({
+      cache : false
+    });
+
+    search()
+    search2()
+    timeline()
+    timeline2()
+
+  });
+
+  function search() {
+
+    var query = " PREFIX o: <http://omeka.org/s/vocabs/o#> ";
+    query += " SELECT ?subject (count(?subject) AS ?c) ";
+    query += " where { ";
+
+    query += " optional { ?s dcterms:subject ?subject . } ";
+    //query += " ?s <http://purl.org/utrepo/terms#subject> '石本コレクション' . ";
+    query += " ?s o:item_set <https://iiif.dl.itc.u-tokyo.ac.jp/repo/api/item_sets/56014> ";
+    query += " } group by ?subject "
+
+
+    var total = 0;
+
+    $.ajax({
+      url:'https://dydra.com/ut-digital-archives/lod_test/sparql',
+      type:'POST',
+      data:{
+        query : query,
+        format : "json"
+      }
+    })
+    // Ajaxリクエストが成功した時発動
+    .done( (data) => {
+      var result = data.results.bindings;
+      var tmp = new Array();
+
+      var tbody = $("#resourceListBody");
+
+      for (var i = 0; i < result.length; i++) {
+        var obj = result[i];
+
+        var subject = obj.subject.value;
+        var c = Number(obj.c.value);
+
+        var item = new Object();
+        item.name = subject;
+        item.y = c;
+        tmp.push(item)
+        total += item.y;
+
+        var tr = $("<tr>");
+        tbody.append(tr);
+
+        var td = $("<td>");
+        tr.append(td);
+
+        td = $("<td>");
+        tr.append(td);
+        td.append(subject);
+
+        td = $("<td>");
+        tr.append(td);
+        td.append(c);
+      }
+
+      $("#total").text(total);
+
+      if(tmp.length > 1){
+
+        // Build the chart
+        Highcharts.chart('container2', {
+          chart: {
+            plotBackgroundColor: null,
+            plotBorderWidth: null,
+            plotShadow: false,
+            type: 'pie'
+          },
+          title: {
+            text: ''
+          },
+          tooltip: {
+            pointFormat: '{series.name}: <b>{point.percentage:.1f}%</b>'
+          },
+          plotOptions: {
+            pie: {
+              allowPointSelect: true,
+              cursor: 'pointer',
+              dataLabels: {
+                enabled: false
+              },
+              showInLegend: true
+            }
+          },
+          series: [{
+            name: '',
+            colorByPoint: true,
+            data: tmp
+          }]
+        });
+
+      }
+
+      // DataTable
+      var table = $('#table').DataTable({
+        "iDisplayLength" : 25,
+        "order" : [ [ 2, "desc" ] ]
+      });
+
+      table.on('order.dt search.dt', function() {
+        table.column(0, {
+          search : 'applied',
+          order : 'applied'
+        }).nodes().each(function(cell, i) {
+          cell.innerHTML = i + 1;
+        });
+      }).draw();
+    })
+    // Ajaxリクエストが失敗した時発動
+    .fail( (data) => {
+      alert(data.statusText);
+    })
+    // Ajaxリクエストが成功・失敗どちらでも発動
+    .always( (data) => {
+      $("#loading").empty()
+    });
+  }
+
+  function search2() {
+
+    var query = " PREFIX o: <http://omeka.org/s/vocabs/o#> ";
+    query += " SELECT ?subject (count(?subject) AS ?c) ";
+    query += " where { ";
+
+    query += " optional { ?s dcterms:subject ?subject . } ";
+    //query += " ?s <http://purl.org/utrepo/terms#subject> '石本コレクション' . ";
+    query += " ?s o:item_set <https://iiif.dl.itc.u-tokyo.ac.jp/repo/api/item_sets/91523> ";
+    query += " } group by ?subject "
+
+
+    var total = 0;
+
+    $.ajax({
+      url:'https://dydra.com/ut-digital-archives/lod_test/sparql',
+      type:'POST',
+      data:{
+        query : query,
+        format : "json"
+      }
+    })
+    // Ajaxリクエストが成功した時発動
+    .done( (data) => {
+      var result = data.results.bindings;
+      var tmp = new Array();
+
+      var tbody = $("#resourceListBody2");
+
+      for (var i = 0; i < result.length; i++) {
+        var obj = result[i];
+
+        var subject = obj.subject.value;
+        var c = Number(obj.c.value);
+
+        var item = new Object();
+        item.name = subject;
+        item.y = c;
+        tmp.push(item)
+        total += item.y;
+
+        var tr = $("<tr>");
+        tbody.append(tr);
+
+        var td = $("<td>");
+        tr.append(td);
+
+        td = $("<td>");
+        tr.append(td);
+        td.append(subject);
+
+        td = $("<td>");
+        tr.append(td);
+        td.append(c);
+      }
+
+      $("#total2").text(total);
+
+      if(tmp.length > 1){
+
+        // Build the chart
+        Highcharts.chart('container2_2', {
+          chart: {
+            plotBackgroundColor: null,
+            plotBorderWidth: null,
+            plotShadow: false,
+            type: 'pie'
+          },
+          title: {
+            text: ''
+          },
+          tooltip: {
+            pointFormat: '{series.name}: <b>{point.percentage:.1f}%</b>'
+          },
+          plotOptions: {
+            pie: {
+              allowPointSelect: true,
+              cursor: 'pointer',
+              dataLabels: {
+                enabled: false
+              },
+              showInLegend: true
+            }
+          },
+          series: [{
+            name: '',
+            colorByPoint: true,
+            data: tmp
+          }]
+        });
+
+      }
+
+      // DataTable
+      var table = $('#table2').DataTable({
+        "iDisplayLength" : 25,
+        "order" : [ [ 2, "desc" ] ]
+      });
+
+      table.on('order.dt search.dt', function() {
+        table.column(0, {
+          search : 'applied',
+          order : 'applied'
+        }).nodes().each(function(cell, i) {
+          cell.innerHTML = i + 1;
+        });
+      }).draw();
+    })
+    // Ajaxリクエストが失敗した時発動
+    .fail( (data) => {
+      alert(data.statusText);
+    })
+    // Ajaxリクエストが成功・失敗どちらでも発動
+    .always( (data) => {
+      $("#loading2").empty()
+    });
+  }
+
+  function timeline(){
+
+    var query = " PREFIX o: <http://omeka.org/s/vocabs/o#> \r\n";
+    query += " PREFIX uterms: <http://purl.org/utrepo/terms#> \r\n";
+    query += " SELECT ?subject ?date (count(?subject) AS ?c) \r\n";
+    query += " where { \r\n";
+
+    query += " optional { ?s dcterms:subject ?subject . } \r\n";
+    query += " ?s uterms:year ?date . \r\n";
+    query += " ?s o:item_set <https://iiif.dl.itc.u-tokyo.ac.jp/repo/api/item_sets/56014> \r\n";
+    query += " } group by ?subject ?date order by ?date \r\n";
+
+
+    var total = 0;
+
+    $.ajax({
+      url:'https://dydra.com/ut-digital-archives/lod_test/sparql',
+      type:'POST',
+      data:{
+        query : query,
+        format : "json"
+      }
+    })
+    // Ajaxリクエストが成功した時発動
+    .done( (data) => {
+      var result = data.results.bindings;
+
+      var tmp = new Array();
+
+      var tbody = $("#resourceListBody");
+
+      var hist = new Object();
+      var subjects = new Array();
+
+      for (var i = 0; i < result.length; i++) {
+        var obj = result[i];
+
+        var subject = obj.subject.value;
+        var c = Number(obj.c.value);
+        var date = obj.date.value;
+
+        if(!hist[date]){
+          hist[date] = new Object();
+        }
+        hist[date][subject] = c;
+
+        if(subjects.indexOf(subject) == -1){
+          subjects.push(subject)
+        }
+
+      }
+
+      //['Apples', 'Oranges', 'Pears', 'Grapes', 'Bananas']
+      categories = new Array();
+      for(key in hist){
+        categories.push(key)
+      }
+
+      series = new Array();
+      for(var i = 0; i < subjects.length; i++){
+        var subject = subjects[i];
+        var obj = new Object()
+        series.push(obj)
+        obj.name = subject
+        var array = new Array();
+        obj.data = array;
+
+        for(key in hist){
+          tmp = hist[key]
+          if(tmp[subject]){
+            array.push(tmp[subject])
+          } else {
+            array.push(0)
+          }
+        }
+      }
+
+      Highcharts.chart('container01', {
+        chart: {
+          type: 'column'
+        },
+        title: {
+          text: '石本コレクションⅠ'
+        },
+        xAxis: {
+          categories: categories
+        },
+        yAxis: {
+          min: 0,
+          title: {
+            text: 'Frequency'
+          },
+          stackLabels: {
+            enabled: true,
+            style: {
+              fontWeight: 'bold',
+              color: (Highcharts.theme && Highcharts.theme.textColor) || 'gray'
+            }
+          }
+        },
+        legend: {
+          align: 'right',
+          x: -30,
+          verticalAlign: 'top',
+          y: 25,
+          floating: true,
+          backgroundColor: (Highcharts.theme && Highcharts.theme.background2) || 'white',
+          borderColor: '#CCC',
+          borderWidth: 1,
+          shadow: false
+        },
+        tooltip: {
+          headerFormat: '<b>{point.x}</b><br/>',
+          pointFormat: '{series.name}: {point.y}<br/>Total: {point.stackTotal}'
+        },
+        plotOptions: {
+          column: {
+            stacking: 'normal',
+            dataLabels: {
+              enabled: true,
+              color: (Highcharts.theme && Highcharts.theme.dataLabelsColor) || 'white'
+            }
+          }
+        },
+        series: series
+      });
+
+      for(var i = 0; i < subjects.length; i++){
+        th = $("<th>");
+        $("#tr01").append(th);
+        th.append(subjects[i]);
+      }
+
+
+      for(key in hist){
+
+        map = hist[key]
+
+        tr = $("<tr>");
+        $("#resourceListBody01").append(tr);
+
+        td = $("<td>");
+        tr.append(td);
+
+        td = $("<td>");
+        tr.append(td);
+        td.append(key);
+
+        td_total = $("<td>");
+        tr.append(td_total);
+
+        size = 0
+
+        for(var i = 0; i < subjects.length; i++){
+          subject = subjects[i];
+          td = $("<td>");
+          tr.append(td);
+          if(map[subject]){
+            td.append(map[subject])
+            size += map[subject]
+          }
+        }
+
+        td_total.append(size);
+      }
+
+
+    })
+    // Ajaxリクエストが失敗した時発動
+    .fail( (data) => {
+      alert(data.statusText);
+    })
+    // Ajaxリクエストが成功・失敗どちらでも発動
+    .always( (data) => {
+      $("#loading").empty()
+    });
+
+
+  }
+
+  function timeline2(){
+
+    var query = " PREFIX o: <http://omeka.org/s/vocabs/o#> \r\n";
+    query += " PREFIX uterms: <http://purl.org/utrepo/terms#> \r\n";
+    query += " SELECT ?subject ?date (count(?subject) AS ?c) \r\n";
+    query += " where { \r\n";
+
+    query += " optional { ?s dcterms:subject ?subject . } \r\n";
+    query += " ?s uterms:year ?date . \r\n";
+    query += " ?s o:item_set <https://iiif.dl.itc.u-tokyo.ac.jp/repo/api/item_sets/91523> \r\n";
+    query += " } group by ?subject ?date order by ?date \r\n";
+
+
+    var total = 0;
+
+    $.ajax({
+      url:'https://dydra.com/ut-digital-archives/lod_test/sparql',
+      type:'POST',
+      data:{
+        query : query,
+        format : "json"
+      }
+    })
+    // Ajaxリクエストが成功した時発動
+    .done( (data) => {
+      var result = data.results.bindings;
+
+      var tmp = new Array();
+
+      var tbody = $("#resourceListBody");
+
+      var hist = new Object();
+      var subjects = new Array();
+
+      for (var i = 0; i < result.length; i++) {
+        var obj = result[i];
+
+        var subject = obj.subject.value;
+        var c = Number(obj.c.value);
+        var date = obj.date.value;
+
+        if(!hist[date]){
+          hist[date] = new Object();
+        }
+        hist[date][subject] = c;
+
+        if(subjects.indexOf(subject) == -1){
+          subjects.push(subject)
+        }
+
+      }
+
+      //['Apples', 'Oranges', 'Pears', 'Grapes', 'Bananas']
+      categories = new Array();
+      for(key in hist){
+        categories.push(key)
+      }
+
+      series = new Array();
+      for(var i = 0; i < subjects.length; i++){
+        var subject = subjects[i];
+        var obj = new Object()
+        series.push(obj)
+        obj.name = subject
+        var array = new Array();
+        obj.data = array;
+
+        for(key in hist){
+          tmp = hist[key]
+          if(tmp[subject]){
+            array.push(tmp[subject])
+          } else {
+            array.push(0)
+          }
+        }
+      }
+
+      Highcharts.chart('container02', {
+        chart: {
+          type: 'column'
+        },
+        title: {
+          text: '石本コレクションⅡ'
+        },
+        xAxis: {
+          categories: categories
+        },
+        yAxis: {
+          min: 0,
+          title: {
+            text: 'Frequency'
+          },
+          stackLabels: {
+            enabled: true,
+            style: {
+              fontWeight: 'bold',
+              color: (Highcharts.theme && Highcharts.theme.textColor) || 'gray'
+            }
+          }
+        },
+        legend: {
+          align: 'right',
+          x: -30,
+          verticalAlign: 'top',
+          y: 25,
+          floating: true,
+          backgroundColor: (Highcharts.theme && Highcharts.theme.background2) || 'white',
+          borderColor: '#CCC',
+          borderWidth: 1,
+          shadow: false
+        },
+        tooltip: {
+          headerFormat: '<b>{point.x}</b><br/>',
+          pointFormat: '{series.name}: {point.y}<br/>Total: {point.stackTotal}'
+        },
+        plotOptions: {
+          column: {
+            stacking: 'normal',
+            dataLabels: {
+              enabled: true,
+              color: (Highcharts.theme && Highcharts.theme.dataLabelsColor) || 'white'
+            }
+          }
+        },
+        series: series
+      });
+
+      for(var i = 0; i < subjects.length; i++){
+        th = $("<th>");
+        $("#tr02").append(th);
+        th.append(subjects[i]);
+      }
+
+
+      for(key in hist){
+
+        map = hist[key]
+
+        tr = $("<tr>");
+        $("#resourceListBody02").append(tr);
+
+        td = $("<td>");
+        tr.append(td);
+
+        td = $("<td>");
+        tr.append(td);
+        td.append(key);
+
+        td_total = $("<td>");
+        tr.append(td_total);
+
+        size = 0
+
+        for(var i = 0; i < subjects.length; i++){
+          subject = subjects[i];
+          td = $("<td>");
+          tr.append(td);
+          if(map[subject]){
+            td.append(map[subject])
+            size += map[subject]
+          }
+        }
+
+        td_total.append(size);
+      }
+
+
+    })
+    // Ajaxリクエストが失敗した時発動
+    .fail( (data) => {
+      alert(data.statusText);
+    })
+    // Ajaxリクエストが成功・失敗どちらでも発動
+    .always( (data) => {
+      $("#loading").empty()
+    });
+
+
+  }
+</script>
+</body>
+</html>
