@@ -50,7 +50,7 @@ while (flg):
 
 collection = {}
 collection["@context"] = "http://iiif.io/api/presentation/2/context.json"
-collection["@id"] = "https://nakamura196.github.io/portal_pro/data/collection_hierarchical.json"
+collection["@id"] = "https://nakamura196.github.io/portal_pro/data/collection.json"
 collection["@type"] = "sc:Collection"
 collection["label"] = "UTokyo Academic Archives Portal IIIF Collection"
 
@@ -77,5 +77,5 @@ for attribution in map:
               hashlib.md5(attribution.encode('utf-8')).hexdigest() + ".json", 'w')
     json.dump(all, fw, ensure_ascii=False, indent=4, sort_keys=True, separators=(',', ': '))
 
-fw2 = open("../../docs/data/collection_hierarchical.json", 'w')
+fw2 = open("../../docs/data/collection.json", 'w')
 json.dump(collection, fw2, ensure_ascii=False, indent=4, sort_keys=True, separators=(',', ': '))
