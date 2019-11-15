@@ -14,11 +14,12 @@ while (flg):
 
     sparql = SPARQLWrapper(endpoint='https://sparql.dl.itc.u-tokyo.ac.jp', returnFormat='json')
     sparql.setQuery("""
-      SELECT DISTINCT ?url ?label ?provider_label ?thumb WHERE {
+      SELECT DISTINCT ?url ?label ?provider_label ?thumb ?rights WHERE {
       ?s <http://purl.org/dc/terms/title> ?label .
       ?s <http://purl.org/dc/terms/identifier> ?url. ?url rdf:type <http://iiif.io/api/presentation/2#Manifest> .
       ?s <http://ndl.go.jp/dcndl/terms/digitizedPublisher> ?provider_label . filter(LANG(?provider_label) = 'ja')
       ?s <http://xmlns.com/foaf/0.1/thumbnail> ?thumb . 
+      ?s <http://purl.org/dc/terms/rights> ?rights . 
     } limit 10000 offset """ + str(10000 * page) + """
     """)
 
@@ -41,6 +42,8 @@ while (flg):
         manifest_obj["@id"] = manifest
         manifest_obj["@type"] = "sc:Manifest"
         manifest_obj["label"] = label
+        manifest_obj["license"] = obj["rights"]["value"]
+
 
         if "thumb" in obj:
             manifest_obj["thumbnail"] = obj["thumb"]["value"]

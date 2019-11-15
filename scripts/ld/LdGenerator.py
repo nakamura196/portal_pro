@@ -4,15 +4,18 @@ import json
 import argparse
 import urllib.request
 from rdflib import URIRef, BNode, Literal, Graph
+import time
+import os
+import requests
 
-api_url = "https://da.dl.itc.u-tokyo.ac.jp/portal/search?_format=json&page="
+api_url = "https://da.dl.itc.u-tokyo.ac.jp/portal/search?items_per_page=200&_format=json&page="
 
 output_path = "data_all.json"
 
 collection = []
 
 loop_flg = True
-page = 1
+page = 503
 
 while loop_flg:
     url = api_url + str(
@@ -29,34 +32,27 @@ while loop_flg:
 
     if len(data) > 0:
         for i in range(len(data)):
-            url_i = data[i]["id"].replace("jaassets", "ja/assets")
+            if i % 20 == 0:
+                print(i)
+            url_i = data[i]["id"]
 
-            try:
-                request_i = urllib.request.Request(url_i)
+            opath = "tmp/"+url_i.split("/")[-1].split("?")[0]+".json"
+
+            if not os.path.exists(opath):
+
                 try:
-                    response_i = urllib.request.urlopen(request_i)
 
-                    response_body_i = response_i.read().decode("utf-8")
-                    data_i = json.loads(response_body_i)
+                    headers = {"content-type": "application/json"}
+                    r = requests.get(url_i, headers=headers)
+                    data_i = r.json()
 
-                    collection.append(data_i)
+                    fw = open(opath, 'w')
+                    json.dump(data_i, fw, ensure_ascii=False, indent=4, sort_keys=True, separators=(',', ': '))
+                
                 except:
-                    print(url_i)
-            except:
-                print(url_i)
+                    time.sleep(0.1)
+                    print("err\t"+url_i)
 
     else:
         loop_flg = False
-
-fw = open(output_path, 'w')
-json.dump(collection, fw, ensure_ascii=False, indent=4, sort_keys=True, separators=(',', ': '))
-
-ld_str = json.dumps(collection)
-
-g = Graph().parse(data=ld_str, format='json-ld')
-
-# g.serialize(format='n3', destination=output_path.replace(".json", ".n3"))
-# g.serialize(format='nt', destination=output_path.replace(".json", ".nt"))
-# g.serialize(format='turtle', destination=output_path.replace(".json", ".ttl"))
-g.serialize(format='pretty-xml', destination=output_path.replace(".json", ".rdf"))
 
