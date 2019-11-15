@@ -26,8 +26,17 @@ for i in range(len(files)):
         if "dcterms:identifier" not in data or "foaf:thumbnail" not in data:
             continue
 
+        manifest = ""
+        ids = data["dcterms:identifier"]
+        for id in ids:
+            if id["@type"] == "http://iiif.io/api/presentation/2#Manifest": # DOIの場合あり
+                manifest = id["@id"]
+
+        if manifest == "":
+            continue
+
         manifest_obj = {}
-        manifest_obj["@id"] = data["dcterms:identifier"][0]["@id"]
+        manifest_obj["@id"] = manifest
         manifest_obj["@type"] = "sc:Manifest"
         manifest_obj["label"] = data["dcterms:title"]
 
