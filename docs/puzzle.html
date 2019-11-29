@@ -1,367 +1,422 @@
----
-title: Puzzle
-layout: default
----
+<!DOCTYPE html>
+<html lang="ja">
 
+<head>
+  <meta property="og:site_name" content="Puzzle | UTokyo Academic Archives Portal Apps" />
+  <meta property="og:title" content="Puzzle | UTokyo Academic Archives Portal Apps" />
+  <meta name="description" content="東京大学学術資産等アーカイブズポータル（アーカイブズポータル）が提供するAPIを用いた可視化例を紹介するサイトです。">
+  <meta property="og:description" content="東京大学学術資産等アーカイブズポータル（アーカイブズポータル）が提供するAPIを用いた可視化例を紹介するサイトです。" />
+  <meta property="og:url" content="http://localhost:4000" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <meta property="og:locale" content="ja_JP" />
+  <meta property="og:type" content="website" />
+  <meta property="og:image" content="https://nakamura196.github.io/portal_pro/assets/images/default.png" />
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="image_src" content="https://nakamura196.github.io/portal_pro/assets/images/default.png">
+  <link rel="image_src" href="https://nakamura196.github.io/portal_pro/assets/images/default.png" />
+  <link rel="shortcut icon" href="./assets/images/favicon.ico">
+  <title>Puzzle | UTokyo Academic Archives Portal Apps</title>
 
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.0/css/solid.css"
+    integrity="sha384-r/k8YTFqmlOaqRkZuSiE9trsrDXkh07mRaoGBMoDcmA58OHILZPsk29i2BsFng1B" crossorigin="anonymous">
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.0/css/fontawesome.css"
+    integrity="sha384-4aon80D8rXCGx9ayDt85LbyUHeMWd3UiBaWliBlJ53yzm9hqN21A+o1pqoyK04h+" crossorigin="anonymous">
 
-<script src="assets/js/ios-drag-drop.js"></script>
-
-
-
-<script language="JavaScript">
-
-  function getParam(name, url) {
-    if (!url) url = window.location.href;
-    name = name.replace(/[\[\]]/g, "\\$&");
-    var regex = new RegExp("[?&]" + name + "(=([^&#]*)|&|#|$)"),
-      results = regex.exec(url);
-    if (!results) return null;
-    if (!results[2]) return '';
-    return decodeURIComponent(results[2].replace(/\+/g, " "));
-  }
-
-  function search() {
-
-    q = getParam("q")
-
-    if (q != null) {
-      $("#q").val(q);
-      exec(q)
-    } else {
-
-      $("#puzzle_list").empty()
-
-      loadManifest("https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/c416f868-754f-4fed-9974-6ba911e2c0ba/manifest");
-      loadManifest("https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/5061e0fa-b328-431f-a95e-7b417137335b/manifest");
-      loadManifest("https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/3d6550cb-2cd7-4188-96c1-4a5fdb487fed/manifest");
-      /*
-      loadManifest("http://manifests.britishart.yale.edu/manifest/34");
-      loadManifest("http://oculus.harvardx.harvard.edu/manifests/huam:299843");
-      loadManifest("https://iiif.archivelab.org/iiif/mma_irises_436528/manifest.json");
-      loadManifest("http://purl.stanford.edu/cr853gt5311/iiif/manifest.json");
-      loadManifest("https://purl.stanford.edu/ch264fq0568/iiif/manifest.json");
-      loadManifest("http://manifests.britishart.yale.edu/manifest/1474");
-      */
-
-    }
-  };
-
-  function exec(q) {
-    var query = " select distinct ?manifest  ";
-    query += " WHERE { ";
-    query += " { ";
-    query += " ?s ?p ?o . ?o bif:contains '\"" + q + "\"' . ";
-    query += " } UNION { ";
-    query += " ?s ?p ?o . filter (?s = <" + q + "> ) . ";
-    query += " } ";
-    query += " ?s <http://purl.org/dc/terms/identifier> ?manifest . ";
-    query += " } limit 10 ";
-
-    $.ajax({
-      url: "https://sparql.dl.itc.u-tokyo.ac.jp",
-      type: 'GET',
-      data: {
-        query: query,
-        format: "json"
-      }
-    })
-      .then(
-        // 1つめは通信成功時のコールバック
-        function (data) {
-
-          var result = data.results.bindings;
-
-          $("#puzzle_list").empty()
-
-          if (result.length == 0) {
-            $("#puzzle_list").append("No results.")
-          }
-
-          for (var i = 0; i < result.length; i++) {
-            var obj = result[i];
-            loadManifest(obj.manifest.value);
-          }
-        }
-      )
-  }
-
-  var tiles = [],
-    locations = [],
-    images = [],
-    grid_size = 5,
-    grid_tile_width = 1000 / grid_size,
-    grid_tile_height = 0;
-
-
-  function dragStart(event) {
-    var parent = $(event.target).parent();
-    event.originalEvent.dataTransfer.setData("text/plain", parent[0].id);
-  }
-
-  function handleDrop(event) {
-    event.preventDefault();
-    var source_div_id = event.originalEvent.dataTransfer.getData("text/plain");
-    var source_div = $("#" + source_div_id);
-    var target_div = $(event.currentTarget);
-    var source_img = source_div.find('img');
-    var target_img = target_div.find('img');
-    source_div.append(target_img);
-    target_div.append(source_img);
-    if (isPuzzleComplete()) { showPuzzleDone(true); }
-  }
-
-  function allowDrop(event) {
-    event.preventDefault();
-  }
-
-  function showPuzzle(show) {
-    if (show) {
-      $("#puzzle").css("visibility", "visible");
-      $("#puzzle-home").css("visibility", "hidden");
-    } else {
-      $("#puzzle").css("visibility", "hidden");
-      $("#puzzle-home").css("visibility", "visible");
-      $(".btn-puzzle-done").css("display", "none");
-      $(".btn-stop-puzzle").css("display", "none");
-    }
-  }
-
-  function showPuzzleDone(show) {
-    if (show) {
-      $(".btn-puzzle-done").css("visibility", "visible");
-      $(".btn-puzzle-done").css("display", "inline");
-      $(".btn-stop-puzzle").css("visibility", "hidden");
-      $(".btn-stop-puzzle").css("display", "none");
-    } else {
-      $(".btn-puzzle-done").css("visibility", "hidden");
-      $(".btn-puzzle-done").css("display", "none");
-      $(".btn-stop-puzzle").css("visibility", "visible");
-      $(".btn-stop-puzzle").css("display", "inline");
-    }
-  }
-
-  function initializePuzzleGrid() {
-    tiles = [];
-    locations = [];
-    grid_size = 5;
-
-
-    $("#puzzle_grid").empty();
-  }
-
-  $(document).ready(function () {
-    showPuzzle(false);
-    search()
-  });
-
-  function loadManifest(manifest_uri) {
-    $.ajax({
-      url: manifest_uri,
-      type: "GET",
-      dataType: "json"
-    })
-      .done(function (json) {
-        var manifest = [];
-        var sequence = json.sequences[0];
-        var canvas = sequence.canvases[0];
-        var image = canvas.images[0];
-        manifest.id = json["@id"];
-        manifest.image_service = image.resource.service;
-        manifest.image_service_uri = manifest.image_service["@id"];
-        if (!manifest.image_service_uri.endsWith("/")) {
-          manifest.image_service_uri = manifest.image_service_uri + "/";
-        }
-        manifest.image_service_profile = manifest.image_service["profile"];
-        manifest.image_quality = "default.jpg";
-        if (manifest.image_service_profile.startsWith("http://library.stanford.edu/iiif/image-api/1")) {
-          manifest.image_quality = "native.jpg";
-        }
-        manifest.label = json.label;
-        manifest.attribution = json.attribution || "";
-        manifest.logo = json.logo;
-        manifest.rights = json.rights || "";
-        images.push(manifest);
-        addPuzzleToList(manifest);
-      });
-  }
-
-  function loadImage(id) {
-    var puzzle = lookupPuzzle(id);
-    image_base_uri = puzzle.image_service_uri;
-    image_quality = puzzle.image_quality;
-    showPuzzle(true);
-    showPuzzleDone(false);
-    initializePuzzleGrid();
-    window.scrollTo(0, 0);
-    var image_info = image_base_uri + "info.json";
-    $.ajax({
-      url: image_info,
-      type: "GET",
-      dataType: "json"
-    })
-      .done(function (json) {
-        var height = json.height - (json.height % grid_size);
-        var width = json.width - (json.width % grid_size);
-        var tile_height = Math.round(height / grid_size);
-        var tile_width = Math.round(width / grid_size);
-        var proportion = height / width;
-        var screen_width = (window.innerWidth < 1000) ? window.innerWidth : 1000;
-        var screen_height = window.innerHeight - 50;
-        if (screen_height < screen_width * proportion) {
-          screen_width = Math.floor(screen_height * (1 / proportion));
-        }
-        screen_width = Math.floor(screen_width / 100) * 100;
-        grid_tile_width = screen_width / grid_size;
-        grid_tile_height = 0;
-        if (tile_width < grid_tile_width) {
-          grid_tile_width = tile_width;
-        }
-        grid_tile_height = Math.floor(proportion * grid_tile_width);
-        for (var x = 0; x < grid_size; x++) {
-          for (var y = 0; y < grid_size; y++) {
-            var x_offset = x * tile_width;
-            var y_offset = y * tile_height;
-            var image_url = image_base_uri + x_offset + "," + y_offset + "," + tile_width + "," + tile_height + "/" + grid_tile_width + ",/0/" + image_quality;
-            var top = y * grid_tile_height;
-            var left = x * grid_tile_width;
-            tiles.push({ "x": x, "y": y, "top": top, "left": left, "image": image_url });
-            locations.push({ "x": x, "y": y, "top": top, "left": left });
-          }
-        }
-        layout_grid(grid_size, grid_tile_width, grid_tile_height);
-      });
-  }
-
-  function lookupPuzzle(id) {
-    console.log(id);
-    for (i = 0; i < images.length; i++) {
-      if (images[i].id == id) {
-        console.log("Returning " + images[i].label);
-        return images[i];
-      }
-    }
-  }
-
-  function layout_grid(grid_size, grid_tile_width, grid_tile_height) {
-    $("#puzzle_grid").css('width', Math.floor(grid_size * grid_tile_width))
-      .css("height", Math.floor(grid_size * grid_tile_height))
-      .css("background-color", "grey");
-
-    shuffle(tiles);
-
-    $.each(tiles, function position(index, tile) {
-      var location = locations[index];
-      location.tile = tile;
-      var id = location.x + "-" + location.y;
-      var image = $("<img/>", { src: tile.image, id: "img-" + tile.x + "-" + tile.y });
-      image.data("x", tile.x).data("y", tile.y);
-      image.attr("draggable", "true");
-      image.on("dragstart", function (event) {
-        dragStart(event);
-      });
-      var div = $("<div/>", { id: id }).append(image);
-      div.data("x", location.x).data("y", location.y);
-      div.on("dragover", function (event) {
-        allowDrop(event);
-      });
-      div.on("drop", function (event) {
-        handleDrop(event);
-      });
-      $("#puzzle_grid").append(div);
-      div.css("position", "absolute")
-        .css("left", location.left)
-        .css("top", location.top);
-    })
-  }
-
-  function addPuzzleToList(puzzle) {
-    var image_url = puzzle.image_service_uri + "full/600,/0/" + puzzle.image_quality;
-    var div = $("<div/>", { class: "row puzzle-list-entry mb-5" });
-    var button = $("<button/>", { class: "btn btn-primary btn-puzzle-start" });
-    button.text("Start");
-    button.on("click", function () { loadImage(puzzle.id) });
-    var link = $("<div/>", { class: "col-3" });
-    link.on("click", function () { loadImage(puzzle.id) });
-    var img = $("<img/>", { class: "img-thumbnail img-responsive", src: image_url });
-    var text = $("<div/>", { class: "col-9" });
-    var label = $("<p>" + puzzle.label + "</p>");
-    var credit = $("<p>" + puzzle.attribution + " " + puzzle.rights + "</p>");
-    link.append(img);
-    div.append(link);
-    text.append(label);
-    text.append(credit);
-    text.append(button);
-    div.append(text);
-    $("#puzzle_list").append(div);
-  }
-
-  function isPuzzleComplete() {
-    var complete = true;
-    $("#puzzle_grid div").each(function (index, tile) {
-      var tile_x = $(tile).data("x");
-      var tile_y = $(tile).data("y");
-      var image = $(tile).find("img");
-      var image_x = $(image).data("x");
-      var image_y = $(image).data("y");
-      if ((tile_x != image_x) || (tile_y != image_y)) { complete = false; }
-    });
-    return complete;
-  }
-
-  function shuffle(array) {
-    var i = 0, j = 0, temp = null
-
-    for (i = array.length - 1; i > 0; i -= 1) {
-      j = Math.floor(Math.random() * (i + 1))
-      temp = array[i]
-      array[i] = array[j]
-      array[j] = temp
-    }
-  }
-
-</script>
-
-<style>
-  #puzzle {
-    position: absolute;
-    top: 20px;
-    left: 10px;
-  }
-</style>
+  <link href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.0.0/css/bootstrap.min.css" rel="stylesheet">
+  <link rel="stylesheet" type="text/css" href="./assets/css/style.css" />
 
 </head>
 
-<body>
+<body id="page-top">
 
-  <div class="py-5 bg-light">
-    <div class="container" id="puzzle-home">
+  <header>
 
-      <h2 class="mb-5">パズル <small>Powered by <a href="http://puzzle.mikeapps.me/">Puzzles! Powered by IIIF</a></small>
-      </h2>
+    <!--Navbar-->
+    <nav class="navbar navbar-expand-lg navbar-light scrolling-navbar" style="background-color: white;">
+      <div class="container-fluid">
+        <a class="navbar-brand" href="https://github.com/nakamura196/portal_pro">UTokyo Digital Archives Project Pro</a>
+      </div>
+    </nav>
+    <!--/.Navbar-->
+  </header>
 
 
-      <form>
-        <div class="input-group mb-5">
-          <input class="form-control" name="q" id="q" />
-          <div class="input-group-append">
-            <button type="submit" class="btn btn-primary">実行</button>
+  <script src="https://code.jquery.com/jquery-3.3.1.min.js"
+    integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
+
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"
+    integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl"
+    crossorigin="anonymous"></script>
+
+  <script src="./assets/js/main.js"></script>
+
+  <script src="assets/js/ios-drag-drop.js"></script>
+
+
+
+
+  <script language="JavaScript">
+
+    function getParam(name, url) {
+      if (!url) url = window.location.href;
+      name = name.replace(/[\[\]]/g, "\\$&");
+      var regex = new RegExp("[?&]" + name + "(=([^&#]*)|&|#|$)"),
+        results = regex.exec(url);
+      if (!results) return null;
+      if (!results[2]) return '';
+      return decodeURIComponent(results[2].replace(/\+/g, " "));
+    }
+
+    function search() {
+
+      q = getParam("q")
+
+      if (q != null) {
+        $("#q").val(q);
+        exec(q)
+      } else {
+
+        $("#puzzle_list").empty()
+
+        loadManifest("https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/c416f868-754f-4fed-9974-6ba911e2c0ba/manifest");
+        loadManifest("https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/5061e0fa-b328-431f-a95e-7b417137335b/manifest");
+        loadManifest("https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/3d6550cb-2cd7-4188-96c1-4a5fdb487fed/manifest");
+        /*
+        loadManifest("http://manifests.britishart.yale.edu/manifest/34");
+        loadManifest("http://oculus.harvardx.harvard.edu/manifests/huam:299843");
+        loadManifest("https://iiif.archivelab.org/iiif/mma_irises_436528/manifest.json");
+        loadManifest("http://purl.stanford.edu/cr853gt5311/iiif/manifest.json");
+        loadManifest("https://purl.stanford.edu/ch264fq0568/iiif/manifest.json");
+        loadManifest("http://manifests.britishart.yale.edu/manifest/1474");
+        */
+
+      }
+    };
+
+    function exec(q) {
+      var query = " select distinct ?manifest  ";
+      query += " WHERE { ";
+      query += " { ";
+      query += " ?s ?p ?o . ?o bif:contains '\"" + q + "\"' . ";
+      query += " } UNION { ";
+      query += " ?s ?p ?o . filter (?s = <" + q + "> ) . ";
+      query += " } ";
+      query += " ?s <http://purl.org/dc/terms/identifier> ?manifest . ";
+      query += " FILTER(!regex(str(?manifest), 'uta' ) ) ";
+      query += " FILTER(!regex(str(?manifest), 'dch' ) ) ";
+      query += " FILTER(!regex(str(?manifest), 'curation' ) ) ";
+      query += " } limit 10 ";
+
+      $.ajax({
+        url: "https://sparql.dl.itc.u-tokyo.ac.jp",
+        type: 'GET',
+        data: {
+          query: query,
+          format: "json"
+        }
+      })
+        .then(
+          // 1つめは通信成功時のコールバック
+          function (data) {
+
+            var result = data.results.bindings;
+
+            $("#puzzle_list").empty()
+
+            if (result.length == 0) {
+              $("#puzzle_list").append("No results.")
+            }
+
+            for (var i = 0; i < result.length; i++) {
+              var obj = result[i];
+              loadManifest(obj.manifest.value);
+            }
+          }
+        )
+    }
+
+    var tiles = [],
+      locations = [],
+      images = [],
+      grid_size = 5,
+      grid_tile_width = 1000 / grid_size,
+      grid_tile_height = 0;
+
+
+    function dragStart(event) {
+      var parent = $(event.target).parent();
+      event.originalEvent.dataTransfer.setData("text/plain", parent[0].id);
+    }
+
+    function handleDrop(event) {
+      event.preventDefault();
+      var source_div_id = event.originalEvent.dataTransfer.getData("text/plain");
+      var source_div = $("#" + source_div_id);
+      var target_div = $(event.currentTarget);
+      var source_img = source_div.find('img');
+      var target_img = target_div.find('img');
+      source_div.append(target_img);
+      target_div.append(source_img);
+      if (isPuzzleComplete()) { showPuzzleDone(true); }
+    }
+
+    function allowDrop(event) {
+      event.preventDefault();
+    }
+
+    function showPuzzle(show) {
+      if (show) {
+        $("#puzzle").css("visibility", "visible");
+        $("#puzzle-home").css("visibility", "hidden");
+      } else {
+        $("#puzzle").css("visibility", "hidden");
+        $("#puzzle-home").css("visibility", "visible");
+        $(".btn-puzzle-done").css("display", "none");
+        $(".btn-stop-puzzle").css("display", "none");
+      }
+    }
+
+    function showPuzzleDone(show) {
+      if (show) {
+        $(".btn-puzzle-done").css("visibility", "visible");
+        $(".btn-puzzle-done").css("display", "inline");
+        $(".btn-stop-puzzle").css("visibility", "hidden");
+        $(".btn-stop-puzzle").css("display", "none");
+      } else {
+        $(".btn-puzzle-done").css("visibility", "hidden");
+        $(".btn-puzzle-done").css("display", "none");
+        $(".btn-stop-puzzle").css("visibility", "visible");
+        $(".btn-stop-puzzle").css("display", "inline");
+      }
+    }
+
+    function initializePuzzleGrid() {
+      tiles = [];
+      locations = [];
+      grid_size = 5;
+
+
+      $("#puzzle_grid").empty();
+    }
+
+    $(document).ready(function () {
+      showPuzzle(false);
+      search()
+    });
+
+    function loadManifest(manifest_uri) {
+      $.ajax({
+        url: manifest_uri,
+        type: "GET",
+        dataType: "json"
+      })
+        .done(function (json) {
+          var manifest = [];
+          var sequence = json.sequences[0];
+          var canvas = sequence.canvases[0];
+          var image = canvas.images[0];
+          manifest.id = json["@id"];
+          manifest.image_service = image.resource.service;
+          manifest.image_service_uri = manifest.image_service["@id"];
+          if (!manifest.image_service_uri.endsWith("/")) {
+            manifest.image_service_uri = manifest.image_service_uri + "/";
+          }
+          manifest.image_service_profile = manifest.image_service["profile"];
+          manifest.image_quality = "default.jpg";
+          if (manifest.image_service_profile.startsWith("http://library.stanford.edu/iiif/image-api/1")) {
+            manifest.image_quality = "native.jpg";
+          }
+          manifest.label = json.label;
+          manifest.attribution = json.attribution || "";
+          manifest.logo = json.logo;
+          manifest.rights = json.rights || "";
+          images.push(manifest);
+          addPuzzleToList(manifest);
+        });
+    }
+
+    function loadImage(id) {
+      var puzzle = lookupPuzzle(id);
+      image_base_uri = puzzle.image_service_uri;
+      image_quality = puzzle.image_quality;
+      showPuzzle(true);
+      showPuzzleDone(false);
+      initializePuzzleGrid();
+      window.scrollTo(0, 0);
+      var image_info = image_base_uri + "info.json";
+      $.ajax({
+        url: image_info,
+        type: "GET",
+        dataType: "json"
+      })
+        .done(function (json) {
+          var height = json.height - (json.height % grid_size);
+          var width = json.width - (json.width % grid_size);
+          var tile_height = Math.round(height / grid_size);
+          var tile_width = Math.round(width / grid_size);
+          var proportion = height / width;
+          var screen_width = (window.innerWidth < 1000) ? window.innerWidth : 1000;
+          var screen_height = window.innerHeight - 50;
+          if (screen_height < screen_width * proportion) {
+            screen_width = Math.floor(screen_height * (1 / proportion));
+          }
+          screen_width = Math.floor(screen_width / 100) * 100;
+          grid_tile_width = screen_width / grid_size;
+          grid_tile_height = 0;
+          if (tile_width < grid_tile_width) {
+            grid_tile_width = tile_width;
+          }
+          grid_tile_height = Math.floor(proportion * grid_tile_width);
+          for (var x = 0; x < grid_size; x++) {
+            for (var y = 0; y < grid_size; y++) {
+              var x_offset = x * tile_width;
+              var y_offset = y * tile_height;
+              var image_url = image_base_uri + x_offset + "," + y_offset + "," + tile_width + "," + tile_height + "/" + grid_tile_width + ",/0/" + image_quality;
+              var top = y * grid_tile_height;
+              var left = x * grid_tile_width;
+              tiles.push({ "x": x, "y": y, "top": top, "left": left, "image": image_url });
+              locations.push({ "x": x, "y": y, "top": top, "left": left });
+            }
+          }
+          layout_grid(grid_size, grid_tile_width, grid_tile_height);
+        });
+    }
+
+    function lookupPuzzle(id) {
+      console.log(id);
+      for (i = 0; i < images.length; i++) {
+        if (images[i].id == id) {
+          console.log("Returning " + images[i].label);
+          return images[i];
+        }
+      }
+    }
+
+    function layout_grid(grid_size, grid_tile_width, grid_tile_height) {
+      $("#puzzle_grid").css('width', Math.floor(grid_size * grid_tile_width))
+        .css("height", Math.floor(grid_size * grid_tile_height))
+        .css("background-color", "grey");
+
+      shuffle(tiles);
+
+      $.each(tiles, function position(index, tile) {
+        var location = locations[index];
+        location.tile = tile;
+        var id = location.x + "-" + location.y;
+        var image = $("<img/>", { src: tile.image, id: "img-" + tile.x + "-" + tile.y });
+        image.data("x", tile.x).data("y", tile.y);
+        image.attr("draggable", "true");
+        image.on("dragstart", function (event) {
+          dragStart(event);
+        });
+        var div = $("<div/>", { id: id }).append(image);
+        div.data("x", location.x).data("y", location.y);
+        div.on("dragover", function (event) {
+          allowDrop(event);
+        });
+        div.on("drop", function (event) {
+          handleDrop(event);
+        });
+        $("#puzzle_grid").append(div);
+        div.css("position", "absolute")
+          .css("left", location.left)
+          .css("top", location.top);
+      })
+    }
+
+    function addPuzzleToList(puzzle) {
+      var image_url = puzzle.image_service_uri + "full/600,/0/" + puzzle.image_quality;
+      var div = $("<div/>", { class: "row puzzle-list-entry mb-5" });
+      var button = $("<button/>", { class: "btn btn-primary btn-puzzle-start" });
+      button.text("Start");
+      button.on("click", function () { loadImage(puzzle.id) });
+      var link = $("<div/>", { class: "col-3" });
+      link.on("click", function () { loadImage(puzzle.id) });
+      var img = $("<img/>", { class: "img-thumbnail img-responsive", src: image_url });
+      var text = $("<div/>", { class: "col-9" });
+      var label = $("<p>" + puzzle.label + "</p>");
+      var credit = $("<p>" + puzzle.attribution + " " + puzzle.rights + "</p>");
+      link.append(img);
+      div.append(link);
+      text.append(label);
+      text.append(credit);
+      text.append(button);
+      div.append(text);
+      $("#puzzle_list").append(div);
+    }
+
+    function isPuzzleComplete() {
+      var complete = true;
+      $("#puzzle_grid div").each(function (index, tile) {
+        var tile_x = $(tile).data("x");
+        var tile_y = $(tile).data("y");
+        var image = $(tile).find("img");
+        var image_x = $(image).data("x");
+        var image_y = $(image).data("y");
+        if ((tile_x != image_x) || (tile_y != image_y)) { complete = false; }
+      });
+      return complete;
+    }
+
+    function shuffle(array) {
+      var i = 0, j = 0, temp = null
+
+      for (i = array.length - 1; i > 0; i -= 1) {
+        j = Math.floor(Math.random() * (i + 1))
+        temp = array[i]
+        array[i] = array[j]
+        array[j] = temp
+      }
+    }
+
+  </script>
+
+  <style>
+    #puzzle {
+      position: absolute;
+      top: 20px;
+      left: 10px;
+    }
+  </style>
+
+  </head>
+
+  <body>
+
+    <div class="py-5 bg-light">
+      <div class="container" id="puzzle-home">
+
+        <h2 class="mb-5">パズル <small>Powered by <a href="http://puzzle.mikeapps.me/">Puzzles! Powered by IIIF</a></small>
+        </h2>
+
+
+        <form>
+          <div class="input-group mb-5">
+            <input class="form-control" name="q" id="q" />
+            <div class="input-group-append">
+              <button type="submit" class="btn btn-primary">実行</button>
+            </div>
           </div>
+        </form>
+
+        <div id="puzzle_list" class="my-5">
+          Loading ...
         </div>
-      </form>
 
-      <div id="puzzle_list" class="my-5">
-        Loading ...
+      </div>
+
+      <div id="puzzle">
+        <div id="puzzle_grid"></div>
+        <div id="puzzle_control" class="mt-5">
+          <button class="btn btn-success btn-puzzle-done" onclick="showPuzzle(false);">Done!</button>
+          <button class="btn btn-warning btn-stop-puzzle" onclick="showPuzzle(false);">Stop</button>
+        </div>
       </div>
 
     </div>
 
-    <div id="puzzle">
-      <div id="puzzle_grid"></div>
-      <div id="puzzle_control" class="mt-5">
-        <button class="btn btn-success btn-puzzle-done" onclick="showPuzzle(false);">Done!</button>
-        <button class="btn btn-warning btn-stop-puzzle" onclick="showPuzzle(false);">Stop</button>
-      </div>
-    </div>
+    <p class="pagetop"><a href="#wrap">▲</a></p>
 
-  </div>
+  </body>
+
+</html>
