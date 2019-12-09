@@ -2,8 +2,8 @@
 
 東京大学学術資産等アーカイブズポータルの活用例です。
 
-## いろいろな利用のための材料
-* [Gallery](https://github.com/nakamura196/portal_pro/wiki/Gallery)
+* [ポータルの活用事例](https://github.com/nakamura196/portal_pro/wiki/Gallery)
+* [コレクション別活用例](https://github.com/nakamura196/portal_pro/wiki/Usage)
 
 ## ツールとSPARQLエンドポイントの情報
 * [SPARQLエンドポイント](https://sparql.dl.itc.u-tokyo.ac.jp)
