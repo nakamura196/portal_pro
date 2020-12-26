@@ -5,9 +5,9 @@
 * [ポータルの活用事例](https://github.com/nakamura196/portal_pro/wiki/Gallery)
 * [コレクション別活用例](https://github.com/nakamura196/portal_pro/wiki/Usage)
 
-## ツールとSPARQLエンドポイントの情報
-* [SPARQLエンドポイント](https://sparql.dl.itc.u-tokyo.ac.jp)
-* [Snorql for UTokyo Academic Archives Portal](https://portal-pro.dl.itc.u-tokyo.ac.jp/snorql/) - ブラウザ用SPARQLインターフェイス
+## ~~ツールとSPARQLエンドポイントの情報~~
+* ~~[SPARQLエンドポイント]~~(https://sparql.dl.itc.u-tokyo.ac.jp)
+* ~~[Snorql for UTokyo Academic Archives Portal - ブラウザ用SPARQLインターフェイス]~~(https://portal-pro.dl.itc.u-tokyo.ac.jp/snorql/)
 
 ## データセット
 * [IIIF Collection](https://github.com/nakamura196/portal_pro/blob/master/docs/data/collection.json)
