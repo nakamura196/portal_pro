@@ -1,2 +1,0 @@
-python create_iiif_collection_with_sparql.py
-python create_iiif_hierarchical_collection_with_sparql.py
