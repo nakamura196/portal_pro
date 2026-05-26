@@ -1,26 +1,100 @@
----
-layout: default
-title: Word Cloud
----
+<!doctype html>
+<html lang="ja">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Word Cloud | UTokyo Digital Archive Portal Apps</title>
+    <meta name="description" content="D3.js を用いたワードクラウドのサンプル。" />
+    <meta name="theme-color" content="#0b8bee" />
+    <link rel="canonical" href="https://nakamura196.github.io/portal_pro/wordcloud.html" />
 
-<div class="container py-2 my-5 text-center">
-  <h3 class="mb-5">Word Cloud</h3>
-  <div id='wordcloud'>
-  </div>
-</div>
-<script src="assets/thirdparty/d3-wordcloud/lib/d3/d3.js" charset="utf-8"></script>
-<script src="assets/thirdparty/d3-wordcloud/lib/d3/d3.layout.cloud.js"></script>
-<script src="assets/thirdparty/d3-wordcloud/d3.wordcloud.js"></script>
-<script src="assets/thirdparty/d3-wordcloud/example/example.words.js"></script>
-<script>
-  d3.wordcloud()
-    .size([900, 600])
-    .fill(d3.scale.ordinal().range(["#884400", "#448800", "#888800", "#444400"]))
-    .words(words)
-    .onwordclick(function (d, i) {
-      if (d.href) {
-        open(d.href, "_blank");
+    <link rel="icon" type="image/svg+xml" href="./favicon.svg" />
+    <link rel="icon" type="image/x-icon" href="./favicon.ico" sizes="any" />
+    <link rel="apple-touch-icon" href="./apple-touch-icon.png" />
+
+    <meta property="og:type" content="website" />
+    <meta property="og:site_name" content="UTokyo Digital Archive Portal Apps" />
+    <meta property="og:title" content="Word Cloud | UTokyo Digital Archive Portal Apps" />
+    <meta property="og:description" content="D3.js を用いたワードクラウドのサンプル。" />
+    <meta property="og:url" content="https://nakamura196.github.io/portal_pro/wordcloud.html" />
+    <meta property="og:image" content="https://nakamura196.github.io/portal_pro/ogp.png" />
+    <meta property="og:image:width" content="1200" />
+    <meta property="og:image:height" content="630" />
+    <meta name="twitter:card" content="summary_large_image" />
+
+    <link
+      rel="stylesheet"
+      href="https://cdn.jsdelivr.net/gh/nakamura196/react-ui@v0.4.0/src/styles/static.css"
+    />
+
+    <style>
+      #wordcloud {
+        background: var(--ds-surface);
+        border: 1px solid var(--ds-border);
+        border-radius: var(--ds-radius, 0.5rem);
+        padding: 0.5rem;
+        overflow: auto;
+        min-height: 620px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
       }
-    })
-    .start();
-</script>
+    </style>
+  </head>
+  <body>
+    <header class="ds-header">
+      <div class="ds-header__inner">
+        <a class="ds-header__brand" href="./">UTokyo Digital Archive Portal Apps</a>
+        <nav class="ds-header__nav">
+          <a class="ds-header__nav-link" href="./">Home</a>
+          <a class="ds-header__nav-link" href="https://github.com/nakamura196/portal_pro" target="_blank" rel="noopener">GitHub</a>
+        </nav>
+      </div>
+    </header>
+
+    <main class="ds-container ds-section">
+      <h1 class="ds-h1">Word Cloud</h1>
+      <p class="ds-lead">D3.js を用いたワードクラウドの描画サンプル。クリック可能な単語にはリンクが設定されます。</p>
+
+      <section class="ds-card" aria-labelledby="wc-heading">
+        <h2 id="wc-heading" class="ds-card__title">Visualization</h2>
+        <div id="wordcloud" role="img" aria-label="ワードクラウド"></div>
+      </section>
+    </main>
+
+    <footer class="ds-footer">
+      <div class="ds-footer__inner">
+        <div class="ds-footer__grid">
+          <div>
+            <p class="ds-footer__brand">UTokyo Digital Archive Portal Apps</p>
+            <p class="ds-footer__brand-desc">東京大学デジタルアーカイブポータルAPIの活用例集。</p>
+          </div>
+          <div class="ds-footer__col">
+            <h2 class="ds-footer__heading">関連リンク</h2>
+            <ul class="ds-footer__list">
+              <li><a class="ds-footer__link" href="./">Home</a></li>
+              <li><a class="ds-footer__link" href="https://github.com/nakamura196/portal_pro" target="_blank" rel="noopener">GitHub</a></li>
+              <li><a class="ds-footer__link" href="https://nakamura196.github.io/portfolio/" target="_blank" rel="noopener noreferrer">nakamura196 の他のツール</a></li>
+            </ul>
+          </div>
+        </div>
+        <div class="ds-footer__copyright">© 2019–2026 nakamura196 · CC BY 4.0</div>
+      </div>
+    </footer>
+
+    <script src="assets/thirdparty/d3-wordcloud/lib/d3/d3.js" charset="utf-8"></script>
+    <script src="assets/thirdparty/d3-wordcloud/lib/d3/d3.layout.cloud.js"></script>
+    <script src="assets/thirdparty/d3-wordcloud/d3.wordcloud.js"></script>
+    <script src="assets/thirdparty/d3-wordcloud/example/example.words.js"></script>
+    <script>
+      d3.wordcloud()
+        .size([900, 600])
+        .fill(d3.scale.ordinal().range(["#04385f", "#0b8bee", "#3ca2f1", "#ffcd00"]))
+        .words(words)
+        .onwordclick(function (d) {
+          if (d.href) open(d.href, "_blank");
+        })
+        .start();
+    </script>
+  </body>
+</html>

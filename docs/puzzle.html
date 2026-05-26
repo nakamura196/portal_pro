@@ -1,422 +1,326 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="ja">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>パズル | UTokyo Digital Archive Portal Apps</title>
+    <meta
+      name="description"
+      content="東京大学所蔵の IIIF 画像でジグソーパズルを楽しむデモ。"
+    />
+    <meta name="theme-color" content="#0b8bee" />
+    <link rel="canonical" href="https://nakamura196.github.io/portal_pro/puzzle.html" />
 
-<head>
-  <meta property="og:site_name" content="Puzzle | UTokyo Academic Archives Portal Apps" />
-  <meta property="og:title" content="Puzzle | UTokyo Academic Archives Portal Apps" />
-  <meta name="description" content="東京大学学術資産等アーカイブズポータル（アーカイブズポータル）が提供するAPIを用いた可視化例を紹介するサイトです。">
-  <meta property="og:description" content="東京大学学術資産等アーカイブズポータル（アーカイブズポータル）が提供するAPIを用いた可視化例を紹介するサイトです。" />
-  <meta property="og:url" content="http://localhost:4000" />
-  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-  <meta property="og:locale" content="ja_JP" />
-  <meta property="og:type" content="website" />
-  <meta property="og:image" content="https://nakamura196.github.io/portal_pro/assets/images/default.png" />
-  <meta name="twitter:card" content="summary_large_image">
-  <meta name="image_src" content="https://nakamura196.github.io/portal_pro/assets/images/default.png">
-  <link rel="image_src" href="https://nakamura196.github.io/portal_pro/assets/images/default.png" />
-  <link rel="shortcut icon" href="./assets/images/favicon.ico">
-  <title>Puzzle | UTokyo Academic Archives Portal Apps</title>
+    <link rel="icon" type="image/svg+xml" href="./favicon.svg" />
+    <link rel="icon" type="image/x-icon" href="./favicon.ico" sizes="any" />
+    <link rel="apple-touch-icon" href="./apple-touch-icon.png" />
 
-  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.0/css/solid.css"
-    integrity="sha384-r/k8YTFqmlOaqRkZuSiE9trsrDXkh07mRaoGBMoDcmA58OHILZPsk29i2BsFng1B" crossorigin="anonymous">
-  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.0/css/fontawesome.css"
-    integrity="sha384-4aon80D8rXCGx9ayDt85LbyUHeMWd3UiBaWliBlJ53yzm9hqN21A+o1pqoyK04h+" crossorigin="anonymous">
+    <meta property="og:type" content="website" />
+    <meta property="og:site_name" content="UTokyo Digital Archive Portal Apps" />
+    <meta property="og:title" content="パズル | UTokyo Digital Archive Portal Apps" />
+    <meta property="og:description" content="東京大学所蔵の IIIF 画像でジグソーパズルを楽しむデモ。" />
+    <meta property="og:url" content="https://nakamura196.github.io/portal_pro/puzzle.html" />
+    <meta property="og:image" content="https://nakamura196.github.io/portal_pro/ogp.png" />
+    <meta property="og:image:width" content="1200" />
+    <meta property="og:image:height" content="630" />
+    <meta name="twitter:card" content="summary_large_image" />
 
-  <link href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.0.0/css/bootstrap.min.css" rel="stylesheet">
-  <link rel="stylesheet" type="text/css" href="./assets/css/style.css" />
+    <link
+      rel="stylesheet"
+      href="https://cdn.jsdelivr.net/gh/nakamura196/react-ui@v0.4.0/src/styles/static.css"
+    />
 
-</head>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script src="./assets/js/ios-drag-drop.js"></script>
 
-<body id="page-top">
-
-  <header>
-
-    <!--Navbar-->
-    <nav class="navbar navbar-expand-lg navbar-light scrolling-navbar" style="background-color: white;">
-      <div class="container-fluid">
-        <a class="navbar-brand" href="https://github.com/nakamura196/portal_pro">UTokyo Digital Archives Project Pro</a>
-      </div>
-    </nav>
-    <!--/.Navbar-->
-  </header>
-
-
-  <script src="https://code.jquery.com/jquery-3.3.1.min.js"
-    integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
-
-  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"
-    integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl"
-    crossorigin="anonymous"></script>
-
-  <script src="./assets/js/main.js"></script>
-
-  <script src="assets/js/ios-drag-drop.js"></script>
-
-
-
-
-  <script language="JavaScript">
-
-    function getParam(name, url) {
-      if (!url) url = window.location.href;
-      name = name.replace(/[\[\]]/g, "\\$&");
-      var regex = new RegExp("[?&]" + name + "(=([^&#]*)|&|#|$)"),
-        results = regex.exec(url);
-      if (!results) return null;
-      if (!results[2]) return '';
-      return decodeURIComponent(results[2].replace(/\+/g, " "));
-    }
-
-    function search() {
-
-      q = getParam("q")
-
-      if (q != null) {
-        $("#q").val(q);
-        exec(q)
-      } else {
-
-        $("#puzzle_list").empty()
-
-        loadManifest("https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/c416f868-754f-4fed-9974-6ba911e2c0ba/manifest");
-        loadManifest("https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/5061e0fa-b328-431f-a95e-7b417137335b/manifest");
-        loadManifest("https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/3d6550cb-2cd7-4188-96c1-4a5fdb487fed/manifest");
-        /*
-        loadManifest("http://manifests.britishart.yale.edu/manifest/34");
-        loadManifest("http://oculus.harvardx.harvard.edu/manifests/huam:299843");
-        loadManifest("https://iiif.archivelab.org/iiif/mma_irises_436528/manifest.json");
-        loadManifest("http://purl.stanford.edu/cr853gt5311/iiif/manifest.json");
-        loadManifest("https://purl.stanford.edu/ch264fq0568/iiif/manifest.json");
-        loadManifest("http://manifests.britishart.yale.edu/manifest/1474");
-        */
-
+    <style>
+      .puzzle-list { display: flex; flex-direction: column; gap: 1rem; margin-top: 1rem; }
+      .puzzle-entry {
+        display: grid;
+        grid-template-columns: 200px 1fr;
+        gap: 1rem;
+        align-items: start;
+        padding: 1rem;
+        background: var(--ds-surface);
+        border: 1px solid var(--ds-border);
+        border-radius: var(--ds-radius, 0.5rem);
       }
-    };
-
-    function exec(q) {
-      var query = " select distinct ?manifest  ";
-      query += " WHERE { ";
-      query += " { ";
-      query += " ?s ?p ?o . ?o bif:contains '\"" + q + "\"' . ";
-      query += " } UNION { ";
-      query += " ?s ?p ?o . filter (?s = <" + q + "> ) . ";
-      query += " } ";
-      query += " ?s <http://purl.org/dc/terms/identifier> ?manifest . ";
-      query += " FILTER(!regex(str(?manifest), 'uta' ) ) ";
-      query += " FILTER(!regex(str(?manifest), 'dch' ) ) ";
-      query += " FILTER(!regex(str(?manifest), 'curation' ) ) ";
-      query += " } limit 10 ";
-
-      $.ajax({
-        url: "https://sparql.dl.itc.u-tokyo.ac.jp",
-        type: 'GET',
-        data: {
-          query: query,
-          format: "json"
-        }
-      })
-        .then(
-          // 1つめは通信成功時のコールバック
-          function (data) {
-
-            var result = data.results.bindings;
-
-            $("#puzzle_list").empty()
-
-            if (result.length == 0) {
-              $("#puzzle_list").append("No results.")
-            }
-
-            for (var i = 0; i < result.length; i++) {
-              var obj = result[i];
-              loadManifest(obj.manifest.value);
-            }
-          }
-        )
-    }
-
-    var tiles = [],
-      locations = [],
-      images = [],
-      grid_size = 5,
-      grid_tile_width = 1000 / grid_size,
-      grid_tile_height = 0;
-
-
-    function dragStart(event) {
-      var parent = $(event.target).parent();
-      event.originalEvent.dataTransfer.setData("text/plain", parent[0].id);
-    }
-
-    function handleDrop(event) {
-      event.preventDefault();
-      var source_div_id = event.originalEvent.dataTransfer.getData("text/plain");
-      var source_div = $("#" + source_div_id);
-      var target_div = $(event.currentTarget);
-      var source_img = source_div.find('img');
-      var target_img = target_div.find('img');
-      source_div.append(target_img);
-      target_div.append(source_img);
-      if (isPuzzleComplete()) { showPuzzleDone(true); }
-    }
-
-    function allowDrop(event) {
-      event.preventDefault();
-    }
-
-    function showPuzzle(show) {
-      if (show) {
-        $("#puzzle").css("visibility", "visible");
-        $("#puzzle-home").css("visibility", "hidden");
-      } else {
-        $("#puzzle").css("visibility", "hidden");
-        $("#puzzle-home").css("visibility", "visible");
-        $(".btn-puzzle-done").css("display", "none");
-        $(".btn-stop-puzzle").css("display", "none");
+      @media (max-width: 600px) {
+        .puzzle-entry { grid-template-columns: 1fr; }
       }
-    }
-
-    function showPuzzleDone(show) {
-      if (show) {
-        $(".btn-puzzle-done").css("visibility", "visible");
-        $(".btn-puzzle-done").css("display", "inline");
-        $(".btn-stop-puzzle").css("visibility", "hidden");
-        $(".btn-stop-puzzle").css("display", "none");
-      } else {
-        $(".btn-puzzle-done").css("visibility", "hidden");
-        $(".btn-puzzle-done").css("display", "none");
-        $(".btn-stop-puzzle").css("visibility", "visible");
-        $(".btn-stop-puzzle").css("display", "inline");
+      .puzzle-entry__thumb {
+        width: 100%;
+        height: auto;
+        border-radius: 0.375rem;
+        cursor: pointer;
+        display: block;
       }
-    }
-
-    function initializePuzzleGrid() {
-      tiles = [];
-      locations = [];
-      grid_size = 5;
-
-
-      $("#puzzle_grid").empty();
-    }
-
-    $(document).ready(function () {
-      showPuzzle(false);
-      search()
-    });
-
-    function loadManifest(manifest_uri) {
-      $.ajax({
-        url: manifest_uri,
-        type: "GET",
-        dataType: "json"
-      })
-        .done(function (json) {
-          var manifest = [];
-          var sequence = json.sequences[0];
-          var canvas = sequence.canvases[0];
-          var image = canvas.images[0];
-          manifest.id = json["@id"];
-          manifest.image_service = image.resource.service;
-          manifest.image_service_uri = manifest.image_service["@id"];
-          if (!manifest.image_service_uri.endsWith("/")) {
-            manifest.image_service_uri = manifest.image_service_uri + "/";
-          }
-          manifest.image_service_profile = manifest.image_service["profile"];
-          manifest.image_quality = "default.jpg";
-          if (manifest.image_service_profile.startsWith("http://library.stanford.edu/iiif/image-api/1")) {
-            manifest.image_quality = "native.jpg";
-          }
-          manifest.label = json.label;
-          manifest.attribution = json.attribution || "";
-          manifest.logo = json.logo;
-          manifest.rights = json.rights || "";
-          images.push(manifest);
-          addPuzzleToList(manifest);
-        });
-    }
-
-    function loadImage(id) {
-      var puzzle = lookupPuzzle(id);
-      image_base_uri = puzzle.image_service_uri;
-      image_quality = puzzle.image_quality;
-      showPuzzle(true);
-      showPuzzleDone(false);
-      initializePuzzleGrid();
-      window.scrollTo(0, 0);
-      var image_info = image_base_uri + "info.json";
-      $.ajax({
-        url: image_info,
-        type: "GET",
-        dataType: "json"
-      })
-        .done(function (json) {
-          var height = json.height - (json.height % grid_size);
-          var width = json.width - (json.width % grid_size);
-          var tile_height = Math.round(height / grid_size);
-          var tile_width = Math.round(width / grid_size);
-          var proportion = height / width;
-          var screen_width = (window.innerWidth < 1000) ? window.innerWidth : 1000;
-          var screen_height = window.innerHeight - 50;
-          if (screen_height < screen_width * proportion) {
-            screen_width = Math.floor(screen_height * (1 / proportion));
-          }
-          screen_width = Math.floor(screen_width / 100) * 100;
-          grid_tile_width = screen_width / grid_size;
-          grid_tile_height = 0;
-          if (tile_width < grid_tile_width) {
-            grid_tile_width = tile_width;
-          }
-          grid_tile_height = Math.floor(proportion * grid_tile_width);
-          for (var x = 0; x < grid_size; x++) {
-            for (var y = 0; y < grid_size; y++) {
-              var x_offset = x * tile_width;
-              var y_offset = y * tile_height;
-              var image_url = image_base_uri + x_offset + "," + y_offset + "," + tile_width + "," + tile_height + "/" + grid_tile_width + ",/0/" + image_quality;
-              var top = y * grid_tile_height;
-              var left = x * grid_tile_width;
-              tiles.push({ "x": x, "y": y, "top": top, "left": left, "image": image_url });
-              locations.push({ "x": x, "y": y, "top": top, "left": left });
-            }
-          }
-          layout_grid(grid_size, grid_tile_width, grid_tile_height);
-        });
-    }
-
-    function lookupPuzzle(id) {
-      console.log(id);
-      for (i = 0; i < images.length; i++) {
-        if (images[i].id == id) {
-          console.log("Returning " + images[i].label);
-          return images[i];
-        }
+      .puzzle-entry__title {
+        font-family: var(--ds-font-serif);
+        font-weight: 600;
+        font-size: 1.05rem;
+        margin: 0 0 0.5rem;
+        color: var(--ds-fg);
       }
-    }
-
-    function layout_grid(grid_size, grid_tile_width, grid_tile_height) {
-      $("#puzzle_grid").css('width', Math.floor(grid_size * grid_tile_width))
-        .css("height", Math.floor(grid_size * grid_tile_height))
-        .css("background-color", "grey");
-
-      shuffle(tiles);
-
-      $.each(tiles, function position(index, tile) {
-        var location = locations[index];
-        location.tile = tile;
-        var id = location.x + "-" + location.y;
-        var image = $("<img/>", { src: tile.image, id: "img-" + tile.x + "-" + tile.y });
-        image.data("x", tile.x).data("y", tile.y);
-        image.attr("draggable", "true");
-        image.on("dragstart", function (event) {
-          dragStart(event);
-        });
-        var div = $("<div/>", { id: id }).append(image);
-        div.data("x", location.x).data("y", location.y);
-        div.on("dragover", function (event) {
-          allowDrop(event);
-        });
-        div.on("drop", function (event) {
-          handleDrop(event);
-        });
-        $("#puzzle_grid").append(div);
-        div.css("position", "absolute")
-          .css("left", location.left)
-          .css("top", location.top);
-      })
-    }
-
-    function addPuzzleToList(puzzle) {
-      var image_url = puzzle.image_service_uri + "full/600,/0/" + puzzle.image_quality;
-      var div = $("<div/>", { class: "row puzzle-list-entry mb-5" });
-      var button = $("<button/>", { class: "btn btn-primary btn-puzzle-start" });
-      button.text("Start");
-      button.on("click", function () { loadImage(puzzle.id) });
-      var link = $("<div/>", { class: "col-3" });
-      link.on("click", function () { loadImage(puzzle.id) });
-      var img = $("<img/>", { class: "img-thumbnail img-responsive", src: image_url });
-      var text = $("<div/>", { class: "col-9" });
-      var label = $("<p>" + puzzle.label + "</p>");
-      var credit = $("<p>" + puzzle.attribution + " " + puzzle.rights + "</p>");
-      link.append(img);
-      div.append(link);
-      text.append(label);
-      text.append(credit);
-      text.append(button);
-      div.append(text);
-      $("#puzzle_list").append(div);
-    }
-
-    function isPuzzleComplete() {
-      var complete = true;
-      $("#puzzle_grid div").each(function (index, tile) {
-        var tile_x = $(tile).data("x");
-        var tile_y = $(tile).data("y");
-        var image = $(tile).find("img");
-        var image_x = $(image).data("x");
-        var image_y = $(image).data("y");
-        if ((tile_x != image_x) || (tile_y != image_y)) { complete = false; }
-      });
-      return complete;
-    }
-
-    function shuffle(array) {
-      var i = 0, j = 0, temp = null
-
-      for (i = array.length - 1; i > 0; i -= 1) {
-        j = Math.floor(Math.random() * (i + 1))
-        temp = array[i]
-        array[i] = array[j]
-        array[j] = temp
+      .puzzle-entry__credit {
+        font-size: 0.85rem;
+        color: var(--ds-fg-muted);
+        margin: 0 0 0.75rem;
+        line-height: 1.5;
       }
-    }
-
-  </script>
-
-  <style>
-    #puzzle {
-      position: absolute;
-      top: 20px;
-      left: 10px;
-    }
-  </style>
-
+      #puzzle {
+        display: none;
+        margin: 1.5rem auto;
+        width: fit-content;
+      }
+      #puzzle.is-active { display: block; }
+      #puzzle_grid {
+        position: relative;
+        margin: 0 auto;
+        background: var(--ds-surface-2);
+        border: 1px solid var(--ds-border);
+      }
+      #puzzle_grid img { display: block; }
+      #puzzle_controls { margin-top: 1rem; text-align: center; display: flex; gap: 0.5rem; justify-content: center; }
+      .credit { font-size: 0.85rem; color: var(--ds-fg-muted); }
+      .credit a { color: var(--ds-primary); }
+    </style>
   </head>
-
   <body>
+    <header class="ds-header">
+      <div class="ds-header__inner">
+        <a class="ds-header__brand" href="./">UTokyo Digital Archive Portal Apps</a>
+        <nav class="ds-header__nav">
+          <a class="ds-header__nav-link" href="./">Home</a>
+          <a class="ds-header__nav-link" href="https://github.com/nakamura196/portal_pro" target="_blank" rel="noopener">GitHub</a>
+        </nav>
+      </div>
+    </header>
 
-    <div class="py-5 bg-light">
-      <div class="container" id="puzzle-home">
+    <main class="ds-container ds-section">
+      <h1 class="ds-h1">パズル (IIIF)</h1>
+      <p class="ds-lead">
+        東京大学所蔵の IIIF 画像3点をジグソーパズルとして遊べます。サムネイル右下の <strong>Start</strong> から開始してください。
+      </p>
+      <p class="credit">
+        Powered by <a href="http://puzzle.mikeapps.me/" target="_blank" rel="noopener">Puzzles! Powered by IIIF</a> /
+        画像: <a href="https://da.dl.itc.u-tokyo.ac.jp/portal/" target="_blank" rel="noopener">東京大学デジタルアーカイブポータル</a>
+      </p>
 
-        <h2 class="mb-5">パズル <small>Powered by <a href="http://puzzle.mikeapps.me/">Puzzles! Powered by IIIF</a></small>
-        </h2>
-
-
-        <form>
-          <div class="input-group mb-5">
-            <input class="form-control" name="q" id="q" />
-            <div class="input-group-append">
-              <button type="submit" class="btn btn-primary">実行</button>
-            </div>
-          </div>
-        </form>
-
-        <div id="puzzle_list" class="my-5">
-          Loading ...
-        </div>
-
+      <div id="puzzle_list" class="puzzle-list" aria-live="polite">
+        <p class="ds-muted">読み込み中...</p>
       </div>
 
       <div id="puzzle">
         <div id="puzzle_grid"></div>
-        <div id="puzzle_control" class="mt-5">
-          <button class="btn btn-success btn-puzzle-done" onclick="showPuzzle(false);">Done!</button>
-          <button class="btn btn-warning btn-stop-puzzle" onclick="showPuzzle(false);">Stop</button>
+        <div id="puzzle_controls">
+          <button class="ds-btn ds-btn--sm" type="button" id="btn-done">Done</button>
+          <button class="ds-btn ds-btn--secondary ds-btn--sm" type="button" id="btn-stop">Stop</button>
         </div>
       </div>
+    </main>
 
-    </div>
+    <footer class="ds-footer">
+      <div class="ds-footer__inner">
+        <div class="ds-footer__grid">
+          <div>
+            <p class="ds-footer__brand">UTokyo Digital Archive Portal Apps</p>
+            <p class="ds-footer__brand-desc">東京大学デジタルアーカイブポータルAPIの活用例集。</p>
+          </div>
+          <div class="ds-footer__col">
+            <h2 class="ds-footer__heading">関連リンク</h2>
+            <ul class="ds-footer__list">
+              <li><a class="ds-footer__link" href="./">Home</a></li>
+              <li><a class="ds-footer__link" href="https://github.com/nakamura196/portal_pro" target="_blank" rel="noopener">GitHub</a></li>
+              <li><a class="ds-footer__link" href="https://nakamura196.github.io/portfolio/" target="_blank" rel="noopener noreferrer">nakamura196 の他のツール</a></li>
+            </ul>
+          </div>
+        </div>
+        <div class="ds-footer__copyright">© 2019–2026 nakamura196 · CC BY 4.0</div>
+      </div>
+    </footer>
 
-    <p class="pagetop"><a href="#wrap">▲</a></p>
+    <script>
+      const MANIFESTS = [
+        "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/c416f868-754f-4fed-9974-6ba911e2c0ba/manifest",
+        "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/5061e0fa-b328-431f-a95e-7b417137335b/manifest",
+        "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/3d6550cb-2cd7-4188-96c1-4a5fdb487fed/manifest",
+      ];
 
+      const images = [];
+      let tiles = [];
+      let locations = [];
+      let gridSize = 5;
+      let gridTileWidth = 200;
+      let gridTileHeight = 200;
+
+      function showPuzzle(show) {
+        document.getElementById("puzzle").classList.toggle("is-active", show);
+      }
+
+      async function loadManifest(uri) {
+        try {
+          const res = await fetch(uri);
+          const json = await res.json();
+          const sequence = json.sequences[0];
+          const canvas = sequence.canvases[0];
+          const image = canvas.images[0];
+          const service = image.resource.service;
+          let serviceUri = service["@id"];
+          if (!serviceUri.endsWith("/")) serviceUri += "/";
+          const profile = service.profile;
+          const quality = typeof profile === "string" && profile.startsWith("http://library.stanford.edu/iiif/image-api/1") ? "native.jpg" : "default.jpg";
+
+          const manifest = {
+            id: json["@id"],
+            image_service_uri: serviceUri,
+            image_quality: quality,
+            label: typeof json.label === "string" ? json.label : (json.label && json.label["@value"]) || "Untitled",
+            attribution: json.attribution || "",
+            rights: json.rights || "",
+            related: json.related || "",
+          };
+          images.push(manifest);
+          addPuzzleEntry(manifest);
+        } catch (e) {
+          console.error("Failed to load manifest", uri, e);
+        }
+      }
+
+      function addPuzzleEntry(manifest) {
+        const thumbUrl = manifest.image_service_uri + "full/400,/0/" + manifest.image_quality;
+        const entry = document.createElement("article");
+        entry.className = "puzzle-entry";
+        entry.innerHTML = `
+          <img class="puzzle-entry__thumb" src="${thumbUrl}" alt="" loading="lazy" />
+          <div>
+            <h2 class="puzzle-entry__title"></h2>
+            <p class="puzzle-entry__credit"></p>
+            <button class="ds-btn ds-btn--sm" type="button">Start</button>
+          </div>
+        `;
+        entry.querySelector(".puzzle-entry__title").textContent = manifest.label;
+        const creditParts = [];
+        if (manifest.attribution) creditParts.push(manifest.attribution);
+        if (manifest.rights) creditParts.push(manifest.rights);
+        entry.querySelector(".puzzle-entry__credit").textContent = creditParts.join(" / ");
+        const startBtn = entry.querySelector("button");
+        startBtn.addEventListener("click", () => loadImage(manifest.id));
+        entry.querySelector("img").addEventListener("click", () => loadImage(manifest.id));
+        document.getElementById("puzzle_list").appendChild(entry);
+      }
+
+      function lookupPuzzle(id) {
+        return images.find((m) => m.id === id);
+      }
+
+      async function loadImage(id) {
+        const puzzle = lookupPuzzle(id);
+        if (!puzzle) return;
+        showPuzzle(true);
+        const grid = document.getElementById("puzzle_grid");
+        grid.innerHTML = "";
+        tiles = [];
+        locations = [];
+        gridSize = 5;
+        window.scrollTo(0, 0);
+
+        const infoRes = await fetch(puzzle.image_service_uri + "info.json");
+        const info = await infoRes.json();
+        const height = info.height - (info.height % gridSize);
+        const width = info.width - (info.width % gridSize);
+        const tileHeight = Math.round(height / gridSize);
+        const tileWidth = Math.round(width / gridSize);
+        const proportion = height / width;
+        let screenWidth = Math.min(window.innerWidth, 800);
+        const screenHeight = window.innerHeight - 80;
+        if (screenHeight < screenWidth * proportion) {
+          screenWidth = Math.floor(screenHeight * (1 / proportion));
+        }
+        screenWidth = Math.floor(screenWidth / 100) * 100;
+        gridTileWidth = screenWidth / gridSize;
+        if (tileWidth < gridTileWidth) gridTileWidth = tileWidth;
+        gridTileHeight = Math.floor(proportion * gridTileWidth);
+
+        for (let x = 0; x < gridSize; x++) {
+          for (let y = 0; y < gridSize; y++) {
+            const xOff = x * tileWidth;
+            const yOff = y * tileHeight;
+            const imageUrl = puzzle.image_service_uri + xOff + "," + yOff + "," + tileWidth + "," + tileHeight + "/" + gridTileWidth + ",/0/" + puzzle.image_quality;
+            const top = y * gridTileHeight;
+            const left = x * gridTileWidth;
+            tiles.push({ x, y, top, left, image: imageUrl });
+            locations.push({ x, y, top, left });
+          }
+        }
+        layoutGrid();
+      }
+
+      function shuffle(arr) {
+        for (let i = arr.length - 1; i > 0; i--) {
+          const j = Math.floor(Math.random() * (i + 1));
+          [arr[i], arr[j]] = [arr[j], arr[i]];
+        }
+      }
+
+      function layoutGrid() {
+        const grid = document.getElementById("puzzle_grid");
+        grid.style.width = Math.floor(gridSize * gridTileWidth) + "px";
+        grid.style.height = Math.floor(gridSize * gridTileHeight) + "px";
+
+        shuffle(tiles);
+        tiles.forEach((tile, index) => {
+          const loc = locations[index];
+          const id = loc.x + "-" + loc.y;
+          const img = document.createElement("img");
+          img.src = tile.image;
+          img.draggable = true;
+          img.dataset.x = tile.x;
+          img.dataset.y = tile.y;
+          img.addEventListener("dragstart", (e) => {
+            e.dataTransfer.setData("text/plain", e.target.parentNode.id);
+          });
+
+          const div = document.createElement("div");
+          div.id = id;
+          div.dataset.x = loc.x;
+          div.dataset.y = loc.y;
+          div.style.position = "absolute";
+          div.style.left = loc.left + "px";
+          div.style.top = loc.top + "px";
+          div.style.width = gridTileWidth + "px";
+          div.style.height = gridTileHeight + "px";
+          div.appendChild(img);
+          div.addEventListener("dragover", (e) => e.preventDefault());
+          div.addEventListener("drop", handleDrop);
+          grid.appendChild(div);
+        });
+      }
+
+      function handleDrop(e) {
+        e.preventDefault();
+        const sourceId = e.dataTransfer.getData("text/plain");
+        const sourceDiv = document.getElementById(sourceId);
+        const targetDiv = e.currentTarget;
+        const sourceImg = sourceDiv.querySelector("img");
+        const targetImg = targetDiv.querySelector("img");
+        sourceDiv.appendChild(targetImg);
+        targetDiv.appendChild(sourceImg);
+      }
+
+      document.getElementById("btn-done").addEventListener("click", () => showPuzzle(false));
+      document.getElementById("btn-stop").addEventListener("click", () => showPuzzle(false));
+
+      (async () => {
+        document.getElementById("puzzle_list").innerHTML = "";
+        for (const uri of MANIFESTS) {
+          await loadManifest(uri);
+        }
+        if (images.length === 0) {
+          document.getElementById("puzzle_list").innerHTML =
+            '<p class="ds-muted">マニフェストの読み込みに失敗しました。</p>';
+        }
+      })();
+    </script>
   </body>
-
 </html>

@@ -1,0 +1,15 @@
+version: 2
+updates:
+  # Static site (no npm) — only github-actions ecosystem needs watching.
+  - package-ecosystem: "github-actions"
+    directory: "/"
+    schedule:
+      interval: "weekly"
+    open-pull-requests-limit: 10
+    # サプライチェーン攻撃対策: 公開直後のバージョンは取り込まない。
+    # security update は cooldown を無視して即時適用される。
+    cooldown:
+      default-days: 5
+      semver-major-days: 30
+      semver-minor-days: 7
+      semver-patch-days: 3

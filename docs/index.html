@@ -1,1 +1,822 @@
-<meta http-equiv="refresh" content="0; URL='https://github.com/nakamura196/portal_pro'" />
+<!doctype html>
+<html lang="ja">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>UTokyo Digital Archive Portal Apps</title>
+    <meta
+      name="description"
+      content="東京大学デジタルアーカイブポータルのAPIを活用した可視化・IIIF・3D・AR・WebGLのデモ集。"
+    />
+    <meta name="author" content="nakamura196" />
+    <meta name="theme-color" content="#0b8bee" />
+    <link rel="canonical" href="https://nakamura196.github.io/portal_pro/" />
+
+    <!-- Favicon -->
+    <link rel="icon" type="image/svg+xml" href="./favicon.svg" />
+    <link rel="icon" type="image/x-icon" href="./favicon.ico" sizes="any" />
+    <link rel="apple-touch-icon" href="./apple-touch-icon.png" />
+
+    <!-- Open Graph -->
+    <meta property="og:type" content="website" />
+    <meta property="og:site_name" content="UTokyo Digital Archive Portal Apps" />
+    <meta property="og:title" content="UTokyo Digital Archive Portal Apps" />
+    <meta
+      property="og:description"
+      content="東京大学デジタルアーカイブポータルのAPIを活用した可視化・IIIF・3D・AR・WebGLのデモ集。"
+    />
+    <meta property="og:url" content="https://nakamura196.github.io/portal_pro/" />
+    <meta
+      property="og:image"
+      content="https://nakamura196.github.io/portal_pro/ogp.png"
+    />
+    <meta property="og:image:width" content="1200" />
+    <meta property="og:image:height" content="630" />
+    <meta property="og:image:alt" content="UTokyo Digital Archive Portal Apps" />
+    <meta property="og:locale" content="ja_JP" />
+    <meta property="og:locale:alternate" content="en_US" />
+
+    <!-- Twitter Card -->
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="UTokyo Digital Archive Portal Apps" />
+    <meta
+      name="twitter:description"
+      content="東京大学デジタルアーカイブポータルのAPIを活用した可視化・IIIF・3D・AR・WebGLのデモ集。"
+    />
+    <meta
+      name="twitter:image"
+      content="https://nakamura196.github.io/portal_pro/ogp.png"
+    />
+
+    <!-- Design System (@nakamura196/react-ui の static.css) -->
+    <link
+      rel="stylesheet"
+      href="https://cdn.jsdelivr.net/gh/nakamura196/react-ui@v0.4.0/src/styles/static.css"
+    />
+
+    <style>
+      /* ページ固有: デモギャラリー */
+      .demo-grid {
+        display: grid;
+        grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+        gap: 1rem;
+        margin-top: 1rem;
+      }
+      .demo-card {
+        display: flex;
+        flex-direction: column;
+        background: var(--ds-surface);
+        border: 1px solid var(--ds-border);
+        border-radius: var(--ds-radius, 0.5rem);
+        overflow: hidden;
+        transition: transform 0.15s ease, box-shadow 0.15s ease, border-color 0.15s ease;
+      }
+      .demo-card:hover {
+        transform: translateY(-2px);
+        box-shadow: 0 8px 24px rgba(0, 0, 0, 0.12);
+        border-color: var(--ds-primary);
+      }
+      .demo-card__thumb {
+        position: relative;
+        aspect-ratio: 16 / 10;
+        background: linear-gradient(135deg, #04385f 0%, #0b8bee 100%);
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        color: #fff;
+        font-family: var(--ds-font-serif);
+        font-weight: 600;
+        font-size: 1.1rem;
+        text-align: center;
+        padding: 0.75rem;
+        overflow: hidden;
+      }
+      .demo-card__thumb img {
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+        display: block;
+      }
+      .demo-card__body {
+        flex: 1;
+        padding: 0.875rem 1rem 1rem;
+        display: flex;
+        flex-direction: column;
+        gap: 0.5rem;
+      }
+      .demo-card__title {
+        font-family: var(--ds-font-serif);
+        font-weight: 600;
+        font-size: 1.05rem;
+        margin: 0;
+        color: var(--ds-fg);
+      }
+      .demo-card__desc {
+        font-size: 0.875rem;
+        color: var(--ds-fg-muted);
+        margin: 0;
+        line-height: 1.5;
+      }
+      .demo-card__tags {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 0.25rem;
+        margin-top: 0.25rem;
+      }
+      .demo-tag {
+        font-size: 0.7rem;
+        padding: 0.15rem 0.5rem;
+        border-radius: 999px;
+        background: rgba(11, 139, 238, 0.12);
+        color: var(--ds-primary);
+        border: 1px solid rgba(11, 139, 238, 0.3);
+        line-height: 1.4;
+      }
+      .demo-card__actions {
+        margin-top: auto;
+        display: flex;
+        gap: 0.5rem;
+        flex-wrap: wrap;
+        padding-top: 0.5rem;
+      }
+      .demo-card__link {
+        font-size: 0.875rem;
+        font-weight: 500;
+        color: var(--ds-primary);
+        text-decoration: none;
+        padding: 0.3rem 0.65rem;
+        border: 1px solid var(--ds-border);
+        border-radius: 0.375rem;
+        transition: background 0.15s ease, color 0.15s ease;
+      }
+      .demo-card__link:hover {
+        background: var(--ds-primary);
+        color: var(--ds-primary-fg, #fff);
+        text-decoration: none;
+        border-color: var(--ds-primary);
+      }
+      .section-heading {
+        margin: 2rem 0 0.5rem;
+        font-family: var(--ds-font-serif);
+        font-weight: 600;
+        font-size: 1.35rem;
+        color: var(--ds-fg);
+        border-left: 4px solid var(--ds-primary);
+        padding-left: 0.75rem;
+      }
+      .section-sub {
+        color: var(--ds-fg-muted);
+        font-size: 0.9rem;
+        margin: 0 0 0.5rem;
+      }
+
+      /* 廃止情報の注意ボックス — UTokyo Yellow をアクセントに */
+      .notice {
+        border-left: 4px solid var(--ds-accent);
+        background: rgba(255, 205, 0, 0.08);
+        padding: 0.75rem 1rem;
+        border-radius: 0.375rem;
+        font-size: 0.9rem;
+        margin: 1rem 0 0;
+      }
+      .notice strong { color: #8a6d00; }
+      @media (prefers-color-scheme: dark) {
+        :root:not(.light) .notice { background: rgba(255, 205, 0, 0.06); }
+        :root:not(.light) .notice strong { color: #ffd733; }
+      }
+    </style>
+  </head>
+  <body>
+    <header class="ds-header">
+      <div class="ds-header__inner">
+        <a class="ds-header__brand" href="./">UTokyo Digital Archive Portal Apps</a>
+        <div class="ds-header__actions">
+          <div
+            class="ds-lang-switch"
+            role="group"
+            aria-label="Language"
+            data-i18n-aria-label="langSwitchLabel"
+            style="display: inline-flex; gap: 0.25rem; margin-right: 0.75rem;"
+          >
+            <button
+              type="button"
+              data-lang-btn="ja"
+              style="background: transparent; border: 1px solid currentColor; border-radius: 4px; padding: 0.15rem 0.5rem; font: inherit; color: inherit; cursor: pointer; opacity: 0.6;"
+            >
+              JA
+            </button>
+            <button
+              type="button"
+              data-lang-btn="en"
+              style="background: transparent; border: 1px solid currentColor; border-radius: 4px; padding: 0.15rem 0.5rem; font: inherit; color: inherit; cursor: pointer; opacity: 0.6;"
+            >
+              EN
+            </button>
+          </div>
+          <nav class="ds-header__nav">
+            <a
+              class="ds-header__nav-link"
+              href="https://da.dl.itc.u-tokyo.ac.jp/portal/"
+              target="_blank"
+              rel="noopener noreferrer"
+              data-i18n="navPortal"
+              >ポータル</a
+            >
+            <a
+              class="ds-header__nav-link"
+              href="https://github.com/nakamura196/portal_pro"
+              target="_blank"
+              rel="noopener noreferrer"
+              >GitHub</a
+            >
+          </nav>
+        </div>
+      </div>
+    </header>
+
+    <main class="ds-container ds-section">
+      <h1 class="ds-h1" data-i18n="pageTitle">UTokyo Digital Archive Portal Apps</h1>
+      <p class="ds-lead" data-i18n-html="lead">
+        <a href="https://da.dl.itc.u-tokyo.ac.jp/portal/" target="_blank" rel="noopener">東京大学デジタルアーカイブポータル</a>が提供するAPIを活用した可視化・IIIF・3D・AR・WebGLのデモ集です。
+      </p>
+
+      <section
+        id="newsSection"
+        class="ds-card"
+        aria-labelledby="news-heading"
+        style="margin-bottom: 1.5rem; border-left: 4px solid var(--ds-primary);"
+      >
+        <h2 id="news-heading" class="ds-card__title" data-i18n="newsTitle">
+          お知らせ
+        </h2>
+        <ul style="margin: 0.5rem 0 0; padding-left: 1.25rem; line-height: 1.7;">
+          <li>
+            <strong>2026-05-27</strong>
+            <span data-i18n="news_redesign">
+              — デザインを刷新し、動作しなくなったデモを整理しました。多言語対応(日本語 / 英語)を追加。
+            </span>
+          </li>
+          <li>
+            <strong>2026-05-27</strong>
+            <span data-i18n="news_sparql">
+              — SPARQLエンドポイント(<code>sparql.dl.itc.u-tokyo.ac.jp</code>)とSnorqlの停止に伴い、依存していたデモを撤去しました。puzzleはIIIFのみで動作するように、timelineは静的データで動作するように再構成しました。
+            </span>
+          </li>
+        </ul>
+      </section>
+
+      <div class="notice" data-i18n-html="serviceNotice">
+        <strong>サービス停止のお知らせ:</strong>
+        以前提供していたSPARQLエンドポイントとSnorqlは停止しています。これらに依存していた可視化デモ(calendar / map / matrix / providers / freq など)はリポジトリから整理しました。
+        履歴は <a href="https://github.com/nakamura196/portal_pro/commits/master" target="_blank" rel="noopener">git log</a> から参照できます。
+      </div>
+
+      <!-- 可視化 / Visualization -->
+      <h2 class="section-heading" data-i18n="catVisTitle">可視化</h2>
+      <p class="section-sub" data-i18n="catVisDesc">アーカイブズ資料を切り口にした静的可視化のデモ。</p>
+      <div class="demo-grid">
+
+        <article class="demo-card">
+          <div class="demo-card__thumb" style="background: linear-gradient(135deg, #7c3aed 0%, #ec4899 100%);">
+            <span>🧩 IIIF Puzzle</span>
+          </div>
+          <div class="demo-card__body">
+            <h3 class="demo-card__title" data-i18n="puzzleTitle">パズル (IIIF)</h3>
+            <p class="demo-card__desc" data-i18n="puzzleDesc">IIIF Image API を使って、東大所蔵資料3点をジグソーパズルとして遊べるデモ。</p>
+            <div class="demo-card__tags">
+              <span class="demo-tag">IIIF</span>
+              <span class="demo-tag">Game</span>
+            </div>
+            <div class="demo-card__actions">
+              <a class="demo-card__link" href="./puzzle.html" data-i18n="open">開く</a>
+            </div>
+          </div>
+        </article>
+
+        <article class="demo-card">
+          <div class="demo-card__thumb" style="background: linear-gradient(135deg, #096fbe 0%, #3ca2f1 100%);">
+            <span>📜 Timeline</span>
+          </div>
+          <div class="demo-card__body">
+            <h3 class="demo-card__title" data-i18n="timelineTitle">東京大学の名称 (年表)</h3>
+            <p class="demo-card__desc" data-i18n="timelineDesc">開成学校から現在の東京大学まで、5期にわたる名称の変遷を年表で表示します。</p>
+            <div class="demo-card__tags">
+              <span class="demo-tag">Timeline</span>
+              <span class="demo-tag">Static</span>
+            </div>
+            <div class="demo-card__actions">
+              <a class="demo-card__link" href="./timeline.html" data-i18n="open">開く</a>
+            </div>
+          </div>
+        </article>
+
+        <article class="demo-card">
+          <div class="demo-card__thumb" style="background: linear-gradient(135deg, #f59e0b 0%, #ef4444 100%);">
+            <span>☁️ Word Cloud</span>
+          </div>
+          <div class="demo-card__body">
+            <h3 class="demo-card__title" data-i18n="wordcloudTitle">Word Cloud</h3>
+            <p class="demo-card__desc" data-i18n="wordcloudDesc">D3.js でワードクラウドを描画するサンプル。</p>
+            <div class="demo-card__tags">
+              <span class="demo-tag">D3.js</span>
+            </div>
+            <div class="demo-card__actions">
+              <a class="demo-card__link" href="./wordcloud.html" data-i18n="open">開く</a>
+            </div>
+          </div>
+        </article>
+
+        <article class="demo-card">
+          <div class="demo-card__thumb" style="background: linear-gradient(135deg, #14b8a6 0%, #0ea5e9 100%);">
+            <span>🎨 Image Transitions</span>
+          </div>
+          <div class="demo-card__body">
+            <h3 class="demo-card__title" data-i18n="transitionsTitle">Image Transitions</h3>
+            <p class="demo-card__desc" data-i18n="transitionsDesc">D3 + Primitive を用い、デジタルアーカイブ画像をプリミティブ図形へ徐々に変換するアニメーション。</p>
+            <div class="demo-card__tags">
+              <span class="demo-tag">D3.js</span>
+              <span class="demo-tag">IIIF</span>
+            </div>
+            <div class="demo-card__actions">
+              <a class="demo-card__link" href="./transitions/" data-i18n="open">開く</a>
+            </div>
+          </div>
+        </article>
+
+      </div>
+
+      <!-- IIIF コレクション -->
+      <h2 class="section-heading" data-i18n="catIiifTitle">IIIF コレクション</h2>
+      <p class="section-sub" data-i18n="catIiifDesc">アーカイブズの資料を IIIF として再構成したコレクション/マニフェストとその閲覧例。</p>
+      <div class="demo-grid">
+
+        <article class="demo-card">
+          <div class="demo-card__thumb">
+            <img src="./assets/images/iiif.png" alt="IIIF" loading="lazy"/>
+          </div>
+          <div class="demo-card__body">
+            <h3 class="demo-card__title" data-i18n="collectionTitle">IIIF Collection</h3>
+            <p class="demo-card__desc" data-i18n="collectionDesc">部局ごとの IIIF Collection を集約した IIIF Collection JSON。</p>
+            <div class="demo-card__tags">
+              <span class="demo-tag">IIIF</span>
+              <span class="demo-tag">Collection</span>
+            </div>
+            <div class="demo-card__actions">
+              <a class="demo-card__link" href="./viewer/mirador.html?manifest=https://nakamura196.github.io/portal_pro/data/collection.json" data-i18n="openMirador">Mirador で開く</a>
+            </div>
+          </div>
+        </article>
+
+        <article class="demo-card">
+          <div class="demo-card__thumb">
+            <img src="./assets/images/iiif.png" alt="IIIF Attribution" loading="lazy"/>
+          </div>
+          <div class="demo-card__body">
+            <h3 class="demo-card__title" data-i18n="attributionTitle">Attributions from IIIF Collection</h3>
+            <p class="demo-card__desc" data-i18n="attributionDesc">IIIF Collection に含まれる各部局の Attribution を一覧表示。</p>
+            <div class="demo-card__tags">
+              <span class="demo-tag">IIIF</span>
+              <span class="demo-tag">Metadata</span>
+            </div>
+            <div class="demo-card__actions">
+              <a class="demo-card__link" href="./common/collection.html?collection=https://nakamura196.github.io/portal_pro/data/collection.json" data-i18n="open">開く</a>
+            </div>
+          </div>
+        </article>
+
+        <article class="demo-card">
+          <div class="demo-card__thumb">
+            <img src="./assets/images/iiif.png" alt="Javala" loading="lazy"/>
+          </div>
+          <div class="demo-card__body">
+            <h3 class="demo-card__title" data-i18n="javalaTitle">Javala (IIIF Viewer)</h3>
+            <p class="demo-card__desc" data-i18n="javalaDesc">IIIF Collection を Javala で閲覧するサンプル。</p>
+            <div class="demo-card__tags">
+              <span class="demo-tag">IIIF</span>
+              <span class="demo-tag">Viewer</span>
+            </div>
+            <div class="demo-card__actions">
+              <a class="demo-card__link" href="./common/javala/?collection=https://nakamura196.github.io/portal_pro/data/collection.json" data-i18n="open">開く</a>
+            </div>
+          </div>
+        </article>
+
+        <article class="demo-card">
+          <div class="demo-card__thumb" style="background: linear-gradient(135deg, #84cc16 0%, #10b981 100%);">
+            <span>🌾 Agriculture</span>
+          </div>
+          <div class="demo-card__body">
+            <h3 class="demo-card__title" data-i18n="agricultureTitle">農学部 鳥瞰図 (Annotation)</h3>
+            <p class="demo-card__desc" data-i18n="agricultureDesc">「東京帝國大學本部構内及農學部建物鳥瞰圖」に IIIF Presentation 3 + Web Annotation で 58 件のマーカーを付与。</p>
+            <div class="demo-card__tags">
+              <span class="demo-tag">IIIF v3</span>
+              <span class="demo-tag">Annotation</span>
+            </div>
+            <div class="demo-card__actions">
+              <a class="demo-card__link" href="./viewer/mirador.html?manifest=https://nakamura196.github.io/portal_pro/usage/agriculture/manifest-v3.json" data-i18n="openMirador">Mirador で開く</a>
+            </div>
+          </div>
+        </article>
+
+        <article class="demo-card">
+          <div class="demo-card__thumb" style="background: linear-gradient(135deg, #6366f1 0%, #ec4899 100%);">
+            <span>🧱 Mosaic</span>
+          </div>
+          <div class="demo-card__body">
+            <h3 class="demo-card__title" data-i18n="mosaicTitle">IIIF Mosaic</h3>
+            <p class="demo-card__desc" data-i18n="mosaicDesc">複数の画像をモザイク状に並べて1つの IIIF Manifest に統合した例。</p>
+            <div class="demo-card__tags">
+              <span class="demo-tag">IIIF</span>
+              <span class="demo-tag">Manifest</span>
+            </div>
+            <div class="demo-card__actions">
+              <a class="demo-card__link" href="./viewer/mirador.html?manifest=https://nakamura196.github.io/portal_pro/mosaic/output/manifest.json" data-i18n="openMirador">Mirador で開く</a>
+            </div>
+          </div>
+        </article>
+
+        <article class="demo-card">
+          <div class="demo-card__thumb" style="background: linear-gradient(135deg, #a16207 0%, #d97706 100%);">
+            <span>🪨 石本コレクション</span>
+          </div>
+          <div class="demo-card__body">
+            <h3 class="demo-card__title" data-i18n="ishimotoTitle">石本コレクション分析例</h3>
+            <p class="demo-card__desc" data-i18n="ishimotoDesc">石本コレクションのメタデータを SPARQL(Dydra) で集計・可視化したサンプル。</p>
+            <div class="demo-card__tags">
+              <span class="demo-tag">SPARQL</span>
+              <span class="demo-tag">Dydra</span>
+            </div>
+            <div class="demo-card__actions">
+              <a class="demo-card__link" href="./usage/ishimoto/" data-i18n="open">開く</a>
+            </div>
+          </div>
+        </article>
+
+      </div>
+
+      <!-- 3D / VR / AR / WebGL -->
+      <h2 class="section-heading" data-i18n="cat3dTitle">3D / VR / AR / WebGL</h2>
+      <p class="section-sub" data-i18n="cat3dDesc">three.js、A-Frame、Unity WebGL などを用いたインタラクティブなデモ。</p>
+      <div class="demo-grid">
+
+        <article class="demo-card">
+          <div class="demo-card__thumb" style="background: linear-gradient(135deg, #0f172a 0%, #334155 100%);">
+            <span>🖼️ three.js IIIF</span>
+          </div>
+          <div class="demo-card__body">
+            <h3 class="demo-card__title" data-i18n="threeIiifTitle">three.js × IIIF (VR Gallery)</h3>
+            <p class="demo-card__desc" data-i18n="threeIiifDesc">three.js Pointerlock controls で IIIF 画像をギャラリー空間に配置。</p>
+            <div class="demo-card__tags">
+              <span class="demo-tag">three.js</span>
+              <span class="demo-tag">VR</span>
+              <span class="demo-tag">IIIF</span>
+            </div>
+            <div class="demo-card__actions">
+              <a class="demo-card__link" href="./js/three/iiif/" data-i18n="open">開く</a>
+            </div>
+          </div>
+        </article>
+
+        <article class="demo-card">
+          <div class="demo-card__thumb" style="background: linear-gradient(135deg, #1e293b 0%, #475569 100%);">
+            <span>🏛️ Gallery</span>
+          </div>
+          <div class="demo-card__body">
+            <h3 class="demo-card__title" data-i18n="threeGalleryTitle">3D Gallery</h3>
+            <p class="demo-card__desc" data-i18n="threeGalleryDesc">three.js を使った 3D 美術館ギャラリーのサンプル。</p>
+            <div class="demo-card__tags">
+              <span class="demo-tag">three.js</span>
+              <span class="demo-tag">3D</span>
+            </div>
+            <div class="demo-card__actions">
+              <a class="demo-card__link" href="./js/three/gallery/" data-i18n="open">開く</a>
+            </div>
+          </div>
+        </article>
+
+        <article class="demo-card">
+          <div class="demo-card__thumb" style="background: linear-gradient(135deg, #16a34a 0%, #65a30d 100%);">
+            <span>📱 AR</span>
+          </div>
+          <div class="demo-card__body">
+            <h3 class="demo-card__title" data-i18n="arTitle">AR (A-Frame + AR.js)</h3>
+            <p class="demo-card__desc" data-i18n="arDesc">Hiroマーカーを使った AR デモ。カメラ付きの端末でアクセスしてください。</p>
+            <div class="demo-card__tags">
+              <span class="demo-tag">A-Frame</span>
+              <span class="demo-tag">AR.js</span>
+            </div>
+            <div class="demo-card__actions">
+              <a class="demo-card__link" href="./js/ar/" data-i18n="open">開く</a>
+            </div>
+          </div>
+        </article>
+
+        <article class="demo-card">
+          <div class="demo-card__thumb" style="background: linear-gradient(135deg, #dc2626 0%, #f97316 100%);">
+            <span>🧱 Breakout</span>
+          </div>
+          <div class="demo-card__body">
+            <h3 class="demo-card__title" data-i18n="unityBreakoutTitle">Breakout (Unity WebGL)</h3>
+            <p class="demo-card__desc" data-i18n="unityBreakoutDesc">アーカイブ画像をブロックに敷き詰めたブロック崩し風ゲーム。</p>
+            <div class="demo-card__tags">
+              <span class="demo-tag">Unity</span>
+              <span class="demo-tag">WebGL</span>
+            </div>
+            <div class="demo-card__actions">
+              <a class="demo-card__link" href="./unity/breakout/" data-i18n="open">開く</a>
+            </div>
+          </div>
+        </article>
+
+        <article class="demo-card">
+          <div class="demo-card__thumb" style="background: linear-gradient(135deg, #ea580c 0%, #facc15 100%);">
+            <span>🏃 Obstacle Run</span>
+          </div>
+          <div class="demo-card__body">
+            <h3 class="demo-card__title" data-i18n="unityOrTitle">Obstacle Run (Unity WebGL)</h3>
+            <p class="demo-card__desc" data-i18n="unityOrDesc">アーカイブ画像を背景に走り抜けるアクションゲーム。</p>
+            <div class="demo-card__tags">
+              <span class="demo-tag">Unity</span>
+              <span class="demo-tag">WebGL</span>
+            </div>
+            <div class="demo-card__actions">
+              <a class="demo-card__link" href="./unity/or/" data-i18n="open">開く</a>
+            </div>
+          </div>
+        </article>
+
+        <article class="demo-card">
+          <div class="demo-card__thumb" style="background: linear-gradient(135deg, #2563eb 0%, #06b6d4 100%);">
+            <span>⚽ Roll a Ball</span>
+          </div>
+          <div class="demo-card__body">
+            <h3 class="demo-card__title" data-i18n="unityRabTitle">Roll a Ball (Unity WebGL)</h3>
+            <p class="demo-card__desc" data-i18n="unityRabDesc">アーカイブ画像のフィールドを転がるボールゲーム。</p>
+            <div class="demo-card__tags">
+              <span class="demo-tag">Unity</span>
+              <span class="demo-tag">WebGL</span>
+            </div>
+            <div class="demo-card__actions">
+              <a class="demo-card__link" href="./unity/rab/" data-i18n="open">開く</a>
+            </div>
+          </div>
+        </article>
+
+      </div>
+
+      <!-- 関連リンク -->
+      <h2 class="section-heading" data-i18n="catLinksTitle">関連リンク</h2>
+      <ul class="ds-stack" style="margin: 0; padding-left: 1.25rem;">
+        <li>
+          <a href="https://da.dl.itc.u-tokyo.ac.jp/portal/" target="_blank" rel="noopener">東京大学デジタルアーカイブポータル</a>
+          <span class="ds-muted" data-i18n="linkPortalDesc"> — 公式ポータル</span>
+        </li>
+        <li>
+          <a href="https://da.dl.itc.u-tokyo.ac.jp/portal/help/api" target="_blank" rel="noopener">APIについて</a>
+          <span class="ds-muted" data-i18n="linkApiDesc"> — 検索API / ハーベスト API (OAI-PMH)</span>
+        </li>
+        <li>
+          <a href="https://github.com/nakamura196/portal_pro/wiki/Gallery" target="_blank" rel="noopener">Gallery</a>
+          <span class="ds-muted" data-i18n="linkGalleryDesc"> — ポータルの活用事例</span>
+        </li>
+        <li>
+          <a href="https://github.com/nakamura196/portal_pro/wiki/Usage" target="_blank" rel="noopener">Usage</a>
+          <span class="ds-muted" data-i18n="linkUsageDesc"> — コレクション別活用例</span>
+        </li>
+      </ul>
+    </main>
+
+    <footer class="ds-footer">
+      <div class="ds-footer__inner">
+        <div class="ds-footer__grid">
+          <div>
+            <p class="ds-footer__brand">UTokyo Digital Archive Portal Apps</p>
+            <p class="ds-footer__brand-desc" data-i18n="footerBrandDesc">
+              東京大学デジタルアーカイブポータルAPIの活用例集。IIIF / 可視化 / 3D / AR / WebGL。
+            </p>
+          </div>
+          <div class="ds-footer__col">
+            <h2 class="ds-footer__heading" data-i18n="footerHeading">関連リンク</h2>
+            <ul class="ds-footer__list">
+              <li>
+                <a class="ds-footer__link" href="https://github.com/nakamura196/portal_pro" target="_blank" rel="noopener noreferrer">
+                  GitHub
+                </a>
+              </li>
+              <li>
+                <a class="ds-footer__link" href="https://da.dl.itc.u-tokyo.ac.jp/portal/" target="_blank" rel="noopener noreferrer" data-i18n="footerPortal">
+                  公式ポータル
+                </a>
+              </li>
+              <li>
+                <a class="ds-footer__link" href="https://creativecommons.org/licenses/by/4.0/" target="_blank" rel="noopener noreferrer">
+                  CC BY 4.0
+                </a>
+              </li>
+              <li>
+                <a class="ds-footer__link" href="https://nakamura196.github.io/portfolio/" target="_blank" rel="noopener noreferrer" data-i18n="footerOtherTools">
+                  nakamura196 の他のツール
+                </a>
+              </li>
+            </ul>
+          </div>
+        </div>
+        <div class="ds-footer__copyright">© 2019–2026 nakamura196 · CC BY 4.0</div>
+      </div>
+    </footer>
+
+    <script>
+      // ---------- i18n ----------
+      const SUPPORTED_LANGS = ["ja", "en"];
+      const LANG_STORAGE_KEY = "portalProLang";
+
+      const I18N = {
+        ja: {
+          title: "UTokyo Digital Archive Portal Apps",
+          metaDescription:
+            "東京大学デジタルアーカイブポータルのAPIを活用した可視化・IIIF・3D・AR・WebGLのデモ集。",
+          pageTitle: "UTokyo Digital Archive Portal Apps",
+          lead:
+            '<a href="https://da.dl.itc.u-tokyo.ac.jp/portal/" target="_blank" rel="noopener">東京大学デジタルアーカイブポータル</a>が提供するAPIを活用した可視化・IIIF・3D・AR・WebGLのデモ集です。',
+          langSwitchLabel: "言語",
+          navPortal: "ポータル",
+          newsTitle: "お知らせ",
+          news_redesign: "— デザインを刷新し、動作しなくなったデモを整理しました。多言語対応(日本語 / 英語)を追加。",
+          news_sparql: "— SPARQLエンドポイント(<code>sparql.dl.itc.u-tokyo.ac.jp</code>)とSnorqlの停止に伴い、依存していたデモを撤去しました。puzzleはIIIFのみで動作するように、timelineは静的データで動作するように再構成しました。",
+          serviceNotice: '<strong>サービス停止のお知らせ:</strong> 以前提供していたSPARQLエンドポイントとSnorqlは停止しています。これらに依存していた可視化デモ(calendar / map / matrix / providers / freq など)はリポジトリから整理しました。履歴は <a href="https://github.com/nakamura196/portal_pro/commits/master" target="_blank" rel="noopener">git log</a> から参照できます。',
+          catVisTitle: "可視化",
+          catVisDesc: "アーカイブズ資料を切り口にした静的可視化のデモ。",
+          catIiifTitle: "IIIF コレクション",
+          catIiifDesc: "アーカイブズの資料を IIIF として再構成したコレクション/マニフェストとその閲覧例。",
+          cat3dTitle: "3D / VR / AR / WebGL",
+          cat3dDesc: "three.js、A-Frame、Unity WebGL などを用いたインタラクティブなデモ。",
+          catLinksTitle: "関連リンク",
+          puzzleTitle: "パズル (IIIF)",
+          puzzleDesc: "IIIF Image API を使って、東大所蔵資料3点をジグソーパズルとして遊べるデモ。",
+          timelineTitle: "東京大学の名称 (年表)",
+          timelineDesc: "開成学校から現在の東京大学まで、5期にわたる名称の変遷を年表で表示します。",
+          wordcloudTitle: "Word Cloud",
+          wordcloudDesc: "D3.js でワードクラウドを描画するサンプル。",
+          transitionsTitle: "Image Transitions",
+          transitionsDesc: "D3 + Primitive を用い、デジタルアーカイブ画像をプリミティブ図形へ徐々に変換するアニメーション。",
+          collectionTitle: "IIIF Collection",
+          collectionDesc: "部局ごとの IIIF Collection を集約した IIIF Collection JSON。",
+          attributionTitle: "Attributions from IIIF Collection",
+          attributionDesc: "IIIF Collection に含まれる各部局の Attribution を一覧表示。",
+          javalaTitle: "Javala (IIIF Viewer)",
+          javalaDesc: "IIIF Collection を Javala で閲覧するサンプル。",
+          agricultureTitle: "農学部 鳥瞰図 (Annotation)",
+          agricultureDesc: "「東京帝國大學本部構内及農學部建物鳥瞰圖」に IIIF Presentation 3 + Web Annotation で 58 件のマーカーを付与。",
+          mosaicTitle: "IIIF Mosaic",
+          mosaicDesc: "複数の画像をモザイク状に並べて1つの IIIF Manifest に統合した例。",
+          ishimotoTitle: "石本コレクション分析例",
+          ishimotoDesc: "石本コレクションのメタデータを SPARQL(Dydra) で集計・可視化したサンプル。",
+          threeIiifTitle: "three.js × IIIF (VR Gallery)",
+          threeIiifDesc: "three.js Pointerlock controls で IIIF 画像をギャラリー空間に配置。",
+          threeGalleryTitle: "3D Gallery",
+          threeGalleryDesc: "three.js を使った 3D 美術館ギャラリーのサンプル。",
+          arTitle: "AR (A-Frame + AR.js)",
+          arDesc: "Hiroマーカーを使った AR デモ。カメラ付きの端末でアクセスしてください。",
+          unityBreakoutTitle: "Breakout (Unity WebGL)",
+          unityBreakoutDesc: "アーカイブ画像をブロックに敷き詰めたブロック崩し風ゲーム。",
+          unityOrTitle: "Obstacle Run (Unity WebGL)",
+          unityOrDesc: "アーカイブ画像を背景に走り抜けるアクションゲーム。",
+          unityRabTitle: "Roll a Ball (Unity WebGL)",
+          unityRabDesc: "アーカイブ画像のフィールドを転がるボールゲーム。",
+          linkPortalDesc: " — 公式ポータル",
+          linkApiDesc: " — 検索API / ハーベスト API (OAI-PMH)",
+          linkGalleryDesc: " — ポータルの活用事例",
+          linkUsageDesc: " — コレクション別活用例",
+          open: "開く",
+          openMirador: "Mirador で開く",
+          footerBrandDesc: "東京大学デジタルアーカイブポータルAPIの活用例集。IIIF / 可視化 / 3D / AR / WebGL。",
+          footerHeading: "関連リンク",
+          footerPortal: "公式ポータル",
+          footerOtherTools: "nakamura196 の他のツール",
+        },
+        en: {
+          title: "UTokyo Digital Archive Portal Apps",
+          metaDescription:
+            "Demos using the UTokyo Digital Archive Portal API: visualization, IIIF, 3D, AR, WebGL.",
+          pageTitle: "UTokyo Digital Archive Portal Apps",
+          lead:
+            'A gallery of demos built on top of the <a href="https://da.dl.itc.u-tokyo.ac.jp/portal/en/" target="_blank" rel="noopener">UTokyo Digital Archive Portal</a> API: visualization, IIIF, 3D, AR and WebGL.',
+          langSwitchLabel: "Language",
+          navPortal: "Portal",
+          newsTitle: "Announcements",
+          news_redesign: "— Redesigned the site, cleaned up broken demos, and added bilingual (Japanese / English) support.",
+          news_sparql: "— Following the shutdown of the SPARQL endpoint (<code>sparql.dl.itc.u-tokyo.ac.jp</code>) and Snorql, dependent demos were removed. puzzle now runs on IIIF only, and timeline now runs on static data.",
+          serviceNotice: '<strong>Service notice:</strong> The previously provided SPARQL endpoint and Snorql have been shut down. Visualization demos that depended on them (calendar / map / matrix / providers / freq, etc.) have been removed. History is available via <a href="https://github.com/nakamura196/portal_pro/commits/master" target="_blank" rel="noopener">git log</a>.',
+          catVisTitle: "Visualization",
+          catVisDesc: "Static visualization demos using archive resources as their angle.",
+          catIiifTitle: "IIIF Collections",
+          catIiifDesc: "Collections/manifests built on the archive, and viewers that consume them.",
+          cat3dTitle: "3D / VR / AR / WebGL",
+          cat3dDesc: "Interactive demos using three.js, A-Frame, and Unity WebGL.",
+          catLinksTitle: "Related",
+          puzzleTitle: "Puzzle (IIIF)",
+          puzzleDesc: "Solve a jigsaw puzzle made from three UTokyo IIIF Image API resources.",
+          timelineTitle: "Names of UTokyo (Timeline)",
+          timelineDesc: "A timeline of the five names UTokyo has had, from Kaisei Gakkō to today.",
+          wordcloudTitle: "Word Cloud",
+          wordcloudDesc: "A D3.js word cloud sample.",
+          transitionsTitle: "Image Transitions",
+          transitionsDesc: "D3 + Primitive animation gradually converts archive images into primitive shapes.",
+          collectionTitle: "IIIF Collection",
+          collectionDesc: "A IIIF Collection JSON aggregating per-department sub-collections.",
+          attributionTitle: "Attributions from IIIF Collection",
+          attributionDesc: "List the attribution of every department in the IIIF Collection.",
+          javalaTitle: "Javala (IIIF Viewer)",
+          javalaDesc: "Browse the IIIF Collection with Javala.",
+          agricultureTitle: "Agriculture Bird's-eye View (Annotation)",
+          agricultureDesc: "Annotate the historic bird's-eye view of UTokyo's main and agriculture campuses with 58 markers via IIIF Presentation 3 + Web Annotation.",
+          mosaicTitle: "IIIF Mosaic",
+          mosaicDesc: "Tile multiple images into a single IIIF Manifest.",
+          ishimotoTitle: "Ishimoto Collection Analysis",
+          ishimotoDesc: "Aggregate and visualize Ishimoto Collection metadata via Dydra SPARQL.",
+          threeIiifTitle: "three.js × IIIF (VR Gallery)",
+          threeIiifDesc: "Place IIIF images in a gallery space with three.js pointer-lock controls.",
+          threeGalleryTitle: "3D Gallery",
+          threeGalleryDesc: "A 3D museum gallery sample using three.js.",
+          arTitle: "AR (A-Frame + AR.js)",
+          arDesc: "An AR demo with the Hiro marker. Open it on a camera-equipped device.",
+          unityBreakoutTitle: "Breakout (Unity WebGL)",
+          unityBreakoutDesc: "A breakout-style game whose bricks are archive images.",
+          unityOrTitle: "Obstacle Run (Unity WebGL)",
+          unityOrDesc: "Run past obstacles set against archive imagery.",
+          unityRabTitle: "Roll a Ball (Unity WebGL)",
+          unityRabDesc: "Roll a ball across a field of archive images.",
+          linkPortalDesc: " — Official portal",
+          linkApiDesc: " — Search API / Harvest API (OAI-PMH)",
+          linkGalleryDesc: " — Use cases of the portal",
+          linkUsageDesc: " — Examples per collection",
+          open: "Open",
+          openMirador: "Open in Mirador",
+          footerBrandDesc: "A demo gallery of the UTokyo Digital Archive Portal API. IIIF / visualization / 3D / AR / WebGL.",
+          footerHeading: "Related",
+          footerPortal: "Official portal",
+          footerOtherTools: "Other tools by nakamura196",
+        },
+      };
+
+      function detectLang() {
+        const qs = new URLSearchParams(window.location.search).get("lang");
+        if (qs && SUPPORTED_LANGS.includes(qs)) return qs;
+        try {
+          const stored = localStorage.getItem(LANG_STORAGE_KEY);
+          if (stored && SUPPORTED_LANGS.includes(stored)) return stored;
+        } catch (_) {}
+        const nav = (navigator.language || "ja").slice(0, 2).toLowerCase();
+        return SUPPORTED_LANGS.includes(nav) ? nav : "ja";
+      }
+
+      let currentLang = detectLang();
+
+      function applyI18n(lang) {
+        const dict = I18N[lang] || I18N.ja;
+        document.documentElement.lang = lang;
+        document.title = dict.title;
+        const md = document.querySelector('meta[name="description"]');
+        if (md) md.setAttribute("content", dict.metaDescription);
+
+        document.querySelectorAll("[data-i18n]").forEach((el) => {
+          const v = dict[el.dataset.i18n];
+          if (v != null) el.textContent = v;
+        });
+        document.querySelectorAll("[data-i18n-html]").forEach((el) => {
+          const v = dict[el.dataset.i18nHtml];
+          if (v != null) el.innerHTML = v;
+        });
+        document.querySelectorAll("[data-i18n-aria-label]").forEach((el) => {
+          const v = dict[el.dataset.i18nAriaLabel];
+          if (v != null) el.setAttribute("aria-label", v);
+        });
+
+        document.querySelectorAll("[data-lang-btn]").forEach((btn) => {
+          const active = btn.dataset.langBtn === lang;
+          btn.style.opacity = active ? "1" : "0.6";
+          btn.style.fontWeight = active ? "700" : "400";
+          btn.setAttribute("aria-pressed", active ? "true" : "false");
+        });
+      }
+
+      function setLang(lang) {
+        if (!SUPPORTED_LANGS.includes(lang) || lang === currentLang) return;
+        currentLang = lang;
+        try {
+          localStorage.setItem(LANG_STORAGE_KEY, lang);
+        } catch (_) {}
+        const url = new URL(window.location.href);
+        url.searchParams.set("lang", lang);
+        window.history.replaceState({}, "", url);
+        applyI18n(lang);
+      }
+
+      applyI18n(currentLang);
+
+      document.querySelectorAll("[data-lang-btn]").forEach((btn) => {
+        btn.addEventListener("click", () => setLang(btn.dataset.langBtn));
+      });
+    </script>
+  </body>
+</html>

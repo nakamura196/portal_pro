@@ -1,0 +1,152 @@
+<!doctype html>
+<html lang="ja">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Mirador Viewer | UTokyo Digital Archive Portal Apps</title>
+    <meta name="description" content="ローカルにバンドルされた Mirador 4 で IIIF Manifest を閲覧します。" />
+    <meta name="theme-color" content="#0b8bee" />
+    <link rel="canonical" href="https://nakamura196.github.io/portal_pro/viewer/mirador.html" />
+
+    <link rel="icon" type="image/svg+xml" href="../favicon.svg" />
+    <link rel="icon" type="image/x-icon" href="../favicon.ico" sizes="any" />
+    <link rel="apple-touch-icon" href="../apple-touch-icon.png" />
+
+    <meta property="og:type" content="website" />
+    <meta property="og:site_name" content="UTokyo Digital Archive Portal Apps" />
+    <meta property="og:title" content="Mirador Viewer | UTokyo Digital Archive Portal Apps" />
+    <meta property="og:description" content="ローカルにバンドルされた Mirador 4 で IIIF Manifest を閲覧します。" />
+    <meta property="og:url" content="https://nakamura196.github.io/portal_pro/viewer/mirador.html" />
+    <meta property="og:image" content="https://nakamura196.github.io/portal_pro/ogp.png" />
+    <meta property="og:image:width" content="1200" />
+    <meta property="og:image:height" content="630" />
+    <meta name="twitter:card" content="summary_large_image" />
+
+    <link
+      rel="stylesheet"
+      href="https://cdn.jsdelivr.net/gh/nakamura196/react-ui@v0.4.0/src/styles/static.css"
+    />
+
+    <style>
+      html, body { height: 100%; }
+      body { display: flex; flex-direction: column; }
+      .viewer-shell {
+        flex: 1;
+        display: flex;
+        flex-direction: column;
+        min-height: 0;
+      }
+      .viewer-form {
+        padding: 0.75rem 1rem;
+        background: var(--ds-surface);
+        border-bottom: 1px solid var(--ds-border);
+        display: flex;
+        gap: 0.5rem;
+        align-items: center;
+        flex-wrap: wrap;
+      }
+      .viewer-form label {
+        font-size: 0.85rem;
+        font-weight: 500;
+        color: var(--ds-fg);
+      }
+      .viewer-form input {
+        flex: 1;
+        min-width: 240px;
+        padding: 0.4rem 0.65rem;
+        font-size: 0.875rem;
+        color: var(--ds-fg);
+        background: var(--ds-bg);
+        border: 1px solid var(--ds-border);
+        border-radius: 0.375rem;
+      }
+      .viewer-form input:focus {
+        outline: none;
+        border-color: var(--ds-primary);
+        box-shadow: 0 0 0 3px rgba(11, 139, 238, 0.25);
+      }
+      .viewer-form .ds-btn--sm { padding: 0.35rem 0.85rem; }
+      #mirador-host { flex: 1; min-height: 60vh; position: relative; }
+      .viewer-empty {
+        position: absolute; inset: 0;
+        display: flex; align-items: center; justify-content: center;
+        padding: 2rem; text-align: center;
+        color: var(--ds-fg-muted);
+      }
+    </style>
+  </head>
+  <body>
+    <header class="ds-header">
+      <div class="ds-header__inner">
+        <a class="ds-header__brand" href="../">UTokyo Digital Archive Portal Apps</a>
+        <nav class="ds-header__nav">
+          <a class="ds-header__nav-link" href="../">Home</a>
+          <a class="ds-header__nav-link" href="https://github.com/nakamura196/portal_pro" target="_blank" rel="noopener">GitHub</a>
+        </nav>
+      </div>
+    </header>
+
+    <div class="viewer-shell">
+      <form class="viewer-form" id="viewer-form">
+        <label for="manifest-url">IIIF Manifest / Collection URL</label>
+        <input id="manifest-url" name="manifest" type="url" placeholder="https://.../manifest.json" />
+        <button class="ds-btn ds-btn--sm" type="submit">読み込む</button>
+        <a class="ds-btn ds-btn--secondary ds-btn--sm" href="../">Home</a>
+      </form>
+      <div id="mirador-host">
+        <p class="viewer-empty" id="viewer-empty">
+          URL クエリ <code>?manifest=&lt;URL&gt;</code> を付けるか、上のフォームから IIIF Manifest URL を入力してください。
+        </p>
+      </div>
+    </div>
+
+    <script src="../assets/thirdparty/mirador/mirador.min.js"></script>
+    <script>
+      function getManifestFromUrl() {
+        const params = new URLSearchParams(window.location.search);
+        return params.get("manifest") || params.get("iiif-content") || "";
+      }
+
+      let viewer = null;
+
+      function mountMirador(manifestId) {
+        const host = document.getElementById("mirador-host");
+        const empty = document.getElementById("viewer-empty");
+        if (empty) empty.remove();
+        // Reset host (Mirador re-init is messy; nuking the DOM node is simplest)
+        host.innerHTML = "";
+        const mount = document.createElement("div");
+        mount.id = "mirador-mount";
+        mount.style.cssText = "position:absolute;inset:0;";
+        host.appendChild(mount);
+
+        viewer = Mirador.viewer({
+          id: "mirador-mount",
+          windows: [{
+            manifestId,
+            highlightAllAnnotations: true,
+            sideBarOpen: true,
+            sideBarPanel: "annotations",
+          }],
+          workspaceControlPanel: { enabled: false },
+        });
+      }
+
+      const initial = getManifestFromUrl();
+      if (initial) {
+        document.getElementById("manifest-url").value = initial;
+        mountMirador(initial);
+      }
+
+      document.getElementById("viewer-form").addEventListener("submit", (e) => {
+        e.preventDefault();
+        const v = document.getElementById("manifest-url").value.trim();
+        if (!v) return;
+        const url = new URL(window.location.href);
+        url.searchParams.set("manifest", v);
+        window.history.replaceState({}, "", url);
+        mountMirador(v);
+      });
+    </script>
+  </body>
+</html>

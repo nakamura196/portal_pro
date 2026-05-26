@@ -1,212 +1,147 @@
-<!DOCTYPE html>
-<html>
-<head>
-  <title>Attributions from IIIF Collection</title>
-  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.0/css/solid.css" integrity="sha384-r/k8YTFqmlOaqRkZuSiE9trsrDXkh07mRaoGBMoDcmA58OHILZPsk29i2BsFng1B" crossorigin="anonymous">
-  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.0/css/fontawesome.css" integrity="sha384-4aon80D8rXCGx9ayDt85LbyUHeMWd3UiBaWliBlJ53yzm9hqN21A+o1pqoyK04h+" crossorigin="anonymous">
-  <link href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.0.0/css/bootstrap.min.css" rel="stylesheet">
-</head>
-<body>
-  <div class="py-5 bg-light">
-    <div class="container">
-      <h3 class="mb-5">Attributions from IIIF Collection</h3>
-      <div id="main" class="my-5">
+<!doctype html>
+<html lang="ja">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Attributions from IIIF Collection | UTokyo Digital Archive Portal Apps</title>
+    <meta name="description" content="IIIF Collection に含まれる各部局の Attribution(item数)を集計・可視化します。" />
+    <meta name="theme-color" content="#0b8bee" />
+    <link rel="canonical" href="https://nakamura196.github.io/portal_pro/common/collection.html" />
+
+    <link rel="icon" type="image/svg+xml" href="../favicon.svg" />
+    <link rel="icon" type="image/x-icon" href="../favicon.ico" sizes="any" />
+    <link rel="apple-touch-icon" href="../apple-touch-icon.png" />
+
+    <meta property="og:type" content="website" />
+    <meta property="og:site_name" content="UTokyo Digital Archive Portal Apps" />
+    <meta property="og:title" content="Attributions from IIIF Collection | UTokyo Digital Archive Portal Apps" />
+    <meta property="og:description" content="IIIF Collection に含まれる各部局の Attribution(item数)を集計・可視化します。" />
+    <meta property="og:url" content="https://nakamura196.github.io/portal_pro/common/collection.html" />
+    <meta property="og:image" content="https://nakamura196.github.io/portal_pro/ogp.png" />
+    <meta property="og:image:width" content="1200" />
+    <meta property="og:image:height" content="630" />
+    <meta name="twitter:card" content="summary_large_image" />
+
+    <link
+      rel="stylesheet"
+      href="https://cdn.jsdelivr.net/gh/nakamura196/react-ui@v0.4.0/src/styles/static.css"
+    />
+
+    <style>
+      #chart { min-height: 480px; }
+    </style>
+  </head>
+  <body>
+    <header class="ds-header">
+      <div class="ds-header__inner">
+        <a class="ds-header__brand" href="../">UTokyo Digital Archive Portal Apps</a>
+        <nav class="ds-header__nav">
+          <a class="ds-header__nav-link" href="../">Home</a>
+          <a class="ds-header__nav-link" href="https://github.com/nakamura196/portal_pro" target="_blank" rel="noopener">GitHub</a>
+        </nav>
       </div>
-      <div class="text-center" id="loading">
-        <img src="../assets/images/loading.gif" class="img-fluid"/>
+    </header>
+
+    <main class="ds-container ds-section">
+      <h1 class="ds-h1">Attributions from IIIF Collection</h1>
+      <p class="ds-lead">
+        IIIF Collection 内のサブコレクションごとに、含まれる IIIF Manifest の数を集計・可視化します。
+        <span class="ds-muted">クエリ <code>?collection=&lt;Collection URL&gt;</code> で対象を切り替えられます。</span>
+      </p>
+
+      <section class="ds-card" aria-labelledby="chart-heading">
+        <h2 id="chart-heading" class="ds-card__title">Attribution チャート</h2>
+        <p class="ds-muted" id="loading">読み込み中...</p>
+        <div id="chart"></div>
+      </section>
+    </main>
+
+    <footer class="ds-footer">
+      <div class="ds-footer__inner">
+        <div class="ds-footer__grid">
+          <div>
+            <p class="ds-footer__brand">UTokyo Digital Archive Portal Apps</p>
+            <p class="ds-footer__brand-desc">東京大学デジタルアーカイブポータルAPIの活用例集。</p>
+          </div>
+          <div class="ds-footer__col">
+            <h2 class="ds-footer__heading">関連リンク</h2>
+            <ul class="ds-footer__list">
+              <li><a class="ds-footer__link" href="../">Home</a></li>
+              <li><a class="ds-footer__link" href="https://github.com/nakamura196/portal_pro" target="_blank" rel="noopener">GitHub</a></li>
+              <li><a class="ds-footer__link" href="https://nakamura196.github.io/portfolio/" target="_blank" rel="noopener noreferrer">nakamura196 の他のツール</a></li>
+              <li><a class="ds-footer__link" href="https://researchmap.jp/nakamura.satoru/?lang=english" target="_blank" rel="noopener">Satoru Nakamura</a></li>
+              <li><a class="ds-footer__link" href="https://creativecommons.org/publicdomain/zero/1.0/" target="_blank" rel="noopener">CC0</a></li>
+            </ul>
+          </div>
+        </div>
+        <div class="ds-footer__copyright">© 2019–2026 nakamura196 · CC BY 4.0</div>
       </div>
-    </div>
-  </div>
+    </footer>
 
-  <!--Footer-->
-  <footer class="page-footer text-center font-small mdb-color darken-2 mt-5 fadeIn">
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script src="https://code.highcharts.com/highcharts.js"></script>
+    <script>
+      const PALETTE = ["#0b8bee", "#ffcd00", "#04385f", "#3ca2f1", "#096fbe", "#9dd1f8", "#6db9f5", "#021c30"];
+      Highcharts.setOptions({ colors: PALETTE });
 
-    <!--Copyright-->
-    <div class="footer-copyright py-5">
-      <p><a href="https://researchmap.jp/nakamura.satoru/?lang=english">Satoru Nakamura</a>. <a href="http://creativecommons.org/publicdomain/zero/1.0/">CC0</a>.</p>
-    </div>
-    <!--/.Copyright-->
+      function getParam() {
+        const vars = {};
+        const params = location.search.substring(1).split("&");
+        params.forEach((p) => {
+          const idx = p.indexOf("=");
+          if (idx > 0) vars[p.slice(0, idx)] = decodeURIComponent(p.slice(idx + 1));
+        });
+        return vars;
+      }
 
-  </footer>
-  <!--/.Footer-->
+      $(async function () {
+        const vars = getParam();
+        const url = vars["collection"] || "https://nakamura196.github.io/portal_pro/data/collection.json";
 
-  <script
-  src="//code.jquery.com/jquery-3.3.1.min.js"
-  integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8="
-  crossorigin="anonymous"></script>
+        try {
+          const collection = await $.ajax({ url });
+          const subCollections = collection["collections"] || [];
 
-  <script src="//maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"
-  integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl"
-  crossorigin="anonymous"></script>
+          const tally = {};
+          await Promise.all(
+            subCollections.map(async (sub) => {
+              try {
+                const data = await $.ajax({ url: sub["@id"] });
+                const label = typeof sub["label"] === "string" ? sub["label"] : (sub["label"] && sub["label"]["@value"]) || "(unlabeled)";
+                tally[label] = (data["manifests"] || []).length;
+              } catch (_) {}
+            })
+          );
 
-  <script src="//code.highcharts.com/highcharts.js"></script>
-
-  <script>
-
-    jQuery(document).ready(function() {
-
-      //パラメータの取得
-      var vars = getParam();
-      var url = vars["collection"] ? vars["collection"] : 'https://nakamura196.github.io/portal_pro/data/collection.json'
-
-      $.ajax({
-        url: url,
-        async : false
-      })
-      .then(
-      // 1つめは通信成功時のコールバック
-      function (result) {
-
-        collections = result["collections"]
-
-        var tmp = {}
-
-        for(var i = 0; i < collections.length; i++){
-          var collection = collections[i]
-
-          var label = collection["label"]
-
-          $.ajax({
-            url:collection["@id"],
-            async : false
-          })
-          .done(function(data){
-            tmp[label] = data["manifests"].length
-          })
-
-        }
-
-        var map = {}
-        map["Attribution"] = tmp
-
-        count = 0
-        for(var v in map){
-
-          histgram = map[v]
-
-          count += 1
-
-          var card = $('<div class="card mb-5">')
-            $("#main").append(card)
-
-            var body = $('<div class="card-body">');
-              card.append(body)
-
-              body.append($("<div id='container_"+count+"'>"))
-
-                keysSorted = Object.keys(histgram).sort(function(a,b){return histgram[b]-histgram[a]})
-                keys = []
-                values = []
-
-                var max = keysSorted.length
-
-                var other = 0
-
-                if(max > 50){
-                  for(j = 0; j < max; j++){
-                    var c = histgram[keysSorted[j]]
-                    if(c > 10){
-                      keys.push(keysSorted[j])
-                      values.push(c)
-                    } else {
-                      other += c
-                    }
-                  }
-
-                  keys.push("その他")
-                  values.push(other)
-
-                } else {
-                  for(j = 0; j < max; j++){
-                    var c = histgram[keysSorted[j]]
-                    keys.push(keysSorted[j])
-                    values.push(c)
-                  }
-                }
-
-                Highcharts.chart('container_'+count, {
-                  chart: {
-                    type: 'bar'
-                  },
-                  title: {
-                    text: v
-                  },
-                  xAxis: {
-                    categories: keys,
-                    title: {
-                      text: null
-                    }
-                  },
-                  yAxis: {
-                    min: 0,
-                    title: {
-                      text: 'Number of items',
-                      align: 'high'
-                    },
-                    labels: {
-                      overflow: 'justify'
-                    }
-                  },
-                  tooltip: {
-                    valueSuffix: ' items'
-                  },
-                  plotOptions: {
-                    bar: {
-                      dataLabels: {
-                        enabled: true
-                      }
-                    },
-                    series: {
-                      cursor: 'pointer'
-                    }
-                  },
-                  legend: {
-                    layout: 'vertical',
-                    align: 'right',
-                    verticalAlign: 'top',
-                    x: -40,
-                    y: 80,
-                    floating: true,
-                    borderWidth: 1,
-                    backgroundColor: ((Highcharts.theme && Highcharts.theme.legendBackgroundColor) || '#FFFFFF'),
-                    shadow: true
-                  },
-                  credits: {
-                    enabled: false
-                  },
-                  series: [{
-                    name: 'Item',
-                    data: values
-                  }]
-                });
-              }
-
-
-            },
-            // 2つめは通信失敗時のコールバック
-            function () {
-              alert(data.statusText);
-            }
-            ).always(function() {
-              $("#loading").empty()
+          const keysSorted = Object.keys(tally).sort((a, b) => tally[b] - tally[a]);
+          let keys = [], values = [], other = 0;
+          if (keysSorted.length > 50) {
+            keysSorted.forEach((k) => {
+              if (tally[k] > 10) { keys.push(k); values.push(tally[k]); }
+              else other += tally[k];
             });
-
-          })
-
-          function getParam(){
-            var vars = {};
-            var param = location.search.substring(1).split('&');
-            for(var i = 0; i < param.length; i++) {
-              var keySearch = param[i].search(/=/);
-              var key = '';
-              if(keySearch != -1) key = param[i].slice(0, keySearch);
-              var val = param[i].slice(param[i].indexOf('=', 0) + 1);
-              if(key != '') vars[key] = decodeURI(val);
-            }
-            return vars;
+            keys.push("その他"); values.push(other);
+          } else {
+            keysSorted.forEach((k) => { keys.push(k); values.push(tally[k]); });
           }
 
-        </script>
+          Highcharts.chart("chart", {
+            chart: { type: "bar", backgroundColor: "transparent" },
+            title: { text: "" },
+            xAxis: { categories: keys, title: { text: null } },
+            yAxis: { min: 0, title: { text: "Number of manifests", align: "high" }, labels: { overflow: "justify" } },
+            tooltip: { valueSuffix: " manifests" },
+            plotOptions: { bar: { dataLabels: { enabled: true } } },
+            legend: { enabled: false },
+            credits: { enabled: false },
+            series: [{ name: "Manifests", data: values }],
+          });
 
-      </body>
-      </html>
+          $("#loading").remove();
+        } catch (e) {
+          $("#loading").text("読み込みに失敗しました: " + (e && e.statusText ? e.statusText : e));
+        }
+      });
+    </script>
+  </body>
+</html>

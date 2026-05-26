@@ -1,0 +1,146 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://nakamura196.github.io/portal_pro/usage/agriculture/manifest-v3.json",
+  "type": "Manifest",
+  "label": {
+    "ja": [
+      "東京帝國大學本部構内及農學部建物鳥瞰圖"
+    ]
+  },
+  "summary": {
+    "ja": [
+      "枠外に「東京印刷株式會社印売」とあり"
+    ]
+  },
+  "thumbnail": [
+    {
+      "id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/files/medium/3ddcfb47a3e077e5a6e21f41187a4e81b714a62d.jpg",
+      "type": "Image",
+      "format": "image/jpeg"
+    }
+  ],
+  "rights": "https://www.lib.u-tokyo.ac.jp/ja/library/contents/archives-top/reuse",
+  "requiredStatement": {
+    "label": {
+      "ja": [
+        "所蔵"
+      ],
+      "en": [
+        "Held by"
+      ]
+    },
+    "value": {
+      "ja": [
+        "東京大学農学生命科学研究科・農学部"
+      ],
+      "en": [
+        "Graduate School of Agricultural and Life Sciences / Faculty of Agriculture, The University of Tokyo"
+      ]
+    }
+  },
+  "provider": [
+    {
+      "id": "https://www.a.u-tokyo.ac.jp/",
+      "type": "Agent",
+      "label": {
+        "ja": [
+          "東京大学農学生命科学研究科・農学部"
+        ],
+        "en": [
+          "Graduate School of Agricultural and Life Sciences / Faculty of Agriculture, The University of Tokyo"
+        ]
+      },
+      "logo": [
+        {
+          "id": "https://iiif.dl.itc.u-tokyo.ac.jp/images/ut-logo.jpg",
+          "type": "Image",
+          "format": "image/jpeg"
+        }
+      ],
+      "homepage": [
+        {
+          "id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/s/agriculture/",
+          "type": "Text",
+          "label": {
+            "ja": [
+              "コレクションページ"
+            ],
+            "en": [
+              "Collection page"
+            ]
+          },
+          "format": "text/html"
+        }
+      ]
+    }
+  ],
+  "homepage": [
+    {
+      "id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/s/agriculture/document/187cc82d-11e6-9912-9dd4-b4cca9b10970",
+      "type": "Text",
+      "label": {
+        "ja": [
+          "詳細ページ"
+        ],
+        "en": [
+          "Item page"
+        ]
+      },
+      "format": "text/html"
+    }
+  ],
+  "seeAlso": [
+    {
+      "id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/api/items/275042",
+      "type": "Dataset",
+      "format": "application/json"
+    }
+  ],
+  "items": [
+    {
+      "id": "https://nakamura196.github.io/portal_pro/usage/agriculture/manifest-v3.json/canvas/p1",
+      "type": "Canvas",
+      "label": {
+        "ja": [
+          "東京帝國大學本部構内及農學部建物鳥瞰圖"
+        ]
+      },
+      "width": 18415,
+      "height": 12911,
+      "items": [
+        {
+          "id": "https://nakamura196.github.io/portal_pro/usage/agriculture/manifest-v3.json/canvas/p1/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://nakamura196.github.io/portal_pro/usage/agriculture/manifest-v3.json/canvas/p1/page/anno-image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/agriculture_re/nou_tatemonochokanzu/0002.tif/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "width": 18415,
+                "height": 12911,
+                "service": [
+                  {
+                    "id": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/agriculture_re/nou_tatemonochokanzu/0002.tif",
+                    "type": "ImageService2",
+                    "profile": "level2"
+                  }
+                ]
+              },
+              "target": "https://nakamura196.github.io/portal_pro/usage/agriculture/manifest-v3.json/canvas/p1"
+            }
+          ]
+        }
+      ],
+      "annotations": [
+        {
+          "id": "https://nakamura196.github.io/portal_pro/usage/agriculture/annotations.json",
+          "type": "AnnotationPage"
+        }
+      ]
+    }
+  ]
+}

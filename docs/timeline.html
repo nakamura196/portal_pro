@@ -1,304 +1,292 @@
----
-title: Timeline
-layout: default
----
+<!doctype html>
+<html lang="ja">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>東京大学の名称 (年表) | UTokyo Digital Archive Portal Apps</title>
+    <meta name="description" content="開成学校から現在の東京大学まで、5期にわたる名称の変遷を年表で表示します。" />
+    <meta name="theme-color" content="#0b8bee" />
+    <link rel="canonical" href="https://nakamura196.github.io/portal_pro/timeline.html" />
 
-<!--Main layout-->
-<div class="py-5 bg-light">
-  <div class="container">
+    <link rel="icon" type="image/svg+xml" href="./favicon.svg" />
+    <link rel="icon" type="image/x-icon" href="./favicon.ico" sizes="any" />
+    <link rel="apple-touch-icon" href="./apple-touch-icon.png" />
 
-    <h2 class="mb-4">Timeline</h2>
+    <meta property="og:type" content="website" />
+    <meta property="og:site_name" content="UTokyo Digital Archive Portal Apps" />
+    <meta property="og:title" content="東京大学の名称 (年表) | UTokyo Digital Archive Portal Apps" />
+    <meta property="og:description" content="開成学校から現在の東京大学まで、5期にわたる名称の変遷を年表で表示します。" />
+    <meta property="og:url" content="https://nakamura196.github.io/portal_pro/timeline.html" />
+    <meta property="og:image" content="https://nakamura196.github.io/portal_pro/ogp.png" />
+    <meta property="og:image:width" content="1200" />
+    <meta property="og:image:height" content="630" />
+    <meta name="twitter:card" content="summary_large_image" />
 
-    <form class="mb-5">
-      <div class="form-group row">
-        <label for="staticEmail" class="col-sm-2 col-form-label">Keyword</label>
-        <div class="col-sm-10">
-          <input type="text" class="form-control" id="q" name="q" placeholder="Wikipediaの概要に含む">
-        </div>
-      </div>
+    <link
+      rel="stylesheet"
+      href="https://cdn.jsdelivr.net/gh/nakamura196/react-ui@v0.4.0/src/styles/static.css"
+    />
 
-      <div class="form-group row">
-        <label for="inputPassword" class="col-sm-2 col-form-label">Type</label>
-        <div class="col-sm-10">
-          <select class="form-control" name="type" id="type">
-          </select>
-        </div>
-      </div>
-
-      <div class="form-group row">
-        <label for="inputPassword" class="col-sm-2 col-form-label">Language</label>
-        <div class="col-sm-10">
-          <select class="form-control" name="lang" id="lang">
-            <option value="ja">日本語</option>
-            <option value="en">English</option>
-          </select>
-        </div>
-      </div>
-      <button type="submit" class="btn btn-primary">Submit</button>
-    </form>
-
-    <div class="text-center" id="loading">
-      <img src="assets/images/loading.gif" class="img-fluid"/>
-    </div>
-
-    <!--Card-->
-    <div class="card">
-      <!--Card content-->
-      <div class="card-body">
-        <div id="my-timeline"></div>
-      </div>
-
-    </div>
-
-  </div>
-</div>
-<!--Main layout-->
-
-
-<script type="text/javascript"
-src="assets/thirdparty/TimelineJS/js/storyjs-embed.js"></script>
-
-<script type="text/javascript"
-src="assets/thirdparty/TimelineJS/js/site.js"></script>
-
-<script>
-  var resourceUri = "${resourceUri}";
-
-  var arg = getParam()
-  var q = arg["q"] != null ? arg["q"] : "";
-  if(q != ""){
-    $("#q").val(q)
-  }
-  var lang = arg["lang"] != null ? arg["lang"] : "ja"
-  $("#lang").val(lang)
-
-  var type = arg["type"] != null ? arg["type"] : "person"
-
-  var map = {}
-  map["person"] = {
-    label: "Person",
-    type: "http://schema.org/Person",
-    p: "http://schema.org/contributor"
-  }
-  map["event"] = {
-    label: "Event",
-    type: "http://schema.org/Event",
-    p: "http://schema.org/temporal"
-  }
-
-  // Select
-  for(var key in map){
-    var option = $("<option>")
-      option.append(map[key]["label"])
-      $("#type").append(option)
-      option.attr("value", key)
-
-      if(key == type){
-        option.attr("selected", "selected")
+    <style>
+      .tl-track {
+        position: relative;
+        height: 64px;
+        margin: 2rem 0 1.5rem;
+        background: var(--ds-surface);
+        border: 1px solid var(--ds-border);
+        border-radius: 999px;
+        overflow: visible;
       }
-    }
+      .tl-bar {
+        position: absolute;
+        top: 8px;
+        bottom: 8px;
+        background: linear-gradient(135deg, #04385f 0%, #0b8bee 100%);
+        border-radius: 999px;
+        color: #fff;
+        font-family: var(--ds-font-serif);
+        font-size: 0.85rem;
+        line-height: 1;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        padding: 0 0.5rem;
+        overflow: hidden;
+        white-space: nowrap;
+        text-overflow: ellipsis;
+        cursor: default;
+        transition: transform 0.15s ease;
+      }
+      .tl-bar:hover { transform: translateY(-2px); }
+      .tl-bar.is-current { background: linear-gradient(135deg, #096fbe 0%, #ffcd00 100%); color: #04385f; font-weight: 700; }
 
-    jQuery(document).ready(function() {
-      jQuery.ajaxSetup({
-        cache : false
+      .tl-axis {
+        position: relative;
+        margin-bottom: 1rem;
+        height: 24px;
+        font-size: 0.75rem;
+        color: var(--ds-fg-muted);
+      }
+      .tl-axis__tick {
+        position: absolute;
+        transform: translateX(-50%);
+        white-space: nowrap;
+        padding-top: 4px;
+        border-left: 1px solid var(--ds-border);
+        height: 20px;
+      }
+      .tl-axis__tick > span {
+        position: absolute;
+        top: 6px;
+        left: 4px;
+      }
+
+      .tl-list {
+        display: grid;
+        grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
+        gap: 0.75rem;
+        margin-top: 2rem;
+      }
+      .tl-item {
+        background: var(--ds-surface);
+        border: 1px solid var(--ds-border);
+        border-radius: var(--ds-radius, 0.5rem);
+        padding: 1rem;
+      }
+      .tl-item__period {
+        font-size: 0.8rem;
+        color: var(--ds-fg-muted);
+        margin: 0 0 0.25rem;
+        font-family: var(--ds-font-sans);
+      }
+      .tl-item__name {
+        font-family: var(--ds-font-serif);
+        font-weight: 600;
+        font-size: 1.1rem;
+        margin: 0 0 0.25rem;
+        color: var(--ds-fg);
+      }
+      .tl-item__duration {
+        font-size: 0.8rem;
+        color: var(--ds-primary);
+        font-weight: 500;
+      }
+      .tl-item.is-current { border-color: var(--ds-accent); }
+      .tl-item.is-current .tl-item__name::after {
+        content: "現在";
+        font-size: 0.7rem;
+        padding: 0.1rem 0.4rem;
+        background: var(--ds-accent);
+        color: #04385f;
+        border-radius: 999px;
+        margin-left: 0.5rem;
+        font-weight: 700;
+        vertical-align: middle;
+      }
+      :root.dark .tl-item.is-current .tl-item__name::after,
+      :root:not(.light) .tl-item.is-current .tl-item__name::after { color: #04385f; }
+    </style>
+  </head>
+  <body>
+    <header class="ds-header">
+      <div class="ds-header__inner">
+        <a class="ds-header__brand" href="./">UTokyo Digital Archive Portal Apps</a>
+        <nav class="ds-header__nav">
+          <a class="ds-header__nav-link" href="./">Home</a>
+          <a class="ds-header__nav-link" href="https://github.com/nakamura196/portal_pro" target="_blank" rel="noopener">GitHub</a>
+        </nav>
+      </div>
+    </header>
+
+    <main class="ds-container ds-section">
+      <h1 class="ds-h1">東京大学の名称 (年表)</h1>
+      <p class="ds-lead">
+        1868年の開成学校から現在の東京大学まで、5期にわたる名称の変遷を年表で表示します。データは <a href="./data/timeline.json">data/timeline.json</a> (静的) を読み込みます。
+      </p>
+
+      <section class="ds-card" aria-labelledby="tl-heading">
+        <h2 id="tl-heading" class="ds-card__title">年表</h2>
+        <div id="tl-axis" class="tl-axis" aria-hidden="true"></div>
+        <div id="tl-track" class="tl-track" role="list" aria-label="名称の変遷"></div>
+        <div id="tl-list" class="tl-list"></div>
+      </section>
+    </main>
+
+    <footer class="ds-footer">
+      <div class="ds-footer__inner">
+        <div class="ds-footer__grid">
+          <div>
+            <p class="ds-footer__brand">UTokyo Digital Archive Portal Apps</p>
+            <p class="ds-footer__brand-desc">東京大学デジタルアーカイブポータルAPIの活用例集。</p>
+          </div>
+          <div class="ds-footer__col">
+            <h2 class="ds-footer__heading">関連リンク</h2>
+            <ul class="ds-footer__list">
+              <li><a class="ds-footer__link" href="./">Home</a></li>
+              <li><a class="ds-footer__link" href="https://github.com/nakamura196/portal_pro" target="_blank" rel="noopener">GitHub</a></li>
+              <li><a class="ds-footer__link" href="https://nakamura196.github.io/portfolio/" target="_blank" rel="noopener noreferrer">nakamura196 の他のツール</a></li>
+            </ul>
+          </div>
+        </div>
+        <div class="ds-footer__copyright">© 2019–2026 nakamura196 · CC BY 4.0</div>
+      </div>
+    </footer>
+
+    <script>
+      const ICAL = "http://www.w3.org/2002/12/cal/icaltzd#";
+
+      function parseDate(s) {
+        if (!s) return null;
+        const parts = s.split("-").map(Number);
+        return { year: parts[0], month: parts[1] || 1, day: parts[2] || 1 };
+      }
+
+      function dateToFloat(d) {
+        if (!d) return null;
+        return d.year + (d.month - 1) / 12 + (d.day - 1) / 365;
+      }
+
+      function formatDate(s) {
+        const d = parseDate(s);
+        if (!d) return "?";
+        if (!s.includes("-")) return d.year + "年";
+        const parts = s.split("-");
+        if (parts.length === 2) return d.year + "年" + d.month + "月";
+        return d.year + "年" + d.month + "月" + d.day + "日";
+      }
+
+      function durationYears(start, end) {
+        if (!start || !end) return null;
+        return Math.max(0, dateToFloat(end) - dateToFloat(start));
+      }
+
+      function fmtDuration(years) {
+        if (years == null) return "";
+        if (years < 1) return Math.round(years * 12) + "ヶ月";
+        const y = Math.floor(years);
+        const m = Math.round((years - y) * 12);
+        return y + "年" + (m > 0 ? m + "ヶ月" : "");
+      }
+
+      async function init() {
+        const res = await fetch("./data/timeline.json");
+        const rows = await res.json();
+
+        const items = rows
+          .filter((r) => r[ICAL + "summary"])
+          .map((r) => ({
+            id: r["@id"],
+            order: (r["http://ndl.go.jp/dcndl/terms/localCallNumber"] || [{}])[0]["@value"] || 0,
+            summary: r[ICAL + "summary"][0]["@value"],
+            start: r[ICAL + "dtstart"][0]["@value"],
+            end: r[ICAL + "dtend"][0]["@value"],
+          }))
+          .sort((a, b) => Number(a.order) - Number(b.order));
+
+        const minF = Math.min(...items.map((i) => dateToFloat(parseDate(i.start))));
+        const maxF = Math.max(...items.map((i) => dateToFloat(parseDate(i.end))));
+        const range = maxF - minF;
+
+        // Render axis ticks every 25 years
+        const axis = document.getElementById("tl-axis");
+        const startYear = Math.floor(minF / 25) * 25;
+        const endYear = Math.ceil(maxF / 25) * 25;
+        for (let y = startYear; y <= endYear; y += 25) {
+          if (y < minF - 1 || y > maxF + 1) continue;
+          const tick = document.createElement("div");
+          tick.className = "tl-axis__tick";
+          const left = ((y - minF) / range) * 100;
+          tick.style.left = left + "%";
+          tick.innerHTML = "<span>" + y + "</span>";
+          axis.appendChild(tick);
+        }
+
+        // Render bars on track
+        const track = document.getElementById("tl-track");
+        const today = new Date();
+        const currentFloat = today.getFullYear() + today.getMonth() / 12;
+        items.forEach((item) => {
+          const sF = dateToFloat(parseDate(item.start));
+          const eF = dateToFloat(parseDate(item.end));
+          const left = ((sF - minF) / range) * 100;
+          const width = ((eF - sF) / range) * 100;
+
+          const bar = document.createElement("div");
+          bar.className = "tl-bar";
+          if (eF >= currentFloat - 10) bar.classList.add("is-current");
+          bar.style.left = left + "%";
+          bar.style.width = width + "%";
+          bar.textContent = item.summary;
+          bar.title = `${item.summary} (${formatDate(item.start)} – ${formatDate(item.end)})`;
+          bar.setAttribute("role", "listitem");
+          track.appendChild(bar);
+        });
+
+        // Render list cards
+        const list = document.getElementById("tl-list");
+        items.forEach((item) => {
+          const sF = dateToFloat(parseDate(item.start));
+          const eF = dateToFloat(parseDate(item.end));
+          const dur = durationYears(parseDate(item.start), parseDate(item.end));
+          const li = document.createElement("article");
+          li.className = "tl-item";
+          if (eF >= currentFloat - 10) li.classList.add("is-current");
+          li.innerHTML = `
+            <p class="tl-item__period"></p>
+            <h3 class="tl-item__name"></h3>
+            <p class="tl-item__duration"></p>
+          `;
+          li.querySelector(".tl-item__period").textContent = `${formatDate(item.start)} 〜 ${formatDate(item.end)}`;
+          li.querySelector(".tl-item__name").textContent = item.summary;
+          li.querySelector(".tl-item__duration").textContent = fmtDuration(dur);
+          list.appendChild(li);
+        });
+      }
+
+      init().catch((e) => {
+        document.getElementById("tl-list").innerHTML =
+          '<p class="ds-error">データの読み込みに失敗しました: ' + (e && e.message ? e.message : e) + "</p>";
       });
-
-      getTimeline();
-
-    });
-
-    //タイムライン
-    function getTimeline(flag) {
-
-      $("#my-timeline").empty();
-
-      var query = " select distinct ?s ?label ?thumb ?bd ?dd ?comment count(distinct ?item) as ?c \n";
-      query += " where { \n";
-      query += " ?s <http://dbpedia.org/ontology/thumbnail> ?thumb . \n";
-      if(type == "person"){
-        query += " ?s <http://dbpedia.org/ontology/birthDate> ?bd . \n";
-        query += " ?s <http://dbpedia.org/ontology/deathDate> ?dd . \n";
-      } else {
-        query += " ?s <http://dbpedia.org/ontology/date> ?bd . \n";
-        query += " ?s <http://dbpedia.org/ontology/date> ?dd . \n";
-      }
-      query += " ?s rdf:type <"+map[type]["type"]+"> . \n";
-      query += " ?item <"+map[type]["p"]+"> ?s . \n";
-
-      query += " ?s rdfs:comment ?comment . \n";
-      query += " filter (lang(?comment) = \""+lang+"\" ) . \n"
-      if(q != ""){
-        query += " ?comment bif:contains '\""+q+"\"' . \n"
-      }
-      query += " ?s rdfs:label ?label . \n";
-      query += " filter (lang(?label) = \""+lang+"\" ) . \n"
-
-      query += " } ";
-
-      var array = new Array();
-
-      $.ajax({
-        url:'https://sparql.dl.itc.u-tokyo.ac.jp',
-        type:'POST',
-        data:{
-          query : query,
-          format : "json"
-        }
-      })
-      // Ajaxリクエストが成功した時発動
-      .done( (data) => {
-
-        var result = data.results.bindings;
-
-        var result2 = new Object()
-        for (var i = 0; i < result.length; i++) {
-          var obj = result[i]
-          var s = obj.s.value;
-          if(!result2[s]){
-            result2[s] = obj
-          }
-        }
-
-        result = new Array()
-        for(var s in result2){
-          result.push(result2[s])
-        }
-
-        var dataObject = arrangeJson4Timeline2(result);
-
-        //空じゃなければ
-        if (dataObject.timeline.date.length != 0) {
-          createStoryJS({
-            type : 'timeline',
-            width : '100%',
-            height : '600',
-            source : dataObject,
-            embed_id : 'my-timeline',
-            lang : 'en'
-          });
-        }
-      })
-      // Ajaxリクエストが失敗した時発動
-      .fail( (data) => {
-        alert(data.statusText);
-      })
-      // Ajaxリクエストが成功・失敗どちらでも発動
-      .always( (data) => {
-        $("#loading").empty()
-      });
-
-    }
-
-    function arrangeJson4Timeline2(data) {
-
-      var result = new Object();
-
-      var timeline = new Object();
-      result["timeline"] = timeline;
-
-      timeline["headline"] = "";
-      timeline["type"] = "default";
-      timeline["text"] = "";
-
-      var array = new Array();
-      timeline["date"] = array;
-
-      for (var i = 0; i < data.length; i++) {
-
-        var obj = data[i];
-
-        var s = obj.s.value;
-
-        var title = obj.label.value
-
-        var bd = obj.bd.value;
-        var dd = obj.dd.value;
-
-        var description = obj.s.value;
-
-        var creator = obj.s.value;
-
-        //--------------------------------
-
-        var event = new Object();//一要素
-        array.push(event);
-
-        //--------------------------------
-
-        event["startDate"] = bd.replace(/-/g, ",");
-        event["endDate"] = dd.replace(/-/g, ",");
-
-        //---------------------------------
-
-        event["headline"] = title;
-
-        //----------------------------------
-
-        //表示情報
-        var div = $("<div>");
-
-          var p = $("<p>");
-            div.append(p);
-            p.append(obj.comment.value)
-
-            //----------------------------------
-
-            var thumb = obj.thumb;
-            if (thumb != null) {
-
-              //ASSET
-
-              var thumb = obj.thumb.value;
-
-              var asset = new Object();
-
-
-              asset.media = thumb;
-              asset.thumbnail = thumb;
-
-              event["asset"] = asset;
-
-            }
-
-            var query = " select distinct ?title ?s ?label ?provider ?image where { \n"
-            query += " ?s <"+map[type]["p"]+"> ?entity . \n";
-            query += " ?entity rdf:type <"+map[type]["type"]+"> . \n";
-            query += " filter (?entity = <" +s+ "> ) .  \n"
-            query += " ?entity rdfs:label ?label .  \n"
-            query += " filter (lang(?label) = \""+lang+"\") .  \n"
-            query += " optional { ?s foaf:thumbnail ?image . } \n"
-            query += " ?s dcterms:title ?title. \n"
-            query += " ?s dcndl:digitizedPublisher ?provider . \n"
-            query += " filter (lang(?provider) = \""+lang+"\") . \n"
-            query += " }"
-
-            var a = $("<a>");
-              div.append(a)
-              var url = "https://nakamura196.github.io/portal_pro/snorql/?query="+encodeURIComponent(query)
-
-              a.append('View '+obj.c.value+' items &raquo;')
-              a.attr("href", url)
-              a.attr("target", "snorql");
-
-              //----------------------------------
-
-              var spanStr = $('<div>').append(div.clone()).html();
-                event["text"] = spanStr;
-
-              }
-
-              return result;
-            }
-
-            function getParam(){
-              var arg = new Object;
-              url = location.search.substring(1).split('&');
-
-              for(i=0; url[i]; i++) {
-                var k = url[i].split('=');
-                arg[k[0]] = decodeURIComponent(k[1]);
-              }
-
-              return arg
-            }
-          </script>
+    </script>
+  </body>
+</html>
