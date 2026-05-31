@@ -170,6 +170,26 @@
         margin: 0 0 0.5rem;
       }
 
+      /* 解説動画の埋め込み (16:9 レスポンシブ) */
+      .video-embed {
+        position: relative;
+        width: 100%;
+        max-width: 720px;
+        aspect-ratio: 16 / 9;
+        margin: 1rem 0 0;
+        border-radius: var(--ds-radius, 0.5rem);
+        overflow: hidden;
+        background: #000;
+        border: 1px solid var(--ds-border);
+      }
+      .video-embed iframe {
+        position: absolute;
+        inset: 0;
+        width: 100%;
+        height: 100%;
+        border: 0;
+      }
+
       /* 廃止情報の注意ボックス — UTokyo Yellow をアクセントに */
       .notice {
         border-left: 4px solid var(--ds-accent);
@@ -240,42 +260,39 @@
         <a href="https://da.dl.itc.u-tokyo.ac.jp/portal/" target="_blank" rel="noopener">東京大学デジタルアーカイブポータル</a>が提供するAPIを活用した可視化・IIIF・3D・AR・WebGLのデモ集です。
       </p>
 
-      <section
-        id="newsSection"
-        class="ds-card"
-        aria-labelledby="news-heading"
-        style="margin-bottom: 1.5rem; border-left: 4px solid var(--ds-primary);"
-      >
-        <h2 id="news-heading" class="ds-card__title" data-i18n="newsTitle">
-          お知らせ
-        </h2>
-        <ul style="margin: 0.5rem 0 0; padding-left: 1.25rem; line-height: 1.7;">
-          <li>
-            <strong>2026-05-27</strong>
-            <span data-i18n="news_redesign">
-              — デザインを刷新し、動作しなくなったデモを整理しました。多言語対応(日本語 / 英語)を追加。
-            </span>
-          </li>
-          <li>
-            <strong>2026-05-27</strong>
-            <span data-i18n="news_sparql">
-              — SPARQLエンドポイント(<code>sparql.dl.itc.u-tokyo.ac.jp</code>)とSnorqlの停止に伴い、依存していたデモを撤去しました。puzzleはIIIFのみで動作するように、timelineは静的データで動作するように再構成しました。
-            </span>
-          </li>
-          <li>
-            <strong>2019-02-07</strong>
-            <span data-i18n="news_launch">
-              — UTokyo Academic Archives Portal Apps として公開しました。
-            </span>
-          </li>
-        </ul>
-      </section>
-
-      <div class="notice" data-i18n-html="serviceNotice">
-        <strong>サービス停止のお知らせ:</strong>
-        以前提供していたSPARQLエンドポイントとSnorqlは停止しています。これらに依存していた可視化デモ(calendar / map / matrix / providers / freq など)はリポジトリから整理しました。
-        履歴は <a href="https://github.com/nakamura196/portal_pro/commits/master" target="_blank" rel="noopener">git log</a> から参照できます。
+      <!-- 解説動画 / Tutorial video -->
+      <h2 class="section-heading" data-i18n="catVideoTitle">解説動画</h2>
+      <p class="section-sub" data-i18n-html="catVideoDesc">
+        全16デモの使い方をナレーションで案内します。章ごとの解説や掛け合い版は <a href="https://tech.ldas.jp/ja/tutorials/portal-pro/" target="_blank" rel="noopener">チュートリアルページ</a> をご覧ください。
+      </p>
+      <div class="video-embed" id="videoEmbed">
+        <iframe
+          id="videoEmbedFrame"
+          src="https://www.youtube-nocookie.com/embed/f8nNy4n9mhw?cc_load_policy=1&cc_lang_pref=ja&hl=ja&enablejsapi=1"
+          title="UTokyo Digital Archive Portal Apps — ナレーション解説"
+          loading="lazy"
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+          referrerpolicy="strict-origin-when-cross-origin"
+          allowfullscreen
+        ></iframe>
       </div>
+
+      <!-- お知らせ / Announcements -->
+      <h2 class="section-heading" data-i18n="newsTitle">お知らせ</h2>
+      <ul class="ds-stack" style="margin: 0; padding-left: 1.25rem; line-height: 1.7;">
+        <li>
+          <strong>2026-05-27</strong>
+          <span class="ds-muted" data-i18n-html="news_redesign">
+            — デザインを刷新し、多言語対応(日本語 / 英語)を追加。SPARQLエンドポイント(<code>sparql.dl.itc.u-tokyo.ac.jp</code>)とSnorqlの停止に伴い、依存していたデモを整理し、puzzleはIIIFのみ・timelineは静的データで動作するよう再構成しました。
+          </span>
+        </li>
+        <li>
+          <strong>2019-02-07</strong>
+          <span class="ds-muted" data-i18n="news_launch">
+            — UTokyo Academic Archives Portal Apps として公開しました。
+          </span>
+        </li>
+      </ul>
 
       <!-- 可視化 / Visualization -->
       <h2 class="section-heading" data-i18n="catVisTitle">可視化</h2>
@@ -647,10 +664,13 @@
           langSwitchLabel: "言語",
           navPortal: "ポータル",
           newsTitle: "お知らせ",
-          news_redesign: "— デザインを刷新し、動作しなくなったデモを整理しました。多言語対応(日本語 / 英語)を追加。",
-          news_sparql: "— SPARQLエンドポイント(<code>sparql.dl.itc.u-tokyo.ac.jp</code>)とSnorqlの停止に伴い、依存していたデモを撤去しました。puzzleはIIIFのみで動作するように、timelineは静的データで動作するように再構成しました。",
+          news_redesign: "— デザインを刷新し、多言語対応(日本語 / 英語)を追加。SPARQLエンドポイント(<code>sparql.dl.itc.u-tokyo.ac.jp</code>)とSnorqlの停止に伴い、依存していたデモを整理し、puzzleはIIIFのみ・timelineは静的データで動作するよう再構成しました。",
           news_launch: "— UTokyo Academic Archives Portal Apps として公開しました。",
-          serviceNotice: '<strong>サービス停止のお知らせ:</strong> 以前提供していたSPARQLエンドポイントとSnorqlは停止しています。これらに依存していた可視化デモ(calendar / map / matrix / providers / freq など)はリポジトリから整理しました。履歴は <a href="https://github.com/nakamura196/portal_pro/commits/master" target="_blank" rel="noopener">git log</a> から参照できます。',
+          catVideoTitle: "解説動画",
+          catVideoDesc:
+            '全16デモの使い方をナレーションで案内します。章ごとの解説や掛け合い版は <a href="https://tech.ldas.jp/ja/tutorials/portal-pro/" target="_blank" rel="noopener">チュートリアルページ</a> をご覧ください。',
+          videoId: "f8nNy4n9mhw",
+          videoTitle: "UTokyo Digital Archive Portal Apps — ナレーション解説",
           catVisTitle: "可視化",
           catVisDesc: "アーカイブズ資料を切り口にした静的可視化のデモ。",
           catIiifTitle: "IIIF コレクション",
@@ -711,10 +731,13 @@
           langSwitchLabel: "Language",
           navPortal: "Portal",
           newsTitle: "Announcements",
-          news_redesign: "— Redesigned the site, cleaned up broken demos, and added bilingual (Japanese / English) support.",
-          news_sparql: "— Following the shutdown of the SPARQL endpoint (<code>sparql.dl.itc.u-tokyo.ac.jp</code>) and Snorql, dependent demos were removed. puzzle now runs on IIIF only, and timeline now runs on static data.",
+          news_redesign: "— Redesigned the site and added bilingual (Japanese / English) support. Following the shutdown of the SPARQL endpoint (<code>sparql.dl.itc.u-tokyo.ac.jp</code>) and Snorql, dependent demos were cleaned up, and puzzle now runs on IIIF only while timeline runs on static data.",
           news_launch: "— Released as UTokyo Academic Archives Portal Apps.",
-          serviceNotice: '<strong>Service notice:</strong> The previously provided SPARQL endpoint and Snorql have been shut down. Visualization demos that depended on them (calendar / map / matrix / providers / freq, etc.) have been removed. History is available via <a href="https://github.com/nakamura196/portal_pro/commits/master" target="_blank" rel="noopener">git log</a>.',
+          catVideoTitle: "Tutorial video",
+          catVideoDesc:
+            'A narrated walkthrough touring all 16 demos. For a chapter-by-chapter guide and the dialogue version, see the <a href="https://tech.ldas.jp/en/tutorials/portal-pro/" target="_blank" rel="noopener">tutorial page</a>.',
+          videoId: "O3IbBvoi7jU",
+          videoTitle: "UTokyo Digital Archive Portal Apps — narrated walkthrough",
           catVisTitle: "Visualization",
           catVisDesc: "Static visualization demos using archive resources as their angle.",
           catIiifTitle: "IIIF Collections",
@@ -780,6 +803,80 @@
 
       let currentLang = detectLang();
 
+      // ---------- 解説動画 (YouTube nocookie + 字幕デフォルトON) ----------
+      // react-ui の VideoEmbed.tsx を踏襲: cc_load_policy=1 だけでは新プレイヤーに
+      // 無視されることがあるため、IFrame Player API で loadModule('captions') +
+      // setOption('captions','track',{languageCode}) を呼んで字幕を強制表示する。
+      const YT_API_SRC = "https://www.youtube.com/iframe_api";
+      let ytPlayer = null;
+      let ytApiCallbacks = [];
+
+      function loadYouTubeApi() {
+        return new Promise((resolve) => {
+          if (window.YT && window.YT.Player) return resolve(window.YT);
+          ytApiCallbacks.push(() => window.YT && resolve(window.YT));
+          const prev = window.onYouTubeIframeAPIReady;
+          window.onYouTubeIframeAPIReady = () => {
+            if (typeof prev === "function") prev();
+            const cbs = ytApiCallbacks;
+            ytApiCallbacks = [];
+            cbs.forEach((cb) => cb());
+          };
+          if (!document.querySelector('script[src="' + YT_API_SRC + '"]')) {
+            const tag = document.createElement("script");
+            tag.src = YT_API_SRC;
+            tag.async = true;
+            document.head.appendChild(tag);
+          }
+        });
+      }
+
+      function forceCaptions(lang) {
+        const frame = document.getElementById("videoEmbedFrame");
+        if (!frame) return;
+        loadYouTubeApi()
+          .then((YT) => {
+            const el = document.getElementById("videoEmbedFrame");
+            if (!el) return;
+            if (ytPlayer) {
+              try { ytPlayer.destroy(); } catch (_) {}
+              ytPlayer = null;
+            }
+            ytPlayer = new YT.Player(el, {
+              events: {
+                onReady: (e) => {
+                  try {
+                    e.target.loadModule("captions");
+                    e.target.loadModule("cc");
+                    e.target.setOption("captions", "track", { languageCode: lang });
+                    e.target.setOption("cc", "track", { languageCode: lang });
+                  } catch (_) {
+                    // 失敗しても字幕ボタンから手動で出せるので致命傷ではない
+                  }
+                },
+              },
+            });
+          })
+          .catch(() => {});
+      }
+
+      function mountVideo(lang) {
+        const dict = I18N[lang] || I18N.ja;
+        const frame = document.getElementById("videoEmbedFrame");
+        if (!frame || !dict.videoId) return;
+        const qs = new URLSearchParams({
+          cc_load_policy: "1",
+          cc_lang_pref: lang,
+          hl: lang,
+          enablejsapi: "1",
+        });
+        const src =
+          "https://www.youtube-nocookie.com/embed/" + dict.videoId + "?" + qs.toString();
+        if (frame.getAttribute("src") !== src) frame.setAttribute("src", src);
+        if (dict.videoTitle) frame.setAttribute("title", dict.videoTitle);
+        forceCaptions(lang);
+      }
+
       function applyI18n(lang) {
         const dict = I18N[lang] || I18N.ja;
         document.documentElement.lang = lang;
@@ -806,6 +903,8 @@
           btn.style.fontWeight = active ? "700" : "400";
           btn.setAttribute("aria-pressed", active ? "true" : "false");
         });
+
+        mountVideo(lang);
       }
 
       function setLang(lang) {
